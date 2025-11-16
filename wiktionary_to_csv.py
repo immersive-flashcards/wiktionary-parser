@@ -4,17 +4,27 @@ import pandas as pd
 from pathlib import Path
 
 
-INPUT_JSON = Path("aburrirse.jsonl")   # your pretty-printed Kaikki/Wiktextract file
-OUTPUT_CSV = Path("aburrirse_from_kaikki.csv")
+INFINITIVES_JSONL = Path("data/language-verb-dumps/es-infinitives.jsonl")
+OUTPUT_DIR = Path("data/verb-csvs/spanish")
+MAX_VERBS: int | None = 10  # max verbs to extract for quick tests, or None for all verbs
 
 
 def tense_key(tags):
     """Return a normalized key for tense/mood/aspect ignoring person/number."""
     ignore = {
-        "first-person", "second-person", "third-person",
-        "singular", "plural", "vos-form",
-        "impersonal", "informal", "formal",
-        "masculine", "feminine", "masculine-form", "feminine-form",
+        "first-person",
+        "second-person",
+        "third-person",
+        "singular",
+        "plural",
+        "vos-form",
+        "impersonal",
+        "informal",
+        "formal",
+        "masculine",
+        "feminine",
+        "masculine-form",
+        "feminine-form",
     }
     return tuple(sorted(t for t in tags if t not in ignore))
 
@@ -42,10 +52,7 @@ def person_index(tags):
 
 
 def split_refl(form_str):
-    """
-    Split off a leading reflexive pronoun (me/te/se/nos/os) when it's a separate token.
-    For forms like 'abúrrete', we do NOT try to split (returns (None, full_form)).
-    """
+    """Split off a leading reflexive pronoun (me/te/se/nos/os) when it's a separate token."""
     refls = {"me", "te", "se", "nos", "os"}
     parts = form_str.split()
     if parts and parts[0] in refls:
@@ -54,25 +61,49 @@ def split_refl(form_str):
 
 
 def normalize_pronoun(raw_tags):
-    """
-    Normalize raw_tags into something like 'él //ella //usted '.
-    We do NOT invent missing pieces (e.g. no 'ellas' if it's not there).
-    """
+    """Normalize raw_tags into something like 'él //ella //usted '."""
     if not raw_tags:
         return None
+
     s = raw_tags[0]
-    s = s.replace("que ", "")       # remove 'que ' from subjunctive labels
+    s = s.replace("que ", "")  # remove 'que ' from subjunctive labels
     s = s.strip()
-    s = s.replace(", ", " //")      # commas → double slashes
-    return s + " "                  # trailing space for consistency
+
+    if "ustedes" in s and "ellos" in s and "ellas" not in s:
+        s = s.replace("ellos", "ellos, ellas")
+
+    s = s.replace(", ", " //")  # parser expects double slashes
+    return s + " "  # trailing whitespace for consistency
+
+
+def merge_pronouns(p2: str | None, p7: str | None) -> str | None:
+    """
+    Merge pronoun strings for tú and vos when forms are identical (most forms - only present and imperative differ)
+    So: 'tú ' and 'vos ' -> 'tú //vos '.
+    """
+    if not p2 and not p7:
+        return None
+    if p2 and not p7:
+        return p2
+    if p7 and not p2:
+        return p7
+
+    def split_pron(p: str) -> list[str]:
+        return [part for part in p.strip().split(" //") if part]
+
+    parts = []
+    for part in split_pron(p2):
+        if part not in parts:
+            parts.append(part)
+    for part in split_pron(p7):
+        if part not in parts:
+            parts.append(part)
+
+    return " //".join(parts) + " " if parts else None
 
 
 def build_row_meta():
-    """
-    Map internal keys to (row label, mode, Kaikki tense-key).
-    Only rows that can be directly mapped from Kaikki are filled;
-    Imperativo Negativo is kept but left empty.
-    """
+    """Map internal keys to (row label, mode, Kaikki tense-key)."""
     return {
         "infinitivo": {
             "label": "Infinitivo",
@@ -177,37 +208,144 @@ def build_row_meta():
         "imp_negativo": {
             "label": "Imperativo Negativo",
             "mode": "imperativo",
-            "key": None,  # we do NOT derive this (would require extra logic)
+            "key": None,    # special case handled in code
         },
     }
 
 
-def main():
-    # --- Load Kaikki entry (pretty-printed JSON) ---
-    with INPUT_JSON.open("r", encoding="utf-8") as f:
-        entry = json.load(f)
+def build_header():
+    header = ["", "mode"]
+    for i in range(1, 8):
+        header.extend(
+            [
+                f"conjunction-{i}",
+                f"pronoun-{i}",
+                f"negation-{i}",
+                f"refl_pronoun-{i}",
+                f"conjugation-{i}",
+            ]
+        )
+    return header
 
+
+def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Path):
     forms = entry.get("forms", [])
     lemma = entry.get("word")
 
-    # --- Group forms by tense-key ---
+    # group forms by tense-key
     forms_by_key = collections.defaultdict(list)
     for f in forms:
         tk = tense_key(f["tags"])
         forms_by_key[tk].append(f)
 
-    # --- Prepare CSV header ---
-    header = ["", "mode"]
-    for i in range(1, 8):
-        header.extend([
-            f"conjunction-{i}",
-            f"pronoun-{i}",
-            f"negation-{i}",
-            f"refl_pronoun-{i}",
-            f"conjugation-{i}",
-        ])
+    rows = []
 
-    # --- Define row order (similar to your sample) ---
+    for key in row_order:
+        meta = row_meta[key]
+        row = {h: None for h in header}
+        row[""] = meta["label"]
+        row["mode"] = meta["mode"]
+
+        if key == "infinitivo":
+            row["conjunction-1"] = lemma
+
+        elif key == "gerundio":
+            g_forms = forms_by_key.get(meta["key"], [])
+            if g_forms:
+                chosen = min(g_forms, key=lambda f: len(f["form"]))
+                row["conjunction-1"] = chosen["form"]
+
+        elif key == "participio":
+            p_forms = forms_by_key.get(meta["key"], [])
+            if p_forms:
+                row["conjunction-1"] = p_forms[0]["form"]
+
+        else:
+            if key == "imp_negativo":
+                tk = row_meta["subj_presente"]["key"]
+            else:
+                tk = meta["key"]
+
+            f_list = forms_by_key.get(tk, [])
+
+            by_idx: dict[int, list[dict]] = collections.defaultdict(list)
+            for f in f_list:
+                idx = person_index(f["tags"])
+                if idx:
+                    by_idx[idx].append(f)
+
+            # special case: merge tú + vos when identical
+            if 2 in by_idx and 7 in by_idx:
+                f2 = by_idx[2][0]
+                f7 = by_idx[7][0]
+
+                refl2, verb2 = split_refl(f2["form"])
+                refl7, verb7 = split_refl(f7["form"])
+
+                if verb2 == verb7:
+                    p2 = normalize_pronoun(f2.get("raw_tags", []))
+                    p7 = normalize_pronoun(f7.get("raw_tags", []))
+                    merged_pron = merge_pronouns(p2, p7)
+
+                    merged_refl = refl2 or refl7
+                    chosen_verb = verb2
+
+                    c_pron2 = "pronoun-2"
+                    c_refl2 = "refl_pronoun-2"
+                    c_verb2 = "conjugation-2"
+
+                    if merged_pron:
+                        row[c_pron2] = merged_pron
+                    if merged_refl:
+                        row[c_refl2] = merged_refl
+                    row[c_verb2] = chosen_verb
+
+                    del by_idx[7]
+
+            # fill remaining slots
+            for idx, flist in by_idx.items():
+                if key == "imp_negativo" and idx == 1:
+                    continue
+
+                for f in flist:
+                    conj = f["form"]
+                    refl, verb = split_refl(conj)
+                    pron = normalize_pronoun(f.get("raw_tags", []))
+
+                    c_conj = f"conjunction-{idx}"   # not used for Spanish but will be in other languages
+                    c_pron = f"pronoun-{idx}"
+                    c_neg = f"negation-{idx}"
+                    c_refl = f"refl_pronoun-{idx}"
+                    c_verb = f"conjugation-{idx}"
+
+                    if pron and row.get(c_pron) is None:
+                        row[c_pron] = pron
+                    if refl and row.get(c_refl) is None:
+                        row[c_refl] = refl
+
+                    if key == "imp_negativo" and row.get(c_neg) is None:
+                        row[c_neg] = "no "
+
+                    existing = row.get(c_verb)
+                    if existing is None:
+                        row[c_verb] = verb
+                    else:
+                        variants = {v.strip() for v in existing.split("/") if v.strip()}
+                        variants.add(verb.strip())
+                        row[c_verb] = " / ".join(sorted(variants))
+
+        rows.append(row)
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    out_path = output_dir / f"{lemma}.csv"
+
+    df = pd.DataFrame(rows, columns=header)
+    df.to_csv(out_path, index=False, sep=";")
+    print(f"Wrote CSV to {out_path}")
+
+
+def main():
+    header = build_header()
     row_meta = build_row_meta()
     row_order = [
         "infinitivo",
@@ -233,67 +371,20 @@ def main():
         "imp_negativo",
     ]
 
-    rows = []
+    count = 0
+    with INFINITIVES_JSONL.open("r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
 
-    for key in row_order:
-        meta = row_meta[key]
-        row = {h: None for h in header}
-        row[""] = meta["label"]
-        row["mode"] = meta["mode"]
+            entry = json.loads(line)
+            build_csv_for_entry(entry, header, row_meta, row_order, OUTPUT_DIR)
 
-        # Non-finite
-        if key == "infinitivo":
-            row["conjunction-1"] = lemma
-
-        elif key == "gerundio":
-            g_forms = forms_by_key.get(meta["key"], [])
-            if g_forms:
-                # choose the shortest gerund (likely the simple one)
-                chosen = min(g_forms, key=lambda f: len(f["form"]))
-                row["conjunction-1"] = chosen["form"]
-
-        elif key == "participio":
-            p_forms = forms_by_key.get(meta["key"], [])
-            if p_forms:
-                row["conjunction-1"] = p_forms[0]["form"]
-
-        elif key == "imp_negativo":
-            # We consciously leave Imperativo Negativo empty:
-            # Kaikki doesn't give explicit negative imperative forms like "no te aburras".
-            pass
-
-        else:
-            # Finite tenses
-            tk = meta["key"]
-            f_list = forms_by_key.get(tk, [])
-            for f in f_list:
-                idx = person_index(f["tags"])
-                if not idx:
-                    continue
-
-                conj = f["form"]
-                refl, verb = split_refl(conj)
-                pron = normalize_pronoun(f.get("raw_tags", []))
-
-                c_conj = f"conjunction-{idx}"
-                c_pron = f"pronoun-{idx}"
-                c_neg = f"negation-{idx}"
-                c_refl = f"refl_pronoun-{idx}"
-                c_verb = f"conjugation-{idx}"
-
-                # Only fill if still empty (avoid blindly overwriting in case of duplicates)
-                if pron and row.get(c_pron) is None:
-                    row[c_pron] = pron
-                if refl and row.get(c_refl) is None:
-                    row[c_refl] = refl
-                if row.get(c_verb) is None:
-                    row[c_verb] = verb
-
-        rows.append(row)
-
-    df = pd.DataFrame(rows, columns=header)
-    df.to_csv(OUTPUT_CSV, index=False, sep=";")
-    print(f"Wrote CSV to {OUTPUT_CSV}")
+            count += 1
+            if MAX_VERBS is not None and count >= MAX_VERBS:
+                print(f"Stopped after {MAX_VERBS} verbs (MAX_VERBS limit).")
+                break
 
 
 if __name__ == "__main__":

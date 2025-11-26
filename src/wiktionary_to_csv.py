@@ -10,7 +10,8 @@ MAX_VERBS: int | None = 25  # max verbs to extract for quick tests, or None for 
 
 
 CATEGORY_CONFIG = {   # per-language mapping from Wiktionary categories to normalized tags
-    "es": {  # only spanish for now
+    "es": {  # only Spanish for now
+        # 1) Simple lookup → "categories" row
         "categories": {
             "ES:Verbos de la primera conjugación": "primera conjugación",
             "ES:Verbos de la segunda conjugación": "segunda conjugación",
@@ -20,10 +21,9 @@ CATEGORY_CONFIG = {   # per-language mapping from Wiktionary categories to norma
             "ES:Verbos intransitivos": "intransitivo",
             "ES:Verbos transitivos": "transitivo",
         },
-
-        # Label in the first column for the row
-        "row_labels": {
-            "categories": "categories",
+        # 2) Prefix-based extractor → "paradigma" row
+        "paradigma": {
+            "prefix": "ES:Verbos del paradigma ",
         },
     },
 }
@@ -270,20 +270,85 @@ def extract_category_tags(entry: dict) -> list[str]:
     return result
 
 
+def extract_metadata(entry: dict) -> dict[str, list[str]]:
+    """
+    Read entry['categories'] and return something like:
+      {
+        "categories": ["tercera conjugación", "irregular", "transitivo"],
+        "paradigma": ["dar"],
+      }
+
+    Rules per CATEGORY_CONFIG:
+      - if config value is a dict with 'prefix' → prefix-based extractor
+      - otherwise it's a simple lookup mapping: wikicat -> normalized tag
+    """
+    lang_code = entry.get("lang_code")
+    if not lang_code:
+        return {}
+
+    lang_cfg = CATEGORY_CONFIG.get(lang_code)
+    if not lang_cfg:
+        return {}
+
+    cats = entry.get("categories", []) or []
+    result: dict[str, list[str]] = {}
+
+    for row_label, conf in lang_cfg.items():
+        # Case 1: prefix-based extractor, e.g. "paradigma": {"prefix": "ES:Verbos del paradigma "}
+        if isinstance(conf, dict) and "prefix" in conf:
+            prefix = conf["prefix"]
+            for cat in cats:
+                if cat.startswith(prefix):
+                    suffix = cat[len(prefix):].strip()
+                    if not suffix:
+                        continue
+                    lst = result.setdefault(row_label, [])
+                    if suffix not in lst:
+                        lst.append(suffix)
+        else:
+            # Case 2: simple mapping from full category → normalized tag
+            mapping = conf
+            values = result.setdefault(row_label, [])
+            for cat in cats:
+                if cat in mapping:
+                    val = mapping[cat]
+                    if val not in values:
+                        values.append(val)
+
+    return result
+
+
 def build_metadata_df(entry: dict, header: list[str]) -> pd.DataFrame | None:
-    """Create a metadata DataFrame matching the length of the main df header"""
-    tags = extract_category_tags(entry)
-    if not tags:
+    """
+    Turn extract_metadata(entry) into 1+ DataFrame rows aligned to `header`.
+
+    Example rows in CSV (header: ;mode;conjugation-1;...):
+      categories;tercera conjugación;irregular;transitivo;...
+      paradigma;dar;...;...;...
+    """
+    meta_map = extract_metadata(entry)
+    if not meta_map:
         return None
 
-    # First row: "categories" key, then tags, then pad with empty strings
-    row_values = ["categories", *tags]
-    if len(row_values) < len(header):
-        row_values.extend([""] * (len(header) - len(row_values)))
-    else:
-        row_values = row_values[: len(header)]
+    rows: list[list[str]] = []
 
-    return pd.DataFrame([row_values], columns=header)
+    for row_label, values in meta_map.items():
+        if not values:
+            continue
+
+        # first column: row_label; then all values; then pad to header length
+        row_vals = [row_label, *values]
+        if len(row_vals) < len(header):
+            row_vals.extend([None] * (len(header) - len(row_vals)))
+        else:
+            row_vals = row_vals[: len(header)]
+
+        rows.append(row_vals)
+
+    if not rows:
+        return None
+
+    return pd.DataFrame(rows, columns=header)
 
 
 def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Path):

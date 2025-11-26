@@ -6,7 +6,27 @@ from pathlib import Path
 
 INFINITIVES_JSONL = Path("data/language-verb-dumps/es-infinitives.jsonl")
 OUTPUT_DIR = Path("data/verb-csvs/spanish")
-MAX_VERBS: int | None = 10  # max verbs to extract for quick tests, or None for all verbs
+MAX_VERBS: int | None = 20  # max verbs to extract for quick tests, or None for all verbs
+
+
+CATEGORY_CONFIG = {   # per-language mapping from Wiktionary categories to normalized tags
+    "es": {  # only spanish for now
+        "categories": {
+            "ES:Verbos de la primera conjugación": "primera conjugación",
+            "ES:Verbos de la segunda conjugación": "segunda conjugación",
+            "ES:Verbos de la tercera conjugación": "tercera conjugación",
+            "ES:Verbos irregulares": "irregular",
+            "ES:Verbos regulares": "regular",
+            "ES:Verbos intransitivos": "intransitivo",
+            "ES:Verbos transitivos": "transitivo",
+        },
+
+        # Label in the first column for the row
+        "row_labels": {
+            "categories": "categories",
+        },
+    },
+}
 
 
 def tense_key(tags):
@@ -228,6 +248,44 @@ def build_header():
     return header
 
 
+def extract_category_tags(entry: dict) -> list[str]:
+    """Return normalized tags as a list."""
+    lang_code = entry.get("lang_code")
+    if not lang_code:
+        return []
+
+    lang_cfg = CATEGORY_CONFIG.get(lang_code)
+    if not lang_cfg:
+        return []
+
+    mapping = lang_cfg.get("categories", {})
+    result: list[str] = []
+
+    for cat in entry.get("categories", []):
+        if cat in mapping:
+            tag = mapping[cat]
+            if tag not in result:
+                result.append(tag)
+
+    return result
+
+
+def build_metadata_df(entry: dict, header: list[str]) -> pd.DataFrame | None:
+    """Create a metadata DataFrame matching the length of the main df header"""
+    tags = extract_category_tags(entry)
+    if not tags:
+        return None
+
+    # First row: "categories" key, then tags, then pad with empty strings
+    row_values = ["categories", *tags]
+    if len(row_values) < len(header):
+        row_values.extend([""] * (len(header) - len(row_values)))
+    else:
+        row_values = row_values[: len(header)]
+
+    return pd.DataFrame([row_values], columns=header)
+
+
 def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Path):
     forms = entry.get("forms", [])
     lemma = entry.get("word")
@@ -339,8 +397,18 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
     output_dir.mkdir(parents=True, exist_ok=True)
     out_path = output_dir / f"{lemma}.csv"
 
-    df = pd.DataFrame(rows, columns=header)
-    df.to_csv(out_path, index=False, sep=";")
+    # main conjugation table
+    df_conj = pd.DataFrame(rows, columns=header)
+
+    # metadata row
+    df_meta = build_metadata_df(entry, header)
+
+    if df_meta is not None:
+        df_final = pd.concat([df_conj, df_meta], ignore_index=True)
+    else:
+        df_final = df_conj
+
+    df_final.to_csv(out_path, index=False, sep=";")
     print(f"Wrote CSV to {out_path}")
 
 

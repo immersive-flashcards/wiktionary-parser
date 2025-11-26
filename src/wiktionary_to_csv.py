@@ -9,20 +9,24 @@ OUTPUT_DIR = Path("data/verb-csvs/spanish")
 MAX_VERBS: int | None = 25  # max verbs to extract for quick tests, or None for all verbs
 
 
-CATEGORY_CONFIG = {   # per-language mapping from Wiktionary categories to normalized tags
+CATEGORY_CONFIG = {  # per-language mapping from Wiktionary categories to normalized tags
     "es": {  # only Spanish for now
-        # 1) Simple lookup → "categories" row
-        "categories": {
-            "ES:Verbos de la primera conjugación": "primera conjugación",
-            "ES:Verbos de la segunda conjugación": "segunda conjugación",
-            "ES:Verbos de la tercera conjugación": "tercera conjugación",
-            "ES:Verbos irregulares": "irregular",
-            "ES:Verbos regulares": "regular",
+        # 1) Simple lookups → "key" row
+        "categories": {  # currently a catch-all for verb categories: may all be distributed to their own rows eventually
             "ES:Verbos intransitivos": "intransitivo",
             "ES:Verbos transitivos": "transitivo",
         },
-        # 2) Prefix-based extractor → "paradigma" row
-        "paradigma": {
+        "verb-group": {
+            "ES:Verbos de la primera conjugación": "primera conjugación",
+            "ES:Verbos de la segunda conjugación": "segunda conjugación",
+            "ES:Verbos de la tercera conjugación": "tercera conjugación",
+        },
+        "regularity": {
+            "ES:Verbos irregulares": "irregular",
+            "ES:Verbos regulares": "regular",
+        },
+        # 2) Prefix-based extractor → "key" row
+        "paradigma": {  # = conjugation pattern
             "prefix": "ES:Verbos del paradigma ",
         },
     },
@@ -228,7 +232,7 @@ def build_row_meta():
         "imp_negativo": {
             "label": "Imperativo Negativo",
             "mode": "imperativo",
-            "key": None,    # special case handled in code
+            "key": None,  # special case handled in code
         },
     }
 
@@ -299,7 +303,7 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
             prefix = conf["prefix"]
             for cat in cats:
                 if cat.startswith(prefix):
-                    suffix = cat[len(prefix):].strip()
+                    suffix = cat[len(prefix) :].strip()
                     if not suffix:
                         continue
                     lst = result.setdefault(row_label, [])
@@ -435,7 +439,7 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
                     refl, verb = split_refl(conj)
                     pron = normalize_pronoun(f.get("raw_tags", []))
 
-                    c_conj = f"conjunction-{idx}"   # not used for Spanish but will be in other languages
+                    c_conj = f"conjunction-{idx}"  # not used for Spanish but will be in other languages
                     c_pron = f"pronoun-{idx}"
                     c_neg = f"negation-{idx}"
                     c_refl = f"refl_pronoun-{idx}"

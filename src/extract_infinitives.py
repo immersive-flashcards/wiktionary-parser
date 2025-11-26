@@ -1,8 +1,8 @@
 import json
 from pathlib import Path
 
-BASE_INPUT = Path("data/language-dumps")
-BASE_OUTPUT = Path("data/language-verb-dumps")
+BASE_INPUT = Path("../data/language-dumps")
+BASE_OUTPUT = Path("../data/language-verb-dumps")
 
 LANG_CONFIGS = {
     "ca": {

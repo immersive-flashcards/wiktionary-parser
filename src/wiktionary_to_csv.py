@@ -6,7 +6,7 @@ from pathlib import Path
 
 INFINITIVES_JSONL = Path("data/language-verb-dumps/es-infinitives.jsonl")
 OUTPUT_DIR = Path("data/verb-csvs/spanish")
-MAX_VERBS: int | None = 20  # max verbs to extract for quick tests, or None for all verbs
+MAX_VERBS: int | None = 25  # max verbs to extract for quick tests, or None for all verbs
 
 
 CATEGORY_CONFIG = {   # per-language mapping from Wiktionary categories to normalized tags

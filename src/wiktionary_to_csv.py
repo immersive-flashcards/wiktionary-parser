@@ -31,6 +31,7 @@ CATEGORY_CONFIG = {  # per-language mapping from Wiktionary categories to normal
         "paradigma": {  # = conjugation pattern
             "prefix": "ES:Verbos del paradigma ",
         },
+        "endings": ["er", "ar", "ir"]
     },
 }
 
@@ -312,8 +313,8 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
                     lst = result.setdefault(row_label, [])
                     if suffix not in lst:
                         lst.append(suffix)
-        else:
-            # Case 2: simple mapping from full category → normalized tag
+        # Case 2: simple mapping from full category → normalized tag
+        if isinstance(conf, dict):
             mapping = conf
             values = result.setdefault(row_label, [])
             for cat in cats:
@@ -321,6 +322,17 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
                     val = mapping[cat]
                     if val not in values:
                         values.append(val)
+            continue
+
+        # Case 3: endings → choose first matching
+        if isinstance(conf, list):
+            lemma = entry.get("word", "")
+            for ending in conf:
+                if lemma.endswith(ending):
+                    lst = result.setdefault(row_label, [])
+                    lst.append(ending)
+                    break
+            continue
 
     return result
 

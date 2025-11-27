@@ -1,4 +1,4 @@
-# Script to convert verb data from Wiktionary JSONL dumps into CSV files.
+"""Script to convert verb data from Wiktionary JSONL dumps into CSV files."""
 
 import collections
 import json
@@ -240,6 +240,7 @@ def build_row_meta():
 
 
 def build_header():
+    """Build CSV header row."""
     header = ["", "mode"]
     for i in range(1, 8):
         header.extend(
@@ -354,6 +355,7 @@ def build_metadata_df(entry: dict, header: list[str]) -> pl.DataFrame | None:
 
 
 def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Path):
+    """Build CSV file for a single verb entry."""
     forms = entry.get("forms", [])
     lemma = entry.get("word")
 
@@ -437,7 +439,7 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
                     refl, verb = split_refl(conj)
                     pron = normalize_pronoun(f.get("raw_tags", []))
 
-                    c_conj = f"conjunction-{idx}"  # not used for Spanish but will be in other languages
+                    #c_conj = f"conjunction-{idx}"  # not used for Spanish but will be in other languages
                     c_pron = f"pronoun-{idx}"
                     c_neg = f"negation-{idx}"
                     c_refl = f"refl_pronoun-{idx}"
@@ -482,6 +484,7 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
 
 
 def main():
+    """Main function to convert infinitive verbs JSONL into per-verb CSV files."""
     header = build_header()
     row_meta = build_row_meta()
     row_order = [

@@ -1,3 +1,5 @@
+"""Extract infinitive verbs from language dumps for specified languages."""
+
 import json
 from pathlib import Path
 
@@ -18,6 +20,7 @@ LANG_CONFIGS = {
 
 
 def is_infinitive_verb(entry: dict, cfg: dict) -> bool:
+    """Determine if the entry is an infinitive verb based on the configuration."""
     if entry.get("lang") != cfg["lang"]:
         return False
     if entry.get("pos") != "verb":
@@ -39,6 +42,7 @@ def is_infinitive_verb(entry: dict, cfg: dict) -> bool:
 
 
 def process_language(key: str, cfg: dict):
+    """Process a single language to extract infinitive verbs."""
     # Clean predictable filenames
     input_file = BASE_INPUT / f"{key}-extract.jsonl"
     output_file = BASE_OUTPUT / f"{key}-infinitives.jsonl"
@@ -65,6 +69,7 @@ def process_language(key: str, cfg: dict):
 
 
 def main():
+    """Main function to process all languages."""
     for key, cfg in LANG_CONFIGS.items():
         process_language(key, cfg)
 

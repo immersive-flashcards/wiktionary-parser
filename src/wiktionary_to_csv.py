@@ -87,6 +87,18 @@ def split_refl(form_str):
     return None, form_str
 
 
+def get_base_infinitive(entry: dict) -> str:
+    """Return a normalized base infinitive, stripping reflexive 'se' for Spanish."""
+    lemma = entry.get("word", "") or ""
+    lang = entry.get("lang_code")
+
+    # Spanish reflexive infinitives. Examples: meterse -> meter, irse -> ir
+    if lang == "es" and lemma.endswith("se"):
+        return lemma[:-2]
+
+    return lemma
+
+
 def normalize_pronoun(raw_tags):
     """Normalize raw_tags into something like 'él //ella //usted '."""
     if not raw_tags:
@@ -301,6 +313,9 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
     cats = entry.get("categories", []) or []
     result: dict[str, list[str]] = {}
 
+    # add normalized base infinitive
+    result["base_infinitive"] = [get_base_infinitive(entry)]
+
     for row_label, conf in lang_cfg.items():
         # Case 1: prefix-based extractor, e.g. "paradigma": {"prefix": "ES:Verbos del paradigma "}
         if isinstance(conf, dict) and "prefix" in conf:
@@ -326,9 +341,9 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
 
         # Case 3: endings → choose first matching
         if isinstance(conf, list):
-            lemma = entry.get("word", "")
+            base_inf = result.get("base_infinitive")[0]
             for ending in conf:
-                if lemma.endswith(ending):
+                if base_inf.endswith(ending):
                     lst = result.setdefault(row_label, [])
                     lst.append(ending)
                     break

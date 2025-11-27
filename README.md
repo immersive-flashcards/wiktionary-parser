@@ -5,4 +5,4 @@ This repository extracts **infinitive verbs** and **full conjugation data** from
 - **Infinitive extraction:** filters raw entries by language rules.
 - **CSV generation:** normalizes tense/person tags, reflexives, pronouns, and metadata into per-verb CSV files.
 
-See the main conjugation project here: [`Dynamic Verb Conjugation`](github.com/DonCiervo/dynamic-verb-conjugation)
+See the main conjugation project here: [`Dynamic Verb Conjugation`](https://github.com/DonCiervo/dynamic-verb-conjugation)

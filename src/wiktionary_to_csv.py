@@ -1,8 +1,10 @@
-import json
-import collections
-import pandas as pd
-from pathlib import Path
+# Script to convert verb data from Wiktionary JSONL dumps into CSV files.
 
+import collections
+import json
+import time
+from pathlib import Path
+import polars as pl
 
 INFINITIVES_JSONL = Path("data/language-verb-dumps/es-infinitives.jsonl")
 OUTPUT_DIR = Path("data/verb-csvs/spanish")
@@ -322,26 +324,20 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
     return result
 
 
-def build_metadata_df(entry: dict, header: list[str]) -> pd.DataFrame | None:
-    """
-    Turn extract_metadata(entry) into 1+ DataFrame rows aligned to `header`.
-
-    Example rows in CSV (header: ;mode;conjugation-1;...):
-      categories;tercera conjugación;irregular;transitivo;...
-      paradigma;dar;...;...;...
-    """
+def build_metadata_df(entry: dict, header: list[str]) -> pl.DataFrame | None:
+    """Turn extract_metadata(entry) into 1+ DataFrame rows aligned to `header`."""
     meta_map = extract_metadata(entry)
     if not meta_map:
         return None
 
-    rows: list[list[str]] = []
+    rows: list[list[str | None]] = []
 
     for row_label, values in meta_map.items():
         if not values:
             continue
 
         # first column: row_label; then all values; then pad to header length
-        row_vals = [row_label, *values]
+        row_vals: list[str | None] = [row_label, *values]
         if len(row_vals) < len(header):
             row_vals.extend([None] * (len(header) - len(row_vals)))
         else:
@@ -352,7 +348,9 @@ def build_metadata_df(entry: dict, header: list[str]) -> pd.DataFrame | None:
     if not rows:
         return None
 
-    return pd.DataFrame(rows, columns=header)
+    # force a consistent UTF-8 schema for all columns + explicit row orientation
+    schema = {col: pl.Utf8 for col in header}
+    return pl.DataFrame(rows, schema=schema, orient="row")
 
 
 def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Path):
@@ -365,7 +363,7 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
         tk = tense_key(f["tags"])
         forms_by_key[tk].append(f)
 
-    rows = []
+    rows: list[dict[str, str | None]] = []
 
     for key in row_order:
         meta = row_meta[key]
@@ -467,17 +465,19 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
     out_path = output_dir / f"{lemma}.csv"
 
     # main conjugation table
-    df_conj = pd.DataFrame(rows, columns=header)
+    schema = {col: pl.Utf8 for col in header}  # schema with all UTF-8 columns
+    df_conj = pl.DataFrame(rows, schema=schema, orient="row")
 
     # metadata row
     df_meta = build_metadata_df(entry, header)
 
     if df_meta is not None:
-        df_final = pd.concat([df_conj, df_meta], ignore_index=True)
+        df_meta = df_meta.cast(schema)  # ensure same schema
+        df_final = pl.concat([df_conj, df_meta], how="vertical")
     else:
         df_final = df_conj
 
-    df_final.to_csv(out_path, index=False, sep=";")
+    df_final.write_csv(out_path, separator=";")
     print(f"Wrote CSV to {out_path}")
 
 
@@ -525,4 +525,6 @@ def main():
 
 
 if __name__ == "__main__":
+    start = time.time()
     main()
+    print(f"Completed in {time.time() - start:.2f} seconds.")

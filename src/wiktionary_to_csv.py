@@ -31,7 +31,7 @@ CATEGORY_CONFIG = {  # per-language mapping from Wiktionary categories to normal
         "paradigma": {  # = conjugation pattern
             "prefix": "ES:Verbos del paradigma ",
         },
-        "endings": ["er", "ar", "ir"]
+        "endings": ["er", "ar", "ir"],
     },
 }
 
@@ -87,16 +87,16 @@ def split_refl(form_str):
     return None, form_str
 
 
-def get_base_infinitive(entry: dict) -> str:
+def get_base_infinitive(entry: dict) -> (str, str):
     """Return a normalized base infinitive, stripping reflexive 'se' for Spanish."""
     lemma = entry.get("word", "") or ""
     lang = entry.get("lang_code")
 
     # Spanish reflexive infinitives. Examples: meterse -> meter, irse -> ir
     if lang == "es" and lemma.endswith("se"):
-        return lemma[:-2]
+        return lemma[:-2], "True"
 
-    return lemma
+    return lemma, "False"
 
 
 def normalize_pronoun(raw_tags):
@@ -313,8 +313,10 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
     cats = entry.get("categories", []) or []
     result: dict[str, list[str]] = {}
 
-    # add normalized base infinitive
-    result["base_infinitive"] = [get_base_infinitive(entry)]
+    # add normalized base infinitive and reflexive flag
+    base_infinitive, reflexive_bool = get_base_infinitive(entry)
+    result["base_infinitive"] = [base_infinitive]
+    result["reflexive"] = [reflexive_bool]
 
     for row_label, conf in lang_cfg.items():
         # Case 1: prefix-based extractor, e.g. "paradigma": {"prefix": "ES:Verbos del paradigma "}
@@ -466,7 +468,7 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
                     refl, verb = split_refl(conj)
                     pron = normalize_pronoun(f.get("raw_tags", []))
 
-                    #c_conj = f"conjunction-{idx}"  # not used for Spanish but will be in other languages
+                    # c_conj = f"conjunction-{idx}"  # not used for Spanish but will be in other languages
                     c_pron = f"pronoun-{idx}"
                     c_neg = f"negation-{idx}"
                     c_refl = f"refl_pronoun-{idx}"

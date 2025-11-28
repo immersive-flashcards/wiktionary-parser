@@ -348,6 +348,7 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
                 if base_inf.endswith(ending):
                     lst = result.setdefault(row_label, [])
                     lst.append(ending)
+                    result["stem"] = [base_inf[: -len(ending)]]
                     break
             continue
 

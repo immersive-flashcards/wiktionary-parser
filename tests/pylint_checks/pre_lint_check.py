@@ -17,6 +17,7 @@ from pylint.lint import PyLinter
 
 class RequireInitChecker(BaseChecker):
     """Filesystem-level check run at start of linting."""
+
     priority = -1
     name = "require_init_in_python_dirs"
 
@@ -73,11 +74,7 @@ class RequireInitChecker(BaseChecker):
         for rel in sorted(missing):
             # Indicate the path with the missing __init__.py
             init_path = os.path.join(project_root, rel, "__init__.py")
-            self.add_message(
-                "missing-init-in-py-bearing-dir",
-                line=1,
-                args=(f"{rel}/",)
-            )
+            self.add_message("missing-init-in-py-bearing-dir", line=1, args=(f"{rel}/",))
 
     # helpers
     def _root_dir(self) -> str:
@@ -106,9 +103,7 @@ class RequireInitChecker(BaseChecker):
             return pathspec.PathSpec.from_lines("gitwildmatch", lines)
         return pathspec.PathSpec([])
 
-    def _collect_dirs_with_python(
-        self, root: str, ignore, exclude_top: Set[str]
-    ) -> Set[str]:
+    def _collect_dirs_with_python(self, root: str, ignore, exclude_top: Set[str]) -> Set[str]:
         """All dirs (and their ancestors up to root) that contain .py files."""
         found: Set[str] = set()
         for current_root, dirs, files in os.walk(root):
@@ -126,20 +121,10 @@ class RequireInitChecker(BaseChecker):
                 continue
 
             # filter subdirs before descending
-            dirs[:] = [
-                d
-                for d in dirs
-                if d not in exclude_top
-                and not (ignore and ignore.match_file(os.path.join(rel_root, d)))
-            ]
+            dirs[:] = [d for d in dirs if d not in exclude_top and not (ignore and ignore.match_file(os.path.join(rel_root, d)))]
 
             # collect if any .py file here (not ignored)
-            py_files = [
-                f
-                for f in files
-                if f.endswith(".py")
-                and not (ignore and ignore.match_file(os.path.join(rel_root, f)))
-            ]
+            py_files = [f for f in files if f.endswith(".py") and not (ignore and ignore.match_file(os.path.join(rel_root, f)))]
             if py_files:
                 current = current_root
                 while True:
@@ -158,7 +143,7 @@ class RequireInitChecker(BaseChecker):
             init_file = os.path.join(abs_dir, "__init__.py")
             if not os.path.isfile(init_file):
                 rel = os.path.relpath(abs_dir, root)
-                #if rel == ".": # Optional: skip checking for __init__.py at project root
+                # if rel == ".": # Optional: skip checking for __init__.py at project root
                 #    continue
                 missing.add(rel)
         return missing

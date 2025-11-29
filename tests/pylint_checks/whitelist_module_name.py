@@ -10,6 +10,7 @@ from pylint.lint import PyLinter
 class WhitelistModuleNameChecker(BaseChecker):
     """Check module & package names (subset of C0103), but whitelist the
     top-level kebab-case package (dir name == repo root) for its __init__.py."""
+
     name = "whitelist_module_name"
     msgs = {
         "C9001": (

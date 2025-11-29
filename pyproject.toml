@@ -29,3 +29,7 @@ disable = [
     "R0913",  # Too many arguments
     "C0103",  # snake_case check
 ]
+load-plugins = [    # Custom pylint checks
+  "tests.pylint_checks.pre_lint_check",
+  "tests.pylint_checks.whitelist_module_name",
+]

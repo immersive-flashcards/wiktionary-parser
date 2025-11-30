@@ -318,6 +318,8 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
     result["base_infinitive"] = [base_infinitive]
     result["reflexive"] = [reflexive_bool]
 
+    result["auxiliary"] = ["haber"]  # Spanish verbs always use 'haber'
+
     for row_label, conf in lang_cfg.items():
         # Case 1: prefix-based extractor, e.g. "paradigma": {"prefix": "ES:Verbos del paradigma "}
         if isinstance(conf, dict) and "prefix" in conf:

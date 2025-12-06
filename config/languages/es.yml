@@ -1,0 +1,157 @@
+lang_code: "es"
+
+infinitives_jsonl: "data/language-verb-dumps/es-infinitives.jsonl"
+output_dir: "data/verb-csvs/spanish-config"
+
+auxiliary: "haber"
+
+category_config:
+  categories:
+    "ES:Verbos intransitivos": "intransitivo"
+    "ES:Verbos transitivos": "transitivo"
+
+  verb-group:
+    "ES:Verbos de la primera conjugación": "primera conjugación"
+    "ES:Verbos de la segunda conjugación": "segunda conjugación"
+    "ES:Verbos de la tercera conjugación": "tercera conjugación"
+
+  regularity:
+    "ES:Verbos irregulares": "irregular"
+    "ES:Verbos regulares": "regular"
+
+  paradigma:
+    prefix: "ES:Verbos del paradigma "
+
+  endings:
+    - "ar"
+    - "er"
+    - "ir"
+
+row_meta:
+  infinitivo:
+    label: "Infinitivo"
+    mode: "infinitivo"
+    key: null
+
+  gerundio:
+    label: "Gerundio"
+    mode: "gerundio"
+    key: ["gerund"]
+
+  participio:
+    label: "Participio"
+    mode: "participio"
+    key: ["participle"]
+
+  ind_presente:
+    label: "Indicativo Presente"
+    mode: "indicativo"
+    key: ["indicative", "present"]
+
+  ind_imperfecto:
+    label: "Indicativo Pretérito Imperfecto"
+    mode: "indicativo"
+    key: ["imperfect", "indicative", "past"]
+
+  ind_preterito_indefinido:
+    label: "Indicativo Pretérito Indefinido"
+    mode: "indicativo"
+    key: ["indicative", "perfect", "present"]
+
+  ind_futuro:
+    label: "Indicativo Futuro"
+    mode: "indicativo"
+    key: ["future", "indicative"]
+
+  ind_preterito_perfecto:
+    label: "Indicativo Pretérito Perfecto"
+    mode: "indicativo"
+    key: ["compound", "indicative", "perfect", "present"]
+
+  ind_pluscuamperfecto:
+    label: "Indicativo Pretérito Pluscuamperfecto"
+    mode: "indicativo"
+    key: ["indicative", "pluperfect"]
+
+  ind_preterito_anterior:
+    label: "Indicativo Pretérito Anterior"
+    mode: "indicativo"
+    key: ["anterior", "archaic", "indicative", "past"]
+
+  ind_futuro_perfecto:
+    label: "Indicativo Futuro Perfecto"
+    mode: "indicativo"
+    key: ["compound", "future", "indicative"]
+
+  subj_presente:
+    label: "Subjuntivo Presente"
+    mode: "subjuntivo"
+    key: ["present", "subjunctive"]
+
+  subj_imperfecto:
+    label: "Subjuntivo Pretérito Imperfecto"
+    mode: "subjuntivo"
+    key: ["imperfect", "past", "subjunctive"]
+
+  subj_futuro:
+    label: "Subjuntivo Futuro"
+    mode: "subjuntivo"
+    key: ["archaic", "future", "subjunctive"]
+
+  subj_preterito_perfecto:
+    label: "Subjuntivo Pretérito Perfecto"
+    mode: "subjuntivo"
+    key: ["perfect", "present", "subjunctive"]
+
+  subj_pluscuamperfecto:
+    label: "Subjuntivo Pretérito Pluscuamperfecto"
+    mode: "subjuntivo"
+    key: ["pluperfect", "subjunctive"]
+
+  subj_futuro_perfecto:
+    label: "Subjuntivo Futuro Perfecto"
+    mode: "subjuntivo"
+    key: ["archaic", "compound", "future", "subjunctive"]
+
+  condicional:
+    label: "Condicional"
+    mode: "condicional"
+    key: ["conditional"]
+
+  condicional_perfecto:
+    label: "Condicional Perfecto"
+    mode: "condicional"
+    key: ["compound", "conditional"]
+
+  imp_afirmativo:
+    label: "Imperativo Afirmativo"
+    mode: "imperativo"
+    key: ["imperative", "present"]
+
+  imp_negativo:
+    label: "Imperativo Negativo"
+    mode: "imperativo"
+    key: null
+
+row_order:
+  - "infinitivo"
+  - "gerundio"
+  - "participio"
+  - "ind_presente"
+  - "ind_imperfecto"
+  - "ind_preterito_indefinido"
+  - "ind_futuro"
+  - "ind_preterito_perfecto"
+  - "ind_pluscuamperfecto"
+  - "ind_preterito_anterior"
+  - "ind_futuro_perfecto"
+  - "subj_presente"
+  - "subj_imperfecto"
+  - "subj_futuro"
+  - "subj_preterito_perfecto"
+  - "subj_pluscuamperfecto"
+  - "subj_futuro_perfecto"
+  - "condicional"
+  - "condicional_perfecto"
+  - "imp_afirmativo"
+  - "imp_negativo"

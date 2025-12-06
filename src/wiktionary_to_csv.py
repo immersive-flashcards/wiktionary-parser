@@ -3,37 +3,60 @@
 import collections
 import json
 import time
+from dataclasses import dataclass
 from pathlib import Path
+from typing import Any
+
 import polars as pl
-
-INFINITIVES_JSONL = Path("data/language-verb-dumps/es-infinitives.jsonl")
-OUTPUT_DIR = Path("data/verb-csvs/spanish")
-MAX_VERBS: int | None = 25  # max verbs to extract for quick tests, or None for all verbs
+import yaml
 
 
-CATEGORY_CONFIG = {  # per-language mapping from Wiktionary categories to normalized tags
-    "es": {  # only Spanish for now
-        # 1) Simple lookups → "key" row
-        "categories": {  # currently a catch-all for verb categories: may all be distributed to their own rows eventually
-            "ES:Verbos intransitivos": "intransitivo",
-            "ES:Verbos transitivos": "transitivo",
-        },
-        "verb-group": {
-            "ES:Verbos de la primera conjugación": "primera conjugación",
-            "ES:Verbos de la segunda conjugación": "segunda conjugación",
-            "ES:Verbos de la tercera conjugación": "tercera conjugación",
-        },
-        "regularity": {
-            "ES:Verbos irregulares": "irregular",
-            "ES:Verbos regulares": "regular",
-        },
-        # 2) Prefix-based extractor → "key" row
-        "paradigma": {  # = conjugation pattern
-            "prefix": "ES:Verbos del paradigma ",
-        },
-        "endings": ["er", "ar", "ir"],
-    },
-}
+@dataclass
+class LanguageConfig:
+    """Configuration data for a specific language"""
+
+    lang_code: str
+    infinitives_jsonl: Path
+    output_dir: Path
+    auxiliary: str
+    category_config: dict[str, Any]
+    row_meta: dict[str, dict[str, Any]]
+    row_order: list[str]
+
+
+@dataclass
+class RunConfig:
+    """Configuration data for dev / prod / test runs"""
+
+    profile: str
+    max_verbs: int | None
+    languages: list[str]
+
+
+def _load_language_config(lang_code: str) -> LanguageConfig:
+    cfg_path = Path("config/languages") / f"{lang_code}.yml"
+    data = yaml.safe_load(cfg_path.read_text(encoding="utf-8"))
+
+    return LanguageConfig(
+        lang_code=data["lang_code"],
+        infinitives_jsonl=Path(data["infinitives_jsonl"]),
+        output_dir=Path(data["output_dir"]),
+        auxiliary=data.get("auxiliary", "haber"),
+        category_config=data["category_config"],
+        row_meta=data["row_meta"],
+        row_order=data["row_order"],
+    )
+
+
+def _load_run_config(profile: str) -> RunConfig:
+    cfg_path = Path("config/runs") / f"{profile}.yml"
+    data = yaml.safe_load(cfg_path.read_text(encoding="utf-8"))
+
+    return RunConfig(
+        profile=data["profile"],
+        max_verbs=data.get("max_verbs", None),
+        languages=data["languages"],
+    )
 
 
 def tense_key(tags):
@@ -87,8 +110,8 @@ def split_refl(form_str):
     return None, form_str
 
 
-def get_base_infinitive(entry: dict) -> (str, str):
-    """Return a normalized base infinitive, stripping reflexive 'se' for Spanish."""
+def get_base_infinitive(entry: dict) -> tuple[str, str]:
+    """Return a normalized base infinitive, e.g. stripping reflexive 'se' for Spanish."""
     lemma = entry.get("word", "") or ""
     lang = entry.get("lang_code")
 
@@ -130,7 +153,7 @@ def merge_pronouns(p2: str | None, p7: str | None) -> str | None:
     def split_pron(p: str) -> list[str]:
         return [part for part in p.strip().split(" //") if part]
 
-    parts = []
+    parts: list[str] = []
     for part in split_pron(p2):
         if part not in parts:
             parts.append(part)
@@ -141,118 +164,7 @@ def merge_pronouns(p2: str | None, p7: str | None) -> str | None:
     return " //".join(parts) + " " if parts else None
 
 
-def build_row_meta():
-    """Map internal keys to (row label, mode, Kaikki tense-key)."""
-    return {
-        "infinitivo": {
-            "label": "Infinitivo",
-            "mode": "infinitivo",
-            "key": None,  # from lemma
-        },
-        "gerundio": {
-            "label": "Gerundio",
-            "mode": "gerundio",
-            "key": ("gerund",),
-        },
-        "participio": {
-            "label": "Participio",
-            "mode": "participio",
-            "key": ("participle",),
-        },
-        "ind_presente": {
-            "label": "Indicativo Presente",
-            "mode": "indicativo",
-            "key": ("indicative", "present"),
-        },
-        "ind_imperfecto": {
-            "label": "Indicativo Pretérito Imperfecto",
-            "mode": "indicativo",
-            "key": ("imperfect", "indicative", "past"),
-        },
-        "ind_preterito_indefinido": {
-            "label": "Indicativo Pretérito Indefinido",
-            "mode": "indicativo",
-            "key": ("indicative", "perfect", "present"),
-        },
-        "ind_futuro": {
-            "label": "Indicativo Futuro",
-            "mode": "indicativo",
-            "key": ("future", "indicative"),
-        },
-        "ind_preterito_perfecto": {
-            "label": "Indicativo Pretérito Perfecto",
-            "mode": "indicativo",
-            "key": ("compound", "indicative", "perfect", "present"),
-        },
-        "ind_pluscuamperfecto": {
-            "label": "Indicativo Pretérito Pluscuamperfecto",
-            "mode": "indicativo",
-            "key": ("indicative", "pluperfect"),
-        },
-        "ind_preterito_anterior": {
-            "label": "Indicativo Pretérito Anterior",
-            "mode": "indicativo",
-            "key": ("anterior", "archaic", "indicative", "past"),
-        },
-        "ind_futuro_perfecto": {
-            "label": "Indicativo Futuro Perfecto",
-            "mode": "indicativo",
-            "key": ("compound", "future", "indicative"),
-        },
-        "subj_presente": {
-            "label": "Subjuntivo Presente",
-            "mode": "subjuntivo",
-            "key": ("present", "subjunctive"),
-        },
-        "subj_imperfecto": {
-            "label": "Subjuntivo Pretérito Imperfecto",
-            "mode": "subjuntivo",
-            "key": ("imperfect", "past", "subjunctive"),
-        },
-        "subj_futuro": {
-            "label": "Subjuntivo Futuro",
-            "mode": "subjuntivo",
-            "key": ("archaic", "future", "subjunctive"),
-        },
-        "subj_preterito_perfecto": {
-            "label": "Subjuntivo Pretérito Perfecto",
-            "mode": "subjuntivo",
-            "key": ("perfect", "present", "subjunctive"),
-        },
-        "subj_pluscuamperfecto": {
-            "label": "Subjuntivo Pretérito Pluscuamperfecto",
-            "mode": "subjuntivo",
-            "key": ("pluperfect", "subjunctive"),
-        },
-        "subj_futuro_perfecto": {
-            "label": "Subjuntivo Futuro Perfecto",
-            "mode": "subjuntivo",
-            "key": ("archaic", "compound", "future", "subjunctive"),
-        },
-        "condicional": {
-            "label": "Condicional",
-            "mode": "condicional",
-            "key": ("conditional",),
-        },
-        "condicional_perfecto": {
-            "label": "Condicional Perfecto",
-            "mode": "condicional",
-            "key": ("compound", "conditional"),
-        },
-        "imp_afirmativo": {
-            "label": "Imperativo Afirmativo",
-            "mode": "imperativo",
-            "key": ("imperative", "present"),
-        },
-        "imp_negativo": {
-            "label": "Imperativo Negativo",
-            "mode": "imperativo",
-            "key": None,  # special case handled in code
-        },
-    }
-
-
-def build_header():
+def build_header() -> list[str]:
     """Build CSV header row."""
     header = ["", "mode"]
     for i in range(1, 8):
@@ -268,59 +180,34 @@ def build_header():
     return header
 
 
-def extract_category_tags(entry: dict) -> list[str]:
-    """Return normalized tags as a list."""
-    lang_code = entry.get("lang_code")
-    if not lang_code:
-        return []
-
-    lang_cfg = CATEGORY_CONFIG.get(lang_code)
-    if not lang_cfg:
-        return []
-
-    mapping = lang_cfg.get("categories", {})
-    result: list[str] = []
-
-    for cat in entry.get("categories", []):
-        if cat in mapping:
-            tag = mapping[cat]
-            if tag not in result:
-                result.append(tag)
-
-    return result
-
-
-def extract_metadata(entry: dict) -> dict[str, list[str]]:
+def extract_metadata(entry: dict, lang_cfg: LanguageConfig) -> dict[str, list[str]]:
     """
     Read entry['categories'] and return something like:
       {
         "categories": ["tercera conjugación", "irregular", "transitivo"],
         "paradigma": ["dar"],
+        "base_infinitive": ["meter"],
+        "reflexive": ["True"],
+        "auxiliary": ["haber"],
+        "endings": ["er"],
+        "stem": ["met"],
       }
-
-    Rules per CATEGORY_CONFIG:
-      - if config value is a dict with 'prefix' → prefix-based extractor
-      - otherwise it's a simple lookup mapping: wikicat -> normalized tag
     """
     lang_code = entry.get("lang_code")
-    if not lang_code:
-        return {}
-
-    lang_cfg = CATEGORY_CONFIG.get(lang_code)
-    if not lang_cfg:
-        return {}
+    if lang_code != lang_cfg.lang_code:
+        return {}  # for now: silently ignore entries from other languages
 
     cats = entry.get("categories", []) or []
+    cfg = lang_cfg.category_config
+
     result: dict[str, list[str]] = {}
 
-    # add normalized base infinitive and reflexive flag
     base_infinitive, reflexive_bool = get_base_infinitive(entry)
     result["base_infinitive"] = [base_infinitive]
     result["reflexive"] = [reflexive_bool]
+    result["auxiliary"] = [lang_cfg.auxiliary]
 
-    result["auxiliary"] = ["haber"]  # Spanish verbs always use 'haber'
-
-    for row_label, conf in lang_cfg.items():
+    for row_label, conf in cfg.items():
         # Case 1: prefix-based extractor, e.g. "paradigma": {"prefix": "ES:Verbos del paradigma "}
         if isinstance(conf, dict) and "prefix" in conf:
             prefix = conf["prefix"]
@@ -332,8 +219,9 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
                     lst = result.setdefault(row_label, [])
                     if suffix not in lst:
                         lst.append(suffix)
+
         # Case 2: simple mapping from full category → normalized tag
-        if isinstance(conf, dict):
+        if isinstance(conf, dict) and "prefix" not in conf:
             mapping = conf
             values = result.setdefault(row_label, [])
             for cat in cats:
@@ -345,21 +233,19 @@ def extract_metadata(entry: dict) -> dict[str, list[str]]:
 
         # Case 3: endings → choose first matching
         if isinstance(conf, list):
-            base_inf = result.get("base_infinitive")[0]
             for ending in conf:
-                if base_inf.endswith(ending):
+                if base_infinitive.endswith(ending):
                     lst = result.setdefault(row_label, [])
                     lst.append(ending)
-                    result["stem"] = [base_inf[: -len(ending)]]
+                    result["stem"] = [base_infinitive[: -len(ending)]]
                     break
-            continue
 
     return result
 
 
-def build_metadata_df(entry: dict, header: list[str]) -> pl.DataFrame | None:
-    """Turn extract_metadata(entry) into 1+ DataFrame rows aligned to `header`."""
-    meta_map = extract_metadata(entry)
+def build_metadata_df(entry: dict, header: list[str], lang_cfg: LanguageConfig) -> pl.DataFrame | None:
+    """Build a Polars DataFrame for the metadata rows."""
+    meta_map = extract_metadata(entry, lang_cfg)
     if not meta_map:
         return None
 
@@ -369,7 +255,6 @@ def build_metadata_df(entry: dict, header: list[str]) -> pl.DataFrame | None:
         if not values:
             continue
 
-        # first column: row_label; then all values; then pad to header length
         row_vals: list[str | None] = [row_label, *values]
         if len(row_vals) < len(header):
             row_vals.extend([None] * (len(header) - len(row_vals)))
@@ -381,21 +266,23 @@ def build_metadata_df(entry: dict, header: list[str]) -> pl.DataFrame | None:
     if not rows:
         return None
 
-    # force a consistent UTF-8 schema for all columns + explicit row orientation
     schema = {col: pl.Utf8 for col in header}
     return pl.DataFrame(rows, schema=schema, orient="row")
 
 
-def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Path):
+def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig):
     """Build CSV file for a single verb entry."""
-    forms = entry.get("forms", [])
     lemma = entry.get("word")
+    forms = entry.get("forms", [])
 
     # group forms by tense-key
     forms_by_key = collections.defaultdict(list)
     for f in forms:
         tk = tense_key(f["tags"])
         forms_by_key[tk].append(f)
+
+    row_meta = lang_cfg.row_meta
+    row_order = lang_cfg.row_order
 
     rows: list[dict[str, str | None]] = []
 
@@ -409,21 +296,21 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
             row["conjunction-1"] = lemma
 
         elif key == "gerundio":
-            g_forms = forms_by_key.get(meta["key"], [])
+            g_forms = forms_by_key.get(tuple(meta["key"]), [])
             if g_forms:
                 chosen = min(g_forms, key=lambda f: len(f["form"]))
                 row["conjunction-1"] = chosen["form"]
 
         elif key == "participio":
-            p_forms = forms_by_key.get(meta["key"], [])
+            p_forms = forms_by_key.get(tuple(meta["key"]), [])
             if p_forms:
                 row["conjunction-1"] = p_forms[0]["form"]
 
         else:
             if key == "imp_negativo":
-                tk = row_meta["subj_presente"]["key"]
+                tk = tuple(row_meta["subj_presente"]["key"])
             else:
-                tk = meta["key"]
+                tk = tuple(meta["key"])
 
             f_list = forms_by_key.get(tk, [])
 
@@ -461,7 +348,6 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
 
                     del by_idx[7]
 
-            # fill remaining slots
             for idx, flist in by_idx.items():
                 if key == "imp_negativo" and idx == 1:
                     continue
@@ -471,7 +357,6 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
                     refl, verb = split_refl(conj)
                     pron = normalize_pronoun(f.get("raw_tags", []))
 
-                    # c_conj = f"conjunction-{idx}"  # not used for Spanish but will be in other languages
                     c_pron = f"pronoun-{idx}"
                     c_neg = f"negation-{idx}"
                     c_refl = f"refl_pronoun-{idx}"
@@ -495,18 +380,15 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
 
         rows.append(row)
 
-    output_dir.mkdir(parents=True, exist_ok=True)
-    out_path = output_dir / f"{lemma}.csv"
+    lang_cfg.output_dir.mkdir(parents=True, exist_ok=True)
+    out_path = lang_cfg.output_dir / f"{lemma}.csv"
 
-    # main conjugation table
-    schema = {col: pl.Utf8 for col in header}  # schema with all UTF-8 columns
+    schema = {col: pl.Utf8 for col in header}
     df_conj = pl.DataFrame(rows, schema=schema, orient="row")
 
-    # metadata row
-    df_meta = build_metadata_df(entry, header)
-
+    df_meta = build_metadata_df(entry, header, lang_cfg)
     if df_meta is not None:
-        df_meta = df_meta.cast(schema)  # ensure same schema
+        df_meta = df_meta.cast(schema)
         df_final = pl.concat([df_conj, df_meta], how="vertical")
     else:
         df_final = df_conj
@@ -515,51 +397,38 @@ def build_csv_for_entry(entry: dict, header, row_meta, row_order, output_dir: Pa
     print(f"Wrote CSV to {out_path}")
 
 
-def main():
-    """Main function to convert infinitive verbs JSONL into per-verb CSV files."""
+def run_for_language(lang_cfg: LanguageConfig, max_verbs: int | None):
+    """Run CSV generation for a single language."""
     header = build_header()
-    row_meta = build_row_meta()
-    row_order = [
-        "infinitivo",
-        "gerundio",
-        "participio",
-        "ind_presente",
-        "ind_imperfecto",
-        "ind_preterito_indefinido",
-        "ind_futuro",
-        "ind_preterito_perfecto",
-        "ind_pluscuamperfecto",
-        "ind_preterito_anterior",
-        "ind_futuro_perfecto",
-        "subj_presente",
-        "subj_imperfecto",
-        "subj_futuro",
-        "subj_preterito_perfecto",
-        "subj_pluscuamperfecto",
-        "subj_futuro_perfecto",
-        "condicional",
-        "condicional_perfecto",
-        "imp_afirmativo",
-        "imp_negativo",
-    ]
-
     count = 0
-    with INFINITIVES_JSONL.open("r", encoding="utf-8") as f:
+
+    with lang_cfg.infinitives_jsonl.open("r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if not line:
                 continue
 
             entry = json.loads(line)
-            build_csv_for_entry(entry, header, row_meta, row_order, OUTPUT_DIR)
+            build_csv_for_entry(entry, header, lang_cfg)
 
             count += 1
-            if MAX_VERBS is not None and count >= MAX_VERBS:
-                print(f"Stopped after {MAX_VERBS} verbs (MAX_VERBS limit).")
+            if max_verbs is not None and count >= max_verbs:
+                print(f"[{lang_cfg.lang_code}] Stopped after {max_verbs} verbs.")
                 break
 
 
-if __name__ == "__main__":
+def main(profile: str = "dev"):
+    """ "Main function to convert infinitive verbs JSONL into per-verb CSV files."""
+    run_cfg = _load_run_config(profile)
     start = time.time()
-    main()
+
+    for lang_code in run_cfg.languages:
+        lang_cfg = _load_language_config(lang_code)
+        print(f"Running profile={run_cfg.profile} for language={lang_code}")
+        run_for_language(lang_cfg, run_cfg.max_verbs)
+
     print(f"Completed in {time.time() - start:.2f} seconds.")
+
+
+if __name__ == "__main__":
+    main()

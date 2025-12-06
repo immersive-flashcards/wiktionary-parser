@@ -195,7 +195,7 @@ def extract_metadata(entry: dict, lang_cfg: LanguageConfig) -> dict[str, list[st
     """
     lang_code = entry.get("lang_code")
     if lang_code != lang_cfg.lang_code:
-        return {}   # for now: silently ignore entries from other languages
+        return {}  # for now: silently ignore entries from other languages
 
     cats = entry.get("categories", []) or []
     cfg = lang_cfg.category_config
@@ -418,7 +418,7 @@ def run_for_language(lang_cfg: LanguageConfig, max_verbs: int | None):
 
 
 def main(profile: str = "dev"):
-    """"Main function to convert infinitive verbs JSONL into per-verb CSV files."""
+    """ "Main function to convert infinitive verbs JSONL into per-verb CSV files."""
     run_cfg = _load_run_config(profile)
     start = time.time()
 

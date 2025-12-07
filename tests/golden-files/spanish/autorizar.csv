@@ -1,0 +1,31 @@
+"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;autorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;autorizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;autorizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;autorizo;;tú ;;;autorizas;;él //ella //usted ;;;autoriza;;nosotros ;;;autorizamos;;vosotros ;;;autorizáis;;ustedes //ellos //ellas ;;;autorizan;;vos ;;;autorizás
+Indicativo Pretérito Imperfecto;indicativo;;yo ;;;autorizaba;;tú //vos ;;;autorizabas;;él //ella //usted ;;;autorizaba;;nosotros ;;;autorizábamos;;vosotros ;;;autorizabais;;ustedes //ellos //ellas ;;;autorizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;autoricé;;tú //vos ;;;autorizaste;;él //ella //usted ;;;autorizó;;nosotros ;;;autorizamos;;vosotros ;;;autorizasteis;;ustedes //ellos //ellas ;;;autorizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;autorizaré;;tú //vos ;;;autorizarás;;él //ella //usted ;;;autorizará;;nosotros ;;;autorizaremos;;vosotros ;;;autorizaréis;;ustedes //ellos //ellas ;;;autorizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he autorizado;;tú //vos ;;;has autorizado;;él //ella //usted ;;;ha autorizado;;nosotros ;;;hemos autorizado;;vosotros ;;;habéis autorizado;;ustedes //ellos //ellas ;;;han autorizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había autorizado;;tú //vos ;;;habías autorizado;;él //ella //usted ;;;había autorizado;;nosotros ;;;habíamos autorizado;;vosotros ;;;habíais autorizado;;ustedes //ellos //ellas ;;;habían autorizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube autorizado;;tú //vos ;;;hubiste autorizado;;él //ella //usted ;;;hubo autorizado;;nosotros ;;;hubimos autorizado;;vosotros ;;;hubisteis autorizado;;ustedes //ellos //ellas ;;;hubieron autorizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré autorizado;;tú //vos ;;;habrás autorizado;;él //ella //usted ;;;habrá autorizado;;nosotros ;;;habremos autorizado;;vosotros ;;;habréis autorizado;;ustedes //ellos //ellas ;;;habrán autorizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;autorice;;tú //vos ;;;autorices;;él //ella //usted ;;;autorice;;nosotros ;;;autoricemos;;vosotros ;;;autoricéis;;ustedes //ellos //ellas ;;;autoricen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;autorizara / autorizase;;tú //vos ;;;autorizaras / autorizases;;él //ella //usted ;;;autorizara / autorizase;;nosotros ;;;autorizáramos / autorizásemos;;vosotros ;;;autorizarais / autorizaseis;;ustedes //ellos //ellas ;;;autorizaran / autorizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;autorizare;;tú //vos ;;;autorizares;;él //ella //usted ;;;autorizare;;nosotros ;;;autorizáremos;;vosotros ;;;autorizareis;;ustedes //ellos //ellas ;;;autorizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya autorizado;;tú //vos ;;;hayas autorizado;;él //ella //usted ;;;haya autorizado;;nosotros ;;;hayamos autorizado;;vosotros ;;;hayáis autorizado;;ustedes //ellos //ellas ;;;hayan autorizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera autorizado / hubiese autorizado;;tú //vos ;;;hubieras autorizado / hubieses autorizado;;él //ella //usted ;;;hubiera autorizado / hubiese autorizado;;nosotros ;;;hubiéramos autorizado / hubiésemos autorizado;;vosotros ;;;hubierais autorizado / hubieseis autorizado;;ustedes //ellos //ellas ;;;hubieran autorizado / hubiesen autorizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere autorizado;;tú //vos ;;;hubieres autorizado;;él //ella //usted ;;;hubiere autorizado;;nosotros ;;;hubiéremos autorizado;;vosotros ;;;hubiereis autorizado;;ustedes //ellos //ellas ;;;hubieren autorizado;;;;;
+Condicional;condicional;;yo ;;;autorizaría;;tú //vos ;;;autorizarías;;él //ella //usted ;;;autorizaría;;nosotros ;;;autorizaríamos;;vosotros ;;;autorizaríais;;ustedes //ellos //ellas ;;;autorizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría autorizado;;tú //vos ;;;habrías autorizado;;él //ella //usted ;;;habría autorizado;;nosotros ;;;habríamos autorizado;;vosotros ;;;habríais autorizado;;ustedes //ellos //ellas ;;;habrían autorizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;autoriza;;(usted) ;;;autorice;;(nosotros) ;;;autoricemos;;(vosotros) ;;;autorizad;;(ustedes) ;;;autoricen;;(vos) ;;;autorizá
+Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;autorices;;él //ella //usted ;no ;;autorice;;nosotros ;no ;;autoricemos;;vosotros ;no ;;autoricéis;;ustedes //ellos //ellas ;no ;;autoricen;;;;;
+base_infinitive;autorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+categories;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;autoriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

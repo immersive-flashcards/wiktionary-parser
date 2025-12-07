@@ -1,0 +1,31 @@
+"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;cazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;cazando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;cazado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;cazo;;tú ;;;cazas;;él //ella //usted ;;;caza;;nosotros ;;;cazamos;;vosotros ;;;cazáis;;ustedes //ellos //ellas ;;;cazan;;vos ;;;cazás
+Indicativo Pretérito Imperfecto;indicativo;;yo ;;;cazaba;;tú //vos ;;;cazabas;;él //ella //usted ;;;cazaba;;nosotros ;;;cazábamos;;vosotros ;;;cazabais;;ustedes //ellos //ellas ;;;cazaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;cacé;;tú //vos ;;;cazaste;;él //ella //usted ;;;cazó;;nosotros ;;;cazamos;;vosotros ;;;cazasteis;;ustedes //ellos //ellas ;;;cazaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;cazaré;;tú //vos ;;;cazarás;;él //ella //usted ;;;cazará;;nosotros ;;;cazaremos;;vosotros ;;;cazaréis;;ustedes //ellos //ellas ;;;cazarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he cazado;;tú //vos ;;;has cazado;;él //ella //usted ;;;ha cazado;;nosotros ;;;hemos cazado;;vosotros ;;;habéis cazado;;ustedes //ellos //ellas ;;;han cazado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había cazado;;tú //vos ;;;habías cazado;;él //ella //usted ;;;había cazado;;nosotros ;;;habíamos cazado;;vosotros ;;;habíais cazado;;ustedes //ellos //ellas ;;;habían cazado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube cazado;;tú //vos ;;;hubiste cazado;;él //ella //usted ;;;hubo cazado;;nosotros ;;;hubimos cazado;;vosotros ;;;hubisteis cazado;;ustedes //ellos //ellas ;;;hubieron cazado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré cazado;;tú //vos ;;;habrás cazado;;él //ella //usted ;;;habrá cazado;;nosotros ;;;habremos cazado;;vosotros ;;;habréis cazado;;ustedes //ellos //ellas ;;;habrán cazado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;cace;;tú //vos ;;;caces;;él //ella //usted ;;;cace;;nosotros ;;;cacemos;;vosotros ;;;cacéis;;ustedes //ellos //ellas ;;;cacen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;cazara / cazase;;tú //vos ;;;cazaras / cazases;;él //ella //usted ;;;cazara / cazase;;nosotros ;;;cazáramos / cazásemos;;vosotros ;;;cazarais / cazaseis;;ustedes //ellos //ellas ;;;cazaran / cazasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;cazare;;tú //vos ;;;cazares;;él //ella //usted ;;;cazare;;nosotros ;;;cazáremos;;vosotros ;;;cazareis;;ustedes //ellos //ellas ;;;cazaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya cazado;;tú //vos ;;;hayas cazado;;él //ella //usted ;;;haya cazado;;nosotros ;;;hayamos cazado;;vosotros ;;;hayáis cazado;;ustedes //ellos //ellas ;;;hayan cazado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera cazado / hubiese cazado;;tú //vos ;;;hubieras cazado / hubieses cazado;;él //ella //usted ;;;hubiera cazado / hubiese cazado;;nosotros ;;;hubiéramos cazado / hubiésemos cazado;;vosotros ;;;hubierais cazado / hubieseis cazado;;ustedes //ellos //ellas ;;;hubieran cazado / hubiesen cazado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere cazado;;tú //vos ;;;hubieres cazado;;él //ella //usted ;;;hubiere cazado;;nosotros ;;;hubiéremos cazado;;vosotros ;;;hubiereis cazado;;ustedes //ellos //ellas ;;;hubieren cazado;;;;;
+Condicional;condicional;;yo ;;;cazaría;;tú //vos ;;;cazarías;;él //ella //usted ;;;cazaría;;nosotros ;;;cazaríamos;;vosotros ;;;cazaríais;;ustedes //ellos //ellas ;;;cazarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría cazado;;tú //vos ;;;habrías cazado;;él //ella //usted ;;;habría cazado;;nosotros ;;;habríamos cazado;;vosotros ;;;habríais cazado;;ustedes //ellos //ellas ;;;habrían cazado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;caza;;(usted) ;;;cace;;(nosotros) ;;;cacemos;;(vosotros) ;;;cazad;;(ustedes) ;;;cacen;;(vos) ;;;cazá
+Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;caces;;él //ella //usted ;no ;;cace;;nosotros ;no ;;cacemos;;vosotros ;no ;;cacéis;;ustedes //ellos //ellas ;no ;;cacen;;;;;
+base_infinitive;cazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+categories;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;caz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

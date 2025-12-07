@@ -1,0 +1,31 @@
+"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;brizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;brizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;brizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;brizo;;tú ;;;brizas;;él //ella //usted ;;;briza;;nosotros ;;;brizamos;;vosotros ;;;brizáis;;ustedes //ellos //ellas ;;;brizan;;vos ;;;brizás
+Indicativo Pretérito Imperfecto;indicativo;;yo ;;;brizaba;;tú //vos ;;;brizabas;;él //ella //usted ;;;brizaba;;nosotros ;;;brizábamos;;vosotros ;;;brizabais;;ustedes //ellos //ellas ;;;brizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;bricé;;tú //vos ;;;brizaste;;él //ella //usted ;;;brizó;;nosotros ;;;brizamos;;vosotros ;;;brizasteis;;ustedes //ellos //ellas ;;;brizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;brizaré;;tú //vos ;;;brizarás;;él //ella //usted ;;;brizará;;nosotros ;;;brizaremos;;vosotros ;;;brizaréis;;ustedes //ellos //ellas ;;;brizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he brizado;;tú //vos ;;;has brizado;;él //ella //usted ;;;ha brizado;;nosotros ;;;hemos brizado;;vosotros ;;;habéis brizado;;ustedes //ellos //ellas ;;;han brizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había brizado;;tú //vos ;;;habías brizado;;él //ella //usted ;;;había brizado;;nosotros ;;;habíamos brizado;;vosotros ;;;habíais brizado;;ustedes //ellos //ellas ;;;habían brizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube brizado;;tú //vos ;;;hubiste brizado;;él //ella //usted ;;;hubo brizado;;nosotros ;;;hubimos brizado;;vosotros ;;;hubisteis brizado;;ustedes //ellos //ellas ;;;hubieron brizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré brizado;;tú //vos ;;;habrás brizado;;él //ella //usted ;;;habrá brizado;;nosotros ;;;habremos brizado;;vosotros ;;;habréis brizado;;ustedes //ellos //ellas ;;;habrán brizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;brice;;tú //vos ;;;brices;;él //ella //usted ;;;brice;;nosotros ;;;bricemos;;vosotros ;;;bricéis;;ustedes //ellos //ellas ;;;bricen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;brizara / brizase;;tú //vos ;;;brizaras / brizases;;él //ella //usted ;;;brizara / brizase;;nosotros ;;;brizáramos / brizásemos;;vosotros ;;;brizarais / brizaseis;;ustedes //ellos //ellas ;;;brizaran / brizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;brizare;;tú //vos ;;;brizares;;él //ella //usted ;;;brizare;;nosotros ;;;brizáremos;;vosotros ;;;brizareis;;ustedes //ellos //ellas ;;;brizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya brizado;;tú //vos ;;;hayas brizado;;él //ella //usted ;;;haya brizado;;nosotros ;;;hayamos brizado;;vosotros ;;;hayáis brizado;;ustedes //ellos //ellas ;;;hayan brizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera brizado / hubiese brizado;;tú //vos ;;;hubieras brizado / hubieses brizado;;él //ella //usted ;;;hubiera brizado / hubiese brizado;;nosotros ;;;hubiéramos brizado / hubiésemos brizado;;vosotros ;;;hubierais brizado / hubieseis brizado;;ustedes //ellos //ellas ;;;hubieran brizado / hubiesen brizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere brizado;;tú //vos ;;;hubieres brizado;;él //ella //usted ;;;hubiere brizado;;nosotros ;;;hubiéremos brizado;;vosotros ;;;hubiereis brizado;;ustedes //ellos //ellas ;;;hubieren brizado;;;;;
+Condicional;condicional;;yo ;;;brizaría;;tú //vos ;;;brizarías;;él //ella //usted ;;;brizaría;;nosotros ;;;brizaríamos;;vosotros ;;;brizaríais;;ustedes //ellos //ellas ;;;brizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría brizado;;tú //vos ;;;habrías brizado;;él //ella //usted ;;;habría brizado;;nosotros ;;;habríamos brizado;;vosotros ;;;habríais brizado;;ustedes //ellos //ellas ;;;habrían brizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;briza;;(usted) ;;;brice;;(nosotros) ;;;bricemos;;(vosotros) ;;;brizad;;(ustedes) ;;;bricen;;(vos) ;;;brizá
+Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;brices;;él //ella //usted ;no ;;brice;;nosotros ;no ;;bricemos;;vosotros ;no ;;bricéis;;ustedes //ellos //ellas ;no ;;bricen;;;;;
+base_infinitive;brizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+categories;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;briz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

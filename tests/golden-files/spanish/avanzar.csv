@@ -1,0 +1,31 @@
+"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;avanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;avanzando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;avanzado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;avanzo;;tú ;;;avanzas;;él //ella //usted ;;;avanza;;nosotros ;;;avanzamos;;vosotros ;;;avanzáis;;ustedes //ellos //ellas ;;;avanzan;;vos ;;;avanzás
+Indicativo Pretérito Imperfecto;indicativo;;yo ;;;avanzaba;;tú //vos ;;;avanzabas;;él //ella //usted ;;;avanzaba;;nosotros ;;;avanzábamos;;vosotros ;;;avanzabais;;ustedes //ellos //ellas ;;;avanzaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;avancé;;tú //vos ;;;avanzaste;;él //ella //usted ;;;avanzó;;nosotros ;;;avanzamos;;vosotros ;;;avanzasteis;;ustedes //ellos //ellas ;;;avanzaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;avanzaré;;tú //vos ;;;avanzarás;;él //ella //usted ;;;avanzará;;nosotros ;;;avanzaremos;;vosotros ;;;avanzaréis;;ustedes //ellos //ellas ;;;avanzarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he avanzado;;tú //vos ;;;has avanzado;;él //ella //usted ;;;ha avanzado;;nosotros ;;;hemos avanzado;;vosotros ;;;habéis avanzado;;ustedes //ellos //ellas ;;;han avanzado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había avanzado;;tú //vos ;;;habías avanzado;;él //ella //usted ;;;había avanzado;;nosotros ;;;habíamos avanzado;;vosotros ;;;habíais avanzado;;ustedes //ellos //ellas ;;;habían avanzado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube avanzado;;tú //vos ;;;hubiste avanzado;;él //ella //usted ;;;hubo avanzado;;nosotros ;;;hubimos avanzado;;vosotros ;;;hubisteis avanzado;;ustedes //ellos //ellas ;;;hubieron avanzado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré avanzado;;tú //vos ;;;habrás avanzado;;él //ella //usted ;;;habrá avanzado;;nosotros ;;;habremos avanzado;;vosotros ;;;habréis avanzado;;ustedes //ellos //ellas ;;;habrán avanzado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;avance;;tú //vos ;;;avances;;él //ella //usted ;;;avance;;nosotros ;;;avancemos;;vosotros ;;;avancéis;;ustedes //ellos //ellas ;;;avancen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;avanzara / avanzase;;tú //vos ;;;avanzaras / avanzases;;él //ella //usted ;;;avanzara / avanzase;;nosotros ;;;avanzáramos / avanzásemos;;vosotros ;;;avanzarais / avanzaseis;;ustedes //ellos //ellas ;;;avanzaran / avanzasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;avanzare;;tú //vos ;;;avanzares;;él //ella //usted ;;;avanzare;;nosotros ;;;avanzáremos;;vosotros ;;;avanzareis;;ustedes //ellos //ellas ;;;avanzaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya avanzado;;tú //vos ;;;hayas avanzado;;él //ella //usted ;;;haya avanzado;;nosotros ;;;hayamos avanzado;;vosotros ;;;hayáis avanzado;;ustedes //ellos //ellas ;;;hayan avanzado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera avanzado / hubiese avanzado;;tú //vos ;;;hubieras avanzado / hubieses avanzado;;él //ella //usted ;;;hubiera avanzado / hubiese avanzado;;nosotros ;;;hubiéramos avanzado / hubiésemos avanzado;;vosotros ;;;hubierais avanzado / hubieseis avanzado;;ustedes //ellos //ellas ;;;hubieran avanzado / hubiesen avanzado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere avanzado;;tú //vos ;;;hubieres avanzado;;él //ella //usted ;;;hubiere avanzado;;nosotros ;;;hubiéremos avanzado;;vosotros ;;;hubiereis avanzado;;ustedes //ellos //ellas ;;;hubieren avanzado;;;;;
+Condicional;condicional;;yo ;;;avanzaría;;tú //vos ;;;avanzarías;;él //ella //usted ;;;avanzaría;;nosotros ;;;avanzaríamos;;vosotros ;;;avanzaríais;;ustedes //ellos //ellas ;;;avanzarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría avanzado;;tú //vos ;;;habrías avanzado;;él //ella //usted ;;;habría avanzado;;nosotros ;;;habríamos avanzado;;vosotros ;;;habríais avanzado;;ustedes //ellos //ellas ;;;habrían avanzado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;avanza;;(usted) ;;;avance;;(nosotros) ;;;avancemos;;(vosotros) ;;;avanzad;;(ustedes) ;;;avancen;;(vos) ;;;avanzá
+Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;avances;;él //ella //usted ;no ;;avance;;nosotros ;no ;;avancemos;;vosotros ;no ;;avancéis;;ustedes //ellos //ellas ;no ;;avancen;;;;;
+base_infinitive;avanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+categories;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;avanz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

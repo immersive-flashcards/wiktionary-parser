@@ -45,7 +45,7 @@ def is_infinitive_verb(entry: dict, cfg: dict) -> bool:
 def process_language(key: str, cfg: dict):
     """Process a single language to extract infinitive verbs."""
 
-    input_file = BASE_INPUT / f"{key}-extract.jsonl"
+    input_file = BASE_INPUT / f"{key}-extract.jsonl.gz"
 
     # Write compressed .jsonl.gz
     output_file = BASE_OUTPUT / f"{key}-infinitives.jsonl.gz"
@@ -54,7 +54,8 @@ def process_language(key: str, cfg: dict):
     kept = 0
     seen = 0
 
-    with input_file.open("r", encoding="utf-8") as fin, gzip.open(output_file, "wt", encoding="utf-8") as fout:
+    # Read gzipped input, write gzipped output
+    with gzip.open(input_file, "rt", encoding="utf-8") as fin, gzip.open(output_file, "wt", encoding="utf-8") as fout:
 
         for line in fin:
             seen += 1

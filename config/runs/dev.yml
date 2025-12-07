@@ -1,5 +1,7 @@
 profile: "dev"
 max_verbs: 25
 
+output_dir: "data/verb-csvs"
+
 languages:
   - "es"

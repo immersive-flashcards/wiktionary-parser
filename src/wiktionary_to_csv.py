@@ -31,6 +31,7 @@ class RunConfig:
     profile: str
     max_verbs: int | None
     languages: list[str]
+    output_dir: Path
 
 
 def _load_language_config(lang_code: str) -> LanguageConfig:
@@ -56,6 +57,7 @@ def _load_run_config(profile: str) -> RunConfig:
         profile=data["profile"],
         max_verbs=data.get("max_verbs", None),
         languages=data["languages"],
+        output_dir=Path(data["output_dir"]),
     )
 
 
@@ -270,7 +272,7 @@ def build_metadata_df(entry: dict, header: list[str], lang_cfg: LanguageConfig) 
     return pl.DataFrame(rows, schema=schema, orient="row")
 
 
-def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig):
+def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: RunConfig):
     """Build CSV file for a single verb entry."""
     lemma = entry.get("word")
     forms = entry.get("forms", [])
@@ -380,8 +382,9 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig):
 
         rows.append(row)
 
-    lang_cfg.output_dir.mkdir(parents=True, exist_ok=True)
-    out_path = lang_cfg.output_dir / f"{lemma}.csv"
+    out_path = run_cfg.output_dir / lang_cfg.output_dir
+    out_path.mkdir(parents=True, exist_ok=True)
+    out_file = out_path / f"{lemma}.csv"
 
     schema = {col: pl.Utf8 for col in header}
     df_conj = pl.DataFrame(rows, schema=schema, orient="row")
@@ -393,11 +396,11 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig):
     else:
         df_final = df_conj
 
-    df_final.write_csv(out_path, separator=";")
-    print(f"Wrote CSV to {out_path}")
+    df_final.write_csv(out_file, separator=";")
+    print(f"Wrote CSV to {out_file}")
 
 
-def run_for_language(lang_cfg: LanguageConfig, max_verbs: int | None):
+def run_for_language(lang_cfg: LanguageConfig, run_cfg: RunConfig):
     """Run CSV generation for a single language."""
     header = build_header()
     count = 0
@@ -409,11 +412,11 @@ def run_for_language(lang_cfg: LanguageConfig, max_verbs: int | None):
                 continue
 
             entry = json.loads(line)
-            build_csv_for_entry(entry, header, lang_cfg)
+            build_csv_for_entry(entry, header, lang_cfg, run_cfg)
 
             count += 1
-            if max_verbs is not None and count >= max_verbs:
-                print(f"[{lang_cfg.lang_code}] Stopped after {max_verbs} verbs.")
+            if run_cfg.max_verbs is not None and count >= run_cfg.max_verbs:
+                print(f"[{lang_cfg.lang_code}] Stopped after {run_cfg.max_verbs} verbs.")
                 break
 
 
@@ -425,7 +428,7 @@ def main(profile: str = "dev"):
     for lang_code in run_cfg.languages:
         lang_cfg = _load_language_config(lang_code)
         print(f"Running profile={run_cfg.profile} for language={lang_code}")
-        run_for_language(lang_cfg, run_cfg.max_verbs)
+        run_for_language(lang_cfg, run_cfg)
 
     print(f"Completed in {time.time() - start:.2f} seconds.")
 

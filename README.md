@@ -1,5 +1,7 @@
 # Wiktionary Parser
 
+[![CI](https://github.com/immersive-flashcards/wiktionary-parser/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/immersive-flashcards/wiktionary-parser/actions/workflows/ci.yml)
+
 This repository extracts **infinitive verbs** and **full conjugation data** from Kaikki/Wiktionary JSONL dumps for use in the _Dynamic Verb Conjugation_ project.
 
 - **Infinitive extraction:** filters raw entries by language rules.

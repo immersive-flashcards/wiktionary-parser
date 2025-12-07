@@ -1,0 +1,30 @@
+"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;hacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;haciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;hecho;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;hago;;tú ;;;haces;;él //ella //usted ;;;hace;;nosotros ;;;hacemos;;vosotros ;;;hacéis;;ustedes //ellos //ellas ;;;hacen;;vos ;;;hacés
+Indicativo Pretérito Imperfecto;indicativo;;yo ;;;hacía;;tú //vos ;;;hacías;;él //ella //usted ;;;hacía;;nosotros ;;;hacíamos;;vosotros ;;;hacíais;;ustedes //ellos //ellas ;;;hacían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;hice;;tú //vos ;;;hiciste;;él //ella //usted ;;;hizo;;nosotros ;;;hicimos;;vosotros ;;;hicisteis;;ustedes //ellos //ellas ;;;hicieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;haré;;tú //vos ;;;harás;;él //ella //usted ;;;hará;;nosotros ;;;haremos;;vosotros ;;;haréis;;ustedes //ellos //ellas ;;;harán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he hecho;;tú //vos ;;;has hecho;;él //ella //usted ;;;ha hecho;;nosotros ;;;hemos hecho;;vosotros ;;;habéis hecho;;ustedes //ellos //ellas ;;;han hecho;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había hecho;;tú //vos ;;;habías hecho;;él //ella //usted ;;;había hecho;;nosotros ;;;habíamos hecho;;vosotros ;;;habíais hecho;;ustedes //ellos //ellas ;;;habían hecho;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube hecho;;tú //vos ;;;hubiste hecho;;él //ella //usted ;;;hubo hecho;;nosotros ;;;hubimos hecho;;vosotros ;;;hubisteis hecho;;ustedes //ellos //ellas ;;;hubieron hecho;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré hecho;;tú //vos ;;;habrás hecho;;él //ella //usted ;;;habrá hecho;;nosotros ;;;habremos hecho;;vosotros ;;;habréis hecho;;ustedes //ellos //ellas ;;;habrán hecho;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;haga;;tú //vos ;;;hagas;;él //ella //usted ;;;haga;;nosotros ;;;hagamos;;vosotros ;;;hagáis;;ustedes //ellos //ellas ;;;hagan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;hiciera / hiciese;;tú //vos ;;;hicieras / hicieses;;él //ella //usted ;;;hiciera / hiciese;;nosotros ;;;hiciéramos / hiciésemos;;vosotros ;;;hicierais / hicieseis;;ustedes //ellos //ellas ;;;hicieran / hiciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;hiciere;;tú //vos ;;;hicieres;;él //ella //usted ;;;hiciere;;nosotros ;;;hiciéremos;;vosotros ;;;hiciereis;;ustedes //ellos //ellas ;;;hicieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya hecho;;tú //vos ;;;hayas hecho;;él //ella //usted ;;;haya hecho;;nosotros ;;;hayamos hecho;;vosotros ;;;hayáis hecho;;ustedes //ellos //ellas ;;;hayan hecho;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera hecho / hubiese hecho;;tú //vos ;;;hubieras hecho / hubieses hecho;;él //ella //usted ;;;hubiera hecho / hubiese hecho;;nosotros ;;;hubiéramos hecho / hubiésemos hecho;;vosotros ;;;hubierais hecho / hubieseis hecho;;ustedes //ellos //ellas ;;;hubieran hecho / hubiesen hecho;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere hecho;;tú //vos ;;;hubieres hecho;;él //ella //usted ;;;hubiere hecho;;nosotros ;;;hubiéremos hecho;;vosotros ;;;hubiereis hecho;;ustedes //ellos //ellas ;;;hubieren hecho;;;;;
+Condicional;condicional;;yo ;;;haría;;tú //vos ;;;harías;;él //ella //usted ;;;haría;;nosotros ;;;haríamos;;vosotros ;;;haríais;;ustedes //ellos //ellas ;;;harían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría hecho;;tú //vos ;;;habrías hecho;;él //ella //usted ;;;habría hecho;;nosotros ;;;habríamos hecho;;vosotros ;;;habríais hecho;;ustedes //ellos //ellas ;;;habrían hecho;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;hace / haz;;(usted) ;;;haga;;(nosotros) ;;;hagamos;;(vosotros) ;;;haced;;(ustedes) ;;;hagan;;(vos) ;;;hacé
+Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;hagas;;él //ella //usted ;no ;;haga;;nosotros ;no ;;hagamos;;vosotros ;no ;;hagáis;;ustedes //ellos //ellas ;no ;;hagan;;;;;
+base_infinitive;hacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;hacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+endings;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;hac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

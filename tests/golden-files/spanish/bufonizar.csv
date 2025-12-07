@@ -1,0 +1,31 @@
+"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;bufonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;bufonizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;bufonizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;bufonizo;;tú ;;;bufonizas;;él //ella //usted ;;;bufoniza;;nosotros ;;;bufonizamos;;vosotros ;;;bufonizáis;;ustedes //ellos //ellas ;;;bufonizan;;vos ;;;bufonizás
+Indicativo Pretérito Imperfecto;indicativo;;yo ;;;bufonizaba;;tú //vos ;;;bufonizabas;;él //ella //usted ;;;bufonizaba;;nosotros ;;;bufonizábamos;;vosotros ;;;bufonizabais;;ustedes //ellos //ellas ;;;bufonizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;bufonicé;;tú //vos ;;;bufonizaste;;él //ella //usted ;;;bufonizó;;nosotros ;;;bufonizamos;;vosotros ;;;bufonizasteis;;ustedes //ellos //ellas ;;;bufonizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;bufonizaré;;tú //vos ;;;bufonizarás;;él //ella //usted ;;;bufonizará;;nosotros ;;;bufonizaremos;;vosotros ;;;bufonizaréis;;ustedes //ellos //ellas ;;;bufonizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he bufonizado;;tú //vos ;;;has bufonizado;;él //ella //usted ;;;ha bufonizado;;nosotros ;;;hemos bufonizado;;vosotros ;;;habéis bufonizado;;ustedes //ellos //ellas ;;;han bufonizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había bufonizado;;tú //vos ;;;habías bufonizado;;él //ella //usted ;;;había bufonizado;;nosotros ;;;habíamos bufonizado;;vosotros ;;;habíais bufonizado;;ustedes //ellos //ellas ;;;habían bufonizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube bufonizado;;tú //vos ;;;hubiste bufonizado;;él //ella //usted ;;;hubo bufonizado;;nosotros ;;;hubimos bufonizado;;vosotros ;;;hubisteis bufonizado;;ustedes //ellos //ellas ;;;hubieron bufonizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré bufonizado;;tú //vos ;;;habrás bufonizado;;él //ella //usted ;;;habrá bufonizado;;nosotros ;;;habremos bufonizado;;vosotros ;;;habréis bufonizado;;ustedes //ellos //ellas ;;;habrán bufonizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;bufonice;;tú //vos ;;;bufonices;;él //ella //usted ;;;bufonice;;nosotros ;;;bufonicemos;;vosotros ;;;bufonicéis;;ustedes //ellos //ellas ;;;bufonicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;bufonizara / bufonizase;;tú //vos ;;;bufonizaras / bufonizases;;él //ella //usted ;;;bufonizara / bufonizase;;nosotros ;;;bufonizáramos / bufonizásemos;;vosotros ;;;bufonizarais / bufonizaseis;;ustedes //ellos //ellas ;;;bufonizaran / bufonizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;bufonizare;;tú //vos ;;;bufonizares;;él //ella //usted ;;;bufonizare;;nosotros ;;;bufonizáremos;;vosotros ;;;bufonizareis;;ustedes //ellos //ellas ;;;bufonizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya bufonizado;;tú //vos ;;;hayas bufonizado;;él //ella //usted ;;;haya bufonizado;;nosotros ;;;hayamos bufonizado;;vosotros ;;;hayáis bufonizado;;ustedes //ellos //ellas ;;;hayan bufonizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera bufonizado / hubiese bufonizado;;tú //vos ;;;hubieras bufonizado / hubieses bufonizado;;él //ella //usted ;;;hubiera bufonizado / hubiese bufonizado;;nosotros ;;;hubiéramos bufonizado / hubiésemos bufonizado;;vosotros ;;;hubierais bufonizado / hubieseis bufonizado;;ustedes //ellos //ellas ;;;hubieran bufonizado / hubiesen bufonizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere bufonizado;;tú //vos ;;;hubieres bufonizado;;él //ella //usted ;;;hubiere bufonizado;;nosotros ;;;hubiéremos bufonizado;;vosotros ;;;hubiereis bufonizado;;ustedes //ellos //ellas ;;;hubieren bufonizado;;;;;
+Condicional;condicional;;yo ;;;bufonizaría;;tú //vos ;;;bufonizarías;;él //ella //usted ;;;bufonizaría;;nosotros ;;;bufonizaríamos;;vosotros ;;;bufonizaríais;;ustedes //ellos //ellas ;;;bufonizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría bufonizado;;tú //vos ;;;habrías bufonizado;;él //ella //usted ;;;habría bufonizado;;nosotros ;;;habríamos bufonizado;;vosotros ;;;habríais bufonizado;;ustedes //ellos //ellas ;;;habrían bufonizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bufoniza;;(usted) ;;;bufonice;;(nosotros) ;;;bufonicemos;;(vosotros) ;;;bufonizad;;(ustedes) ;;;bufonicen;;(vos) ;;;bufonizá
+Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;bufonices;;él //ella //usted ;no ;;bufonice;;nosotros ;no ;;bufonicemos;;vosotros ;no ;;bufonicéis;;ustedes //ellos //ellas ;no ;;bufonicen;;;;;
+base_infinitive;bufonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+categories;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bufoniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

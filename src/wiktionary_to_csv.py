@@ -10,6 +10,8 @@ from typing import Any
 import polars as pl
 import yaml
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+
 
 @dataclass
 class LanguageConfig:
@@ -35,12 +37,12 @@ class RunConfig:
 
 
 def _load_language_config(lang_code: str) -> LanguageConfig:
-    cfg_path = Path("config/languages") / f"{lang_code}.yml"
+    cfg_path = BASE_DIR / "config" / "languages" / f"{lang_code}.yml"
     data = yaml.safe_load(cfg_path.read_text(encoding="utf-8"))
 
     return LanguageConfig(
         lang_code=data["lang_code"],
-        infinitives_jsonl=Path(data["infinitives_jsonl"]),
+        infinitives_jsonl=(BASE_DIR / data["infinitives_jsonl"]).resolve(),
         output_dir=Path(data["output_dir"]),
         auxiliary=data.get("auxiliary", "haber"),
         category_config=data["category_config"],
@@ -50,14 +52,14 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
 
 
 def _load_run_config(profile: str) -> RunConfig:
-    cfg_path = Path("config/runs") / f"{profile}.yml"
+    cfg_path = BASE_DIR / "config" / "runs" / f"{profile}.yml"
     data = yaml.safe_load(cfg_path.read_text(encoding="utf-8"))
 
     return RunConfig(
         profile=data["profile"],
         max_verbs=data.get("max_verbs", None),
         languages=data["languages"],
-        output_dir=Path(data["output_dir"]),
+        output_dir=(BASE_DIR / data["output_dir"]).resolve(),
     )
 
 
@@ -421,7 +423,7 @@ def run_for_language(lang_cfg: LanguageConfig, run_cfg: RunConfig):
 
 
 def main(profile: str = "dev"):
-    """ "Main function to convert infinitive verbs JSONL into per-verb CSV files."""
+    """Main function to convert infinitive verbs JSONL into per-verb CSV files."""
     run_cfg = _load_run_config(profile)
     start = time.time()
 

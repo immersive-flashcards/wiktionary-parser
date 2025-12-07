@@ -1,28 +1,62 @@
+import shutil
 import unittest
 from pathlib import Path
 
+import yaml
 
-class TestCsvDirsIdentical(unittest.TestCase):
-    def test_csv_dirs_identical(self):
-        here = Path(__file__).resolve().parent
-        project_root = here.parent
+from src.wiktionary_to_csv import main as run_with_config
 
-        test_files = project_root / "data" / "verb-csvs" / "spanish"
-        golden_files = here / "golden-files" / "spanish"
-
-        # Guard against false greens
-        self.assertTrue(test_files.is_dir(), f"Missing test_files dir: {test_files}")
-        self.assertTrue(golden_files.is_dir(), f"Missing golden_files dir: {golden_files}")
-
-        files1 = sorted(p.name for p in test_files.glob("*.csv"))
-        files2 = sorted(p.name for p in golden_files.glob("*.csv"))
-        self.assertEqual(files1, files2, "CSV filenames differ")
-
-        for name in files1:
-            c1 = (test_files / name).read_text(encoding="utf-8")
-            c2 = (golden_files / name).read_text(encoding="utf-8")
-            self.assertEqual(c1, c2, f"CSV content differs in {name}")
+ROOT_DIR = Path(__file__).parent.parent
+TEST_DIR = Path(__file__).parent
+TEST_CONFIG_PATH = ROOT_DIR / "config/runs" / "test.yml"
 
 
-if __name__ == "__main__":
-    unittest.main()
+def load_test_config() -> dict:
+    with TEST_CONFIG_PATH.open("r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
+
+
+class TestGoldenFiles(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.config = load_test_config()
+        cls.output_dir = (ROOT_DIR / cls.config["output_dir"]).resolve()
+
+    def setUp(self):
+        self.output_dir = type(self).output_dir
+
+        # Register cleanup first so it always runs, even if setUp or the test fails
+        self.addCleanup(self._cleanup_output_dir)
+
+        # Start with a clean directory
+        self._cleanup_output_dir()
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+
+    def _cleanup_output_dir(self):
+        if self.output_dir.exists():
+            shutil.rmtree(self.output_dir, ignore_errors=True)
+
+    def test_generated_csvs_match_golden_files(self):
+        run_with_config("test")  # Run the generator using the test config
+
+        golden_dir = TEST_DIR / "golden-files" / "spanish"
+        generated_dir = self.output_dir / "spanish"
+
+        golden_files = sorted(f for f in golden_dir.glob("*.csv") if f.is_file())
+        generated_files = sorted(f for f in generated_dir.glob("*.csv") if f.is_file())
+
+        self.assertEqual(
+            [f.name for f in golden_files],
+            [f.name for f in generated_files],
+            "Generated CSV set does not match golden file set",
+        )
+
+        for golden, generated in zip(golden_files, generated_files):
+            with golden.open("r", encoding="utf-8") as fg, generated.open("r", encoding="utf-8") as ft:
+                golden_content = fg.read()
+                generated_content = ft.read()
+            self.assertEqual(
+                golden_content,
+                generated_content,
+                f"File differs from golden file: {generated.name}",
+            )

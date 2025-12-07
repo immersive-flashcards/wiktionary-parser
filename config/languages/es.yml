@@ -1,7 +1,7 @@
 lang_code: "es"
 
 infinitives_jsonl: "data/language-verb-dumps/es-infinitives.jsonl"
-output_dir: "data/verb-csvs/spanish-config"
+output_dir: "spanish"
 
 auxiliary: "haber"
 

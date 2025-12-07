@@ -1,6 +1,7 @@
 """Extract infinitive verbs from language dumps for specified languages."""
 
 import json
+import gzip
 from pathlib import Path
 
 BASE_INPUT = Path("../data/language-dumps")
@@ -43,16 +44,18 @@ def is_infinitive_verb(entry: dict, cfg: dict) -> bool:
 
 def process_language(key: str, cfg: dict):
     """Process a single language to extract infinitive verbs."""
-    # Clean predictable filenames
-    input_file = BASE_INPUT / f"{key}-extract.jsonl"
-    output_file = BASE_OUTPUT / f"{key}-infinitives.jsonl"
 
+    input_file = BASE_INPUT / f"{key}-extract.jsonl"
+
+    # Write compressed .jsonl.gz
+    output_file = BASE_OUTPUT / f"{key}-infinitives.jsonl.gz"
     output_file.parent.mkdir(parents=True, exist_ok=True)
 
     kept = 0
     seen = 0
 
-    with input_file.open("r", encoding="utf-8") as fin, output_file.open("w", encoding="utf-8") as fout:
+    with input_file.open("r", encoding="utf-8") as fin, gzip.open(output_file, "wt", encoding="utf-8") as fout:
+
         for line in fin:
             seen += 1
             line = line.strip()

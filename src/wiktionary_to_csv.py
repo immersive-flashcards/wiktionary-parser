@@ -1,6 +1,7 @@
 """Script to convert verb data from Wiktionary JSONL dumps into CSV files."""
 
 import collections
+import gzip
 import json
 import time
 from dataclasses import dataclass
@@ -61,6 +62,13 @@ def _load_run_config(profile: str) -> RunConfig:
         languages=data["languages"],
         output_dir=(BASE_DIR / data["output_dir"]).resolve(),
     )
+
+
+def _open_jsonl(path: Path):
+    """Open path as text, supporting plain .jsonl and .jsonl.gz."""
+    if str(path).endswith(".gz"):
+        return gzip.open(path, "rt", encoding="utf-8")
+    return path.open("r", encoding="utf-8")
 
 
 def tense_key(tags):
@@ -407,7 +415,7 @@ def run_for_language(lang_cfg: LanguageConfig, run_cfg: RunConfig):
     header = build_header()
     count = 0
 
-    with lang_cfg.infinitives_jsonl.open("r", encoding="utf-8") as f:
+    with _open_jsonl(lang_cfg.infinitives_jsonl) as f:
         for line in f:
             line = line.strip()
             if not line:

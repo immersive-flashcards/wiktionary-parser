@@ -1,0 +1,7 @@
+profile: "test"
+max_verbs: 50
+
+output_dir: "tests/temp_verb_csvs"
+
+languages:
+  - "es"

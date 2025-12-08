@@ -1,0 +1,7 @@
+profile: "release"
+max_verbs: None
+
+output_dir: "data/release_verb_csvs"
+
+languages:
+  - "es"

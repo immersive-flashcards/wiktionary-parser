@@ -3,6 +3,7 @@
 import collections
 import gzip
 import json
+import sys
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -58,7 +59,7 @@ def _load_run_config(profile: str) -> RunConfig:
 
     return RunConfig(
         profile=data["profile"],
-        max_verbs=data.get("max_verbs", None),
+        max_verbs=None if data["max_verbs"] == "None" else data["max_verbs"],
         languages=data["languages"],
         output_dir=(BASE_DIR / data["output_dir"]).resolve(),
     )
@@ -444,4 +445,8 @@ def main(profile: str = "dev"):
 
 
 if __name__ == "__main__":
-    main()
+    # Use first CLI arg as profile if present
+    if len(sys.argv) > 1:
+        main(sys.argv[1])
+    else:
+        main()

@@ -1,13 +1,13 @@
 """Script to convert verb data from Wiktionary JSONL dumps into CSV files."""
 
 import collections
-import zstandard as zstd
 import json
 import sys
 import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
+import zstandard as zstd
 
 import polars as pl
 import yaml
@@ -211,11 +211,7 @@ def extract_metadata(entry: dict, lang_cfg: LanguageConfig) -> dict[str, list[st
         return {}  # for now: silently ignore entries from other languages
 
     cats = entry.get("categories", []) or []
-    cat_names = [
-        c.get("name")
-        for c in cats
-        if isinstance(c, dict) and c.get("name")
-    ]
+    cat_names = [c.get("name") for c in cats if isinstance(c, dict) and c.get("name")]
     cfg = lang_cfg.category_config
 
     result: dict[str, list[str]] = {}

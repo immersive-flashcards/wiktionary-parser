@@ -32,6 +32,7 @@ def compress_file(path: Path):
 
 
 def main():
+    """Main function to compress files."""
     if not BASE_INPUT.exists():
         raise FileNotFoundError(f"Input directory not found: {BASE_INPUT}")
 

@@ -1,7 +1,7 @@
 """Script to convert verb data from Wiktionary JSONL dumps into CSV files."""
 
 import collections
-import gzip
+import zstandard as zstd
 import json
 import sys
 import time
@@ -66,9 +66,9 @@ def _load_run_config(profile: str) -> RunConfig:
 
 
 def _open_jsonl(path: Path):
-    """Open path as text, supporting plain .jsonl and .jsonl.gz."""
-    if str(path).endswith(".gz"):
-        return gzip.open(path, "rt", encoding="utf-8")
+    """Open path as text, supporting plain .jsonl and .jsonl.zst."""
+    if str(path).endswith(".zst"):
+        return zstd.open(path, "rt", encoding="utf-8")
     return path.open("r", encoding="utf-8")
 
 
@@ -211,6 +211,11 @@ def extract_metadata(entry: dict, lang_cfg: LanguageConfig) -> dict[str, list[st
         return {}  # for now: silently ignore entries from other languages
 
     cats = entry.get("categories", []) or []
+    cat_names = [
+        c.get("name")
+        for c in cats
+        if isinstance(c, dict) and c.get("name")
+    ]
     cfg = lang_cfg.category_config
 
     result: dict[str, list[str]] = {}
@@ -224,7 +229,7 @@ def extract_metadata(entry: dict, lang_cfg: LanguageConfig) -> dict[str, list[st
         # Case 1: prefix-based extractor, e.g. "paradigma": {"prefix": "ES:Verbos del paradigma "}
         if isinstance(conf, dict) and "prefix" in conf:
             prefix = conf["prefix"]
-            for cat in cats:
+            for cat in cat_names:
                 if cat.startswith(prefix):
                     suffix = cat[len(prefix) :].strip()
                     if not suffix:
@@ -237,7 +242,7 @@ def extract_metadata(entry: dict, lang_cfg: LanguageConfig) -> dict[str, list[st
         if isinstance(conf, dict) and "prefix" not in conf:
             mapping = conf
             values = result.setdefault(row_label, [])
-            for cat in cats:
+            for cat in cat_names:
                 if cat in mapping:
                     val = mapping[cat]
                     if val not in values:

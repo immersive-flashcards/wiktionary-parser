@@ -1,18 +1,18 @@
 """Extract infinitive verbs from language dumps for specified languages."""
 
 import json
-import gzip
 from pathlib import Path
+import zstandard as zstd
 
-BASE_INPUT = Path("../data/language-dumps")
-BASE_OUTPUT = Path("../data/language-verb-dumps")
+BASE_INPUT = Path("data/verb-dumps")
+BASE_OUTPUT = Path("data/infinitive-dumps")
 
 LANG_CONFIGS = {
-    "ca": {
+    "ca-en": {
         "lang": "Catalan",
         "detector": "forms_infinitive_lemma",
     },
-    "es": {
+    "es-es": {
         "lang": "Español",
         "detector": "category_contains",
         "category": "ES:Verbos",
@@ -37,7 +37,7 @@ def is_infinitive_verb(entry: dict, cfg: dict) -> bool:
         return False
 
     if detector == "category_contains":
-        return cfg["category"] in entry.get("categories", [])
+        return any(c.get("name") == cfg["category"] for c in entry.get("categories", []) if isinstance(c, dict))
 
     return False
 
@@ -45,18 +45,18 @@ def is_infinitive_verb(entry: dict, cfg: dict) -> bool:
 def process_language(key: str, cfg: dict):
     """Process a single language to extract infinitive verbs."""
 
-    input_file = BASE_INPUT / f"{key}-extract.jsonl.gz"
+    input_file = BASE_INPUT / f"{key}-verbs.jsonl.zst"
+    output_file = BASE_OUTPUT / f"{key}-infinitives.jsonl.zst"
 
-    # Write compressed .jsonl.gz
-    output_file = BASE_OUTPUT / f"{key}-infinitives.jsonl.gz"
+    # Write compressed .jsonl.zst
     output_file.parent.mkdir(parents=True, exist_ok=True)
 
     kept = 0
     seen = 0
 
-    # Read gzipped input, write gzipped output
-    with gzip.open(input_file, "rt", encoding="utf-8") as fin, gzip.open(output_file, "wt", encoding="utf-8") as fout:
+    cctx = zstd.ZstdCompressor(level=9)
 
+    with zstd.open(input_file, "rt", encoding="utf-8") as fin, zstd.open(output_file, "wt", encoding="utf-8", cctx=cctx) as fout:
         for line in fin:
             seen += 1
             line = line.strip()

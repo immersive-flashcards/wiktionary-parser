@@ -1,6 +1,6 @@
 lang_code: "es"
 
-infinitives_jsonl: "data/infinitive-dumps/es-es-infinitives.jsonl.zst"
+infinitives_jsonl: "data/infinitive-dumps/es-old-infinitives.jsonl.zst"
 output_dir: "spanish"
 
 auxiliary: "haber"

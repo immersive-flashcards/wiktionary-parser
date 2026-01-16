@@ -88,6 +88,10 @@ def tense_key(tags):
         "feminine",
         "masculine-form",
         "feminine-form",
+        "second-person-semantically",
+        "table-tags",
+        "inflection-template",
+
     }
     return tuple(sorted(t for t in tags if t not in ignore))
 
@@ -212,6 +216,15 @@ def extract_metadata(entry: dict, lang_cfg: LanguageConfig) -> dict[str, list[st
 
     cats = entry.get("categories", []) or []
     cat_names = [c.get("name") for c in cats if isinstance(c, dict) and c.get("name")]
+
+    # enwiktionary style (Catalan): categories can also appear per sense
+    for s in entry.get("senses", []) or []:
+        for c in (s.get("categories", []) or []):
+            if isinstance(c, dict) and c.get("name"):
+                cat_names.append(c["name"])
+
+    cat_names = sorted(set(cat_names))
+
     cfg = lang_cfg.category_config
 
     result: dict[str, list[str]] = {}
@@ -292,7 +305,11 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
     # group forms by tense-key
     forms_by_key = collections.defaultdict(list)
     for f in forms:
-        tk = tense_key(f["tags"])
+        tags = f.get("tags", []) or []
+        # skip conjugation table artifacts
+        if "table-tags" in tags or "inflection-template" in tags:
+            continue
+        tk = tense_key(tags)
         forms_by_key[tk].append(f)
 
     row_meta = lang_cfg.row_meta
@@ -318,13 +335,23 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
         elif key == "participio":
             p_forms = forms_by_key.get(tuple(meta["key"]), [])
             if p_forms:
-                row["conjunction-1"] = p_forms[0]["form"]
+                # Prefer the canonical past participle (avoid gender/number variants if present)
+                def score_pf(f: dict) -> tuple[int, int]:
+                    t = set(f.get("tags", []) or [])
+                    # best: exactly participle+past
+                    exact = 0 if t == {"participle", "past"} else 1
+                    # then shortest string
+                    return (exact, len(f["form"]))
+
+                chosen = min(p_forms, key=score_pf)
+                row["conjunction-1"] = chosen["form"]
 
         else:
-            if key == "imp_negativo":
+            if key == "imp_negativo" and meta["key"] is None:
+                # Spanish-style: negative imperative not present as its own forms, reuse subjunctive present
                 tk = tuple(row_meta["subj_presente"]["key"])
             else:
-                tk = tuple(meta["key"])
+                tk = tuple(meta["key"]) if meta["key"] is not None else tuple()
 
             f_list = forms_by_key.get(tk, [])
 
@@ -369,6 +396,13 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
                 for f in flist:
                     conj = f["form"]
                     refl, verb = split_refl(conj)
+
+                    # Catalan explicit negative imperative comes as "no <verb>"
+                    if key == "imp_negativo" and meta["key"] is not None:
+                        if verb.startswith("no "):
+                            row[c_neg] = "no "
+                            verb = verb[3:]
+
                     pron = normalize_pronoun(f.get("raw_tags", []))
 
                     c_pron = f"pronoun-{idx}"
@@ -381,7 +415,7 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
                     if refl and row.get(c_refl) is None:
                         row[c_refl] = refl
 
-                    if key == "imp_negativo" and row.get(c_neg) is None:
+                    if key == "imp_negativo" and meta["key"] is None and row.get(c_neg) is None:
                         row[c_neg] = "no "
 
                     existing = row.get(c_verb)

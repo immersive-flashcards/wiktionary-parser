@@ -127,21 +127,13 @@ def split_refl(form_str):
     return None, form_str
 
 
-def get_base_infinitive(entry: dict) -> tuple[str, str]:
+def get_base_infinitive(entry: dict, cfg: dict) -> tuple[str, str]:
     """Return a normalized base infinitive, e.g. stripping reflexive 'se' for Spanish."""
     lemma = entry.get("word", "") or ""
-    lang = entry.get("lang_code")
 
-    # Spanish reflexive infinitives. Examples: meterse -> meter, irse -> ir
-    if lang == "es" and lemma.endswith("se"):
-        return lemma[:-2], "True"
-
-    # Catalan reflexive infinitives. Examples: cansar-se -> cansar, irse -> ir
-    if lang == "ca":
-        if lemma.endswith("-se"):
-            return lemma[:-3], "True"
-        elif lemma.endswith("'s"):
-            return lemma[:-2], "True"
+    for rs in cfg.get("reflexive-suffixes"):
+        if lemma.endswith(rs):
+            return lemma[:-(len(rs))], "True"
 
     return lemma, "False"
 
@@ -236,7 +228,7 @@ def extract_metadata(entry: dict, lang_cfg: LanguageConfig) -> dict[str, list[st
 
     result: dict[str, list[str]] = {}
 
-    base_infinitive, reflexive_bool = get_base_infinitive(entry)
+    base_infinitive, reflexive_bool = get_base_infinitive(entry, cfg)
     result["base_infinitive"] = [base_infinitive]
     result["reflexive"] = [reflexive_bool]
     result["auxiliary"] = [lang_cfg.auxiliary]

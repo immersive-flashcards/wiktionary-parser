@@ -27,6 +27,8 @@ category_config:
     - "er"
     - "ir"
 
+  reflexive-suffixes: [ "se" ]
+
 row_meta:
   infinitivo:
     label: "Infinitivo"

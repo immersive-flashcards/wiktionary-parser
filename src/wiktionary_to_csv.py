@@ -136,6 +136,13 @@ def get_base_infinitive(entry: dict) -> tuple[str, str]:
     if lang == "es" and lemma.endswith("se"):
         return lemma[:-2], "True"
 
+    # Catalan reflexive infinitives. Examples: cansar-se -> cansar, irse -> ir
+    if lang == "ca":
+        if lemma.endswith("-se"):
+            return lemma[:-3], "True"
+        elif lemma.endswith("'s"):
+            return lemma[:-2], "True"
+
     return lemma, "False"
 
 

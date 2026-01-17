@@ -5,6 +5,24 @@ output_dir: "spanish"
 
 auxiliary: "haber"
 
+person_map:
+  # first match wins.
+  rules:
+    - idx: 1
+      all: ["first-person", "singular"]
+    - idx: 4
+      all: ["first-person", "plural"]
+    - idx: 7  # 2sg voseo
+      all: ["second-person", "singular", "vos-form"]
+    - idx: 2  # 2sg default (tú)
+      all: ["second-person", "singular"]
+    - idx: 5
+      all: ["second-person", "plural"]
+    - idx: 3
+      all: ["third-person", "singular"]
+    - idx: 6
+      all: ["third-person", "plural"]
+
 category_config:
   categories:
     "ES:Verbos intransitivos": "intransitivo"

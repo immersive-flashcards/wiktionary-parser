@@ -26,6 +26,7 @@ class LanguageConfig:
     category_config: dict[str, Any]
     row_meta: dict[str, dict[str, Any]]
     row_order: list[str]
+    person_map: dict[str, Any]
 
 
 @dataclass
@@ -50,6 +51,7 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
         category_config=data["category_config"],
         row_meta=data["row_meta"],
         row_order=data["row_order"],
+        person_map=data.get("person_map", {}),
     )
 
 
@@ -96,25 +98,39 @@ def tense_key(tags):
     return tuple(sorted(t for t in tags if t not in ignore))
 
 
-def person_index(tags):
+def person_index(tags, lang_cfg: LanguageConfig) -> int | None:
     """
-    Map Kaikki tags to a person slot:
-      1: 1sg, 2: 2sg-tú, 3: 3sg, 4: 1pl, 5: 2pl, 6: 3pl, 7: 2sg-voseo.
-    """
-    is_vos = "vos-form" in tags
+    Config-driven mapping from Kaikki tags to a grammatical person index.
 
-    if "first-person" in tags and "singular" in tags:
-        return 1
-    if "first-person" in tags and "plural" in tags:
-        return 4
-    if "second-person" in tags and "singular" in tags:
-        return 7 if is_vos else 2
-    if "second-person" in tags and "plural" in tags:
-        return 5
-    if "third-person" in tags and "singular" in tags:
-        return 3
-    if "third-person" in tags and "plural" in tags:
-        return 6
+    person_map:
+      rules:
+        - idx: <int>
+          all: [..]   # must all be present
+          any: [..]   # at least one present (optional)
+          none: [..]  # must NOT be present (optional)
+    """
+    tagset = set(tags or [])
+
+    for r in lang_cfg.person_map.get("rules", []):
+        idx = r.get("idx")
+        if idx is None:
+            continue
+
+        all_tags = set(r.get("all", []))
+
+        # future-proofing- not currently needed for ES or CA
+        # any_tags = set(r.get("any", []))
+        # none_tags = set(r.get("none", []))
+
+        if all_tags and not all_tags.issubset(tagset):
+            continue
+        # if any_tags and not (any_tags & tagset):
+        #     continue
+        # if none_tags and (none_tags & tagset):
+        #     continue
+
+        return int(idx)
+
     return None
 
 
@@ -357,7 +373,7 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
 
             by_idx: dict[int, list[dict]] = collections.defaultdict(list)
             for f in f_list:
-                idx = person_index(f["tags"])
+                idx = person_index(f["tags"], lang_cfg)
                 if idx:
                     by_idx[idx].append(f)
 

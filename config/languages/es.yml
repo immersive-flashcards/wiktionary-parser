@@ -29,6 +29,8 @@ category_config:
 
   reflexive-suffixes: [ "se" ]
 
+  reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os "]
+
 row_meta:
   infinitivo:
     label: "Infinitivo"

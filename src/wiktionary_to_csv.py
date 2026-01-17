@@ -118,12 +118,13 @@ def person_index(tags):
     return None
 
 
-def split_refl(form_str):
-    """Split off a leading reflexive pronoun (me/te/se/nos/os) when it's a separate token."""
-    refls = {"me", "te", "se", "nos", "os"}
-    parts = form_str.split()
-    if parts and parts[0] in refls:
-        return parts[0] + " ", " ".join(parts[1:])
+def split_refl(form_str, cfg: dict):
+    """Split off a leading reflexive pronoun (Spanish: me/te/se/nos/os)."""
+
+    for rp in cfg.get("reflexive-pronouns"):
+        if form_str.startswith(rp):
+            return rp, form_str[len(rp):]
+
     return None, form_str
 
 
@@ -365,8 +366,8 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
                 f2 = by_idx[2][0]
                 f7 = by_idx[7][0]
 
-                refl2, verb2 = split_refl(f2["form"])
-                refl7, verb7 = split_refl(f7["form"])
+                refl2, verb2 = split_refl(f2["form"], lang_cfg.category_config)
+                refl7, verb7 = split_refl(f7["form"], lang_cfg.category_config)
 
                 if verb2 == verb7:
                     p2 = normalize_pronoun(f2.get("raw_tags", []))
@@ -394,7 +395,7 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
 
                 for f in flist:
                     conj = f["form"]
-                    refl, verb = split_refl(conj)
+                    refl, verb = split_refl(conj, lang_cfg.category_config)
 
                     # Catalan explicit negative imperative comes as "no <verb>"
                     if key == "imp_negativo" and meta["key"] is not None:

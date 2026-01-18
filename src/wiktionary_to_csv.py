@@ -89,14 +89,13 @@ def tense_key(tags):
         "vos-form",
         "impersonal",
         "informal",
-        "formal",
         "masculine",
         "feminine",
         "masculine-form",
         "feminine-form",
-        "second-person-semantically",
         "table-tags",
         "inflection-template",
+        "formal",
     }
     return tuple(sorted(t for t in tags if t not in ignore))
 
@@ -159,12 +158,14 @@ def get_base_infinitive(entry: dict, cfg: dict) -> tuple[str, str]:
 
 
 def pronoun_for_idx(idx: int, lang_cfg: LanguageConfig) -> str | None:
+    """Return pronoun string for given person index."""
     by_idx = (lang_cfg.pronouns or {}).get("by_idx", {}) or {}
     val = by_idx.get(idx)
     return val if val else None
 
 
 def maybe_merge_voseo(by_idx: dict[int, list[dict]], row: dict[str, str | None], lang_cfg: LanguageConfig) -> None:
+    """Merge tú and vos forms when identical, per language config."""
     vcfg = (lang_cfg.pronouns or {}).get("voseo", {}) or {}
     if not vcfg.get("merge_when_same_form", False):
         return

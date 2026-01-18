@@ -2,24 +2,24 @@
 Infinitivo;infinitivo;peer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;peyendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;peído;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicativo Presente;indicativo;;yo ;;;peo;;tú ;;;pees;;él //ella //usted ;;;pee;;nosotros ;;;peemos;;vosotros ;;;peéis;;ustedes //ellos //ellas ;;;peen;;vos ;;;peés
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;peía;;tú //vos ;;;peías;;él //ella //usted ;;;peía;;nosotros ;;;peíamos;;vosotros ;;;peíais;;ustedes //ellos //ellas ;;;peían;;;;;
-Indicativo Pretérito Indefinido;indicativo;;yo ;;;peí;;tú //vos ;;;peíste;;él //ella //usted ;;;peyó;;nosotros ;;;peímos;;vosotros ;;;peísteis;;ustedes //ellos //ellas ;;;peyeron;;;;;
-Indicativo Futuro;indicativo;;yo ;;;peeré;;tú //vos ;;;peerás;;él //ella //usted ;;;peerá;;nosotros ;;;peeremos;;vosotros ;;;peeréis;;ustedes //ellos //ellas ;;;peerán;;;;;
-Indicativo Pretérito Perfecto;indicativo;;yo ;;;he peído;;tú //vos ;;;has peído;;él //ella //usted ;;;ha peído;;nosotros ;;;hemos peído;;vosotros ;;;habéis peído;;ustedes //ellos //ellas ;;;han peído;;;;;
-Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había peído;;tú //vos ;;;habías peído;;él //ella //usted ;;;había peído;;nosotros ;;;habíamos peído;;vosotros ;;;habíais peído;;ustedes //ellos //ellas ;;;habían peído;;;;;
-Indicativo Pretérito Anterior;indicativo;;yo ;;;hube peído;;tú //vos ;;;hubiste peído;;él //ella //usted ;;;hubo peído;;nosotros ;;;hubimos peído;;vosotros ;;;hubisteis peído;;ustedes //ellos //ellas ;;;hubieron peído;;;;;
-Indicativo Futuro Perfecto;indicativo;;yo ;;;habré peído;;tú //vos ;;;habrás peído;;él //ella //usted ;;;habrá peído;;nosotros ;;;habremos peído;;vosotros ;;;habréis peído;;ustedes //ellos //ellas ;;;habrán peído;;;;;
-Subjuntivo Presente;subjuntivo;;yo ;;;pea;;tú //vos ;;;peas;;él //ella //usted ;;;pea;;nosotros ;;;peamos;;vosotros ;;;peáis;;ustedes //ellos //ellas ;;;pean;;;;;
-Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;peyera / peyese;;tú //vos ;;;peyeras / peyeses;;él //ella //usted ;;;peyera / peyese;;nosotros ;;;peyéramos / peyésemos;;vosotros ;;;peyerais / peyeseis;;ustedes //ellos //ellas ;;;peyeran / peyesen;;;;;
-Subjuntivo Futuro;subjuntivo;;yo ;;;peyere;;tú //vos ;;;peyeres;;él //ella //usted ;;;peyere;;nosotros ;;;peyéremos;;vosotros ;;;peyereis;;ustedes //ellos //ellas ;;;peyeren;;;;;
-Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya peído;;tú //vos ;;;hayas peído;;él //ella //usted ;;;haya peído;;nosotros ;;;hayamos peído;;vosotros ;;;hayáis peído;;ustedes //ellos //ellas ;;;hayan peído;;;;;
-Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera peído / hubiese peído;;tú //vos ;;;hubieras peído / hubieses peído;;él //ella //usted ;;;hubiera peído / hubiese peído;;nosotros ;;;hubiéramos peído / hubiésemos peído;;vosotros ;;;hubierais peído / hubieseis peído;;ustedes //ellos //ellas ;;;hubieran peído / hubiesen peído;;;;;
-Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere peído;;tú //vos ;;;hubieres peído;;él //ella //usted ;;;hubiere peído;;nosotros ;;;hubiéremos peído;;vosotros ;;;hubiereis peído;;ustedes //ellos //ellas ;;;hubieren peído;;;;;
-Condicional;condicional;;yo ;;;peería;;tú //vos ;;;peerías;;él //ella //usted ;;;peería;;nosotros ;;;peeríamos;;vosotros ;;;peeríais;;ustedes //ellos //ellas ;;;peerían;;;;;
-Condicional Perfecto;condicional;;yo ;;;habría peído;;tú //vos ;;;habrías peído;;él //ella //usted ;;;habría peído;;nosotros ;;;habríamos peído;;vosotros ;;;habríais peído;;ustedes //ellos //ellas ;;;habrían peído;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;pee;;(usted) ;;;pea;;(nosotros) ;;;peamos;;(vosotros) ;;;peed;;(ustedes) ;;;pean;;(vos) ;;;peé
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;peas;;él //ella //usted ;no ;;pea;;nosotros ;no ;;peamos;;vosotros ;no ;;peáis;;ustedes //ellos //ellas ;no ;;pean;;;;;
+Indicativo Presente;indicativo;;yo ;;;peo;;tú ;;;pees;;él //ella //usted ;;;pee;;nosotros //nosotras ;;;peemos;;vosotros //vosotras ;;;peéis;;ellos //ellas //ustedes ;;;peen;;vos ;;;peés
+Indicativo Pretérito Imperfecto;indicativo;;yo ;;;peía;;tú //vos ;;;peías;;él //ella //usted ;;;peía;;nosotros //nosotras ;;;peíamos;;vosotros //vosotras ;;;peíais;;ellos //ellas //ustedes ;;;peían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;peí;;tú //vos ;;;peíste;;él //ella //usted ;;;peyó;;nosotros //nosotras ;;;peímos;;vosotros //vosotras ;;;peísteis;;ellos //ellas //ustedes ;;;peyeron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;peeré;;tú //vos ;;;peerás;;él //ella //usted ;;;peerá;;nosotros //nosotras ;;;peeremos;;vosotros //vosotras ;;;peeréis;;ellos //ellas //ustedes ;;;peerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he peído;;tú //vos ;;;has peído;;él //ella //usted ;;;ha peído;;nosotros //nosotras ;;;hemos peído;;vosotros //vosotras ;;;habéis peído;;ellos //ellas //ustedes ;;;han peído;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había peído;;tú //vos ;;;habías peído;;él //ella //usted ;;;había peído;;nosotros //nosotras ;;;habíamos peído;;vosotros //vosotras ;;;habíais peído;;ellos //ellas //ustedes ;;;habían peído;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube peído;;tú //vos ;;;hubiste peído;;él //ella //usted ;;;hubo peído;;nosotros //nosotras ;;;hubimos peído;;vosotros //vosotras ;;;hubisteis peído;;ellos //ellas //ustedes ;;;hubieron peído;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré peído;;tú //vos ;;;habrás peído;;él //ella //usted ;;;habrá peído;;nosotros //nosotras ;;;habremos peído;;vosotros //vosotras ;;;habréis peído;;ellos //ellas //ustedes ;;;habrán peído;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;pea;;tú //vos ;;;peas;;él //ella //usted ;;;pea;;nosotros //nosotras ;;;peamos;;vosotros //vosotras ;;;peáis;;ellos //ellas //ustedes ;;;pean;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;peyera / peyese;;tú //vos ;;;peyeras / peyeses;;él //ella //usted ;;;peyera / peyese;;nosotros //nosotras ;;;peyéramos / peyésemos;;vosotros //vosotras ;;;peyerais / peyeseis;;ellos //ellas //ustedes ;;;peyeran / peyesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;peyere;;tú //vos ;;;peyeres;;él //ella //usted ;;;peyere;;nosotros //nosotras ;;;peyéremos;;vosotros //vosotras ;;;peyereis;;ellos //ellas //ustedes ;;;peyeren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya peído;;tú //vos ;;;hayas peído;;él //ella //usted ;;;haya peído;;nosotros //nosotras ;;;hayamos peído;;vosotros //vosotras ;;;hayáis peído;;ellos //ellas //ustedes ;;;hayan peído;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera peído / hubiese peído;;tú //vos ;;;hubieras peído / hubieses peído;;él //ella //usted ;;;hubiera peído / hubiese peído;;nosotros //nosotras ;;;hubiéramos peído / hubiésemos peído;;vosotros //vosotras ;;;hubierais peído / hubieseis peído;;ellos //ellas //ustedes ;;;hubieran peído / hubiesen peído;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere peído;;tú //vos ;;;hubieres peído;;él //ella //usted ;;;hubiere peído;;nosotros //nosotras ;;;hubiéremos peído;;vosotros //vosotras ;;;hubiereis peído;;ellos //ellas //ustedes ;;;hubieren peído;;;;;
+Condicional;condicional;;yo ;;;peería;;tú //vos ;;;peerías;;él //ella //usted ;;;peería;;nosotros //nosotras ;;;peeríamos;;vosotros //vosotras ;;;peeríais;;ellos //ellas //ustedes ;;;peerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría peído;;tú //vos ;;;habrías peído;;él //ella //usted ;;;habría peído;;nosotros //nosotras ;;;habríamos peído;;vosotros //vosotras ;;;habríais peído;;ellos //ellas //ustedes ;;;habrían peído;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;tú ;;;pee;;él //ella //usted ;;;pea;;nosotros //nosotras ;;;peamos;;vosotros //vosotras ;;;peed;;ellos //ellas //ustedes ;;;pean;;vos ;;;peé
+Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;peas;;él //ella //usted ;no ;;pea;;nosotros //nosotras ;no ;;peamos;;vosotros //vosotras ;no ;;peáis;;ellos //ellas //ustedes ;no ;;pean;;;;;
 base_infinitive;peer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

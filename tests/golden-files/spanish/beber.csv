@@ -2,24 +2,24 @@
 Infinitivo;infinitivo;beber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;bebiendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;bebido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicativo Presente;indicativo;;yo ;;;bebo;;tú ;;;bebes;;él //ella //usted ;;;bebe;;nosotros ;;;bebemos;;vosotros ;;;bebéis;;ustedes //ellos //ellas ;;;beben;;vos ;;;bebés
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;bebía;;tú //vos ;;;bebías;;él //ella //usted ;;;bebía;;nosotros ;;;bebíamos;;vosotros ;;;bebíais;;ustedes //ellos //ellas ;;;bebían;;;;;
-Indicativo Pretérito Indefinido;indicativo;;yo ;;;bebí;;tú //vos ;;;bebiste;;él //ella //usted ;;;bebió;;nosotros ;;;bebimos;;vosotros ;;;bebisteis;;ustedes //ellos //ellas ;;;bebieron;;;;;
-Indicativo Futuro;indicativo;;yo ;;;beberé;;tú //vos ;;;beberás;;él //ella //usted ;;;beberá;;nosotros ;;;beberemos;;vosotros ;;;beberéis;;ustedes //ellos //ellas ;;;beberán;;;;;
-Indicativo Pretérito Perfecto;indicativo;;yo ;;;he bebido;;tú //vos ;;;has bebido;;él //ella //usted ;;;ha bebido;;nosotros ;;;hemos bebido;;vosotros ;;;habéis bebido;;ustedes //ellos //ellas ;;;han bebido;;;;;
-Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había bebido;;tú //vos ;;;habías bebido;;él //ella //usted ;;;había bebido;;nosotros ;;;habíamos bebido;;vosotros ;;;habíais bebido;;ustedes //ellos //ellas ;;;habían bebido;;;;;
-Indicativo Pretérito Anterior;indicativo;;yo ;;;hube bebido;;tú //vos ;;;hubiste bebido;;él //ella //usted ;;;hubo bebido;;nosotros ;;;hubimos bebido;;vosotros ;;;hubisteis bebido;;ustedes //ellos //ellas ;;;hubieron bebido;;;;;
-Indicativo Futuro Perfecto;indicativo;;yo ;;;habré bebido;;tú //vos ;;;habrás bebido;;él //ella //usted ;;;habrá bebido;;nosotros ;;;habremos bebido;;vosotros ;;;habréis bebido;;ustedes //ellos //ellas ;;;habrán bebido;;;;;
-Subjuntivo Presente;subjuntivo;;yo ;;;beba;;tú //vos ;;;bebas;;él //ella //usted ;;;beba;;nosotros ;;;bebamos;;vosotros ;;;bebáis;;ustedes //ellos //ellas ;;;beban;;;;;
-Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;bebiera / bebiese;;tú //vos ;;;bebieras / bebieses;;él //ella //usted ;;;bebiera / bebiese;;nosotros ;;;bebiéramos / bebiésemos;;vosotros ;;;bebierais / bebieseis;;ustedes //ellos //ellas ;;;bebieran / bebiesen;;;;;
-Subjuntivo Futuro;subjuntivo;;yo ;;;bebiere;;tú //vos ;;;bebieres;;él //ella //usted ;;;bebiere;;nosotros ;;;bebiéremos;;vosotros ;;;bebiereis;;ustedes //ellos //ellas ;;;bebieren;;;;;
-Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya bebido;;tú //vos ;;;hayas bebido;;él //ella //usted ;;;haya bebido;;nosotros ;;;hayamos bebido;;vosotros ;;;hayáis bebido;;ustedes //ellos //ellas ;;;hayan bebido;;;;;
-Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera bebido / hubiese bebido;;tú //vos ;;;hubieras bebido / hubieses bebido;;él //ella //usted ;;;hubiera bebido / hubiese bebido;;nosotros ;;;hubiéramos bebido / hubiésemos bebido;;vosotros ;;;hubierais bebido / hubieseis bebido;;ustedes //ellos //ellas ;;;hubieran bebido / hubiesen bebido;;;;;
-Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere bebido;;tú //vos ;;;hubieres bebido;;él //ella //usted ;;;hubiere bebido;;nosotros ;;;hubiéremos bebido;;vosotros ;;;hubiereis bebido;;ustedes //ellos //ellas ;;;hubieren bebido;;;;;
-Condicional;condicional;;yo ;;;bebería;;tú //vos ;;;beberías;;él //ella //usted ;;;bebería;;nosotros ;;;beberíamos;;vosotros ;;;beberíais;;ustedes //ellos //ellas ;;;beberían;;;;;
-Condicional Perfecto;condicional;;yo ;;;habría bebido;;tú //vos ;;;habrías bebido;;él //ella //usted ;;;habría bebido;;nosotros ;;;habríamos bebido;;vosotros ;;;habríais bebido;;ustedes //ellos //ellas ;;;habrían bebido;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bebe;;(usted) ;;;beba;;(nosotros) ;;;bebamos;;(vosotros) ;;;bebed;;(ustedes) ;;;beban;;(vos) ;;;bebé
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;bebas;;él //ella //usted ;no ;;beba;;nosotros ;no ;;bebamos;;vosotros ;no ;;bebáis;;ustedes //ellos //ellas ;no ;;beban;;;;;
+Indicativo Presente;indicativo;;yo ;;;bebo;;tú ;;;bebes;;él //ella //usted ;;;bebe;;nosotros //nosotras ;;;bebemos;;vosotros //vosotras ;;;bebéis;;ellos //ellas //ustedes ;;;beben;;vos ;;;bebés
+Indicativo Pretérito Imperfecto;indicativo;;yo ;;;bebía;;tú //vos ;;;bebías;;él //ella //usted ;;;bebía;;nosotros //nosotras ;;;bebíamos;;vosotros //vosotras ;;;bebíais;;ellos //ellas //ustedes ;;;bebían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;bebí;;tú //vos ;;;bebiste;;él //ella //usted ;;;bebió;;nosotros //nosotras ;;;bebimos;;vosotros //vosotras ;;;bebisteis;;ellos //ellas //ustedes ;;;bebieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;beberé;;tú //vos ;;;beberás;;él //ella //usted ;;;beberá;;nosotros //nosotras ;;;beberemos;;vosotros //vosotras ;;;beberéis;;ellos //ellas //ustedes ;;;beberán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he bebido;;tú //vos ;;;has bebido;;él //ella //usted ;;;ha bebido;;nosotros //nosotras ;;;hemos bebido;;vosotros //vosotras ;;;habéis bebido;;ellos //ellas //ustedes ;;;han bebido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había bebido;;tú //vos ;;;habías bebido;;él //ella //usted ;;;había bebido;;nosotros //nosotras ;;;habíamos bebido;;vosotros //vosotras ;;;habíais bebido;;ellos //ellas //ustedes ;;;habían bebido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube bebido;;tú //vos ;;;hubiste bebido;;él //ella //usted ;;;hubo bebido;;nosotros //nosotras ;;;hubimos bebido;;vosotros //vosotras ;;;hubisteis bebido;;ellos //ellas //ustedes ;;;hubieron bebido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré bebido;;tú //vos ;;;habrás bebido;;él //ella //usted ;;;habrá bebido;;nosotros //nosotras ;;;habremos bebido;;vosotros //vosotras ;;;habréis bebido;;ellos //ellas //ustedes ;;;habrán bebido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;beba;;tú //vos ;;;bebas;;él //ella //usted ;;;beba;;nosotros //nosotras ;;;bebamos;;vosotros //vosotras ;;;bebáis;;ellos //ellas //ustedes ;;;beban;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;bebiera / bebiese;;tú //vos ;;;bebieras / bebieses;;él //ella //usted ;;;bebiera / bebiese;;nosotros //nosotras ;;;bebiéramos / bebiésemos;;vosotros //vosotras ;;;bebierais / bebieseis;;ellos //ellas //ustedes ;;;bebieran / bebiesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;bebiere;;tú //vos ;;;bebieres;;él //ella //usted ;;;bebiere;;nosotros //nosotras ;;;bebiéremos;;vosotros //vosotras ;;;bebiereis;;ellos //ellas //ustedes ;;;bebieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya bebido;;tú //vos ;;;hayas bebido;;él //ella //usted ;;;haya bebido;;nosotros //nosotras ;;;hayamos bebido;;vosotros //vosotras ;;;hayáis bebido;;ellos //ellas //ustedes ;;;hayan bebido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera bebido / hubiese bebido;;tú //vos ;;;hubieras bebido / hubieses bebido;;él //ella //usted ;;;hubiera bebido / hubiese bebido;;nosotros //nosotras ;;;hubiéramos bebido / hubiésemos bebido;;vosotros //vosotras ;;;hubierais bebido / hubieseis bebido;;ellos //ellas //ustedes ;;;hubieran bebido / hubiesen bebido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere bebido;;tú //vos ;;;hubieres bebido;;él //ella //usted ;;;hubiere bebido;;nosotros //nosotras ;;;hubiéremos bebido;;vosotros //vosotras ;;;hubiereis bebido;;ellos //ellas //ustedes ;;;hubieren bebido;;;;;
+Condicional;condicional;;yo ;;;bebería;;tú //vos ;;;beberías;;él //ella //usted ;;;bebería;;nosotros //nosotras ;;;beberíamos;;vosotros //vosotras ;;;beberíais;;ellos //ellas //ustedes ;;;beberían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría bebido;;tú //vos ;;;habrías bebido;;él //ella //usted ;;;habría bebido;;nosotros //nosotras ;;;habríamos bebido;;vosotros //vosotras ;;;habríais bebido;;ellos //ellas //ustedes ;;;habrían bebido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;tú ;;;bebe;;él //ella //usted ;;;beba;;nosotros //nosotras ;;;bebamos;;vosotros //vosotras ;;;bebed;;ellos //ellas //ustedes ;;;beban;;vos ;;;bebé
+Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;bebas;;él //ella //usted ;no ;;beba;;nosotros //nosotras ;no ;;bebamos;;vosotros //vosotras ;no ;;bebáis;;ellos //ellas //ustedes ;no ;;beban;;;;;
 base_infinitive;beber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

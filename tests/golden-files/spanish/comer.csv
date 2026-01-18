@@ -2,24 +2,24 @@
 Infinitivo;infinitivo;comer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;comiendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;comido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicativo Presente;indicativo;;yo ;;;como;;tú ;;;comes;;él //ella //usted ;;;come;;nosotros ;;;comemos;;vosotros ;;;coméis;;ustedes //ellos //ellas ;;;comen;;vos ;;;comés
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;comía;;tú //vos ;;;comías;;él //ella //usted ;;;comía;;nosotros ;;;comíamos;;vosotros ;;;comíais;;ustedes //ellos //ellas ;;;comían;;;;;
-Indicativo Pretérito Indefinido;indicativo;;yo ;;;comí;;tú //vos ;;;comiste;;él //ella //usted ;;;comió;;nosotros ;;;comimos;;vosotros ;;;comisteis;;ustedes //ellos //ellas ;;;comieron;;;;;
-Indicativo Futuro;indicativo;;yo ;;;comeré;;tú //vos ;;;comerás;;él //ella //usted ;;;comerá;;nosotros ;;;comeremos;;vosotros ;;;comeréis;;ustedes //ellos //ellas ;;;comerán;;;;;
-Indicativo Pretérito Perfecto;indicativo;;yo ;;;he comido;;tú //vos ;;;has comido;;él //ella //usted ;;;ha comido;;nosotros ;;;hemos comido;;vosotros ;;;habéis comido;;ustedes //ellos //ellas ;;;han comido;;;;;
-Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había comido;;tú //vos ;;;habías comido;;él //ella //usted ;;;había comido;;nosotros ;;;habíamos comido;;vosotros ;;;habíais comido;;ustedes //ellos //ellas ;;;habían comido;;;;;
-Indicativo Pretérito Anterior;indicativo;;yo ;;;hube comido;;tú //vos ;;;hubiste comido;;él //ella //usted ;;;hubo comido;;nosotros ;;;hubimos comido;;vosotros ;;;hubisteis comido;;ustedes //ellos //ellas ;;;hubieron comido;;;;;
-Indicativo Futuro Perfecto;indicativo;;yo ;;;habré comido;;tú //vos ;;;habrás comido;;él //ella //usted ;;;habrá comido;;nosotros ;;;habremos comido;;vosotros ;;;habréis comido;;ustedes //ellos //ellas ;;;habrán comido;;;;;
-Subjuntivo Presente;subjuntivo;;yo ;;;coma;;tú //vos ;;;comas;;él //ella //usted ;;;coma;;nosotros ;;;comamos;;vosotros ;;;comáis;;ustedes //ellos //ellas ;;;coman;;;;;
-Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;comiera / comiese;;tú //vos ;;;comieras / comieses;;él //ella //usted ;;;comiera / comiese;;nosotros ;;;comiéramos / comiésemos;;vosotros ;;;comierais / comieseis;;ustedes //ellos //ellas ;;;comieran / comiesen;;;;;
-Subjuntivo Futuro;subjuntivo;;yo ;;;comiere;;tú //vos ;;;comieres;;él //ella //usted ;;;comiere;;nosotros ;;;comiéremos;;vosotros ;;;comiereis;;ustedes //ellos //ellas ;;;comieren;;;;;
-Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya comido;;tú //vos ;;;hayas comido;;él //ella //usted ;;;haya comido;;nosotros ;;;hayamos comido;;vosotros ;;;hayáis comido;;ustedes //ellos //ellas ;;;hayan comido;;;;;
-Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera comido / hubiese comido;;tú //vos ;;;hubieras comido / hubieses comido;;él //ella //usted ;;;hubiera comido / hubiese comido;;nosotros ;;;hubiéramos comido / hubiésemos comido;;vosotros ;;;hubierais comido / hubieseis comido;;ustedes //ellos //ellas ;;;hubieran comido / hubiesen comido;;;;;
-Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere comido;;tú //vos ;;;hubieres comido;;él //ella //usted ;;;hubiere comido;;nosotros ;;;hubiéremos comido;;vosotros ;;;hubiereis comido;;ustedes //ellos //ellas ;;;hubieren comido;;;;;
-Condicional;condicional;;yo ;;;comería;;tú //vos ;;;comerías;;él //ella //usted ;;;comería;;nosotros ;;;comeríamos;;vosotros ;;;comeríais;;ustedes //ellos //ellas ;;;comerían;;;;;
-Condicional Perfecto;condicional;;yo ;;;habría comido;;tú //vos ;;;habrías comido;;él //ella //usted ;;;habría comido;;nosotros ;;;habríamos comido;;vosotros ;;;habríais comido;;ustedes //ellos //ellas ;;;habrían comido;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;come;;(usted) ;;;coma;;(nosotros) ;;;comamos;;(vosotros) ;;;comed;;(ustedes) ;;;coman;;(vos) ;;;comé
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;comas;;él //ella //usted ;no ;;coma;;nosotros ;no ;;comamos;;vosotros ;no ;;comáis;;ustedes //ellos //ellas ;no ;;coman;;;;;
+Indicativo Presente;indicativo;;yo ;;;como;;tú ;;;comes;;él //ella //usted ;;;come;;nosotros //nosotras ;;;comemos;;vosotros //vosotras ;;;coméis;;ellos //ellas //ustedes ;;;comen;;vos ;;;comés
+Indicativo Pretérito Imperfecto;indicativo;;yo ;;;comía;;tú //vos ;;;comías;;él //ella //usted ;;;comía;;nosotros //nosotras ;;;comíamos;;vosotros //vosotras ;;;comíais;;ellos //ellas //ustedes ;;;comían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;comí;;tú //vos ;;;comiste;;él //ella //usted ;;;comió;;nosotros //nosotras ;;;comimos;;vosotros //vosotras ;;;comisteis;;ellos //ellas //ustedes ;;;comieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;comeré;;tú //vos ;;;comerás;;él //ella //usted ;;;comerá;;nosotros //nosotras ;;;comeremos;;vosotros //vosotras ;;;comeréis;;ellos //ellas //ustedes ;;;comerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he comido;;tú //vos ;;;has comido;;él //ella //usted ;;;ha comido;;nosotros //nosotras ;;;hemos comido;;vosotros //vosotras ;;;habéis comido;;ellos //ellas //ustedes ;;;han comido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había comido;;tú //vos ;;;habías comido;;él //ella //usted ;;;había comido;;nosotros //nosotras ;;;habíamos comido;;vosotros //vosotras ;;;habíais comido;;ellos //ellas //ustedes ;;;habían comido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube comido;;tú //vos ;;;hubiste comido;;él //ella //usted ;;;hubo comido;;nosotros //nosotras ;;;hubimos comido;;vosotros //vosotras ;;;hubisteis comido;;ellos //ellas //ustedes ;;;hubieron comido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré comido;;tú //vos ;;;habrás comido;;él //ella //usted ;;;habrá comido;;nosotros //nosotras ;;;habremos comido;;vosotros //vosotras ;;;habréis comido;;ellos //ellas //ustedes ;;;habrán comido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;coma;;tú //vos ;;;comas;;él //ella //usted ;;;coma;;nosotros //nosotras ;;;comamos;;vosotros //vosotras ;;;comáis;;ellos //ellas //ustedes ;;;coman;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;comiera / comiese;;tú //vos ;;;comieras / comieses;;él //ella //usted ;;;comiera / comiese;;nosotros //nosotras ;;;comiéramos / comiésemos;;vosotros //vosotras ;;;comierais / comieseis;;ellos //ellas //ustedes ;;;comieran / comiesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;comiere;;tú //vos ;;;comieres;;él //ella //usted ;;;comiere;;nosotros //nosotras ;;;comiéremos;;vosotros //vosotras ;;;comiereis;;ellos //ellas //ustedes ;;;comieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya comido;;tú //vos ;;;hayas comido;;él //ella //usted ;;;haya comido;;nosotros //nosotras ;;;hayamos comido;;vosotros //vosotras ;;;hayáis comido;;ellos //ellas //ustedes ;;;hayan comido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera comido / hubiese comido;;tú //vos ;;;hubieras comido / hubieses comido;;él //ella //usted ;;;hubiera comido / hubiese comido;;nosotros //nosotras ;;;hubiéramos comido / hubiésemos comido;;vosotros //vosotras ;;;hubierais comido / hubieseis comido;;ellos //ellas //ustedes ;;;hubieran comido / hubiesen comido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere comido;;tú //vos ;;;hubieres comido;;él //ella //usted ;;;hubiere comido;;nosotros //nosotras ;;;hubiéremos comido;;vosotros //vosotras ;;;hubiereis comido;;ellos //ellas //ustedes ;;;hubieren comido;;;;;
+Condicional;condicional;;yo ;;;comería;;tú //vos ;;;comerías;;él //ella //usted ;;;comería;;nosotros //nosotras ;;;comeríamos;;vosotros //vosotras ;;;comeríais;;ellos //ellas //ustedes ;;;comerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría comido;;tú //vos ;;;habrías comido;;él //ella //usted ;;;habría comido;;nosotros //nosotras ;;;habríamos comido;;vosotros //vosotras ;;;habríais comido;;ellos //ellas //ustedes ;;;habrían comido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;tú ;;;come;;él //ella //usted ;;;coma;;nosotros //nosotras ;;;comamos;;vosotros //vosotras ;;;comed;;ellos //ellas //ustedes ;;;coman;;vos ;;;comé
+Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;comas;;él //ella //usted ;no ;;coma;;nosotros //nosotras ;no ;;comamos;;vosotros //vosotras ;no ;;comáis;;ellos //ellas //ustedes ;no ;;coman;;;;;
 base_infinitive;comer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

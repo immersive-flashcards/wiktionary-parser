@@ -27,6 +27,7 @@ class LanguageConfig:
     row_meta: dict[str, dict[str, Any]]
     row_order: list[str]
     person_map: dict[str, Any]
+    pronouns: dict[str, Any]
 
 
 @dataclass
@@ -52,6 +53,7 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
         row_meta=data["row_meta"],
         row_order=data["row_order"],
         person_map=data.get("person_map", {}),
+        pronouns=data.get("pronouns", {}),
     )
 
 
@@ -93,7 +95,6 @@ def tense_key(tags):
         "second-person-semantically",
         "table-tags",
         "inflection-template",
-
     }
     return tuple(sorted(t for t in tags if t not in ignore))
 
@@ -139,7 +140,7 @@ def split_refl(form_str, cfg: dict):
 
     for rp in cfg.get("reflexive-pronouns"):
         if form_str.startswith(rp):
-            return rp, form_str[len(rp):]
+            return rp, form_str[len(rp) :]
 
     return None, form_str
 
@@ -150,7 +151,7 @@ def get_base_infinitive(entry: dict, cfg: dict) -> tuple[str, str]:
 
     for rs in cfg.get("reflexive-suffixes"):
         if lemma.endswith(rs):
-            return lemma[:-(len(rs))], "True"
+            return lemma[: -(len(rs))], "True"
 
     return lemma, "False"
 
@@ -197,10 +198,10 @@ def merge_pronouns(p2: str | None, p7: str | None) -> str | None:
     return " //".join(parts) + " " if parts else None
 
 
-def build_header() -> list[str]:
+def build_header(lang_cfg: LanguageConfig) -> list[str]:
     """Build CSV header row."""
     header = ["", "mode"]
-    for i in range(1, 8):
+    for i in range(1, len(lang_cfg.pronouns.get("by_idx")) + 1):  # no of csv-columns by no. of pronouns in language
         header.extend(
             [
                 f"conjunction-{i}",
@@ -235,7 +236,7 @@ def extract_metadata(entry: dict, lang_cfg: LanguageConfig) -> dict[str, list[st
 
     # enwiktionary style (Catalan): categories can also appear per sense
     for s in entry.get("senses", []) or []:
-        for c in (s.get("categories", []) or []):
+        for c in s.get("categories", []) or []:
             if isinstance(c, dict) and c.get("name"):
                 cat_names.append(c["name"])
 
@@ -464,7 +465,7 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
 
 def run_for_language(lang_cfg: LanguageConfig, run_cfg: RunConfig):
     """Run CSV generation for a single language."""
-    header = build_header()
+    header = build_header(lang_cfg)
     count = 0
 
     with _open_jsonl(lang_cfg.infinitives_jsonl) as f:

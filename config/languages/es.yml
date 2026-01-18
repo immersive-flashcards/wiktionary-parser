@@ -7,6 +7,8 @@ auxiliary: "haber"
 
 base_forms:
   infinitive: "infinitivo"
+  gerund: "gerundio"
+  participle: "participio"
 
 person_map:
   # first match wins.

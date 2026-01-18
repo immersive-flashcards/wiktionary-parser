@@ -156,20 +156,46 @@ def get_base_infinitive(entry: dict, cfg: dict) -> tuple[str, str]:
     return lemma, "False"
 
 
-def normalize_pronoun(raw_tags):
-    """Normalize raw_tags into something like 'él //ella //usted '."""
-    if not raw_tags:
-        return None
+def pronoun_for_idx(idx: int, lang_cfg: LanguageConfig) -> str | None:
+    by_idx = (lang_cfg.pronouns or {}).get("by_idx", {}) or {}
+    val = by_idx.get(idx)
+    return val if val else None
 
-    s = raw_tags[0]
-    s = s.replace("que ", "")  # remove 'que ' from subjunctive labels
-    s = s.strip()
 
-    if "ustedes" in s and "ellos" in s and "ellas" not in s:
-        s = s.replace("ellos", "ellos, ellas")
+def maybe_merge_voseo(by_idx: dict[int, list[dict]], row: dict[str, str | None], lang_cfg: LanguageConfig) -> None:
+    vcfg = (lang_cfg.pronouns or {}).get("voseo", {}) or {}
+    if not vcfg.get("merge_when_same_form", False):
+        return
 
-    s = s.replace(", ", " //")  # parser expects double slashes
-    return s + " "  # trailing whitespace for consistency
+    merge_into = int(vcfg.get("merge_into_idx", 2))
+    drop_idx = int(vcfg.get("drop_idx", 7))
+
+    if merge_into not in by_idx or drop_idx not in by_idx:
+        return
+
+    f2 = by_idx[merge_into][0]
+    f7 = by_idx[drop_idx][0]
+
+    refl2, verb2 = split_refl(f2["form"], lang_cfg.category_config)
+    refl7, verb7 = split_refl(f7["form"], lang_cfg.category_config)
+
+    if verb2 != verb7:
+        return
+
+    p2 = pronoun_for_idx(merge_into, lang_cfg)
+    p7 = pronoun_for_idx(drop_idx, lang_cfg)
+    merged_pron = merge_pronouns(p2, p7)
+
+    if merged_pron:
+        row[f"pronoun-{merge_into}"] = merged_pron
+
+    merged_refl = refl2 or refl7
+    if merged_refl:
+        row[f"refl_pronoun-{merge_into}"] = merged_refl
+
+    row[f"conjugation-{merge_into}"] = verb2
+
+    del by_idx[drop_idx]
 
 
 def merge_pronouns(p2: str | None, p7: str | None) -> str | None:
@@ -379,32 +405,7 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
                     by_idx[idx].append(f)
 
             # special case: merge tú + vos when identical
-            if 2 in by_idx and 7 in by_idx:
-                f2 = by_idx[2][0]
-                f7 = by_idx[7][0]
-
-                refl2, verb2 = split_refl(f2["form"], lang_cfg.category_config)
-                refl7, verb7 = split_refl(f7["form"], lang_cfg.category_config)
-
-                if verb2 == verb7:
-                    p2 = normalize_pronoun(f2.get("raw_tags", []))
-                    p7 = normalize_pronoun(f7.get("raw_tags", []))
-                    merged_pron = merge_pronouns(p2, p7)
-
-                    merged_refl = refl2 or refl7
-                    chosen_verb = verb2
-
-                    c_pron2 = "pronoun-2"
-                    c_refl2 = "refl_pronoun-2"
-                    c_verb2 = "conjugation-2"
-
-                    if merged_pron:
-                        row[c_pron2] = merged_pron
-                    if merged_refl:
-                        row[c_refl2] = merged_refl
-                    row[c_verb2] = chosen_verb
-
-                    del by_idx[7]
+            maybe_merge_voseo(by_idx, row, lang_cfg)
 
             for idx, flist in by_idx.items():
                 if key == "imp_negativo" and idx == 1:
@@ -417,10 +418,10 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
                     # Catalan explicit negative imperative comes as "no <verb>"
                     if key == "imp_negativo" and meta["key"] is not None:
                         if verb.startswith("no "):
-                            row[c_neg] = "no "
+                            row[f"negation-{idx}"] = "no "
                             verb = verb[3:]
 
-                    pron = normalize_pronoun(f.get("raw_tags", []))
+                    pron = pronoun_for_idx(idx, lang_cfg)
 
                     c_pron = f"pronoun-{idx}"
                     c_neg = f"negation-{idx}"

@@ -32,6 +32,12 @@ pronouns:
     5: "vosotros //vosotras "
     6: "ellos //ellas //ustedes "
     7: "vos "
+
+  voseo:
+    merge_when_same_form: true
+    merge_into_idx: 2
+    drop_idx: 7
+
 category_config:
   categories:
     "ES:Verbos intransitivos": "intransitivo"

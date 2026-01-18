@@ -371,13 +371,13 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
         if key == lang_cfg.base_forms.get("infinitive"):
             row["conjunction-1"] = lemma
 
-        elif key == "gerundio":
+        elif key == lang_cfg.base_forms.get("gerund"):
             g_forms = forms_by_key.get(tuple(meta["key"]), [])
             if g_forms:
                 chosen = min(g_forms, key=lambda f: len(f["form"]))
                 row["conjunction-1"] = chosen["form"]
 
-        elif key == "participio":
+        elif key == lang_cfg.base_forms.get("participle"):
             p_forms = forms_by_key.get(tuple(meta["key"]), [])
             if p_forms:
                 # Prefer the canonical past participle (avoid gender/number variants if present)

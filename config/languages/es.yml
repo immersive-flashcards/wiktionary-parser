@@ -23,6 +23,15 @@ person_map:
     - idx: 6
       all: ["third-person", "plural"]
 
+pronouns:
+  by_idx:
+    1: "yo "
+    2: "tú "
+    3: "él //ella //usted "
+    4: "nosotros //nosotras "
+    5: "vosotros //vosotras "
+    6: "ellos //ellas //ustedes "
+    7: "vos "
 category_config:
   categories:
     "ES:Verbos intransitivos": "intransitivo"

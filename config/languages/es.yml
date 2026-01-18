@@ -5,6 +5,9 @@ output_dir: "spanish"
 
 auxiliary: "haber"
 
+base_forms:
+  infinitive: "infinitivo"
+
 person_map:
   # first match wins.
   rules:

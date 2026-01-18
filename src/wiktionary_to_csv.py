@@ -28,6 +28,7 @@ class LanguageConfig:
     row_order: list[str]
     person_map: dict[str, Any]
     pronouns: dict[str, Any]
+    base_forms: dict[str, Any]
 
 
 @dataclass
@@ -54,6 +55,7 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
         row_order=data["row_order"],
         person_map=data.get("person_map", {}),
         pronouns=data.get("pronouns", {}),
+        base_forms=data.get("base_forms", {}),
     )
 
 
@@ -260,7 +262,7 @@ def extract_metadata(entry: dict, lang_cfg: LanguageConfig) -> dict[str, list[st
     cats = entry.get("categories", []) or []
     cat_names = [c.get("name") for c in cats if isinstance(c, dict) and c.get("name")]
 
-    # enwiktionary style (Catalan): categories can also appear per sense
+    # enwiktionary style: categories can also appear per sense
     for s in entry.get("senses", []) or []:
         for c in s.get("categories", []) or []:
             if isinstance(c, dict) and c.get("name"):
@@ -366,7 +368,7 @@ def build_csv_for_entry(entry: dict, header, lang_cfg: LanguageConfig, run_cfg: 
         row[""] = meta["label"]
         row["mode"] = meta["mode"]
 
-        if key == "infinitivo":
+        if key == lang_cfg.base_forms.get("infinitive"):
             row["conjunction-1"] = lemma
 
         elif key == "gerundio":

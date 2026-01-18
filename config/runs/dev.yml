@@ -5,3 +5,4 @@ output_dir: "data/verb-csvs"
 
 languages:
   - "es"
+  - "ca"

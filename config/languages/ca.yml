@@ -1,0 +1,185 @@
+lang_code: "ca"
+
+infinitives_jsonl: "data/infinitive-dumps/ca-en-infinitives.jsonl.zst"
+output_dir: "catalan"
+
+auxiliary: "haver"
+
+base_forms:
+  infinitive: "infinitiu"
+  gerund: "gerundi"
+  participle: "participi"
+
+person_map:
+  rules:
+    # Formal address (vostè/vostès): Kaikki encodes this as second-person-semantically
+    - idx: 3
+      all: ["second-person-semantically", "singular"]
+    - idx: 6
+      all: ["second-person-semantically", "plural"]
+
+    # Standard tenses
+    - idx: 1
+      all: ["first-person", "singular"]
+    - idx: 2
+      all: ["second-person", "singular"]
+    - idx: 3
+      all: ["third-person", "singular"]
+    - idx: 4
+      all: ["first-person", "plural"]
+    - idx: 5
+      all: ["second-person", "plural"]
+    - idx: 6
+      all: ["third-person", "plural"]
+
+pronouns:
+  by_idx:
+    1: "jo "
+    2: "tu "
+    3: "ell //ella //vostè "
+    4: "nosaltres "
+    5: "vosaltres "
+    6: "ells //elles //vostès "
+
+
+category_config:
+  # Start small. These depend heavily on how your dump encodes categories.
+  # With the Python spotfix, categories are collected from entry.categories AND senses[].categories.
+  categories:
+    "Catalan transitive verbs": "transitiu"
+    "Catalan intransitive verbs": "intransitiu"
+    "Catalan copulative verbs": "copulatiu"
+    "Catalan auxiliary verbs": "auxiliar"
+
+  # You may or may not have these in your dump. Keep empty until you see consistent names.
+  verb-group: {}
+
+  regularity:
+    "Catalan irregular verbs": "irregular"
+    "Catalan regular verbs": "regular"
+    "Catalan verbs with velar infix": "infix velar"
+
+  # Keep this if you actually see categories like "Catalan verbs XYZ"
+  # But note: this prefix extractor assumes you want the suffix as a value.
+  paradigma:
+    prefix: "Catalan verbs "
+
+  endings:
+    - "ar"
+    - "er"
+    - "re"
+    - "ir"
+
+  reflexive-suffixes: ["-se", "'s"]
+
+  reflexive-pronouns: ["em ", "et ", "es ", "ens ", "us ", "es ", "m'", "t'", "s'"]
+
+row_meta:
+  # Catalan row IDs (your preferred names)
+  infinitiu:
+    label: "Infinitiu"
+    mode: "infinitiu"
+    key: null
+
+  gerundi:
+    label: "Gerundi"
+    mode: "gerundi"
+    key: ["gerund"]
+
+  participi:
+    label: "Participi"
+    mode: "participi"
+    key: ["participle", "past"]
+
+  ind_present:
+    label: "Indicatiu Present"
+    mode: "indicatiu"
+    key: ["indicative", "present"]
+
+  ind_imperfet:
+    label: "Indicatiu Imperfet"
+    mode: "indicatiu"
+    key: ["imperfect", "indicative"]
+
+  ind_preterit_perfet_simple:
+    label: "Indicatiu Pretèrit Perfet Simple"
+    mode: "indicatiu"
+    key: ["indicative", "preterite"]
+
+  ind_futur:
+    label: "Indicatiu Futur"
+    mode: "indicatiu"
+    key: ["future", "indicative"]
+
+  condicional:
+    label: "Condicional"
+    mode: "condicional"
+    key: ["conditional", "indicative"]
+
+  subj_present:
+    label: "Subjuntiu Present"
+    mode: "subjuntiu"
+    key: ["present", "subjunctive"]
+
+  subj_imperfet:
+    label: "Subjuntiu Imperfet"
+    mode: "subjuntiu"
+    key: ["imperfect", "subjunctive"]
+
+  imp_afirmatiu:
+    label: "Imperatiu Afirmatiu"
+    mode: "imperatiu"
+    key: ["imperative"]
+
+  imp_negatiu:
+    label: "Imperatiu Negatiu"
+    mode: "imperatiu"
+    key: ["imperative", "negative"]
+
+  # --------------------------------------------------------------------
+  # Compatibility aliases for the current Python file
+  # Your script currently hardcodes these keys:
+  #   key == "infinitivo" / "gerundio" / "participio"
+  #   key == "imp_negativo" and row_meta["subj_presente"]
+  #
+  # Add aliases so Catalan runs without touching Python yet.
+  # --------------------------------------------------------------------
+  infinitivo:
+    label: "Infinitiu"
+    mode: "infinitiu"
+    key: null
+
+  gerundio:
+    label: "Gerundi"
+    mode: "gerundi"
+    key: ["gerund"]
+
+  participio:
+    label: "Participi"
+    mode: "participi"
+    key: ["participle", "past"]
+
+  subj_presente:
+    label: "Subjuntiu Present"
+    mode: "subjuntiu"
+    key: ["present", "subjunctive"]
+
+  imp_negativo:
+    label: "Imperatiu Negatiu"
+    mode: "imperatiu"
+    key: ["imperative", "negative"]
+
+row_order:
+  # Use ONLY the Catalan IDs you actually want emitted.
+  - "infinitiu"
+  - "gerundi"
+  - "participi"
+  - "ind_present"
+  - "ind_imperfet"
+  - "ind_preterit_perfet_simple"
+  - "ind_futur"
+  - "condicional"
+  - "subj_present"
+  - "subj_imperfet"
+  - "imp_afirmatiu"
+  - "imp_negatiu"

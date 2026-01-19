@@ -48,15 +48,13 @@ person_map:
   7: ["second-person", "singular", "vos-form"]
 
 forms:
-    infinitivo:
-      label: "Infinitivo"
+    "Infinitivo":
       mode: "infinitivo"
       type: "base_form"
       path:
         - "word"
 
-    gerundio:
-      label: "Gerundio"
+    "Gerundio":
       mode: "gerundio"
       type: "base_form"
       path:
@@ -64,8 +62,7 @@ forms:
       tags: ["impersonal", "gerund"]
       on_collision: shortest_length
 
-    participio:
-      label: "Participio"
+    "Participio":
       mode: "participio"
       type: "base_form"
       path:
@@ -73,37 +70,38 @@ forms:
       tags: ["impersonal", "participle"]
       on_collision: shortest_length
 
-    ind_presente:
-      label: "Indicativo Presente"
+    "Indicativo Presente":
       mode: "indicativo"
       path:
         - "forms"
       tags: ["indicative", "present"]
 
-    ind_imperfecto:
-      label: "Indicativo Imperfecto"
+    "Indicativo Imperfecto":
       mode: "indicativo"
       path:
         - "forms"
       tags: ["indicative", "past", "imperfect"]
 
-    ind_preterito_indefinido:
-      label: "Indicativo Pretérito Indefinido"
+    "Indicativo Pretérito Indefinido":
       mode: "indicativo"
       path:
         - "forms"
       tags: ["indicative", "present", "perfect"]
 
-    ind_futuro:
-      label: "Indicativo Futuro"
+    "Indicativo Futuro":
       mode: "indicativo"
       path:
         - "forms"
       tags: ["indicative", "future"]
 
-    ind_preterito_perfecto:
-      label: "Indicativo Pretérito Perfecto"
+    "Indicativo Pretérito Perfecto":
       mode: "indicativo"
       path:
         - "forms"
       tags: ["indicative", "present", "perfect", "compound"]
+
+    "Indicativo Pretérito Pluscuamperfecto":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "pluperfect"]

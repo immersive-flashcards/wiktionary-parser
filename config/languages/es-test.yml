@@ -1,0 +1,109 @@
+lang_code: "es"
+
+infinitives_jsonl: "data/infinitive-dumps/es-old-infinitives.jsonl.zst"
+output_dir: "spanish-test"
+
+auxiliary: "haber"
+
+csv_row_order:
+  - "infinitivo"
+  - "gerundio"
+  - "participio"
+  - "ind_presente"
+  - "ind_imperfecto"
+  - "ind_preterito_indefinido"
+  - "ind_futuro"
+  - "ind_preterito_perfecto"
+  - "ind_pluscuamperfecto"
+  - "ind_preterito_anterior"
+  - "ind_futuro_perfecto"
+  - "subj_presente"
+  - "subj_imperfecto"
+  - "subj_futuro"
+  - "subj_preterito_perfecto"
+  - "subj_pluscuamperfecto"
+  - "subj_futuro_perfecto"
+  - "condicional"
+  - "condicional_perfecto"
+  - "imp_afirmativo"
+  - "imp_negativo"
+
+pronouns:
+  1: "yo "
+  2: "tú "
+  3: "él //ella //usted "
+  4: "nosotros //nosotras "
+  5: "vosotros //vosotras "
+  6: "ellos //ellas //ustedes "
+  7: "vos "
+
+person_map:
+  # first match wins.
+  1: ["first-person", "singular"]
+  2: ["second-person", "singular"]
+  3: ["third-person", "singular"]
+  4: ["first-person", "plural"]
+  5: ["second-person", "plural"]
+  6: ["third-person", "plural"]
+  7: ["second-person", "singular", "vos-form"]
+
+forms:
+    infinitivo:
+      label: "Infinitivo"
+      mode: "infinitivo"
+      type: "base_form"
+      path:
+        - "word"
+
+    gerundio:
+      label: "Gerundio"
+      mode: "gerundio"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["impersonal", "gerund"]
+      on_collision: shortest_length
+
+    participio:
+      label: "Participio"
+      mode: "participio"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["impersonal", "participle"]
+      on_collision: shortest_length
+
+    ind_presente:
+      label: "Indicativo Presente"
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "present"]
+
+    ind_imperfecto:
+      label: "Indicativo Imperfecto"
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "past", "imperfect"]
+
+    ind_preterito_indefinido:
+      label: "Indicativo Pretérito Indefinido"
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "present", "perfect"]
+
+    ind_futuro:
+      label: "Indicativo Futuro"
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "future"]
+
+    ind_preterito_perfecto:
+      label: "Indicativo Pretérito Perfecto"
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "present", "perfect", "compound"]

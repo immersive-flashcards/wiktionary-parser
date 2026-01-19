@@ -105,3 +105,69 @@ forms:
       path:
         - "forms"
       tags: ["indicative", "pluperfect"]
+
+    "Indicativo Pretérito Anterior":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "past", "anterior", "archaic"]
+
+    "Indicativo Futuro Perfecto":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "future", "compound"]
+
+    "Subjuntivo Presente":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "present"]
+
+    "Subjuntivo Pretérito Imperfecto":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "past", "imperfect"]
+
+    "Subjuntivo Futuro":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "future", "archaic"]
+
+    "Subjuntivo Pretérito Perfecto":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "present", "perfect"]
+
+    "Subjuntivo Pretérito Pluscuamperfecto":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "pluperfect"]
+
+    "Subjuntivo Futuro Perfecto":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "archaic", "future", "compound"]
+
+    "Condicional":
+      mode: "condicional"
+      path:
+        - "forms"
+      tags: ["conditional"]
+
+    "Condicional Perfecto":
+      mode: "condicional"
+      path:
+        - "forms"
+      tags: ["conditional", "compound"]
+
+    "Imperativo Afirmativo":
+      mode: "imperativo"
+      path:
+        - "forms"
+      tags: ["imperative", "present"]

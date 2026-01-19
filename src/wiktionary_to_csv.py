@@ -147,7 +147,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
         form = lang_cfg.forms[row_key]
 
         row_to_add = {
-            "key": lang_cfg.forms[row_key]["label"],
+            "key": row_key,
             "mode": lang_cfg.forms[row_key]["mode"],
         }
 

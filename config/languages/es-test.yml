@@ -5,28 +5,14 @@ output_dir: "spanish-test"
 
 auxiliary: "haber"
 
-csv_row_order:
-  - "infinitivo"
-  - "gerundio"
-  - "participio"
-  - "ind_presente"
-  - "ind_imperfecto"
-  - "ind_preterito_indefinido"
-  - "ind_futuro"
-  - "ind_preterito_perfecto"
-  - "ind_pluscuamperfecto"
-  - "ind_preterito_anterior"
-  - "ind_futuro_perfecto"
-  - "subj_presente"
-  - "subj_imperfecto"
-  - "subj_futuro"
-  - "subj_preterito_perfecto"
-  - "subj_pluscuamperfecto"
-  - "subj_futuro_perfecto"
-  - "condicional"
-  - "condicional_perfecto"
-  - "imp_afirmativo"
-  - "imp_negativo"
+endings:
+  - "ar"
+  - "er"
+  - "ir"
+
+reflexive-suffixes: [ "se" ]
+
+reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os "]
 
 pronouns:
   1: "yo "

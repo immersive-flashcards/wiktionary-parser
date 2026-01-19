@@ -25,9 +25,11 @@ class LanguageConfig:
     auxiliary: str
     # category_config: dict[str, Any]
     # row_meta: dict[str, dict[str, Any]]
-    csv_row_order: list[str]
+    # csv_row_order: list[str]
     person_map: dict[int, Any]
     pronouns: dict[int, Any]
+    endings: list[str]
+    reflexive_suffixes: list[str]
     forms: dict[str, Any]
 
 
@@ -52,9 +54,11 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
         auxiliary=data.get("auxiliary", ""),
         # category_config=data["category_config"],
         # row_meta=data["row_meta"],
-        csv_row_order=data["csv_row_order"],
+        # csv_row_order=data["csv_row_order"],
         person_map=data.get("person_map", {}),
         pronouns=data.get("pronouns", {}),
+        endings=data.get("endings", []),
+        reflexive_suffixes=data.get("reflexive-suffixes", []),
         forms=data.get("forms", {}),
     )
 
@@ -166,6 +170,29 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                 row_to_add[f"pronoun-{i}"] = lang_cfg.pronouns.get(i)
 
         rows_out.append(row_to_add)
+
+    rs = lang_cfg.reflexive_suffixes[0]
+
+    def _get_base_infinitive_and_reflexivity(infinitive: str, refl_suffixes: list[str]) -> tuple[str, bool]:
+        for suffix in refl_suffixes:
+            if infinitive.endswith(suffix):
+                return infinitive[: -len(suffix)], True
+        return infinitive, False
+
+    def _get_stem(base_infinitive: str, endings: list[str]) -> str:
+        for suffix in endings:
+            if base_infinitive.endswith(suffix):
+                return base_infinitive[: -len(suffix)]
+        return base_infinitive
+
+    # add base infinitive
+    # TODO: turn into generator
+    base_infinitive, is_reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.reflexive_suffixes)
+    rows_out.append({"key": "reflexive", "mode": is_reflexive,})
+    rows_out.append({"key": "base_infinitive", "mode": base_infinitive,})
+    rows_out.append({"key": "stem", "mode": _get_stem(base_infinitive, lang_cfg.endings),})
+
+
 
     out_dir = (run_cfg.output_dir / lang_cfg.output_dir).resolve()
     out_dir.mkdir(parents=True, exist_ok=True)

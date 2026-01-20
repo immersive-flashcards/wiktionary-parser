@@ -140,6 +140,20 @@ def build_header(lang_cfg: LanguageConfig) -> list[str]:
     return header
 
 
+def _get_base_infinitive_and_reflexivity(infinitive: str, refl_suffixes: list[str]) -> tuple[str, bool]:
+    for suffix in refl_suffixes:
+        if infinitive.endswith(suffix):
+            return infinitive[: -len(suffix)], True
+    return infinitive, False
+
+
+def _get_stem(base_infinitive: str, endings: list[str]) -> tuple[str, str]:
+    for suffix in endings:
+        if base_infinitive.endswith(suffix):
+            return base_infinitive[: -len(suffix)], suffix
+    raise ValueError(f"Could not find stem+ending for infinitive '{base_infinitive}'")
+
+
 def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: LanguageConfig, run_cfg: RunConfig) -> None:
     """Write the config-selected values into a per-verb CSV"""
     lemma = entry.get("word")
@@ -154,7 +168,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
             "mode": lang_cfg.forms[row_key]["mode"],
         }
 
-        # Handle infinitive, gerund, participle forms without pronouns
+        # Handle infinitive, gerund, participle forms
         if form.get("type") == "base_form":
             val = _extract_from_spec(entry, form, form.get("tags"))
             row_to_add["conjunction-1"] = val if val is not None else ""
@@ -162,7 +176,6 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
         # Handle tag-based conjugations
         else:
             for i, person_tags in lang_cfg.person_map.items():
-
                 val = _extract_from_spec(entry, form, form.get("tags") + person_tags)
 
                 row_to_add[f"conjugation-{i}"] = val if val is not None else ""
@@ -170,29 +183,26 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         rows_out.append(row_to_add)
 
-    rs = lang_cfg.reflexive_suffixes[0]
+    # add metadata rows
+    base_infinitive, reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.reflexive_suffixes)
+    stem, ending = _get_stem(base_infinitive, lang_cfg.endings)
 
-    def _get_base_infinitive_and_reflexivity(infinitive: str, refl_suffixes: list[str]) -> tuple[str, bool]:
-        for suffix in refl_suffixes:
-            if infinitive.endswith(suffix):
-                return infinitive[: -len(suffix)], True
-        return infinitive, False
+    meta_items = {
+        "reflexive": reflexive,
+        "base_infinitive": base_infinitive,
+        "stem": stem,
+        "ending": ending,
+    }
 
-    def _get_stem(base_infinitive: str, endings: list[str]) -> str:
-        for suffix in endings:
-            if base_infinitive.endswith(suffix):
-                return base_infinitive[: -len(suffix)]
-        return base_infinitive
+    for key, value in meta_items.items():
+        rows_out.append(
+            {
+                "key": key,
+                "mode": value,
+            }
+        )
 
-    # add base infinitive
-    # TODO: turn into generator
-    base_infinitive, is_reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.reflexive_suffixes)
-    rows_out.append({"key": "reflexive", "mode": is_reflexive,})
-    rows_out.append({"key": "base_infinitive", "mode": base_infinitive,})
-    rows_out.append({"key": "stem", "mode": _get_stem(base_infinitive, lang_cfg.endings),})
-
-
-
+    # Write out CSV
     out_dir = (run_cfg.output_dir / lang_cfg.output_dir).resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
 

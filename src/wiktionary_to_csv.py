@@ -17,16 +17,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 @dataclass
 class LanguageConfig:
     """Configuration data for a specific language"""
-
     lang_code: str
     infinitives_jsonl: Path
     output_dir: Path
     meta_data: dict[str, Any]
+    person_data: dict[str, Any]
     # category_config: dict[str, Any]
-    person_map: dict[int, Any]
-    pronouns: dict[int, Any]
-    endings: list[str]
-    reflexive_suffixes: list[str]
     forms: dict[str, Any]
 
 
@@ -49,11 +45,8 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
         infinitives_jsonl=(BASE_DIR / data["infinitives_jsonl"]).resolve(),
         output_dir=Path(data["output_dir"]),
         meta_data=data.get("meta-data", {}),
+        person_data=data.get("person-data", {}),
         # category_config=data["category_config"],
-        person_map=data.get("person_map", {}),
-        pronouns=data.get("pronouns", {}),
-        endings=data.get("endings", []),
-        reflexive_suffixes=data.get("reflexive-suffixes", []),
         forms=data.get("forms", {}),
     )
 
@@ -123,7 +116,7 @@ def _extract_from_spec(entry: dict[str, Any], spec: dict[str, Any], tags: list[s
 def build_header(lang_cfg: LanguageConfig) -> list[str]:
     """Build CSV header row."""
     header = ["key", "mode"]
-    for i in range(1, len(lang_cfg.pronouns) + 1):  # no of csv-columns by no. of pronouns in language
+    for i in range(1, len(lang_cfg.person_data.get("pronouns")) + 1):  # no of csv-columns by no. of pronouns in language
         header.extend(
             [
                 f"conjunction-{i}",
@@ -136,7 +129,7 @@ def build_header(lang_cfg: LanguageConfig) -> list[str]:
     return header
 
 
-def _get_base_infinitive_and_reflexivity(infinitive: str, meta_data: dict[str]) -> tuple[str, bool]:
+def _get_base_infinitive_and_reflexivity(infinitive: str, meta_data: dict[str, Any]) -> tuple[str, bool]:
 
     # Handle reflexive suffixes (e.g. Spanish, Catalan, Italian)
     refl_suffixes = meta_data.get("reflexive-suffixes")
@@ -150,7 +143,7 @@ def _get_base_infinitive_and_reflexivity(infinitive: str, meta_data: dict[str]) 
     return infinitive, False
 
 
-def _get_stem(base_infinitive: str, meta_data: dict[str]) -> tuple[str, str]:
+def _get_stem(base_infinitive: str, meta_data: dict[str, Any]) -> tuple[str, str]:
     for suffix in meta_data.get("endings"):
         if base_infinitive.endswith(suffix):
             return base_infinitive[: -len(suffix)], suffix
@@ -187,11 +180,12 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         # Handle tag-based conjugations
         else:
-            for i, person_tags in lang_cfg.person_map.items():
+            print(lang_cfg.person_data.get("person_map"))
+            for i, person_tags in lang_cfg.person_data.get("person_map").items():
                 val = _extract_from_spec(entry, form, form.get("tags") + person_tags)
 
                 row_to_add[f"conjugation-{i}"] = val if val is not None else ""
-                row_to_add[f"pronoun-{i}"] = lang_cfg.pronouns.get(i)
+                row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("pronouns").get(i)
 
         rows_out.append(row_to_add)
 

@@ -13,26 +13,28 @@ meta-data:
 
   reflexive-suffixes: [ "se" ]
 
-reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os "]
 
-pronouns:
-  1: "yo "
-  2: "tú "
-  3: "él //ella //usted "
-  4: "nosotros //nosotras "
-  5: "vosotros //vosotras "
-  6: "ellos //ellas //ustedes "
-  7: "vos "
+person-data:
+  person_map:
+    # first match wins.
+    1: ["first-person", "singular"]
+    2: ["second-person", "singular"]
+    3: ["third-person", "singular"]
+    4: ["first-person", "plural"]
+    5: ["second-person", "plural"]
+    6: ["third-person", "plural"]
+    7: ["second-person", "singular", "vos-form"]
 
-person_map:
-  # first match wins.
-  1: ["first-person", "singular"]
-  2: ["second-person", "singular"]
-  3: ["third-person", "singular"]
-  4: ["first-person", "plural"]
-  5: ["second-person", "plural"]
-  6: ["third-person", "plural"]
-  7: ["second-person", "singular", "vos-form"]
+  pronouns:
+    1: "yo "
+    2: "tú "
+    3: "él //ella //usted "
+    4: "nosotros //nosotras "
+    5: "vosotros //vosotras "
+    6: "ellos //ellas //ustedes "
+    7: "vos "
+
+  reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os "]
 
 forms:
     "Infinitivo":

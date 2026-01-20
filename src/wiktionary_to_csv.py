@@ -155,7 +155,7 @@ def _get_stem(base_infinitive: str, meta_data: dict[str, Any]) -> tuple[str, str
     for suffix in meta_data.get("endings"):
         if _normalize(base_infinitive).endswith(suffix):
             return base_infinitive[: -len(suffix)], suffix
-    raise ValueError(f"Could not find stem+ending for infinitive '{base_infinitive}'")
+    return "", ""
 
 
 def _get_auxiliary(lang_cfg: LanguageConfig) -> str:
@@ -201,6 +201,8 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                     if f.startswith(reflexive_pronoun):
                         f_list[f_i] = f[len(reflexive_pronoun) :]
                         row_to_add[f"refl_pronoun-{i}"] = reflexive_pronoun
+
+                # TODO: Join vos / tú forms when they are euqal (Spanish only)
 
                 # Join multiple forms with " / "
                 f_list = f_list[0] if len(f_list) == 1 else " / ".join(f_list)

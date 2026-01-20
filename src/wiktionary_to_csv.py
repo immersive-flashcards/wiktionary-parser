@@ -136,15 +136,22 @@ def build_header(lang_cfg: LanguageConfig) -> list[str]:
     return header
 
 
-def _get_base_infinitive_and_reflexivity(infinitive: str, refl_suffixes: list[str]) -> tuple[str, bool]:
-    for suffix in refl_suffixes:
-        if infinitive.endswith(suffix):
-            return infinitive[: -len(suffix)], True
+def _get_base_infinitive_and_reflexivity(infinitive: str, meta_data: dict[str]) -> tuple[str, bool]:
+
+    # Handle reflexive suffixes (e.g. Spanish, Catalan, Italian)
+    refl_suffixes = meta_data.get("reflexive-suffixes")
+    if refl_suffixes:
+        for suffix in refl_suffixes:
+            if infinitive.endswith(suffix):
+                return infinitive[: -len(suffix)], True
+
+    # TODO: Handle reflexive prefixes (e.g. French)
+
     return infinitive, False
 
 
-def _get_stem(base_infinitive: str, endings: list[str]) -> tuple[str, str]:
-    for suffix in endings:
+def _get_stem(base_infinitive: str, meta_data: dict[str]) -> tuple[str, str]:
+    for suffix in meta_data.get("endings"):
         if base_infinitive.endswith(suffix):
             return base_infinitive[: -len(suffix)], suffix
     raise ValueError(f"Could not find stem+ending for infinitive '{base_infinitive}'")
@@ -152,7 +159,7 @@ def _get_stem(base_infinitive: str, endings: list[str]) -> tuple[str, str]:
 
 def _get_auxiliary(lang_cfg: LanguageConfig) -> str:
     aux_config = lang_cfg.meta_data.get("auxiliary")
-    if type(aux_config) == str:   # Spanish, catalan,etc.
+    if type(aux_config) == str:  # Spanish, catalan,etc.
         return aux_config
     else:
         # TODO: implement for French, Italian, etc.
@@ -190,8 +197,8 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
     # add metadata rows
     auxiliary = _get_auxiliary(lang_cfg)
-    base_infinitive, reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.meta_data.get("reflexive-suffixes"))
-    stem, ending = _get_stem(base_infinitive, lang_cfg.meta_data.get("endings"))
+    base_infinitive, reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.meta_data)
+    stem, ending = _get_stem(base_infinitive, lang_cfg.meta_data)
 
     meta_items = {
         "auxiliary": auxiliary,

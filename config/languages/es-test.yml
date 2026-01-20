@@ -34,6 +34,15 @@ person-data:
     6: "ellos //ellas //ustedes "
     7: "vos "
 
+  imperative-pronouns:
+    1: ""
+    2: "(tú) "
+    3: "(usted) "
+    4: "(nosotros) //(nosotras) "
+    5: "(vosotros) //(vosotras) "
+    6: "(ustedes) "
+    7: "(vos) "
+
   reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os ", "se ", "te "]
 
 
@@ -181,3 +190,4 @@ forms:
       path:
         - "forms"
       tags: ["imperative", "present"]
+      pronouns: "imperative"

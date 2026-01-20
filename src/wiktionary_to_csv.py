@@ -245,7 +245,11 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                 # TODO: Split off negations, conjunctions
 
                 row_to_add[f"conjugation-{i}"] = f_list if f_list is not None else ""
-                row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("pronouns").get(i)
+
+                if form.get("pronouns") == "imperative":
+                    row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("imperative-pronouns").get(i)
+                else:
+                    row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("pronouns").get(i)
 
         _merge_identical_verb_forms(lang_cfg, row_to_add)
 

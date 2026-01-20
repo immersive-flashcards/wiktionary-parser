@@ -21,7 +21,8 @@ class LanguageConfig:
     lang_code: str
     infinitives_jsonl: Path
     output_dir: Path
-    auxiliary: str
+    meta_data: dict[str, Any]
+    # auxiliary: str
     # category_config: dict[str, Any]
     # row_meta: dict[str, dict[str, Any]]
     # csv_row_order: list[str]
@@ -50,7 +51,8 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
         lang_code=data["lang_code"],
         infinitives_jsonl=(BASE_DIR / data["infinitives_jsonl"]).resolve(),
         output_dir=Path(data["output_dir"]),
-        auxiliary=data.get("auxiliary", ""),
+        meta_data=data.get("meta-data", {}),
+        # auxiliary=data.get("auxiliary", ""),
         # category_config=data["category_config"],
         # row_meta=data["row_meta"],
         # csv_row_order=data["csv_row_order"],
@@ -184,8 +186,8 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
         rows_out.append(row_to_add)
 
     # add metadata rows
-    base_infinitive, reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.reflexive_suffixes)
-    stem, ending = _get_stem(base_infinitive, lang_cfg.endings)
+    base_infinitive, reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.meta_data.get("reflexive-suffixes"))
+    stem, ending = _get_stem(base_infinitive, lang_cfg.meta_data.get("endings"))
 
     meta_items = {
         "reflexive": reflexive,

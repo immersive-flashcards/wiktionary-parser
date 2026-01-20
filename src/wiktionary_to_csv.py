@@ -167,6 +167,19 @@ def _get_auxiliary(lang_cfg: LanguageConfig) -> str:
         return ""
 
 
+def _merge_identical_verb_forms(lang_cfg: LanguageConfig, row: dict[str, Any]) -> None:
+    """Language-specific mergin of identical verb forms. Example: Many Spanish tú/vos forms."""
+
+    if lang_cfg.lang_code == "es":  # Spanish
+        # Join tú and vos forms if they are the same
+        if row.get("conjugation-2") is not None and row.get("conjugation-2") == row.get("conjugation-7"):
+            row["pronoun-2"] += "//" + row["pronoun-7"]
+
+            # remove vos form columns
+            for k in ["conjunction-7", "pronoun-7", "negation-7", "refl_pronoun-7", "conjugation-7"]:
+                row.pop(k, None)
+
+
 def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: LanguageConfig, run_cfg: RunConfig) -> None:
     """Write the config-selected values into a per-verb CSV"""
     lemma = entry.get("word")
@@ -202,15 +215,15 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                         f_list[f_i] = f[len(reflexive_pronoun) :]
                         row_to_add[f"refl_pronoun-{i}"] = reflexive_pronoun
 
-                # TODO: Join vos / tú forms when they are euqal (Spanish only)
-
-                # Join multiple forms with " / "
+                # Join multiple equivalent forms with " / "
                 f_list = f_list[0] if len(f_list) == 1 else " / ".join(f_list)
 
                 # TODO: Split off negations, conjunctions
 
                 row_to_add[f"conjugation-{i}"] = f_list if f_list is not None else ""
                 row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("pronouns").get(i)
+
+        _merge_identical_verb_forms(lang_cfg, row_to_add)
 
         rows_out.append(row_to_add)
 

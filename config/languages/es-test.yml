@@ -51,8 +51,9 @@ category_data:
     "ES:Verbos irregulares": "irregular"
     "ES:Verbos regulares": "regular"
 
+complex_category_data:
   paradigma:
-    prefix: "ES:Verbos del paradigma "
+    startswith: "ES:Verbos del paradigma "
 
 
 forms:

@@ -84,12 +84,12 @@ def _get_by_path(obj: Any, path: list[str]) -> Any:
     return cur
 
 
-def _extract_from_spec(entry: dict[str, Any], spec: dict[str, Any], tags: list[str] | None) -> str | None:
+def _extract_from_spec(entry: dict[str, Any], spec: dict[str, Any], tags: list[str] | None) -> list[str] | None:
     target = _get_by_path(entry, spec["path"])
 
     # Simple case: direct value
     if tags is None:
-        return target if isinstance(target, str) else None
+        return [target] if isinstance(target, str) else None
 
     # Tagged case: list lookup
     tags_needed = set(tags)
@@ -111,9 +111,9 @@ def _extract_from_spec(entry: dict[str, Any], spec: dict[str, Any], tags: list[s
 
     on_collision = spec.get("on_collision")
     if on_collision == "shortest_length":
-        return min(matches, key=len)
+        return [min(matches, key=len)]
 
-    return matches[0]
+    return matches
 
 
 def build_header(lang_cfg: LanguageConfig) -> list[str]:
@@ -177,15 +177,31 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         # Handle infinitive, gerund, participle forms
         if form.get("type") == "base_form":
-            val = _extract_from_spec(entry, form, form.get("tags"))
-            row_to_add["conjunction-1"] = val if val is not None else ""
+
+            f = _extract_from_spec(entry, form, form.get("tags"))
+            row_to_add["conjunction-1"] = f[0] if f is not None else ""
 
         # Handle tag-based conjugations
         else:
             for i, person_tags in lang_cfg.person_data.get("person_map").items():
-                val = _extract_from_spec(entry, form, form.get("tags") + person_tags)
+                f_list = _extract_from_spec(entry, form, form.get("tags") + person_tags)
 
-                row_to_add[f"conjugation-{i}"] = val if val is not None else ""
+                if f_list is None:
+                    continue
+
+                # Split off reflexive pronoun if present
+                reflexive_pronoun = lang_cfg.person_data.get("reflexive-pronouns")[i - 1]
+                for f_i, f in enumerate(f_list):
+                    if f.startswith(reflexive_pronoun):
+                        f_list[f_i] = f[len(reflexive_pronoun) :]
+                        row_to_add[f"refl_pronoun-{i}"] = reflexive_pronoun
+
+                # Join multiple forms with " / "
+                f_list = f_list[0] if len(f_list) == 1 else " / ".join(f_list)
+
+                # TODO: Split off negations, conjunctions
+
+                row_to_add[f"conjugation-{i}"] = f_list if f_list is not None else ""
                 row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("pronouns").get(i)
 
         rows_out.append(row_to_add)

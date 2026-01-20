@@ -34,7 +34,7 @@ person-data:
     6: "ellos //ellas //ustedes "
     7: "vos "
 
-  reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os "]
+  reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os ", "se ", "te "]
 
 
 category_data:

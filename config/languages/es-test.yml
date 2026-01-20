@@ -132,6 +132,7 @@ forms:
       path:
         - "forms"
       tags: ["subjunctive", "present"]
+      on_collision: shortest_length
 
     "Subjuntivo Pretérito Imperfecto":
       mode: "subjuntivo"

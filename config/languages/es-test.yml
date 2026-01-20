@@ -3,14 +3,15 @@ lang_code: "es"
 infinitives_jsonl: "data/infinitive-dumps/es-old-infinitives.jsonl.zst"
 output_dir: "spanish-test"
 
-auxiliary: "haber"
+meta-data:
+  auxiliary: "haber"
 
-endings:
-  - "ar"
-  - "er"
-  - "ir"
+  endings:
+    - "ar"
+    - "er"
+    - "ir"
 
-reflexive-suffixes: [ "se" ]
+  reflexive-suffixes: [ "se" ]
 
 reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os "]
 

@@ -180,6 +180,30 @@ def _merge_identical_verb_forms(lang_cfg: LanguageConfig, row: dict[str, Any]) -
                 row.pop(k, None)
 
 
+def _add_missing_forms(lang_config: LanguageConfig, rows: list[dict[str, Any]]) -> None:
+    """Add missing verb forms that are not in the JSONL. Example: Spanish negative imperative."""
+
+    if lang_config.lang_code == "es":  # Spanish
+        # add negative imperative forms == subjuntivo forms
+        row = next(r for r in rows if r.get("key") == "Subjuntivo Presente").copy()
+        imp_afirm = next(r for r in rows if r.get("key") == "Imperativo Afirmativo")
+
+        try:
+            # remove 1st person sing. form columns
+            for k in ["conjunction-1", "pronoun-1", "negation-1", "refl_pronoun-1", "conjugation-1"]:
+                row.pop(k, None)
+
+            row["key"] = "Imperativo Negativo"
+            row["mode"] = "imperativo"
+            for i in range(2, 7):
+                row[f"pronoun-{i}"] = imp_afirm[f"pronoun-{i}"]
+                row[f"negation-{i}"] = "no "
+
+            rows.append(row)
+        except KeyError:
+            pass
+
+
 def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: LanguageConfig, run_cfg: RunConfig) -> None:
     """Write the config-selected values into a per-verb CSV"""
     lemma = entry.get("word")
@@ -227,7 +251,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         rows_out.append(row_to_add)
 
-    # TODO: Add forms not in jsonl entry (e.g. negative imperative)
+    _add_missing_forms(lang_cfg, rows_out)  # forms that are not in the jsonl input
 
     # add metadata rows
     auxiliary = _get_auxiliary(lang_cfg)

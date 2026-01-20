@@ -6,6 +6,7 @@ import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
+import unicodedata
 
 import polars as pl
 import yaml
@@ -146,8 +147,13 @@ def _get_base_infinitive_and_reflexivity(infinitive: str, meta_data: dict[str, A
 
 
 def _get_stem(base_infinitive: str, meta_data: dict[str, Any]) -> tuple[str, str]:
+
+    def _normalize(s: str) -> str:
+        normalized = unicodedata.normalize("NFKD", s)
+        return "".join(c for c in normalized if not unicodedata.combining(c))
+
     for suffix in meta_data.get("endings"):
-        if base_infinitive.endswith(suffix):
+        if _normalize(base_infinitive).endswith(suffix):
             return base_infinitive[: -len(suffix)], suffix
     raise ValueError(f"Could not find stem+ending for infinitive '{base_infinitive}'")
 

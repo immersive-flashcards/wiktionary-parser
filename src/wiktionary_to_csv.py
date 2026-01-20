@@ -17,12 +17,13 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 @dataclass
 class LanguageConfig:
     """Configuration data for a specific language"""
+
     lang_code: str
     infinitives_jsonl: Path
     output_dir: Path
     meta_data: dict[str, Any]
     person_data: dict[str, Any]
-    # category_config: dict[str, Any]
+    category_data: dict[str, Any]
     forms: dict[str, Any]
 
 
@@ -46,7 +47,7 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
         output_dir=Path(data["output_dir"]),
         meta_data=data.get("meta-data", {}),
         person_data=data.get("person-data", {}),
-        # category_config=data["category_config"],
+        category_data=data["category_data"],
         forms=data.get("forms", {}),
     )
 
@@ -130,7 +131,6 @@ def build_header(lang_cfg: LanguageConfig) -> list[str]:
 
 
 def _get_base_infinitive_and_reflexivity(infinitive: str, meta_data: dict[str, Any]) -> tuple[str, bool]:
-
     # Handle reflexive suffixes (e.g. Spanish, Catalan, Italian)
     refl_suffixes = meta_data.get("reflexive-suffixes")
     if refl_suffixes:
@@ -180,7 +180,6 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         # Handle tag-based conjugations
         else:
-            print(lang_cfg.person_data.get("person_map"))
             for i, person_tags in lang_cfg.person_data.get("person_map").items():
                 val = _extract_from_spec(entry, form, form.get("tags") + person_tags)
 
@@ -209,6 +208,15 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                 "mode": value,
             }
         )
+
+    # Add category data rows
+    category_list = set(entry.get("categories", []))
+
+    # 1. Checks for exact match with categories listed in entry
+    for cat, options in lang_cfg.category_data.items():
+        rows_out.extend({"key": cat, "mode": v} for k, v in options.items() if k in category_list)
+
+    # 2. TODO: Add complex category matches
 
     # Write out CSV
     out_dir = (run_cfg.output_dir / lang_cfg.output_dir).resolve()

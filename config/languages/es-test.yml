@@ -36,6 +36,25 @@ person-data:
 
   reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os "]
 
+
+category_data:
+  transitivity:
+    "ES:Verbos intransitivos": "intransitivo"
+    "ES:Verbos transitivos": "transitivo"
+
+  verb-group:
+    "ES:Verbos de la primera conjugación": "primera conjugación"
+    "ES:Verbos de la segunda conjugación": "segunda conjugación"
+    "ES:Verbos de la tercera conjugación": "tercera conjugación"
+
+  regularity:
+    "ES:Verbos irregulares": "irregular"
+    "ES:Verbos regulares": "regular"
+
+  paradigma:
+    prefix: "ES:Verbos del paradigma "
+
+
 forms:
     "Infinitivo":
       mode: "infinitivo"

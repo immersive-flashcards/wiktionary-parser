@@ -1,16 +1,15 @@
 """Script to convert verb data from Wiktionary JSONL dumps into CSV files."""
 
-import collections
 import json
 import sys
 import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
-import zstandard as zstd
 
 import polars as pl
 import yaml
+import zstandard as zstd
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 

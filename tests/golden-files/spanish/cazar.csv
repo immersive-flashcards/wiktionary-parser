@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;cazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;cazando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;cazado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;cazo;;tú ;;;cazas;;él //ella //usted ;;;caza;;nosotros //nosotras ;;;cazamos;;vosotros //vosotras ;;;cazáis;;ellos //ellas //ustedes ;;;cazan;;vos ;;;cazás
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;cazaba;;tú //vos ;;;cazabas;;él //ella //usted ;;;cazaba;;nosotros //nosotras ;;;cazábamos;;vosotros //vosotras ;;;cazabais;;ellos //ellas //ustedes ;;;cazaban;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;cazaba;;tú //vos ;;;cazabas;;él //ella //usted ;;;cazaba;;nosotros //nosotras ;;;cazábamos;;vosotros //vosotras ;;;cazabais;;ellos //ellas //ustedes ;;;cazaban;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;cacé;;tú //vos ;;;cazaste;;él //ella //usted ;;;cazó;;nosotros //nosotras ;;;cazamos;;vosotros //vosotras ;;;cazasteis;;ellos //ellas //ustedes ;;;cazaron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;cazaré;;tú //vos ;;;cazarás;;él //ella //usted ;;;cazará;;nosotros //nosotras ;;;cazaremos;;vosotros //vosotras ;;;cazaréis;;ellos //ellas //ustedes ;;;cazarán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he cazado;;tú //vos ;;;has cazado;;él //ella //usted ;;;ha cazado;;nosotros //nosotras ;;;hemos cazado;;vosotros //vosotras ;;;habéis cazado;;ellos //ellas //ustedes ;;;han cazado;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera cazado / hubies
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere cazado;;tú //vos ;;;hubieres cazado;;él //ella //usted ;;;hubiere cazado;;nosotros //nosotras ;;;hubiéremos cazado;;vosotros //vosotras ;;;hubiereis cazado;;ellos //ellas //ustedes ;;;hubieren cazado;;;;;
 Condicional;condicional;;yo ;;;cazaría;;tú //vos ;;;cazarías;;él //ella //usted ;;;cazaría;;nosotros //nosotras ;;;cazaríamos;;vosotros //vosotras ;;;cazaríais;;ellos //ellas //ustedes ;;;cazarían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría cazado;;tú //vos ;;;habrías cazado;;él //ella //usted ;;;habría cazado;;nosotros //nosotras ;;;habríamos cazado;;vosotros //vosotras ;;;habríais cazado;;ellos //ellas //ustedes ;;;habrían cazado;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;caza;;él //ella //usted ;;;cace;;nosotros //nosotras ;;;cacemos;;vosotros //vosotras ;;;cazad;;ellos //ellas //ustedes ;;;cacen;;vos ;;;cazá
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;caces;;él //ella //usted ;no ;;cace;;nosotros //nosotras ;no ;;cacemos;;vosotros //vosotras ;no ;;cacéis;;ellos //ellas //ustedes ;no ;;cacen;;;;;
-base_infinitive;cazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;caza;;(usted) ;;;cace;;(nosotros) //(nosotras) ;;;cacemos;;(vosotros) //(vosotras) ;;;cazad;;(ustedes) ;;;cacen;;(vos) ;;;cazá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;caces;;(usted) ;no ;;cace;;(nosotros) //(nosotras) ;no ;;cacemos;;(vosotros) //(vosotras) ;no ;;cacéis;;(ustedes) ;no ;;cacen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;cazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;caz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

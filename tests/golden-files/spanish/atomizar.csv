@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;atomizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;atomizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;atomizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;atomizo;;tú ;;;atomizas;;él //ella //usted ;;;atomiza;;nosotros //nosotras ;;;atomizamos;;vosotros //vosotras ;;;atomizáis;;ellos //ellas //ustedes ;;;atomizan;;vos ;;;atomizás
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;atomizaba;;tú //vos ;;;atomizabas;;él //ella //usted ;;;atomizaba;;nosotros //nosotras ;;;atomizábamos;;vosotros //vosotras ;;;atomizabais;;ellos //ellas //ustedes ;;;atomizaban;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;atomizaba;;tú //vos ;;;atomizabas;;él //ella //usted ;;;atomizaba;;nosotros //nosotras ;;;atomizábamos;;vosotros //vosotras ;;;atomizabais;;ellos //ellas //ustedes ;;;atomizaban;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;atomicé;;tú //vos ;;;atomizaste;;él //ella //usted ;;;atomizó;;nosotros //nosotras ;;;atomizamos;;vosotros //vosotras ;;;atomizasteis;;ellos //ellas //ustedes ;;;atomizaron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;atomizaré;;tú //vos ;;;atomizarás;;él //ella //usted ;;;atomizará;;nosotros //nosotras ;;;atomizaremos;;vosotros //vosotras ;;;atomizaréis;;ellos //ellas //ustedes ;;;atomizarán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he atomizado;;tú //vos ;;;has atomizado;;él //ella //usted ;;;ha atomizado;;nosotros //nosotras ;;;hemos atomizado;;vosotros //vosotras ;;;habéis atomizado;;ellos //ellas //ustedes ;;;han atomizado;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera atomizado / hub
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere atomizado;;tú //vos ;;;hubieres atomizado;;él //ella //usted ;;;hubiere atomizado;;nosotros //nosotras ;;;hubiéremos atomizado;;vosotros //vosotras ;;;hubiereis atomizado;;ellos //ellas //ustedes ;;;hubieren atomizado;;;;;
 Condicional;condicional;;yo ;;;atomizaría;;tú //vos ;;;atomizarías;;él //ella //usted ;;;atomizaría;;nosotros //nosotras ;;;atomizaríamos;;vosotros //vosotras ;;;atomizaríais;;ellos //ellas //ustedes ;;;atomizarían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría atomizado;;tú //vos ;;;habrías atomizado;;él //ella //usted ;;;habría atomizado;;nosotros //nosotras ;;;habríamos atomizado;;vosotros //vosotras ;;;habríais atomizado;;ellos //ellas //ustedes ;;;habrían atomizado;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;atomiza;;él //ella //usted ;;;atomice;;nosotros //nosotras ;;;atomicemos;;vosotros //vosotras ;;;atomizad;;ellos //ellas //ustedes ;;;atomicen;;vos ;;;atomizá
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;atomices;;él //ella //usted ;no ;;atomice;;nosotros //nosotras ;no ;;atomicemos;;vosotros //vosotras ;no ;;atomicéis;;ellos //ellas //ustedes ;no ;;atomicen;;;;;
-base_infinitive;atomizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;atomiza;;(usted) ;;;atomice;;(nosotros) //(nosotras) ;;;atomicemos;;(vosotros) //(vosotras) ;;;atomizad;;(ustedes) ;;;atomicen;;(vos) ;;;atomizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;atomices;;(usted) ;no ;;atomice;;(nosotros) //(nosotras) ;no ;;atomicemos;;(vosotros) //(vosotras) ;no ;;atomicéis;;(ustedes) ;no ;;atomicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;atomizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;atomiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

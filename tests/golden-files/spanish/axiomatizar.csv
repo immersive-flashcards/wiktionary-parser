@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;axiomatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;axiomatizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;axiomatizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;axiomatizo;;tú ;;;axiomatizas;;él //ella //usted ;;;axiomatiza;;nosotros //nosotras ;;;axiomatizamos;;vosotros //vosotras ;;;axiomatizáis;;ellos //ellas //ustedes ;;;axiomatizan;;vos ;;;axiomatizás
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;axiomatizaba;;tú //vos ;;;axiomatizabas;;él //ella //usted ;;;axiomatizaba;;nosotros //nosotras ;;;axiomatizábamos;;vosotros //vosotras ;;;axiomatizabais;;ellos //ellas //ustedes ;;;axiomatizaban;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;axiomatizaba;;tú //vos ;;;axiomatizabas;;él //ella //usted ;;;axiomatizaba;;nosotros //nosotras ;;;axiomatizábamos;;vosotros //vosotras ;;;axiomatizabais;;ellos //ellas //ustedes ;;;axiomatizaban;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;axiomaticé;;tú //vos ;;;axiomatizaste;;él //ella //usted ;;;axiomatizó;;nosotros //nosotras ;;;axiomatizamos;;vosotros //vosotras ;;;axiomatizasteis;;ellos //ellas //ustedes ;;;axiomatizaron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;axiomatizaré;;tú //vos ;;;axiomatizarás;;él //ella //usted ;;;axiomatizará;;nosotros //nosotras ;;;axiomatizaremos;;vosotros //vosotras ;;;axiomatizaréis;;ellos //ellas //ustedes ;;;axiomatizarán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he axiomatizado;;tú //vos ;;;has axiomatizado;;él //ella //usted ;;;ha axiomatizado;;nosotros //nosotras ;;;hemos axiomatizado;;vosotros //vosotras ;;;habéis axiomatizado;;ellos //ellas //ustedes ;;;han axiomatizado;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera axiomatizado / 
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere axiomatizado;;tú //vos ;;;hubieres axiomatizado;;él //ella //usted ;;;hubiere axiomatizado;;nosotros //nosotras ;;;hubiéremos axiomatizado;;vosotros //vosotras ;;;hubiereis axiomatizado;;ellos //ellas //ustedes ;;;hubieren axiomatizado;;;;;
 Condicional;condicional;;yo ;;;axiomatizaría;;tú //vos ;;;axiomatizarías;;él //ella //usted ;;;axiomatizaría;;nosotros //nosotras ;;;axiomatizaríamos;;vosotros //vosotras ;;;axiomatizaríais;;ellos //ellas //ustedes ;;;axiomatizarían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría axiomatizado;;tú //vos ;;;habrías axiomatizado;;él //ella //usted ;;;habría axiomatizado;;nosotros //nosotras ;;;habríamos axiomatizado;;vosotros //vosotras ;;;habríais axiomatizado;;ellos //ellas //ustedes ;;;habrían axiomatizado;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;axiomatiza;;él //ella //usted ;;;axiomatice;;nosotros //nosotras ;;;axiomaticemos;;vosotros //vosotras ;;;axiomatizad;;ellos //ellas //ustedes ;;;axiomaticen;;vos ;;;axiomatizá
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;axiomatices;;él //ella //usted ;no ;;axiomatice;;nosotros //nosotras ;no ;;axiomaticemos;;vosotros //vosotras ;no ;;axiomaticéis;;ellos //ellas //ustedes ;no ;;axiomaticen;;;;;
-base_infinitive;axiomatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;axiomatiza;;(usted) ;;;axiomatice;;(nosotros) //(nosotras) ;;;axiomaticemos;;(vosotros) //(vosotras) ;;;axiomatizad;;(ustedes) ;;;axiomaticen;;(vos) ;;;axiomatizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;axiomatices;;(usted) ;no ;;axiomatice;;(nosotros) //(nosotras) ;no ;;axiomaticemos;;(vosotros) //(vosotras) ;no ;;axiomaticéis;;(ustedes) ;no ;;axiomaticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;axiomatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;axiomatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

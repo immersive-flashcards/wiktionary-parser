@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;escribir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;escribiendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;escrito;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;escribo;;tú ;;;escribes;;él //ella //usted ;;;escribe;;nosotros //nosotras ;;;escribimos;;vosotros //vosotras ;;;escribís;;ellos //ellas //ustedes ;;;escriben;;vos ;;;escribís
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;escribía;;tú //vos ;;;escribías;;él //ella //usted ;;;escribía;;nosotros //nosotras ;;;escribíamos;;vosotros //vosotras ;;;escribíais;;ellos //ellas //ustedes ;;;escribían;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;escribía;;tú //vos ;;;escribías;;él //ella //usted ;;;escribía;;nosotros //nosotras ;;;escribíamos;;vosotros //vosotras ;;;escribíais;;ellos //ellas //ustedes ;;;escribían;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;escribí;;tú //vos ;;;escribiste;;él //ella //usted ;;;escribió;;nosotros //nosotras ;;;escribimos;;vosotros //vosotras ;;;escribisteis;;ellos //ellas //ustedes ;;;escribieron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;escribiré;;tú //vos ;;;escribirás;;él //ella //usted ;;;escribirá;;nosotros //nosotras ;;;escribiremos;;vosotros //vosotras ;;;escribiréis;;ellos //ellas //ustedes ;;;escribirán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he escrito;;tú //vos ;;;has escrito;;él //ella //usted ;;;ha escrito;;nosotros //nosotras ;;;hemos escrito;;vosotros //vosotras ;;;habéis escrito;;ellos //ellas //ustedes ;;;han escrito;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera escrito / hubie
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere escrito;;tú //vos ;;;hubieres escrito;;él //ella //usted ;;;hubiere escrito;;nosotros //nosotras ;;;hubiéremos escrito;;vosotros //vosotras ;;;hubiereis escrito;;ellos //ellas //ustedes ;;;hubieren escrito;;;;;
 Condicional;condicional;;yo ;;;escribiría;;tú //vos ;;;escribirías;;él //ella //usted ;;;escribiría;;nosotros //nosotras ;;;escribiríamos;;vosotros //vosotras ;;;escribiríais;;ellos //ellas //ustedes ;;;escribirían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría escrito;;tú //vos ;;;habrías escrito;;él //ella //usted ;;;habría escrito;;nosotros //nosotras ;;;habríamos escrito;;vosotros //vosotras ;;;habríais escrito;;ellos //ellas //ustedes ;;;habrían escrito;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;escribe;;él //ella //usted ;;;escriba;;nosotros //nosotras ;;;escribamos;;vosotros //vosotras ;;;escribid;;ellos //ellas //ustedes ;;;escriban;;vos ;;;escribí
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;escribas;;él //ella //usted ;no ;;escriba;;nosotros //nosotras ;no ;;escribamos;;vosotros //vosotras ;no ;;escribáis;;ellos //ellas //ustedes ;no ;;escriban;;;;;
-base_infinitive;escribir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;escribe;;(usted) ;;;escriba;;(nosotros) //(nosotras) ;;;escribamos;;(vosotros) //(vosotras) ;;;escribid;;(ustedes) ;;;escriban;;(vos) ;;;escribí
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;escribas;;(usted) ;no ;;escriba;;(nosotros) //(nosotras) ;no ;;escribamos;;(vosotros) //(vosotras) ;no ;;escribáis;;(ustedes) ;no ;;escriban;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;escribir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;escrib;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;tercera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;escribir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

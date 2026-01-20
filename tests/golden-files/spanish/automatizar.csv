@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;automatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;automatizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;automatizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;automatizo;;tú ;;;automatizas;;él //ella //usted ;;;automatiza;;nosotros //nosotras ;;;automatizamos;;vosotros //vosotras ;;;automatizáis;;ellos //ellas //ustedes ;;;automatizan;;vos ;;;automatizás
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;automatizaba;;tú //vos ;;;automatizabas;;él //ella //usted ;;;automatizaba;;nosotros //nosotras ;;;automatizábamos;;vosotros //vosotras ;;;automatizabais;;ellos //ellas //ustedes ;;;automatizaban;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;automatizaba;;tú //vos ;;;automatizabas;;él //ella //usted ;;;automatizaba;;nosotros //nosotras ;;;automatizábamos;;vosotros //vosotras ;;;automatizabais;;ellos //ellas //ustedes ;;;automatizaban;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;automaticé;;tú //vos ;;;automatizaste;;él //ella //usted ;;;automatizó;;nosotros //nosotras ;;;automatizamos;;vosotros //vosotras ;;;automatizasteis;;ellos //ellas //ustedes ;;;automatizaron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;automatizaré;;tú //vos ;;;automatizarás;;él //ella //usted ;;;automatizará;;nosotros //nosotras ;;;automatizaremos;;vosotros //vosotras ;;;automatizaréis;;ellos //ellas //ustedes ;;;automatizarán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he automatizado;;tú //vos ;;;has automatizado;;él //ella //usted ;;;ha automatizado;;nosotros //nosotras ;;;hemos automatizado;;vosotros //vosotras ;;;habéis automatizado;;ellos //ellas //ustedes ;;;han automatizado;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera automatizado / 
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere automatizado;;tú //vos ;;;hubieres automatizado;;él //ella //usted ;;;hubiere automatizado;;nosotros //nosotras ;;;hubiéremos automatizado;;vosotros //vosotras ;;;hubiereis automatizado;;ellos //ellas //ustedes ;;;hubieren automatizado;;;;;
 Condicional;condicional;;yo ;;;automatizaría;;tú //vos ;;;automatizarías;;él //ella //usted ;;;automatizaría;;nosotros //nosotras ;;;automatizaríamos;;vosotros //vosotras ;;;automatizaríais;;ellos //ellas //ustedes ;;;automatizarían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría automatizado;;tú //vos ;;;habrías automatizado;;él //ella //usted ;;;habría automatizado;;nosotros //nosotras ;;;habríamos automatizado;;vosotros //vosotras ;;;habríais automatizado;;ellos //ellas //ustedes ;;;habrían automatizado;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;automatiza;;él //ella //usted ;;;automatice;;nosotros //nosotras ;;;automaticemos;;vosotros //vosotras ;;;automatizad;;ellos //ellas //ustedes ;;;automaticen;;vos ;;;automatizá
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;automatices;;él //ella //usted ;no ;;automatice;;nosotros //nosotras ;no ;;automaticemos;;vosotros //vosotras ;no ;;automaticéis;;ellos //ellas //ustedes ;no ;;automaticen;;;;;
-base_infinitive;automatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;automatiza;;(usted) ;;;automatice;;(nosotros) //(nosotras) ;;;automaticemos;;(vosotros) //(vosotras) ;;;automatizad;;(ustedes) ;;;automaticen;;(vos) ;;;automatizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;automatices;;(usted) ;no ;;automatice;;(nosotros) //(nosotras) ;no ;;automaticemos;;(vosotros) //(vosotras) ;no ;;automaticéis;;(ustedes) ;no ;;automaticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;automatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;automatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

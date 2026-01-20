@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;autorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;autorizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;autorizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;autorizo;;tú ;;;autorizas;;él //ella //usted ;;;autoriza;;nosotros //nosotras ;;;autorizamos;;vosotros //vosotras ;;;autorizáis;;ellos //ellas //ustedes ;;;autorizan;;vos ;;;autorizás
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;autorizaba;;tú //vos ;;;autorizabas;;él //ella //usted ;;;autorizaba;;nosotros //nosotras ;;;autorizábamos;;vosotros //vosotras ;;;autorizabais;;ellos //ellas //ustedes ;;;autorizaban;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;autorizaba;;tú //vos ;;;autorizabas;;él //ella //usted ;;;autorizaba;;nosotros //nosotras ;;;autorizábamos;;vosotros //vosotras ;;;autorizabais;;ellos //ellas //ustedes ;;;autorizaban;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;autoricé;;tú //vos ;;;autorizaste;;él //ella //usted ;;;autorizó;;nosotros //nosotras ;;;autorizamos;;vosotros //vosotras ;;;autorizasteis;;ellos //ellas //ustedes ;;;autorizaron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;autorizaré;;tú //vos ;;;autorizarás;;él //ella //usted ;;;autorizará;;nosotros //nosotras ;;;autorizaremos;;vosotros //vosotras ;;;autorizaréis;;ellos //ellas //ustedes ;;;autorizarán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he autorizado;;tú //vos ;;;has autorizado;;él //ella //usted ;;;ha autorizado;;nosotros //nosotras ;;;hemos autorizado;;vosotros //vosotras ;;;habéis autorizado;;ellos //ellas //ustedes ;;;han autorizado;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera autorizado / hu
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere autorizado;;tú //vos ;;;hubieres autorizado;;él //ella //usted ;;;hubiere autorizado;;nosotros //nosotras ;;;hubiéremos autorizado;;vosotros //vosotras ;;;hubiereis autorizado;;ellos //ellas //ustedes ;;;hubieren autorizado;;;;;
 Condicional;condicional;;yo ;;;autorizaría;;tú //vos ;;;autorizarías;;él //ella //usted ;;;autorizaría;;nosotros //nosotras ;;;autorizaríamos;;vosotros //vosotras ;;;autorizaríais;;ellos //ellas //ustedes ;;;autorizarían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría autorizado;;tú //vos ;;;habrías autorizado;;él //ella //usted ;;;habría autorizado;;nosotros //nosotras ;;;habríamos autorizado;;vosotros //vosotras ;;;habríais autorizado;;ellos //ellas //ustedes ;;;habrían autorizado;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;autoriza;;él //ella //usted ;;;autorice;;nosotros //nosotras ;;;autoricemos;;vosotros //vosotras ;;;autorizad;;ellos //ellas //ustedes ;;;autoricen;;vos ;;;autorizá
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;autorices;;él //ella //usted ;no ;;autorice;;nosotros //nosotras ;no ;;autoricemos;;vosotros //vosotras ;no ;;autoricéis;;ellos //ellas //ustedes ;no ;;autoricen;;;;;
-base_infinitive;autorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;autoriza;;(usted) ;;;autorice;;(nosotros) //(nosotras) ;;;autoricemos;;(vosotros) //(vosotras) ;;;autorizad;;(ustedes) ;;;autoricen;;(vos) ;;;autorizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;autorices;;(usted) ;no ;;autorice;;(nosotros) //(nosotras) ;no ;;autoricemos;;(vosotros) //(vosotras) ;no ;;autoricéis;;(ustedes) ;no ;;autoricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;autorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;autoriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

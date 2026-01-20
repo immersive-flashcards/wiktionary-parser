@@ -22,10 +22,7 @@ class LanguageConfig:
     infinitives_jsonl: Path
     output_dir: Path
     meta_data: dict[str, Any]
-    # auxiliary: str
     # category_config: dict[str, Any]
-    # row_meta: dict[str, dict[str, Any]]
-    # csv_row_order: list[str]
     person_map: dict[int, Any]
     pronouns: dict[int, Any]
     endings: list[str]
@@ -52,10 +49,7 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
         infinitives_jsonl=(BASE_DIR / data["infinitives_jsonl"]).resolve(),
         output_dir=Path(data["output_dir"]),
         meta_data=data.get("meta-data", {}),
-        # auxiliary=data.get("auxiliary", ""),
         # category_config=data["category_config"],
-        # row_meta=data["row_meta"],
-        # csv_row_order=data["csv_row_order"],
         person_map=data.get("person_map", {}),
         pronouns=data.get("pronouns", {}),
         endings=data.get("endings", []),
@@ -156,12 +150,21 @@ def _get_stem(base_infinitive: str, endings: list[str]) -> tuple[str, str]:
     raise ValueError(f"Could not find stem+ending for infinitive '{base_infinitive}'")
 
 
+def _get_auxiliary(lang_cfg: LanguageConfig) -> str:
+    aux_config = lang_cfg.meta_data.get("auxiliary")
+    if type(aux_config) == str:   # Spanish, catalan,etc.
+        return aux_config
+    else:
+        # TODO: implement for French, Italian, etc.
+        return ""
+
+
 def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: LanguageConfig, run_cfg: RunConfig) -> None:
     """Write the config-selected values into a per-verb CSV"""
     lemma = entry.get("word")
-
     rows_out: list[dict[str, Any]] = []
 
+    # Add verb form rows
     for row_key in lang_cfg.forms:
         form = lang_cfg.forms[row_key]
 
@@ -186,10 +189,12 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
         rows_out.append(row_to_add)
 
     # add metadata rows
+    auxiliary = _get_auxiliary(lang_cfg)
     base_infinitive, reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.meta_data.get("reflexive-suffixes"))
     stem, ending = _get_stem(base_infinitive, lang_cfg.meta_data.get("endings"))
 
     meta_items = {
+        "auxiliary": auxiliary,
         "reflexive": reflexive,
         "base_infinitive": base_infinitive,
         "stem": stem,

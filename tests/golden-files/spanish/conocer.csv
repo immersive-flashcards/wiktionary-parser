@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;conocer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;conociendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;conocido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;conozco;;tú ;;;conoces;;él //ella //usted ;;;conoce;;nosotros //nosotras ;;;conocemos;;vosotros //vosotras ;;;conocéis;;ellos //ellas //ustedes ;;;conocen;;vos ;;;conocés
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;conocía;;tú //vos ;;;conocías;;él //ella //usted ;;;conocía;;nosotros //nosotras ;;;conocíamos;;vosotros //vosotras ;;;conocíais;;ellos //ellas //ustedes ;;;conocían;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;conocía;;tú //vos ;;;conocías;;él //ella //usted ;;;conocía;;nosotros //nosotras ;;;conocíamos;;vosotros //vosotras ;;;conocíais;;ellos //ellas //ustedes ;;;conocían;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;conocí;;tú //vos ;;;conociste;;él //ella //usted ;;;conoció;;nosotros //nosotras ;;;conocimos;;vosotros //vosotras ;;;conocisteis;;ellos //ellas //ustedes ;;;conocieron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;conoceré;;tú //vos ;;;conocerás;;él //ella //usted ;;;conocerá;;nosotros //nosotras ;;;conoceremos;;vosotros //vosotras ;;;conoceréis;;ellos //ellas //ustedes ;;;conocerán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he conocido;;tú //vos ;;;has conocido;;él //ella //usted ;;;ha conocido;;nosotros //nosotras ;;;hemos conocido;;vosotros //vosotras ;;;habéis conocido;;ellos //ellas //ustedes ;;;han conocido;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera conocido / hubi
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere conocido;;tú //vos ;;;hubieres conocido;;él //ella //usted ;;;hubiere conocido;;nosotros //nosotras ;;;hubiéremos conocido;;vosotros //vosotras ;;;hubiereis conocido;;ellos //ellas //ustedes ;;;hubieren conocido;;;;;
 Condicional;condicional;;yo ;;;conocería;;tú //vos ;;;conocerías;;él //ella //usted ;;;conocería;;nosotros //nosotras ;;;conoceríamos;;vosotros //vosotras ;;;conoceríais;;ellos //ellas //ustedes ;;;conocerían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría conocido;;tú //vos ;;;habrías conocido;;él //ella //usted ;;;habría conocido;;nosotros //nosotras ;;;habríamos conocido;;vosotros //vosotras ;;;habríais conocido;;ellos //ellas //ustedes ;;;habrían conocido;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;conoce;;él //ella //usted ;;;conozca;;nosotros //nosotras ;;;conozcamos;;vosotros //vosotras ;;;conoced;;ellos //ellas //ustedes ;;;conozcan;;vos ;;;conocé
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;conozcas;;él //ella //usted ;no ;;conozca;;nosotros //nosotras ;no ;;conozcamos;;vosotros //vosotras ;no ;;conozcáis;;ellos //ellas //ustedes ;no ;;conozcan;;;;;
-base_infinitive;conocer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;conoce;;(usted) ;;;conozca;;(nosotros) //(nosotras) ;;;conozcamos;;(vosotros) //(vosotras) ;;;conoced;;(ustedes) ;;;conozcan;;(vos) ;;;conocé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;conozcas;;(usted) ;no ;;conozca;;(nosotros) //(nosotras) ;no ;;conozcamos;;(vosotros) //(vosotras) ;no ;;conozcáis;;(ustedes) ;no ;;conozcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;conocer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;conoc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

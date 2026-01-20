@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;barnizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;barnizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;barnizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;barnizo;;tú ;;;barnizas;;él //ella //usted ;;;barniza;;nosotros //nosotras ;;;barnizamos;;vosotros //vosotras ;;;barnizáis;;ellos //ellas //ustedes ;;;barnizan;;vos ;;;barnizás
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;barnizaba;;tú //vos ;;;barnizabas;;él //ella //usted ;;;barnizaba;;nosotros //nosotras ;;;barnizábamos;;vosotros //vosotras ;;;barnizabais;;ellos //ellas //ustedes ;;;barnizaban;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;barnizaba;;tú //vos ;;;barnizabas;;él //ella //usted ;;;barnizaba;;nosotros //nosotras ;;;barnizábamos;;vosotros //vosotras ;;;barnizabais;;ellos //ellas //ustedes ;;;barnizaban;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;barnicé;;tú //vos ;;;barnizaste;;él //ella //usted ;;;barnizó;;nosotros //nosotras ;;;barnizamos;;vosotros //vosotras ;;;barnizasteis;;ellos //ellas //ustedes ;;;barnizaron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;barnizaré;;tú //vos ;;;barnizarás;;él //ella //usted ;;;barnizará;;nosotros //nosotras ;;;barnizaremos;;vosotros //vosotras ;;;barnizaréis;;ellos //ellas //ustedes ;;;barnizarán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he barnizado;;tú //vos ;;;has barnizado;;él //ella //usted ;;;ha barnizado;;nosotros //nosotras ;;;hemos barnizado;;vosotros //vosotras ;;;habéis barnizado;;ellos //ellas //ustedes ;;;han barnizado;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera barnizado / hub
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere barnizado;;tú //vos ;;;hubieres barnizado;;él //ella //usted ;;;hubiere barnizado;;nosotros //nosotras ;;;hubiéremos barnizado;;vosotros //vosotras ;;;hubiereis barnizado;;ellos //ellas //ustedes ;;;hubieren barnizado;;;;;
 Condicional;condicional;;yo ;;;barnizaría;;tú //vos ;;;barnizarías;;él //ella //usted ;;;barnizaría;;nosotros //nosotras ;;;barnizaríamos;;vosotros //vosotras ;;;barnizaríais;;ellos //ellas //ustedes ;;;barnizarían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría barnizado;;tú //vos ;;;habrías barnizado;;él //ella //usted ;;;habría barnizado;;nosotros //nosotras ;;;habríamos barnizado;;vosotros //vosotras ;;;habríais barnizado;;ellos //ellas //ustedes ;;;habrían barnizado;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;barniza;;él //ella //usted ;;;barnice;;nosotros //nosotras ;;;barnicemos;;vosotros //vosotras ;;;barnizad;;ellos //ellas //ustedes ;;;barnicen;;vos ;;;barnizá
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;barnices;;él //ella //usted ;no ;;barnice;;nosotros //nosotras ;no ;;barnicemos;;vosotros //vosotras ;no ;;barnicéis;;ellos //ellas //ustedes ;no ;;barnicen;;;;;
-base_infinitive;barnizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;barniza;;(usted) ;;;barnice;;(nosotros) //(nosotras) ;;;barnicemos;;(vosotros) //(vosotras) ;;;barnizad;;(ustedes) ;;;barnicen;;(vos) ;;;barnizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;barnices;;(usted) ;no ;;barnice;;(nosotros) //(nosotras) ;no ;;barnicemos;;(vosotros) //(vosotras) ;no ;;barnicéis;;(ustedes) ;no ;;barnicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;barnizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;barniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

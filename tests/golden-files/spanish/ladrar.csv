@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;ladrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;ladrando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;ladrado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;ladro;;tú ;;;ladras;;él //ella //usted ;;;ladra;;nosotros //nosotras ;;;ladramos;;vosotros //vosotras ;;;ladráis;;ellos //ellas //ustedes ;;;ladran;;vos ;;;ladrás
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;ladraba;;tú //vos ;;;ladrabas;;él //ella //usted ;;;ladraba;;nosotros //nosotras ;;;ladrábamos;;vosotros //vosotras ;;;ladrabais;;ellos //ellas //ustedes ;;;ladraban;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;ladraba;;tú //vos ;;;ladrabas;;él //ella //usted ;;;ladraba;;nosotros //nosotras ;;;ladrábamos;;vosotros //vosotras ;;;ladrabais;;ellos //ellas //ustedes ;;;ladraban;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;ladré;;tú //vos ;;;ladraste;;él //ella //usted ;;;ladró;;nosotros //nosotras ;;;ladramos;;vosotros //vosotras ;;;ladrasteis;;ellos //ellas //ustedes ;;;ladraron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;ladraré;;tú //vos ;;;ladrarás;;él //ella //usted ;;;ladrará;;nosotros //nosotras ;;;ladraremos;;vosotros //vosotras ;;;ladraréis;;ellos //ellas //ustedes ;;;ladrarán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he ladrado;;tú //vos ;;;has ladrado;;él //ella //usted ;;;ha ladrado;;nosotros //nosotras ;;;hemos ladrado;;vosotros //vosotras ;;;habéis ladrado;;ellos //ellas //ustedes ;;;han ladrado;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera ladrado / hubie
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere ladrado;;tú //vos ;;;hubieres ladrado;;él //ella //usted ;;;hubiere ladrado;;nosotros //nosotras ;;;hubiéremos ladrado;;vosotros //vosotras ;;;hubiereis ladrado;;ellos //ellas //ustedes ;;;hubieren ladrado;;;;;
 Condicional;condicional;;yo ;;;ladraría;;tú //vos ;;;ladrarías;;él //ella //usted ;;;ladraría;;nosotros //nosotras ;;;ladraríamos;;vosotros //vosotras ;;;ladraríais;;ellos //ellas //ustedes ;;;ladrarían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría ladrado;;tú //vos ;;;habrías ladrado;;él //ella //usted ;;;habría ladrado;;nosotros //nosotras ;;;habríamos ladrado;;vosotros //vosotras ;;;habríais ladrado;;ellos //ellas //ustedes ;;;habrían ladrado;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;ladra;;él //ella //usted ;;;ladre;;nosotros //nosotras ;;;ladremos;;vosotros //vosotras ;;;ladrad;;ellos //ellas //ustedes ;;;ladren;;vos ;;;ladrá
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;ladres;;él //ella //usted ;no ;;ladre;;nosotros //nosotras ;no ;;ladremos;;vosotros //vosotras ;no ;;ladréis;;ellos //ellas //ustedes ;no ;;ladren;;;;;
-base_infinitive;ladrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;ladra;;(usted) ;;;ladre;;(nosotros) //(nosotras) ;;;ladremos;;(vosotros) //(vosotras) ;;;ladrad;;(ustedes) ;;;ladren;;(vos) ;;;ladrá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;ladres;;(usted) ;no ;;ladre;;(nosotros) //(nosotras) ;no ;;ladremos;;(vosotros) //(vosotras) ;no ;;ladréis;;(ustedes) ;no ;;ladren;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;ladrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ladr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;amar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

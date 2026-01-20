@@ -3,33 +3,29 @@ lang_code: "es"
 infinitives_jsonl: "data/infinitive-dumps/es-old-infinitives.jsonl.zst"
 output_dir: "spanish"
 
-auxiliary: "haber"
+meta-data:
+  auxiliary: "haber"
 
-base_forms:
-  infinitive: "infinitivo"
-  gerund: "gerundio"
-  participle: "participio"
+  endings:
+    - "ar"
+    - "er"
+    - "ir"
 
-person_map:
-  # first match wins.
-  rules:
-    - idx: 1
-      all: ["first-person", "singular"]
-    - idx: 4
-      all: ["first-person", "plural"]
-    - idx: 7  # 2sg voseo
-      all: ["second-person", "singular", "vos-form"]
-    - idx: 2  # 2sg default (tú)
-      all: ["second-person", "singular"]
-    - idx: 5
-      all: ["second-person", "plural"]
-    - idx: 3
-      all: ["third-person", "singular"]
-    - idx: 6
-      all: ["third-person", "plural"]
+  reflexive-suffixes: [ "se" ]
 
-pronouns:
-  by_idx:
+
+person-data:
+  person_map:
+    # first match wins.
+    1: ["first-person", "singular"]
+    2: ["second-person", "singular"]
+    3: ["third-person", "singular"]
+    4: ["first-person", "plural"]
+    5: ["second-person", "plural"]
+    6: ["third-person", "plural"]
+    7: ["second-person", "singular", "vos-form"]
+
+  pronouns:
     1: "yo "
     2: "tú "
     3: "él //ella //usted "
@@ -38,13 +34,20 @@ pronouns:
     6: "ellos //ellas //ustedes "
     7: "vos "
 
-  voseo:
-    merge_when_same_form: true
-    merge_into_idx: 2
-    drop_idx: 7
+  imperative-pronouns:
+    1: ""
+    2: "(tú) "
+    3: "(usted) "
+    4: "(nosotros) //(nosotras) "
+    5: "(vosotros) //(vosotras) "
+    6: "(ustedes) "
+    7: "(vos) "
 
-category_config:
-  categories:
+  reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os ", "se ", "te "]
+
+
+category_data:
+  transitivity:
     "ES:Verbos intransitivos": "intransitivo"
     "ES:Verbos transitivos": "transitivo"
 
@@ -57,143 +60,134 @@ category_config:
     "ES:Verbos irregulares": "irregular"
     "ES:Verbos regulares": "regular"
 
+complex_category_data:
   paradigma:
-    prefix: "ES:Verbos del paradigma "
+    startswith: "ES:Verbos del paradigma "
 
-  endings:
-    - "ar"
-    - "er"
-    - "ir"
 
-  reflexive-suffixes: [ "se" ]
+forms:
+    "Infinitivo":
+      mode: "infinitivo"
+      type: "base_form"
+      path:
+        - "word"
 
-  reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os "]
+    "Gerundio":
+      mode: "gerundio"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["impersonal", "gerund"]
+      on_collision: shortest_length
 
-row_meta:
-  infinitivo:
-    label: "Infinitivo"
-    mode: "infinitivo"
-    key: null
+    "Participio":
+      mode: "participio"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["impersonal", "participle"]
+      on_collision: shortest_length
 
-  gerundio:
-    label: "Gerundio"
-    mode: "gerundio"
-    key: ["gerund"]
+    "Indicativo Presente":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "present"]
 
-  participio:
-    label: "Participio"
-    mode: "participio"
-    key: ["participle"]
+    "Indicativo Imperfecto":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "past", "imperfect"]
 
-  ind_presente:
-    label: "Indicativo Presente"
-    mode: "indicativo"
-    key: ["indicative", "present"]
+    "Indicativo Pretérito Indefinido":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "present", "perfect"]
 
-  ind_imperfecto:
-    label: "Indicativo Pretérito Imperfecto"
-    mode: "indicativo"
-    key: ["imperfect", "indicative", "past"]
+    "Indicativo Futuro":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "future"]
 
-  ind_preterito_indefinido:
-    label: "Indicativo Pretérito Indefinido"
-    mode: "indicativo"
-    key: ["indicative", "perfect", "present"]
+    "Indicativo Pretérito Perfecto":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "present", "perfect", "compound"]
 
-  ind_futuro:
-    label: "Indicativo Futuro"
-    mode: "indicativo"
-    key: ["future", "indicative"]
+    "Indicativo Pretérito Pluscuamperfecto":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "pluperfect"]
 
-  ind_preterito_perfecto:
-    label: "Indicativo Pretérito Perfecto"
-    mode: "indicativo"
-    key: ["compound", "indicative", "perfect", "present"]
+    "Indicativo Pretérito Anterior":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "past", "anterior", "archaic"]
 
-  ind_pluscuamperfecto:
-    label: "Indicativo Pretérito Pluscuamperfecto"
-    mode: "indicativo"
-    key: ["indicative", "pluperfect"]
+    "Indicativo Futuro Perfecto":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "future", "compound"]
 
-  ind_preterito_anterior:
-    label: "Indicativo Pretérito Anterior"
-    mode: "indicativo"
-    key: ["anterior", "archaic", "indicative", "past"]
+    "Subjuntivo Presente":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "present"]
+      on_collision: shortest_length
 
-  ind_futuro_perfecto:
-    label: "Indicativo Futuro Perfecto"
-    mode: "indicativo"
-    key: ["compound", "future", "indicative"]
+    "Subjuntivo Pretérito Imperfecto":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "past", "imperfect"]
 
-  subj_presente:
-    label: "Subjuntivo Presente"
-    mode: "subjuntivo"
-    key: ["present", "subjunctive"]
+    "Subjuntivo Futuro":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "future", "archaic"]
 
-  subj_imperfecto:
-    label: "Subjuntivo Pretérito Imperfecto"
-    mode: "subjuntivo"
-    key: ["imperfect", "past", "subjunctive"]
+    "Subjuntivo Pretérito Perfecto":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "present", "perfect"]
 
-  subj_futuro:
-    label: "Subjuntivo Futuro"
-    mode: "subjuntivo"
-    key: ["archaic", "future", "subjunctive"]
+    "Subjuntivo Pretérito Pluscuamperfecto":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "pluperfect"]
 
-  subj_preterito_perfecto:
-    label: "Subjuntivo Pretérito Perfecto"
-    mode: "subjuntivo"
-    key: ["perfect", "present", "subjunctive"]
+    "Subjuntivo Futuro Perfecto":
+      mode: "subjuntivo"
+      path:
+        - "forms"
+      tags: ["subjunctive", "archaic", "future", "compound"]
 
-  subj_pluscuamperfecto:
-    label: "Subjuntivo Pretérito Pluscuamperfecto"
-    mode: "subjuntivo"
-    key: ["pluperfect", "subjunctive"]
+    "Condicional":
+      mode: "condicional"
+      path:
+        - "forms"
+      tags: ["conditional"]
 
-  subj_futuro_perfecto:
-    label: "Subjuntivo Futuro Perfecto"
-    mode: "subjuntivo"
-    key: ["archaic", "compound", "future", "subjunctive"]
+    "Condicional Perfecto":
+      mode: "condicional"
+      path:
+        - "forms"
+      tags: ["conditional", "compound"]
 
-  condicional:
-    label: "Condicional"
-    mode: "condicional"
-    key: ["conditional"]
-
-  condicional_perfecto:
-    label: "Condicional Perfecto"
-    mode: "condicional"
-    key: ["compound", "conditional"]
-
-  imp_afirmativo:
-    label: "Imperativo Afirmativo"
-    mode: "imperativo"
-    key: ["imperative", "present"]
-
-  imp_negativo:
-    label: "Imperativo Negativo"
-    mode: "imperativo"
-    key: null
-
-row_order:
-  - "infinitivo"
-  - "gerundio"
-  - "participio"
-  - "ind_presente"
-  - "ind_imperfecto"
-  - "ind_preterito_indefinido"
-  - "ind_futuro"
-  - "ind_preterito_perfecto"
-  - "ind_pluscuamperfecto"
-  - "ind_preterito_anterior"
-  - "ind_futuro_perfecto"
-  - "subj_presente"
-  - "subj_imperfecto"
-  - "subj_futuro"
-  - "subj_preterito_perfecto"
-  - "subj_pluscuamperfecto"
-  - "subj_futuro_perfecto"
-  - "condicional"
-  - "condicional_perfecto"
-  - "imp_afirmativo"
-  - "imp_negativo"
+    "Imperativo Afirmativo":
+      mode: "imperativo"
+      path:
+        - "forms"
+      tags: ["imperative", "present"]
+      pronouns: "imperative"

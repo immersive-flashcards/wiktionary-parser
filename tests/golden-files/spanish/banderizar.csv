@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;banderizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;banderizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;banderizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;banderizo;;tú ;;;banderizas;;él //ella //usted ;;;banderiza;;nosotros //nosotras ;;;banderizamos;;vosotros //vosotras ;;;banderizáis;;ellos //ellas //ustedes ;;;banderizan;;vos ;;;banderizás
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;banderizaba;;tú //vos ;;;banderizabas;;él //ella //usted ;;;banderizaba;;nosotros //nosotras ;;;banderizábamos;;vosotros //vosotras ;;;banderizabais;;ellos //ellas //ustedes ;;;banderizaban;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;banderizaba;;tú //vos ;;;banderizabas;;él //ella //usted ;;;banderizaba;;nosotros //nosotras ;;;banderizábamos;;vosotros //vosotras ;;;banderizabais;;ellos //ellas //ustedes ;;;banderizaban;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;bandericé;;tú //vos ;;;banderizaste;;él //ella //usted ;;;banderizó;;nosotros //nosotras ;;;banderizamos;;vosotros //vosotras ;;;banderizasteis;;ellos //ellas //ustedes ;;;banderizaron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;banderizaré;;tú //vos ;;;banderizarás;;él //ella //usted ;;;banderizará;;nosotros //nosotras ;;;banderizaremos;;vosotros //vosotras ;;;banderizaréis;;ellos //ellas //ustedes ;;;banderizarán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he banderizado;;tú //vos ;;;has banderizado;;él //ella //usted ;;;ha banderizado;;nosotros //nosotras ;;;hemos banderizado;;vosotros //vosotras ;;;habéis banderizado;;ellos //ellas //ustedes ;;;han banderizado;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera banderizado / h
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere banderizado;;tú //vos ;;;hubieres banderizado;;él //ella //usted ;;;hubiere banderizado;;nosotros //nosotras ;;;hubiéremos banderizado;;vosotros //vosotras ;;;hubiereis banderizado;;ellos //ellas //ustedes ;;;hubieren banderizado;;;;;
 Condicional;condicional;;yo ;;;banderizaría;;tú //vos ;;;banderizarías;;él //ella //usted ;;;banderizaría;;nosotros //nosotras ;;;banderizaríamos;;vosotros //vosotras ;;;banderizaríais;;ellos //ellas //ustedes ;;;banderizarían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría banderizado;;tú //vos ;;;habrías banderizado;;él //ella //usted ;;;habría banderizado;;nosotros //nosotras ;;;habríamos banderizado;;vosotros //vosotras ;;;habríais banderizado;;ellos //ellas //ustedes ;;;habrían banderizado;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;banderiza;;él //ella //usted ;;;banderice;;nosotros //nosotras ;;;bandericemos;;vosotros //vosotras ;;;banderizad;;ellos //ellas //ustedes ;;;bandericen;;vos ;;;banderizá
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;banderices;;él //ella //usted ;no ;;banderice;;nosotros //nosotras ;no ;;bandericemos;;vosotros //vosotras ;no ;;bandericéis;;ellos //ellas //ustedes ;no ;;bandericen;;;;;
-base_infinitive;banderizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;banderiza;;(usted) ;;;banderice;;(nosotros) //(nosotras) ;;;bandericemos;;(vosotros) //(vosotras) ;;;banderizad;;(ustedes) ;;;bandericen;;(vos) ;;;banderizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;banderices;;(usted) ;no ;;banderice;;(nosotros) //(nosotras) ;no ;;bandericemos;;(vosotros) //(vosotras) ;no ;;bandericéis;;(ustedes) ;no ;;bandericen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;banderizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;banderiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

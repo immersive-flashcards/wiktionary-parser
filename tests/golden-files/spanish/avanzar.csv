@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;avanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;avanzando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;avanzado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;avanzo;;tú ;;;avanzas;;él //ella //usted ;;;avanza;;nosotros //nosotras ;;;avanzamos;;vosotros //vosotras ;;;avanzáis;;ellos //ellas //ustedes ;;;avanzan;;vos ;;;avanzás
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;avanzaba;;tú //vos ;;;avanzabas;;él //ella //usted ;;;avanzaba;;nosotros //nosotras ;;;avanzábamos;;vosotros //vosotras ;;;avanzabais;;ellos //ellas //ustedes ;;;avanzaban;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;avanzaba;;tú //vos ;;;avanzabas;;él //ella //usted ;;;avanzaba;;nosotros //nosotras ;;;avanzábamos;;vosotros //vosotras ;;;avanzabais;;ellos //ellas //ustedes ;;;avanzaban;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;avancé;;tú //vos ;;;avanzaste;;él //ella //usted ;;;avanzó;;nosotros //nosotras ;;;avanzamos;;vosotros //vosotras ;;;avanzasteis;;ellos //ellas //ustedes ;;;avanzaron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;avanzaré;;tú //vos ;;;avanzarás;;él //ella //usted ;;;avanzará;;nosotros //nosotras ;;;avanzaremos;;vosotros //vosotras ;;;avanzaréis;;ellos //ellas //ustedes ;;;avanzarán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he avanzado;;tú //vos ;;;has avanzado;;él //ella //usted ;;;ha avanzado;;nosotros //nosotras ;;;hemos avanzado;;vosotros //vosotras ;;;habéis avanzado;;ellos //ellas //ustedes ;;;han avanzado;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera avanzado / hubi
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere avanzado;;tú //vos ;;;hubieres avanzado;;él //ella //usted ;;;hubiere avanzado;;nosotros //nosotras ;;;hubiéremos avanzado;;vosotros //vosotras ;;;hubiereis avanzado;;ellos //ellas //ustedes ;;;hubieren avanzado;;;;;
 Condicional;condicional;;yo ;;;avanzaría;;tú //vos ;;;avanzarías;;él //ella //usted ;;;avanzaría;;nosotros //nosotras ;;;avanzaríamos;;vosotros //vosotras ;;;avanzaríais;;ellos //ellas //ustedes ;;;avanzarían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría avanzado;;tú //vos ;;;habrías avanzado;;él //ella //usted ;;;habría avanzado;;nosotros //nosotras ;;;habríamos avanzado;;vosotros //vosotras ;;;habríais avanzado;;ellos //ellas //ustedes ;;;habrían avanzado;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;avanza;;él //ella //usted ;;;avance;;nosotros //nosotras ;;;avancemos;;vosotros //vosotras ;;;avanzad;;ellos //ellas //ustedes ;;;avancen;;vos ;;;avanzá
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;avances;;él //ella //usted ;no ;;avance;;nosotros //nosotras ;no ;;avancemos;;vosotros //vosotras ;no ;;avancéis;;ellos //ellas //ustedes ;no ;;avancen;;;;;
-base_infinitive;avanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;avanza;;(usted) ;;;avance;;(nosotros) //(nosotras) ;;;avancemos;;(vosotros) //(vosotras) ;;;avanzad;;(ustedes) ;;;avancen;;(vos) ;;;avanzá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;avances;;(usted) ;no ;;avance;;(nosotros) //(nosotras) ;no ;;avancemos;;(vosotros) //(vosotras) ;no ;;avancéis;;(ustedes) ;no ;;avancen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;avanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;avanz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

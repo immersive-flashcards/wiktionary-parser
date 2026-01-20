@@ -1,9 +1,9 @@
-"";mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
 Infinitivo;infinitivo;balizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gerundio;gerundio;balizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participio;participio;balizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicativo Presente;indicativo;;yo ;;;balizo;;tú ;;;balizas;;él //ella //usted ;;;baliza;;nosotros //nosotras ;;;balizamos;;vosotros //vosotras ;;;balizáis;;ellos //ellas //ustedes ;;;balizan;;vos ;;;balizás
-Indicativo Pretérito Imperfecto;indicativo;;yo ;;;balizaba;;tú //vos ;;;balizabas;;él //ella //usted ;;;balizaba;;nosotros //nosotras ;;;balizábamos;;vosotros //vosotras ;;;balizabais;;ellos //ellas //ustedes ;;;balizaban;;;;;
+Indicativo Imperfecto;indicativo;;yo ;;;balizaba;;tú //vos ;;;balizabas;;él //ella //usted ;;;balizaba;;nosotros //nosotras ;;;balizábamos;;vosotros //vosotras ;;;balizabais;;ellos //ellas //ustedes ;;;balizaban;;;;;
 Indicativo Pretérito Indefinido;indicativo;;yo ;;;balicé;;tú //vos ;;;balizaste;;él //ella //usted ;;;balizó;;nosotros //nosotras ;;;balizamos;;vosotros //vosotras ;;;balizasteis;;ellos //ellas //ustedes ;;;balizaron;;;;;
 Indicativo Futuro;indicativo;;yo ;;;balizaré;;tú //vos ;;;balizarás;;él //ella //usted ;;;balizará;;nosotros //nosotras ;;;balizaremos;;vosotros //vosotras ;;;balizaréis;;ellos //ellas //ustedes ;;;balizarán;;;;;
 Indicativo Pretérito Perfecto;indicativo;;yo ;;;he balizado;;tú //vos ;;;has balizado;;él //ella //usted ;;;ha balizado;;nosotros //nosotras ;;;hemos balizado;;vosotros //vosotras ;;;habéis balizado;;ellos //ellas //ustedes ;;;han balizado;;;;;
@@ -18,10 +18,14 @@ Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera balizado / hubi
 Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere balizado;;tú //vos ;;;hubieres balizado;;él //ella //usted ;;;hubiere balizado;;nosotros //nosotras ;;;hubiéremos balizado;;vosotros //vosotras ;;;hubiereis balizado;;ellos //ellas //ustedes ;;;hubieren balizado;;;;;
 Condicional;condicional;;yo ;;;balizaría;;tú //vos ;;;balizarías;;él //ella //usted ;;;balizaría;;nosotros //nosotras ;;;balizaríamos;;vosotros //vosotras ;;;balizaríais;;ellos //ellas //ustedes ;;;balizarían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría balizado;;tú //vos ;;;habrías balizado;;él //ella //usted ;;;habría balizado;;nosotros //nosotras ;;;habríamos balizado;;vosotros //vosotras ;;;habríais balizado;;ellos //ellas //ustedes ;;;habrían balizado;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;tú ;;;baliza;;él //ella //usted ;;;balice;;nosotros //nosotras ;;;balicemos;;vosotros //vosotras ;;;balizad;;ellos //ellas //ustedes ;;;balicen;;vos ;;;balizá
-Imperativo Negativo;imperativo;;;;;;;tú //vos ;no ;;balices;;él //ella //usted ;no ;;balice;;nosotros //nosotras ;no ;;balicemos;;vosotros //vosotras ;no ;;balicéis;;ellos //ellas //ustedes ;no ;;balicen;;;;;
-base_infinitive;balizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;False;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;baliza;;(usted) ;;;balice;;(nosotros) //(nosotras) ;;;balicemos;;(vosotros) //(vosotras) ;;;balizad;;(ustedes) ;;;balicen;;(vos) ;;;balizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;balices;;(usted) ;no ;;balice;;(nosotros) //(nosotras) ;no ;;balicemos;;(vosotros) //(vosotras) ;no ;;balicéis;;(ustedes) ;no ;;balicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-endings;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;balizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;baliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

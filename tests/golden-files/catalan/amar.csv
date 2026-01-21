@@ -1,0 +1,18 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;amar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;amant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;amat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;amo;;tu ;;;ames;;ell //ella //vostè ;;;ama;;nosaltres ;;;amem;;vosaltres ;;;ameu;;ells //elles //vostès ;;;amen
+Indicatiu Imperfet;indicativo;;jo ;;;amava;;tu ;;;amaves;;ell //ella //vostè ;;;amava;;nosaltres ;;;amàvem;;vosaltres ;;;amàveu;;ells //elles //vostès ;;;amaven
+Indicatiu Futur;indicativo;;jo ;;;amaré;;tu ;;;amaràs;;ell //ella //vostè ;;;amarà;;nosaltres ;;;amarem;;vosaltres ;;;amareu;;ells //elles //vostès ;;;amaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;amí;;tu ;;;amares;;ell //ella //vostè ;;;amà;;nosaltres ;;;amàrem;;vosaltres ;;;amàreu;;ells //elles //vostès ;;;amaren
+Condicional;condicional;;jo ;;;amaria;;tu ;;;amaries;;ell //ella //vostè ;;;amaria;;nosaltres ;;;amaríem;;vosaltres ;;;amaríeu;;ells //elles //vostès ;;;amarien
+Subjuntiu Present;subjuntiu;;jo ;;;ami;;tu ;;;amis;;ell //ella //vostè ;;;ami;;nosaltres ;;;amem;;vosaltres ;;;ameu;;ells //elles //vostès ;;;amin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;amés;;tu ;;;amessis;;ell //ella //vostè ;;;amés;;nosaltres ;;;améssim;;vosaltres ;;;améssiu;;ells //elles //vostès ;;;amessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;ama;;(vostè) ;;;ami;;(nosaltres) ;;;amem;;(vosaltres) ;;;ameu;;(vostès) ;;;amin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;;;no amis;;(vostè) ;;;no ami;;(nosaltres) ;;;no amem;;(vosaltres) ;;;no ameu;;(vostès) ;;;no amin
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;amar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;am;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,18 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;acreditar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;acreditant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;acreditat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;acredito;;tu ;;;acredites;;ell //ella //vostè ;;;acredita;;nosaltres ;;;acreditem;;vosaltres ;;;acrediteu;;ells //elles //vostès ;;;acrediten
+Indicatiu Imperfet;indicativo;;jo ;;;acreditava;;tu ;;;acreditaves;;ell //ella //vostè ;;;acreditava;;nosaltres ;;;acreditàvem;;vosaltres ;;;acreditàveu;;ells //elles //vostès ;;;acreditaven
+Indicatiu Futur;indicativo;;jo ;;;acreditaré;;tu ;;;acreditaràs;;ell //ella //vostè ;;;acreditarà;;nosaltres ;;;acreditarem;;vosaltres ;;;acreditareu;;ells //elles //vostès ;;;acreditaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;acredití;;tu ;;;acreditares;;ell //ella //vostè ;;;acredità;;nosaltres ;;;acreditàrem;;vosaltres ;;;acreditàreu;;ells //elles //vostès ;;;acreditaren
+Condicional;condicional;;jo ;;;acreditaria;;tu ;;;acreditaries;;ell //ella //vostè ;;;acreditaria;;nosaltres ;;;acreditaríem;;vosaltres ;;;acreditaríeu;;ells //elles //vostès ;;;acreditarien
+Subjuntiu Present;subjuntiu;;jo ;;;acrediti;;tu ;;;acreditis;;ell //ella //vostè ;;;acrediti;;nosaltres ;;;acreditem;;vosaltres ;;;acrediteu;;ells //elles //vostès ;;;acreditin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;acredités;;tu ;;;acreditessis;;ell //ella //vostè ;;;acredités;;nosaltres ;;;acreditéssim;;vosaltres ;;;acreditéssiu;;ells //elles //vostès ;;;acreditessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;acredita;;(vostè) ;;;acrediti;;(nosaltres) ;;;acreditem;;(vosaltres) ;;;acrediteu;;(vostès) ;;;acreditin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;;;no acreditis;;(vostè) ;;;no acrediti;;(nosaltres) ;;;no acreditem;;(vosaltres) ;;;no acrediteu;;(vostès) ;;;no acreditin
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;acreditar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;acredit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

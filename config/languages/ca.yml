@@ -1,7 +1,7 @@
 lang_code: "ca"
 
 infinitives_jsonl: "data/infinitive-dumps/ca-en-infinitives.jsonl.zst"
-output_dir: "catalan-test"
+output_dir: "catalan"
 
 meta-data:
   auxiliary: "haver"

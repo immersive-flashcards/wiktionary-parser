@@ -45,6 +45,9 @@ person-data:
 
   reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os ", "se ", "te "]
 
+category_source:
+  path: ["categories"]
+  item: "str"          # items are already strings
 
 category_data:
   transitivity:

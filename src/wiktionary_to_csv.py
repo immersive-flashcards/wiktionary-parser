@@ -24,6 +24,7 @@ class LanguageConfig:
     output_dir: Path
     meta_data: dict[str, Any]
     person_data: dict[str, Any]
+    category_source: dict[str, Any]
     category_data: dict[str, Any]
     complex_category_data: dict[str, Any]
     forms: dict[str, Any]
@@ -49,6 +50,7 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
         output_dir=Path(data["output_dir"]),
         meta_data=data.get("meta-data", {}),
         person_data=data.get("person-data", {}),
+        category_source=data.get("category_source", {}),
         category_data=data["category_data"],
         complex_category_data=data.get("complex_category_data", {}),
         forms=data.get("forms", {}),
@@ -160,11 +162,10 @@ def _get_stem(base_infinitive: str, meta_data: dict[str, Any]) -> tuple[str, str
 
 def _get_auxiliary(lang_cfg: LanguageConfig) -> str:
     aux_config = lang_cfg.meta_data.get("auxiliary")
-    if type(aux_config) == str:  # Spanish, catalan,etc.
+    if isinstance(aux_config, str):  # Spanish, catalan,etc.
         return aux_config
-    else:
-        # TODO: implement for French, Italian, etc.
-        return ""
+    # TODO: implement for French, Italian, etc.
+    return ""
 
 
 def _merge_identical_verb_forms(lang_cfg: LanguageConfig, row: dict[str, Any]) -> None:
@@ -202,6 +203,25 @@ def _add_missing_forms(lang_config: LanguageConfig, rows: list[dict[str, Any]]) 
             rows.append(row)
         except KeyError:
             pass
+
+
+# Helper to get category list from entry - can be nested
+def extract_categories(entry: dict, lang_cfg: LanguageConfig) -> set[str]:
+    """Extract categories as set according to config. Can be a list or a nested list of dicts"""
+    path = lang_cfg.category_source["path"]
+    item_spec = lang_cfg.category_source["item"]
+
+    if path == ["categories"]:
+        cats = entry["categories"]  # list[str]
+        return set(cats)
+
+    if path == ["senses", "*", "categories"]:
+        senses = entry["senses"]  # list[dict]
+        cats = (c for s in senses for c in s.get("categories", []))  # list[dict]
+        name_key = item_spec["key"]
+        return {c[name_key] for c in cats}
+
+    raise ValueError(f"Unsupported category path: {path!r}")
 
 
 def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: LanguageConfig, run_cfg: RunConfig) -> None:
@@ -279,7 +299,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
         )
 
     # Add category data rows
-    category_list = set(entry.get("categories", []))
+    category_list = extract_categories(entry, lang_cfg)
 
     # fmt: off
     # 1. Checks for exact match with categories listed in entry

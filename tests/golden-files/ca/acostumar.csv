@@ -1,0 +1,18 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;acostumar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;acostumant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;acostumat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;acostumo;;tu ;;;acostumes;;ell //ella //vostè ;;;acostuma;;nosaltres ;;;acostumem;;vosaltres ;;;acostumeu;;ells //elles //vostès ;;;acostumen
+Indicatiu Imperfet;indicativo;;jo ;;;acostumava;;tu ;;;acostumaves;;ell //ella //vostè ;;;acostumava;;nosaltres ;;;acostumàvem;;vosaltres ;;;acostumàveu;;ells //elles //vostès ;;;acostumaven
+Indicatiu Futur;indicativo;;jo ;;;acostumaré;;tu ;;;acostumaràs;;ell //ella //vostè ;;;acostumarà;;nosaltres ;;;acostumarem;;vosaltres ;;;acostumareu;;ells //elles //vostès ;;;acostumaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;acostumí;;tu ;;;acostumares;;ell //ella //vostè ;;;acostumà;;nosaltres ;;;acostumàrem;;vosaltres ;;;acostumàreu;;ells //elles //vostès ;;;acostumaren
+Condicional;condicional;;jo ;;;acostumaria;;tu ;;;acostumaries;;ell //ella //vostè ;;;acostumaria;;nosaltres ;;;acostumaríem;;vosaltres ;;;acostumaríeu;;ells //elles //vostès ;;;acostumarien
+Subjuntiu Present;subjuntiu;;jo ;;;acostumi;;tu ;;;acostumis;;ell //ella //vostè ;;;acostumi;;nosaltres ;;;acostumem;;vosaltres ;;;acostumeu;;ells //elles //vostès ;;;acostumin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;acostumés;;tu ;;;acostumessis;;ell //ella //vostè ;;;acostumés;;nosaltres ;;;acostuméssim;;vosaltres ;;;acostuméssiu;;ells //elles //vostès ;;;acostumessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;acostuma;;(vostè) ;;;acostumi;;(nosaltres) ;;;acostumem;;(vosaltres) ;;;acostumeu;;(vostès) ;;;acostumin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;acostumis;;(vostè) ;no ;;acostumi;;(nosaltres) ;no ;;acostumem;;(vosaltres) ;no ;;acostumeu;;(vostès) ;no ;;acostumin
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;acostumar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;acostum;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,9 +21,11 @@ class TestGoldenFiles(unittest.TestCase):
     def setUpClass(cls):
         cls.config = load_test_config()
         cls.output_dir = (ROOT_DIR / cls.config["output_dir"]).resolve()
+        cls.languages = cls.config["languages"]
 
     def setUp(self):
         self.output_dir = type(self).output_dir
+        self.languages = type(self).languages
 
         # Register cleanup first so it always runs, even if setUp or the test fails
         self.addCleanup(self._cleanup_output_dir)
@@ -39,24 +41,27 @@ class TestGoldenFiles(unittest.TestCase):
     def test_generated_csvs_match_golden_files(self):
         run_with_config("test")  # Run the generator using the test config
 
-        golden_dir = TEST_DIR / "golden-files" / "spanish"
-        generated_dir = self.output_dir / "spanish"
+        for lang in self.languages:
+            with self.subTest(language=lang):
+                golden_lang_dir = TEST_DIR / "golden-files" / lang
+                generated_lang_dir = self.output_dir / lang
 
-        golden_files = sorted(f for f in golden_dir.glob("*.csv") if f.is_file())
-        generated_files = sorted(f for f in generated_dir.glob("*.csv") if f.is_file())
+                self.assertTrue(golden_lang_dir.exists(), f"Missing golden directory for language '{lang}'")
+                self.assertTrue(generated_lang_dir.exists(), f"Missing generated directory for language '{lang}'")
 
-        self.assertEqual(
-            [f.name for f in golden_files],
-            [f.name for f in generated_files],
-            "Generated CSV set does not match golden file set",
-        )
+                golden_files = sorted(golden_lang_dir.glob("*.csv"))
+                generated_files = sorted(generated_lang_dir.glob("*.csv"))
 
-        for golden, generated in zip(golden_files, generated_files):
-            with golden.open("r", encoding="utf-8") as fg, generated.open("r", encoding="utf-8") as ft:
-                golden_content = fg.read()
-                generated_content = ft.read()
-            self.assertEqual(
-                golden_content,
-                generated_content,
-                f"File differs from golden file: {generated.name}",
-            )
+                self.assertEqual(
+                    [f.name for f in golden_files],
+                    [f.name for f in generated_files],
+                    f"Generated CSV set does not match golden files for language '{lang}'",
+                )
+
+                for golden, generated in zip(golden_files, generated_files):
+                    with golden.open("r", encoding="utf-8") as fg, generated.open("r", encoding="utf-8") as ft:
+                        self.assertEqual(
+                            fg.read(),
+                            ft.read(),
+                            f"File differs from golden file ({lang}): {generated.name}",
+                        )

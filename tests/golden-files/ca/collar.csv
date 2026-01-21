@@ -1,0 +1,18 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;collar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;collant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;collat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;collo;;tu ;;;colles;;ell //ella //vostè ;;;colla;;nosaltres ;;;collem;;vosaltres ;;;colleu;;ells //elles //vostès ;;;collen
+Indicatiu Imperfet;indicativo;;jo ;;;collava;;tu ;;;collaves;;ell //ella //vostè ;;;collava;;nosaltres ;;;collàvem;;vosaltres ;;;collàveu;;ells //elles //vostès ;;;collaven
+Indicatiu Futur;indicativo;;jo ;;;collaré;;tu ;;;collaràs;;ell //ella //vostè ;;;collarà;;nosaltres ;;;collarem;;vosaltres ;;;collareu;;ells //elles //vostès ;;;collaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;collí;;tu ;;;collares;;ell //ella //vostè ;;;collà;;nosaltres ;;;collàrem;;vosaltres ;;;collàreu;;ells //elles //vostès ;;;collaren
+Condicional;condicional;;jo ;;;collaria;;tu ;;;collaries;;ell //ella //vostè ;;;collaria;;nosaltres ;;;collaríem;;vosaltres ;;;collaríeu;;ells //elles //vostès ;;;collarien
+Subjuntiu Present;subjuntiu;;jo ;;;colli;;tu ;;;collis;;ell //ella //vostè ;;;colli;;nosaltres ;;;collem;;vosaltres ;;;colleu;;ells //elles //vostès ;;;collin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;collés;;tu ;;;collessis;;ell //ella //vostè ;;;collés;;nosaltres ;;;colléssim;;vosaltres ;;;colléssiu;;ells //elles //vostès ;;;collessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;colla;;(vostè) ;;;colli;;(nosaltres) ;;;collem;;(vosaltres) ;;;colleu;;(vostès) ;;;collin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;collis;;(vostè) ;no ;;colli;;(nosaltres) ;no ;;collem;;(vosaltres) ;no ;;colleu;;(vostès) ;no ;;collin
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;collar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;coll;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

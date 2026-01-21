@@ -32,7 +32,7 @@ jobs:
 
       - name: Run wiktionary parser
         run: |
-          uv run python src/wiktionary_to_csv.py release
+          uv run python -m src.wiktionary_to_csv release
           ls -R data/release_verb_csvs
 
       - name: Package CSV outputs per language

@@ -1,39 +1,39 @@
 lang_code: "ca"
 
 infinitives_jsonl: "data/infinitive-dumps/ca-en-infinitives.jsonl.zst"
-output_dir: "catalan"
+output_dir: "catalan-test"
 
-auxiliary: "haver"
+meta-data:
+  auxiliary: "haver"
 
-base_forms:
-  infinitive: "infinitiu"
-  gerund: "gerundi"
-  participle: "participi"
+  endings:
+    - "re"
+    - "ar"
+    - "er"
+    - "ir"
 
-person_map:
-  rules:
-    # Formal address (vostè/vostès): Kaikki encodes this as second-person-semantically
-    - idx: 3
-      all: ["second-person-semantically", "singular"]
-    - idx: 6
-      all: ["second-person-semantically", "plural"]
+  reflexive-suffixes: [ "-se", "'s" ]
 
-    # Standard tenses
-    - idx: 1
-      all: ["first-person", "singular"]
-    - idx: 2
-      all: ["second-person", "singular"]
-    - idx: 3
-      all: ["third-person", "singular"]
-    - idx: 4
-      all: ["first-person", "plural"]
-    - idx: 5
-      all: ["second-person", "plural"]
-    - idx: 6
-      all: ["third-person", "plural"]
 
-pronouns:
-  by_idx:
+person-data:
+  person_map:
+    1:
+      - ["first-person", "singular"]
+    2:
+      - ["second-person", "singular"]
+      - ["second-person"]  # fallback mapping for imperative
+    3:
+      - ["third-person", "singular"]
+      - ["singular", "formal", "second-person-semantically"]  # fallback mapping for imperative
+    4:
+      - ["first-person", "plural"]
+    5:
+      - ["second-person", "plural"]
+    6:
+      - ["third-person", "plural"]
+      - ["plural", "formal", "second-person-semantically"]  # fallback mapping for imperative
+
+  pronouns:
     1: "jo "
     2: "tu "
     3: "ell //ella //vostè "
@@ -41,145 +41,116 @@ pronouns:
     5: "vosaltres "
     6: "ells //elles //vostès "
 
+  imperative-pronouns:
+    1: ""
+    2: "(tu) "
+    3: "(vostè) "
+    4: "(nosaltres) "
+    5: "(vosaltres) "
+    6: "(vostès) "
 
-category_config:
-  # Start small. These depend heavily on how your dump encodes categories.
-  # With the Python spotfix, categories are collected from entry.categories AND senses[].categories.
-  categories:
-    "Catalan transitive verbs": "transitiu"
-    "Catalan intransitive verbs": "intransitiu"
-    "Catalan copulative verbs": "copulatiu"
-    "Catalan auxiliary verbs": "auxiliar"
+  reflexive-pronouns: ["em ", "et ", "es ", "ens ", "us ", "es "] # TODO: can be contracted variants too
 
-  # You may or may not have these in your dump. Keep empty until you see consistent names.
-  verb-group: {}
+# TODO: update to Catalan categories
+category_source:
+  path: ["senses", "*", "categories"]
+  item: {key: "name"}  # items are dicts, take c["name"]
+
+category_data:
+  transitivity:
+    "ES:Verbos intransitivos": "intransitivo"
+    "ES:Verbos transitivos": "transitivo"
+
+  verb-group:
+    "ES:Verbos de la primera conjugación": "primera conjugación"
+    "ES:Verbos de la segunda conjugación": "segunda conjugación"
+    "ES:Verbos de la tercera conjugación": "tercera conjugación"
 
   regularity:
-    "Catalan irregular verbs": "irregular"
-    "Catalan regular verbs": "regular"
-    "Catalan verbs with velar infix": "infix velar"
+    "ES:Verbos irregulares": "irregular"
+    "ES:Verbos regulares": "regular"
 
-  # Keep this if you actually see categories like "Catalan verbs XYZ"
-  # But note: this prefix extractor assumes you want the suffix as a value.
+complex_category_data:
   paradigma:
-    prefix: "Catalan verbs "
+    startswith: "ES:Verbos del paradigma "
 
-  endings:
-    - "ar"
-    - "er"
-    - "re"
-    - "ir"
 
-  reflexive-suffixes: ["-se", "'s"]
+forms:
+    "Infinitiu":
+      mode: "infinitivo"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["infinitive"]
 
-  reflexive-pronouns: ["em ", "et ", "es ", "ens ", "us ", "es ", "m'", "t'", "s'"]
+    "Gerundi":
+      mode: "gerundio"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["gerund"]
+      on_collision: shortest_length
 
-row_meta:
-  # Catalan row IDs (your preferred names)
-  infinitiu:
-    label: "Infinitiu"
-    mode: "infinitiu"
-    key: null
+    "Participi":
+      mode: "participio"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["participle", "masculine", "past", "singular"]
+      on_collision: shortest_length
 
-  gerundi:
-    label: "Gerundi"
-    mode: "gerundi"
-    key: ["gerund"]
+    "Indicatiu Present":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "present"]
 
-  participi:
-    label: "Participi"
-    mode: "participi"
-    key: ["participle", "past"]
+    "Indicatiu Imperfet":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "imperfect"]
 
-  ind_present:
-    label: "Indicatiu Present"
-    mode: "indicatiu"
-    key: ["indicative", "present"]
+    "Indicatiu Futur":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "future"]
 
-  ind_imperfet:
-    label: "Indicatiu Imperfet"
-    mode: "indicatiu"
-    key: ["imperfect", "indicative"]
+    "Indicatiu Pretèrit Perfet Simple":
+      mode: "indicativo"
+      path:
+        - "forms"
+      tags: ["indicative", "preterite"]
 
-  ind_preterit_perfet_simple:
-    label: "Indicatiu Pretèrit Perfet Simple"
-    mode: "indicatiu"
-    key: ["indicative", "preterite"]
+    "Condicional":
+      mode: "condicional"
+      path:
+        - "forms"
+      tags: ["indicative", "conditional"]
 
-  ind_futur:
-    label: "Indicatiu Futur"
-    mode: "indicatiu"
-    key: ["future", "indicative"]
+    "Subjuntiu Present":
+      mode: "subjuntiu"
+      path:
+        - "forms"
+      tags: ["subjunctive", "present"]
 
-  condicional:
-    label: "Condicional"
-    mode: "condicional"
-    key: ["conditional", "indicative"]
+    "Subjuntiu Imperfet":
+      mode: "subjuntiu"
+      path:
+        - "forms"
+      tags: ["subjunctive", "imperfect"]
 
-  subj_present:
-    label: "Subjuntiu Present"
-    mode: "subjuntiu"
-    key: ["present", "subjunctive"]
+    "Imperatiu Afirmatiu":
+      mode: "imperatiu"
+      path:
+        - "forms"
+      tags: ["imperative"]
+      pronouns: "imperative"
 
-  subj_imperfet:
-    label: "Subjuntiu Imperfet"
-    mode: "subjuntiu"
-    key: ["imperfect", "subjunctive"]
-
-  imp_afirmatiu:
-    label: "Imperatiu Afirmatiu"
-    mode: "imperatiu"
-    key: ["imperative"]
-
-  imp_negatiu:
-    label: "Imperatiu Negatiu"
-    mode: "imperatiu"
-    key: ["imperative", "negative"]
-
-  # --------------------------------------------------------------------
-  # Compatibility aliases for the current Python file
-  # Your script currently hardcodes these keys:
-  #   key == "infinitivo" / "gerundio" / "participio"
-  #   key == "imp_negativo" and row_meta["subj_presente"]
-  #
-  # Add aliases so Catalan runs without touching Python yet.
-  # --------------------------------------------------------------------
-  infinitivo:
-    label: "Infinitiu"
-    mode: "infinitiu"
-    key: null
-
-  gerundio:
-    label: "Gerundi"
-    mode: "gerundi"
-    key: ["gerund"]
-
-  participio:
-    label: "Participi"
-    mode: "participi"
-    key: ["participle", "past"]
-
-  subj_presente:
-    label: "Subjuntiu Present"
-    mode: "subjuntiu"
-    key: ["present", "subjunctive"]
-
-  imp_negativo:
-    label: "Imperatiu Negatiu"
-    mode: "imperatiu"
-    key: ["imperative", "negative"]
-
-row_order:
-  # Use ONLY the Catalan IDs you actually want emitted.
-  - "infinitiu"
-  - "gerundi"
-  - "participi"
-  - "ind_present"
-  - "ind_imperfet"
-  - "ind_preterit_perfet_simple"
-  - "ind_futur"
-  - "condicional"
-  - "subj_present"
-  - "subj_imperfet"
-  - "imp_afirmatiu"
-  - "imp_negatiu"
+    "Imperatiu Negatiu":
+      mode: "imperatiu"
+      path:
+        - "forms"
+      tags: ["imperative", "negative"]
+      pronouns: "imperative"

@@ -20,7 +20,7 @@ This project converts Kaikki or Wiktionary JSONL dumps into per verb CSV conjuga
 2. Run:
 
    ```bash
-   python generate_verb_csvs.py
+   python -m src.wiktionary_to_csv dev|test|prod
    ```
    
 3. The script generates per-verb CSV files in `data/verb-csvs/<lang>/`.

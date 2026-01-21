@@ -1,5 +1,6 @@
 /.venv/
 /.idea/
 data/verb-csvs/
+data/release_verb_csvs/
 data/infinitive-dumps/*.jsonl
 data/verb-dumps/*.jsonl

@@ -3,7 +3,7 @@
 from pathlib import Path
 import zstandard as zstd
 
-BASE_INPUT = Path("../data/verb-dumps")
+BASE_INPUT = Path("../../data/verb-dumps")
 COMPRESSION_LEVEL = 19
 CHUNK_SIZE = 1024 * 1024  # 1 MiB
 

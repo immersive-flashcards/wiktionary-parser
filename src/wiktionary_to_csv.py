@@ -13,6 +13,8 @@ import yaml
 import zstandard as zstd
 
 from src.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
+from src.language_functions.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
+from src.helpers.extract_from_spec import extract_from_spec
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -74,48 +76,6 @@ def _open_jsonl(path: Path):
     if str(path).endswith(".zst"):
         return zstd.open(path, "rt", encoding="utf-8")
     return path.open("r", encoding="utf-8")
-
-
-def _get_by_path(obj: Any, path: list[str]) -> Any:
-    cur = obj
-    for key in path:
-        if not isinstance(cur, dict):
-            return None
-        cur = cur.get(key)
-        if cur is None:
-            return None
-    return cur
-
-
-def _extract_from_spec(entry: dict[str, Any], spec: dict[str, Any], tag_alts: list[list[str]] | None) -> list[str] | None:
-    target = _get_by_path(entry, spec["path"])
-
-    # Simple case: direct value
-    if tag_alts == [None]:
-        return [target] if isinstance(target, str) else None
-
-    # Tagged case: list lookup
-    needed_sets = [set(t) for t in tag_alts]
-    if not isinstance(target, list):
-        return None
-
-    matches: list[str] = []
-    for item in target:
-        if not isinstance(item, dict):
-            continue
-        item_tags = set(item.get("tags", []) or [])
-        if any(ns == item_tags for ns in needed_sets):
-            form = item.get("form")
-            if isinstance(form, str) and form.strip():
-                matches.append(form.strip())
-
-    if not matches:
-        return None
-
-    if spec.get("on_collision") == "shortest_length":
-        return [min(matches, key=len)]
-
-    return matches
 
 
 def build_header(lang_cfg: LanguageConfig) -> list[str]:
@@ -212,7 +172,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         # Handle base forms (infinitive, gerund, participle)
         if form.get("type") == "base_form":
-            f = _extract_from_spec(entry, form, [form.get("tags")])
+            f = extract_from_spec(entry, form, [form.get("tags")])
             row_to_add["conjunction-1"] = f[0] if f else ""
             _merge_identical_verb_forms(lang_cfg, row_to_add)
             rows_out.append(row_to_add)
@@ -224,7 +184,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         for i, person_alts in person_map.items():
             tag_alts = [form_tags + alt for alt in person_alts]
-            f_list = _extract_from_spec(entry, form, tag_alts)
+            f_list = extract_from_spec(entry, form, tag_alts)
             if not f_list:
                 continue
 

@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;acrediti;;tu ;;;acreditis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;acredités;;tu ;;;acreditessis;;ell //ella //vostè ;;;acredités;;nosaltres ;;;acreditéssim;;vosaltres ;;;acreditéssiu;;ells //elles //vostès ;;;acreditessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;acredita;;(vostè) ;;;acrediti;;(nosaltres) ;;;acreditem;;(vosaltres) ;;;acrediteu;;(vostès) ;;;acreditin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;acreditis;;(vostè) ;no ;;acrediti;;(nosaltres) ;no ;;acreditem;;(vosaltres) ;no ;;acrediteu;;(vostès) ;no ;;acreditin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;acreditar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

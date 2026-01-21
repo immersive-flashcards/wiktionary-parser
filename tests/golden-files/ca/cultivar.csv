@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;cultivi;;tu ;;;cultivis;;ell //ella //vostè 
 Subjuntiu Imperfet;subjuntiu;;jo ;;;cultivés;;tu ;;;cultivessis;;ell //ella //vostè ;;;cultivés;;nosaltres ;;;cultivéssim;;vosaltres ;;;cultivéssiu;;ells //elles //vostès ;;;cultivessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;cultiva;;(vostè) ;;;cultivi;;(nosaltres) ;;;cultivem;;(vosaltres) ;;;cultiveu;;(vostès) ;;;cultivin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;cultivis;;(vostè) ;no ;;cultivi;;(nosaltres) ;no ;;cultivem;;(vosaltres) ;no ;;cultiveu;;(vostès) ;no ;;cultivin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;cultivar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

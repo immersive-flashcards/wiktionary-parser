@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;generi;;tu ;;;generis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;generés;;tu ;;;generessis;;ell //ella //vostè ;;;generés;;nosaltres ;;;generéssim;;vosaltres ;;;generéssiu;;ells //elles //vostès ;;;generessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;genera;;(vostè) ;;;generi;;(nosaltres) ;;;generem;;(vosaltres) ;;;genereu;;(vostès) ;;;generin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;generis;;(vostè) ;no ;;generi;;(nosaltres) ;no ;;generem;;(vosaltres) ;no ;;genereu;;(vostès) ;no ;;generin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;generar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

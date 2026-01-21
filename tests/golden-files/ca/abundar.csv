@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;abundi;;tu ;;;abundis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;abundés;;tu ;;;abundessis;;ell //ella //vostè ;;;abundés;;nosaltres ;;;abundéssim;;vosaltres ;;;abundéssiu;;ells //elles //vostès ;;;abundessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;abunda;;(vostè) ;;;abundi;;(nosaltres) ;;;abundem;;(vosaltres) ;;;abundeu;;(vostès) ;;;abundin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;abundis;;(vostè) ;no ;;abundi;;(nosaltres) ;no ;;abundem;;(vosaltres) ;no ;;abundeu;;(vostès) ;no ;;abundin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;abundar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

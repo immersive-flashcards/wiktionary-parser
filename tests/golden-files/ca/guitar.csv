@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;guiti;;tu ;;;guitis;;ell //ella //vostè ;;;g
 Subjuntiu Imperfet;subjuntiu;;jo ;;;guités;;tu ;;;guitessis;;ell //ella //vostè ;;;guités;;nosaltres ;;;guitéssim;;vosaltres ;;;guitéssiu;;ells //elles //vostès ;;;guitessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;guita;;(vostè) ;;;guiti;;(nosaltres) ;;;guitem;;(vosaltres) ;;;guiteu;;(vostès) ;;;guitin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;guitis;;(vostè) ;no ;;guiti;;(nosaltres) ;no ;;guitem;;(vosaltres) ;no ;;guiteu;;(vostès) ;no ;;guitin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;guitar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

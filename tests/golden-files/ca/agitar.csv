@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;agiti;;tu ;;;agitis;;ell //ella //vostè ;;;a
 Subjuntiu Imperfet;subjuntiu;;jo ;;;agités;;tu ;;;agitessis;;ell //ella //vostè ;;;agités;;nosaltres ;;;agitéssim;;vosaltres ;;;agitéssiu;;ells //elles //vostès ;;;agitessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;agita;;(vostè) ;;;agiti;;(nosaltres) ;;;agitem;;(vosaltres) ;;;agiteu;;(vostès) ;;;agitin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;agitis;;(vostè) ;no ;;agiti;;(nosaltres) ;no ;;agitem;;(vosaltres) ;no ;;agiteu;;(vostès) ;no ;;agitin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;agitar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

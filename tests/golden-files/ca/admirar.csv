@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;admiri;;tu ;;;admiris;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;admirés;;tu ;;;admiressis;;ell //ella //vostè ;;;admirés;;nosaltres ;;;admiréssim;;vosaltres ;;;admiréssiu;;ells //elles //vostès ;;;admiressin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;admira;;(vostè) ;;;admiri;;(nosaltres) ;;;admirem;;(vosaltres) ;;;admireu;;(vostès) ;;;admirin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;admiris;;(vostè) ;no ;;admiri;;(nosaltres) ;no ;;admirem;;(vosaltres) ;no ;;admireu;;(vostès) ;no ;;admirin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;admirar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;solti;;tu ;;;soltis;;ell //ella //vostè ;;;s
 Subjuntiu Imperfet;subjuntiu;;jo ;;;soltés;;tu ;;;soltessis;;ell //ella //vostè ;;;soltés;;nosaltres ;;;soltéssim;;vosaltres ;;;soltéssiu;;ells //elles //vostès ;;;soltessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;solta;;(vostè) ;;;solti;;(nosaltres) ;;;soltem;;(vosaltres) ;;;solteu;;(vostès) ;;;soltin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;soltis;;(vostè) ;no ;;solti;;(nosaltres) ;no ;;soltem;;(vosaltres) ;no ;;solteu;;(vostès) ;no ;;soltin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;soltar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

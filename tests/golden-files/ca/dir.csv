@@ -11,6 +11,7 @@ Subjuntiu Present;subjuntiu;;jo ;;;digui;;tu ;;;diguis;;ell //ella //vostè ;;;d
 Subjuntiu Imperfet;subjuntiu;;jo ;;;digués;;tu ;;;diguessis;;ell //ella //vostè ;;;digués;;nosaltres ;;;diguéssim;;vosaltres ;;;diguéssiu;;ells //elles //vostès ;;;diguessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;digues;;(vostè) ;;;digui;;(nosaltres) ;;;diguem;;(vosaltres) ;;;digueu;;(vostès) ;;;diguin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;diguis;;(vostè) ;no ;;digui;;(nosaltres) ;no ;;diguem;;(vosaltres) ;no ;;digueu;;(vostès) ;no ;;diguin
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;dir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

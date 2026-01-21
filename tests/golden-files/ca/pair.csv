@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;paeixi;;tu ;;;paeixis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;país;;tu ;;;païssis;;ell //ella //vostè ;;;país;;nosaltres ;;;paíssim;;vosaltres ;;;paíssiu;;ells //elles //vostès ;;;païssin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;paeix;;(vostè) ;;;paeixi;;(nosaltres) ;;;païm;;(vosaltres) ;;;païu;;(vostès) ;;;paeixin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;paeixis;;(vostè) ;no ;;paeixi;;(nosaltres) ;no ;;païm;;(vosaltres) ;no ;;païu;;(vostès) ;no ;;paeixin
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;pair;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

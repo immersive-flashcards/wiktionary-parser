@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;càpiga;;tu ;;;càpigues;;ell //ella //vostè
 Subjuntiu Imperfet;subjuntiu;;jo ;;;cabés;;tu ;;;cabessis;;ell //ella //vostè ;;;cabés;;nosaltres ;;;cabéssim;;vosaltres ;;;cabéssiu;;ells //elles //vostès ;;;cabessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;cap;;(vostè) ;;;càpiga;;(nosaltres) ;;;capiguem;;(vosaltres) ;;;cabeu;;(vostès) ;;;càpiguen
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;càpigues;;(vostè) ;no ;;càpiga;;(nosaltres) ;no ;;capiguem;;(vosaltres) ;no ;;capigueu;;(vostès) ;no ;;càpiguen
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;caber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

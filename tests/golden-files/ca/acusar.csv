@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;acusi;;tu ;;;acusis;;ell //ella //vostè ;;;a
 Subjuntiu Imperfet;subjuntiu;;jo ;;;acusés;;tu ;;;acusessis;;ell //ella //vostè ;;;acusés;;nosaltres ;;;acuséssim;;vosaltres ;;;acuséssiu;;ells //elles //vostès ;;;acusessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;acusa;;(vostè) ;;;acusi;;(nosaltres) ;;;acusem;;(vosaltres) ;;;acuseu;;(vostès) ;;;acusin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;acusis;;(vostè) ;no ;;acusi;;(nosaltres) ;no ;;acusem;;(vosaltres) ;no ;;acuseu;;(vostès) ;no ;;acusin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;acusar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

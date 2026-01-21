@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;sigui;;tu ;;;siguis;;ell //ella //vostè ;;;s
 Subjuntiu Imperfet;subjuntiu;;jo ;;;fos;;tu ;;;fossis;;ell //ella //vostè ;;;fos;;nosaltres ;;;fóssim;;vosaltres ;;;fóssiu;;ells //elles //vostès ;;;fossin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;sigues;;(vostè) ;;;sigui;;(nosaltres) ;;;siguem;;(vosaltres) ;;;sigueu;;(vostès) ;;;siguin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;siguis;;(vostè) ;no ;;sigui;;(nosaltres) ;no ;;siguem;;(vosaltres) ;no ;;sigueu;;(vostès) ;no ;;siguin
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;ser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

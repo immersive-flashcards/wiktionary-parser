@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;dormi;;tu ;;;dormis;;ell //ella //vostè ;;;d
 Subjuntiu Imperfet;subjuntiu;;jo ;;;dormís;;tu ;;;dormissis;;ell //ella //vostè ;;;dormís;;nosaltres ;;;dormíssim;;vosaltres ;;;dormíssiu;;ells //elles //vostès ;;;dormissin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;dorm;;(vostè) ;;;dormi;;(nosaltres) ;;;dormim;;(vosaltres) ;;;dormiu;;(vostès) ;;;dormin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;dormis;;(vostè) ;no ;;dormi;;(nosaltres) ;no ;;dormim;;(vosaltres) ;no ;;dormiu;;(vostès) ;no ;;dormin
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;dormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

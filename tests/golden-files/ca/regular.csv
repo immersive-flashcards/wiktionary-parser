@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;reguli;;tu ;;;regulis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;regulés;;tu ;;;regulessis;;ell //ella //vostè ;;;regulés;;nosaltres ;;;reguléssim;;vosaltres ;;;reguléssiu;;ells //elles //vostès ;;;regulessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;regula;;(vostè) ;;;reguli;;(nosaltres) ;;;regulem;;(vosaltres) ;;;reguleu;;(vostès) ;;;regulin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;regulis;;(vostè) ;no ;;reguli;;(nosaltres) ;no ;;regulem;;(vosaltres) ;no ;;reguleu;;(vostès) ;no ;;regulin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

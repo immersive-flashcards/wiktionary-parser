@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;soni;;tu ;;;sonis;;ell //ella //vostè ;;;son
 Subjuntiu Imperfet;subjuntiu;;jo ;;;sonés;;tu ;;;sonessis;;ell //ella //vostè ;;;sonés;;nosaltres ;;;sonéssim;;vosaltres ;;;sonéssiu;;ells //elles //vostès ;;;sonessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;sona;;(vostè) ;;;soni;;(nosaltres) ;;;sonem;;(vosaltres) ;;;soneu;;(vostès) ;;;sonin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;sonis;;(vostè) ;no ;;soni;;(nosaltres) ;no ;;sonem;;(vosaltres) ;no ;;soneu;;(vostès) ;no ;;sonin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;sonar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;;;;;;;;;;;;;;;;nosaltres ;;;dem;;vosaltres ;;;deu;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;des;;tu ;;;dessis;;ell //ella //vostè ;;;des;;nosaltres ;;;déssim;;vosaltres ;;;déssiu;;ells //elles //vostès ;;;dessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;;;;;;;;;;;(nosaltres) ;;;dem;;(vosaltres) ;;;deu;;;;;
 Imperatiu Negatiu;imperatiu;;;;;;;;;;;;;;;;;(nosaltres) ;no ;;dem;;(vosaltres) ;no ;;deu;;;;;
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;dar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

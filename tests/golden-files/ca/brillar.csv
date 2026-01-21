@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;brilli;;tu ;;;brillis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;brillés;;tu ;;;brillessis;;ell //ella //vostè ;;;brillés;;nosaltres ;;;brilléssim;;vosaltres ;;;brilléssiu;;ells //elles //vostès ;;;brillessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;brilla;;(vostè) ;;;brilli;;(nosaltres) ;;;brillem;;(vosaltres) ;;;brilleu;;(vostès) ;;;brillin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;brillis;;(vostè) ;no ;;brilli;;(nosaltres) ;no ;;brillem;;(vosaltres) ;no ;;brilleu;;(vostès) ;no ;;brillin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;brillar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

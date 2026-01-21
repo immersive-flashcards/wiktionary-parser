@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;miri;;tu ;;;miris;;ell //ella //vostè ;;;mir
 Subjuntiu Imperfet;subjuntiu;;jo ;;;mirés;;tu ;;;miressis;;ell //ella //vostè ;;;mirés;;nosaltres ;;;miréssim;;vosaltres ;;;miréssiu;;ells //elles //vostès ;;;miressin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;mira;;(vostè) ;;;miri;;(nosaltres) ;;;mirem;;(vosaltres) ;;;mireu;;(vostès) ;;;mirin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;miris;;(vostè) ;no ;;miri;;(nosaltres) ;no ;;mirem;;(vosaltres) ;no ;;mireu;;(vostès) ;no ;;mirin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;mirar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

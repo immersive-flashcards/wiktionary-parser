@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;acostumi;;tu ;;;acostumis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;acostumés;;tu ;;;acostumessis;;ell //ella //vostè ;;;acostumés;;nosaltres ;;;acostuméssim;;vosaltres ;;;acostuméssiu;;ells //elles //vostès ;;;acostumessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;acostuma;;(vostè) ;;;acostumi;;(nosaltres) ;;;acostumem;;(vosaltres) ;;;acostumeu;;(vostès) ;;;acostumin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;acostumis;;(vostè) ;no ;;acostumi;;(nosaltres) ;no ;;acostumem;;(vosaltres) ;no ;;acostumeu;;(vostès) ;no ;;acostumin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;acostumar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

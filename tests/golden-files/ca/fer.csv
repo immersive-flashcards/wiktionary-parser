@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;faci;;tu ;;;facis;;ell //ella //vostè ;;;fac
 Subjuntiu Imperfet;subjuntiu;;jo ;;;fes;;tu ;;;fessis;;ell //ella //vostè ;;;fes;;nosaltres ;;;féssim;;vosaltres ;;;féssiu;;ells //elles //vostès ;;;fessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;fes;;(vostè) ;;;faci;;(nosaltres) ;;;fem;;(vosaltres) ;;;feu;;(vostès) ;;;facin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;facis;;(vostè) ;no ;;faci;;(nosaltres) ;no ;;fem;;(vosaltres) ;no ;;feu;;(vostès) ;no ;;facin
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;fer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;canti;;tu ;;;cantis;;ell //ella //vostè ;;;c
 Subjuntiu Imperfet;subjuntiu;;jo ;;;cantés;;tu ;;;cantessis;;ell //ella //vostè ;;;cantés;;nosaltres ;;;cantéssim;;vosaltres ;;;cantéssiu;;ells //elles //vostès ;;;cantessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;canta;;(vostè) ;;;canti;;(nosaltres) ;;;cantem;;(vosaltres) ;;;canteu;;(vostès) ;;;cantin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;cantis;;(vostè) ;no ;;canti;;(nosaltres) ;no ;;cantem;;(vosaltres) ;no ;;canteu;;(vostès) ;no ;;cantin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;cantar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

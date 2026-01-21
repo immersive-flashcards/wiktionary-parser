@@ -12,6 +12,8 @@ import polars as pl
 import yaml
 import zstandard as zstd
 
+from src.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 
@@ -148,7 +150,6 @@ def _get_base_infinitive_and_reflexivity(infinitive: str, meta_data: dict[str, A
 
 
 def _get_stem(base_infinitive: str, meta_data: dict[str, Any]) -> tuple[str, str]:
-
     def _normalize(s: str) -> str:
         normalized = unicodedata.normalize("NFKD", s)
         return "".join(c for c in normalized if not unicodedata.combining(c))
@@ -169,39 +170,14 @@ def _get_auxiliary(lang_cfg: LanguageConfig) -> str:
 
 def _merge_identical_verb_forms(lang_cfg: LanguageConfig, row: dict[str, Any]) -> None:
     """Language-specific mergin of identical verb forms. Example: Many Spanish tú/vos forms."""
-
     if lang_cfg.lang_code == "es":  # Spanish
-        # Join tú and vos forms if they are the same
-        if row.get("conjugation-2") is not None and row.get("conjugation-2") == row.get("conjugation-7"):
-            row["pronoun-2"] += "//" + row["pronoun-7"]
-
-            # remove vos form columns
-            for k in ["conjunction-7", "pronoun-7", "negation-7", "refl_pronoun-7", "conjugation-7"]:
-                row.pop(k, None)
+        merge_tu_vos_if_equal(row)
 
 
 def _add_missing_forms(lang_config: LanguageConfig, rows: list[dict[str, Any]]) -> None:
     """Add missing verb forms that are not in the JSONL. Example: Spanish negative imperative."""
-
     if lang_config.lang_code == "es":  # Spanish
-        # add negative imperative forms == subjuntivo forms
-        row = next(r for r in rows if r.get("key") == "Subjuntivo Presente").copy()
-        imp_afirm = next(r for r in rows if r.get("key") == "Imperativo Afirmativo")
-
-        try:
-            # remove 1st person sing. form columns
-            for k in ["conjunction-1", "pronoun-1", "negation-1", "refl_pronoun-1", "conjugation-1"]:
-                row.pop(k, None)
-
-            row["key"] = "Imperativo Negativo"
-            row["mode"] = "imperativo"
-            for i in range(2, 7):
-                row[f"pronoun-{i}"] = imp_afirm[f"pronoun-{i}"]
-                row[f"negation-{i}"] = "no "
-
-            rows.append(row)
-        except KeyError:
-            pass
+        create_spanish_negative_imperative(rows)
 
 
 # Helper to get category list from entry - can be nested

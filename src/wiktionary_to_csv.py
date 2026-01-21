@@ -215,7 +215,6 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         # Handle infinitive, gerund, participle forms
         if form.get("type") == "base_form":
-
             f = _extract_from_spec(entry, form, [form.get("tags")])
             row_to_add["conjunction-1"] = f[0] if f is not None else ""
 
@@ -229,6 +228,13 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                 if f_list is None:
                     continue
 
+                # Split off negation if present and indicated by config
+                negation = form.get("negation")
+                for f_i, f in enumerate(f_list):
+                    if negation and f.startswith(negation):
+                        f_list[f_i] = f[len(negation) :]
+                        row_to_add[f"negation-{i}"] = negation
+
                 # Split off reflexive pronoun if present
                 reflexive_pronouns = lang_cfg.person_data.get("reflexive-pronouns")[i - 1]
                 for rp in reflexive_pronouns:
@@ -238,11 +244,9 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                             row_to_add[f"refl_pronoun-{i}"] = rp
 
                 # Join multiple equivalent forms with " / "
-                f_list = f_list[0] if len(f_list) == 1 else " / ".join(f_list)
+                conjugation = f_list[0] if len(f_list) == 1 else " / ".join(f_list)
 
-                # TODO: Split off negations, conjunctions
-
-                row_to_add[f"conjugation-{i}"] = f_list if f_list is not None else ""
+                row_to_add[f"conjugation-{i}"] = conjugation if conjugation is not None else ""
 
                 if form.get("pronouns") == "imperative":
                     row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("imperative-pronouns").get(i)

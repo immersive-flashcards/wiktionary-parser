@@ -160,3 +160,4 @@ forms:
         - "forms"
       tags: ["imperative", "negative"]
       pronouns: "imperative"
+      negation: "no "

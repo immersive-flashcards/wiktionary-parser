@@ -203,43 +203,45 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
     rows_out: list[dict[str, Any]] = []
 
     # Add verb form rows
-    for row_key in lang_cfg.forms:
-        form = lang_cfg.forms[row_key]
+    person_data = lang_cfg.person_data
+    person_map = person_data["person_map"]
+    refl_pronouns_by_i = person_data.get("reflexive-pronouns", [])
 
-        row_to_add = {
-            "key": row_key,
-            "mode": lang_cfg.forms[row_key]["mode"],
-        }
+    for row_key, form in lang_cfg.forms.items():
+        row_to_add = {"key": row_key, "mode": form["mode"]}
 
-        # Handle infinitive, gerund, participle forms
+        # Handle base forms (infinitive, gerund, participle)
         if form.get("type") == "base_form":
             f = _extract_from_spec(entry, form, [form.get("tags")])
-            row_to_add["conjunction-1"] = f[0] if f is not None else ""
+            row_to_add["conjunction-1"] = f[0] if f else ""
+            _merge_identical_verb_forms(lang_cfg, row_to_add)
+            rows_out.append(row_to_add)
+            continue
 
         # Handle tag-based conjugations
-        else:
-            form_tags = form.get("tags") or []
+        form_tags = form.get("tags") or []
+        negation = form.get("negation")
 
-            for i, person_tags in lang_cfg.person_data["person_map"].items():
-                f_list = _extract_from_spec(entry, form, [form_tags + alt for alt in person_tags])
+        for i, person_alts in person_map.items():
+            tag_alts = [form_tags + alt for alt in person_alts]
+            f_list = _extract_from_spec(entry, form, tag_alts)
+            if not f_list:
+                continue
 
-                if f_list is None:
-                    continue
-
-                # Split off negation if present and indicated by config
-                negation = form.get("negation")
-                for f_i, f in enumerate(f_list):
-                    if negation and f.startswith(negation):
-                        f_list[f_i] = f[len(negation) :]
+            # Split off negation if present and indicated by config
+            if negation:
+                for idx, f in enumerate(f_list):
+                    if f.startswith(negation):
+                        f_list[idx] = f[len(negation) :]
                         row_to_add[f"negation-{i}"] = negation
 
-                # Split off reflexive pronoun if present
-                reflexive_pronouns = lang_cfg.person_data.get("reflexive-pronouns")[i - 1]
-                for rp in reflexive_pronouns:
-                    for f_i, f in enumerate(f_list):
-                        if f.startswith(rp):
-                            f_list[f_i] = f[len(rp) :]
-                            row_to_add[f"refl_pronoun-{i}"] = rp
+            # Split off reflexive pronoun if present
+            reflexive_alts = refl_pronouns_by_i[i - 1] if i - 1 < len(refl_pronouns_by_i) else []
+            for rp in reflexive_alts:
+                for idx, f in enumerate(f_list):
+                    if f.startswith(rp):
+                        f_list[idx] = f[len(rp) :]
+                        row_to_add[f"refl_pronoun-{i}"] = rp
 
                 # Join multiple equivalent forms with " / "
                 conjugation = f_list[0] if len(f_list) == 1 else " / ".join(f_list)
@@ -257,7 +259,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
     _add_missing_forms(lang_cfg, rows_out)  # forms that are not in the jsonl input
 
-    # add metadata rows
+    # Add metadata rows
     auxiliary = _get_auxiliary(lang_cfg)
     base_infinitive, reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.meta_data)
     stem, ending = _get_stem(base_infinitive, lang_cfg.meta_data)
@@ -269,14 +271,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
         "stem": stem,
         "ending": ending,
     }
-
-    for key, value in meta_items.items():
-        rows_out.append(
-            {
-                "key": key,
-                "mode": value,
-            }
-        )
+    rows_out.extend({"key": k, "mode": v} for k, v in meta_items.items())
 
     # Add category data rows
     category_list = extract_categories(entry, lang_cfg)

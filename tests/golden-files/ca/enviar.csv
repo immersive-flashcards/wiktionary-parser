@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;enviï;;tu ;;;enviïs;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;enviés;;tu ;;;enviessis;;ell //ella //vostè ;;;enviés;;nosaltres ;;;enviéssim;;vosaltres ;;;enviéssiu;;ells //elles //vostès ;;;enviessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;envia;;(vostè) ;;;enviï;;(nosaltres) ;;;enviem;;(vosaltres) ;;;envieu;;(vostès) ;;;enviïn
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;enviïs;;(vostè) ;no ;;enviï;;(nosaltres) ;no ;;enviem;;(vosaltres) ;no ;;envieu;;(vostès) ;no ;;enviïn
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;enviar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;aboleixi;;tu ;;;aboleixis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;abolís;;tu ;;;abolissis;;ell //ella //vostè ;;;abolís;;nosaltres ;;;abolíssim;;vosaltres ;;;abolíssiu;;ells //elles //vostès ;;;abolissin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;aboleix;;(vostè) ;;;aboleixi;;(nosaltres) ;;;abolim;;(vosaltres) ;;;aboliu;;(vostès) ;;;aboleixin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;aboleixis;;(vostè) ;no ;;aboleixi;;(nosaltres) ;no ;;abolim;;(vosaltres) ;no ;;aboliu;;(vostès) ;no ;;aboleixin
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;abolir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

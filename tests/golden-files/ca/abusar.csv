@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;abusi;;tu ;;;abusis;;ell //ella //vostè ;;;a
 Subjuntiu Imperfet;subjuntiu;;jo ;;;abusés;;tu ;;;abusessis;;ell //ella //vostè ;;;abusés;;nosaltres ;;;abuséssim;;vosaltres ;;;abuséssiu;;ells //elles //vostès ;;;abusessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;abusa;;(vostè) ;;;abusi;;(nosaltres) ;;;abusem;;(vosaltres) ;;;abuseu;;(vostès) ;;;abusin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;abusis;;(vostè) ;no ;;abusi;;(nosaltres) ;no ;;abusem;;(vosaltres) ;no ;;abuseu;;(vostès) ;no ;;abusin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;abusar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;compri;;tu ;;;compris;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;comprés;;tu ;;;compressis;;ell //ella //vostè ;;;comprés;;nosaltres ;;;compréssim;;vosaltres ;;;compréssiu;;ells //elles //vostès ;;;compressin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;compra;;(vostè) ;;;compri;;(nosaltres) ;;;comprem;;(vosaltres) ;;;compreu;;(vostès) ;;;comprin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;compris;;(vostè) ;no ;;compri;;(nosaltres) ;no ;;comprem;;(vosaltres) ;no ;;compreu;;(vostès) ;no ;;comprin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;comprar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

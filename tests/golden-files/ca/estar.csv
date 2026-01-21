@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;estigui;;tu ;;;estiguis;;ell //ella //vostè 
 Subjuntiu Imperfet;subjuntiu;;jo ;;;estigués;;tu ;;;estiguessis;;ell //ella //vostè ;;;estigués;;nosaltres ;;;estiguéssim;;vosaltres ;;;estiguéssiu;;ells //elles //vostès ;;;estiguessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;estigues;;(vostè) ;;;estigui;;(nosaltres) ;;;estiguem;;(vosaltres) ;;;estigueu;;(vostès) ;;;estiguin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;estiguis;;(vostè) ;no ;;estigui;;(nosaltres) ;no ;;estiguem;;(vosaltres) ;no ;;estigueu;;(vostès) ;no ;;estiguin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;estar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

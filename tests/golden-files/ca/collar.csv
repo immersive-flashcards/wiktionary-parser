@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;colli;;tu ;;;collis;;ell //ella //vostè ;;;c
 Subjuntiu Imperfet;subjuntiu;;jo ;;;collés;;tu ;;;collessis;;ell //ella //vostè ;;;collés;;nosaltres ;;;colléssim;;vosaltres ;;;colléssiu;;ells //elles //vostès ;;;collessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;colla;;(vostè) ;;;colli;;(nosaltres) ;;;collem;;(vosaltres) ;;;colleu;;(vostès) ;;;collin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;collis;;(vostè) ;no ;;colli;;(nosaltres) ;no ;;collem;;(vosaltres) ;no ;;colleu;;(vostès) ;no ;;collin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;collar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

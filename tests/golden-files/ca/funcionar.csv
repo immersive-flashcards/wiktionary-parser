@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;funcioni;;tu ;;;funcionis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;funcionés;;tu ;;;funcionessis;;ell //ella //vostè ;;;funcionés;;nosaltres ;;;funcionéssim;;vosaltres ;;;funcionéssiu;;ells //elles //vostès ;;;funcionessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;funciona;;(vostè) ;;;funcioni;;(nosaltres) ;;;funcionem;;(vosaltres) ;;;funcioneu;;(vostès) ;;;funcionin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;funcionis;;(vostè) ;no ;;funcioni;;(nosaltres) ;no ;;funcionem;;(vosaltres) ;no ;;funcioneu;;(vostès) ;no ;;funcionin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;funcionar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

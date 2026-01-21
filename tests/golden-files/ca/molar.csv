@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;moli;;tu ;;;molis;;ell //ella //vostè ;;;mol
 Subjuntiu Imperfet;subjuntiu;;jo ;;;molés;;tu ;;;molessis;;ell //ella //vostè ;;;molés;;nosaltres ;;;moléssim;;vosaltres ;;;moléssiu;;ells //elles //vostès ;;;molessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;mola;;(vostè) ;;;moli;;(nosaltres) ;;;molem;;(vosaltres) ;;;moleu;;(vostès) ;;;molin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;molis;;(vostè) ;no ;;moli;;(nosaltres) ;no ;;molem;;(vosaltres) ;no ;;moleu;;(vostès) ;no ;;molin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;molar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

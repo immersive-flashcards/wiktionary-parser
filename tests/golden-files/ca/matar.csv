@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;mati;;tu ;;;matis;;ell //ella //vostè ;;;mat
 Subjuntiu Imperfet;subjuntiu;;jo ;;;matés;;tu ;;;matessis;;ell //ella //vostè ;;;matés;;nosaltres ;;;matéssim;;vosaltres ;;;matéssiu;;ells //elles //vostès ;;;matessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;mata;;(vostè) ;;;mati;;(nosaltres) ;;;matem;;(vosaltres) ;;;mateu;;(vostès) ;;;matin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;matis;;(vostè) ;no ;;mati;;(nosaltres) ;no ;;matem;;(vosaltres) ;no ;;mateu;;(vostès) ;no ;;matin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;matar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;reservi;;tu ;;;reservis;;ell //ella //vostè 
 Subjuntiu Imperfet;subjuntiu;;jo ;;;reservés;;tu ;;;reservessis;;ell //ella //vostè ;;;reservés;;nosaltres ;;;reservéssim;;vosaltres ;;;reservéssiu;;ells //elles //vostès ;;;reservessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;reserva;;(vostè) ;;;reservi;;(nosaltres) ;;;reservem;;(vosaltres) ;;;reserveu;;(vostès) ;;;reservin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;reservis;;(vostè) ;no ;;reservi;;(nosaltres) ;no ;;reservem;;(vosaltres) ;no ;;reserveu;;(vostès) ;no ;;reservin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;reservar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

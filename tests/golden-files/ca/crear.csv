@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;creï;;tu ;;;creïs;;ell //ella //vostè ;;;c
 Subjuntiu Imperfet;subjuntiu;;jo ;;;creés;;tu ;;;creessis;;ell //ella //vostè ;;;creés;;nosaltres ;;;creéssim;;vosaltres ;;;creéssiu;;ells //elles //vostès ;;;creessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;crea;;(vostè) ;;;creï;;(nosaltres) ;;;creem;;(vosaltres) ;;;creeu;;(vostès) ;;;creïn
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;creïs;;(vostè) ;no ;;creï;;(nosaltres) ;no ;;creem;;(vosaltres) ;no ;;creeu;;(vostès) ;no ;;creïn
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;crear;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

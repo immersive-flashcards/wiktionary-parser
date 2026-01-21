@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;abandoni;;tu ;;;abandonis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;abandonés;;tu ;;;abandonessis;;ell //ella //vostè ;;;abandonés;;nosaltres ;;;abandonéssim;;vosaltres ;;;abandonéssiu;;ells //elles //vostès ;;;abandonessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;abandona;;(vostè) ;;;abandoni;;(nosaltres) ;;;abandonem;;(vosaltres) ;;;abandoneu;;(vostès) ;;;abandonin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;abandonis;;(vostè) ;no ;;abandoni;;(nosaltres) ;no ;;abandonem;;(vosaltres) ;no ;;abandoneu;;(vostès) ;no ;;abandonin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;abandonar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

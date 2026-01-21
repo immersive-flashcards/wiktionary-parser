@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;llegui;;tu ;;;lleguis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;llegués;;tu ;;;lleguessis;;ell //ella //vostè ;;;llegués;;nosaltres ;;;lleguéssim;;vosaltres ;;;lleguéssiu;;ells //elles //vostès ;;;lleguessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;llega;;(vostè) ;;;llegui;;(nosaltres) ;;;lleguem;;(vosaltres) ;;;llegueu;;(vostès) ;;;lleguin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;lleguis;;(vostè) ;no ;;llegui;;(nosaltres) ;no ;;lleguem;;(vosaltres) ;no ;;llegueu;;(vostès) ;no ;;lleguin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;llegar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

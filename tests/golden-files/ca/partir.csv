@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;parteixi;;tu ;;;parteixis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;partís;;tu ;;;partissis;;ell //ella //vostè ;;;partís;;nosaltres ;;;partíssim;;vosaltres ;;;partíssiu;;ells //elles //vostès ;;;partissin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;parteix;;(vostè) ;;;parteixi;;(nosaltres) ;;;partim;;(vosaltres) ;;;partiu;;(vostès) ;;;parteixin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;parteixis;;(vostè) ;no ;;parteixi;;(nosaltres) ;no ;;partim;;(vosaltres) ;no ;;partiu;;(vostès) ;no ;;parteixin
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;partir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

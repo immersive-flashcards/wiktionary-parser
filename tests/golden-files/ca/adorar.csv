@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;adori;;tu ;;;adoris;;ell //ella //vostè ;;;a
 Subjuntiu Imperfet;subjuntiu;;jo ;;;adorés;;tu ;;;adoressis;;ell //ella //vostè ;;;adorés;;nosaltres ;;;adoréssim;;vosaltres ;;;adoréssiu;;ells //elles //vostès ;;;adoressin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;adora;;(vostè) ;;;adori;;(nosaltres) ;;;adorem;;(vosaltres) ;;;adoreu;;(vostès) ;;;adorin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;adoris;;(vostè) ;no ;;adori;;(nosaltres) ;no ;;adorem;;(vosaltres) ;no ;;adoreu;;(vostès) ;no ;;adorin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;adorar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

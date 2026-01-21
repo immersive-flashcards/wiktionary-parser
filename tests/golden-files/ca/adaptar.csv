@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;adapti;;tu ;;;adaptis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;adaptés;;tu ;;;adaptessis;;ell //ella //vostè ;;;adaptés;;nosaltres ;;;adaptéssim;;vosaltres ;;;adaptéssiu;;ells //elles //vostès ;;;adaptessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;adapta;;(vostè) ;;;adapti;;(nosaltres) ;;;adaptem;;(vosaltres) ;;;adapteu;;(vostès) ;;;adaptin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;adaptis;;(vostè) ;no ;;adapti;;(nosaltres) ;no ;;adaptem;;(vosaltres) ;no ;;adapteu;;(vostès) ;no ;;adaptin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;adaptar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

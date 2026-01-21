@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;agradi;;tu ;;;agradis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;agradés;;tu ;;;agradessis;;ell //ella //vostè ;;;agradés;;nosaltres ;;;agradéssim;;vosaltres ;;;agradéssiu;;ells //elles //vostès ;;;agradessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;agrada;;(vostè) ;;;agradi;;(nosaltres) ;;;agradem;;(vosaltres) ;;;agradeu;;(vostès) ;;;agradin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;agradis;;(vostè) ;no ;;agradi;;(nosaltres) ;no ;;agradem;;(vosaltres) ;no ;;agradeu;;(vostès) ;no ;;agradin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;agradar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;menteixi / menti;;tu ;;;menteixis / mentis;;e
 Subjuntiu Imperfet;subjuntiu;;jo ;;;mentís;;tu ;;;mentissis;;ell //ella //vostè ;;;mentís;;nosaltres ;;;mentíssim;;vosaltres ;;;mentíssiu;;ells //elles //vostès ;;;mentissin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;menteix / ment;;(vostè) ;;;menteixi / menti;;(nosaltres) ;;;mentim;;(vosaltres) ;;;mentiu;;(vostès) ;;;menteixin / mentin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;menteixis / mentis;;(vostè) ;no ;;menteixi / menti;;(nosaltres) ;no ;;mentim;;(vosaltres) ;no ;;mentiu;;(vostès) ;no ;;menteixin / mentin
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;mentir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

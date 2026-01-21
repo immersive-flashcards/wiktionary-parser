@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;ami;;tu ;;;amis;;ell //ella //vostè ;;;ami;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;amés;;tu ;;;amessis;;ell //ella //vostè ;;;amés;;nosaltres ;;;améssim;;vosaltres ;;;améssiu;;ells //elles //vostès ;;;amessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;ama;;(vostè) ;;;ami;;(nosaltres) ;;;amem;;(vosaltres) ;;;ameu;;(vostès) ;;;amin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;amis;;(vostè) ;no ;;ami;;(nosaltres) ;no ;;amem;;(vosaltres) ;no ;;ameu;;(vostès) ;no ;;amin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;amar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

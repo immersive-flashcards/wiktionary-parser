@@ -12,8 +12,8 @@ import polars as pl
 import yaml
 import zstandard as zstd
 
-from src.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
 from src.language_functions.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
+from src.language_functions.ca import add_catalan_category_tags
 from src.helpers.extract_from_spec import extract_from_spec
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -132,10 +132,12 @@ def _merge_identical_verb_forms(lang_cfg: LanguageConfig, row: dict[str, Any]) -
         merge_tu_vos_if_equal(row)
 
 
-def _add_missing_forms(lang_config: LanguageConfig, rows: list[dict[str, Any]]) -> None:
+def _add_missing_forms(lang_config: LanguageConfig, entry: dict[str, Any], rows: list[dict[str, Any]]) -> None:
     """Add missing verb forms that are not in the JSONL. Example: Spanish negative imperative."""
     if lang_config.lang_code == "es":  # Spanish
         create_spanish_negative_imperative(rows)
+    if lang_config.lang_code == "ca":  # Catalan
+        add_catalan_category_tags(entry, rows)
 
 
 # Helper to get category list from entry - can be nested
@@ -217,7 +219,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         rows_out.append(row_to_add)
 
-    _add_missing_forms(lang_cfg, rows_out)  # forms that are not in the jsonl input
+    _add_missing_forms(lang_cfg, entry, rows_out)  # forms that are not in the jsonl input
 
     # Add metadata rows
     auxiliary = _get_auxiliary(lang_cfg)

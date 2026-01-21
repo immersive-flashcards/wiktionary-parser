@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;senti;;tu ;;;sentis;;ell //ella //vostè ;;;s
 Subjuntiu Imperfet;subjuntiu;;jo ;;;sentís;;tu ;;;sentissis;;ell //ella //vostè ;;;sentís;;nosaltres ;;;sentíssim;;vosaltres ;;;sentíssiu;;ells //elles //vostès ;;;sentissin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;sent;;(vostè) ;;;senti;;(nosaltres) ;;;sentim;;(vosaltres) ;;;sentiu;;(vostès) ;;;sentin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;sentis;;(vostè) ;no ;;senti;;(nosaltres) ;no ;;sentim;;(vosaltres) ;no ;;sentiu;;(vostès) ;no ;;sentin
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;sentir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,8 @@ Subjuntiu Present;subjuntiu;;jo ;;;veli;;tu ;;;velis;;ell //ella //vostè ;;;vel
 Subjuntiu Imperfet;subjuntiu;;jo ;;;velés;;tu ;;;velessis;;ell //ella //vostè ;;;velés;;nosaltres ;;;veléssim;;vosaltres ;;;veléssiu;;ells //elles //vostès ;;;velessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;vela;;(vostè) ;;;veli;;(nosaltres) ;;;velem;;(vosaltres) ;;;veleu;;(vostès) ;;;velin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;velis;;(vostè) ;no ;;veli;;(nosaltres) ;no ;;velem;;(vosaltres) ;no ;;veleu;;(vostès) ;no ;;velin
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;velar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

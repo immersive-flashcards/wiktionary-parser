@@ -1,0 +1,18 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;abandonar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;abandonant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;abandonat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;abandono;;tu ;;;abandones;;ell //ella //vostè ;;;abandona;;nosaltres ;;;abandonem;;vosaltres ;;;abandoneu;;ells //elles //vostès ;;;abandonen
+Indicatiu Imperfet;indicativo;;jo ;;;abandonava;;tu ;;;abandonaves;;ell //ella //vostè ;;;abandonava;;nosaltres ;;;abandonàvem;;vosaltres ;;;abandonàveu;;ells //elles //vostès ;;;abandonaven
+Indicatiu Futur;indicativo;;jo ;;;abandonaré;;tu ;;;abandonaràs;;ell //ella //vostè ;;;abandonarà;;nosaltres ;;;abandonarem;;vosaltres ;;;abandonareu;;ells //elles //vostès ;;;abandonaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;abandoní;;tu ;;;abandonares;;ell //ella //vostè ;;;abandonà;;nosaltres ;;;abandonàrem;;vosaltres ;;;abandonàreu;;ells //elles //vostès ;;;abandonaren
+Condicional;condicional;;jo ;;;abandonaria;;tu ;;;abandonaries;;ell //ella //vostè ;;;abandonaria;;nosaltres ;;;abandonaríem;;vosaltres ;;;abandonaríeu;;ells //elles //vostès ;;;abandonarien
+Subjuntiu Present;subjuntiu;;jo ;;;abandoni;;tu ;;;abandonis;;ell //ella //vostè ;;;abandoni;;nosaltres ;;;abandonem;;vosaltres ;;;abandoneu;;ells //elles //vostès ;;;abandonin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;abandonés;;tu ;;;abandonessis;;ell //ella //vostè ;;;abandonés;;nosaltres ;;;abandonéssim;;vosaltres ;;;abandonéssiu;;ells //elles //vostès ;;;abandonessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;abandona;;(vostè) ;;;abandoni;;(nosaltres) ;;;abandonem;;(vosaltres) ;;;abandoneu;;(vostès) ;;;abandonin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;;;no abandonis;;(vostè) ;;;no abandoni;;(nosaltres) ;;;no abandonem;;(vosaltres) ;;;no abandoneu;;(vostès) ;;;no abandonin
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;abandonar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;abandon;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

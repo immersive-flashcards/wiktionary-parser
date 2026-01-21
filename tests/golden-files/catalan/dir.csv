@@ -1,0 +1,18 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;dir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;dient;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;dit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;dic;;tu ;;;dius;;ell //ella //vostè ;;;diu;;nosaltres ;;;diem;;vosaltres ;;;dieu;;ells //elles //vostès ;;;diuen
+Indicatiu Imperfet;indicativo;;jo ;;;deia;;tu ;;;deies;;ell //ella //vostè ;;;deia;;nosaltres ;;;dèiem;;vosaltres ;;;dèieu;;ells //elles //vostès ;;;deien
+Indicatiu Futur;indicativo;;jo ;;;diré;;tu ;;;diràs;;ell //ella //vostè ;;;dirà;;nosaltres ;;;direm;;vosaltres ;;;direu;;ells //elles //vostès ;;;diran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;diguí;;tu ;;;digueres;;ell //ella //vostè ;;;digué;;nosaltres ;;;diguérem;;vosaltres ;;;diguéreu;;ells //elles //vostès ;;;digueren
+Condicional;condicional;;jo ;;;diria;;tu ;;;diries;;ell //ella //vostè ;;;diria;;nosaltres ;;;diríem;;vosaltres ;;;diríeu;;ells //elles //vostès ;;;dirien
+Subjuntiu Present;subjuntiu;;jo ;;;digui;;tu ;;;diguis;;ell //ella //vostè ;;;digui;;nosaltres ;;;diguem;;vosaltres ;;;digueu;;ells //elles //vostès ;;;diguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;digués;;tu ;;;diguessis;;ell //ella //vostè ;;;digués;;nosaltres ;;;diguéssim;;vosaltres ;;;diguéssiu;;ells //elles //vostès ;;;diguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;digues;;(vostè) ;;;digui;;(nosaltres) ;;;diguem;;(vosaltres) ;;;digueu;;(vostès) ;;;diguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;;;no diguis;;(vostè) ;;;no digui;;(nosaltres) ;;;no diguem;;(vosaltres) ;;;no digueu;;(vostès) ;;;no diguin
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;dir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;d;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

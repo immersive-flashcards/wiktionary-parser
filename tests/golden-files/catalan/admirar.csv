@@ -1,0 +1,18 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;admirar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;admirant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;admirat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;admiro;;tu ;;;admires;;ell //ella //vostè ;;;admira;;nosaltres ;;;admirem;;vosaltres ;;;admireu;;ells //elles //vostès ;;;admiren
+Indicatiu Imperfet;indicativo;;jo ;;;admirava;;tu ;;;admiraves;;ell //ella //vostè ;;;admirava;;nosaltres ;;;admiràvem;;vosaltres ;;;admiràveu;;ells //elles //vostès ;;;admiraven
+Indicatiu Futur;indicativo;;jo ;;;admiraré;;tu ;;;admiraràs;;ell //ella //vostè ;;;admirarà;;nosaltres ;;;admirarem;;vosaltres ;;;admirareu;;ells //elles //vostès ;;;admiraran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;admirí;;tu ;;;admirares;;ell //ella //vostè ;;;admirà;;nosaltres ;;;admiràrem;;vosaltres ;;;admiràreu;;ells //elles //vostès ;;;admiraren
+Condicional;condicional;;jo ;;;admiraria;;tu ;;;admiraries;;ell //ella //vostè ;;;admiraria;;nosaltres ;;;admiraríem;;vosaltres ;;;admiraríeu;;ells //elles //vostès ;;;admirarien
+Subjuntiu Present;subjuntiu;;jo ;;;admiri;;tu ;;;admiris;;ell //ella //vostè ;;;admiri;;nosaltres ;;;admirem;;vosaltres ;;;admireu;;ells //elles //vostès ;;;admirin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;admirés;;tu ;;;admiressis;;ell //ella //vostè ;;;admirés;;nosaltres ;;;admiréssim;;vosaltres ;;;admiréssiu;;ells //elles //vostès ;;;admiressin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;admira;;(vostè) ;;;admiri;;(nosaltres) ;;;admirem;;(vosaltres) ;;;admireu;;(vostès) ;;;admirin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;;;no admiris;;(vostè) ;;;no admiri;;(nosaltres) ;;;no admirem;;(vosaltres) ;;;no admireu;;(vostès) ;;;no admirin
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;admirar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;admir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

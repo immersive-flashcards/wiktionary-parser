@@ -5,3 +5,4 @@ output_dir: "tests/temp_verb_csvs"
 
 languages:
   - "es"
+  - "ca"

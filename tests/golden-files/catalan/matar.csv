@@ -1,0 +1,18 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;matar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;matant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;matat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;mato;;tu ;;;mates;;ell //ella //vostè ;;;mata;;nosaltres ;;;matem;;vosaltres ;;;mateu;;ells //elles //vostès ;;;maten
+Indicatiu Imperfet;indicativo;;jo ;;;matava;;tu ;;;mataves;;ell //ella //vostè ;;;matava;;nosaltres ;;;matàvem;;vosaltres ;;;matàveu;;ells //elles //vostès ;;;mataven
+Indicatiu Futur;indicativo;;jo ;;;mataré;;tu ;;;mataràs;;ell //ella //vostè ;;;matarà;;nosaltres ;;;matarem;;vosaltres ;;;matareu;;ells //elles //vostès ;;;mataran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;matí;;tu ;;;matares;;ell //ella //vostè ;;;matà;;nosaltres ;;;matàrem;;vosaltres ;;;matàreu;;ells //elles //vostès ;;;mataren
+Condicional;condicional;;jo ;;;mataria;;tu ;;;mataries;;ell //ella //vostè ;;;mataria;;nosaltres ;;;mataríem;;vosaltres ;;;mataríeu;;ells //elles //vostès ;;;matarien
+Subjuntiu Present;subjuntiu;;jo ;;;mati;;tu ;;;matis;;ell //ella //vostè ;;;mati;;nosaltres ;;;matem;;vosaltres ;;;mateu;;ells //elles //vostès ;;;matin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;matés;;tu ;;;matessis;;ell //ella //vostè ;;;matés;;nosaltres ;;;matéssim;;vosaltres ;;;matéssiu;;ells //elles //vostès ;;;matessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;mata;;(vostè) ;;;mati;;(nosaltres) ;;;matem;;(vosaltres) ;;;mateu;;(vostès) ;;;matin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;;;no matis;;(vostè) ;;;no mati;;(nosaltres) ;;;no matem;;(vosaltres) ;;;no mateu;;(vostès) ;;;no matin
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;matar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;mat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

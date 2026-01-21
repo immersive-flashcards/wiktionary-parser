@@ -254,11 +254,12 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                     continue
 
                 # Split off reflexive pronoun if present
-                reflexive_pronoun = lang_cfg.person_data.get("reflexive-pronouns")[i - 1]
-                for f_i, f in enumerate(f_list):
-                    if f.startswith(reflexive_pronoun):
-                        f_list[f_i] = f[len(reflexive_pronoun) :]
-                        row_to_add[f"refl_pronoun-{i}"] = reflexive_pronoun
+                reflexive_pronouns = lang_cfg.person_data.get("reflexive-pronouns")[i - 1]
+                for rp in reflexive_pronouns:
+                    for f_i, f in enumerate(f_list):
+                        if f.startswith(rp):
+                            f_list[f_i] = f[len(rp) :]
+                            row_to_add[f"refl_pronoun-{i}"] = rp
 
                 # Join multiple equivalent forms with " / "
                 f_list = f_list[0] if len(f_list) == 1 else " / ".join(f_list)

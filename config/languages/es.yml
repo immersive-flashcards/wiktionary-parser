@@ -50,7 +50,14 @@ person-data:
     6: "(ustedes) "
     7: "(vos) "
 
-  reflexive-pronouns: ["me ", "te ", "se ", "nos ", "os ", "se ", "te "]
+  reflexive-pronouns:
+    - ["me "]
+    - ["te ",]
+    - ["se "]
+    - ["nos "]
+    - ["os "]
+    - ["se "]
+    - ["te "]  # for vos form
 
 category_source:
   path: ["categories"]

@@ -49,7 +49,13 @@ person-data:
     5: "(vosaltres) "
     6: "(vostès) "
 
-  reflexive-pronouns: ["em ", "et ", "es ", "ens ", "us ", "es "] # TODO: can be contracted variants too
+  reflexive-pronouns:
+    - [ "me ", "m'" ]
+    - [ "et ", "t'" ]
+    - [ "es ", "s'" ]
+    - [ "ens " ]
+    - [ "us " ]
+    - [ "se ", "s'" ]
 
 # TODO: update to Catalan categories
 category_source:

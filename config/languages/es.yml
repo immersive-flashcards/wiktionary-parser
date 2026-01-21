@@ -16,14 +16,21 @@ meta-data:
 
 person-data:
   person_map:
-    # first match wins.
-    1: ["first-person", "singular"]
-    2: ["second-person", "singular"]
-    3: ["third-person", "singular"]
-    4: ["first-person", "plural"]
-    5: ["second-person", "plural"]
-    6: ["third-person", "plural"]
-    7: ["second-person", "singular", "vos-form"]
+    1:
+      - ["first-person", "singular"]
+    2:
+      - ["second-person", "singular"]
+    3:
+      - ["third-person", "singular"]
+    4:
+      - ["first-person", "plural"]
+    5:
+      - ["second-person", "plural"]
+    6:
+      - ["third-person", "plural"]
+    7:
+      - ["second-person", "singular", "vos-form"]
+
 
   pronouns:
     1: "yo "
@@ -47,7 +54,7 @@ person-data:
 
 category_source:
   path: ["categories"]
-  item: "str"          # items are already strings
+  item: "str"   # items are already strings
 
 category_data:
   transitivity:

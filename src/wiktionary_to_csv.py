@@ -87,15 +87,15 @@ def _get_by_path(obj: Any, path: list[str]) -> Any:
     return cur
 
 
-def _extract_from_spec(entry: dict[str, Any], spec: dict[str, Any], tags: list[str] | None) -> list[str] | None:
+def _extract_from_spec(entry: dict[str, Any], spec: dict[str, Any], tag_alts: list[list[str]] | None) -> list[str] | None:
     target = _get_by_path(entry, spec["path"])
 
     # Simple case: direct value
-    if tags is None:
+    if tag_alts == [None]:
         return [target] if isinstance(target, str) else None
 
     # Tagged case: list lookup
-    tags_needed = set(tags)
+    needed_sets = [set(t) for t in tag_alts]
     if not isinstance(target, list):
         return None
 
@@ -104,7 +104,7 @@ def _extract_from_spec(entry: dict[str, Any], spec: dict[str, Any], tags: list[s
         if not isinstance(item, dict):
             continue
         item_tags = set(item.get("tags", []) or [])
-        if tags_needed == item_tags:
+        if any(ns == item_tags for ns in needed_sets):
             form = item.get("form")
             if isinstance(form, str) and form.strip():
                 matches.append(form.strip())
@@ -112,8 +112,7 @@ def _extract_from_spec(entry: dict[str, Any], spec: dict[str, Any], tags: list[s
     if not matches:
         return None
 
-    on_collision = spec.get("on_collision")
-    if on_collision == "shortest_length":
+    if spec.get("on_collision") == "shortest_length":
         return [min(matches, key=len)]
 
     return matches
@@ -241,13 +240,15 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
         # Handle infinitive, gerund, participle forms
         if form.get("type") == "base_form":
 
-            f = _extract_from_spec(entry, form, form.get("tags"))
+            f = _extract_from_spec(entry, form, [form.get("tags")])
             row_to_add["conjunction-1"] = f[0] if f is not None else ""
 
         # Handle tag-based conjugations
         else:
-            for i, person_tags in lang_cfg.person_data.get("person_map").items():
-                f_list = _extract_from_spec(entry, form, form.get("tags") + person_tags)
+            form_tags = form.get("tags") or []
+
+            for i, person_tags in lang_cfg.person_data["person_map"].items():
+                f_list = _extract_from_spec(entry, form, [form_tags + alt for alt in person_tags])
 
                 if f_list is None:
                     continue

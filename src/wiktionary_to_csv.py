@@ -23,7 +23,6 @@ class LanguageConfig:
 
     lang_code: str
     infinitives_jsonl: Path
-    output_dir: Path
     meta_data: dict[str, Any]
     person_data: dict[str, Any]
     category_source: dict[str, Any]
@@ -49,7 +48,6 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
     return LanguageConfig(
         lang_code=data["lang_code"],
         infinitives_jsonl=(BASE_DIR / data["infinitives_jsonl"]).resolve(),
-        output_dir=Path(data["output_dir"]),
         meta_data=data.get("meta-data", {}),
         person_data=data.get("person-data", {}),
         category_source=data.get("category_source", {}),
@@ -303,7 +301,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
     # fmt: on
 
     # Write out CSV
-    out_dir = (run_cfg.output_dir / lang_cfg.output_dir).resolve()
+    out_dir = (run_cfg.output_dir / lang_cfg.lang_code).resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
 
     out_path = out_dir / f"{lemma}.csv"

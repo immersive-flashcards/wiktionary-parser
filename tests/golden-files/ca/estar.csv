@@ -1,0 +1,18 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;estar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;estant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;estat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;estic;;tu ;;;estàs;;ell //ella //vostè ;;;està;;nosaltres ;;;estem;;vosaltres ;;;esteu;;ells //elles //vostès ;;;estan
+Indicatiu Imperfet;indicativo;;jo ;;;estava;;tu ;;;estaves;;ell //ella //vostè ;;;estava;;nosaltres ;;;estàvem;;vosaltres ;;;estàveu;;ells //elles //vostès ;;;estaven
+Indicatiu Futur;indicativo;;jo ;;;estaré;;tu ;;;estaràs;;ell //ella //vostè ;;;estarà;;nosaltres ;;;estarem;;vosaltres ;;;estareu;;ells //elles //vostès ;;;estaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;estiguí;;tu ;;;estigueres;;ell //ella //vostè ;;;estigué;;nosaltres ;;;estiguérem;;vosaltres ;;;estiguéreu;;ells //elles //vostès ;;;estigueren
+Condicional;condicional;;jo ;;;estaria;;tu ;;;estaries;;ell //ella //vostè ;;;estaria;;nosaltres ;;;estaríem;;vosaltres ;;;estaríeu;;ells //elles //vostès ;;;estarien
+Subjuntiu Present;subjuntiu;;jo ;;;estigui;;tu ;;;estiguis;;ell //ella //vostè ;;;estigui;;nosaltres ;;;estiguem;;vosaltres ;;;estigueu;;ells //elles //vostès ;;;estiguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;estigués;;tu ;;;estiguessis;;ell //ella //vostè ;;;estigués;;nosaltres ;;;estiguéssim;;vosaltres ;;;estiguéssiu;;ells //elles //vostès ;;;estiguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;estigues;;(vostè) ;;;estigui;;(nosaltres) ;;;estiguem;;(vosaltres) ;;;estigueu;;(vostès) ;;;estiguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;estiguis;;(vostè) ;no ;;estigui;;(nosaltres) ;no ;;estiguem;;(vosaltres) ;no ;;estigueu;;(vostès) ;no ;;estiguin
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;estar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;est;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,18 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;regulant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;regulat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;regulo;;tu ;;;regules;;ell //ella //vostè ;;;regula;;nosaltres ;;;regulem;;vosaltres ;;;reguleu;;ells //elles //vostès ;;;regulen
+Indicatiu Imperfet;indicativo;;jo ;;;regulava;;tu ;;;regulaves;;ell //ella //vostè ;;;regulava;;nosaltres ;;;regulàvem;;vosaltres ;;;regulàveu;;ells //elles //vostès ;;;regulaven
+Indicatiu Futur;indicativo;;jo ;;;regularé;;tu ;;;regularàs;;ell //ella //vostè ;;;regularà;;nosaltres ;;;regularem;;vosaltres ;;;regulareu;;ells //elles //vostès ;;;regularan
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;regulí;;tu ;;;regulares;;ell //ella //vostè ;;;regulà;;nosaltres ;;;regulàrem;;vosaltres ;;;regulàreu;;ells //elles //vostès ;;;regularen
+Condicional;condicional;;jo ;;;regularia;;tu ;;;regularies;;ell //ella //vostè ;;;regularia;;nosaltres ;;;regularíem;;vosaltres ;;;regularíeu;;ells //elles //vostès ;;;regularien
+Subjuntiu Present;subjuntiu;;jo ;;;reguli;;tu ;;;regulis;;ell //ella //vostè ;;;reguli;;nosaltres ;;;regulem;;vosaltres ;;;reguleu;;ells //elles //vostès ;;;regulin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;regulés;;tu ;;;regulessis;;ell //ella //vostè ;;;regulés;;nosaltres ;;;reguléssim;;vosaltres ;;;reguléssiu;;ells //elles //vostès ;;;regulessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;regula;;(vostè) ;;;reguli;;(nosaltres) ;;;regulem;;(vosaltres) ;;;reguleu;;(vostès) ;;;regulin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;regulis;;(vostè) ;no ;;reguli;;(nosaltres) ;no ;;regulem;;(vosaltres) ;no ;;reguleu;;(vostès) ;no ;;regulin
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;regul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

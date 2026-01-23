@@ -13,7 +13,7 @@ import yaml
 import zstandard as zstd
 
 from src.language_functions.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
-from src.language_functions.ca import add_catalan_category_tags
+from src.language_functions.ca import add_catalan_category_tags, create_catalan_compound_tenses
 from src.helpers.extract_from_spec import extract_from_spec
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -132,11 +132,12 @@ def _merge_identical_verb_forms(lang_cfg: LanguageConfig, row: dict[str, Any]) -
         merge_tu_vos_if_equal(row)
 
 
-def _add_missing_forms(lang_config: LanguageConfig, entry: dict[str, Any], rows: list[dict[str, Any]]) -> None:
+def _add_missing_forms(lang_config: LanguageConfig, entry: dict[str, Any], rows: list[dict[str, Any]], reflexive: bool) -> None:
     """Add missing verb forms that are not in the JSONL. Example: Spanish negative imperative."""
     if lang_config.lang_code == "es":  # Spanish
         create_spanish_negative_imperative(rows)
     if lang_config.lang_code == "ca":  # Catalan
+        create_catalan_compound_tenses(rows, reflexive)
         add_catalan_category_tags(entry, rows)
 
 
@@ -219,13 +220,14 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         rows_out.append(row_to_add)
 
-    _add_missing_forms(lang_cfg, entry, rows_out)  # forms that are not in the jsonl input
-
-    # Add metadata rows
+    # Extract metadata
     auxiliary = _get_auxiliary(lang_cfg)
     base_infinitive, reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.meta_data)
     stem, ending = _get_stem(base_infinitive, lang_cfg.meta_data)
 
+    _add_missing_forms(lang_cfg, entry, rows_out, reflexive)  # forms that are not in the jsonl input
+
+    # Add metadata rows
     meta_items = {
         "auxiliary": auxiliary,
         "reflexive": reflexive,

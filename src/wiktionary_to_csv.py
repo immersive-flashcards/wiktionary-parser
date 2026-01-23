@@ -53,7 +53,7 @@ def _load_language_config(lang_code: str) -> LanguageConfig:
         meta_data=data.get("meta-data", {}),
         person_data=data.get("person-data", {}),
         category_source=data.get("category_source", {}),
-        category_data=data["category_data"],
+        category_data=data.get("category_data", {}),
         complex_category_data=data.get("complex_category_data", {}),
         forms=data.get("forms", {}),
     )
@@ -242,21 +242,23 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
     # fmt: off
     # 1. Checks for exact match with categories listed in entry
-    for cat, options in lang_cfg.category_data.items():
-        rows_out.extend(
-            {"key": cat, "mode": v}
-            for k, v in options.items()
-            if k in category_list
-        )
+    if lang_cfg.category_data:
+        for cat, options in lang_cfg.category_data.items():
+            rows_out.extend(
+                {"key": cat, "mode": v}
+                for k, v in options.items()
+                if k in category_list
+            )
 
     # 2. Add complex category matches
-    for cat, instruction in lang_cfg.complex_category_data.items():
-        if prefix := instruction.get("startswith"):
-            rows_out.extend(
-                {"key": cat, "mode": c[len(prefix):].strip()}
-                for c in category_list
-                if c.startswith(prefix)
-            )
+    if lang_cfg.complex_category_data:
+        for cat, instruction in lang_cfg.complex_category_data.items():
+            if prefix := instruction.get("startswith"):
+                rows_out.extend(
+                    {"key": cat, "mode": c[len(prefix):].strip()}
+                    for c in category_list
+                    if c.startswith(prefix)
+                )
     # fmt: on
 
     # Write out CSV

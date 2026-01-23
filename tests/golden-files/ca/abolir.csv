@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;aboleixi;;tu ;;;aboleixis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;abolís;;tu ;;;abolissis;;ell //ella //vostè ;;;abolís;;nosaltres ;;;abolíssim;;vosaltres ;;;abolíssiu;;ells //elles //vostès ;;;abolissin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;aboleix;;(vostè) ;;;aboleixi;;(nosaltres) ;;;abolim;;(vosaltres) ;;;aboliu;;(vostès) ;;;aboleixin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;aboleixis;;(vostè) ;no ;;aboleixi;;(nosaltres) ;no ;;abolim;;(vosaltres) ;no ;;aboliu;;(vostès) ;no ;;aboleixin
+Indicatiu Perfet;indicatiu;;jo ;;;he abolit;;tu ;;;has abolit;;ell //ella //vostè ;;;ha abolit;;nosaltres ;;;hem abolit;;vosaltres ;;;heu abolit;;ells //elles //vostès ;;;han abolit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig abolit;;tu ;;;vas abolit;;ell //ella //vostè ;;;va abolit;;nosaltres ;;;vam abolit;;vosaltres ;;;vau abolit;;ells //elles //vostès ;;;van abolit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia abolit;;tu ;;;havies abolit;;ell //ella //vostè ;;;havia abolit;;nosaltres ;;;havíem abolit;;vosaltres ;;;havíeu abolit;;ells //elles //vostès ;;;havien abolit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí abolit;;tu ;;;hagueres abolit;;ell //ella //vostè ;;;hagué abolit;;nosaltres ;;;haguérem abolit;;vosaltres ;;;haguéreu abolit;;ells //elles //vostès ;;;hagueren abolit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver abolit;;tu ;;;vas haver abolit;;ell //ella //vostè ;;;va haver abolit;;nosaltres ;;;vam haver abolit;;vosaltres ;;;vau haver abolit;;ells //elles //vostès ;;;van haver abolit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré abolit;;tu ;;;hauràs abolit;;ell //ella //vostè ;;;haurà abolit;;nosaltres ;;;haurem abolit;;vosaltres ;;;haureu abolit;;ells //elles //vostès ;;;hauran abolit
+Condicional Perfet;condicional;;jo ;;;hauria abolit;;tu ;;;hauries abolit;;ell //ella //vostè ;;;hauria abolit;;nosaltres ;;;hauríem abolit;;vosaltres ;;;hauríeu abolit;;ells //elles //vostès ;;;haurien abolit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi abolit;;tu ;;;vagis abolit;;ell //ella //vostè ;;;vagi abolit;;nosaltres ;;;vàgim abolit;;vosaltres ;;;vàgiu abolit;;ells //elles //vostès ;;;vagin abolit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi abolit;;tu ;;;hagis abolit;;ell //ella //vostè ;;;hagi abolit;;nosaltres ;;;hàgim abolit;;vosaltres ;;;hàgiu abolit;;ells //elles //vostès ;;;hagin abolit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes abolit;;tu ;;;haguessis abolit;;ell //ella //vostè ;;;hagués abolit;;nosaltres ;;;haguéssim abolit;;vosaltres ;;;haguéssiu abolit;;ells //elles //vostès ;;;haguessin abolit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver abolit;;tu ;;;vagis haver abolit;;ell //ella //vostè ;;;vagi haver abolit;;nosaltres ;;;vàgim haver abolit;;vosaltres ;;;vàgiu haver abolit;;ells //elles //vostès ;;;vagin haver abolit
 verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

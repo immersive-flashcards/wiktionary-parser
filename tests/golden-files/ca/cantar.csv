@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;canti;;tu ;;;cantis;;ell //ella //vostè ;;;c
 Subjuntiu Imperfet;subjuntiu;;jo ;;;cantés;;tu ;;;cantessis;;ell //ella //vostè ;;;cantés;;nosaltres ;;;cantéssim;;vosaltres ;;;cantéssiu;;ells //elles //vostès ;;;cantessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;canta;;(vostè) ;;;canti;;(nosaltres) ;;;cantem;;(vosaltres) ;;;canteu;;(vostès) ;;;cantin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;cantis;;(vostè) ;no ;;canti;;(nosaltres) ;no ;;cantem;;(vosaltres) ;no ;;canteu;;(vostès) ;no ;;cantin
+Indicatiu Perfet;indicatiu;;jo ;;;he cantat;;tu ;;;has cantat;;ell //ella //vostè ;;;ha cantat;;nosaltres ;;;hem cantat;;vosaltres ;;;heu cantat;;ells //elles //vostès ;;;han cantat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig cantat;;tu ;;;vas cantat;;ell //ella //vostè ;;;va cantat;;nosaltres ;;;vam cantat;;vosaltres ;;;vau cantat;;ells //elles //vostès ;;;van cantat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia cantat;;tu ;;;havies cantat;;ell //ella //vostè ;;;havia cantat;;nosaltres ;;;havíem cantat;;vosaltres ;;;havíeu cantat;;ells //elles //vostès ;;;havien cantat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí cantat;;tu ;;;hagueres cantat;;ell //ella //vostè ;;;hagué cantat;;nosaltres ;;;haguérem cantat;;vosaltres ;;;haguéreu cantat;;ells //elles //vostès ;;;hagueren cantat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver cantat;;tu ;;;vas haver cantat;;ell //ella //vostè ;;;va haver cantat;;nosaltres ;;;vam haver cantat;;vosaltres ;;;vau haver cantat;;ells //elles //vostès ;;;van haver cantat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré cantat;;tu ;;;hauràs cantat;;ell //ella //vostè ;;;haurà cantat;;nosaltres ;;;haurem cantat;;vosaltres ;;;haureu cantat;;ells //elles //vostès ;;;hauran cantat
+Condicional Perfet;condicional;;jo ;;;hauria cantat;;tu ;;;hauries cantat;;ell //ella //vostè ;;;hauria cantat;;nosaltres ;;;hauríem cantat;;vosaltres ;;;hauríeu cantat;;ells //elles //vostès ;;;haurien cantat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi cantat;;tu ;;;vagis cantat;;ell //ella //vostè ;;;vagi cantat;;nosaltres ;;;vàgim cantat;;vosaltres ;;;vàgiu cantat;;ells //elles //vostès ;;;vagin cantat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi cantat;;tu ;;;hagis cantat;;ell //ella //vostè ;;;hagi cantat;;nosaltres ;;;hàgim cantat;;vosaltres ;;;hàgiu cantat;;ells //elles //vostès ;;;hagin cantat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes cantat;;tu ;;;haguessis cantat;;ell //ella //vostè ;;;hagués cantat;;nosaltres ;;;haguéssim cantat;;vosaltres ;;;haguéssiu cantat;;ells //elles //vostès ;;;haguessin cantat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver cantat;;tu ;;;vagis haver cantat;;ell //ella //vostè ;;;vagi haver cantat;;nosaltres ;;;vàgim haver cantat;;vosaltres ;;;vàgiu haver cantat;;ells //elles //vostès ;;;vagin haver cantat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

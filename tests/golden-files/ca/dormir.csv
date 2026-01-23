@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;dormi;;tu ;;;dormis;;ell //ella //vostè ;;;d
 Subjuntiu Imperfet;subjuntiu;;jo ;;;dormís;;tu ;;;dormissis;;ell //ella //vostè ;;;dormís;;nosaltres ;;;dormíssim;;vosaltres ;;;dormíssiu;;ells //elles //vostès ;;;dormissin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;dorm;;(vostè) ;;;dormi;;(nosaltres) ;;;dormim;;(vosaltres) ;;;dormiu;;(vostès) ;;;dormin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;dormis;;(vostè) ;no ;;dormi;;(nosaltres) ;no ;;dormim;;(vosaltres) ;no ;;dormiu;;(vostès) ;no ;;dormin
+Indicatiu Perfet;indicatiu;;jo ;;;he dormit;;tu ;;;has dormit;;ell //ella //vostè ;;;ha dormit;;nosaltres ;;;hem dormit;;vosaltres ;;;heu dormit;;ells //elles //vostès ;;;han dormit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig dormit;;tu ;;;vas dormit;;ell //ella //vostè ;;;va dormit;;nosaltres ;;;vam dormit;;vosaltres ;;;vau dormit;;ells //elles //vostès ;;;van dormit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia dormit;;tu ;;;havies dormit;;ell //ella //vostè ;;;havia dormit;;nosaltres ;;;havíem dormit;;vosaltres ;;;havíeu dormit;;ells //elles //vostès ;;;havien dormit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí dormit;;tu ;;;hagueres dormit;;ell //ella //vostè ;;;hagué dormit;;nosaltres ;;;haguérem dormit;;vosaltres ;;;haguéreu dormit;;ells //elles //vostès ;;;hagueren dormit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver dormit;;tu ;;;vas haver dormit;;ell //ella //vostè ;;;va haver dormit;;nosaltres ;;;vam haver dormit;;vosaltres ;;;vau haver dormit;;ells //elles //vostès ;;;van haver dormit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré dormit;;tu ;;;hauràs dormit;;ell //ella //vostè ;;;haurà dormit;;nosaltres ;;;haurem dormit;;vosaltres ;;;haureu dormit;;ells //elles //vostès ;;;hauran dormit
+Condicional Perfet;condicional;;jo ;;;hauria dormit;;tu ;;;hauries dormit;;ell //ella //vostè ;;;hauria dormit;;nosaltres ;;;hauríem dormit;;vosaltres ;;;hauríeu dormit;;ells //elles //vostès ;;;haurien dormit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi dormit;;tu ;;;vagis dormit;;ell //ella //vostè ;;;vagi dormit;;nosaltres ;;;vàgim dormit;;vosaltres ;;;vàgiu dormit;;ells //elles //vostès ;;;vagin dormit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi dormit;;tu ;;;hagis dormit;;ell //ella //vostè ;;;hagi dormit;;nosaltres ;;;hàgim dormit;;vosaltres ;;;hàgiu dormit;;ells //elles //vostès ;;;hagin dormit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes dormit;;tu ;;;haguessis dormit;;ell //ella //vostè ;;;hagués dormit;;nosaltres ;;;haguéssim dormit;;vosaltres ;;;haguéssiu dormit;;ells //elles //vostès ;;;haguessin dormit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver dormit;;tu ;;;vagis haver dormit;;ell //ella //vostè ;;;vagi haver dormit;;nosaltres ;;;vàgim haver dormit;;vosaltres ;;;vàgiu haver dormit;;ells //elles //vostès ;;;vagin haver dormit
 verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

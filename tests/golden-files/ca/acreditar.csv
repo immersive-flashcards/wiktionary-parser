@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;acrediti;;tu ;;;acreditis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;acredités;;tu ;;;acreditessis;;ell //ella //vostè ;;;acredités;;nosaltres ;;;acreditéssim;;vosaltres ;;;acreditéssiu;;ells //elles //vostès ;;;acreditessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;acredita;;(vostè) ;;;acrediti;;(nosaltres) ;;;acreditem;;(vosaltres) ;;;acrediteu;;(vostès) ;;;acreditin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;acreditis;;(vostè) ;no ;;acrediti;;(nosaltres) ;no ;;acreditem;;(vosaltres) ;no ;;acrediteu;;(vostès) ;no ;;acreditin
+Indicatiu Perfet;indicatiu;;jo ;;;he acreditat;;tu ;;;has acreditat;;ell //ella //vostè ;;;ha acreditat;;nosaltres ;;;hem acreditat;;vosaltres ;;;heu acreditat;;ells //elles //vostès ;;;han acreditat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig acreditat;;tu ;;;vas acreditat;;ell //ella //vostè ;;;va acreditat;;nosaltres ;;;vam acreditat;;vosaltres ;;;vau acreditat;;ells //elles //vostès ;;;van acreditat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia acreditat;;tu ;;;havies acreditat;;ell //ella //vostè ;;;havia acreditat;;nosaltres ;;;havíem acreditat;;vosaltres ;;;havíeu acreditat;;ells //elles //vostès ;;;havien acreditat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí acreditat;;tu ;;;hagueres acreditat;;ell //ella //vostè ;;;hagué acreditat;;nosaltres ;;;haguérem acreditat;;vosaltres ;;;haguéreu acreditat;;ells //elles //vostès ;;;hagueren acreditat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver acreditat;;tu ;;;vas haver acreditat;;ell //ella //vostè ;;;va haver acreditat;;nosaltres ;;;vam haver acreditat;;vosaltres ;;;vau haver acreditat;;ells //elles //vostès ;;;van haver acreditat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré acreditat;;tu ;;;hauràs acreditat;;ell //ella //vostè ;;;haurà acreditat;;nosaltres ;;;haurem acreditat;;vosaltres ;;;haureu acreditat;;ells //elles //vostès ;;;hauran acreditat
+Condicional Perfet;condicional;;jo ;;;hauria acreditat;;tu ;;;hauries acreditat;;ell //ella //vostè ;;;hauria acreditat;;nosaltres ;;;hauríem acreditat;;vosaltres ;;;hauríeu acreditat;;ells //elles //vostès ;;;haurien acreditat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi acreditat;;tu ;;;vagis acreditat;;ell //ella //vostè ;;;vagi acreditat;;nosaltres ;;;vàgim acreditat;;vosaltres ;;;vàgiu acreditat;;ells //elles //vostès ;;;vagin acreditat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi acreditat;;tu ;;;hagis acreditat;;ell //ella //vostè ;;;hagi acreditat;;nosaltres ;;;hàgim acreditat;;vosaltres ;;;hàgiu acreditat;;ells //elles //vostès ;;;hagin acreditat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes acreditat;;tu ;;;haguessis acreditat;;ell //ella //vostè ;;;hagués acreditat;;nosaltres ;;;haguéssim acreditat;;vosaltres ;;;haguéssiu acreditat;;ells //elles //vostès ;;;haguessin acreditat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver acreditat;;tu ;;;vagis haver acreditat;;ell //ella //vostè ;;;vagi haver acreditat;;nosaltres ;;;vàgim haver acreditat;;vosaltres ;;;vàgiu haver acreditat;;ells //elles //vostès ;;;vagin haver acreditat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

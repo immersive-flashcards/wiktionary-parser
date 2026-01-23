@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;colli;;tu ;;;collis;;ell //ella //vostè ;;;c
 Subjuntiu Imperfet;subjuntiu;;jo ;;;collés;;tu ;;;collessis;;ell //ella //vostè ;;;collés;;nosaltres ;;;colléssim;;vosaltres ;;;colléssiu;;ells //elles //vostès ;;;collessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;colla;;(vostè) ;;;colli;;(nosaltres) ;;;collem;;(vosaltres) ;;;colleu;;(vostès) ;;;collin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;collis;;(vostè) ;no ;;colli;;(nosaltres) ;no ;;collem;;(vosaltres) ;no ;;colleu;;(vostès) ;no ;;collin
+Indicatiu Perfet;indicatiu;;jo ;;;he collat;;tu ;;;has collat;;ell //ella //vostè ;;;ha collat;;nosaltres ;;;hem collat;;vosaltres ;;;heu collat;;ells //elles //vostès ;;;han collat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig collat;;tu ;;;vas collat;;ell //ella //vostè ;;;va collat;;nosaltres ;;;vam collat;;vosaltres ;;;vau collat;;ells //elles //vostès ;;;van collat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia collat;;tu ;;;havies collat;;ell //ella //vostè ;;;havia collat;;nosaltres ;;;havíem collat;;vosaltres ;;;havíeu collat;;ells //elles //vostès ;;;havien collat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí collat;;tu ;;;hagueres collat;;ell //ella //vostè ;;;hagué collat;;nosaltres ;;;haguérem collat;;vosaltres ;;;haguéreu collat;;ells //elles //vostès ;;;hagueren collat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver collat;;tu ;;;vas haver collat;;ell //ella //vostè ;;;va haver collat;;nosaltres ;;;vam haver collat;;vosaltres ;;;vau haver collat;;ells //elles //vostès ;;;van haver collat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré collat;;tu ;;;hauràs collat;;ell //ella //vostè ;;;haurà collat;;nosaltres ;;;haurem collat;;vosaltres ;;;haureu collat;;ells //elles //vostès ;;;hauran collat
+Condicional Perfet;condicional;;jo ;;;hauria collat;;tu ;;;hauries collat;;ell //ella //vostè ;;;hauria collat;;nosaltres ;;;hauríem collat;;vosaltres ;;;hauríeu collat;;ells //elles //vostès ;;;haurien collat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi collat;;tu ;;;vagis collat;;ell //ella //vostè ;;;vagi collat;;nosaltres ;;;vàgim collat;;vosaltres ;;;vàgiu collat;;ells //elles //vostès ;;;vagin collat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi collat;;tu ;;;hagis collat;;ell //ella //vostè ;;;hagi collat;;nosaltres ;;;hàgim collat;;vosaltres ;;;hàgiu collat;;ells //elles //vostès ;;;hagin collat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes collat;;tu ;;;haguessis collat;;ell //ella //vostè ;;;hagués collat;;nosaltres ;;;haguéssim collat;;vosaltres ;;;haguéssiu collat;;ells //elles //vostès ;;;haguessin collat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver collat;;tu ;;;vagis haver collat;;ell //ella //vostè ;;;vagi haver collat;;nosaltres ;;;vàgim haver collat;;vosaltres ;;;vàgiu haver collat;;ells //elles //vostès ;;;vagin haver collat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

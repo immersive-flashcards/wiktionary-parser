@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;senti;;tu ;;;sentis;;ell //ella //vostè ;;;s
 Subjuntiu Imperfet;subjuntiu;;jo ;;;sentís;;tu ;;;sentissis;;ell //ella //vostè ;;;sentís;;nosaltres ;;;sentíssim;;vosaltres ;;;sentíssiu;;ells //elles //vostès ;;;sentissin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;sent;;(vostè) ;;;senti;;(nosaltres) ;;;sentim;;(vosaltres) ;;;sentiu;;(vostès) ;;;sentin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;sentis;;(vostè) ;no ;;senti;;(nosaltres) ;no ;;sentim;;(vosaltres) ;no ;;sentiu;;(vostès) ;no ;;sentin
+Indicatiu Perfet;indicatiu;;jo ;;;he sentit;;tu ;;;has sentit;;ell //ella //vostè ;;;ha sentit;;nosaltres ;;;hem sentit;;vosaltres ;;;heu sentit;;ells //elles //vostès ;;;han sentit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig sentit;;tu ;;;vas sentit;;ell //ella //vostè ;;;va sentit;;nosaltres ;;;vam sentit;;vosaltres ;;;vau sentit;;ells //elles //vostès ;;;van sentit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia sentit;;tu ;;;havies sentit;;ell //ella //vostè ;;;havia sentit;;nosaltres ;;;havíem sentit;;vosaltres ;;;havíeu sentit;;ells //elles //vostès ;;;havien sentit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí sentit;;tu ;;;hagueres sentit;;ell //ella //vostè ;;;hagué sentit;;nosaltres ;;;haguérem sentit;;vosaltres ;;;haguéreu sentit;;ells //elles //vostès ;;;hagueren sentit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver sentit;;tu ;;;vas haver sentit;;ell //ella //vostè ;;;va haver sentit;;nosaltres ;;;vam haver sentit;;vosaltres ;;;vau haver sentit;;ells //elles //vostès ;;;van haver sentit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré sentit;;tu ;;;hauràs sentit;;ell //ella //vostè ;;;haurà sentit;;nosaltres ;;;haurem sentit;;vosaltres ;;;haureu sentit;;ells //elles //vostès ;;;hauran sentit
+Condicional Perfet;condicional;;jo ;;;hauria sentit;;tu ;;;hauries sentit;;ell //ella //vostè ;;;hauria sentit;;nosaltres ;;;hauríem sentit;;vosaltres ;;;hauríeu sentit;;ells //elles //vostès ;;;haurien sentit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi sentit;;tu ;;;vagis sentit;;ell //ella //vostè ;;;vagi sentit;;nosaltres ;;;vàgim sentit;;vosaltres ;;;vàgiu sentit;;ells //elles //vostès ;;;vagin sentit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi sentit;;tu ;;;hagis sentit;;ell //ella //vostè ;;;hagi sentit;;nosaltres ;;;hàgim sentit;;vosaltres ;;;hàgiu sentit;;ells //elles //vostès ;;;hagin sentit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes sentit;;tu ;;;haguessis sentit;;ell //ella //vostè ;;;hagués sentit;;nosaltres ;;;haguéssim sentit;;vosaltres ;;;haguéssiu sentit;;ells //elles //vostès ;;;haguessin sentit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver sentit;;tu ;;;vagis haver sentit;;ell //ella //vostè ;;;vagi haver sentit;;nosaltres ;;;vàgim haver sentit;;vosaltres ;;;vàgiu haver sentit;;ells //elles //vostès ;;;vagin haver sentit
 verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;generi;;tu ;;;generis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;generés;;tu ;;;generessis;;ell //ella //vostè ;;;generés;;nosaltres ;;;generéssim;;vosaltres ;;;generéssiu;;ells //elles //vostès ;;;generessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;genera;;(vostè) ;;;generi;;(nosaltres) ;;;generem;;(vosaltres) ;;;genereu;;(vostès) ;;;generin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;generis;;(vostè) ;no ;;generi;;(nosaltres) ;no ;;generem;;(vosaltres) ;no ;;genereu;;(vostès) ;no ;;generin
+Indicatiu Perfet;indicatiu;;jo ;;;he generat;;tu ;;;has generat;;ell //ella //vostè ;;;ha generat;;nosaltres ;;;hem generat;;vosaltres ;;;heu generat;;ells //elles //vostès ;;;han generat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig generat;;tu ;;;vas generat;;ell //ella //vostè ;;;va generat;;nosaltres ;;;vam generat;;vosaltres ;;;vau generat;;ells //elles //vostès ;;;van generat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia generat;;tu ;;;havies generat;;ell //ella //vostè ;;;havia generat;;nosaltres ;;;havíem generat;;vosaltres ;;;havíeu generat;;ells //elles //vostès ;;;havien generat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí generat;;tu ;;;hagueres generat;;ell //ella //vostè ;;;hagué generat;;nosaltres ;;;haguérem generat;;vosaltres ;;;haguéreu generat;;ells //elles //vostès ;;;hagueren generat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver generat;;tu ;;;vas haver generat;;ell //ella //vostè ;;;va haver generat;;nosaltres ;;;vam haver generat;;vosaltres ;;;vau haver generat;;ells //elles //vostès ;;;van haver generat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré generat;;tu ;;;hauràs generat;;ell //ella //vostè ;;;haurà generat;;nosaltres ;;;haurem generat;;vosaltres ;;;haureu generat;;ells //elles //vostès ;;;hauran generat
+Condicional Perfet;condicional;;jo ;;;hauria generat;;tu ;;;hauries generat;;ell //ella //vostè ;;;hauria generat;;nosaltres ;;;hauríem generat;;vosaltres ;;;hauríeu generat;;ells //elles //vostès ;;;haurien generat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi generat;;tu ;;;vagis generat;;ell //ella //vostè ;;;vagi generat;;nosaltres ;;;vàgim generat;;vosaltres ;;;vàgiu generat;;ells //elles //vostès ;;;vagin generat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi generat;;tu ;;;hagis generat;;ell //ella //vostè ;;;hagi generat;;nosaltres ;;;hàgim generat;;vosaltres ;;;hàgiu generat;;ells //elles //vostès ;;;hagin generat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes generat;;tu ;;;haguessis generat;;ell //ella //vostè ;;;hagués generat;;nosaltres ;;;haguéssim generat;;vosaltres ;;;haguéssiu generat;;ells //elles //vostès ;;;haguessin generat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver generat;;tu ;;;vagis haver generat;;ell //ella //vostè ;;;vagi haver generat;;nosaltres ;;;vàgim haver generat;;vosaltres ;;;vàgiu haver generat;;ells //elles //vostès ;;;vagin haver generat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

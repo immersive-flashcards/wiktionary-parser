@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;soni;;tu ;;;sonis;;ell //ella //vostè ;;;son
 Subjuntiu Imperfet;subjuntiu;;jo ;;;sonés;;tu ;;;sonessis;;ell //ella //vostè ;;;sonés;;nosaltres ;;;sonéssim;;vosaltres ;;;sonéssiu;;ells //elles //vostès ;;;sonessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;sona;;(vostè) ;;;soni;;(nosaltres) ;;;sonem;;(vosaltres) ;;;soneu;;(vostès) ;;;sonin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;sonis;;(vostè) ;no ;;soni;;(nosaltres) ;no ;;sonem;;(vosaltres) ;no ;;soneu;;(vostès) ;no ;;sonin
+Indicatiu Perfet;indicatiu;;jo ;;;he sonat;;tu ;;;has sonat;;ell //ella //vostè ;;;ha sonat;;nosaltres ;;;hem sonat;;vosaltres ;;;heu sonat;;ells //elles //vostès ;;;han sonat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig sonat;;tu ;;;vas sonat;;ell //ella //vostè ;;;va sonat;;nosaltres ;;;vam sonat;;vosaltres ;;;vau sonat;;ells //elles //vostès ;;;van sonat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia sonat;;tu ;;;havies sonat;;ell //ella //vostè ;;;havia sonat;;nosaltres ;;;havíem sonat;;vosaltres ;;;havíeu sonat;;ells //elles //vostès ;;;havien sonat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí sonat;;tu ;;;hagueres sonat;;ell //ella //vostè ;;;hagué sonat;;nosaltres ;;;haguérem sonat;;vosaltres ;;;haguéreu sonat;;ells //elles //vostès ;;;hagueren sonat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver sonat;;tu ;;;vas haver sonat;;ell //ella //vostè ;;;va haver sonat;;nosaltres ;;;vam haver sonat;;vosaltres ;;;vau haver sonat;;ells //elles //vostès ;;;van haver sonat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré sonat;;tu ;;;hauràs sonat;;ell //ella //vostè ;;;haurà sonat;;nosaltres ;;;haurem sonat;;vosaltres ;;;haureu sonat;;ells //elles //vostès ;;;hauran sonat
+Condicional Perfet;condicional;;jo ;;;hauria sonat;;tu ;;;hauries sonat;;ell //ella //vostè ;;;hauria sonat;;nosaltres ;;;hauríem sonat;;vosaltres ;;;hauríeu sonat;;ells //elles //vostès ;;;haurien sonat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi sonat;;tu ;;;vagis sonat;;ell //ella //vostè ;;;vagi sonat;;nosaltres ;;;vàgim sonat;;vosaltres ;;;vàgiu sonat;;ells //elles //vostès ;;;vagin sonat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi sonat;;tu ;;;hagis sonat;;ell //ella //vostè ;;;hagi sonat;;nosaltres ;;;hàgim sonat;;vosaltres ;;;hàgiu sonat;;ells //elles //vostès ;;;hagin sonat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes sonat;;tu ;;;haguessis sonat;;ell //ella //vostè ;;;hagués sonat;;nosaltres ;;;haguéssim sonat;;vosaltres ;;;haguéssiu sonat;;ells //elles //vostès ;;;haguessin sonat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver sonat;;tu ;;;vagis haver sonat;;ell //ella //vostè ;;;vagi haver sonat;;nosaltres ;;;vàgim haver sonat;;vosaltres ;;;vàgiu haver sonat;;ells //elles //vostès ;;;vagin haver sonat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

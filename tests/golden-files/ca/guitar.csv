@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;guiti;;tu ;;;guitis;;ell //ella //vostè ;;;g
 Subjuntiu Imperfet;subjuntiu;;jo ;;;guités;;tu ;;;guitessis;;ell //ella //vostè ;;;guités;;nosaltres ;;;guitéssim;;vosaltres ;;;guitéssiu;;ells //elles //vostès ;;;guitessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;guita;;(vostè) ;;;guiti;;(nosaltres) ;;;guitem;;(vosaltres) ;;;guiteu;;(vostès) ;;;guitin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;guitis;;(vostè) ;no ;;guiti;;(nosaltres) ;no ;;guitem;;(vosaltres) ;no ;;guiteu;;(vostès) ;no ;;guitin
+Indicatiu Perfet;indicatiu;;jo ;;;he guitat;;tu ;;;has guitat;;ell //ella //vostè ;;;ha guitat;;nosaltres ;;;hem guitat;;vosaltres ;;;heu guitat;;ells //elles //vostès ;;;han guitat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig guitat;;tu ;;;vas guitat;;ell //ella //vostè ;;;va guitat;;nosaltres ;;;vam guitat;;vosaltres ;;;vau guitat;;ells //elles //vostès ;;;van guitat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia guitat;;tu ;;;havies guitat;;ell //ella //vostè ;;;havia guitat;;nosaltres ;;;havíem guitat;;vosaltres ;;;havíeu guitat;;ells //elles //vostès ;;;havien guitat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí guitat;;tu ;;;hagueres guitat;;ell //ella //vostè ;;;hagué guitat;;nosaltres ;;;haguérem guitat;;vosaltres ;;;haguéreu guitat;;ells //elles //vostès ;;;hagueren guitat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver guitat;;tu ;;;vas haver guitat;;ell //ella //vostè ;;;va haver guitat;;nosaltres ;;;vam haver guitat;;vosaltres ;;;vau haver guitat;;ells //elles //vostès ;;;van haver guitat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré guitat;;tu ;;;hauràs guitat;;ell //ella //vostè ;;;haurà guitat;;nosaltres ;;;haurem guitat;;vosaltres ;;;haureu guitat;;ells //elles //vostès ;;;hauran guitat
+Condicional Perfet;condicional;;jo ;;;hauria guitat;;tu ;;;hauries guitat;;ell //ella //vostè ;;;hauria guitat;;nosaltres ;;;hauríem guitat;;vosaltres ;;;hauríeu guitat;;ells //elles //vostès ;;;haurien guitat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi guitat;;tu ;;;vagis guitat;;ell //ella //vostè ;;;vagi guitat;;nosaltres ;;;vàgim guitat;;vosaltres ;;;vàgiu guitat;;ells //elles //vostès ;;;vagin guitat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi guitat;;tu ;;;hagis guitat;;ell //ella //vostè ;;;hagi guitat;;nosaltres ;;;hàgim guitat;;vosaltres ;;;hàgiu guitat;;ells //elles //vostès ;;;hagin guitat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes guitat;;tu ;;;haguessis guitat;;ell //ella //vostè ;;;hagués guitat;;nosaltres ;;;haguéssim guitat;;vosaltres ;;;haguéssiu guitat;;ells //elles //vostès ;;;haguessin guitat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver guitat;;tu ;;;vagis haver guitat;;ell //ella //vostè ;;;vagi haver guitat;;nosaltres ;;;vàgim haver guitat;;vosaltres ;;;vàgiu haver guitat;;ells //elles //vostès ;;;vagin haver guitat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

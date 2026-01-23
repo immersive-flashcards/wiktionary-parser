@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;enviï;;tu ;;;enviïs;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;enviés;;tu ;;;enviessis;;ell //ella //vostè ;;;enviés;;nosaltres ;;;enviéssim;;vosaltres ;;;enviéssiu;;ells //elles //vostès ;;;enviessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;envia;;(vostè) ;;;enviï;;(nosaltres) ;;;enviem;;(vosaltres) ;;;envieu;;(vostès) ;;;enviïn
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;enviïs;;(vostè) ;no ;;enviï;;(nosaltres) ;no ;;enviem;;(vosaltres) ;no ;;envieu;;(vostès) ;no ;;enviïn
+Indicatiu Perfet;indicatiu;;jo ;;;he enviat;;tu ;;;has enviat;;ell //ella //vostè ;;;ha enviat;;nosaltres ;;;hem enviat;;vosaltres ;;;heu enviat;;ells //elles //vostès ;;;han enviat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig enviat;;tu ;;;vas enviat;;ell //ella //vostè ;;;va enviat;;nosaltres ;;;vam enviat;;vosaltres ;;;vau enviat;;ells //elles //vostès ;;;van enviat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia enviat;;tu ;;;havies enviat;;ell //ella //vostè ;;;havia enviat;;nosaltres ;;;havíem enviat;;vosaltres ;;;havíeu enviat;;ells //elles //vostès ;;;havien enviat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí enviat;;tu ;;;hagueres enviat;;ell //ella //vostè ;;;hagué enviat;;nosaltres ;;;haguérem enviat;;vosaltres ;;;haguéreu enviat;;ells //elles //vostès ;;;hagueren enviat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver enviat;;tu ;;;vas haver enviat;;ell //ella //vostè ;;;va haver enviat;;nosaltres ;;;vam haver enviat;;vosaltres ;;;vau haver enviat;;ells //elles //vostès ;;;van haver enviat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré enviat;;tu ;;;hauràs enviat;;ell //ella //vostè ;;;haurà enviat;;nosaltres ;;;haurem enviat;;vosaltres ;;;haureu enviat;;ells //elles //vostès ;;;hauran enviat
+Condicional Perfet;condicional;;jo ;;;hauria enviat;;tu ;;;hauries enviat;;ell //ella //vostè ;;;hauria enviat;;nosaltres ;;;hauríem enviat;;vosaltres ;;;hauríeu enviat;;ells //elles //vostès ;;;haurien enviat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi enviat;;tu ;;;vagis enviat;;ell //ella //vostè ;;;vagi enviat;;nosaltres ;;;vàgim enviat;;vosaltres ;;;vàgiu enviat;;ells //elles //vostès ;;;vagin enviat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi enviat;;tu ;;;hagis enviat;;ell //ella //vostè ;;;hagi enviat;;nosaltres ;;;hàgim enviat;;vosaltres ;;;hàgiu enviat;;ells //elles //vostès ;;;hagin enviat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes enviat;;tu ;;;haguessis enviat;;ell //ella //vostè ;;;hagués enviat;;nosaltres ;;;haguéssim enviat;;vosaltres ;;;haguéssiu enviat;;ells //elles //vostès ;;;haguessin enviat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver enviat;;tu ;;;vagis haver enviat;;ell //ella //vostè ;;;vagi haver enviat;;nosaltres ;;;vàgim haver enviat;;vosaltres ;;;vàgiu haver enviat;;ells //elles //vostès ;;;vagin haver enviat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

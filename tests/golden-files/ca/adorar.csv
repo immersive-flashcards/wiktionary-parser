@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;adori;;tu ;;;adoris;;ell //ella //vostè ;;;a
 Subjuntiu Imperfet;subjuntiu;;jo ;;;adorés;;tu ;;;adoressis;;ell //ella //vostè ;;;adorés;;nosaltres ;;;adoréssim;;vosaltres ;;;adoréssiu;;ells //elles //vostès ;;;adoressin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;adora;;(vostè) ;;;adori;;(nosaltres) ;;;adorem;;(vosaltres) ;;;adoreu;;(vostès) ;;;adorin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;adoris;;(vostè) ;no ;;adori;;(nosaltres) ;no ;;adorem;;(vosaltres) ;no ;;adoreu;;(vostès) ;no ;;adorin
+Indicatiu Perfet;indicatiu;;jo ;;;he adorat;;tu ;;;has adorat;;ell //ella //vostè ;;;ha adorat;;nosaltres ;;;hem adorat;;vosaltres ;;;heu adorat;;ells //elles //vostès ;;;han adorat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig adorat;;tu ;;;vas adorat;;ell //ella //vostè ;;;va adorat;;nosaltres ;;;vam adorat;;vosaltres ;;;vau adorat;;ells //elles //vostès ;;;van adorat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia adorat;;tu ;;;havies adorat;;ell //ella //vostè ;;;havia adorat;;nosaltres ;;;havíem adorat;;vosaltres ;;;havíeu adorat;;ells //elles //vostès ;;;havien adorat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí adorat;;tu ;;;hagueres adorat;;ell //ella //vostè ;;;hagué adorat;;nosaltres ;;;haguérem adorat;;vosaltres ;;;haguéreu adorat;;ells //elles //vostès ;;;hagueren adorat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver adorat;;tu ;;;vas haver adorat;;ell //ella //vostè ;;;va haver adorat;;nosaltres ;;;vam haver adorat;;vosaltres ;;;vau haver adorat;;ells //elles //vostès ;;;van haver adorat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré adorat;;tu ;;;hauràs adorat;;ell //ella //vostè ;;;haurà adorat;;nosaltres ;;;haurem adorat;;vosaltres ;;;haureu adorat;;ells //elles //vostès ;;;hauran adorat
+Condicional Perfet;condicional;;jo ;;;hauria adorat;;tu ;;;hauries adorat;;ell //ella //vostè ;;;hauria adorat;;nosaltres ;;;hauríem adorat;;vosaltres ;;;hauríeu adorat;;ells //elles //vostès ;;;haurien adorat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi adorat;;tu ;;;vagis adorat;;ell //ella //vostè ;;;vagi adorat;;nosaltres ;;;vàgim adorat;;vosaltres ;;;vàgiu adorat;;ells //elles //vostès ;;;vagin adorat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi adorat;;tu ;;;hagis adorat;;ell //ella //vostè ;;;hagi adorat;;nosaltres ;;;hàgim adorat;;vosaltres ;;;hàgiu adorat;;ells //elles //vostès ;;;hagin adorat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes adorat;;tu ;;;haguessis adorat;;ell //ella //vostè ;;;hagués adorat;;nosaltres ;;;haguéssim adorat;;vosaltres ;;;haguéssiu adorat;;ells //elles //vostès ;;;haguessin adorat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver adorat;;tu ;;;vagis haver adorat;;ell //ella //vostè ;;;vagi haver adorat;;nosaltres ;;;vàgim haver adorat;;vosaltres ;;;vàgiu haver adorat;;ells //elles //vostès ;;;vagin haver adorat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

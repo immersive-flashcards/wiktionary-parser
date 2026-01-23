@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;funcioni;;tu ;;;funcionis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;funcionés;;tu ;;;funcionessis;;ell //ella //vostè ;;;funcionés;;nosaltres ;;;funcionéssim;;vosaltres ;;;funcionéssiu;;ells //elles //vostès ;;;funcionessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;funciona;;(vostè) ;;;funcioni;;(nosaltres) ;;;funcionem;;(vosaltres) ;;;funcioneu;;(vostès) ;;;funcionin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;funcionis;;(vostè) ;no ;;funcioni;;(nosaltres) ;no ;;funcionem;;(vosaltres) ;no ;;funcioneu;;(vostès) ;no ;;funcionin
+Indicatiu Perfet;indicatiu;;jo ;;;he funcionat;;tu ;;;has funcionat;;ell //ella //vostè ;;;ha funcionat;;nosaltres ;;;hem funcionat;;vosaltres ;;;heu funcionat;;ells //elles //vostès ;;;han funcionat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig funcionat;;tu ;;;vas funcionat;;ell //ella //vostè ;;;va funcionat;;nosaltres ;;;vam funcionat;;vosaltres ;;;vau funcionat;;ells //elles //vostès ;;;van funcionat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia funcionat;;tu ;;;havies funcionat;;ell //ella //vostè ;;;havia funcionat;;nosaltres ;;;havíem funcionat;;vosaltres ;;;havíeu funcionat;;ells //elles //vostès ;;;havien funcionat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí funcionat;;tu ;;;hagueres funcionat;;ell //ella //vostè ;;;hagué funcionat;;nosaltres ;;;haguérem funcionat;;vosaltres ;;;haguéreu funcionat;;ells //elles //vostès ;;;hagueren funcionat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver funcionat;;tu ;;;vas haver funcionat;;ell //ella //vostè ;;;va haver funcionat;;nosaltres ;;;vam haver funcionat;;vosaltres ;;;vau haver funcionat;;ells //elles //vostès ;;;van haver funcionat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré funcionat;;tu ;;;hauràs funcionat;;ell //ella //vostè ;;;haurà funcionat;;nosaltres ;;;haurem funcionat;;vosaltres ;;;haureu funcionat;;ells //elles //vostès ;;;hauran funcionat
+Condicional Perfet;condicional;;jo ;;;hauria funcionat;;tu ;;;hauries funcionat;;ell //ella //vostè ;;;hauria funcionat;;nosaltres ;;;hauríem funcionat;;vosaltres ;;;hauríeu funcionat;;ells //elles //vostès ;;;haurien funcionat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi funcionat;;tu ;;;vagis funcionat;;ell //ella //vostè ;;;vagi funcionat;;nosaltres ;;;vàgim funcionat;;vosaltres ;;;vàgiu funcionat;;ells //elles //vostès ;;;vagin funcionat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi funcionat;;tu ;;;hagis funcionat;;ell //ella //vostè ;;;hagi funcionat;;nosaltres ;;;hàgim funcionat;;vosaltres ;;;hàgiu funcionat;;ells //elles //vostès ;;;hagin funcionat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes funcionat;;tu ;;;haguessis funcionat;;ell //ella //vostè ;;;hagués funcionat;;nosaltres ;;;haguéssim funcionat;;vosaltres ;;;haguéssiu funcionat;;ells //elles //vostès ;;;haguessin funcionat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver funcionat;;tu ;;;vagis haver funcionat;;ell //ella //vostè ;;;vagi haver funcionat;;nosaltres ;;;vàgim haver funcionat;;vosaltres ;;;vàgiu haver funcionat;;ells //elles //vostès ;;;vagin haver funcionat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

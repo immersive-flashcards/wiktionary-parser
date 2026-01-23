@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;disfruti;;tu ;;;disfrutis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;disfrutés;;tu ;;;disfrutessis;;ell //ella //vostè ;;;disfrutés;;nosaltres ;;;disfrutéssim;;vosaltres ;;;disfrutéssiu;;ells //elles //vostès ;;;disfrutessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;disfruta;;(vostè) ;;;disfruti;;(nosaltres) ;;;disfrutem;;(vosaltres) ;;;disfruteu;;(vostès) ;;;disfrutin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;disfrutis;;(vostè) ;no ;;disfruti;;(nosaltres) ;no ;;disfrutem;;(vosaltres) ;no ;;disfruteu;;(vostès) ;no ;;disfrutin
+Indicatiu Perfet;indicatiu;;jo ;;;he disfrutat;;tu ;;;has disfrutat;;ell //ella //vostè ;;;ha disfrutat;;nosaltres ;;;hem disfrutat;;vosaltres ;;;heu disfrutat;;ells //elles //vostès ;;;han disfrutat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig disfrutat;;tu ;;;vas disfrutat;;ell //ella //vostè ;;;va disfrutat;;nosaltres ;;;vam disfrutat;;vosaltres ;;;vau disfrutat;;ells //elles //vostès ;;;van disfrutat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia disfrutat;;tu ;;;havies disfrutat;;ell //ella //vostè ;;;havia disfrutat;;nosaltres ;;;havíem disfrutat;;vosaltres ;;;havíeu disfrutat;;ells //elles //vostès ;;;havien disfrutat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí disfrutat;;tu ;;;hagueres disfrutat;;ell //ella //vostè ;;;hagué disfrutat;;nosaltres ;;;haguérem disfrutat;;vosaltres ;;;haguéreu disfrutat;;ells //elles //vostès ;;;hagueren disfrutat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver disfrutat;;tu ;;;vas haver disfrutat;;ell //ella //vostè ;;;va haver disfrutat;;nosaltres ;;;vam haver disfrutat;;vosaltres ;;;vau haver disfrutat;;ells //elles //vostès ;;;van haver disfrutat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré disfrutat;;tu ;;;hauràs disfrutat;;ell //ella //vostè ;;;haurà disfrutat;;nosaltres ;;;haurem disfrutat;;vosaltres ;;;haureu disfrutat;;ells //elles //vostès ;;;hauran disfrutat
+Condicional Perfet;condicional;;jo ;;;hauria disfrutat;;tu ;;;hauries disfrutat;;ell //ella //vostè ;;;hauria disfrutat;;nosaltres ;;;hauríem disfrutat;;vosaltres ;;;hauríeu disfrutat;;ells //elles //vostès ;;;haurien disfrutat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi disfrutat;;tu ;;;vagis disfrutat;;ell //ella //vostè ;;;vagi disfrutat;;nosaltres ;;;vàgim disfrutat;;vosaltres ;;;vàgiu disfrutat;;ells //elles //vostès ;;;vagin disfrutat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi disfrutat;;tu ;;;hagis disfrutat;;ell //ella //vostè ;;;hagi disfrutat;;nosaltres ;;;hàgim disfrutat;;vosaltres ;;;hàgiu disfrutat;;ells //elles //vostès ;;;hagin disfrutat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes disfrutat;;tu ;;;haguessis disfrutat;;ell //ella //vostè ;;;hagués disfrutat;;nosaltres ;;;haguéssim disfrutat;;vosaltres ;;;haguéssiu disfrutat;;ells //elles //vostès ;;;haguessin disfrutat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver disfrutat;;tu ;;;vagis haver disfrutat;;ell //ella //vostè ;;;vagi haver disfrutat;;nosaltres ;;;vàgim haver disfrutat;;vosaltres ;;;vàgiu haver disfrutat;;ells //elles //vostès ;;;vagin haver disfrutat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

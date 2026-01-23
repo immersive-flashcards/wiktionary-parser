@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;faci;;tu ;;;facis;;ell //ella //vostè ;;;fac
 Subjuntiu Imperfet;subjuntiu;;jo ;;;fes;;tu ;;;fessis;;ell //ella //vostè ;;;fes;;nosaltres ;;;féssim;;vosaltres ;;;féssiu;;ells //elles //vostès ;;;fessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;fes;;(vostè) ;;;faci;;(nosaltres) ;;;fem;;(vosaltres) ;;;feu;;(vostès) ;;;facin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;facis;;(vostè) ;no ;;faci;;(nosaltres) ;no ;;fem;;(vosaltres) ;no ;;feu;;(vostès) ;no ;;facin
+Indicatiu Perfet;indicatiu;;jo ;;;he fet;;tu ;;;has fet;;ell //ella //vostè ;;;ha fet;;nosaltres ;;;hem fet;;vosaltres ;;;heu fet;;ells //elles //vostès ;;;han fet
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig fet;;tu ;;;vas fet;;ell //ella //vostè ;;;va fet;;nosaltres ;;;vam fet;;vosaltres ;;;vau fet;;ells //elles //vostès ;;;van fet
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia fet;;tu ;;;havies fet;;ell //ella //vostè ;;;havia fet;;nosaltres ;;;havíem fet;;vosaltres ;;;havíeu fet;;ells //elles //vostès ;;;havien fet
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí fet;;tu ;;;hagueres fet;;ell //ella //vostè ;;;hagué fet;;nosaltres ;;;haguérem fet;;vosaltres ;;;haguéreu fet;;ells //elles //vostès ;;;hagueren fet
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver fet;;tu ;;;vas haver fet;;ell //ella //vostè ;;;va haver fet;;nosaltres ;;;vam haver fet;;vosaltres ;;;vau haver fet;;ells //elles //vostès ;;;van haver fet
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré fet;;tu ;;;hauràs fet;;ell //ella //vostè ;;;haurà fet;;nosaltres ;;;haurem fet;;vosaltres ;;;haureu fet;;ells //elles //vostès ;;;hauran fet
+Condicional Perfet;condicional;;jo ;;;hauria fet;;tu ;;;hauries fet;;ell //ella //vostè ;;;hauria fet;;nosaltres ;;;hauríem fet;;vosaltres ;;;hauríeu fet;;ells //elles //vostès ;;;haurien fet
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi fet;;tu ;;;vagis fet;;ell //ella //vostè ;;;vagi fet;;nosaltres ;;;vàgim fet;;vosaltres ;;;vàgiu fet;;ells //elles //vostès ;;;vagin fet
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi fet;;tu ;;;hagis fet;;ell //ella //vostè ;;;hagi fet;;nosaltres ;;;hàgim fet;;vosaltres ;;;hàgiu fet;;ells //elles //vostès ;;;hagin fet
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes fet;;tu ;;;haguessis fet;;ell //ella //vostè ;;;hagués fet;;nosaltres ;;;haguéssim fet;;vosaltres ;;;haguéssiu fet;;ells //elles //vostès ;;;haguessin fet
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver fet;;tu ;;;vagis haver fet;;ell //ella //vostè ;;;vagi haver fet;;nosaltres ;;;vàgim haver fet;;vosaltres ;;;vàgiu haver fet;;ells //elles //vostès ;;;vagin haver fet
 verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

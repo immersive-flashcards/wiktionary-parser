@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;abandoni;;tu ;;;abandonis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;abandonés;;tu ;;;abandonessis;;ell //ella //vostè ;;;abandonés;;nosaltres ;;;abandonéssim;;vosaltres ;;;abandonéssiu;;ells //elles //vostès ;;;abandonessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;abandona;;(vostè) ;;;abandoni;;(nosaltres) ;;;abandonem;;(vosaltres) ;;;abandoneu;;(vostès) ;;;abandonin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;abandonis;;(vostè) ;no ;;abandoni;;(nosaltres) ;no ;;abandonem;;(vosaltres) ;no ;;abandoneu;;(vostès) ;no ;;abandonin
+Indicatiu Perfet;indicatiu;;jo ;;;he abandonat;;tu ;;;has abandonat;;ell //ella //vostè ;;;ha abandonat;;nosaltres ;;;hem abandonat;;vosaltres ;;;heu abandonat;;ells //elles //vostès ;;;han abandonat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig abandonat;;tu ;;;vas abandonat;;ell //ella //vostè ;;;va abandonat;;nosaltres ;;;vam abandonat;;vosaltres ;;;vau abandonat;;ells //elles //vostès ;;;van abandonat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia abandonat;;tu ;;;havies abandonat;;ell //ella //vostè ;;;havia abandonat;;nosaltres ;;;havíem abandonat;;vosaltres ;;;havíeu abandonat;;ells //elles //vostès ;;;havien abandonat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí abandonat;;tu ;;;hagueres abandonat;;ell //ella //vostè ;;;hagué abandonat;;nosaltres ;;;haguérem abandonat;;vosaltres ;;;haguéreu abandonat;;ells //elles //vostès ;;;hagueren abandonat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver abandonat;;tu ;;;vas haver abandonat;;ell //ella //vostè ;;;va haver abandonat;;nosaltres ;;;vam haver abandonat;;vosaltres ;;;vau haver abandonat;;ells //elles //vostès ;;;van haver abandonat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré abandonat;;tu ;;;hauràs abandonat;;ell //ella //vostè ;;;haurà abandonat;;nosaltres ;;;haurem abandonat;;vosaltres ;;;haureu abandonat;;ells //elles //vostès ;;;hauran abandonat
+Condicional Perfet;condicional;;jo ;;;hauria abandonat;;tu ;;;hauries abandonat;;ell //ella //vostè ;;;hauria abandonat;;nosaltres ;;;hauríem abandonat;;vosaltres ;;;hauríeu abandonat;;ells //elles //vostès ;;;haurien abandonat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi abandonat;;tu ;;;vagis abandonat;;ell //ella //vostè ;;;vagi abandonat;;nosaltres ;;;vàgim abandonat;;vosaltres ;;;vàgiu abandonat;;ells //elles //vostès ;;;vagin abandonat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi abandonat;;tu ;;;hagis abandonat;;ell //ella //vostè ;;;hagi abandonat;;nosaltres ;;;hàgim abandonat;;vosaltres ;;;hàgiu abandonat;;ells //elles //vostès ;;;hagin abandonat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes abandonat;;tu ;;;haguessis abandonat;;ell //ella //vostè ;;;hagués abandonat;;nosaltres ;;;haguéssim abandonat;;vosaltres ;;;haguéssiu abandonat;;ells //elles //vostès ;;;haguessin abandonat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver abandonat;;tu ;;;vagis haver abandonat;;ell //ella //vostè ;;;vagi haver abandonat;;nosaltres ;;;vàgim haver abandonat;;vosaltres ;;;vàgiu haver abandonat;;ells //elles //vostès ;;;vagin haver abandonat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

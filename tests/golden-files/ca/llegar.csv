@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;llegui;;tu ;;;lleguis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;llegués;;tu ;;;lleguessis;;ell //ella //vostè ;;;llegués;;nosaltres ;;;lleguéssim;;vosaltres ;;;lleguéssiu;;ells //elles //vostès ;;;lleguessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;llega;;(vostè) ;;;llegui;;(nosaltres) ;;;lleguem;;(vosaltres) ;;;llegueu;;(vostès) ;;;lleguin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;lleguis;;(vostè) ;no ;;llegui;;(nosaltres) ;no ;;lleguem;;(vosaltres) ;no ;;llegueu;;(vostès) ;no ;;lleguin
+Indicatiu Perfet;indicatiu;;jo ;;;he llegat;;tu ;;;has llegat;;ell //ella //vostè ;;;ha llegat;;nosaltres ;;;hem llegat;;vosaltres ;;;heu llegat;;ells //elles //vostès ;;;han llegat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig llegat;;tu ;;;vas llegat;;ell //ella //vostè ;;;va llegat;;nosaltres ;;;vam llegat;;vosaltres ;;;vau llegat;;ells //elles //vostès ;;;van llegat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia llegat;;tu ;;;havies llegat;;ell //ella //vostè ;;;havia llegat;;nosaltres ;;;havíem llegat;;vosaltres ;;;havíeu llegat;;ells //elles //vostès ;;;havien llegat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí llegat;;tu ;;;hagueres llegat;;ell //ella //vostè ;;;hagué llegat;;nosaltres ;;;haguérem llegat;;vosaltres ;;;haguéreu llegat;;ells //elles //vostès ;;;hagueren llegat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver llegat;;tu ;;;vas haver llegat;;ell //ella //vostè ;;;va haver llegat;;nosaltres ;;;vam haver llegat;;vosaltres ;;;vau haver llegat;;ells //elles //vostès ;;;van haver llegat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré llegat;;tu ;;;hauràs llegat;;ell //ella //vostè ;;;haurà llegat;;nosaltres ;;;haurem llegat;;vosaltres ;;;haureu llegat;;ells //elles //vostès ;;;hauran llegat
+Condicional Perfet;condicional;;jo ;;;hauria llegat;;tu ;;;hauries llegat;;ell //ella //vostè ;;;hauria llegat;;nosaltres ;;;hauríem llegat;;vosaltres ;;;hauríeu llegat;;ells //elles //vostès ;;;haurien llegat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi llegat;;tu ;;;vagis llegat;;ell //ella //vostè ;;;vagi llegat;;nosaltres ;;;vàgim llegat;;vosaltres ;;;vàgiu llegat;;ells //elles //vostès ;;;vagin llegat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi llegat;;tu ;;;hagis llegat;;ell //ella //vostè ;;;hagi llegat;;nosaltres ;;;hàgim llegat;;vosaltres ;;;hàgiu llegat;;ells //elles //vostès ;;;hagin llegat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes llegat;;tu ;;;haguessis llegat;;ell //ella //vostè ;;;hagués llegat;;nosaltres ;;;haguéssim llegat;;vosaltres ;;;haguéssiu llegat;;ells //elles //vostès ;;;haguessin llegat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver llegat;;tu ;;;vagis haver llegat;;ell //ella //vostè ;;;vagi haver llegat;;nosaltres ;;;vàgim haver llegat;;vosaltres ;;;vàgiu haver llegat;;ells //elles //vostès ;;;vagin haver llegat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;miri;;tu ;;;miris;;ell //ella //vostè ;;;mir
 Subjuntiu Imperfet;subjuntiu;;jo ;;;mirés;;tu ;;;miressis;;ell //ella //vostè ;;;mirés;;nosaltres ;;;miréssim;;vosaltres ;;;miréssiu;;ells //elles //vostès ;;;miressin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;mira;;(vostè) ;;;miri;;(nosaltres) ;;;mirem;;(vosaltres) ;;;mireu;;(vostès) ;;;mirin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;miris;;(vostè) ;no ;;miri;;(nosaltres) ;no ;;mirem;;(vosaltres) ;no ;;mireu;;(vostès) ;no ;;mirin
+Indicatiu Perfet;indicatiu;;jo ;;;he mirat;;tu ;;;has mirat;;ell //ella //vostè ;;;ha mirat;;nosaltres ;;;hem mirat;;vosaltres ;;;heu mirat;;ells //elles //vostès ;;;han mirat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig mirat;;tu ;;;vas mirat;;ell //ella //vostè ;;;va mirat;;nosaltres ;;;vam mirat;;vosaltres ;;;vau mirat;;ells //elles //vostès ;;;van mirat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia mirat;;tu ;;;havies mirat;;ell //ella //vostè ;;;havia mirat;;nosaltres ;;;havíem mirat;;vosaltres ;;;havíeu mirat;;ells //elles //vostès ;;;havien mirat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí mirat;;tu ;;;hagueres mirat;;ell //ella //vostè ;;;hagué mirat;;nosaltres ;;;haguérem mirat;;vosaltres ;;;haguéreu mirat;;ells //elles //vostès ;;;hagueren mirat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver mirat;;tu ;;;vas haver mirat;;ell //ella //vostè ;;;va haver mirat;;nosaltres ;;;vam haver mirat;;vosaltres ;;;vau haver mirat;;ells //elles //vostès ;;;van haver mirat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré mirat;;tu ;;;hauràs mirat;;ell //ella //vostè ;;;haurà mirat;;nosaltres ;;;haurem mirat;;vosaltres ;;;haureu mirat;;ells //elles //vostès ;;;hauran mirat
+Condicional Perfet;condicional;;jo ;;;hauria mirat;;tu ;;;hauries mirat;;ell //ella //vostè ;;;hauria mirat;;nosaltres ;;;hauríem mirat;;vosaltres ;;;hauríeu mirat;;ells //elles //vostès ;;;haurien mirat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi mirat;;tu ;;;vagis mirat;;ell //ella //vostè ;;;vagi mirat;;nosaltres ;;;vàgim mirat;;vosaltres ;;;vàgiu mirat;;ells //elles //vostès ;;;vagin mirat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi mirat;;tu ;;;hagis mirat;;ell //ella //vostè ;;;hagi mirat;;nosaltres ;;;hàgim mirat;;vosaltres ;;;hàgiu mirat;;ells //elles //vostès ;;;hagin mirat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes mirat;;tu ;;;haguessis mirat;;ell //ella //vostè ;;;hagués mirat;;nosaltres ;;;haguéssim mirat;;vosaltres ;;;haguéssiu mirat;;ells //elles //vostès ;;;haguessin mirat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver mirat;;tu ;;;vagis haver mirat;;ell //ella //vostè ;;;vagi haver mirat;;nosaltres ;;;vàgim haver mirat;;vosaltres ;;;vàgiu haver mirat;;ells //elles //vostès ;;;vagin haver mirat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

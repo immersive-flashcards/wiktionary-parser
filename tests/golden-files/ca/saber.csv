@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;sàpiga;;tu ;;;sàpigues;;ell //ella //vostè
 Subjuntiu Imperfet;subjuntiu;;jo ;;;sabés;;tu ;;;sabessis;;ell //ella //vostè ;;;sabés;;nosaltres ;;;sabéssim;;vosaltres ;;;sabéssiu;;ells //elles //vostès ;;;sabessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;sàpiga;;(vostè) ;;;sàpiga;;(nosaltres) ;;;sapiguem;;(vosaltres) ;;;sapigueu;;(vostès) ;;;sàpiguen
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;sàpigues;;(vostè) ;no ;;sàpiga;;(nosaltres) ;no ;;sapiguem;;(vosaltres) ;no ;;sapigueu;;(vostès) ;no ;;sàpiguen
+Indicatiu Perfet;indicatiu;;jo ;;;he sabut;;tu ;;;has sabut;;ell //ella //vostè ;;;ha sabut;;nosaltres ;;;hem sabut;;vosaltres ;;;heu sabut;;ells //elles //vostès ;;;han sabut
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig sabut;;tu ;;;vas sabut;;ell //ella //vostè ;;;va sabut;;nosaltres ;;;vam sabut;;vosaltres ;;;vau sabut;;ells //elles //vostès ;;;van sabut
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia sabut;;tu ;;;havies sabut;;ell //ella //vostè ;;;havia sabut;;nosaltres ;;;havíem sabut;;vosaltres ;;;havíeu sabut;;ells //elles //vostès ;;;havien sabut
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí sabut;;tu ;;;hagueres sabut;;ell //ella //vostè ;;;hagué sabut;;nosaltres ;;;haguérem sabut;;vosaltres ;;;haguéreu sabut;;ells //elles //vostès ;;;hagueren sabut
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver sabut;;tu ;;;vas haver sabut;;ell //ella //vostè ;;;va haver sabut;;nosaltres ;;;vam haver sabut;;vosaltres ;;;vau haver sabut;;ells //elles //vostès ;;;van haver sabut
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré sabut;;tu ;;;hauràs sabut;;ell //ella //vostè ;;;haurà sabut;;nosaltres ;;;haurem sabut;;vosaltres ;;;haureu sabut;;ells //elles //vostès ;;;hauran sabut
+Condicional Perfet;condicional;;jo ;;;hauria sabut;;tu ;;;hauries sabut;;ell //ella //vostè ;;;hauria sabut;;nosaltres ;;;hauríem sabut;;vosaltres ;;;hauríeu sabut;;ells //elles //vostès ;;;haurien sabut
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi sabut;;tu ;;;vagis sabut;;ell //ella //vostè ;;;vagi sabut;;nosaltres ;;;vàgim sabut;;vosaltres ;;;vàgiu sabut;;ells //elles //vostès ;;;vagin sabut
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi sabut;;tu ;;;hagis sabut;;ell //ella //vostè ;;;hagi sabut;;nosaltres ;;;hàgim sabut;;vosaltres ;;;hàgiu sabut;;ells //elles //vostès ;;;hagin sabut
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes sabut;;tu ;;;haguessis sabut;;ell //ella //vostè ;;;hagués sabut;;nosaltres ;;;haguéssim sabut;;vosaltres ;;;haguéssiu sabut;;ells //elles //vostès ;;;haguessin sabut
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver sabut;;tu ;;;vagis haver sabut;;ell //ella //vostè ;;;vagi haver sabut;;nosaltres ;;;vàgim haver sabut;;vosaltres ;;;vàgiu haver sabut;;ells //elles //vostès ;;;vagin haver sabut
 verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

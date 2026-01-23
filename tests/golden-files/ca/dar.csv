@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;;;;;;;;;;;;;;;;nosaltres ;;;dem;;vosaltres ;;;deu;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;des;;tu ;;;dessis;;ell //ella //vostè ;;;des;;nosaltres ;;;déssim;;vosaltres ;;;déssiu;;ells //elles //vostès ;;;dessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;;;;;;;;;;;(nosaltres) ;;;dem;;(vosaltres) ;;;deu;;;;;
 Imperatiu Negatiu;imperatiu;;;;;;;;;;;;;;;;;(nosaltres) ;no ;;dem;;(vosaltres) ;no ;;deu;;;;;
+Indicatiu Perfet;indicatiu;;jo ;;;he dat;;tu ;;;has dat;;ell //ella //vostè ;;;ha dat;;nosaltres ;;;hem dat;;vosaltres ;;;heu dat;;ells //elles //vostès ;;;han dat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig dat;;tu ;;;vas dat;;ell //ella //vostè ;;;va dat;;nosaltres ;;;vam dat;;vosaltres ;;;vau dat;;ells //elles //vostès ;;;van dat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia dat;;tu ;;;havies dat;;ell //ella //vostè ;;;havia dat;;nosaltres ;;;havíem dat;;vosaltres ;;;havíeu dat;;ells //elles //vostès ;;;havien dat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí dat;;tu ;;;hagueres dat;;ell //ella //vostè ;;;hagué dat;;nosaltres ;;;haguérem dat;;vosaltres ;;;haguéreu dat;;ells //elles //vostès ;;;hagueren dat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver dat;;tu ;;;vas haver dat;;ell //ella //vostè ;;;va haver dat;;nosaltres ;;;vam haver dat;;vosaltres ;;;vau haver dat;;ells //elles //vostès ;;;van haver dat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré dat;;tu ;;;hauràs dat;;ell //ella //vostè ;;;haurà dat;;nosaltres ;;;haurem dat;;vosaltres ;;;haureu dat;;ells //elles //vostès ;;;hauran dat
+Condicional Perfet;condicional;;jo ;;;hauria dat;;tu ;;;hauries dat;;ell //ella //vostè ;;;hauria dat;;nosaltres ;;;hauríem dat;;vosaltres ;;;hauríeu dat;;ells //elles //vostès ;;;haurien dat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi dat;;tu ;;;vagis dat;;ell //ella //vostè ;;;vagi dat;;nosaltres ;;;vàgim dat;;vosaltres ;;;vàgiu dat;;ells //elles //vostès ;;;vagin dat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi dat;;tu ;;;hagis dat;;ell //ella //vostè ;;;hagi dat;;nosaltres ;;;hàgim dat;;vosaltres ;;;hàgiu dat;;ells //elles //vostès ;;;hagin dat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes dat;;tu ;;;haguessis dat;;ell //ella //vostè ;;;hagués dat;;nosaltres ;;;haguéssim dat;;vosaltres ;;;haguéssiu dat;;ells //elles //vostès ;;;haguessin dat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver dat;;tu ;;;vagis haver dat;;ell //ella //vostè ;;;vagi haver dat;;nosaltres ;;;vàgim haver dat;;vosaltres ;;;vàgiu haver dat;;ells //elles //vostès ;;;vagin haver dat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

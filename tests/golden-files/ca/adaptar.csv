@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;adapti;;tu ;;;adaptis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;adaptés;;tu ;;;adaptessis;;ell //ella //vostè ;;;adaptés;;nosaltres ;;;adaptéssim;;vosaltres ;;;adaptéssiu;;ells //elles //vostès ;;;adaptessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;adapta;;(vostè) ;;;adapti;;(nosaltres) ;;;adaptem;;(vosaltres) ;;;adapteu;;(vostès) ;;;adaptin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;adaptis;;(vostè) ;no ;;adapti;;(nosaltres) ;no ;;adaptem;;(vosaltres) ;no ;;adapteu;;(vostès) ;no ;;adaptin
+Indicatiu Perfet;indicatiu;;jo ;;;he adaptat;;tu ;;;has adaptat;;ell //ella //vostè ;;;ha adaptat;;nosaltres ;;;hem adaptat;;vosaltres ;;;heu adaptat;;ells //elles //vostès ;;;han adaptat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig adaptat;;tu ;;;vas adaptat;;ell //ella //vostè ;;;va adaptat;;nosaltres ;;;vam adaptat;;vosaltres ;;;vau adaptat;;ells //elles //vostès ;;;van adaptat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia adaptat;;tu ;;;havies adaptat;;ell //ella //vostè ;;;havia adaptat;;nosaltres ;;;havíem adaptat;;vosaltres ;;;havíeu adaptat;;ells //elles //vostès ;;;havien adaptat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí adaptat;;tu ;;;hagueres adaptat;;ell //ella //vostè ;;;hagué adaptat;;nosaltres ;;;haguérem adaptat;;vosaltres ;;;haguéreu adaptat;;ells //elles //vostès ;;;hagueren adaptat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver adaptat;;tu ;;;vas haver adaptat;;ell //ella //vostè ;;;va haver adaptat;;nosaltres ;;;vam haver adaptat;;vosaltres ;;;vau haver adaptat;;ells //elles //vostès ;;;van haver adaptat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré adaptat;;tu ;;;hauràs adaptat;;ell //ella //vostè ;;;haurà adaptat;;nosaltres ;;;haurem adaptat;;vosaltres ;;;haureu adaptat;;ells //elles //vostès ;;;hauran adaptat
+Condicional Perfet;condicional;;jo ;;;hauria adaptat;;tu ;;;hauries adaptat;;ell //ella //vostè ;;;hauria adaptat;;nosaltres ;;;hauríem adaptat;;vosaltres ;;;hauríeu adaptat;;ells //elles //vostès ;;;haurien adaptat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi adaptat;;tu ;;;vagis adaptat;;ell //ella //vostè ;;;vagi adaptat;;nosaltres ;;;vàgim adaptat;;vosaltres ;;;vàgiu adaptat;;ells //elles //vostès ;;;vagin adaptat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi adaptat;;tu ;;;hagis adaptat;;ell //ella //vostè ;;;hagi adaptat;;nosaltres ;;;hàgim adaptat;;vosaltres ;;;hàgiu adaptat;;ells //elles //vostès ;;;hagin adaptat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes adaptat;;tu ;;;haguessis adaptat;;ell //ella //vostè ;;;hagués adaptat;;nosaltres ;;;haguéssim adaptat;;vosaltres ;;;haguéssiu adaptat;;ells //elles //vostès ;;;haguessin adaptat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver adaptat;;tu ;;;vagis haver adaptat;;ell //ella //vostè ;;;vagi haver adaptat;;nosaltres ;;;vàgim haver adaptat;;vosaltres ;;;vàgiu haver adaptat;;ells //elles //vostès ;;;vagin haver adaptat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

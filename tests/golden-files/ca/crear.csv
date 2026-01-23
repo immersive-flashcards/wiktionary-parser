@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;creï;;tu ;;;creïs;;ell //ella //vostè ;;;c
 Subjuntiu Imperfet;subjuntiu;;jo ;;;creés;;tu ;;;creessis;;ell //ella //vostè ;;;creés;;nosaltres ;;;creéssim;;vosaltres ;;;creéssiu;;ells //elles //vostès ;;;creessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;crea;;(vostè) ;;;creï;;(nosaltres) ;;;creem;;(vosaltres) ;;;creeu;;(vostès) ;;;creïn
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;creïs;;(vostè) ;no ;;creï;;(nosaltres) ;no ;;creem;;(vosaltres) ;no ;;creeu;;(vostès) ;no ;;creïn
+Indicatiu Perfet;indicatiu;;jo ;;;he creat;;tu ;;;has creat;;ell //ella //vostè ;;;ha creat;;nosaltres ;;;hem creat;;vosaltres ;;;heu creat;;ells //elles //vostès ;;;han creat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig creat;;tu ;;;vas creat;;ell //ella //vostè ;;;va creat;;nosaltres ;;;vam creat;;vosaltres ;;;vau creat;;ells //elles //vostès ;;;van creat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia creat;;tu ;;;havies creat;;ell //ella //vostè ;;;havia creat;;nosaltres ;;;havíem creat;;vosaltres ;;;havíeu creat;;ells //elles //vostès ;;;havien creat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí creat;;tu ;;;hagueres creat;;ell //ella //vostè ;;;hagué creat;;nosaltres ;;;haguérem creat;;vosaltres ;;;haguéreu creat;;ells //elles //vostès ;;;hagueren creat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver creat;;tu ;;;vas haver creat;;ell //ella //vostè ;;;va haver creat;;nosaltres ;;;vam haver creat;;vosaltres ;;;vau haver creat;;ells //elles //vostès ;;;van haver creat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré creat;;tu ;;;hauràs creat;;ell //ella //vostè ;;;haurà creat;;nosaltres ;;;haurem creat;;vosaltres ;;;haureu creat;;ells //elles //vostès ;;;hauran creat
+Condicional Perfet;condicional;;jo ;;;hauria creat;;tu ;;;hauries creat;;ell //ella //vostè ;;;hauria creat;;nosaltres ;;;hauríem creat;;vosaltres ;;;hauríeu creat;;ells //elles //vostès ;;;haurien creat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi creat;;tu ;;;vagis creat;;ell //ella //vostè ;;;vagi creat;;nosaltres ;;;vàgim creat;;vosaltres ;;;vàgiu creat;;ells //elles //vostès ;;;vagin creat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi creat;;tu ;;;hagis creat;;ell //ella //vostè ;;;hagi creat;;nosaltres ;;;hàgim creat;;vosaltres ;;;hàgiu creat;;ells //elles //vostès ;;;hagin creat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes creat;;tu ;;;haguessis creat;;ell //ella //vostè ;;;hagués creat;;nosaltres ;;;haguéssim creat;;vosaltres ;;;haguéssiu creat;;ells //elles //vostès ;;;haguessin creat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver creat;;tu ;;;vagis haver creat;;ell //ella //vostè ;;;vagi haver creat;;nosaltres ;;;vàgim haver creat;;vosaltres ;;;vàgiu haver creat;;ells //elles //vostès ;;;vagin haver creat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;solti;;tu ;;;soltis;;ell //ella //vostè ;;;s
 Subjuntiu Imperfet;subjuntiu;;jo ;;;soltés;;tu ;;;soltessis;;ell //ella //vostè ;;;soltés;;nosaltres ;;;soltéssim;;vosaltres ;;;soltéssiu;;ells //elles //vostès ;;;soltessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;solta;;(vostè) ;;;solti;;(nosaltres) ;;;soltem;;(vosaltres) ;;;solteu;;(vostès) ;;;soltin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;soltis;;(vostè) ;no ;;solti;;(nosaltres) ;no ;;soltem;;(vosaltres) ;no ;;solteu;;(vostès) ;no ;;soltin
+Indicatiu Perfet;indicatiu;;jo ;;;he soltat;;tu ;;;has soltat;;ell //ella //vostè ;;;ha soltat;;nosaltres ;;;hem soltat;;vosaltres ;;;heu soltat;;ells //elles //vostès ;;;han soltat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig soltat;;tu ;;;vas soltat;;ell //ella //vostè ;;;va soltat;;nosaltres ;;;vam soltat;;vosaltres ;;;vau soltat;;ells //elles //vostès ;;;van soltat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia soltat;;tu ;;;havies soltat;;ell //ella //vostè ;;;havia soltat;;nosaltres ;;;havíem soltat;;vosaltres ;;;havíeu soltat;;ells //elles //vostès ;;;havien soltat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí soltat;;tu ;;;hagueres soltat;;ell //ella //vostè ;;;hagué soltat;;nosaltres ;;;haguérem soltat;;vosaltres ;;;haguéreu soltat;;ells //elles //vostès ;;;hagueren soltat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver soltat;;tu ;;;vas haver soltat;;ell //ella //vostè ;;;va haver soltat;;nosaltres ;;;vam haver soltat;;vosaltres ;;;vau haver soltat;;ells //elles //vostès ;;;van haver soltat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré soltat;;tu ;;;hauràs soltat;;ell //ella //vostè ;;;haurà soltat;;nosaltres ;;;haurem soltat;;vosaltres ;;;haureu soltat;;ells //elles //vostès ;;;hauran soltat
+Condicional Perfet;condicional;;jo ;;;hauria soltat;;tu ;;;hauries soltat;;ell //ella //vostè ;;;hauria soltat;;nosaltres ;;;hauríem soltat;;vosaltres ;;;hauríeu soltat;;ells //elles //vostès ;;;haurien soltat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi soltat;;tu ;;;vagis soltat;;ell //ella //vostè ;;;vagi soltat;;nosaltres ;;;vàgim soltat;;vosaltres ;;;vàgiu soltat;;ells //elles //vostès ;;;vagin soltat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi soltat;;tu ;;;hagis soltat;;ell //ella //vostè ;;;hagi soltat;;nosaltres ;;;hàgim soltat;;vosaltres ;;;hàgiu soltat;;ells //elles //vostès ;;;hagin soltat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes soltat;;tu ;;;haguessis soltat;;ell //ella //vostè ;;;hagués soltat;;nosaltres ;;;haguéssim soltat;;vosaltres ;;;haguéssiu soltat;;ells //elles //vostès ;;;haguessin soltat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver soltat;;tu ;;;vagis haver soltat;;ell //ella //vostè ;;;vagi haver soltat;;nosaltres ;;;vàgim haver soltat;;vosaltres ;;;vàgiu haver soltat;;ells //elles //vostès ;;;vagin haver soltat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

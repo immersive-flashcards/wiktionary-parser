@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;brilli;;tu ;;;brillis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;brillés;;tu ;;;brillessis;;ell //ella //vostè ;;;brillés;;nosaltres ;;;brilléssim;;vosaltres ;;;brilléssiu;;ells //elles //vostès ;;;brillessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;brilla;;(vostè) ;;;brilli;;(nosaltres) ;;;brillem;;(vosaltres) ;;;brilleu;;(vostès) ;;;brillin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;brillis;;(vostè) ;no ;;brilli;;(nosaltres) ;no ;;brillem;;(vosaltres) ;no ;;brilleu;;(vostès) ;no ;;brillin
+Indicatiu Perfet;indicatiu;;jo ;;;he brillat;;tu ;;;has brillat;;ell //ella //vostè ;;;ha brillat;;nosaltres ;;;hem brillat;;vosaltres ;;;heu brillat;;ells //elles //vostès ;;;han brillat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig brillat;;tu ;;;vas brillat;;ell //ella //vostè ;;;va brillat;;nosaltres ;;;vam brillat;;vosaltres ;;;vau brillat;;ells //elles //vostès ;;;van brillat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia brillat;;tu ;;;havies brillat;;ell //ella //vostè ;;;havia brillat;;nosaltres ;;;havíem brillat;;vosaltres ;;;havíeu brillat;;ells //elles //vostès ;;;havien brillat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí brillat;;tu ;;;hagueres brillat;;ell //ella //vostè ;;;hagué brillat;;nosaltres ;;;haguérem brillat;;vosaltres ;;;haguéreu brillat;;ells //elles //vostès ;;;hagueren brillat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver brillat;;tu ;;;vas haver brillat;;ell //ella //vostè ;;;va haver brillat;;nosaltres ;;;vam haver brillat;;vosaltres ;;;vau haver brillat;;ells //elles //vostès ;;;van haver brillat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré brillat;;tu ;;;hauràs brillat;;ell //ella //vostè ;;;haurà brillat;;nosaltres ;;;haurem brillat;;vosaltres ;;;haureu brillat;;ells //elles //vostès ;;;hauran brillat
+Condicional Perfet;condicional;;jo ;;;hauria brillat;;tu ;;;hauries brillat;;ell //ella //vostè ;;;hauria brillat;;nosaltres ;;;hauríem brillat;;vosaltres ;;;hauríeu brillat;;ells //elles //vostès ;;;haurien brillat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi brillat;;tu ;;;vagis brillat;;ell //ella //vostè ;;;vagi brillat;;nosaltres ;;;vàgim brillat;;vosaltres ;;;vàgiu brillat;;ells //elles //vostès ;;;vagin brillat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi brillat;;tu ;;;hagis brillat;;ell //ella //vostè ;;;hagi brillat;;nosaltres ;;;hàgim brillat;;vosaltres ;;;hàgiu brillat;;ells //elles //vostès ;;;hagin brillat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes brillat;;tu ;;;haguessis brillat;;ell //ella //vostè ;;;hagués brillat;;nosaltres ;;;haguéssim brillat;;vosaltres ;;;haguéssiu brillat;;ells //elles //vostès ;;;haguessin brillat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver brillat;;tu ;;;vagis haver brillat;;ell //ella //vostè ;;;vagi haver brillat;;nosaltres ;;;vàgim haver brillat;;vosaltres ;;;vàgiu haver brillat;;ells //elles //vostès ;;;vagin haver brillat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

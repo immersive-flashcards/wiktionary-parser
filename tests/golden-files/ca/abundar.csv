@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;abundi;;tu ;;;abundis;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;abundés;;tu ;;;abundessis;;ell //ella //vostè ;;;abundés;;nosaltres ;;;abundéssim;;vosaltres ;;;abundéssiu;;ells //elles //vostès ;;;abundessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;abunda;;(vostè) ;;;abundi;;(nosaltres) ;;;abundem;;(vosaltres) ;;;abundeu;;(vostès) ;;;abundin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;abundis;;(vostè) ;no ;;abundi;;(nosaltres) ;no ;;abundem;;(vosaltres) ;no ;;abundeu;;(vostès) ;no ;;abundin
+Indicatiu Perfet;indicatiu;;jo ;;;he abundat;;tu ;;;has abundat;;ell //ella //vostè ;;;ha abundat;;nosaltres ;;;hem abundat;;vosaltres ;;;heu abundat;;ells //elles //vostès ;;;han abundat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig abundat;;tu ;;;vas abundat;;ell //ella //vostè ;;;va abundat;;nosaltres ;;;vam abundat;;vosaltres ;;;vau abundat;;ells //elles //vostès ;;;van abundat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia abundat;;tu ;;;havies abundat;;ell //ella //vostè ;;;havia abundat;;nosaltres ;;;havíem abundat;;vosaltres ;;;havíeu abundat;;ells //elles //vostès ;;;havien abundat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí abundat;;tu ;;;hagueres abundat;;ell //ella //vostè ;;;hagué abundat;;nosaltres ;;;haguérem abundat;;vosaltres ;;;haguéreu abundat;;ells //elles //vostès ;;;hagueren abundat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver abundat;;tu ;;;vas haver abundat;;ell //ella //vostè ;;;va haver abundat;;nosaltres ;;;vam haver abundat;;vosaltres ;;;vau haver abundat;;ells //elles //vostès ;;;van haver abundat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré abundat;;tu ;;;hauràs abundat;;ell //ella //vostè ;;;haurà abundat;;nosaltres ;;;haurem abundat;;vosaltres ;;;haureu abundat;;ells //elles //vostès ;;;hauran abundat
+Condicional Perfet;condicional;;jo ;;;hauria abundat;;tu ;;;hauries abundat;;ell //ella //vostè ;;;hauria abundat;;nosaltres ;;;hauríem abundat;;vosaltres ;;;hauríeu abundat;;ells //elles //vostès ;;;haurien abundat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi abundat;;tu ;;;vagis abundat;;ell //ella //vostè ;;;vagi abundat;;nosaltres ;;;vàgim abundat;;vosaltres ;;;vàgiu abundat;;ells //elles //vostès ;;;vagin abundat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi abundat;;tu ;;;hagis abundat;;ell //ella //vostè ;;;hagi abundat;;nosaltres ;;;hàgim abundat;;vosaltres ;;;hàgiu abundat;;ells //elles //vostès ;;;hagin abundat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes abundat;;tu ;;;haguessis abundat;;ell //ella //vostè ;;;hagués abundat;;nosaltres ;;;haguéssim abundat;;vosaltres ;;;haguéssiu abundat;;ells //elles //vostès ;;;haguessin abundat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver abundat;;tu ;;;vagis haver abundat;;ell //ella //vostè ;;;vagi haver abundat;;nosaltres ;;;vàgim haver abundat;;vosaltres ;;;vàgiu haver abundat;;ells //elles //vostès ;;;vagin haver abundat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

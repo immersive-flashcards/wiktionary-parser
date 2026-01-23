@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;compri;;tu ;;;compris;;ell //ella //vostè ;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;comprés;;tu ;;;compressis;;ell //ella //vostè ;;;comprés;;nosaltres ;;;compréssim;;vosaltres ;;;compréssiu;;ells //elles //vostès ;;;compressin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;compra;;(vostè) ;;;compri;;(nosaltres) ;;;comprem;;(vosaltres) ;;;compreu;;(vostès) ;;;comprin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;compris;;(vostè) ;no ;;compri;;(nosaltres) ;no ;;comprem;;(vosaltres) ;no ;;compreu;;(vostès) ;no ;;comprin
+Indicatiu Perfet;indicatiu;;jo ;;;he comprat;;tu ;;;has comprat;;ell //ella //vostè ;;;ha comprat;;nosaltres ;;;hem comprat;;vosaltres ;;;heu comprat;;ells //elles //vostès ;;;han comprat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig comprat;;tu ;;;vas comprat;;ell //ella //vostè ;;;va comprat;;nosaltres ;;;vam comprat;;vosaltres ;;;vau comprat;;ells //elles //vostès ;;;van comprat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia comprat;;tu ;;;havies comprat;;ell //ella //vostè ;;;havia comprat;;nosaltres ;;;havíem comprat;;vosaltres ;;;havíeu comprat;;ells //elles //vostès ;;;havien comprat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí comprat;;tu ;;;hagueres comprat;;ell //ella //vostè ;;;hagué comprat;;nosaltres ;;;haguérem comprat;;vosaltres ;;;haguéreu comprat;;ells //elles //vostès ;;;hagueren comprat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver comprat;;tu ;;;vas haver comprat;;ell //ella //vostè ;;;va haver comprat;;nosaltres ;;;vam haver comprat;;vosaltres ;;;vau haver comprat;;ells //elles //vostès ;;;van haver comprat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré comprat;;tu ;;;hauràs comprat;;ell //ella //vostè ;;;haurà comprat;;nosaltres ;;;haurem comprat;;vosaltres ;;;haureu comprat;;ells //elles //vostès ;;;hauran comprat
+Condicional Perfet;condicional;;jo ;;;hauria comprat;;tu ;;;hauries comprat;;ell //ella //vostè ;;;hauria comprat;;nosaltres ;;;hauríem comprat;;vosaltres ;;;hauríeu comprat;;ells //elles //vostès ;;;haurien comprat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi comprat;;tu ;;;vagis comprat;;ell //ella //vostè ;;;vagi comprat;;nosaltres ;;;vàgim comprat;;vosaltres ;;;vàgiu comprat;;ells //elles //vostès ;;;vagin comprat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi comprat;;tu ;;;hagis comprat;;ell //ella //vostè ;;;hagi comprat;;nosaltres ;;;hàgim comprat;;vosaltres ;;;hàgiu comprat;;ells //elles //vostès ;;;hagin comprat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes comprat;;tu ;;;haguessis comprat;;ell //ella //vostè ;;;hagués comprat;;nosaltres ;;;haguéssim comprat;;vosaltres ;;;haguéssiu comprat;;ells //elles //vostès ;;;haguessin comprat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver comprat;;tu ;;;vagis haver comprat;;ell //ella //vostè ;;;vagi haver comprat;;nosaltres ;;;vàgim haver comprat;;vosaltres ;;;vàgiu haver comprat;;ells //elles //vostès ;;;vagin haver comprat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;parteixi;;tu ;;;parteixis;;ell //ella //vost�
 Subjuntiu Imperfet;subjuntiu;;jo ;;;partís;;tu ;;;partissis;;ell //ella //vostè ;;;partís;;nosaltres ;;;partíssim;;vosaltres ;;;partíssiu;;ells //elles //vostès ;;;partissin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;parteix;;(vostè) ;;;parteixi;;(nosaltres) ;;;partim;;(vosaltres) ;;;partiu;;(vostès) ;;;parteixin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;parteixis;;(vostè) ;no ;;parteixi;;(nosaltres) ;no ;;partim;;(vosaltres) ;no ;;partiu;;(vostès) ;no ;;parteixin
+Indicatiu Perfet;indicatiu;;jo ;;;he partit;;tu ;;;has partit;;ell //ella //vostè ;;;ha partit;;nosaltres ;;;hem partit;;vosaltres ;;;heu partit;;ells //elles //vostès ;;;han partit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig partit;;tu ;;;vas partit;;ell //ella //vostè ;;;va partit;;nosaltres ;;;vam partit;;vosaltres ;;;vau partit;;ells //elles //vostès ;;;van partit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia partit;;tu ;;;havies partit;;ell //ella //vostè ;;;havia partit;;nosaltres ;;;havíem partit;;vosaltres ;;;havíeu partit;;ells //elles //vostès ;;;havien partit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí partit;;tu ;;;hagueres partit;;ell //ella //vostè ;;;hagué partit;;nosaltres ;;;haguérem partit;;vosaltres ;;;haguéreu partit;;ells //elles //vostès ;;;hagueren partit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver partit;;tu ;;;vas haver partit;;ell //ella //vostè ;;;va haver partit;;nosaltres ;;;vam haver partit;;vosaltres ;;;vau haver partit;;ells //elles //vostès ;;;van haver partit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré partit;;tu ;;;hauràs partit;;ell //ella //vostè ;;;haurà partit;;nosaltres ;;;haurem partit;;vosaltres ;;;haureu partit;;ells //elles //vostès ;;;hauran partit
+Condicional Perfet;condicional;;jo ;;;hauria partit;;tu ;;;hauries partit;;ell //ella //vostè ;;;hauria partit;;nosaltres ;;;hauríem partit;;vosaltres ;;;hauríeu partit;;ells //elles //vostès ;;;haurien partit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi partit;;tu ;;;vagis partit;;ell //ella //vostè ;;;vagi partit;;nosaltres ;;;vàgim partit;;vosaltres ;;;vàgiu partit;;ells //elles //vostès ;;;vagin partit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi partit;;tu ;;;hagis partit;;ell //ella //vostè ;;;hagi partit;;nosaltres ;;;hàgim partit;;vosaltres ;;;hàgiu partit;;ells //elles //vostès ;;;hagin partit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes partit;;tu ;;;haguessis partit;;ell //ella //vostè ;;;hagués partit;;nosaltres ;;;haguéssim partit;;vosaltres ;;;haguéssiu partit;;ells //elles //vostès ;;;haguessin partit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver partit;;tu ;;;vagis haver partit;;ell //ella //vostè ;;;vagi haver partit;;nosaltres ;;;vàgim haver partit;;vosaltres ;;;vàgiu haver partit;;ells //elles //vostès ;;;vagin haver partit
 verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

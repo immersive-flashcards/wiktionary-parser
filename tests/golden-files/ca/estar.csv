@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;estigui;;tu ;;;estiguis;;ell //ella //vostè 
 Subjuntiu Imperfet;subjuntiu;;jo ;;;estigués;;tu ;;;estiguessis;;ell //ella //vostè ;;;estigués;;nosaltres ;;;estiguéssim;;vosaltres ;;;estiguéssiu;;ells //elles //vostès ;;;estiguessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;estigues;;(vostè) ;;;estigui;;(nosaltres) ;;;estiguem;;(vosaltres) ;;;estigueu;;(vostès) ;;;estiguin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;estiguis;;(vostè) ;no ;;estigui;;(nosaltres) ;no ;;estiguem;;(vosaltres) ;no ;;estigueu;;(vostès) ;no ;;estiguin
+Indicatiu Perfet;indicatiu;;jo ;;;he estat;;tu ;;;has estat;;ell //ella //vostè ;;;ha estat;;nosaltres ;;;hem estat;;vosaltres ;;;heu estat;;ells //elles //vostès ;;;han estat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig estat;;tu ;;;vas estat;;ell //ella //vostè ;;;va estat;;nosaltres ;;;vam estat;;vosaltres ;;;vau estat;;ells //elles //vostès ;;;van estat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia estat;;tu ;;;havies estat;;ell //ella //vostè ;;;havia estat;;nosaltres ;;;havíem estat;;vosaltres ;;;havíeu estat;;ells //elles //vostès ;;;havien estat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí estat;;tu ;;;hagueres estat;;ell //ella //vostè ;;;hagué estat;;nosaltres ;;;haguérem estat;;vosaltres ;;;haguéreu estat;;ells //elles //vostès ;;;hagueren estat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver estat;;tu ;;;vas haver estat;;ell //ella //vostè ;;;va haver estat;;nosaltres ;;;vam haver estat;;vosaltres ;;;vau haver estat;;ells //elles //vostès ;;;van haver estat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré estat;;tu ;;;hauràs estat;;ell //ella //vostè ;;;haurà estat;;nosaltres ;;;haurem estat;;vosaltres ;;;haureu estat;;ells //elles //vostès ;;;hauran estat
+Condicional Perfet;condicional;;jo ;;;hauria estat;;tu ;;;hauries estat;;ell //ella //vostè ;;;hauria estat;;nosaltres ;;;hauríem estat;;vosaltres ;;;hauríeu estat;;ells //elles //vostès ;;;haurien estat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi estat;;tu ;;;vagis estat;;ell //ella //vostè ;;;vagi estat;;nosaltres ;;;vàgim estat;;vosaltres ;;;vàgiu estat;;ells //elles //vostès ;;;vagin estat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi estat;;tu ;;;hagis estat;;ell //ella //vostè ;;;hagi estat;;nosaltres ;;;hàgim estat;;vosaltres ;;;hàgiu estat;;ells //elles //vostès ;;;hagin estat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes estat;;tu ;;;haguessis estat;;ell //ella //vostè ;;;hagués estat;;nosaltres ;;;haguéssim estat;;vosaltres ;;;haguéssiu estat;;ells //elles //vostès ;;;haguessin estat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver estat;;tu ;;;vagis haver estat;;ell //ella //vostè ;;;vagi haver estat;;nosaltres ;;;vàgim haver estat;;vosaltres ;;;vàgiu haver estat;;ells //elles //vostès ;;;vagin haver estat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;càpiga;;tu ;;;càpigues;;ell //ella //vostè
 Subjuntiu Imperfet;subjuntiu;;jo ;;;cabés;;tu ;;;cabessis;;ell //ella //vostè ;;;cabés;;nosaltres ;;;cabéssim;;vosaltres ;;;cabéssiu;;ells //elles //vostès ;;;cabessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;cap;;(vostè) ;;;càpiga;;(nosaltres) ;;;capiguem;;(vosaltres) ;;;cabeu;;(vostès) ;;;càpiguen
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;càpigues;;(vostè) ;no ;;càpiga;;(nosaltres) ;no ;;capiguem;;(vosaltres) ;no ;;capigueu;;(vostès) ;no ;;càpiguen
+Indicatiu Perfet;indicatiu;;jo ;;;he cabut;;tu ;;;has cabut;;ell //ella //vostè ;;;ha cabut;;nosaltres ;;;hem cabut;;vosaltres ;;;heu cabut;;ells //elles //vostès ;;;han cabut
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig cabut;;tu ;;;vas cabut;;ell //ella //vostè ;;;va cabut;;nosaltres ;;;vam cabut;;vosaltres ;;;vau cabut;;ells //elles //vostès ;;;van cabut
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia cabut;;tu ;;;havies cabut;;ell //ella //vostè ;;;havia cabut;;nosaltres ;;;havíem cabut;;vosaltres ;;;havíeu cabut;;ells //elles //vostès ;;;havien cabut
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí cabut;;tu ;;;hagueres cabut;;ell //ella //vostè ;;;hagué cabut;;nosaltres ;;;haguérem cabut;;vosaltres ;;;haguéreu cabut;;ells //elles //vostès ;;;hagueren cabut
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver cabut;;tu ;;;vas haver cabut;;ell //ella //vostè ;;;va haver cabut;;nosaltres ;;;vam haver cabut;;vosaltres ;;;vau haver cabut;;ells //elles //vostès ;;;van haver cabut
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré cabut;;tu ;;;hauràs cabut;;ell //ella //vostè ;;;haurà cabut;;nosaltres ;;;haurem cabut;;vosaltres ;;;haureu cabut;;ells //elles //vostès ;;;hauran cabut
+Condicional Perfet;condicional;;jo ;;;hauria cabut;;tu ;;;hauries cabut;;ell //ella //vostè ;;;hauria cabut;;nosaltres ;;;hauríem cabut;;vosaltres ;;;hauríeu cabut;;ells //elles //vostès ;;;haurien cabut
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi cabut;;tu ;;;vagis cabut;;ell //ella //vostè ;;;vagi cabut;;nosaltres ;;;vàgim cabut;;vosaltres ;;;vàgiu cabut;;ells //elles //vostès ;;;vagin cabut
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi cabut;;tu ;;;hagis cabut;;ell //ella //vostè ;;;hagi cabut;;nosaltres ;;;hàgim cabut;;vosaltres ;;;hàgiu cabut;;ells //elles //vostès ;;;hagin cabut
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes cabut;;tu ;;;haguessis cabut;;ell //ella //vostè ;;;hagués cabut;;nosaltres ;;;haguéssim cabut;;vosaltres ;;;haguéssiu cabut;;ells //elles //vostès ;;;haguessin cabut
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver cabut;;tu ;;;vagis haver cabut;;ell //ella //vostè ;;;vagi haver cabut;;nosaltres ;;;vàgim haver cabut;;vosaltres ;;;vàgiu haver cabut;;ells //elles //vostès ;;;vagin haver cabut
 verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

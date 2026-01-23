@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;abusi;;tu ;;;abusis;;ell //ella //vostè ;;;a
 Subjuntiu Imperfet;subjuntiu;;jo ;;;abusés;;tu ;;;abusessis;;ell //ella //vostè ;;;abusés;;nosaltres ;;;abuséssim;;vosaltres ;;;abuséssiu;;ells //elles //vostès ;;;abusessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;abusa;;(vostè) ;;;abusi;;(nosaltres) ;;;abusem;;(vosaltres) ;;;abuseu;;(vostès) ;;;abusin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;abusis;;(vostè) ;no ;;abusi;;(nosaltres) ;no ;;abusem;;(vosaltres) ;no ;;abuseu;;(vostès) ;no ;;abusin
+Indicatiu Perfet;indicatiu;;jo ;;;he abusat;;tu ;;;has abusat;;ell //ella //vostè ;;;ha abusat;;nosaltres ;;;hem abusat;;vosaltres ;;;heu abusat;;ells //elles //vostès ;;;han abusat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig abusat;;tu ;;;vas abusat;;ell //ella //vostè ;;;va abusat;;nosaltres ;;;vam abusat;;vosaltres ;;;vau abusat;;ells //elles //vostès ;;;van abusat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia abusat;;tu ;;;havies abusat;;ell //ella //vostè ;;;havia abusat;;nosaltres ;;;havíem abusat;;vosaltres ;;;havíeu abusat;;ells //elles //vostès ;;;havien abusat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí abusat;;tu ;;;hagueres abusat;;ell //ella //vostè ;;;hagué abusat;;nosaltres ;;;haguérem abusat;;vosaltres ;;;haguéreu abusat;;ells //elles //vostès ;;;hagueren abusat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver abusat;;tu ;;;vas haver abusat;;ell //ella //vostè ;;;va haver abusat;;nosaltres ;;;vam haver abusat;;vosaltres ;;;vau haver abusat;;ells //elles //vostès ;;;van haver abusat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré abusat;;tu ;;;hauràs abusat;;ell //ella //vostè ;;;haurà abusat;;nosaltres ;;;haurem abusat;;vosaltres ;;;haureu abusat;;ells //elles //vostès ;;;hauran abusat
+Condicional Perfet;condicional;;jo ;;;hauria abusat;;tu ;;;hauries abusat;;ell //ella //vostè ;;;hauria abusat;;nosaltres ;;;hauríem abusat;;vosaltres ;;;hauríeu abusat;;ells //elles //vostès ;;;haurien abusat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi abusat;;tu ;;;vagis abusat;;ell //ella //vostè ;;;vagi abusat;;nosaltres ;;;vàgim abusat;;vosaltres ;;;vàgiu abusat;;ells //elles //vostès ;;;vagin abusat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi abusat;;tu ;;;hagis abusat;;ell //ella //vostè ;;;hagi abusat;;nosaltres ;;;hàgim abusat;;vosaltres ;;;hàgiu abusat;;ells //elles //vostès ;;;hagin abusat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes abusat;;tu ;;;haguessis abusat;;ell //ella //vostè ;;;hagués abusat;;nosaltres ;;;haguéssim abusat;;vosaltres ;;;haguéssiu abusat;;ells //elles //vostès ;;;haguessin abusat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver abusat;;tu ;;;vagis haver abusat;;ell //ella //vostè ;;;vagi haver abusat;;nosaltres ;;;vàgim haver abusat;;vosaltres ;;;vàgiu haver abusat;;ells //elles //vostès ;;;vagin haver abusat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

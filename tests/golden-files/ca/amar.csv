@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;ami;;tu ;;;amis;;ell //ella //vostè ;;;ami;;
 Subjuntiu Imperfet;subjuntiu;;jo ;;;amés;;tu ;;;amessis;;ell //ella //vostè ;;;amés;;nosaltres ;;;améssim;;vosaltres ;;;améssiu;;ells //elles //vostès ;;;amessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;ama;;(vostè) ;;;ami;;(nosaltres) ;;;amem;;(vosaltres) ;;;ameu;;(vostès) ;;;amin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;amis;;(vostè) ;no ;;ami;;(nosaltres) ;no ;;amem;;(vosaltres) ;no ;;ameu;;(vostès) ;no ;;amin
+Indicatiu Perfet;indicatiu;;jo ;;;he amat;;tu ;;;has amat;;ell //ella //vostè ;;;ha amat;;nosaltres ;;;hem amat;;vosaltres ;;;heu amat;;ells //elles //vostès ;;;han amat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig amat;;tu ;;;vas amat;;ell //ella //vostè ;;;va amat;;nosaltres ;;;vam amat;;vosaltres ;;;vau amat;;ells //elles //vostès ;;;van amat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia amat;;tu ;;;havies amat;;ell //ella //vostè ;;;havia amat;;nosaltres ;;;havíem amat;;vosaltres ;;;havíeu amat;;ells //elles //vostès ;;;havien amat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí amat;;tu ;;;hagueres amat;;ell //ella //vostè ;;;hagué amat;;nosaltres ;;;haguérem amat;;vosaltres ;;;haguéreu amat;;ells //elles //vostès ;;;hagueren amat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver amat;;tu ;;;vas haver amat;;ell //ella //vostè ;;;va haver amat;;nosaltres ;;;vam haver amat;;vosaltres ;;;vau haver amat;;ells //elles //vostès ;;;van haver amat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré amat;;tu ;;;hauràs amat;;ell //ella //vostè ;;;haurà amat;;nosaltres ;;;haurem amat;;vosaltres ;;;haureu amat;;ells //elles //vostès ;;;hauran amat
+Condicional Perfet;condicional;;jo ;;;hauria amat;;tu ;;;hauries amat;;ell //ella //vostè ;;;hauria amat;;nosaltres ;;;hauríem amat;;vosaltres ;;;hauríeu amat;;ells //elles //vostès ;;;haurien amat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi amat;;tu ;;;vagis amat;;ell //ella //vostè ;;;vagi amat;;nosaltres ;;;vàgim amat;;vosaltres ;;;vàgiu amat;;ells //elles //vostès ;;;vagin amat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi amat;;tu ;;;hagis amat;;ell //ella //vostè ;;;hagi amat;;nosaltres ;;;hàgim amat;;vosaltres ;;;hàgiu amat;;ells //elles //vostès ;;;hagin amat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes amat;;tu ;;;haguessis amat;;ell //ella //vostè ;;;hagués amat;;nosaltres ;;;haguéssim amat;;vosaltres ;;;haguéssiu amat;;ells //elles //vostès ;;;haguessin amat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver amat;;tu ;;;vagis haver amat;;ell //ella //vostè ;;;vagi haver amat;;nosaltres ;;;vàgim haver amat;;vosaltres ;;;vàgiu haver amat;;ells //elles //vostès ;;;vagin haver amat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

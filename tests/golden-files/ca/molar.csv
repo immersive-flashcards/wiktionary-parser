@@ -11,6 +11,17 @@ Subjuntiu Present;subjuntiu;;jo ;;;moli;;tu ;;;molis;;ell //ella //vostè ;;;mol
 Subjuntiu Imperfet;subjuntiu;;jo ;;;molés;;tu ;;;molessis;;ell //ella //vostè ;;;molés;;nosaltres ;;;moléssim;;vosaltres ;;;moléssiu;;ells //elles //vostès ;;;molessin
 Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;mola;;(vostè) ;;;moli;;(nosaltres) ;;;molem;;(vosaltres) ;;;moleu;;(vostès) ;;;molin
 Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;molis;;(vostè) ;no ;;moli;;(nosaltres) ;no ;;molem;;(vosaltres) ;no ;;moleu;;(vostès) ;no ;;molin
+Indicatiu Perfet;indicatiu;;jo ;;;he molat;;tu ;;;has molat;;ell //ella //vostè ;;;ha molat;;nosaltres ;;;hem molat;;vosaltres ;;;heu molat;;ells //elles //vostès ;;;han molat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig molat;;tu ;;;vas molat;;ell //ella //vostè ;;;va molat;;nosaltres ;;;vam molat;;vosaltres ;;;vau molat;;ells //elles //vostès ;;;van molat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia molat;;tu ;;;havies molat;;ell //ella //vostè ;;;havia molat;;nosaltres ;;;havíem molat;;vosaltres ;;;havíeu molat;;ells //elles //vostès ;;;havien molat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí molat;;tu ;;;hagueres molat;;ell //ella //vostè ;;;hagué molat;;nosaltres ;;;haguérem molat;;vosaltres ;;;haguéreu molat;;ells //elles //vostès ;;;hagueren molat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver molat;;tu ;;;vas haver molat;;ell //ella //vostè ;;;va haver molat;;nosaltres ;;;vam haver molat;;vosaltres ;;;vau haver molat;;ells //elles //vostès ;;;van haver molat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré molat;;tu ;;;hauràs molat;;ell //ella //vostè ;;;haurà molat;;nosaltres ;;;haurem molat;;vosaltres ;;;haureu molat;;ells //elles //vostès ;;;hauran molat
+Condicional Perfet;condicional;;jo ;;;hauria molat;;tu ;;;hauries molat;;ell //ella //vostè ;;;hauria molat;;nosaltres ;;;hauríem molat;;vosaltres ;;;hauríeu molat;;ells //elles //vostès ;;;haurien molat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi molat;;tu ;;;vagis molat;;ell //ella //vostè ;;;vagi molat;;nosaltres ;;;vàgim molat;;vosaltres ;;;vàgiu molat;;ells //elles //vostès ;;;vagin molat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi molat;;tu ;;;hagis molat;;ell //ella //vostè ;;;hagi molat;;nosaltres ;;;hàgim molat;;vosaltres ;;;hàgiu molat;;ells //elles //vostès ;;;hagin molat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes molat;;tu ;;;haguessis molat;;ell //ella //vostè ;;;hagués molat;;nosaltres ;;;haguéssim molat;;vosaltres ;;;haguéssiu molat;;ells //elles //vostès ;;;haguessin molat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver molat;;tu ;;;vagis haver molat;;ell //ella //vostè ;;;vagi haver molat;;nosaltres ;;;vàgim haver molat;;vosaltres ;;;vàgiu haver molat;;ells //elles //vostès ;;;vagin haver molat
 verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -56,29 +56,9 @@ person-data:
     - [ "us " ]
     - [ "se ", "s'" ]
 
-# TODO: update to Catalan categories
 category_source:
   path: ["senses", "*", "categories"]
   item: {key: "name"}  # items are dicts, take c["name"]
-
-category_data:
-  transitivity:
-    "ES:Verbos intransitivos": "intransitivo"
-    "ES:Verbos transitivos": "transitivo"
-
-  verb-group:
-    "ES:Verbos de la primera conjugación": "primera conjugación"
-    "ES:Verbos de la segunda conjugación": "segunda conjugación"
-    "ES:Verbos de la tercera conjugación": "tercera conjugación"
-
-  regularity:
-    "ES:Verbos irregulares": "irregular"
-    "ES:Verbos regulares": "regular"
-
-complex_category_data:
-  paradigma:
-    startswith: "ES:Verbos del paradigma "
-
 
 forms:
     "Infinitiu":

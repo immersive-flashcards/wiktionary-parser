@@ -17,6 +17,10 @@ LANG_CONFIGS = {
         "detector": "category_contains",
         "category": "ES:Verbos",
     },
+    "fr-fr": {
+        "lang": "Français",
+        "detector": "forms_infinitive_lemma",
+    },
 }
 
 

@@ -217,9 +217,39 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                 else:
                     row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("pronouns").get(i)
 
-        # Case 3: If Kaikki files have no tags indicating the precise person (e.g. French Wiktionary)
+        # Case 3: Handle order-based conjugations - if Kaikki files have no tags indicating the precise person (e.g. French Wiktionary)
         else:
-            pass
+            form_tags = form.get("tags") or []
+            f_list = extract_from_spec(entry, form, [form_tags])
+
+            if not f_list:
+                continue
+            print(f_list)
+
+            # Naive way first: just use first 6 conjugations
+            for i in range(len(lang_cfg.person_data.get("pronouns"))):
+
+                # Split of conjunction if applicable (for French Subjonctif forms)
+                for conjunction in ["que ", "qu’"]:  # Wiktionary uses a ’ instead of a normal ' apostrophe - I've decided to keep it
+                    if f_list[i].startswith(conjunction):
+                        row_to_add[f"conjunction-{i+1}"] = conjunction
+                        f_list[i] = f_list[i][len(conjunction) :]
+                        break
+
+                # Split off personal pronouns - either with space or with apostrophe (je suis or j'arrive)
+                for delim in ["’", " "]:
+                    try:
+                        p, c = f_list[i].split(delim, 1)
+                        p += delim
+                        break
+                    except ValueError:
+                        p, c = None, None
+
+                row_to_add[f"pronoun-{i+1}"], f_list[i] = p, c
+                row_to_add[f"conjugation-{i+1}"] = f_list[i]
+
+            if len(f_list) != 6:  # Flag overloaded tags for later handling
+                print(f"{lemma} has {len(f_list)} elements")
 
         _merge_identical_verb_forms(lang_cfg, row_to_add)
 

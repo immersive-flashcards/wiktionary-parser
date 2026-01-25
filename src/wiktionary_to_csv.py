@@ -167,13 +167,13 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
     # Add verb form rows
     person_data = lang_cfg.person_data
-    person_map = person_data["person_map"]
+    person_map = person_data.get("person_map")
     refl_pronouns_by_i = person_data.get("reflexive-pronouns", [])
 
     for row_key, form in lang_cfg.forms.items():
         row_to_add = {"key": row_key, "mode": form["mode"]}
 
-        # Handle base forms (infinitive, gerund, participle)
+        # Case 1: Handle base forms (infinitive, gerund, participle)
         if form.get("type") == "base_form":
             f = extract_from_spec(entry, form, [form.get("tags")])
             row_to_add["conjunction-1"] = f[0] if f else ""
@@ -181,30 +181,31 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
             rows_out.append(row_to_add)
             continue
 
-        # Handle tag-based conjugations
-        form_tags = form.get("tags") or []
-        negation = form.get("negation")
+        # Case 2: Handle tag-based conjugations
+        if person_map:
+            form_tags = form.get("tags") or []
+            negation = form.get("negation")
 
-        for i, person_alts in person_map.items():
-            tag_alts = [form_tags + alt for alt in person_alts]
-            f_list = extract_from_spec(entry, form, tag_alts)
-            if not f_list:
-                continue
+            for i, person_alts in person_map.items():
+                tag_alts = [form_tags + alt for alt in person_alts]
+                f_list = extract_from_spec(entry, form, tag_alts)
+                if not f_list:
+                    continue
 
-            # Split off negation if present and indicated by config
-            if negation:
-                for idx, f in enumerate(f_list):
-                    if f.startswith(negation):
-                        f_list[idx] = f[len(negation) :]
-                        row_to_add[f"negation-{i}"] = negation
+                # Split off negation if present and indicated by config
+                if negation:
+                    for idx, f in enumerate(f_list):
+                        if f.startswith(negation):
+                            f_list[idx] = f[len(negation) :]
+                            row_to_add[f"negation-{i}"] = negation
 
-            # Split off reflexive pronoun if present
-            reflexive_alts = refl_pronouns_by_i[i - 1] if i - 1 < len(refl_pronouns_by_i) else []
-            for rp in reflexive_alts:
-                for idx, f in enumerate(f_list):
-                    if f.startswith(rp):
-                        f_list[idx] = f[len(rp) :]
-                        row_to_add[f"refl_pronoun-{i}"] = rp
+                # Split off reflexive pronoun if present
+                reflexive_alts = refl_pronouns_by_i[i - 1] if i - 1 < len(refl_pronouns_by_i) else []
+                for rp in reflexive_alts:
+                    for idx, f in enumerate(f_list):
+                        if f.startswith(rp):
+                            f_list[idx] = f[len(rp) :]
+                            row_to_add[f"refl_pronoun-{i}"] = rp
 
                 # Join multiple equivalent forms with " / "
                 conjugation = f_list[0] if len(f_list) == 1 else " / ".join(f_list)
@@ -215,6 +216,10 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                     row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("imperative-pronouns").get(i)
                 else:
                     row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("pronouns").get(i)
+
+        # Case 3: If Kaikki files have no tags indicating the precise person (e.g. French Wiktionary)
+        else:
+            pass
 
         _merge_identical_verb_forms(lang_cfg, row_to_add)
 

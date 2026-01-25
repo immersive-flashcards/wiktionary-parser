@@ -1,0 +1,88 @@
+lang_code: "fr"
+
+infinitives_jsonl: "data/infinitive-dumps/fr-fr-infinitives.jsonl.zst"
+
+meta-data:
+  auxiliary: french
+
+  endings:
+    - "er"
+    - "oir"
+    - "ir"
+    - "re"
+
+  #reflexive-suffixes: [ "-se", "'s" ]
+  reflexive-prefixes: [ "se ", "s'" ]
+
+person-data:
+
+  pronouns:
+    1: "je "
+    2: "tu "
+    3: "il //elle //on "
+    4: "nous "
+    5: "vous "
+    6: "ils //elles "
+
+  imperative-pronouns:
+    1: ""
+    2: "(tu) "
+    3: ""
+    4: "(nous) "
+    5: "(vous) "
+    6: ""
+
+  reflexive-pronouns:
+    - [ "me ", "m'" ]
+    - [ "te ", "t'" ]
+    - [ "se ", "s'" ]
+    - [ "nous " ]
+    - [ "vous " ]
+    - [ "se ", "s'" ]
+
+category_source:
+  path: ["senses", "*", "categories"]
+  item: {key: "name"}  # items are dicts, take c["name"]
+
+forms:
+    "Infinitive Présent":
+      mode: "infinitif"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["infinitive", "present"]
+
+    "Infinitive Passé":
+      mode: "infinitif"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["infinitive", "past"]
+
+    "Gérondif Présent":
+      mode: "gérondif"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["gerund", "present"]
+
+    "Gérondif Passé":
+      mode: "gérondif"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["gerund", "past"]
+
+    "Participe Présent":
+      mode: "particpe"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["participle", "present"]
+
+    "Participe Passé":
+      mode: "particpe"
+      type: "base_form"
+      path:
+        - "forms"
+      tags: ["participle", "past"]

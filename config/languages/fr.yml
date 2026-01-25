@@ -74,15 +74,99 @@ forms:
       tags: ["gerund", "past"]
 
     "Participe Présent":
-      mode: "particpe"
+      mode: "participe"
       type: "base_form"
       path:
         - "forms"
       tags: ["participle", "present"]
 
     "Participe Passé":
-      mode: "particpe"
+      mode: "participe"
       type: "base_form"
       path:
         - "forms"
       tags: ["participle", "past"]
+
+    "Indicatif Présent":
+      mode: "indicatif"
+      path:
+        - "forms"
+      tags: ["indicative", "present"]
+
+    "Indicatif Passé Composé":
+      mode: "indicatif"
+      path:
+        - "forms"
+      tags: ["indicative", "past", "multiword-construction"]
+
+    "Indicatif Imparfait":
+      mode: "indicatif"
+      path:
+        - "forms"
+      tags: ["indicative", "imperfect"]
+
+    "Indicatif Plusqueparfait":
+      mode: "indicatif"
+      path:
+        - "forms"
+      tags: ["indicative", "pluperfect"]
+
+    "Indicatif Passé Simple":
+      mode: "indicatif"
+      path:
+        - "forms"
+      tags: ["indicative", "past"]
+
+    "Indicatif Passé Antérieur":
+      mode: "indicatif"
+      path:
+        - "forms"
+      tags: ["indicative", "past", "anterior"]
+
+    "Indicatif Futur Simple":
+      mode: "indicatif"
+      path:
+        - "forms"
+      tags: ["indicative", "future"]
+
+    "Indicatif Futur Antérieur":
+      mode: "indicatif"
+      path:
+        - "forms"
+      tags: ["indicative", "future", "perfect"]
+
+    "Subjonctif Présent":
+      mode: "subjonctif"
+      path:
+        - "forms"
+      tags: ["subjunctive", "present"]
+
+    "Subjonctif Passé":
+      mode: "subjonctif"
+      path:
+        - "forms"
+      tags: ["subjunctive", "past"]
+
+    "Subjonctif Imparfait":
+      mode: "subjonctif"
+      path:
+        - "forms"
+      tags: ["subjunctive", "imperfect"]
+
+    "Subjonctif Plusqueparfait":
+      mode: "subjonctif"
+      path:
+        - "forms"
+      tags: ["subjunctive", "pluperfect"]
+
+    "Conditionnel":
+      mode: "conditionnel"
+      path:
+        - "forms"
+      tags: ["conditional", "present"]
+
+    "Conditionnel Passé":
+      mode: "conditionnel"
+      path:
+        - "forms"
+      tags: ["conditional", "past"]

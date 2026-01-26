@@ -160,6 +160,28 @@ def extract_categories(entry: dict, lang_cfg: LanguageConfig) -> set[str]:
     raise ValueError(f"Unsupported category path: {path!r}")
 
 
+def handle_form(lang_cfg: LanguageConfig, row_to_add, i, form):
+    # Split of conjunction if applicable (e.g. French Subjonctif forms)
+    for conjunction in lang_cfg.meta_data.get("conjunctions"):
+        if form.startswith(conjunction):
+            row_to_add[f"conjunction-{i + 1}"] = conjunction
+            form = form[len(conjunction) :]
+            break
+
+    # Split off personal pronouns - either with space or with apostrophe (je suis or j'arrive)
+    for delim in ["’", " "]:  # French Wiktionary uses a ’ instead of a normal ' apostrophe - I've decided to keep it
+        try:
+            p, c = form.split(delim, 1)
+            p += delim
+            break
+        except ValueError:
+            p, c = None, None
+
+    row_to_add[f"pronoun-{i + 1}"], form = p, c
+    form = form.replace(" ou ", " / ")
+    row_to_add[f"conjugation-{i + 1}"] = form
+
+
 def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: LanguageConfig, run_cfg: RunConfig) -> None:
     """Write the config-selected values into a per-verb CSV"""
     lemma = entry.get("word")
@@ -224,29 +246,37 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
             if not f_list:
                 continue
-            print(f_list)
 
-            # Naive way first: just use first 6 conjugations
-            for i in range(len(lang_cfg.person_data.get("pronouns"))):
+            # if there are exactly 6 conjugations - just use them
+            if len(f_list) == len(lang_cfg.person_data.get("pronouns")):
+                for i, f in enumerate(f_list):
+                    handle_form(lang_cfg, row_to_add, i, f)
 
-                # Split of conjunction if applicable (for French Subjonctif forms)
-                for conjunction in ["que ", "qu’"]:  # Wiktionary uses a ’ instead of a normal ' apostrophe - I've decided to keep it
-                    if f_list[i].startswith(conjunction):
-                        row_to_add[f"conjunction-{i+1}"] = conjunction
-                        f_list[i] = f_list[i][len(conjunction) :]
-                        break
+            # if there is a smaller number of conjugations - map them by their leading pronouns
+            elif len(f_list) < len(lang_cfg.person_data.get("pronouns")):
+                for form in f_list:
 
-                # Split off personal pronouns - either with space or with apostrophe (je suis or j'arrive)
-                for delim in ["’", " "]:
-                    try:
-                        p, c = f_list[i].split(delim, 1)
-                        p += delim
-                        break
-                    except ValueError:
-                        p, c = None, None
+                    # Chop off conjunction
+                    for conjunction in lang_cfg.meta_data.get("conjunctions"):
+                        if form.startswith(conjunction):
+                            form = form[len(conjunction) :]
+                            break
 
-                row_to_add[f"pronoun-{i+1}"], f_list[i] = p, c
-                row_to_add[f"conjugation-{i+1}"] = f_list[i]
+                    # Derive the index from the leading personal pronoun
+                    pronoun = form.split(" ", 1)[0]
+                    index = 0  # some datasets have imperfect pronouns - rare edge case, just store at index 1
+                    for i, p in lang_cfg.person_data.get("pronouns").items():
+                        if p == pronoun:
+                            index = i - 1
+                            break
+
+                    # parse this conjugation and sort into the derived position
+                    handle_form(lang_cfg, row_to_add, index, form)
+
+            # if there is a different number of conjugations - map them by their leading pronouns
+            else:
+                for i in range(len(lang_cfg.person_data.get("pronouns"))):
+                    handle_form(lang_cfg, row_to_add, i, f_list[i])
 
             if len(f_list) != 6:  # Flag overloaded tags for later handling
                 print(f"{lemma} has {len(f_list)} elements")
@@ -300,7 +330,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
     out_dir = (run_cfg.output_dir / lang_cfg.lang_code).resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    out_path = out_dir / f"{lemma}.csv"
+    out_path = out_dir / f"{lemma.replace('/', '---')}.csv" # normalize some pesky entries
     df = pl.DataFrame(rows_out, schema=header)
     df.write_csv(out_path, separator=";")
 

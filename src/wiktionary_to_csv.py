@@ -241,19 +241,27 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
 
         # Case 3: Handle order-based conjugations - if Kaikki files have no tags indicating the precise person (e.g. French Wiktionary)
         else:
+            if form.get("pronouns") == "imperative":
+                pronoun_list = lang_cfg.person_data.get("imperative-pronouns")
+            else:
+                pronoun_list = lang_cfg.person_data.get("pronouns")
+
+            # Insert only tags of the tense - there are no tags indicating the person
             form_tags = form.get("tags") or []
             f_list = extract_from_spec(entry, form, [form_tags])
 
             if not f_list:
                 continue
 
-            # if there are exactly 6 conjugations - just use them
-            if len(f_list) == len(lang_cfg.person_data.get("pronouns")):
+            # if there are the expected amount of conjugations (6 for declaratives, 3 for imperatives) - just use them
+            if len(f_list) == len(pronoun_list):
                 for i, f in enumerate(f_list):
-                    handle_form(lang_cfg, row_to_add, i, f)
+                    # use the key of the pronouns_dict as index so imperatives are at correct position (tu with tu, vous with vous, etc.)
+                    index = list(pronoun_list.keys())[i] - 1
+                    handle_form(lang_cfg, row_to_add, index, f)
 
             # if there is a smaller number of conjugations - map them by their leading pronouns
-            elif len(f_list) < len(lang_cfg.person_data.get("pronouns")):
+            elif len(f_list) < len(pronoun_list):
                 for form in f_list:
 
                     # Chop off conjunction
@@ -265,7 +273,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                     # Derive the index from the leading personal pronoun
                     pronoun = form.split(" ", 1)[0]
                     index = 0  # some datasets have imperfect pronouns - rare edge case, just store at index 1
-                    for i, p in lang_cfg.person_data.get("pronouns").items():
+                    for i, p in pronoun_list.items():
                         if p == pronoun:
                             index = i - 1
                             break
@@ -273,13 +281,13 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                     # parse this conjugation and sort into the derived position
                     handle_form(lang_cfg, row_to_add, index, form)
 
-            # if there is a different number of conjugations - map them by their leading pronouns
+            # if there is a larger number of conjugations - use the first 6 only for now
             else:
-                for i in range(len(lang_cfg.person_data.get("pronouns"))):
+                for i in range(len(pronoun_list)):
                     handle_form(lang_cfg, row_to_add, i, f_list[i])
 
-            if len(f_list) != 6:  # Flag overloaded tags for later handling
-                print(f"{lemma} has {len(f_list)} elements")
+            #if len(f_list) != 6:  # Flag overloaded tags for later handling
+            #    print(f"{lemma} has {len(f_list)} elements")
 
         _merge_identical_verb_forms(lang_cfg, row_to_add)
 
@@ -330,7 +338,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
     out_dir = (run_cfg.output_dir / lang_cfg.lang_code).resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    out_path = out_dir / f"{lemma.replace('/', '---')}.csv" # normalize some pesky entries
+    out_path = out_dir / f"{lemma.replace('/', '---')}.csv"  # normalize some pesky entries
     df = pl.DataFrame(rows_out, schema=header)
     df.write_csv(out_path, separator=";")
 

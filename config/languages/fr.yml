@@ -25,12 +25,9 @@ person-data:
     6: "ils //elles "
 
   imperative-pronouns:
-    1: ""
     2: "(tu) "
-    3: ""
     4: "(nous) "
     5: "(vous) "
-    6: ""
 
   reflexive-pronouns:
     - [ "me ", "m'" ]

@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;accueillir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir accueilli;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en accueillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant accueilli;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;accueillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;accueilli;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;accueille;;tu ;;;accueilles;;il/elle/on ;;;accueille;;nous ;;;accueillons;;vous ;;;accueillez;;ils/elles ;;;accueillent
+Indicatif Passé Composé;indicatif;;j’;;;ai accueilli;;tu ;;;as accueilli;;il/elle/on ;;;a accueilli;;nous ;;;avons accueilli;;vous ;;;avez accueilli;;ils/elles ;;;ont accueilli
+Indicatif Imparfait;indicatif;;j’;;;accueillais;;tu ;;;accueillais;;il/elle/on ;;;accueillait;;nous ;;;accueillions;;vous ;;;accueilliez;;ils/elles ;;;accueillaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais accueilli;;tu ;;;avais accueilli;;il/elle/on ;;;avait accueilli;;nous ;;;avions accueilli;;vous ;;;aviez accueilli;;ils/elles ;;;avaient accueilli
+Indicatif Passé Simple;indicatif;;j’;;;accueillis;;tu ;;;accueillis;;il/elle/on ;;;accueillit;;nous ;;;accueillîmes;;vous ;;;accueillîtes;;ils/elles ;;;accueillirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus accueilli;;tu ;;;eus accueilli;;il/elle/on ;;;eut accueilli;;nous ;;;eûmes accueilli;;vous ;;;eûtes accueilli;;ils/elles ;;;eurent accueilli
+Indicatif Futur Simple;indicatif;;j’;;;accueillerai;;tu ;;;accueilleras;;il/elle/on ;;;accueillera;;nous ;;;accueillerons;;vous ;;;accueillerez;;ils/elles ;;;accueilleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai accueilli;;tu ;;;auras accueilli;;il/elle/on ;;;aura accueilli;;nous ;;;aurons accueilli;;vous ;;;aurez accueilli;;ils/elles ;;;auront accueilli
+Subjonctif Présent;subjonctif;que ;j’;;;accueille;que ;tu ;;;accueilles;qu’;il/elle/on ;;;accueille;que ;nous ;;;accueillions;que ;vous ;;;accueilliez;qu’;ils/elles ;;;accueillent
+Subjonctif Passé;subjonctif;que ;j’;;;aie accueilli;que ;tu ;;;aies accueilli;qu’;il/elle/on ;;;ait accueilli;que ;nous ;;;ayons accueilli;que ;vous ;;;ayez accueilli;qu’;ils/elles ;;;aient accueilli
+Subjonctif Imparfait;subjonctif;que ;j’;;;accueillisse;que ;tu ;;;accueillisses;qu’;il/elle/on ;;;accueillît;que ;nous ;;;accueillissions;que ;vous ;;;accueillissiez;qu’;ils/elles ;;;accueillissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse accueilli;que ;tu ;;;eusses accueilli;qu’;il/elle/on ;;;eût accueilli;que ;nous ;;;eussions accueilli;que ;vous ;;;eussiez accueilli;qu’;ils/elles ;;;eussent accueilli
+Conditionnel;conditionnel;;j’;;;accueillerais;;tu ;;;accueillerais;;il/elle/on ;;;accueillerait;;nous ;;;accueillerions;;vous ;;;accueilleriez;;ils/elles ;;;accueilleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais accueilli;;tu ;;;aurais accueilli;;il/elle/on ;;;aurait accueilli;;nous ;;;aurions accueilli;;vous ;;;auriez accueilli;;ils/elles ;;;auraient accueilli
+Impératif Présent;impératif;;;;;;;;;;accueille;;;;;;;;;;accueillons;;;;;accueillez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;accueillir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;accueill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

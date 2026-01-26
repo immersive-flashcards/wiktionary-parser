@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;parrainer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir parrainé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en parrainant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant parrainé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;parrainant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;parrainé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;parraine;;tu ;;;parraines;;il/elle/on ;;;parraine;;nous ;;;parrainons;;vous ;;;parrainez;;ils/elles ;;;parrainent
+Indicatif Passé Composé;indicatif;;j’;;;ai parrainé;;tu ;;;as parrainé;;il/elle/on ;;;a parrainé;;nous ;;;avons parrainé;;vous ;;;avez parrainé;;ils/elles ;;;ont parrainé
+Indicatif Imparfait;indicatif;;je ;;;parrainais;;tu ;;;parrainais;;il/elle/on ;;;parrainait;;nous ;;;parrainions;;vous ;;;parrainiez;;ils/elles ;;;parrainaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais parrainé;;tu ;;;avais parrainé;;il/elle/on ;;;avait parrainé;;nous ;;;avions parrainé;;vous ;;;aviez parrainé;;ils/elles ;;;avaient parrainé
+Indicatif Passé Simple;indicatif;;je ;;;parrainai;;tu ;;;parrainas;;il/elle/on ;;;parraina;;nous ;;;parrainâmes;;vous ;;;parrainâtes;;ils/elles ;;;parrainèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus parrainé;;tu ;;;eus parrainé;;il/elle/on ;;;eut parrainé;;nous ;;;eûmes parrainé;;vous ;;;eûtes parrainé;;ils/elles ;;;eurent parrainé
+Indicatif Futur Simple;indicatif;;je ;;;parrainerai;;tu ;;;parraineras;;il/elle/on ;;;parrainera;;nous ;;;parrainerons;;vous ;;;parrainerez;;ils/elles ;;;parraineront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai parrainé;;tu ;;;auras parrainé;;il/elle/on ;;;aura parrainé;;nous ;;;aurons parrainé;;vous ;;;aurez parrainé;;ils/elles ;;;auront parrainé
+Subjonctif Présent;subjonctif;que ;je ;;;parraine;que ;tu ;;;parraines;qu’;il/elle/on ;;;parraine;que ;nous ;;;parrainions;que ;vous ;;;parrainiez;qu’;ils/elles ;;;parrainent
+Subjonctif Passé;subjonctif;que ;j’;;;aie parrainé;que ;tu ;;;aies parrainé;qu’;il/elle/on ;;;ait parrainé;que ;nous ;;;ayons parrainé;que ;vous ;;;ayez parrainé;qu’;ils/elles ;;;aient parrainé
+Subjonctif Imparfait;subjonctif;que ;je ;;;parrainasse;que ;tu ;;;parrainasses;qu’;il/elle/on ;;;parrainât;que ;nous ;;;parrainassions;que ;vous ;;;parrainassiez;qu’;ils/elles ;;;parrainassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse parrainé;que ;tu ;;;eusses parrainé;qu’;il/elle/on ;;;eût parrainé;que ;nous ;;;eussions parrainé;que ;vous ;;;eussiez parrainé;qu’;ils/elles ;;;eussent parrainé
+Conditionnel;conditionnel;;je ;;;parrainerais;;tu ;;;parrainerais;;il/elle/on ;;;parrainerait;;nous ;;;parrainerions;;vous ;;;parraineriez;;ils/elles ;;;parraineraient
+Conditionnel Passé;conditionnel;;j’;;;aurais parrainé;;tu ;;;aurais parrainé;;il/elle/on ;;;aurait parrainé;;nous ;;;aurions parrainé;;vous ;;;auriez parrainé;;ils/elles ;;;auraient parrainé
+Impératif Présent;impératif;;;;;;;;;;parraine;;;;;;;;;;parrainons;;;;;parrainez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;parrainer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;parrain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

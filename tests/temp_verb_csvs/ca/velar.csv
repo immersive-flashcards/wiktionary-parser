@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;velar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;velant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;velat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;velo;;tu ;;;veles;;ell //ella //vostè ;;;vela;;nosaltres ;;;velem;;vosaltres ;;;veleu;;ells //elles //vostès ;;;velen
+Indicatiu Imperfet;indicativo;;jo ;;;velava;;tu ;;;velaves;;ell //ella //vostè ;;;velava;;nosaltres ;;;velàvem;;vosaltres ;;;velàveu;;ells //elles //vostès ;;;velaven
+Indicatiu Futur;indicativo;;jo ;;;velaré;;tu ;;;velaràs;;ell //ella //vostè ;;;velarà;;nosaltres ;;;velarem;;vosaltres ;;;velareu;;ells //elles //vostès ;;;velaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;velí;;tu ;;;velares;;ell //ella //vostè ;;;velà;;nosaltres ;;;velàrem;;vosaltres ;;;velàreu;;ells //elles //vostès ;;;velaren
+Condicional;condicional;;jo ;;;velaria;;tu ;;;velaries;;ell //ella //vostè ;;;velaria;;nosaltres ;;;velaríem;;vosaltres ;;;velaríeu;;ells //elles //vostès ;;;velarien
+Subjuntiu Present;subjuntiu;;jo ;;;veli;;tu ;;;velis;;ell //ella //vostè ;;;veli;;nosaltres ;;;velem;;vosaltres ;;;veleu;;ells //elles //vostès ;;;velin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;velés;;tu ;;;velessis;;ell //ella //vostè ;;;velés;;nosaltres ;;;veléssim;;vosaltres ;;;veléssiu;;ells //elles //vostès ;;;velessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;vela;;(vostè) ;;;veli;;(nosaltres) ;;;velem;;(vosaltres) ;;;veleu;;(vostès) ;;;velin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;velis;;(vostè) ;no ;;veli;;(nosaltres) ;no ;;velem;;(vosaltres) ;no ;;veleu;;(vostès) ;no ;;velin
+Indicatiu Perfet;indicatiu;;jo ;;;he velat;;tu ;;;has velat;;ell //ella //vostè ;;;ha velat;;nosaltres ;;;hem velat;;vosaltres ;;;heu velat;;ells //elles //vostès ;;;han velat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig velat;;tu ;;;vas velat;;ell //ella //vostè ;;;va velat;;nosaltres ;;;vam velat;;vosaltres ;;;vau velat;;ells //elles //vostès ;;;van velat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia velat;;tu ;;;havies velat;;ell //ella //vostè ;;;havia velat;;nosaltres ;;;havíem velat;;vosaltres ;;;havíeu velat;;ells //elles //vostès ;;;havien velat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí velat;;tu ;;;hagueres velat;;ell //ella //vostè ;;;hagué velat;;nosaltres ;;;haguérem velat;;vosaltres ;;;haguéreu velat;;ells //elles //vostès ;;;hagueren velat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver velat;;tu ;;;vas haver velat;;ell //ella //vostè ;;;va haver velat;;nosaltres ;;;vam haver velat;;vosaltres ;;;vau haver velat;;ells //elles //vostès ;;;van haver velat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré velat;;tu ;;;hauràs velat;;ell //ella //vostè ;;;haurà velat;;nosaltres ;;;haurem velat;;vosaltres ;;;haureu velat;;ells //elles //vostès ;;;hauran velat
+Condicional Perfet;condicional;;jo ;;;hauria velat;;tu ;;;hauries velat;;ell //ella //vostè ;;;hauria velat;;nosaltres ;;;hauríem velat;;vosaltres ;;;hauríeu velat;;ells //elles //vostès ;;;haurien velat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi velat;;tu ;;;vagis velat;;ell //ella //vostè ;;;vagi velat;;nosaltres ;;;vàgim velat;;vosaltres ;;;vàgiu velat;;ells //elles //vostès ;;;vagin velat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi velat;;tu ;;;hagis velat;;ell //ella //vostè ;;;hagi velat;;nosaltres ;;;hàgim velat;;vosaltres ;;;hàgiu velat;;ells //elles //vostès ;;;hagin velat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes velat;;tu ;;;haguessis velat;;ell //ella //vostè ;;;hagués velat;;nosaltres ;;;haguéssim velat;;vosaltres ;;;haguéssiu velat;;ells //elles //vostès ;;;haguessin velat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver velat;;tu ;;;vagis haver velat;;ell //ella //vostè ;;;vagi haver velat;;nosaltres ;;;vàgim haver velat;;vosaltres ;;;vàgiu haver velat;;ells //elles //vostès ;;;vagin haver velat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;velar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;vel;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

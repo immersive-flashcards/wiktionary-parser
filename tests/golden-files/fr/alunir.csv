@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;alunir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir aluni;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en alunissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant aluni;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;alunissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;aluni;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;alunis;;tu ;;;alunis;;il/elle/on ;;;alunit;;nous ;;;alunissons;;vous ;;;alunissez;;ils/elles ;;;alunissent
+Indicatif Passé Composé;indicatif;;j’;;;ai aluni;;tu ;;;as aluni;;il/elle/on ;;;a aluni;;nous ;;;avons aluni;;vous ;;;avez aluni;;ils/elles ;;;ont aluni
+Indicatif Imparfait;indicatif;;j’;;;alunissais;;tu ;;;alunissais;;il/elle/on ;;;alunissait;;nous ;;;alunissions;;vous ;;;alunissiez;;ils/elles ;;;alunissaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais aluni;;tu ;;;avais aluni;;il/elle/on ;;;avait aluni;;nous ;;;avions aluni;;vous ;;;aviez aluni;;ils/elles ;;;avaient aluni
+Indicatif Passé Simple;indicatif;;j’;;;alunis;;tu ;;;alunis;;il/elle/on ;;;alunit;;nous ;;;alunîmes;;vous ;;;alunîtes;;ils/elles ;;;alunirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus aluni;;tu ;;;eus aluni;;il/elle/on ;;;eut aluni;;nous ;;;eûmes aluni;;vous ;;;eûtes aluni;;ils/elles ;;;eurent aluni
+Indicatif Futur Simple;indicatif;;j’;;;alunirai;;tu ;;;aluniras;;il/elle/on ;;;alunira;;nous ;;;alunirons;;vous ;;;alunirez;;ils/elles ;;;aluniront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai aluni;;tu ;;;auras aluni;;il/elle/on ;;;aura aluni;;nous ;;;aurons aluni;;vous ;;;aurez aluni;;ils/elles ;;;auront aluni
+Subjonctif Présent;subjonctif;que ;j’;;;alunisse;que ;tu ;;;alunisses;qu’;il/elle/on ;;;alunisse;que ;nous ;;;alunissions;que ;vous ;;;alunissiez;qu’;ils/elles ;;;alunissent
+Subjonctif Passé;subjonctif;que ;j’;;;aie aluni;que ;tu ;;;aies aluni;qu’;il/elle/on ;;;ait aluni;que ;nous ;;;ayons aluni;que ;vous ;;;ayez aluni;qu’;ils/elles ;;;aient aluni
+Subjonctif Imparfait;subjonctif;que ;j’;;;alunisse;que ;tu ;;;alunisses;qu’;il/elle/on ;;;alunît;que ;nous ;;;alunissions;que ;vous ;;;alunissiez;qu’;ils/elles ;;;alunissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse aluni;que ;tu ;;;eusses aluni;qu’;il/elle/on ;;;eût aluni;que ;nous ;;;eussions aluni;que ;vous ;;;eussiez aluni;qu’;ils/elles ;;;eussent aluni
+Conditionnel;conditionnel;;j’;;;alunirais;;tu ;;;alunirais;;il/elle/on ;;;alunirait;;nous ;;;alunirions;;vous ;;;aluniriez;;ils/elles ;;;aluniraient
+Conditionnel Passé;conditionnel;;j’;;;aurais aluni;;tu ;;;aurais aluni;;il/elle/on ;;;aurait aluni;;nous ;;;aurions aluni;;vous ;;;auriez aluni;;ils/elles ;;;auraient aluni
+Impératif Présent;impératif;;;;;;;;;;alunis;;;;;;;;;;alunissons;;;;;alunissez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;alunir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;alun;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

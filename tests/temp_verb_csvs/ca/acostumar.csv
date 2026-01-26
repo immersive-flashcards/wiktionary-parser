@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;acostumar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;acostumant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;acostumat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;acostumo;;tu ;;;acostumes;;ell //ella //vostè ;;;acostuma;;nosaltres ;;;acostumem;;vosaltres ;;;acostumeu;;ells //elles //vostès ;;;acostumen
+Indicatiu Imperfet;indicativo;;jo ;;;acostumava;;tu ;;;acostumaves;;ell //ella //vostè ;;;acostumava;;nosaltres ;;;acostumàvem;;vosaltres ;;;acostumàveu;;ells //elles //vostès ;;;acostumaven
+Indicatiu Futur;indicativo;;jo ;;;acostumaré;;tu ;;;acostumaràs;;ell //ella //vostè ;;;acostumarà;;nosaltres ;;;acostumarem;;vosaltres ;;;acostumareu;;ells //elles //vostès ;;;acostumaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;acostumí;;tu ;;;acostumares;;ell //ella //vostè ;;;acostumà;;nosaltres ;;;acostumàrem;;vosaltres ;;;acostumàreu;;ells //elles //vostès ;;;acostumaren
+Condicional;condicional;;jo ;;;acostumaria;;tu ;;;acostumaries;;ell //ella //vostè ;;;acostumaria;;nosaltres ;;;acostumaríem;;vosaltres ;;;acostumaríeu;;ells //elles //vostès ;;;acostumarien
+Subjuntiu Present;subjuntiu;;jo ;;;acostumi;;tu ;;;acostumis;;ell //ella //vostè ;;;acostumi;;nosaltres ;;;acostumem;;vosaltres ;;;acostumeu;;ells //elles //vostès ;;;acostumin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;acostumés;;tu ;;;acostumessis;;ell //ella //vostè ;;;acostumés;;nosaltres ;;;acostuméssim;;vosaltres ;;;acostuméssiu;;ells //elles //vostès ;;;acostumessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;acostuma;;(vostè) ;;;acostumi;;(nosaltres) ;;;acostumem;;(vosaltres) ;;;acostumeu;;(vostès) ;;;acostumin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;acostumis;;(vostè) ;no ;;acostumi;;(nosaltres) ;no ;;acostumem;;(vosaltres) ;no ;;acostumeu;;(vostès) ;no ;;acostumin
+Indicatiu Perfet;indicatiu;;jo ;;;he acostumat;;tu ;;;has acostumat;;ell //ella //vostè ;;;ha acostumat;;nosaltres ;;;hem acostumat;;vosaltres ;;;heu acostumat;;ells //elles //vostès ;;;han acostumat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig acostumat;;tu ;;;vas acostumat;;ell //ella //vostè ;;;va acostumat;;nosaltres ;;;vam acostumat;;vosaltres ;;;vau acostumat;;ells //elles //vostès ;;;van acostumat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia acostumat;;tu ;;;havies acostumat;;ell //ella //vostè ;;;havia acostumat;;nosaltres ;;;havíem acostumat;;vosaltres ;;;havíeu acostumat;;ells //elles //vostès ;;;havien acostumat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí acostumat;;tu ;;;hagueres acostumat;;ell //ella //vostè ;;;hagué acostumat;;nosaltres ;;;haguérem acostumat;;vosaltres ;;;haguéreu acostumat;;ells //elles //vostès ;;;hagueren acostumat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver acostumat;;tu ;;;vas haver acostumat;;ell //ella //vostè ;;;va haver acostumat;;nosaltres ;;;vam haver acostumat;;vosaltres ;;;vau haver acostumat;;ells //elles //vostès ;;;van haver acostumat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré acostumat;;tu ;;;hauràs acostumat;;ell //ella //vostè ;;;haurà acostumat;;nosaltres ;;;haurem acostumat;;vosaltres ;;;haureu acostumat;;ells //elles //vostès ;;;hauran acostumat
+Condicional Perfet;condicional;;jo ;;;hauria acostumat;;tu ;;;hauries acostumat;;ell //ella //vostè ;;;hauria acostumat;;nosaltres ;;;hauríem acostumat;;vosaltres ;;;hauríeu acostumat;;ells //elles //vostès ;;;haurien acostumat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi acostumat;;tu ;;;vagis acostumat;;ell //ella //vostè ;;;vagi acostumat;;nosaltres ;;;vàgim acostumat;;vosaltres ;;;vàgiu acostumat;;ells //elles //vostès ;;;vagin acostumat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi acostumat;;tu ;;;hagis acostumat;;ell //ella //vostè ;;;hagi acostumat;;nosaltres ;;;hàgim acostumat;;vosaltres ;;;hàgiu acostumat;;ells //elles //vostès ;;;hagin acostumat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes acostumat;;tu ;;;haguessis acostumat;;ell //ella //vostè ;;;hagués acostumat;;nosaltres ;;;haguéssim acostumat;;vosaltres ;;;haguéssiu acostumat;;ells //elles //vostès ;;;haguessin acostumat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver acostumat;;tu ;;;vagis haver acostumat;;ell //ella //vostè ;;;vagi haver acostumat;;nosaltres ;;;vàgim haver acostumat;;vosaltres ;;;vàgiu haver acostumat;;ells //elles //vostès ;;;vagin haver acostumat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;acostumar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;acostum;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

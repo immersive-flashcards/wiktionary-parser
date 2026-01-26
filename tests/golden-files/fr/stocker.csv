@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;stocker;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir stocké;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en stockant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant stocké;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;stockant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;stocké;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;stocke;;tu ;;;stockes;;il/elle/on ;;;stocke;;nous ;;;stockons;;vous ;;;stockez;;ils/elles ;;;stockent
+Indicatif Passé Composé;indicatif;;j’;;;ai stocké;;tu ;;;as stocké;;il/elle/on ;;;a stocké;;nous ;;;avons stocké;;vous ;;;avez stocké;;ils/elles ;;;ont stocké
+Indicatif Imparfait;indicatif;;je ;;;stockais;;tu ;;;stockais;;il/elle/on ;;;stockait;;nous ;;;stockions;;vous ;;;stockiez;;ils/elles ;;;stockaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais stocké;;tu ;;;avais stocké;;il/elle/on ;;;avait stocké;;nous ;;;avions stocké;;vous ;;;aviez stocké;;ils/elles ;;;avaient stocké
+Indicatif Passé Simple;indicatif;;je ;;;stockai;;tu ;;;stockas;;il/elle/on ;;;stocka;;nous ;;;stockâmes;;vous ;;;stockâtes;;ils/elles ;;;stockèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus stocké;;tu ;;;eus stocké;;il/elle/on ;;;eut stocké;;nous ;;;eûmes stocké;;vous ;;;eûtes stocké;;ils/elles ;;;eurent stocké
+Indicatif Futur Simple;indicatif;;je ;;;stockerai;;tu ;;;stockeras;;il/elle/on ;;;stockera;;nous ;;;stockerons;;vous ;;;stockerez;;ils/elles ;;;stockeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai stocké;;tu ;;;auras stocké;;il/elle/on ;;;aura stocké;;nous ;;;aurons stocké;;vous ;;;aurez stocké;;ils/elles ;;;auront stocké
+Subjonctif Présent;subjonctif;que ;je ;;;stocke;que ;tu ;;;stockes;qu’;il/elle/on ;;;stocke;que ;nous ;;;stockions;que ;vous ;;;stockiez;qu’;ils/elles ;;;stockent
+Subjonctif Passé;subjonctif;que ;j’;;;aie stocké;que ;tu ;;;aies stocké;qu’;il/elle/on ;;;ait stocké;que ;nous ;;;ayons stocké;que ;vous ;;;ayez stocké;qu’;ils/elles ;;;aient stocké
+Subjonctif Imparfait;subjonctif;que ;je ;;;stockasse;que ;tu ;;;stockasses;qu’;il/elle/on ;;;stockât;que ;nous ;;;stockassions;que ;vous ;;;stockassiez;qu’;ils/elles ;;;stockassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse stocké;que ;tu ;;;eusses stocké;qu’;il/elle/on ;;;eût stocké;que ;nous ;;;eussions stocké;que ;vous ;;;eussiez stocké;qu’;ils/elles ;;;eussent stocké
+Conditionnel;conditionnel;;je ;;;stockerais;;tu ;;;stockerais;;il/elle/on ;;;stockerait;;nous ;;;stockerions;;vous ;;;stockeriez;;ils/elles ;;;stockeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais stocké;;tu ;;;aurais stocké;;il/elle/on ;;;aurait stocké;;nous ;;;aurions stocké;;vous ;;;auriez stocké;;ils/elles ;;;auraient stocké
+Impératif Présent;impératif;;;;;;;;;;stocke;;;;;;;;;;stockons;;;;;stockez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;stocker;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;stock;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

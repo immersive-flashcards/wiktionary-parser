@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;braiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir braisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en braisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant braisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;braisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;braisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;braise;;tu ;;;braises;;il/elle/on ;;;braise;;nous ;;;braisons;;vous ;;;braisez;;ils/elles ;;;braisent
+Indicatif Passé Composé;indicatif;;j’;;;ai braisé;;tu ;;;as braisé;;il/elle/on ;;;a braisé;;nous ;;;avons braisé;;vous ;;;avez braisé;;ils/elles ;;;ont braisé
+Indicatif Imparfait;indicatif;;je ;;;braisais;;tu ;;;braisais;;il/elle/on ;;;braisait;;nous ;;;braisions;;vous ;;;braisiez;;ils/elles ;;;braisaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais braisé;;tu ;;;avais braisé;;il/elle/on ;;;avait braisé;;nous ;;;avions braisé;;vous ;;;aviez braisé;;ils/elles ;;;avaient braisé
+Indicatif Passé Simple;indicatif;;je ;;;braisai;;tu ;;;braisas;;il/elle/on ;;;braisa;;nous ;;;braisâmes;;vous ;;;braisâtes;;ils/elles ;;;braisèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus braisé;;tu ;;;eus braisé;;il/elle/on ;;;eut braisé;;nous ;;;eûmes braisé;;vous ;;;eûtes braisé;;ils/elles ;;;eurent braisé
+Indicatif Futur Simple;indicatif;;je ;;;braiserai;;tu ;;;braiseras;;il/elle/on ;;;braisera;;nous ;;;braiserons;;vous ;;;braiserez;;ils/elles ;;;braiseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai braisé;;tu ;;;auras braisé;;il/elle/on ;;;aura braisé;;nous ;;;aurons braisé;;vous ;;;aurez braisé;;ils/elles ;;;auront braisé
+Subjonctif Présent;subjonctif;que ;je ;;;braise;que ;tu ;;;braises;qu’;il/elle/on ;;;braise;que ;nous ;;;braisions;que ;vous ;;;braisiez;qu’;ils/elles ;;;braisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie braisé;que ;tu ;;;aies braisé;qu’;il/elle/on ;;;ait braisé;que ;nous ;;;ayons braisé;que ;vous ;;;ayez braisé;qu’;ils/elles ;;;aient braisé
+Subjonctif Imparfait;subjonctif;que ;je ;;;braisasse;que ;tu ;;;braisasses;qu’;il/elle/on ;;;braisât;que ;nous ;;;braisassions;que ;vous ;;;braisassiez;qu’;ils/elles ;;;braisassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse braisé;que ;tu ;;;eusses braisé;qu’;il/elle/on ;;;eût braisé;que ;nous ;;;eussions braisé;que ;vous ;;;eussiez braisé;qu’;ils/elles ;;;eussent braisé
+Conditionnel;conditionnel;;je ;;;braiserais;;tu ;;;braiserais;;il/elle/on ;;;braiserait;;nous ;;;braiserions;;vous ;;;braiseriez;;ils/elles ;;;braiseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais braisé;;tu ;;;aurais braisé;;il/elle/on ;;;aurait braisé;;nous ;;;aurions braisé;;vous ;;;auriez braisé;;ils/elles ;;;auraient braisé
+Impératif Présent;impératif;;;;;;;;;;braise;;;;;;;;;;braisons;;;;;braisez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;braiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;brais;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

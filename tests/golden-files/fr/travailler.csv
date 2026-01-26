@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;travailler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir travaillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en travaillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant travaillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;travaillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;travaillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;travaille;;tu ;;;travailles;;il/elle/on ;;;travaille;;nous ;;;travaillons;;vous ;;;travaillez;;ils/elles ;;;travaillent
+Indicatif Passé Composé;indicatif;;j’;;;ai travaillé;;tu ;;;as travaillé;;il/elle/on ;;;a travaillé;;nous ;;;avons travaillé;;vous ;;;avez travaillé;;ils/elles ;;;ont travaillé
+Indicatif Imparfait;indicatif;;je ;;;travaillais;;tu ;;;travaillais;;il/elle/on ;;;travaillait;;nous ;;;travaillions;;vous ;;;travailliez;;ils/elles ;;;travaillaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais travaillé;;tu ;;;avais travaillé;;il/elle/on ;;;avait travaillé;;nous ;;;avions travaillé;;vous ;;;aviez travaillé;;ils/elles ;;;avaient travaillé
+Indicatif Passé Simple;indicatif;;je ;;;travaillai;;tu ;;;travaillas;;il/elle/on ;;;travailla;;nous ;;;travaillâmes;;vous ;;;travaillâtes;;ils/elles ;;;travaillèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus travaillé;;tu ;;;eus travaillé;;il/elle/on ;;;eut travaillé;;nous ;;;eûmes travaillé;;vous ;;;eûtes travaillé;;ils/elles ;;;eurent travaillé
+Indicatif Futur Simple;indicatif;;je ;;;travaillerai;;tu ;;;travailleras;;il/elle/on ;;;travaillera;;nous ;;;travaillerons;;vous ;;;travaillerez;;ils/elles ;;;travailleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai travaillé;;tu ;;;auras travaillé;;il/elle/on ;;;aura travaillé;;nous ;;;aurons travaillé;;vous ;;;aurez travaillé;;ils/elles ;;;auront travaillé
+Subjonctif Présent;subjonctif;que ;je ;;;travaille;que ;tu ;;;travailles;qu’;il/elle/on ;;;travaille;que ;nous ;;;travaillions;que ;vous ;;;travailliez;qu’;ils/elles ;;;travaillent
+Subjonctif Passé;subjonctif;que ;j’;;;aie travaillé;que ;tu ;;;aies travaillé;qu’;il/elle/on ;;;ait travaillé;que ;nous ;;;ayons travaillé;que ;vous ;;;ayez travaillé;qu’;ils/elles ;;;aient travaillé
+Subjonctif Imparfait;subjonctif;que ;je ;;;travaillasse;que ;tu ;;;travaillasses;qu’;il/elle/on ;;;travaillât;que ;nous ;;;travaillassions;que ;vous ;;;travaillassiez;qu’;ils/elles ;;;travaillassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse travaillé;que ;tu ;;;eusses travaillé;qu’;il/elle/on ;;;eût travaillé;que ;nous ;;;eussions travaillé;que ;vous ;;;eussiez travaillé;qu’;ils/elles ;;;eussent travaillé
+Conditionnel;conditionnel;;je ;;;travaillerais;;tu ;;;travaillerais;;il/elle/on ;;;travaillerait;;nous ;;;travaillerions;;vous ;;;travailleriez;;ils/elles ;;;travailleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais travaillé;;tu ;;;aurais travaillé;;il/elle/on ;;;aurait travaillé;;nous ;;;aurions travaillé;;vous ;;;auriez travaillé;;ils/elles ;;;auraient travaillé
+Impératif Présent;impératif;;;;;;;;;;travaille;;;;;;;;;;travaillons;;;;;travaillez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;travailler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;travaill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

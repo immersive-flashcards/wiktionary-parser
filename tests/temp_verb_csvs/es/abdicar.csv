@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;abdicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;abdicando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;abdicado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;abdico;;tú ;;;abdicas;;él //ella //usted ;;;abdica;;nosotros //nosotras ;;;abdicamos;;vosotros //vosotras ;;;abdicáis;;ellos //ellas //ustedes ;;;abdican;;vos ;;;abdicás
+Indicativo Imperfecto;indicativo;;yo ;;;abdicaba;;tú //vos ;;;abdicabas;;él //ella //usted ;;;abdicaba;;nosotros //nosotras ;;;abdicábamos;;vosotros //vosotras ;;;abdicabais;;ellos //ellas //ustedes ;;;abdicaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;abdiqué;;tú //vos ;;;abdicaste;;él //ella //usted ;;;abdicó;;nosotros //nosotras ;;;abdicamos;;vosotros //vosotras ;;;abdicasteis;;ellos //ellas //ustedes ;;;abdicaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;abdicaré;;tú //vos ;;;abdicarás;;él //ella //usted ;;;abdicará;;nosotros //nosotras ;;;abdicaremos;;vosotros //vosotras ;;;abdicaréis;;ellos //ellas //ustedes ;;;abdicarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he abdicado;;tú //vos ;;;has abdicado;;él //ella //usted ;;;ha abdicado;;nosotros //nosotras ;;;hemos abdicado;;vosotros //vosotras ;;;habéis abdicado;;ellos //ellas //ustedes ;;;han abdicado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había abdicado;;tú //vos ;;;habías abdicado;;él //ella //usted ;;;había abdicado;;nosotros //nosotras ;;;habíamos abdicado;;vosotros //vosotras ;;;habíais abdicado;;ellos //ellas //ustedes ;;;habían abdicado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube abdicado;;tú //vos ;;;hubiste abdicado;;él //ella //usted ;;;hubo abdicado;;nosotros //nosotras ;;;hubimos abdicado;;vosotros //vosotras ;;;hubisteis abdicado;;ellos //ellas //ustedes ;;;hubieron abdicado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré abdicado;;tú //vos ;;;habrás abdicado;;él //ella //usted ;;;habrá abdicado;;nosotros //nosotras ;;;habremos abdicado;;vosotros //vosotras ;;;habréis abdicado;;ellos //ellas //ustedes ;;;habrán abdicado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;abdique;;tú //vos ;;;abdiques;;él //ella //usted ;;;abdique;;nosotros //nosotras ;;;abdiquemos;;vosotros //vosotras ;;;abdiquéis;;ellos //ellas //ustedes ;;;abdiquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;abdicara / abdicase;;tú //vos ;;;abdicaras / abdicases;;él //ella //usted ;;;abdicara / abdicase;;nosotros //nosotras ;;;abdicáramos / abdicásemos;;vosotros //vosotras ;;;abdicarais / abdicaseis;;ellos //ellas //ustedes ;;;abdicaran / abdicasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;abdicare;;tú //vos ;;;abdicares;;él //ella //usted ;;;abdicare;;nosotros //nosotras ;;;abdicáremos;;vosotros //vosotras ;;;abdicareis;;ellos //ellas //ustedes ;;;abdicaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya abdicado;;tú //vos ;;;hayas abdicado;;él //ella //usted ;;;haya abdicado;;nosotros //nosotras ;;;hayamos abdicado;;vosotros //vosotras ;;;hayáis abdicado;;ellos //ellas //ustedes ;;;hayan abdicado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera abdicado / hubiese abdicado;;tú //vos ;;;hubieras abdicado / hubieses abdicado;;él //ella //usted ;;;hubiera abdicado / hubiese abdicado;;nosotros //nosotras ;;;hubiéramos abdicado / hubiésemos abdicado;;vosotros //vosotras ;;;hubierais abdicado / hubieseis abdicado;;ellos //ellas //ustedes ;;;hubieran abdicado / hubiesen abdicado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere abdicado;;tú //vos ;;;hubieres abdicado;;él //ella //usted ;;;hubiere abdicado;;nosotros //nosotras ;;;hubiéremos abdicado;;vosotros //vosotras ;;;hubiereis abdicado;;ellos //ellas //ustedes ;;;hubieren abdicado;;;;;
+Condicional;condicional;;yo ;;;abdicaría;;tú //vos ;;;abdicarías;;él //ella //usted ;;;abdicaría;;nosotros //nosotras ;;;abdicaríamos;;vosotros //vosotras ;;;abdicaríais;;ellos //ellas //ustedes ;;;abdicarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría abdicado;;tú //vos ;;;habrías abdicado;;él //ella //usted ;;;habría abdicado;;nosotros //nosotras ;;;habríamos abdicado;;vosotros //vosotras ;;;habríais abdicado;;ellos //ellas //ustedes ;;;habrían abdicado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abdica;;(usted) ;;;abdique;;(nosotros) //(nosotras) ;;;abdiquemos;;(vosotros) //(vosotras) ;;;abdicad;;(ustedes) ;;;abdiquen;;(vos) ;;;abdicá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abdiques;;(usted) ;no ;;abdique;;(nosotros) //(nosotras) ;no ;;abdiquemos;;(vosotros) //(vosotras) ;no ;;abdiquéis;;(ustedes) ;no ;;abdiquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;abdicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;abdic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;procrastiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir procrastiné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en procrastinant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant procrastiné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;procrastinant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;procrastiné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;procrastine;;tu ;;;procrastines;;il/elle/on ;;;procrastine;;nous ;;;procrastinons;;vous ;;;procrastinez;;ils/elles ;;;procrastinent
+Indicatif Passé Composé;indicatif;;j’;;;ai procrastiné;;tu ;;;as procrastiné;;il/elle/on ;;;a procrastiné;;nous ;;;avons procrastiné;;vous ;;;avez procrastiné;;ils/elles ;;;ont procrastiné
+Indicatif Imparfait;indicatif;;je ;;;procrastinais;;tu ;;;procrastinais;;il/elle/on ;;;procrastinait;;nous ;;;procrastinions;;vous ;;;procrastiniez;;ils/elles ;;;procrastinaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais procrastiné;;tu ;;;avais procrastiné;;il/elle/on ;;;avait procrastiné;;nous ;;;avions procrastiné;;vous ;;;aviez procrastiné;;ils/elles ;;;avaient procrastiné
+Indicatif Passé Simple;indicatif;;je ;;;procrastinai;;tu ;;;procrastinas;;il/elle/on ;;;procrastina;;nous ;;;procrastinâmes;;vous ;;;procrastinâtes;;ils/elles ;;;procrastinèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus procrastiné;;tu ;;;eus procrastiné;;il/elle/on ;;;eut procrastiné;;nous ;;;eûmes procrastiné;;vous ;;;eûtes procrastiné;;ils/elles ;;;eurent procrastiné
+Indicatif Futur Simple;indicatif;;je ;;;procrastinerai;;tu ;;;procrastineras;;il/elle/on ;;;procrastinera;;nous ;;;procrastinerons;;vous ;;;procrastinerez;;ils/elles ;;;procrastineront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai procrastiné;;tu ;;;auras procrastiné;;il/elle/on ;;;aura procrastiné;;nous ;;;aurons procrastiné;;vous ;;;aurez procrastiné;;ils/elles ;;;auront procrastiné
+Subjonctif Présent;subjonctif;que ;je ;;;procrastine;que ;tu ;;;procrastines;qu’;il/elle/on ;;;procrastine;que ;nous ;;;procrastinions;que ;vous ;;;procrastiniez;qu’;ils/elles ;;;procrastinent
+Subjonctif Passé;subjonctif;que ;j’;;;aie procrastiné;que ;tu ;;;aies procrastiné;qu’;il/elle/on ;;;ait procrastiné;que ;nous ;;;ayons procrastiné;que ;vous ;;;ayez procrastiné;qu’;ils/elles ;;;aient procrastiné
+Subjonctif Imparfait;subjonctif;que ;je ;;;procrastinasse;que ;tu ;;;procrastinasses;qu’;il/elle/on ;;;procrastinât;que ;nous ;;;procrastinassions;que ;vous ;;;procrastinassiez;qu’;ils/elles ;;;procrastinassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse procrastiné;que ;tu ;;;eusses procrastiné;qu’;il/elle/on ;;;eût procrastiné;que ;nous ;;;eussions procrastiné;que ;vous ;;;eussiez procrastiné;qu’;ils/elles ;;;eussent procrastiné
+Conditionnel;conditionnel;;je ;;;procrastinerais;;tu ;;;procrastinerais;;il/elle/on ;;;procrastinerait;;nous ;;;procrastinerions;;vous ;;;procrastineriez;;ils/elles ;;;procrastineraient
+Conditionnel Passé;conditionnel;;j’;;;aurais procrastiné;;tu ;;;aurais procrastiné;;il/elle/on ;;;aurait procrastiné;;nous ;;;aurions procrastiné;;vous ;;;auriez procrastiné;;ils/elles ;;;auraient procrastiné
+Impératif Présent;impératif;;;;;;;;;;procrastine;;;;;;;;;;procrastinons;;;;;procrastinez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;procrastiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;procrastin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

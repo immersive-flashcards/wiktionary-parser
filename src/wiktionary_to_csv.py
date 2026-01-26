@@ -160,7 +160,18 @@ def extract_categories(entry: dict, lang_cfg: LanguageConfig) -> set[str]:
     raise ValueError(f"Unsupported category path: {path!r}")
 
 
-def handle_form(lang_cfg: LanguageConfig, row_to_add, i, form):
+def split_on_first_delim(s: str, delims: list[str]) -> tuple[str, str] | tuple[None, str]:
+    """Split a string on the first occurrence of any delimiter"""
+    positions = [(s.find(d), d) for d in delims if s.find(d) != -1]
+
+    if positions:
+        idx, delim = min(positions, key=lambda x: x[0])
+        return s[: idx + 1], s[idx + 1 :]
+
+    return None, s
+
+
+def handle_form(lang_cfg: LanguageConfig, row_to_add: dict[str, Any], i: int, form: str):
     # Split of conjunction if applicable (e.g. French Subjonctif forms)
     for conjunction in lang_cfg.meta_data.get("conjunctions"):
         if form.startswith(conjunction):
@@ -169,16 +180,17 @@ def handle_form(lang_cfg: LanguageConfig, row_to_add, i, form):
             break
 
     # Split off personal pronouns - either with space or with apostrophe (je suis or j'arrive)
-    for delim in ["’", " "]:  # French Wiktionary uses a ’ instead of a normal ' apostrophe - I've decided to keep it
-        try:
-            p, c = form.split(delim, 1)
-            p += delim
-            break
-        except ValueError:
-            p, c = None, None
+    p, c = split_on_first_delim(form, ["’", "'", " "])
 
     row_to_add[f"pronoun-{i + 1}"], form = p, c
     form = form.replace(" ou ", " / ")
+
+    # Split off reflexive pronoun if present
+    for rp in lang_cfg.person_data.get("reflexive-pronouns", [])[i]:
+        if form.startswith(rp):
+            form = form[len(rp) :]
+            row_to_add[f"refl_pronoun-{i + 1}"] = rp
+
     row_to_add[f"conjugation-{i + 1}"] = form
 
 
@@ -190,7 +202,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
     # Add verb form rows
     person_data = lang_cfg.person_data
     person_map = person_data.get("person_map")
-    refl_pronouns_by_i = person_data.get("reflexive-pronouns", [])
+    refl_pronouns = person_data.get("reflexive-pronouns", [])
 
     for row_key, form in lang_cfg.forms.items():
         row_to_add = {"key": row_key, "mode": form["mode"]}
@@ -222,7 +234,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                             row_to_add[f"negation-{i}"] = negation
 
                 # Split off reflexive pronoun if present
-                reflexive_alts = refl_pronouns_by_i[i - 1] if i - 1 < len(refl_pronouns_by_i) else []
+                reflexive_alts = refl_pronouns[i - 1] if i - 1 < len(refl_pronouns) else []
                 for rp in reflexive_alts:
                     for idx, f in enumerate(f_list):
                         if f.startswith(rp):

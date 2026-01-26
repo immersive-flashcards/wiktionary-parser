@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;ronronner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir ronronné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en ronronnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant ronronné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;ronronnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;ronronné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;ronronne;;tu ;;;ronronnes;;il/elle/on ;;;ronronne;;nous ;;;ronronnons;;vous ;;;ronronnez;;ils/elles ;;;ronronnent
+Indicatif Passé Composé;indicatif;;j’;;;ai ronronné;;tu ;;;as ronronné;;il/elle/on ;;;a ronronné;;nous ;;;avons ronronné;;vous ;;;avez ronronné;;ils/elles ;;;ont ronronné
+Indicatif Imparfait;indicatif;;je ;;;ronronnais;;tu ;;;ronronnais;;il/elle/on ;;;ronronnait;;nous ;;;ronronnions;;vous ;;;ronronniez;;ils/elles ;;;ronronnaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais ronronné;;tu ;;;avais ronronné;;il/elle/on ;;;avait ronronné;;nous ;;;avions ronronné;;vous ;;;aviez ronronné;;ils/elles ;;;avaient ronronné
+Indicatif Passé Simple;indicatif;;je ;;;ronronnai;;tu ;;;ronronnas;;il/elle/on ;;;ronronna;;nous ;;;ronronnâmes;;vous ;;;ronronnâtes;;ils/elles ;;;ronronnèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus ronronné;;tu ;;;eus ronronné;;il/elle/on ;;;eut ronronné;;nous ;;;eûmes ronronné;;vous ;;;eûtes ronronné;;ils/elles ;;;eurent ronronné
+Indicatif Futur Simple;indicatif;;je ;;;ronronnerai;;tu ;;;ronronneras;;il/elle/on ;;;ronronnera;;nous ;;;ronronnerons;;vous ;;;ronronnerez;;ils/elles ;;;ronronneront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai ronronné;;tu ;;;auras ronronné;;il/elle/on ;;;aura ronronné;;nous ;;;aurons ronronné;;vous ;;;aurez ronronné;;ils/elles ;;;auront ronronné
+Subjonctif Présent;subjonctif;que ;je ;;;ronronne;que ;tu ;;;ronronnes;qu’;il/elle/on ;;;ronronne;que ;nous ;;;ronronnions;que ;vous ;;;ronronniez;qu’;ils/elles ;;;ronronnent
+Subjonctif Passé;subjonctif;que ;j’;;;aie ronronné;que ;tu ;;;aies ronronné;qu’;il/elle/on ;;;ait ronronné;que ;nous ;;;ayons ronronné;que ;vous ;;;ayez ronronné;qu’;ils/elles ;;;aient ronronné
+Subjonctif Imparfait;subjonctif;que ;je ;;;ronronnasse;que ;tu ;;;ronronnasses;qu’;il/elle/on ;;;ronronnât;que ;nous ;;;ronronnassions;que ;vous ;;;ronronnassiez;qu’;ils/elles ;;;ronronnassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse ronronné;que ;tu ;;;eusses ronronné;qu’;il/elle/on ;;;eût ronronné;que ;nous ;;;eussions ronronné;que ;vous ;;;eussiez ronronné;qu’;ils/elles ;;;eussent ronronné
+Conditionnel;conditionnel;;je ;;;ronronnerais;;tu ;;;ronronnerais;;il/elle/on ;;;ronronnerait;;nous ;;;ronronnerions;;vous ;;;ronronneriez;;ils/elles ;;;ronronneraient
+Conditionnel Passé;conditionnel;;j’;;;aurais ronronné;;tu ;;;aurais ronronné;;il/elle/on ;;;aurait ronronné;;nous ;;;aurions ronronné;;vous ;;;auriez ronronné;;ils/elles ;;;auraient ronronné
+Impératif Présent;impératif;;;;;;;;;;ronronne;;;;;;;;;;ronronnons;;;;;ronronnez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;ronronner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;ronronn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

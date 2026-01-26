@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;employer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir employé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en employant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant employé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;employant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;employé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;emploie;;tu ;;;emploies;;il/elle/on ;;;emploie;;nous ;;;employons;;vous ;;;employez;;ils/elles ;;;emploient
+Indicatif Passé Composé;indicatif;;j’;;;ai employé;;tu ;;;as employé;;il/elle/on ;;;a employé;;nous ;;;avons employé;;vous ;;;avez employé;;ils/elles ;;;ont employé
+Indicatif Imparfait;indicatif;;j’;;;employais;;tu ;;;employais;;il/elle/on ;;;employait;;nous ;;;employions;;vous ;;;employiez;;ils/elles ;;;employaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais employé;;tu ;;;avais employé;;il/elle/on ;;;avait employé;;nous ;;;avions employé;;vous ;;;aviez employé;;ils/elles ;;;avaient employé
+Indicatif Passé Simple;indicatif;;j’;;;employai;;tu ;;;employas;;il/elle/on ;;;employa;;nous ;;;employâmes;;vous ;;;employâtes;;ils/elles ;;;employèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus employé;;tu ;;;eus employé;;il/elle/on ;;;eut employé;;nous ;;;eûmes employé;;vous ;;;eûtes employé;;ils/elles ;;;eurent employé
+Indicatif Futur Simple;indicatif;;j’;;;emploierai;;tu ;;;emploieras;;il/elle/on ;;;emploiera;;nous ;;;emploierons;;vous ;;;emploierez;;ils/elles ;;;emploieront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai employé;;tu ;;;auras employé;;il/elle/on ;;;aura employé;;nous ;;;aurons employé;;vous ;;;aurez employé;;ils/elles ;;;auront employé
+Subjonctif Présent;subjonctif;que ;j’;;;emploie;que ;tu ;;;emploies;qu’;il/elle/on ;;;emploie;que ;nous ;;;employions;que ;vous ;;;employiez;qu’;ils/elles ;;;emploient
+Subjonctif Passé;subjonctif;que ;j’;;;aie employé;que ;tu ;;;aies employé;qu’;il/elle/on ;;;ait employé;que ;nous ;;;ayons employé;que ;vous ;;;ayez employé;qu’;ils/elles ;;;aient employé
+Subjonctif Imparfait;subjonctif;que ;j’;;;employasse;que ;tu ;;;employasses;qu’;il/elle/on ;;;employât;que ;nous ;;;employassions;que ;vous ;;;employassiez;qu’;ils/elles ;;;employassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse employé;que ;tu ;;;eusses employé;qu’;il/elle/on ;;;eût employé;que ;nous ;;;eussions employé;que ;vous ;;;eussiez employé;qu’;ils/elles ;;;eussent employé
+Conditionnel;conditionnel;;j’;;;emploierais;;tu ;;;emploierais;;il/elle/on ;;;emploierait;;nous ;;;emploierions;;vous ;;;emploieriez;;ils/elles ;;;emploieraient
+Conditionnel Passé;conditionnel;;j’;;;aurais employé;;tu ;;;aurais employé;;il/elle/on ;;;aurait employé;;nous ;;;aurions employé;;vous ;;;auriez employé;;ils/elles ;;;auraient employé
+Impératif Présent;impératif;;;;;;;;;;emploie;;;;;;;;;;employons;;;;;employez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;employer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;employ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

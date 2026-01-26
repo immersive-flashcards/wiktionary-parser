@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;contribuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir contribué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en contribuant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant contribué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;contribuant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;contribué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;contribue;;tu ;;;contribues;;il/elle/on ;;;contribue;;nous ;;;contribuons;;vous ;;;contribuez;;ils/elles ;;;contribuent
+Indicatif Passé Composé;indicatif;;j’;;;ai contribué;;tu ;;;as contribué;;il/elle/on ;;;a contribué;;nous ;;;avons contribué;;vous ;;;avez contribué;;ils/elles ;;;ont contribué
+Indicatif Imparfait;indicatif;;je ;;;contribuais;;tu ;;;contribuais;;il/elle/on ;;;contribuait;;nous ;;;contribuions;;vous ;;;contribuiez;;ils/elles ;;;contribuaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais contribué;;tu ;;;avais contribué;;il/elle/on ;;;avait contribué;;nous ;;;avions contribué;;vous ;;;aviez contribué;;ils/elles ;;;avaient contribué
+Indicatif Passé Simple;indicatif;;je ;;;contribuai;;tu ;;;contribuas;;il/elle/on ;;;contribua;;nous ;;;contribuâmes;;vous ;;;contribuâtes;;ils/elles ;;;contribuèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus contribué;;tu ;;;eus contribué;;il/elle/on ;;;eut contribué;;nous ;;;eûmes contribué;;vous ;;;eûtes contribué;;ils/elles ;;;eurent contribué
+Indicatif Futur Simple;indicatif;;je ;;;contribuerai;;tu ;;;contribueras;;il/elle/on ;;;contribuera;;nous ;;;contribuerons;;vous ;;;contribuerez;;ils/elles ;;;contribueront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai contribué;;tu ;;;auras contribué;;il/elle/on ;;;aura contribué;;nous ;;;aurons contribué;;vous ;;;aurez contribué;;ils/elles ;;;auront contribué
+Subjonctif Présent;subjonctif;que ;je ;;;contribue;que ;tu ;;;contribues;qu’;il/elle/on ;;;contribue;que ;nous ;;;contribuions;que ;vous ;;;contribuiez;qu’;ils/elles ;;;contribuent
+Subjonctif Passé;subjonctif;que ;j’;;;aie contribué;que ;tu ;;;aies contribué;qu’;il/elle/on ;;;ait contribué;que ;nous ;;;ayons contribué;que ;vous ;;;ayez contribué;qu’;ils/elles ;;;aient contribué
+Subjonctif Imparfait;subjonctif;que ;je ;;;contribuasse;que ;tu ;;;contribuasses;qu’;il/elle/on ;;;contribuât;que ;nous ;;;contribuassions;que ;vous ;;;contribuassiez;qu’;ils/elles ;;;contribuassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse contribué;que ;tu ;;;eusses contribué;qu’;il/elle/on ;;;eût contribué;que ;nous ;;;eussions contribué;que ;vous ;;;eussiez contribué;qu’;ils/elles ;;;eussent contribué
+Conditionnel;conditionnel;;je ;;;contribuerais;;tu ;;;contribuerais;;il/elle/on ;;;contribuerait;;nous ;;;contribuerions;;vous ;;;contribueriez;;ils/elles ;;;contribueraient
+Conditionnel Passé;conditionnel;;j’;;;aurais contribué;;tu ;;;aurais contribué;;il/elle/on ;;;aurait contribué;;nous ;;;aurions contribué;;vous ;;;auriez contribué;;ils/elles ;;;auraient contribué
+Impératif Présent;impératif;;;;;;;;;;contribue;;;;;;;;;;contribuons;;;;;contribuez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;contribuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;contribu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;maintenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir maintenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en maintenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant maintenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;maintenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;maintenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;maintiens;;tu ;;;maintiens;;il/elle/on ;;;maintient;;nous ;;;maintenons;;vous ;;;maintenez;;ils/elles ;;;maintiennent
+Indicatif Passé Composé;indicatif;;j’;;;ai maintenu;;tu ;;;as maintenu;;il/elle/on ;;;a maintenu;;nous ;;;avons maintenu;;vous ;;;avez maintenu;;ils/elles ;;;ont maintenu
+Indicatif Imparfait;indicatif;;je ;;;maintenais;;tu ;;;maintenais;;il/elle/on ;;;maintenait;;nous ;;;maintenions;;vous ;;;mainteniez;;ils/elles ;;;maintenaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais maintenu;;tu ;;;avais maintenu;;il/elle/on ;;;avait maintenu;;nous ;;;avions maintenu;;vous ;;;aviez maintenu;;ils/elles ;;;avaient maintenu
+Indicatif Passé Simple;indicatif;;je ;;;maintins;;tu ;;;maintins;;il/elle/on ;;;maintint;;nous ;;;maintînmes;;vous ;;;maintîntes;;ils/elles ;;;maintinrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus maintenu;;tu ;;;eus maintenu;;il/elle/on ;;;eut maintenu;;nous ;;;eûmes maintenu;;vous ;;;eûtes maintenu;;ils/elles ;;;eurent maintenu
+Indicatif Futur Simple;indicatif;;je ;;;maintiendrai;;tu ;;;maintiendras;;il/elle/on ;;;maintiendra;;nous ;;;maintiendrons;;vous ;;;maintiendrez;;ils/elles ;;;maintiendront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai maintenu;;tu ;;;auras maintenu;;il/elle/on ;;;aura maintenu;;nous ;;;aurons maintenu;;vous ;;;aurez maintenu;;ils/elles ;;;auront maintenu
+Subjonctif Présent;subjonctif;que ;je ;;;maintienne;que ;tu ;;;maintiennes;qu’;il/elle/on ;;;maintienne;que ;nous ;;;maintenions;que ;vous ;;;mainteniez;qu’;ils/elles ;;;maintiennent
+Subjonctif Passé;subjonctif;que ;j’;;;aie maintenu;que ;tu ;;;aies maintenu;qu’;il/elle/on ;;;ait maintenu;que ;nous ;;;ayons maintenu;que ;vous ;;;ayez maintenu;qu’;ils/elles ;;;aient maintenu
+Subjonctif Imparfait;subjonctif;que ;je ;;;maintinsse;que ;tu ;;;maintinsses;qu’;il/elle/on ;;;maintînt;que ;nous ;;;maintinssions;que ;vous ;;;maintinssiez;qu’;ils/elles ;;;maintinssent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse maintenu;que ;tu ;;;eusses maintenu;qu’;il/elle/on ;;;eût maintenu;que ;nous ;;;eussions maintenu;que ;vous ;;;eussiez maintenu;qu’;ils/elles ;;;eussent maintenu
+Conditionnel;conditionnel;;je ;;;maintiendrais;;tu ;;;maintiendrais;;il/elle/on ;;;maintiendrait;;nous ;;;maintiendrions;;vous ;;;maintiendriez;;ils/elles ;;;maintiendraient
+Conditionnel Passé;conditionnel;;j’;;;aurais maintenu;;tu ;;;aurais maintenu;;il/elle/on ;;;aurait maintenu;;nous ;;;aurions maintenu;;vous ;;;auriez maintenu;;ils/elles ;;;auraient maintenu
+Impératif Présent;impératif;;;;;;;;;;maintiens;;;;;;;;;;maintenons;;;;;maintenez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;maintenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;mainten;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

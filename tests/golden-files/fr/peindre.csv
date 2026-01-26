@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;peindre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir peint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en peignant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant peint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;peignant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;peint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;peins;;tu ;;;peins;;il/elle/on ;;;peint;;nous ;;;peignons;;vous ;;;peignez;;ils/elles ;;;peignent
+Indicatif Passé Composé;indicatif;;j’;;;ai peint;;tu ;;;as peint;;il/elle/on ;;;a peint;;nous ;;;avons peint;;vous ;;;avez peint;;ils/elles ;;;ont peint
+Indicatif Imparfait;indicatif;;je ;;;peignais;;tu ;;;peignais;;il/elle/on ;;;peignait;;nous ;;;peignions;;vous ;;;peigniez;;ils/elles ;;;peignaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais peint;;tu ;;;avais peint;;il/elle/on ;;;avait peint;;nous ;;;avions peint;;vous ;;;aviez peint;;ils/elles ;;;avaient peint
+Indicatif Passé Simple;indicatif;;je ;;;peignis;;tu ;;;peignis;;il/elle/on ;;;peignit;;nous ;;;peignîmes;;vous ;;;peignîtes;;ils/elles ;;;peignirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus peint;;tu ;;;eus peint;;il/elle/on ;;;eut peint;;nous ;;;eûmes peint;;vous ;;;eûtes peint;;ils/elles ;;;eurent peint
+Indicatif Futur Simple;indicatif;;je ;;;peindrai;;tu ;;;peindras;;il/elle/on ;;;peindra;;nous ;;;peindrons;;vous ;;;peindrez;;ils/elles ;;;peindront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai peint;;tu ;;;auras peint;;il/elle/on ;;;aura peint;;nous ;;;aurons peint;;vous ;;;aurez peint;;ils/elles ;;;auront peint
+Subjonctif Présent;subjonctif;que ;je ;;;peigne;que ;tu ;;;peignes;qu’;il/elle/on ;;;peigne;que ;nous ;;;peignions;que ;vous ;;;peigniez;qu’;ils/elles ;;;peignent
+Subjonctif Passé;subjonctif;que ;j’;;;aie peint;que ;tu ;;;aies peint;qu’;il/elle/on ;;;ait peint;que ;nous ;;;ayons peint;que ;vous ;;;ayez peint;qu’;ils/elles ;;;aient peint
+Subjonctif Imparfait;subjonctif;que ;je ;;;peignisse;que ;tu ;;;peignisses;qu’;il/elle/on ;;;peignît;que ;nous ;;;peignissions;que ;vous ;;;peignissiez;qu’;ils/elles ;;;peignissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse peint;que ;tu ;;;eusses peint;qu’;il/elle/on ;;;eût peint;que ;nous ;;;eussions peint;que ;vous ;;;eussiez peint;qu’;ils/elles ;;;eussent peint
+Conditionnel;conditionnel;;je ;;;peindrais;;tu ;;;peindrais;;il/elle/on ;;;peindrait;;nous ;;;peindrions;;vous ;;;peindriez;;ils/elles ;;;peindraient
+Conditionnel Passé;conditionnel;;j’;;;aurais peint;;tu ;;;aurais peint;;il/elle/on ;;;aurait peint;;nous ;;;aurions peint;;vous ;;;auriez peint;;ils/elles ;;;auraient peint
+Impératif Présent;impératif;;;;;;;;;;peins;;;;;;;;;;peignons;;;;;peignez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;peindre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;peind;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;inhumer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir inhumé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en inhumant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant inhumé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;inhumant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;inhumé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;inhume;;tu ;;;inhumes;;il/elle/on ;;;inhume;;nous ;;;inhumons;;vous ;;;inhumez;;ils/elles ;;;inhument
+Indicatif Passé Composé;indicatif;;j’;;;ai inhumé;;tu ;;;as inhumé;;il/elle/on ;;;a inhumé;;nous ;;;avons inhumé;;vous ;;;avez inhumé;;ils/elles ;;;ont inhumé
+Indicatif Imparfait;indicatif;;j’;;;inhumais;;tu ;;;inhumais;;il/elle/on ;;;inhumait;;nous ;;;inhumions;;vous ;;;inhumiez;;ils/elles ;;;inhumaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais inhumé;;tu ;;;avais inhumé;;il/elle/on ;;;avait inhumé;;nous ;;;avions inhumé;;vous ;;;aviez inhumé;;ils/elles ;;;avaient inhumé
+Indicatif Passé Simple;indicatif;;j’;;;inhumai;;tu ;;;inhumas;;il/elle/on ;;;inhuma;;nous ;;;inhumâmes;;vous ;;;inhumâtes;;ils/elles ;;;inhumèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus inhumé;;tu ;;;eus inhumé;;il/elle/on ;;;eut inhumé;;nous ;;;eûmes inhumé;;vous ;;;eûtes inhumé;;ils/elles ;;;eurent inhumé
+Indicatif Futur Simple;indicatif;;j’;;;inhumerai;;tu ;;;inhumeras;;il/elle/on ;;;inhumera;;nous ;;;inhumerons;;vous ;;;inhumerez;;ils/elles ;;;inhumeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai inhumé;;tu ;;;auras inhumé;;il/elle/on ;;;aura inhumé;;nous ;;;aurons inhumé;;vous ;;;aurez inhumé;;ils/elles ;;;auront inhumé
+Subjonctif Présent;subjonctif;que ;j’;;;inhume;que ;tu ;;;inhumes;qu’;il/elle/on ;;;inhume;que ;nous ;;;inhumions;que ;vous ;;;inhumiez;qu’;ils/elles ;;;inhument
+Subjonctif Passé;subjonctif;que ;j’;;;aie inhumé;que ;tu ;;;aies inhumé;qu’;il/elle/on ;;;ait inhumé;que ;nous ;;;ayons inhumé;que ;vous ;;;ayez inhumé;qu’;ils/elles ;;;aient inhumé
+Subjonctif Imparfait;subjonctif;que ;j’;;;inhumasse;que ;tu ;;;inhumasses;qu’;il/elle/on ;;;inhumât;que ;nous ;;;inhumassions;que ;vous ;;;inhumassiez;qu’;ils/elles ;;;inhumassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse inhumé;que ;tu ;;;eusses inhumé;qu’;il/elle/on ;;;eût inhumé;que ;nous ;;;eussions inhumé;que ;vous ;;;eussiez inhumé;qu’;ils/elles ;;;eussent inhumé
+Conditionnel;conditionnel;;j’;;;inhumerais;;tu ;;;inhumerais;;il/elle/on ;;;inhumerait;;nous ;;;inhumerions;;vous ;;;inhumeriez;;ils/elles ;;;inhumeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais inhumé;;tu ;;;aurais inhumé;;il/elle/on ;;;aurait inhumé;;nous ;;;aurions inhumé;;vous ;;;auriez inhumé;;ils/elles ;;;auraient inhumé
+Impératif Présent;impératif;;;;;;;;;;inhume;;;;;;;;;;inhumons;;;;;inhumez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;inhumer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;inhum;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

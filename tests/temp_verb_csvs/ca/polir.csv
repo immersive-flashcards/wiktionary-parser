@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;polir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;polint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;polit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;poleixo;;tu ;;;poleixes;;ell //ella //vostè ;;;poleix;;nosaltres ;;;polim;;vosaltres ;;;poliu;;ells //elles //vostès ;;;poleixen
+Indicatiu Imperfet;indicativo;;jo ;;;polia;;tu ;;;polies;;ell //ella //vostè ;;;polia;;nosaltres ;;;políem;;vosaltres ;;;políeu;;ells //elles //vostès ;;;polien
+Indicatiu Futur;indicativo;;jo ;;;poliré;;tu ;;;poliràs;;ell //ella //vostè ;;;polirà;;nosaltres ;;;polirem;;vosaltres ;;;polireu;;ells //elles //vostès ;;;poliran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;polí;;tu ;;;polires;;ell //ella //vostè ;;;polí;;nosaltres ;;;polírem;;vosaltres ;;;políreu;;ells //elles //vostès ;;;poliren
+Condicional;condicional;;jo ;;;poliria;;tu ;;;poliries;;ell //ella //vostè ;;;poliria;;nosaltres ;;;poliríem;;vosaltres ;;;poliríeu;;ells //elles //vostès ;;;polirien
+Subjuntiu Present;subjuntiu;;jo ;;;poleixi;;tu ;;;poleixis;;ell //ella //vostè ;;;poleixi;;nosaltres ;;;polim;;vosaltres ;;;poliu;;ells //elles //vostès ;;;poleixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;polís;;tu ;;;polissis;;ell //ella //vostè ;;;polís;;nosaltres ;;;políssim;;vosaltres ;;;políssiu;;ells //elles //vostès ;;;polissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;poleix;;(vostè) ;;;poleixi;;(nosaltres) ;;;polim;;(vosaltres) ;;;poliu;;(vostès) ;;;poleixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;poleixis;;(vostè) ;no ;;poleixi;;(nosaltres) ;no ;;polim;;(vosaltres) ;no ;;poliu;;(vostès) ;no ;;poleixin
+Indicatiu Perfet;indicatiu;;jo ;;;he polit;;tu ;;;has polit;;ell //ella //vostè ;;;ha polit;;nosaltres ;;;hem polit;;vosaltres ;;;heu polit;;ells //elles //vostès ;;;han polit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig polit;;tu ;;;vas polit;;ell //ella //vostè ;;;va polit;;nosaltres ;;;vam polit;;vosaltres ;;;vau polit;;ells //elles //vostès ;;;van polit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia polit;;tu ;;;havies polit;;ell //ella //vostè ;;;havia polit;;nosaltres ;;;havíem polit;;vosaltres ;;;havíeu polit;;ells //elles //vostès ;;;havien polit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí polit;;tu ;;;hagueres polit;;ell //ella //vostè ;;;hagué polit;;nosaltres ;;;haguérem polit;;vosaltres ;;;haguéreu polit;;ells //elles //vostès ;;;hagueren polit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver polit;;tu ;;;vas haver polit;;ell //ella //vostè ;;;va haver polit;;nosaltres ;;;vam haver polit;;vosaltres ;;;vau haver polit;;ells //elles //vostès ;;;van haver polit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré polit;;tu ;;;hauràs polit;;ell //ella //vostè ;;;haurà polit;;nosaltres ;;;haurem polit;;vosaltres ;;;haureu polit;;ells //elles //vostès ;;;hauran polit
+Condicional Perfet;condicional;;jo ;;;hauria polit;;tu ;;;hauries polit;;ell //ella //vostè ;;;hauria polit;;nosaltres ;;;hauríem polit;;vosaltres ;;;hauríeu polit;;ells //elles //vostès ;;;haurien polit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi polit;;tu ;;;vagis polit;;ell //ella //vostè ;;;vagi polit;;nosaltres ;;;vàgim polit;;vosaltres ;;;vàgiu polit;;ells //elles //vostès ;;;vagin polit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi polit;;tu ;;;hagis polit;;ell //ella //vostè ;;;hagi polit;;nosaltres ;;;hàgim polit;;vosaltres ;;;hàgiu polit;;ells //elles //vostès ;;;hagin polit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes polit;;tu ;;;haguessis polit;;ell //ella //vostè ;;;hagués polit;;nosaltres ;;;haguéssim polit;;vosaltres ;;;haguéssiu polit;;ells //elles //vostès ;;;haguessin polit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver polit;;tu ;;;vagis haver polit;;ell //ella //vostè ;;;vagi haver polit;;nosaltres ;;;vàgim haver polit;;vosaltres ;;;vàgiu haver polit;;ells //elles //vostès ;;;vagin haver polit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;polir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;pol;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

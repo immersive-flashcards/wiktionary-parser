@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;apprivoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir apprivoisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en apprivoisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant apprivoisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;apprivoisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;apprivoisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;apprivoise;;tu ;;;apprivoises;;il/elle/on ;;;apprivoise;;nous ;;;apprivoisons;;vous ;;;apprivoisez;;ils/elles ;;;apprivoisent
+Indicatif Passé Composé;indicatif;;j’;;;ai apprivoisé;;tu ;;;as apprivoisé;;il/elle/on ;;;a apprivoisé;;nous ;;;avons apprivoisé;;vous ;;;avez apprivoisé;;ils/elles ;;;ont apprivoisé
+Indicatif Imparfait;indicatif;;j’;;;apprivoisais;;tu ;;;apprivoisais;;il/elle/on ;;;apprivoisait;;nous ;;;apprivoisions;;vous ;;;apprivoisiez;;ils/elles ;;;apprivoisaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais apprivoisé;;tu ;;;avais apprivoisé;;il/elle/on ;;;avait apprivoisé;;nous ;;;avions apprivoisé;;vous ;;;aviez apprivoisé;;ils/elles ;;;avaient apprivoisé
+Indicatif Passé Simple;indicatif;;j’;;;apprivoisai;;tu ;;;apprivoisas;;il/elle/on ;;;apprivoisa;;nous ;;;apprivoisâmes;;vous ;;;apprivoisâtes;;ils/elles ;;;apprivoisèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus apprivoisé;;tu ;;;eus apprivoisé;;il/elle/on ;;;eut apprivoisé;;nous ;;;eûmes apprivoisé;;vous ;;;eûtes apprivoisé;;ils/elles ;;;eurent apprivoisé
+Indicatif Futur Simple;indicatif;;j’;;;apprivoiserai;;tu ;;;apprivoiseras;;il/elle/on ;;;apprivoisera;;nous ;;;apprivoiserons;;vous ;;;apprivoiserez;;ils/elles ;;;apprivoiseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai apprivoisé;;tu ;;;auras apprivoisé;;il/elle/on ;;;aura apprivoisé;;nous ;;;aurons apprivoisé;;vous ;;;aurez apprivoisé;;ils/elles ;;;auront apprivoisé
+Subjonctif Présent;subjonctif;que ;j’;;;apprivoise;que ;tu ;;;apprivoises;qu’;il/elle/on ;;;apprivoise;que ;nous ;;;apprivoisions;que ;vous ;;;apprivoisiez;qu’;ils/elles ;;;apprivoisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie apprivoisé;que ;tu ;;;aies apprivoisé;qu’;il/elle/on ;;;ait apprivoisé;que ;nous ;;;ayons apprivoisé;que ;vous ;;;ayez apprivoisé;qu’;ils/elles ;;;aient apprivoisé
+Subjonctif Imparfait;subjonctif;que ;j’;;;apprivoisasse;que ;tu ;;;apprivoisasses;qu’;il/elle/on ;;;apprivoisât;que ;nous ;;;apprivoisassions;que ;vous ;;;apprivoisassiez;qu’;ils/elles ;;;apprivoisassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse apprivoisé;que ;tu ;;;eusses apprivoisé;qu’;il/elle/on ;;;eût apprivoisé;que ;nous ;;;eussions apprivoisé;que ;vous ;;;eussiez apprivoisé;qu’;ils/elles ;;;eussent apprivoisé
+Conditionnel;conditionnel;;j’;;;apprivoiserais;;tu ;;;apprivoiserais;;il/elle/on ;;;apprivoiserait;;nous ;;;apprivoiserions;;vous ;;;apprivoiseriez;;ils/elles ;;;apprivoiseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais apprivoisé;;tu ;;;aurais apprivoisé;;il/elle/on ;;;aurait apprivoisé;;nous ;;;aurions apprivoisé;;vous ;;;auriez apprivoisé;;ils/elles ;;;auraient apprivoisé
+Impératif Présent;impératif;;;;;;;;;;apprivoise;;;;;;;;;;apprivoisons;;;;;apprivoisez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;apprivoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;apprivois;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

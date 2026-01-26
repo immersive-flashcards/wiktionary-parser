@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;pair;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;paint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;paït;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;paeixo;;tu ;;;paeixes;;ell //ella //vostè ;;;paeix;;nosaltres ;;;païm;;vosaltres ;;;païu;;ells //elles //vostès ;;;paeixen
+Indicatiu Imperfet;indicativo;;jo ;;;païa;;tu ;;;païes;;ell //ella //vostè ;;;païa;;nosaltres ;;;paíem;;vosaltres ;;;paíeu;;ells //elles //vostès ;;;païen
+Indicatiu Futur;indicativo;;jo ;;;pairé;;tu ;;;pairàs;;ell //ella //vostè ;;;pairà;;nosaltres ;;;pairem;;vosaltres ;;;paireu;;ells //elles //vostès ;;;pairan
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;paí;;tu ;;;païres;;ell //ella //vostè ;;;paí;;nosaltres ;;;paírem;;vosaltres ;;;paíreu;;ells //elles //vostès ;;;païren
+Condicional;condicional;;jo ;;;pairia;;tu ;;;pairies;;ell //ella //vostè ;;;pairia;;nosaltres ;;;pairíem;;vosaltres ;;;pairíeu;;ells //elles //vostès ;;;pairien
+Subjuntiu Present;subjuntiu;;jo ;;;paeixi;;tu ;;;paeixis;;ell //ella //vostè ;;;paeixi;;nosaltres ;;;païm;;vosaltres ;;;païu;;ells //elles //vostès ;;;paeixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;país;;tu ;;;païssis;;ell //ella //vostè ;;;país;;nosaltres ;;;paíssim;;vosaltres ;;;paíssiu;;ells //elles //vostès ;;;païssin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;paeix;;(vostè) ;;;paeixi;;(nosaltres) ;;;païm;;(vosaltres) ;;;païu;;(vostès) ;;;paeixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;paeixis;;(vostè) ;no ;;paeixi;;(nosaltres) ;no ;;païm;;(vosaltres) ;no ;;païu;;(vostès) ;no ;;paeixin
+Indicatiu Perfet;indicatiu;;jo ;;;he paït;;tu ;;;has paït;;ell //ella //vostè ;;;ha paït;;nosaltres ;;;hem paït;;vosaltres ;;;heu paït;;ells //elles //vostès ;;;han paït
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig paït;;tu ;;;vas paït;;ell //ella //vostè ;;;va paït;;nosaltres ;;;vam paït;;vosaltres ;;;vau paït;;ells //elles //vostès ;;;van paït
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia paït;;tu ;;;havies paït;;ell //ella //vostè ;;;havia paït;;nosaltres ;;;havíem paït;;vosaltres ;;;havíeu paït;;ells //elles //vostès ;;;havien paït
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí paït;;tu ;;;hagueres paït;;ell //ella //vostè ;;;hagué paït;;nosaltres ;;;haguérem paït;;vosaltres ;;;haguéreu paït;;ells //elles //vostès ;;;hagueren paït
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver paït;;tu ;;;vas haver paït;;ell //ella //vostè ;;;va haver paït;;nosaltres ;;;vam haver paït;;vosaltres ;;;vau haver paït;;ells //elles //vostès ;;;van haver paït
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré paït;;tu ;;;hauràs paït;;ell //ella //vostè ;;;haurà paït;;nosaltres ;;;haurem paït;;vosaltres ;;;haureu paït;;ells //elles //vostès ;;;hauran paït
+Condicional Perfet;condicional;;jo ;;;hauria paït;;tu ;;;hauries paït;;ell //ella //vostè ;;;hauria paït;;nosaltres ;;;hauríem paït;;vosaltres ;;;hauríeu paït;;ells //elles //vostès ;;;haurien paït
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi paït;;tu ;;;vagis paït;;ell //ella //vostè ;;;vagi paït;;nosaltres ;;;vàgim paït;;vosaltres ;;;vàgiu paït;;ells //elles //vostès ;;;vagin paït
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi paït;;tu ;;;hagis paït;;ell //ella //vostè ;;;hagi paït;;nosaltres ;;;hàgim paït;;vosaltres ;;;hàgiu paït;;ells //elles //vostès ;;;hagin paït
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes paït;;tu ;;;haguessis paït;;ell //ella //vostè ;;;hagués paït;;nosaltres ;;;haguéssim paït;;vosaltres ;;;haguéssiu paït;;ells //elles //vostès ;;;haguessin paït
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver paït;;tu ;;;vagis haver paït;;ell //ella //vostè ;;;vagi haver paït;;nosaltres ;;;vàgim haver paït;;vosaltres ;;;vàgiu haver paït;;ells //elles //vostès ;;;vagin haver paït
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;pair;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;pa;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;emblaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir emblavé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en emblavant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant emblavé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;emblavant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;emblavé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;emblave;;tu ;;;emblaves;;il/elle/on ;;;emblave;;nous ;;;emblavons;;vous ;;;emblavez;;ils/elles ;;;emblavent
+Indicatif Passé Composé;indicatif;;j’;;;ai emblavé;;tu ;;;as emblavé;;il/elle/on ;;;a emblavé;;nous ;;;avons emblavé;;vous ;;;avez emblavé;;ils/elles ;;;ont emblavé
+Indicatif Imparfait;indicatif;;j’;;;emblavais;;tu ;;;emblavais;;il/elle/on ;;;emblavait;;nous ;;;emblavions;;vous ;;;emblaviez;;ils/elles ;;;emblavaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais emblavé;;tu ;;;avais emblavé;;il/elle/on ;;;avait emblavé;;nous ;;;avions emblavé;;vous ;;;aviez emblavé;;ils/elles ;;;avaient emblavé
+Indicatif Passé Simple;indicatif;;j’;;;emblavai;;tu ;;;emblavas;;il/elle/on ;;;emblava;;nous ;;;emblavâmes;;vous ;;;emblavâtes;;ils/elles ;;;emblavèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus emblavé;;tu ;;;eus emblavé;;il/elle/on ;;;eut emblavé;;nous ;;;eûmes emblavé;;vous ;;;eûtes emblavé;;ils/elles ;;;eurent emblavé
+Indicatif Futur Simple;indicatif;;j’;;;emblaverai;;tu ;;;emblaveras;;il/elle/on ;;;emblavera;;nous ;;;emblaverons;;vous ;;;emblaverez;;ils/elles ;;;emblaveront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai emblavé;;tu ;;;auras emblavé;;il/elle/on ;;;aura emblavé;;nous ;;;aurons emblavé;;vous ;;;aurez emblavé;;ils/elles ;;;auront emblavé
+Subjonctif Présent;subjonctif;que ;j’;;;emblave;que ;tu ;;;emblaves;qu’;il/elle/on ;;;emblave;que ;nous ;;;emblavions;que ;vous ;;;emblaviez;qu’;ils/elles ;;;emblavent
+Subjonctif Passé;subjonctif;que ;j’;;;aie emblavé;que ;tu ;;;aies emblavé;qu’;il/elle/on ;;;ait emblavé;que ;nous ;;;ayons emblavé;que ;vous ;;;ayez emblavé;qu’;ils/elles ;;;aient emblavé
+Subjonctif Imparfait;subjonctif;que ;j’;;;emblavasse;que ;tu ;;;emblavasses;qu’;il/elle/on ;;;emblavât;que ;nous ;;;emblavassions;que ;vous ;;;emblavassiez;qu’;ils/elles ;;;emblavassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse emblavé;que ;tu ;;;eusses emblavé;qu’;il/elle/on ;;;eût emblavé;que ;nous ;;;eussions emblavé;que ;vous ;;;eussiez emblavé;qu’;ils/elles ;;;eussent emblavé
+Conditionnel;conditionnel;;j’;;;emblaverais;;tu ;;;emblaverais;;il/elle/on ;;;emblaverait;;nous ;;;emblaverions;;vous ;;;emblaveriez;;ils/elles ;;;emblaveraient
+Conditionnel Passé;conditionnel;;j’;;;aurais emblavé;;tu ;;;aurais emblavé;;il/elle/on ;;;aurait emblavé;;nous ;;;aurions emblavé;;vous ;;;auriez emblavé;;ils/elles ;;;auraient emblavé
+Impératif Présent;impératif;;;;;;;;;;emblave;;;;;;;;;;emblavons;;;;;emblavez;;;;;
+auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;emblaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;emblav;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

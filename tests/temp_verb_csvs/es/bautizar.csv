@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;bautizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;bautizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;bautizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;bautizo;;tú ;;;bautizas;;él //ella //usted ;;;bautiza;;nosotros //nosotras ;;;bautizamos;;vosotros //vosotras ;;;bautizáis;;ellos //ellas //ustedes ;;;bautizan;;vos ;;;bautizás
+Indicativo Imperfecto;indicativo;;yo ;;;bautizaba;;tú //vos ;;;bautizabas;;él //ella //usted ;;;bautizaba;;nosotros //nosotras ;;;bautizábamos;;vosotros //vosotras ;;;bautizabais;;ellos //ellas //ustedes ;;;bautizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;bauticé;;tú //vos ;;;bautizaste;;él //ella //usted ;;;bautizó;;nosotros //nosotras ;;;bautizamos;;vosotros //vosotras ;;;bautizasteis;;ellos //ellas //ustedes ;;;bautizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;bautizaré;;tú //vos ;;;bautizarás;;él //ella //usted ;;;bautizará;;nosotros //nosotras ;;;bautizaremos;;vosotros //vosotras ;;;bautizaréis;;ellos //ellas //ustedes ;;;bautizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he bautizado;;tú //vos ;;;has bautizado;;él //ella //usted ;;;ha bautizado;;nosotros //nosotras ;;;hemos bautizado;;vosotros //vosotras ;;;habéis bautizado;;ellos //ellas //ustedes ;;;han bautizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había bautizado;;tú //vos ;;;habías bautizado;;él //ella //usted ;;;había bautizado;;nosotros //nosotras ;;;habíamos bautizado;;vosotros //vosotras ;;;habíais bautizado;;ellos //ellas //ustedes ;;;habían bautizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube bautizado;;tú //vos ;;;hubiste bautizado;;él //ella //usted ;;;hubo bautizado;;nosotros //nosotras ;;;hubimos bautizado;;vosotros //vosotras ;;;hubisteis bautizado;;ellos //ellas //ustedes ;;;hubieron bautizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré bautizado;;tú //vos ;;;habrás bautizado;;él //ella //usted ;;;habrá bautizado;;nosotros //nosotras ;;;habremos bautizado;;vosotros //vosotras ;;;habréis bautizado;;ellos //ellas //ustedes ;;;habrán bautizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;bautice;;tú //vos ;;;bautices;;él //ella //usted ;;;bautice;;nosotros //nosotras ;;;bauticemos;;vosotros //vosotras ;;;bauticéis;;ellos //ellas //ustedes ;;;bauticen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;bautizara / bautizase;;tú //vos ;;;bautizaras / bautizases;;él //ella //usted ;;;bautizara / bautizase;;nosotros //nosotras ;;;bautizáramos / bautizásemos;;vosotros //vosotras ;;;bautizarais / bautizaseis;;ellos //ellas //ustedes ;;;bautizaran / bautizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;bautizare;;tú //vos ;;;bautizares;;él //ella //usted ;;;bautizare;;nosotros //nosotras ;;;bautizáremos;;vosotros //vosotras ;;;bautizareis;;ellos //ellas //ustedes ;;;bautizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya bautizado;;tú //vos ;;;hayas bautizado;;él //ella //usted ;;;haya bautizado;;nosotros //nosotras ;;;hayamos bautizado;;vosotros //vosotras ;;;hayáis bautizado;;ellos //ellas //ustedes ;;;hayan bautizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera bautizado / hubiese bautizado;;tú //vos ;;;hubieras bautizado / hubieses bautizado;;él //ella //usted ;;;hubiera bautizado / hubiese bautizado;;nosotros //nosotras ;;;hubiéramos bautizado / hubiésemos bautizado;;vosotros //vosotras ;;;hubierais bautizado / hubieseis bautizado;;ellos //ellas //ustedes ;;;hubieran bautizado / hubiesen bautizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere bautizado;;tú //vos ;;;hubieres bautizado;;él //ella //usted ;;;hubiere bautizado;;nosotros //nosotras ;;;hubiéremos bautizado;;vosotros //vosotras ;;;hubiereis bautizado;;ellos //ellas //ustedes ;;;hubieren bautizado;;;;;
+Condicional;condicional;;yo ;;;bautizaría;;tú //vos ;;;bautizarías;;él //ella //usted ;;;bautizaría;;nosotros //nosotras ;;;bautizaríamos;;vosotros //vosotras ;;;bautizaríais;;ellos //ellas //ustedes ;;;bautizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría bautizado;;tú //vos ;;;habrías bautizado;;él //ella //usted ;;;habría bautizado;;nosotros //nosotras ;;;habríamos bautizado;;vosotros //vosotras ;;;habríais bautizado;;ellos //ellas //ustedes ;;;habrían bautizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bautiza;;(usted) ;;;bautice;;(nosotros) //(nosotras) ;;;bauticemos;;(vosotros) //(vosotras) ;;;bautizad;;(ustedes) ;;;bauticen;;(vos) ;;;bautizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bautices;;(usted) ;no ;;bautice;;(nosotros) //(nosotras) ;no ;;bauticemos;;(vosotros) //(vosotras) ;no ;;bauticéis;;(ustedes) ;no ;;bauticen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;bautizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bautiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

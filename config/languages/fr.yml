@@ -11,18 +11,19 @@ meta-data:
     - "ir"
     - "re"
 
-  #reflexive-suffixes: [ "-se", "'s" ]
-  reflexive-prefixes: [ "se ", "s'" ]
+  reflexive-prefixes: [ "se ", "s’" ]
+
+  conjunctions: [ "que ", "qu’" ]
 
 person-data:
 
   pronouns:
-    1: "je "
-    2: "tu "
-    3: "il //elle //on "
-    4: "nous "
-    5: "vous "
-    6: "ils //elles "
+    1: "je"
+    2: "tu"
+    3: "il/elle/on"
+    4: "nous"
+    5: "vous"
+    6: "ils/elles"
 
   imperative-pronouns:
     2: "(tu) "
@@ -30,12 +31,12 @@ person-data:
     5: "(vous) "
 
   reflexive-pronouns:
-    - [ "me ", "m'" ]
-    - [ "te ", "t'" ]
-    - [ "se ", "s'" ]
+    - [ "me ", "m’" ]
+    - [ "te ", "t’" ]
+    - [ "se ", "s’" ]
     - [ "nous " ]
     - [ "vous " ]
-    - [ "se ", "s'" ]
+    - [ "se ", "s’" ]
 
 category_source:
   path: ["senses", "*", "categories"]
@@ -167,3 +168,10 @@ forms:
       path:
         - "forms"
       tags: ["conditional", "past"]
+
+    "Impératif Présent":
+      mode: "impératif"
+      path:
+        - "forms"
+      tags: ["imperative", "present"]
+      pronouns: "imperative"

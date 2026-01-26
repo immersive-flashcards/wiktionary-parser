@@ -118,11 +118,16 @@ def _get_stem(base_infinitive: str, meta_data: dict[str, Any]) -> tuple[str, str
     return "", ""
 
 
-def _get_auxiliary(lang_cfg: LanguageConfig) -> str:
+def _get_auxiliary(lang_cfg: LanguageConfig, rows: list[dict[str, Any]]) -> str:
     aux_config = lang_cfg.meta_data.get("auxiliary")
-    if isinstance(aux_config, str):  # Spanish, catalan,etc.
+
+    if aux_config == "french":  # can be either 'avoir' or 'être'
+        inf_passe = next(r for r in rows if r.get("key") == "Infinitive Passé").get("conjunction-1")
+        return inf_passe.split(" ")[0].split("’")[-1]
+
+    elif isinstance(aux_config, str):  # Spanish, Catalan, etc.
         return aux_config
-    # TODO: implement for French, Italian, etc.
+
     return ""
 
 
@@ -207,7 +212,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
     for row_key, form in lang_cfg.forms.items():
         row_to_add = {"key": row_key, "mode": form["mode"]}
 
-        # Case 1: Handle base forms (infinitive, gerund, participle)
+        # Case 1: Handle base forms (infinitive, gerund, participle) - FR, CA, ES (all currently supported tenses)
         if form.get("type") == "base_form":
             f = extract_from_spec(entry, form, [form.get("tags")])
             row_to_add["conjunction-1"] = f[0] if f else ""
@@ -215,7 +220,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
             rows_out.append(row_to_add)
             continue
 
-        # Case 2: Handle tag-based conjugations
+        # Case 2: Handle tag-based conjugations - CA, ES have tags for specific grammatical persons
         if person_map:
             form_tags = form.get("tags") or []
             negation = form.get("negation")
@@ -251,7 +256,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                 else:
                     row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("pronouns").get(i)
 
-        # Case 3: Handle order-based conjugations - if Kaikki files have no tags indicating the precise person (e.g. French Wiktionary)
+        # Case 3: Handle order-based conjugations - FR kaikki data has no person tags :'(
         else:
             if form.get("pronouns") == "imperative":
                 pronoun_list = lang_cfg.person_data.get("imperative-pronouns")
@@ -298,7 +303,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                 for i in range(len(pronoun_list)):
                     handle_form(lang_cfg, row_to_add, i, f_list[i])
 
-            #if len(f_list) != 6:  # Flag overloaded tags for later handling
+            # if len(f_list) != 6:  # Flag overloaded tags for later handling
             #    print(f"{lemma} has {len(f_list)} elements")
 
         _merge_identical_verb_forms(lang_cfg, row_to_add)
@@ -306,7 +311,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
         rows_out.append(row_to_add)
 
     # Extract metadata
-    auxiliary = _get_auxiliary(lang_cfg)
+    auxiliary = _get_auxiliary(lang_cfg, rows_out)
     base_infinitive, reflexive = _get_base_infinitive_and_reflexivity(lemma, lang_cfg.meta_data)
     stem, ending = _get_stem(base_infinitive, lang_cfg.meta_data)
 

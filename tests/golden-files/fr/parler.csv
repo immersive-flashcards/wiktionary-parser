@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse parlé;que ;tu ;;;eusses 
 Conditionnel;conditionnel;;je ;;;parlerais;;tu ;;;parlerais;;il/elle/on ;;;parlerait;;nous ;;;parlerions;;vous ;;;parleriez;;ils/elles ;;;parleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais parlé;;tu ;;;aurais parlé;;il/elle/on ;;;aurait parlé;;nous ;;;aurions parlé;;vous ;;;auriez parlé;;ils/elles ;;;auraient parlé
 Impératif Présent;impératif;;;;;;;;;;parle;;;;;;;;;;parlons;;;;;parlez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;parler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;parl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

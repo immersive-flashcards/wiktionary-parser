@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fait;que ;tu ;;;eusses fa
 Conditionnel;conditionnel;;je ;;;ferais;;tu ;;;ferais;;il/elle/on ;;;ferait;;nous ;;;ferions;;vous ;;;feriez;;ils/elles ;;;feraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fait;;tu ;;;aurais fait;;il/elle/on ;;;aurait fait;;nous ;;;aurions fait;;vous ;;;auriez fait;;ils/elles ;;;auraient fait
 Impératif Présent;impératif;;;;;;;;;;fais;;;;;;;;;;faisons;;;;;faites;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;faire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;fai;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

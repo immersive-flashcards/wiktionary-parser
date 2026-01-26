@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse traduit;que ;tu ;;;eusses
 Conditionnel;conditionnel;;je ;;;traduirais;;tu ;;;traduirais;;il/elle/on ;;;traduirait;;nous ;;;traduirions;;vous ;;;traduiriez;;ils/elles ;;;traduiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais traduit;;tu ;;;aurais traduit;;il/elle/on ;;;aurait traduit;;nous ;;;aurions traduit;;vous ;;;auriez traduit;;ils/elles ;;;auraient traduit
 Impératif Présent;impératif;;;;;;;;;;traduis;;;;;;;;;;traduisons;;;;;traduisez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;traduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;tradui;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse décimé;que ;tu ;;;eusse
 Conditionnel;conditionnel;;je ;;;décimerais;;tu ;;;décimerais;;il/elle/on ;;;décimerait;;nous ;;;décimerions;;vous ;;;décimeriez;;ils/elles ;;;décimeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais décimé;;tu ;;;aurais décimé;;il/elle/on ;;;aurait décimé;;nous ;;;aurions décimé;;vous ;;;auriez décimé;;ils/elles ;;;auraient décimé
 Impératif Présent;impératif;;;;;;;;;;décime;;;;;;;;;;décimons;;;;;décimez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;décimer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;décim;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

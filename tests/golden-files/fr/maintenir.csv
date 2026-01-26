@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse maintenu;que ;tu ;;;eusse
 Conditionnel;conditionnel;;je ;;;maintiendrais;;tu ;;;maintiendrais;;il/elle/on ;;;maintiendrait;;nous ;;;maintiendrions;;vous ;;;maintiendriez;;ils/elles ;;;maintiendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais maintenu;;tu ;;;aurais maintenu;;il/elle/on ;;;aurait maintenu;;nous ;;;aurions maintenu;;vous ;;;auriez maintenu;;ils/elles ;;;auraient maintenu
 Impératif Présent;impératif;;;;;;;;;;maintiens;;;;;;;;;;maintenons;;;;;maintenez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;maintenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;mainten;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

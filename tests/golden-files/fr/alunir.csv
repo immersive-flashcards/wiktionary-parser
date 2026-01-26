@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse aluni;que ;tu ;;;eusses a
 Conditionnel;conditionnel;;j’;;;alunirais;;tu ;;;alunirais;;il/elle/on ;;;alunirait;;nous ;;;alunirions;;vous ;;;aluniriez;;ils/elles ;;;aluniraient
 Conditionnel Passé;conditionnel;;j’;;;aurais aluni;;tu ;;;aurais aluni;;il/elle/on ;;;aurait aluni;;nous ;;;aurions aluni;;vous ;;;auriez aluni;;ils/elles ;;;auraient aluni
 Impératif Présent;impératif;;;;;;;;;;alunis;;;;;;;;;;alunissons;;;;;alunissez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;alunir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;alun;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

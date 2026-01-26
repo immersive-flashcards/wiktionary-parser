@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse computé;que ;tu ;;;eusse
 Conditionnel;conditionnel;;je ;;;computerais;;tu ;;;computerais;;il/elle/on ;;;computerait;;nous ;;;computerions;;vous ;;;computeriez;;ils/elles ;;;computeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais computé;;tu ;;;aurais computé;;il/elle/on ;;;aurait computé;;nous ;;;aurions computé;;vous ;;;auriez computé;;ils/elles ;;;auraient computé
 Impératif Présent;impératif;;;;;;;;;;compute;;;;;;;;;;computons;;;;;computez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;computer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;comput;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse accueilli;que ;tu ;;;euss
 Conditionnel;conditionnel;;j’;;;accueillerais;;tu ;;;accueillerais;;il/elle/on ;;;accueillerait;;nous ;;;accueillerions;;vous ;;;accueilleriez;;ils/elles ;;;accueilleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais accueilli;;tu ;;;aurais accueilli;;il/elle/on ;;;aurait accueilli;;nous ;;;aurions accueilli;;vous ;;;auriez accueilli;;ils/elles ;;;auraient accueilli
 Impératif Présent;impératif;;;;;;;;;;accueille;;;;;;;;;;accueillons;;;;;accueillez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;accueillir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;accueill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse travaillé;que ;tu ;;;eus
 Conditionnel;conditionnel;;je ;;;travaillerais;;tu ;;;travaillerais;;il/elle/on ;;;travaillerait;;nous ;;;travaillerions;;vous ;;;travailleriez;;ils/elles ;;;travailleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais travaillé;;tu ;;;aurais travaillé;;il/elle/on ;;;aurait travaillé;;nous ;;;aurions travaillé;;vous ;;;auriez travaillé;;ils/elles ;;;auraient travaillé
 Impératif Présent;impératif;;;;;;;;;;travaille;;;;;;;;;;travaillons;;;;;travaillez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;travailler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;travaill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

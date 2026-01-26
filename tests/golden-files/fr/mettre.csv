@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse mis;que ;tu ;;;eusses mis
 Conditionnel;conditionnel;;je ;;;mettrais;;tu ;;;mettrais;;il/elle/on ;;;mettrait;;nous ;;;mettrions;;vous ;;;mettriez;;ils/elles ;;;mettraient
 Conditionnel Passé;conditionnel;;j’;;;aurais mis;;tu ;;;aurais mis;;il/elle/on ;;;aurait mis;;nous ;;;aurions mis;;vous ;;;auriez mis;;ils/elles ;;;auraient mis
 Impératif Présent;impératif;;;;;;;;;;mets;;;;;;;;;;mettons;;;;;mettez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;mettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;mett;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -15,7 +15,7 @@ Subjonctif Passé;subjonctif;que ;j’;;;aie gis;que ;tu ;;;aies gis;qu’;il/el
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse gis;que ;tu ;;;eusses gis;qu’;il/elle/on ;;;eût gis;que ;nous ;;;eussions gis;que ;vous ;;;eussiez gis;qu’;ils/elles ;;;eussent gis
 Conditionnel Passé;conditionnel;;j’;;;aurais gis;;tu ;;;aurais gis;;il/elle/on ;;;aurait gis;;nous ;;;aurions gis;;vous ;;;auriez gis;;ils/elles ;;;auraient gis
 Impératif Présent;impératif;;;;;gis;;;;;gisons;;;;;gis;;;;;;;;;;;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;gésir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;gés;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

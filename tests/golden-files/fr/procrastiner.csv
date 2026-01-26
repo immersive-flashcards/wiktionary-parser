@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse procrastiné;que ;tu ;;;e
 Conditionnel;conditionnel;;je ;;;procrastinerais;;tu ;;;procrastinerais;;il/elle/on ;;;procrastinerait;;nous ;;;procrastinerions;;vous ;;;procrastineriez;;ils/elles ;;;procrastineraient
 Conditionnel Passé;conditionnel;;j’;;;aurais procrastiné;;tu ;;;aurais procrastiné;;il/elle/on ;;;aurait procrastiné;;nous ;;;aurions procrastiné;;vous ;;;auriez procrastiné;;ils/elles ;;;auraient procrastiné
 Impératif Présent;impératif;;;;;;;;;;procrastine;;;;;;;;;;procrastinons;;;;;procrastinez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;procrastiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;procrastin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

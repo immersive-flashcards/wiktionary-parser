@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse stocké;que ;tu ;;;eusses
 Conditionnel;conditionnel;;je ;;;stockerais;;tu ;;;stockerais;;il/elle/on ;;;stockerait;;nous ;;;stockerions;;vous ;;;stockeriez;;ils/elles ;;;stockeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais stocké;;tu ;;;aurais stocké;;il/elle/on ;;;aurait stocké;;nous ;;;aurions stocké;;vous ;;;auriez stocké;;ils/elles ;;;auraient stocké
 Impératif Présent;impératif;;;;;;;;;;stocke;;;;;;;;;;stockons;;;;;stockez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;stocker;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;stock;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

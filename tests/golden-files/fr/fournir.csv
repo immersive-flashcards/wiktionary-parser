@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fourni;que ;tu ;;;eusses 
 Conditionnel;conditionnel;;je ;;;fournirais;;tu ;;;fournirais;;il/elle/on ;;;fournirait;;nous ;;;fournirions;;vous ;;;fourniriez;;ils/elles ;;;fourniraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fourni;;tu ;;;aurais fourni;;il/elle/on ;;;aurait fourni;;nous ;;;aurions fourni;;vous ;;;auriez fourni;;ils/elles ;;;auraient fourni
 Impératif Présent;impératif;;;;;;;;;;fournis;;;;;;;;;;fournissons;;;;;fournissez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;fournir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;fourn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

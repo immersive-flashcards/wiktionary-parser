@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse défini;que ;tu ;;;eusses
 Conditionnel;conditionnel;;je ;;;définirais;;tu ;;;définirais;;il/elle/on ;;;définirait;;nous ;;;définirions;;vous ;;;définiriez;;ils/elles ;;;définiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais défini;;tu ;;;aurais défini;;il/elle/on ;;;aurait défini;;nous ;;;aurions défini;;vous ;;;auriez défini;;ils/elles ;;;auraient défini
 Impératif Présent;impératif;;;;;;;;;;définis;;;;;;;;;;définissons;;;;;définissez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;définir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;défin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

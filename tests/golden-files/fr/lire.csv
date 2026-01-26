@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse lu;que ;tu ;;;eusses lu;q
 Conditionnel;conditionnel;;je ;;;lirais;;tu ;;;lirais;;il/elle/on ;;;lirait;;nous ;;;lirions;;vous ;;;liriez;;ils/elles ;;;liraient
 Conditionnel Passé;conditionnel;;j’;;;aurais lu;;tu ;;;aurais lu;;il/elle/on ;;;aurait lu;;nous ;;;aurions lu;;vous ;;;auriez lu;;ils/elles ;;;auraient lu
 Impératif Présent;impératif;;;;;;;;;;lis;;;;;;;;;;lisons;;;;;lisez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;lire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;li;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

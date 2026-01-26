@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse exhumé;que ;tu ;;;eusses
 Conditionnel;conditionnel;;j’;;;exhumerais;;tu ;;;exhumerais;;il/elle/on ;;;exhumerait;;nous ;;;exhumerions;;vous ;;;exhumeriez;;ils/elles ;;;exhumeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais exhumé;;tu ;;;aurais exhumé;;il/elle/on ;;;aurait exhumé;;nous ;;;aurions exhumé;;vous ;;;auriez exhumé;;ils/elles ;;;auraient exhumé
 Impératif Présent;impératif;;;;;;;;;;exhume;;;;;;;;;;exhumons;;;;;exhumez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;exhumer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;exhum;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse aidé;que ;tu ;;;eusses a
 Conditionnel;conditionnel;;j’;;;aiderais;;tu ;;;aiderais;;il/elle/on ;;;aiderait;;nous ;;;aiderions;;vous ;;;aideriez;;ils/elles ;;;aideraient
 Conditionnel Passé;conditionnel;;j’;;;aurais aidé;;tu ;;;aurais aidé;;il/elle/on ;;;aurait aidé;;nous ;;;aurions aidé;;vous ;;;auriez aidé;;ils/elles ;;;auraient aidé
 Impératif Présent;impératif;;;;;;;;;;aide;;;;;;;;;;aidons;;;;;aidez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;aider;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aid;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse apprivoisé;que ;tu ;;;eu
 Conditionnel;conditionnel;;j’;;;apprivoiserais;;tu ;;;apprivoiserais;;il/elle/on ;;;apprivoiserait;;nous ;;;apprivoiserions;;vous ;;;apprivoiseriez;;ils/elles ;;;apprivoiseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais apprivoisé;;tu ;;;aurais apprivoisé;;il/elle/on ;;;aurait apprivoisé;;nous ;;;aurions apprivoisé;;vous ;;;auriez apprivoisé;;ils/elles ;;;auraient apprivoisé
 Impératif Présent;impératif;;;;;;;;;;apprivoise;;;;;;;;;;apprivoisons;;;;;apprivoisez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;apprivoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;apprivois;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

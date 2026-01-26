@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse arrivé;que ;tu ;;;fusses 
 Conditionnel;conditionnel;;j’;;;arriverais;;tu ;;;arriverais;;il/elle/on ;;;arriverait;;nous ;;;arriverions;;vous ;;;arriveriez;;ils/elles ;;;arriveraient
 Conditionnel Passé;conditionnel;;je ;;;serais arrivé;;tu ;;;serais arrivé;;il/elle/on ;;;serait arrivé;;nous ;;;serions arrivés;;vous ;;;seriez arrivés;;ils/elles ;;;seraient arrivés
 Impératif Présent;impératif;;;;;;;;;;arrive;;;;;;;;;;arrivons;;;;;arrivez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;arriver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;arriv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

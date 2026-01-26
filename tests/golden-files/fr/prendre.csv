@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse pris;que ;tu ;;;eusses pr
 Conditionnel;conditionnel;;je ;;;prendrais;;tu ;;;prendrais;;il/elle/on ;;;prendrait;;nous ;;;prendrions;;vous ;;;prendriez;;ils/elles ;;;prendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais pris;;tu ;;;aurais pris;;il/elle/on ;;;aurait pris;;nous ;;;aurions pris;;vous ;;;auriez pris;;ils/elles ;;;auraient pris
 Impératif Présent;impératif;;;;;;;;;;prends;;;;;;;;;;prenons;;;;;prenez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;prendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;prend;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

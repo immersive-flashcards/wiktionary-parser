@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fini;que ;tu ;;;eusses fi
 Conditionnel;conditionnel;;je ;;;finirais;;tu ;;;finirais;;il/elle/on ;;;finirait;;nous ;;;finirions;;vous ;;;finiriez;;ils/elles ;;;finiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fini;;tu ;;;aurais fini;;il/elle/on ;;;aurait fini;;nous ;;;aurions fini;;vous ;;;auriez fini;;ils/elles ;;;auraient fini
 Impératif Présent;impératif;;;;;;;;;;finis;;;;;;;;;;finissons;;;;;finissez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;finir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;fin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

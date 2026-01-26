@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse bardé;que ;tu ;;;eusses 
 Conditionnel;conditionnel;;je ;;;barderais;;tu ;;;barderais;;il/elle/on ;;;barderait;;nous ;;;barderions;;vous ;;;barderiez;;ils/elles ;;;barderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais bardé;;tu ;;;aurais bardé;;il/elle/on ;;;aurait bardé;;nous ;;;aurions bardé;;vous ;;;auriez bardé;;ils/elles ;;;auraient bardé
 Impératif Présent;impératif;;;;;;;;;;barde;;;;;;;;;;bardons;;;;;bardez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;barder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bard;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

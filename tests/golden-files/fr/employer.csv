@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse employé;que ;tu ;;;eusse
 Conditionnel;conditionnel;;j’;;;emploierais;;tu ;;;emploierais;;il/elle/on ;;;emploierait;;nous ;;;emploierions;;vous ;;;emploieriez;;ils/elles ;;;emploieraient
 Conditionnel Passé;conditionnel;;j’;;;aurais employé;;tu ;;;aurais employé;;il/elle/on ;;;aurait employé;;nous ;;;aurions employé;;vous ;;;auriez employé;;ils/elles ;;;auraient employé
 Impératif Présent;impératif;;;;;;;;;;emploie;;;;;;;;;;employons;;;;;employez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;employer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;employ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

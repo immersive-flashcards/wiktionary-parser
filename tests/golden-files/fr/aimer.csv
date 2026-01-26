@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse aimé;que ;tu ;;;eusses a
 Conditionnel;conditionnel;;j’;;;aimerais;;tu ;;;aimerais;;il/elle/on ;;;aimerait;;nous ;;;aimerions;;vous ;;;aimeriez;;ils/elles ;;;aimeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais aimé;;tu ;;;aurais aimé;;il/elle/on ;;;aurait aimé;;nous ;;;aurions aimé;;vous ;;;auriez aimé;;ils/elles ;;;auraient aimé
 Impératif Présent;impératif;;;;;;;;;;aime;;;;;;;;;;aimons;;;;;aimez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;aimer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aim;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse nommé;que ;tu ;;;eusses 
 Conditionnel;conditionnel;;je ;;;nommerais;;tu ;;;nommerais;;il/elle/on ;;;nommerait;;nous ;;;nommerions;;vous ;;;nommeriez;;ils/elles ;;;nommeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais nommé;;tu ;;;aurais nommé;;il/elle/on ;;;aurait nommé;;nous ;;;aurions nommé;;vous ;;;auriez nommé;;ils/elles ;;;auraient nommé
 Impératif Présent;impératif;;;;;;;;;;nomme;;;;;;;;;;nommons;;;;;nommez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;nommer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;nomm;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

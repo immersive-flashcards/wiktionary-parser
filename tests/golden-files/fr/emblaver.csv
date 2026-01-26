@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse emblavé;que ;tu ;;;eusse
 Conditionnel;conditionnel;;j’;;;emblaverais;;tu ;;;emblaverais;;il/elle/on ;;;emblaverait;;nous ;;;emblaverions;;vous ;;;emblaveriez;;ils/elles ;;;emblaveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais emblavé;;tu ;;;aurais emblavé;;il/elle/on ;;;aurait emblavé;;nous ;;;aurions emblavé;;vous ;;;auriez emblavé;;ils/elles ;;;auraient emblavé
 Impératif Présent;impératif;;;;;;;;;;emblave;;;;;;;;;;emblavons;;;;;emblavez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;emblaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;emblav;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

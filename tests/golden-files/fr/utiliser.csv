@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse utilisé;que ;tu ;;;eusse
 Conditionnel;conditionnel;;j’;;;utiliserais;;tu ;;;utiliserais;;il/elle/on ;;;utiliserait;;nous ;;;utiliserions;;vous ;;;utiliseriez;;ils/elles ;;;utiliseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais utilisé;;tu ;;;aurais utilisé;;il/elle/on ;;;aurait utilisé;;nous ;;;aurions utilisé;;vous ;;;auriez utilisé;;ils/elles ;;;auraient utilisé
 Impératif Présent;impératif;;;;;;;;;;utilise;;;;;;;;;;utilisons;;;;;utilisez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;utiliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;utilis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

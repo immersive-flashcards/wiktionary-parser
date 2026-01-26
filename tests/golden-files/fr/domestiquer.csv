@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse domestiqué;que ;tu ;;;eu
 Conditionnel;conditionnel;;je ;;;domestiquerais;;tu ;;;domestiquerais;;il/elle/on ;;;domestiquerait;;nous ;;;domestiquerions;;vous ;;;domestiqueriez;;ils/elles ;;;domestiqueraient
 Conditionnel Passé;conditionnel;;j’;;;aurais domestiqué;;tu ;;;aurais domestiqué;;il/elle/on ;;;aurait domestiqué;;nous ;;;aurions domestiqué;;vous ;;;auriez domestiqué;;ils/elles ;;;auraient domestiqué
 Impératif Présent;impératif;;;;;;;;;;domestique;;;;;;;;;;domestiquons;;;;;domestiquez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;domestiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;domestiqu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

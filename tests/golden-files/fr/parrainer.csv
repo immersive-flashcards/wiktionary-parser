@@ -20,7 +20,7 @@ Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse parrainé;que ;tu ;;;euss
 Conditionnel;conditionnel;;je ;;;parrainerais;;tu ;;;parrainerais;;il/elle/on ;;;parrainerait;;nous ;;;parrainerions;;vous ;;;parraineriez;;ils/elles ;;;parraineraient
 Conditionnel Passé;conditionnel;;j’;;;aurais parrainé;;tu ;;;aurais parrainé;;il/elle/on ;;;aurait parrainé;;nous ;;;aurions parrainé;;vous ;;;auriez parrainé;;ils/elles ;;;auraient parrainé
 Impératif Présent;impératif;;;;;;;;;;parraine;;;;;;;;;;parrainons;;;;;parrainez;;;;;
-auxiliary;french;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;parrainer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;parrain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

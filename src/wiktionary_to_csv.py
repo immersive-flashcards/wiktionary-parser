@@ -102,7 +102,12 @@ def _get_base_infinitive_and_reflexivity(infinitive: str, meta_data: dict[str, A
             if infinitive.endswith(suffix):
                 return infinitive[: -len(suffix)], True
 
-    # TODO: Handle reflexive prefixes (e.g. French)
+    # Handle reflexive prefixes (e.g. French)
+    refl_prefixes = meta_data.get("reflexive-prefixes")
+    if refl_prefixes:
+        for prefix in refl_prefixes:
+            if infinitive.startswith(prefix):
+                return infinitive[len(prefix) :], True
 
     return infinitive, False
 

@@ -21,7 +21,7 @@ Conditionnel;conditionnel;;je ;;m’;excuserais;;tu ;;t’;excuserais;;il/elle/o
 Conditionnel Passé;conditionnel;;je ;;me ;serais excusé;;tu ;;te ;serais excusé;;il/elle/on ;;se ;serait excusé;;nous ;;nous ;serions excusés;;vous ;;vous ;seriez excusés;;ils/elles ;;se ;seraient excusés
 Impératif Présent;impératif;;;;;;;;;;excuse-toi;;;;;;;;;;excusons-nous;;;;;excusez-vous;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;s’excuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-stem;s’excus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;true;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;excuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;excus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

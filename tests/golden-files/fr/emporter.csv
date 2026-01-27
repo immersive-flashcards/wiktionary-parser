@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;emportasse;que ;tu ;;;emportasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse emporté;que ;tu ;;;eusses emporté;qu’;il/elle/on ;;;eût emporté;que ;nous ;;;eussions emporté;que ;vous ;;;eussiez emporté;qu’;ils/elles ;;;eussent emporté
 Conditionnel;conditionnel;;j’;;;emporterais;;tu ;;;emporterais;;il/elle/on ;;;emporterait;;nous ;;;emporterions;;vous ;;;emporteriez;;ils/elles ;;;emporteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais emporté;;tu ;;;aurais emporté;;il/elle/on ;;;aurait emporté;;nous ;;;aurions emporté;;vous ;;;auriez emporté;;ils/elles ;;;auraient emporté
-Impératif Présent;impératif;;;;;;;;;;emporte;;;;;;;;;;emportons;;;;;emportez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;emporte;;;;;;;(nous) ;;;emportons;;(vous) ;;;emportez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie emporté;;;;;;;(nous) ;;;ayons emporté;;(vous) ;;;ayez emporté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;emporter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;haïsse;que ;tu ;;;haïsses;qu’;il/
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse haï;que ;tu ;;;eusses haï;qu’;il/elle/on ;;;eût haï;que ;nous ;;;eussions haï;que ;vous ;;;eussiez haï;qu’;ils/elles ;;;eussent haï
 Conditionnel;conditionnel;;je ;;;haïrais;;tu ;;;haïrais;;il/elle/on ;;;haïrait;;nous ;;;haïrions;;vous ;;;haïriez;;ils/elles ;;;haïraient
 Conditionnel Passé;conditionnel;;j’;;;aurais haï;;tu ;;;aurais haï;;il/elle/on ;;;aurait haï;;nous ;;;aurions haï;;vous ;;;auriez haï;;ils/elles ;;;auraient haï
-Impératif Présent;impératif;;;;;;;;;;hais;;;;;;;;;;haïssons;;;;;haïssez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;hais;;;;;;;(nous) ;;;haïssons;;(vous) ;;;haïssez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie haï;;;;;;;(nous) ;;;ayons haï;;(vous) ;;;ayez haï;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;haïr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;voisasse;que ;tu ;;;voisasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse voisé;que ;tu ;;;eusses voisé;qu’;il/elle/on ;;;eût voisé;que ;nous ;;;eussions voisé;que ;vous ;;;eussiez voisé;qu’;ils/elles ;;;eussent voisé
 Conditionnel;conditionnel;;je ;;;voiserais;;tu ;;;voiserais;;il/elle/on ;;;voiserait;;nous ;;;voiserions;;vous ;;;voiseriez;;ils/elles ;;;voiseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais voisé;;tu ;;;aurais voisé;;il/elle/on ;;;aurait voisé;;nous ;;;aurions voisé;;vous ;;;auriez voisé;;ils/elles ;;;auraient voisé
-Impératif Présent;impératif;;;;;;;;;;voise;;;;;;;;;;voisons;;;;;voisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;voise;;;;;;;(nous) ;;;voisons;;(vous) ;;;voisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie voisé;;;;;;;(nous) ;;;ayons voisé;;(vous) ;;;ayez voisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;voiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

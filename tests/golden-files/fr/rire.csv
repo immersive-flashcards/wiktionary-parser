@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;risse;que ;tu ;;;risses;qu’;il/elle
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse ri;que ;tu ;;;eusses ri;qu’;il/elle/on ;;;eût ri;que ;nous ;;;eussions ri;que ;vous ;;;eussiez ri;qu’;ils/elles ;;;eussent ri
 Conditionnel;conditionnel;;je ;;;rirais;;tu ;;;rirais;;il/elle/on ;;;rirait;;nous ;;;ririons;;vous ;;;ririez;;ils/elles ;;;riraient
 Conditionnel Passé;conditionnel;;j’;;;aurais ri;;tu ;;;aurais ri;;il/elle/on ;;;aurait ri;;nous ;;;aurions ri;;vous ;;;auriez ri;;ils/elles ;;;auraient ri
-Impératif Présent;impératif;;;;;;;;;;ris;;;;;;;;;;rions;;;;;riez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;ris;;;;;;;(nous) ;;;rions;;(vous) ;;;riez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie ri;;;;;;;(nous) ;;;ayons ri;;(vous) ;;;ayez ri;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

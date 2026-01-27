@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;slavisasse;que ;tu ;;;slavisasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse slavisé;que ;tu ;;;eusses slavisé;qu’;il/elle/on ;;;eût slavisé;que ;nous ;;;eussions slavisé;que ;vous ;;;eussiez slavisé;qu’;ils/elles ;;;eussent slavisé
 Conditionnel;conditionnel;;je ;;;slaviserais;;tu ;;;slaviserais;;il/elle/on ;;;slaviserait;;nous ;;;slaviserions;;vous ;;;slaviseriez;;ils/elles ;;;slaviseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais slavisé;;tu ;;;aurais slavisé;;il/elle/on ;;;aurait slavisé;;nous ;;;aurions slavisé;;vous ;;;auriez slavisé;;ils/elles ;;;auraient slavisé
-Impératif Présent;impératif;;;;;;;;;;slavise;;;;;;;;;;slavisons;;;;;slavisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;slavise;;;;;;;(nous) ;;;slavisons;;(vous) ;;;slavisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie slavisé;;;;;;;(nous) ;;;ayons slavisé;;(vous) ;;;ayez slavisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;slaviser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

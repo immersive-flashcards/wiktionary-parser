@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;vascularisasse;que ;tu ;;;vascularisa
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse vascularisé;que ;tu ;;;eusses vascularisé;qu’;il/elle/on ;;;eût vascularisé;que ;nous ;;;eussions vascularisé;que ;vous ;;;eussiez vascularisé;qu’;ils/elles ;;;eussent vascularisé
 Conditionnel;conditionnel;;je ;;;vasculariserais;;tu ;;;vasculariserais;;il/elle/on ;;;vasculariserait;;nous ;;;vasculariserions;;vous ;;;vasculariseriez;;ils/elles ;;;vasculariseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais vascularisé;;tu ;;;aurais vascularisé;;il/elle/on ;;;aurait vascularisé;;nous ;;;aurions vascularisé;;vous ;;;auriez vascularisé;;ils/elles ;;;auraient vascularisé
-Impératif Présent;impératif;;;;;;;;;;vascularise;;;;;;;;;;vascularisons;;;;;vascularisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;vascularise;;;;;;;(nous) ;;;vascularisons;;(vous) ;;;vascularisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie vascularisé;;;;;;;(nous) ;;;ayons vascularisé;;(vous) ;;;ayez vascularisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;vasculariser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

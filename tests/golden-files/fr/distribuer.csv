@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;distribuasse;que ;tu ;;;distribuasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse distribué;que ;tu ;;;eusses distribué;qu’;il/elle/on ;;;eût distribué;que ;nous ;;;eussions distribué;que ;vous ;;;eussiez distribué;qu’;ils/elles ;;;eussent distribué
 Conditionnel;conditionnel;;je ;;;distribuerais;;tu ;;;distribuerais;;il/elle/on ;;;distribuerait;;nous ;;;distribuerions;;vous ;;;distribueriez;;ils/elles ;;;distribueraient
 Conditionnel Passé;conditionnel;;j’;;;aurais distribué;;tu ;;;aurais distribué;;il/elle/on ;;;aurait distribué;;nous ;;;aurions distribué;;vous ;;;auriez distribué;;ils/elles ;;;auraient distribué
-Impératif Présent;impératif;;;;;;;;;;distribue;;;;;;;;;;distribuons;;;;;distribuez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;distribue;;;;;;;(nous) ;;;distribuons;;(vous) ;;;distribuez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie distribué;;;;;;;(nous) ;;;ayons distribué;;(vous) ;;;ayez distribué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;distribuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;quittasse;que ;tu ;;;quittasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse quitté;que ;tu ;;;eusses quitté;qu’;il/elle/on ;;;eût quitté;que ;nous ;;;eussions quitté;que ;vous ;;;eussiez quitté;qu’;ils/elles ;;;eussent quitté
 Conditionnel;conditionnel;;je ;;;quitterais;;tu ;;;quitterais;;il/elle/on ;;;quitterait;;nous ;;;quitterions;;vous ;;;quitteriez;;ils/elles ;;;quitteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais quitté;;tu ;;;aurais quitté;;il/elle/on ;;;aurait quitté;;nous ;;;aurions quitté;;vous ;;;auriez quitté;;ils/elles ;;;auraient quitté
-Impératif Présent;impératif;;;;;;;;;;quitte;;;;;;;;;;quittons;;;;;quittez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;quitte;;;;;;;(nous) ;;;quittons;;(vous) ;;;quittez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie quitté;;;;;;;(nous) ;;;ayons quitté;;(vous) ;;;ayez quitté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;quitter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

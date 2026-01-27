@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;regardasse;que ;tu ;;;regardasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse regardé;que ;tu ;;;eusses regardé;qu’;il/elle/on ;;;eût regardé;que ;nous ;;;eussions regardé;que ;vous ;;;eussiez regardé;qu’;ils/elles ;;;eussent regardé
 Conditionnel;conditionnel;;je ;;;regarderais;;tu ;;;regarderais;;il/elle/on ;;;regarderait;;nous ;;;regarderions;;vous ;;;regarderiez;;ils/elles ;;;regarderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais regardé;;tu ;;;aurais regardé;;il/elle/on ;;;aurait regardé;;nous ;;;aurions regardé;;vous ;;;auriez regardé;;ils/elles ;;;auraient regardé
-Impératif Présent;impératif;;;;;;;;;;regarde;;;;;;;;;;regardons;;;;;regardez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;regarde;;;;;;;(nous) ;;;regardons;;(vous) ;;;regardez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie regardé;;;;;;;(nous) ;;;ayons regardé;;(vous) ;;;ayez regardé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;regarder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

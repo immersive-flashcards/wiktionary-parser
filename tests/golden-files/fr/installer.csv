@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;installasse;que ;tu ;;;installasses;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse installé;que ;tu ;;;eusses installé;qu’;il/elle/on ;;;eût installé;que ;nous ;;;eussions installé;que ;vous ;;;eussiez installé;qu’;ils/elles ;;;eussent installé
 Conditionnel;conditionnel;;j’;;;installerais;;tu ;;;installerais;;il/elle/on ;;;installerait;;nous ;;;installerions;;vous ;;;installeriez;;ils/elles ;;;installeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais installé;;tu ;;;aurais installé;;il/elle/on ;;;aurait installé;;nous ;;;aurions installé;;vous ;;;auriez installé;;ils/elles ;;;auraient installé
-Impératif Présent;impératif;;;;;;;;;;installe;;;;;;;;;;installons;;;;;installez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;installe;;;;;;;(nous) ;;;installons;;(vous) ;;;installez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie installé;;;;;;;(nous) ;;;ayons installé;;(vous) ;;;ayez installé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;installer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

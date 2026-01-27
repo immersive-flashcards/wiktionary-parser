@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;barattasse;que ;tu ;;;barattasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse baratté;que ;tu ;;;eusses baratté;qu’;il/elle/on ;;;eût baratté;que ;nous ;;;eussions baratté;que ;vous ;;;eussiez baratté;qu’;ils/elles ;;;eussent baratté
 Conditionnel;conditionnel;;je ;;;baratterais;;tu ;;;baratterais;;il/elle/on ;;;baratterait;;nous ;;;baratterions;;vous ;;;baratteriez;;ils/elles ;;;baratteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais baratté;;tu ;;;aurais baratté;;il/elle/on ;;;aurait baratté;;nous ;;;aurions baratté;;vous ;;;auriez baratté;;ils/elles ;;;auraient baratté
-Impératif Présent;impératif;;;;;;;;;;baratte;;;;;;;;;;barattons;;;;;barattez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;baratte;;;;;;;(nous) ;;;barattons;;(vous) ;;;barattez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie baratté;;;;;;;(nous) ;;;ayons baratté;;(vous) ;;;ayez baratté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;baratter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

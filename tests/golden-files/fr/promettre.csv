@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;promisse;que ;tu ;;;promisses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse promis;que ;tu ;;;eusses promis;qu’;il/elle/on ;;;eût promis;que ;nous ;;;eussions promis;que ;vous ;;;eussiez promis;qu’;ils/elles ;;;eussent promis
 Conditionnel;conditionnel;;je ;;;promettrais;;tu ;;;promettrais;;il/elle/on ;;;promettrait;;nous ;;;promettrions;;vous ;;;promettriez;;ils/elles ;;;promettraient
 Conditionnel Passé;conditionnel;;j’;;;aurais promis;;tu ;;;aurais promis;;il/elle/on ;;;aurait promis;;nous ;;;aurions promis;;vous ;;;auriez promis;;ils/elles ;;;auraient promis
-Impératif Présent;impératif;;;;;;;;;;promets;;;;;;;;;;promettons;;;;;promettez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;promets;;;;;;;(nous) ;;;promettons;;(vous) ;;;promettez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie promis;;;;;;;(nous) ;;;ayons promis;;(vous) ;;;ayez promis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;promettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

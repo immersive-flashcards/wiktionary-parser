@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;cessasse;que ;tu ;;;cessasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse cessé;que ;tu ;;;eusses cessé;qu’;il/elle/on ;;;eût cessé;que ;nous ;;;eussions cessé;que ;vous ;;;eussiez cessé;qu’;ils/elles ;;;eussent cessé
 Conditionnel;conditionnel;;je ;;;cesserais;;tu ;;;cesserais;;il/elle/on ;;;cesserait;;nous ;;;cesserions;;vous ;;;cesseriez;;ils/elles ;;;cesseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais cessé;;tu ;;;aurais cessé;;il/elle/on ;;;aurait cessé;;nous ;;;aurions cessé;;vous ;;;auriez cessé;;ils/elles ;;;auraient cessé
-Impératif Présent;impératif;;;;;;;;;;cesse;;;;;;;;;;cessons;;;;;cessez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;cesse;;;;;;;(nous) ;;;cessons;;(vous) ;;;cessez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie cessé;;;;;;;(nous) ;;;ayons cessé;;(vous) ;;;ayez cessé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;cesser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

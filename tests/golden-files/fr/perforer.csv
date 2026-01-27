@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;perforasse;que ;tu ;;;perforasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse perforé;que ;tu ;;;eusses perforé;qu’;il/elle/on ;;;eût perforé;que ;nous ;;;eussions perforé;que ;vous ;;;eussiez perforé;qu’;ils/elles ;;;eussent perforé
 Conditionnel;conditionnel;;je ;;;perforerais;;tu ;;;perforerais;;il/elle/on ;;;perforerait;;nous ;;;perforerions;;vous ;;;perforeriez;;ils/elles ;;;perforeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais perforé;;tu ;;;aurais perforé;;il/elle/on ;;;aurait perforé;;nous ;;;aurions perforé;;vous ;;;auriez perforé;;ils/elles ;;;auraient perforé
-Impératif Présent;impératif;;;;;;;;;;perfore;;;;;;;;;;perforons;;;;;perforez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;perfore;;;;;;;(nous) ;;;perforons;;(vous) ;;;perforez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie perforé;;;;;;;(nous) ;;;ayons perforé;;(vous) ;;;ayez perforé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;perforer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;conduisisse;que ;tu ;;;conduisisses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse conduit;que ;tu ;;;eusses conduit;qu’;il/elle/on ;;;eût conduit;que ;nous ;;;eussions conduit;que ;vous ;;;eussiez conduit;qu’;ils/elles ;;;eussent conduit
 Conditionnel;conditionnel;;je ;;;conduirais;;tu ;;;conduirais;;il/elle/on ;;;conduirait;;nous ;;;conduirions;;vous ;;;conduiriez;;ils/elles ;;;conduiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais conduit;;tu ;;;aurais conduit;;il/elle/on ;;;aurait conduit;;nous ;;;aurions conduit;;vous ;;;auriez conduit;;ils/elles ;;;auraient conduit
-Impératif Présent;impératif;;;;;;;;;;conduis;;;;;;;;;;conduisons;;;;;conduisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;conduis;;;;;;;(nous) ;;;conduisons;;(vous) ;;;conduisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie conduit;;;;;;;(nous) ;;;ayons conduit;;(vous) ;;;ayez conduit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;conduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;disséminasse;que ;tu ;;;disséminass
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse disséminé;que ;tu ;;;eusses disséminé;qu’;il/elle/on ;;;eût disséminé;que ;nous ;;;eussions disséminé;que ;vous ;;;eussiez disséminé;qu’;ils/elles ;;;eussent disséminé
 Conditionnel;conditionnel;;je ;;;disséminerais;;tu ;;;disséminerais;;il/elle/on ;;;disséminerait;;nous ;;;disséminerions;;vous ;;;dissémineriez;;ils/elles ;;;dissémineraient
 Conditionnel Passé;conditionnel;;j’;;;aurais disséminé;;tu ;;;aurais disséminé;;il/elle/on ;;;aurait disséminé;;nous ;;;aurions disséminé;;vous ;;;auriez disséminé;;ils/elles ;;;auraient disséminé
-Impératif Présent;impératif;;;;;;;;;;dissémine;;;;;;;;;;disséminons;;;;;disséminez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;dissémine;;;;;;;(nous) ;;;disséminons;;(vous) ;;;disséminez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie disséminé;;;;;;;(nous) ;;;ayons disséminé;;(vous) ;;;ayez disséminé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;disséminer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

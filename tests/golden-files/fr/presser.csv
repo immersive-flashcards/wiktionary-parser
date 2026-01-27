@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;pressasse;que ;tu ;;;pressasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse pressé;que ;tu ;;;eusses pressé;qu’;il/elle/on ;;;eût pressé;que ;nous ;;;eussions pressé;que ;vous ;;;eussiez pressé;qu’;ils/elles ;;;eussent pressé
 Conditionnel;conditionnel;;je ;;;presserais;;tu ;;;presserais;;il/elle/on ;;;presserait;;nous ;;;presserions;;vous ;;;presseriez;;ils/elles ;;;presseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais pressé;;tu ;;;aurais pressé;;il/elle/on ;;;aurait pressé;;nous ;;;aurions pressé;;vous ;;;auriez pressé;;ils/elles ;;;auraient pressé
-Impératif Présent;impératif;;;;;;;;;;presse;;;;;;;;;;pressons;;;;;pressez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;presse;;;;;;;(nous) ;;;pressons;;(vous) ;;;pressez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie pressé;;;;;;;(nous) ;;;ayons pressé;;(vous) ;;;ayez pressé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;presser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

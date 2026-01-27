@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;tintasse;que ;tu ;;;tintasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse tinté;que ;tu ;;;eusses tinté;qu’;il/elle/on ;;;eût tinté;que ;nous ;;;eussions tinté;que ;vous ;;;eussiez tinté;qu’;ils/elles ;;;eussent tinté
 Conditionnel;conditionnel;;je ;;;tinterais;;tu ;;;tinterais;;il/elle/on ;;;tinterait;;nous ;;;tinterions;;vous ;;;tinteriez;;ils/elles ;;;tinteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais tinté;;tu ;;;aurais tinté;;il/elle/on ;;;aurait tinté;;nous ;;;aurions tinté;;vous ;;;auriez tinté;;ils/elles ;;;auraient tinté
-Impératif Présent;impératif;;;;;;;;;;tinte;;;;;;;;;;tintons;;;;;tintez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;tinte;;;;;;;(nous) ;;;tintons;;(vous) ;;;tintez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie tinté;;;;;;;(nous) ;;;ayons tinté;;(vous) ;;;ayez tinté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;tinter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

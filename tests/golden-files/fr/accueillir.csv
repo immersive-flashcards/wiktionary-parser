@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;accueillisse;que ;tu ;;;accueillisse
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse accueilli;que ;tu ;;;eusses accueilli;qu’;il/elle/on ;;;eût accueilli;que ;nous ;;;eussions accueilli;que ;vous ;;;eussiez accueilli;qu’;ils/elles ;;;eussent accueilli
 Conditionnel;conditionnel;;j’;;;accueillerais;;tu ;;;accueillerais;;il/elle/on ;;;accueillerait;;nous ;;;accueillerions;;vous ;;;accueilleriez;;ils/elles ;;;accueilleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais accueilli;;tu ;;;aurais accueilli;;il/elle/on ;;;aurait accueilli;;nous ;;;aurions accueilli;;vous ;;;auriez accueilli;;ils/elles ;;;auraient accueilli
-Impératif Présent;impératif;;;;;;;;;;accueille;;;;;;;;;;accueillons;;;;;accueillez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;accueille;;;;;;;(nous) ;;;accueillons;;(vous) ;;;accueillez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie accueilli;;;;;;;(nous) ;;;ayons accueilli;;(vous) ;;;ayez accueilli;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;accueillir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

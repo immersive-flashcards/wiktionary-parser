@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;recherchasse;que ;tu ;;;recherchasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse recherché;que ;tu ;;;eusses recherché;qu’;il/elle/on ;;;eût recherché;que ;nous ;;;eussions recherché;que ;vous ;;;eussiez recherché;qu’;ils/elles ;;;eussent recherché
 Conditionnel;conditionnel;;je ;;;rechercherais;;tu ;;;rechercherais;;il/elle/on ;;;rechercherait;;nous ;;;rechercherions;;vous ;;;rechercheriez;;ils/elles ;;;rechercheraient
 Conditionnel Passé;conditionnel;;j’;;;aurais recherché;;tu ;;;aurais recherché;;il/elle/on ;;;aurait recherché;;nous ;;;aurions recherché;;vous ;;;auriez recherché;;ils/elles ;;;auraient recherché
-Impératif Présent;impératif;;;;;;;;;;recherche;;;;;;;;;;recherchons;;;;;recherchez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;recherche;;;;;;;(nous) ;;;recherchons;;(vous) ;;;recherchez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie recherché;;;;;;;(nous) ;;;ayons recherché;;(vous) ;;;ayez recherché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rechercher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

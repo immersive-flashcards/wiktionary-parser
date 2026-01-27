@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;philosophaillasse;que ;tu ;;;philosop
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse philosophaillé;que ;tu ;;;eusses philosophaillé;qu’;il/elle/on ;;;eût philosophaillé;que ;nous ;;;eussions philosophaillé;que ;vous ;;;eussiez philosophaillé;qu’;ils/elles ;;;eussent philosophaillé
 Conditionnel;conditionnel;;je ;;;philosophaillerais;;tu ;;;philosophaillerais;;il/elle/on ;;;philosophaillerait;;nous ;;;philosophaillerions;;vous ;;;philosophailleriez;;ils/elles ;;;philosophailleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais philosophaillé;;tu ;;;aurais philosophaillé;;il/elle/on ;;;aurait philosophaillé;;nous ;;;aurions philosophaillé;;vous ;;;auriez philosophaillé;;ils/elles ;;;auraient philosophaillé
-Impératif Présent;impératif;;;;;;;;;;philosophaille;;;;;;;;;;philosophaillons;;;;;philosophaillez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;philosophaille;;;;;;;(nous) ;;;philosophaillons;;(vous) ;;;philosophaillez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie philosophaillé;;;;;;;(nous) ;;;ayons philosophaillé;;(vous) ;;;ayez philosophaillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;philosophailler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;levasse;que ;tu ;;;levasses;qu’;il/
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse levé;que ;tu ;;;eusses levé;qu’;il/elle/on ;;;eût levé;que ;nous ;;;eussions levé;que ;vous ;;;eussiez levé;qu’;ils/elles ;;;eussent levé
 Conditionnel;conditionnel;;je ;;;lèverais;;tu ;;;lèverais;;il/elle/on ;;;lèverait;;nous ;;;lèverions;;vous ;;;lèveriez;;ils/elles ;;;lèveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais levé;;tu ;;;aurais levé;;il/elle/on ;;;aurait levé;;nous ;;;aurions levé;;vous ;;;auriez levé;;ils/elles ;;;auraient levé
-Impératif Présent;impératif;;;;;;;;;;lève;;;;;;;;;;levons;;;;;levez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;lève;;;;;;;(nous) ;;;levons;;(vous) ;;;levez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie levé;;;;;;;(nous) ;;;ayons levé;;(vous) ;;;ayez levé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;lever;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

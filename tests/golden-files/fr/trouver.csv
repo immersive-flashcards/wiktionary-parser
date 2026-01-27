@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;trouvasse;que ;tu ;;;trouvasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse trouvé;que ;tu ;;;eusses trouvé;qu’;il/elle/on ;;;eût trouvé;que ;nous ;;;eussions trouvé;que ;vous ;;;eussiez trouvé;qu’;ils/elles ;;;eussent trouvé
 Conditionnel;conditionnel;;je ;;;trouverais;;tu ;;;trouverais;;il/elle/on ;;;trouverait;;nous ;;;trouverions;;vous ;;;trouveriez;;ils/elles ;;;trouveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais trouvé;;tu ;;;aurais trouvé;;il/elle/on ;;;aurait trouvé;;nous ;;;aurions trouvé;;vous ;;;auriez trouvé;;ils/elles ;;;auraient trouvé
-Impératif Présent;impératif;;;;;;;;;;trouve;;;;;;;;;;trouvons;;;;;trouvez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;trouve;;;;;;;(nous) ;;;trouvons;;(vous) ;;;trouvez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie trouvé;;;;;;;(nous) ;;;ayons trouvé;;(vous) ;;;ayez trouvé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;trouver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

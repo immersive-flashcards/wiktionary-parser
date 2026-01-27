@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;séparasse;que ;tu ;;;séparasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse séparé;que ;tu ;;;eusses séparé;qu’;il/elle/on ;;;eût séparé;que ;nous ;;;eussions séparé;que ;vous ;;;eussiez séparé;qu’;ils/elles ;;;eussent séparé
 Conditionnel;conditionnel;;je ;;;séparerais;;tu ;;;séparerais;;il/elle/on ;;;séparerait;;nous ;;;séparerions;;vous ;;;sépareriez;;ils/elles ;;;sépareraient
 Conditionnel Passé;conditionnel;;j’;;;aurais séparé;;tu ;;;aurais séparé;;il/elle/on ;;;aurait séparé;;nous ;;;aurions séparé;;vous ;;;auriez séparé;;ils/elles ;;;auraient séparé
-Impératif Présent;impératif;;;;;;;;;;sépare;;;;;;;;;;séparons;;;;;séparez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;sépare;;;;;;;(nous) ;;;séparons;;(vous) ;;;séparez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie séparé;;;;;;;(nous) ;;;ayons séparé;;(vous) ;;;ayez séparé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;séparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

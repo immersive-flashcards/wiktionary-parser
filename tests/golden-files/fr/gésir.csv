@@ -14,7 +14,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai gis;;tu ;;;auras gis;;il/elle
 Subjonctif Passé;subjonctif;que ;j’;;;aie gis;que ;tu ;;;aies gis;qu’;il/elle/on ;;;ait gis;que ;nous ;;;ayons gis;que ;vous ;;;ayez gis;qu’;ils/elles ;;;aient gis
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse gis;que ;tu ;;;eusses gis;qu’;il/elle/on ;;;eût gis;que ;nous ;;;eussions gis;que ;vous ;;;eussiez gis;qu’;ils/elles ;;;eussent gis
 Conditionnel Passé;conditionnel;;j’;;;aurais gis;;tu ;;;aurais gis;;il/elle/on ;;;aurait gis;;nous ;;;aurions gis;;vous ;;;auriez gis;;ils/elles ;;;auraient gis
-Impératif Présent;impératif;;;;;;;;;;gis;;;;;;;;;;gisons;;;;;gis;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;gis;;;;;;;(nous) ;;;gisons;;(vous) ;;;gis;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie gis;;;;;;;(nous) ;;;ayons gis;;(vous) ;;;ayez gis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;gésir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

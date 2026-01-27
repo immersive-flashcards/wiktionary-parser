@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;filtrasse;que ;tu ;;;filtrasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse filtré;que ;tu ;;;eusses filtré;qu’;il/elle/on ;;;eût filtré;que ;nous ;;;eussions filtré;que ;vous ;;;eussiez filtré;qu’;ils/elles ;;;eussent filtré
 Conditionnel;conditionnel;;je ;;;filtrerais;;tu ;;;filtrerais;;il/elle/on ;;;filtrerait;;nous ;;;filtrerions;;vous ;;;filtreriez;;ils/elles ;;;filtreraient
 Conditionnel Passé;conditionnel;;j’;;;aurais filtré;;tu ;;;aurais filtré;;il/elle/on ;;;aurait filtré;;nous ;;;aurions filtré;;vous ;;;auriez filtré;;ils/elles ;;;auraient filtré
-Impératif Présent;impératif;;;;;;;;;;filtre;;;;;;;;;;filtrons;;;;;filtrez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;filtre;;;;;;;(nous) ;;;filtrons;;(vous) ;;;filtrez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie filtré;;;;;;;(nous) ;;;ayons filtré;;(vous) ;;;ayez filtré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;filtrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

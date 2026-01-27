@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;chantasse;que ;tu ;;;chantasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse chanté;que ;tu ;;;eusses chanté;qu’;il/elle/on ;;;eût chanté;que ;nous ;;;eussions chanté;que ;vous ;;;eussiez chanté;qu’;ils/elles ;;;eussent chanté
 Conditionnel;conditionnel;;je ;;;chanterais;;tu ;;;chanterais;;il/elle/on ;;;chanterait;;nous ;;;chanterions;;vous ;;;chanteriez;;ils/elles ;;;chanteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais chanté;;tu ;;;aurais chanté;;il/elle/on ;;;aurait chanté;;nous ;;;aurions chanté;;vous ;;;auriez chanté;;ils/elles ;;;auraient chanté
-Impératif Présent;impératif;;;;;;;;;;chante;;;;;;;;;;chantons;;;;;chantez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;chante;;;;;;;(nous) ;;;chantons;;(vous) ;;;chantez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie chanté;;;;;;;(nous) ;;;ayons chanté;;(vous) ;;;ayez chanté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;chanter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

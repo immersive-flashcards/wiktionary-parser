@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;assisse;que ;tu ;;;assisses;qu’;il
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse assis;que ;tu ;;;eusses assis;qu’;il/elle/on ;;;eût assis;que ;nous ;;;eussions assis;que ;vous ;;;eussiez assis;qu’;ils/elles ;;;eussent assis
 Conditionnel;conditionnel;;j’;;;assiérais;;tu ;;;assiérais;;il/elle/on ;;;assiérait;;nous ;;;assiérions;;vous ;;;assiériez;;ils/elles ;;;assiéraient
 Conditionnel Passé;conditionnel;;j’;;;aurais assis;;tu ;;;aurais assis;;il/elle/on ;;;aurait assis;;nous ;;;aurions assis;;vous ;;;auriez assis;;ils/elles ;;;auraient assis
-Impératif Présent;impératif;;;;;;;;;;assieds;;;;;;;;;;asseyons;;;;;asseyez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;assieds;;;;;;;(nous) ;;;asseyons;;(vous) ;;;asseyez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie assis;;;;;;;(nous) ;;;ayons assis;;(vous) ;;;ayez assis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;assoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

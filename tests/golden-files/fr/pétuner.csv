@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;pétunasse;que ;tu ;;;pétunasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse pétuné;que ;tu ;;;eusses pétuné;qu’;il/elle/on ;;;eût pétuné;que ;nous ;;;eussions pétuné;que ;vous ;;;eussiez pétuné;qu’;ils/elles ;;;eussent pétuné
 Conditionnel;conditionnel;;je ;;;pétunerais;;tu ;;;pétunerais;;il/elle/on ;;;pétunerait;;nous ;;;pétunerions;;vous ;;;pétuneriez;;ils/elles ;;;pétuneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais pétuné;;tu ;;;aurais pétuné;;il/elle/on ;;;aurait pétuné;;nous ;;;aurions pétuné;;vous ;;;auriez pétuné;;ils/elles ;;;auraient pétuné
-Impératif Présent;impératif;;;;;;;;;;pétune;;;;;;;;;;pétunons;;;;;pétunez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;pétune;;;;;;;(nous) ;;;pétunons;;(vous) ;;;pétunez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie pétuné;;;;;;;(nous) ;;;ayons pétuné;;(vous) ;;;ayez pétuné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;pétuner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

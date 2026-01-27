@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;rêvasse;que ;tu ;;;rêvasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse rêvé;que ;tu ;;;eusses rêvé;qu’;il/elle/on ;;;eût rêvé;que ;nous ;;;eussions rêvé;que ;vous ;;;eussiez rêvé;qu’;ils/elles ;;;eussent rêvé
 Conditionnel;conditionnel;;je ;;;rêverais;;tu ;;;rêverais;;il/elle/on ;;;rêverait;;nous ;;;rêverions;;vous ;;;rêveriez;;ils/elles ;;;rêveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais rêvé;;tu ;;;aurais rêvé;;il/elle/on ;;;aurait rêvé;;nous ;;;aurions rêvé;;vous ;;;auriez rêvé;;ils/elles ;;;auraient rêvé
-Impératif Présent;impératif;;;;;;;;;;rêve;;;;;;;;;;rêvons;;;;;rêvez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;rêve;;;;;;;(nous) ;;;rêvons;;(vous) ;;;rêvez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie rêvé;;;;;;;(nous) ;;;ayons rêvé;;(vous) ;;;ayez rêvé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rêver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

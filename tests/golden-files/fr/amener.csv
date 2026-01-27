@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;amenasse;que ;tu ;;;amenasses;qu’;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse amené;que ;tu ;;;eusses amené;qu’;il/elle/on ;;;eût amené;que ;nous ;;;eussions amené;que ;vous ;;;eussiez amené;qu’;ils/elles ;;;eussent amené
 Conditionnel;conditionnel;;j’;;;amènerais;;tu ;;;amènerais;;il/elle/on ;;;amènerait;;nous ;;;amènerions;;vous ;;;amèneriez;;ils/elles ;;;amèneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais amené;;tu ;;;aurais amené;;il/elle/on ;;;aurait amené;;nous ;;;aurions amené;;vous ;;;auriez amené;;ils/elles ;;;auraient amené
-Impératif Présent;impératif;;;;;;;;;;amène;;;;;;;;;;amenons;;;;;amenez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;amène;;;;;;;(nous) ;;;amenons;;(vous) ;;;amenez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie amené;;;;;;;(nous) ;;;ayons amené;;(vous) ;;;ayez amené;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;amener;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

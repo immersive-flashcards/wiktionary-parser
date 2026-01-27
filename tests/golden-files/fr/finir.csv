@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;finisse;que ;tu ;;;finisses;qu’;il/
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fini;que ;tu ;;;eusses fini;qu’;il/elle/on ;;;eût fini;que ;nous ;;;eussions fini;que ;vous ;;;eussiez fini;qu’;ils/elles ;;;eussent fini
 Conditionnel;conditionnel;;je ;;;finirais;;tu ;;;finirais;;il/elle/on ;;;finirait;;nous ;;;finirions;;vous ;;;finiriez;;ils/elles ;;;finiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fini;;tu ;;;aurais fini;;il/elle/on ;;;aurait fini;;nous ;;;aurions fini;;vous ;;;auriez fini;;ils/elles ;;;auraient fini
-Impératif Présent;impératif;;;;;;;;;;finis;;;;;;;;;;finissons;;;;;finissez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;finis;;;;;;;(nous) ;;;finissons;;(vous) ;;;finissez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie fini;;;;;;;(nous) ;;;ayons fini;;(vous) ;;;ayez fini;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;finir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

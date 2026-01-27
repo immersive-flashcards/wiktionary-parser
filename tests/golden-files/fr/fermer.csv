@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;fermasse;que ;tu ;;;fermasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fermé;que ;tu ;;;eusses fermé;qu’;il/elle/on ;;;eût fermé;que ;nous ;;;eussions fermé;que ;vous ;;;eussiez fermé;qu’;ils/elles ;;;eussent fermé
 Conditionnel;conditionnel;;je ;;;fermerais;;tu ;;;fermerais;;il/elle/on ;;;fermerait;;nous ;;;fermerions;;vous ;;;fermeriez;;ils/elles ;;;fermeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fermé;;tu ;;;aurais fermé;;il/elle/on ;;;aurait fermé;;nous ;;;aurions fermé;;vous ;;;auriez fermé;;ils/elles ;;;auraient fermé
-Impératif Présent;impératif;;;;;;;;;;ferme;;;;;;;;;;fermons;;;;;fermez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;ferme;;;;;;;(nous) ;;;fermons;;(vous) ;;;fermez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie fermé;;;;;;;(nous) ;;;ayons fermé;;(vous) ;;;ayez fermé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;fermer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

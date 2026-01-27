@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;obviasse;que ;tu ;;;obviasses;qu’;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse obvié;que ;tu ;;;eusses obvié;qu’;il/elle/on ;;;eût obvié;que ;nous ;;;eussions obvié;que ;vous ;;;eussiez obvié;qu’;ils/elles ;;;eussent obvié
 Conditionnel;conditionnel;;j’;;;obvierais;;tu ;;;obvierais;;il/elle/on ;;;obvierait;;nous ;;;obvierions;;vous ;;;obvieriez;;ils/elles ;;;obvieraient
 Conditionnel Passé;conditionnel;;j’;;;aurais obvié;;tu ;;;aurais obvié;;il/elle/on ;;;aurait obvié;;nous ;;;aurions obvié;;vous ;;;auriez obvié;;ils/elles ;;;auraient obvié
-Impératif Présent;impératif;;;;;;;;;;obvie;;;;;;;;;;obvions;;;;;obviez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;obvie;;;;;;;(nous) ;;;obvions;;(vous) ;;;obviez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie obvié;;;;;;;(nous) ;;;ayons obvié;;(vous) ;;;ayez obvié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;obvier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

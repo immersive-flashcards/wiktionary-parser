@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;ouvrisse;que ;tu ;;;ouvrisses;qu’;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse ouvert;que ;tu ;;;eusses ouvert;qu’;il/elle/on ;;;eût ouvert;que ;nous ;;;eussions ouvert;que ;vous ;;;eussiez ouvert;qu’;ils/elles ;;;eussent ouvert
 Conditionnel;conditionnel;;j’;;;ouvrirais;;tu ;;;ouvrirais;;il/elle/on ;;;ouvrirait;;nous ;;;ouvririons;;vous ;;;ouvririez;;ils/elles ;;;ouvriraient
 Conditionnel Passé;conditionnel;;j’;;;aurais ouvert;;tu ;;;aurais ouvert;;il/elle/on ;;;aurait ouvert;;nous ;;;aurions ouvert;;vous ;;;auriez ouvert;;ils/elles ;;;auraient ouvert
-Impératif Présent;impératif;;;;;;;;;;ouvre;;;;;;;;;;ouvrons;;;;;ouvrez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;ouvre;;;;;;;(nous) ;;;ouvrons;;(vous) ;;;ouvrez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie ouvert;;;;;;;(nous) ;;;ayons ouvert;;(vous) ;;;ayez ouvert;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;ouvrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;daubasse;que ;tu ;;;daubasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse daubé;que ;tu ;;;eusses daubé;qu’;il/elle/on ;;;eût daubé;que ;nous ;;;eussions daubé;que ;vous ;;;eussiez daubé;qu’;ils/elles ;;;eussent daubé
 Conditionnel;conditionnel;;je ;;;dauberais;;tu ;;;dauberais;;il/elle/on ;;;dauberait;;nous ;;;dauberions;;vous ;;;dauberiez;;ils/elles ;;;dauberaient
 Conditionnel Passé;conditionnel;;j’;;;aurais daubé;;tu ;;;aurais daubé;;il/elle/on ;;;aurait daubé;;nous ;;;aurions daubé;;vous ;;;auriez daubé;;ils/elles ;;;auraient daubé
-Impératif Présent;impératif;;;;;;;;;;daube;;;;;;;;;;daubons;;;;;daubez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;daube;;;;;;;(nous) ;;;daubons;;(vous) ;;;daubez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie daubé;;;;;;;(nous) ;;;ayons daubé;;(vous) ;;;ayez daubé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;dauber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

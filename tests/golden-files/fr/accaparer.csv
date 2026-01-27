@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;accaparasse;que ;tu ;;;accaparasses;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse accaparé;que ;tu ;;;eusses accaparé;qu’;il/elle/on ;;;eût accaparé;que ;nous ;;;eussions accaparé;que ;vous ;;;eussiez accaparé;qu’;ils/elles ;;;eussent accaparé
 Conditionnel;conditionnel;;j’;;;accaparerais;;tu ;;;accaparerais;;il/elle/on ;;;accaparerait;;nous ;;;accaparerions;;vous ;;;accapareriez;;ils/elles ;;;accapareraient
 Conditionnel Passé;conditionnel;;j’;;;aurais accaparé;;tu ;;;aurais accaparé;;il/elle/on ;;;aurait accaparé;;nous ;;;aurions accaparé;;vous ;;;auriez accaparé;;ils/elles ;;;auraient accaparé
-Impératif Présent;impératif;;;;;;;;;;accapare;;;;;;;;;;accaparons;;;;;accaparez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;accapare;;;;;;;(nous) ;;;accaparons;;(vous) ;;;accaparez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie accaparé;;;;;;;(nous) ;;;ayons accaparé;;(vous) ;;;ayez accaparé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;accaparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

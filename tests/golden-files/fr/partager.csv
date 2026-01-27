@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;partageasse;que ;tu ;;;partageasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse partagé;que ;tu ;;;eusses partagé;qu’;il/elle/on ;;;eût partagé;que ;nous ;;;eussions partagé;que ;vous ;;;eussiez partagé;qu’;ils/elles ;;;eussent partagé
 Conditionnel;conditionnel;;je ;;;partagerais;;tu ;;;partagerais;;il/elle/on ;;;partagerait;;nous ;;;partagerions;;vous ;;;partageriez;;ils/elles ;;;partageraient
 Conditionnel Passé;conditionnel;;j’;;;aurais partagé;;tu ;;;aurais partagé;;il/elle/on ;;;aurait partagé;;nous ;;;aurions partagé;;vous ;;;auriez partagé;;ils/elles ;;;auraient partagé
-Impératif Présent;impératif;;;;;;;;;;partage;;;;;;;;;;partageons;;;;;partagez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;partage;;;;;;;(nous) ;;;partageons;;(vous) ;;;partagez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie partagé;;;;;;;(nous) ;;;ayons partagé;;(vous) ;;;ayez partagé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;partager;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;ensemençasse;que ;tu ;;;ensemenças
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse ensemencé;que ;tu ;;;eusses ensemencé;qu’;il/elle/on ;;;eût ensemencé;que ;nous ;;;eussions ensemencé;que ;vous ;;;eussiez ensemencé;qu’;ils/elles ;;;eussent ensemencé
 Conditionnel;conditionnel;;j’;;;ensemencerais;;tu ;;;ensemencerais;;il/elle/on ;;;ensemencerait;;nous ;;;ensemencerions;;vous ;;;ensemenceriez;;ils/elles ;;;ensemenceraient
 Conditionnel Passé;conditionnel;;j’;;;aurais ensemencé;;tu ;;;aurais ensemencé;;il/elle/on ;;;aurait ensemencé;;nous ;;;aurions ensemencé;;vous ;;;auriez ensemencé;;ils/elles ;;;auraient ensemencé
-Impératif Présent;impératif;;;;;;;;;;ensemence;;;;;;;;;;ensemençons;;;;;ensemencez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;ensemence;;;;;;;(nous) ;;;ensemençons;;(vous) ;;;ensemencez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie ensemencé;;;;;;;(nous) ;;;ayons ensemencé;;(vous) ;;;ayez ensemencé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;ensemencer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

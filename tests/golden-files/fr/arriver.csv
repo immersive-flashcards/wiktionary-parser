@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;arrivasse;que ;tu ;;;arrivasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse arrivé;que ;tu ;;;fusses arrivé;qu’;il/elle/on ;;;fût arrivé;que ;nous ;;;fussions arrivés;que ;vous ;;;fussiez arrivés;qu’;ils/elles ;;;fussent arrivés
 Conditionnel;conditionnel;;j’;;;arriverais;;tu ;;;arriverais;;il/elle/on ;;;arriverait;;nous ;;;arriverions;;vous ;;;arriveriez;;ils/elles ;;;arriveraient
 Conditionnel Passé;conditionnel;;je ;;;serais arrivé;;tu ;;;serais arrivé;;il/elle/on ;;;serait arrivé;;nous ;;;serions arrivés;;vous ;;;seriez arrivés;;ils/elles ;;;seraient arrivés
-Impératif Présent;impératif;;;;;;;;;;arrive;;;;;;;;;;arrivons;;;;;arrivez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;arrive;;;;;;;(nous) ;;;arrivons;;(vous) ;;;arrivez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;sois arrivé;;;;;;;(nous) ;;;soyons arrivés;;(vous) ;;;soyez arrivés;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;arriver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

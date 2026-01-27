@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;maintinsse;que ;tu ;;;maintinsses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse maintenu;que ;tu ;;;eusses maintenu;qu’;il/elle/on ;;;eût maintenu;que ;nous ;;;eussions maintenu;que ;vous ;;;eussiez maintenu;qu’;ils/elles ;;;eussent maintenu
 Conditionnel;conditionnel;;je ;;;maintiendrais;;tu ;;;maintiendrais;;il/elle/on ;;;maintiendrait;;nous ;;;maintiendrions;;vous ;;;maintiendriez;;ils/elles ;;;maintiendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais maintenu;;tu ;;;aurais maintenu;;il/elle/on ;;;aurait maintenu;;nous ;;;aurions maintenu;;vous ;;;auriez maintenu;;ils/elles ;;;auraient maintenu
-Impératif Présent;impératif;;;;;;;;;;maintiens;;;;;;;;;;maintenons;;;;;maintenez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;maintiens;;;;;;;(nous) ;;;maintenons;;(vous) ;;;maintenez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie maintenu;;;;;;;(nous) ;;;ayons maintenu;;(vous) ;;;ayez maintenu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;maintenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

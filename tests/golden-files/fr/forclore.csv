@@ -16,7 +16,8 @@ Subjonctif Passé;subjonctif;que ;j’;;;aie forclos;que ;tu ;;;aies forclos;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse forclos;que ;tu ;;;eusses forclos;qu’;il/elle/on ;;;eût forclos;que ;nous ;;;eussions forclos;que ;vous ;;;eussiez forclos;qu’;ils/elles ;;;eussent forclos
 Conditionnel;conditionnel;;je ;;;forclorais;;tu ;;;forclorais;;il/elle/on ;;;forclorait;;nous ;;;forclorions;;vous ;;;forcloriez;;ils/elles ;;;forcloraient
 Conditionnel Passé;conditionnel;;j’;;;aurais forclos;;tu ;;;aurais forclos;;il/elle/on ;;;aurait forclos;;nous ;;;aurions forclos;;vous ;;;auriez forclos;;ils/elles ;;;auraient forclos
-Impératif Présent;impératif;;;;;;;;;;forclos;;;;;;;;;;forclosons;;;;;forclosez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;forclos;;;;;;;(nous) ;;;forclosons;;(vous) ;;;forclosez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie forclos;;;;;;;(nous) ;;;ayons forclos;;(vous) ;;;ayez forclos;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;forclore;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

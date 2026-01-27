@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;mâchasse;que ;tu ;;;mâchasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse mâché;que ;tu ;;;eusses mâché;qu’;il/elle/on ;;;eût mâché;que ;nous ;;;eussions mâché;que ;vous ;;;eussiez mâché;qu’;ils/elles ;;;eussent mâché
 Conditionnel;conditionnel;;je ;;;mâcherais;;tu ;;;mâcherais;;il/elle/on ;;;mâcherait;;nous ;;;mâcherions;;vous ;;;mâcheriez;;ils/elles ;;;mâcheraient
 Conditionnel Passé;conditionnel;;j’;;;aurais mâché;;tu ;;;aurais mâché;;il/elle/on ;;;aurait mâché;;nous ;;;aurions mâché;;vous ;;;auriez mâché;;ils/elles ;;;auraient mâché
-Impératif Présent;impératif;;;;;;;;;;mâche;;;;;;;;;;mâchons;;;;;mâchez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;mâche;;;;;;;(nous) ;;;mâchons;;(vous) ;;;mâchez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie mâché;;;;;;;(nous) ;;;ayons mâché;;(vous) ;;;ayez mâché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;mâcher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

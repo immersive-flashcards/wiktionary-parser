@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;visitasse;que ;tu ;;;visitasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse visité;que ;tu ;;;eusses visité;qu’;il/elle/on ;;;eût visité;que ;nous ;;;eussions visité;que ;vous ;;;eussiez visité;qu’;ils/elles ;;;eussent visité
 Conditionnel;conditionnel;;je ;;;visiterais;;tu ;;;visiterais;;il/elle/on ;;;visiterait;;nous ;;;visiterions;;vous ;;;visiteriez;;ils/elles ;;;visiteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais visité;;tu ;;;aurais visité;;il/elle/on ;;;aurait visité;;nous ;;;aurions visité;;vous ;;;auriez visité;;ils/elles ;;;auraient visité
-Impératif Présent;impératif;;;;;;;;;;visite;;;;;;;;;;visitons;;;;;visitez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;visite;;;;;;;(nous) ;;;visitons;;(vous) ;;;visitez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie visité;;;;;;;(nous) ;;;ayons visité;;(vous) ;;;ayez visité;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;visiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

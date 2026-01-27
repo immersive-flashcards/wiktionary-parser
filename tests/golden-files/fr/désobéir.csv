@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;désobéisse;que ;tu ;;;désobéisses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse désobéi;que ;tu ;;;eusses désobéi;qu’;il/elle/on ;;;eût désobéi;que ;nous ;;;eussions désobéi;que ;vous ;;;eussiez désobéi;qu’;ils/elles ;;;eussent désobéi
 Conditionnel;conditionnel;;je ;;;désobéirais;;tu ;;;désobéirais;;il/elle/on ;;;désobéirait;;nous ;;;désobéirions;;vous ;;;désobéiriez;;ils/elles ;;;désobéiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais désobéi;;tu ;;;aurais désobéi;;il/elle/on ;;;aurait désobéi;;nous ;;;aurions désobéi;;vous ;;;auriez désobéi;;ils/elles ;;;auraient désobéi
-Impératif Présent;impératif;;;;;;;;;;désobéis;;;;;;;;;;désobéissons;;;;;désobéissez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;désobéis;;;;;;;(nous) ;;;désobéissons;;(vous) ;;;désobéissez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie désobéi;;;;;;;(nous) ;;;ayons désobéi;;(vous) ;;;ayez désobéi;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;désobéir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

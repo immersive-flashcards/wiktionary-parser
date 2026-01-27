@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;éclairasse;que ;tu ;;;éclairasses;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse éclairé;que ;tu ;;;eusses éclairé;qu’;il/elle/on ;;;eût éclairé;que ;nous ;;;eussions éclairé;que ;vous ;;;eussiez éclairé;qu’;ils/elles ;;;eussent éclairé
 Conditionnel;conditionnel;;j’;;;éclairerais;;tu ;;;éclairerais;;il/elle/on ;;;éclairerait;;nous ;;;éclairerions;;vous ;;;éclaireriez;;ils/elles ;;;éclaireraient
 Conditionnel Passé;conditionnel;;j’;;;aurais éclairé;;tu ;;;aurais éclairé;;il/elle/on ;;;aurait éclairé;;nous ;;;aurions éclairé;;vous ;;;auriez éclairé;;ils/elles ;;;auraient éclairé
-Impératif Présent;impératif;;;;;;;;;;éclaire;;;;;;;;;;éclairons;;;;;éclairez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;éclaire;;;;;;;(nous) ;;;éclairons;;(vous) ;;;éclairez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie éclairé;;;;;;;(nous) ;;;ayons éclairé;;(vous) ;;;ayez éclairé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;éclairer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

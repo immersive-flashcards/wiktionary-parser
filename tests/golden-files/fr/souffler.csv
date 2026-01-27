@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;soufflasse;que ;tu ;;;soufflasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse soufflé;que ;tu ;;;eusses soufflé;qu’;il/elle/on ;;;eût soufflé;que ;nous ;;;eussions soufflé;que ;vous ;;;eussiez soufflé;qu’;ils/elles ;;;eussent soufflé
 Conditionnel;conditionnel;;je ;;;soufflerais;;tu ;;;soufflerais;;il/elle/on ;;;soufflerait;;nous ;;;soufflerions;;vous ;;;souffleriez;;ils/elles ;;;souffleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais soufflé;;tu ;;;aurais soufflé;;il/elle/on ;;;aurait soufflé;;nous ;;;aurions soufflé;;vous ;;;auriez soufflé;;ils/elles ;;;auraient soufflé
-Impératif Présent;impératif;;;;;;;;;;souffle;;;;;;;;;;soufflons;;;;;soufflez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;souffle;;;;;;;(nous) ;;;soufflons;;(vous) ;;;soufflez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie soufflé;;;;;;;(nous) ;;;ayons soufflé;;(vous) ;;;ayez soufflé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;souffler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

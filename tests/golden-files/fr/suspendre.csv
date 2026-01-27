@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;suspendisse;que ;tu ;;;suspendisses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse suspendu;que ;tu ;;;eusses suspendu;qu’;il/elle/on ;;;eût suspendu;que ;nous ;;;eussions suspendu;que ;vous ;;;eussiez suspendu;qu’;ils/elles ;;;eussent suspendu
 Conditionnel;conditionnel;;je ;;;suspendrais;;tu ;;;suspendrais;;il/elle/on ;;;suspendrait;;nous ;;;suspendrions;;vous ;;;suspendriez;;ils/elles ;;;suspendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais suspendu;;tu ;;;aurais suspendu;;il/elle/on ;;;aurait suspendu;;nous ;;;aurions suspendu;;vous ;;;auriez suspendu;;ils/elles ;;;auraient suspendu
-Impératif Présent;impératif;;;;;;;;;;suspends;;;;;;;;;;suspendons;;;;;suspendez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;suspends;;;;;;;(nous) ;;;suspendons;;(vous) ;;;suspendez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie suspendu;;;;;;;(nous) ;;;ayons suspendu;;(vous) ;;;ayez suspendu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;suspendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

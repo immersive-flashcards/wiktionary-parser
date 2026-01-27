@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;définisse;que ;tu ;;;définisses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse défini;que ;tu ;;;eusses défini;qu’;il/elle/on ;;;eût défini;que ;nous ;;;eussions défini;que ;vous ;;;eussiez défini;qu’;ils/elles ;;;eussent défini
 Conditionnel;conditionnel;;je ;;;définirais;;tu ;;;définirais;;il/elle/on ;;;définirait;;nous ;;;définirions;;vous ;;;définiriez;;ils/elles ;;;définiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais défini;;tu ;;;aurais défini;;il/elle/on ;;;aurait défini;;nous ;;;aurions défini;;vous ;;;auriez défini;;ils/elles ;;;auraient défini
-Impératif Présent;impératif;;;;;;;;;;définis;;;;;;;;;;définissons;;;;;définissez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;définis;;;;;;;(nous) ;;;définissons;;(vous) ;;;définissez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie défini;;;;;;;(nous) ;;;ayons défini;;(vous) ;;;ayez défini;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;définir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

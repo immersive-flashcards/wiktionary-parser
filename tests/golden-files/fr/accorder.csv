@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;accordasse;que ;tu ;;;accordasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse accordé;que ;tu ;;;eusses accordé;qu’;il/elle/on ;;;eût accordé;que ;nous ;;;eussions accordé;que ;vous ;;;eussiez accordé;qu’;ils/elles ;;;eussent accordé
 Conditionnel;conditionnel;;j’;;;accorderais;;tu ;;;accorderais;;il/elle/on ;;;accorderait;;nous ;;;accorderions;;vous ;;;accorderiez;;ils/elles ;;;accorderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais accordé;;tu ;;;aurais accordé;;il/elle/on ;;;aurait accordé;;nous ;;;aurions accordé;;vous ;;;auriez accordé;;ils/elles ;;;auraient accordé
-Impératif Présent;impératif;;;;;;;;;;accorde;;;;;;;;;;accordons;;;;;accordez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;accorde;;;;;;;(nous) ;;;accordons;;(vous) ;;;accordez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie accordé;;;;;;;(nous) ;;;ayons accordé;;(vous) ;;;ayez accordé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;accorder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

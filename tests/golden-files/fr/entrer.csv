@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;entrasse;que ;tu ;;;entrasses;qu’;
 Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse entré;que ;tu ;;;fusses entré;qu’;il/elle/on ;;;fût entré;que ;nous ;;;fussions entrés;que ;vous ;;;fussiez entrés;qu’;ils/elles ;;;fussent entrés
 Conditionnel;conditionnel;;j’;;;entrerais;;tu ;;;entrerais;;il/elle/on ;;;entrerait;;nous ;;;entrerions;;vous ;;;entreriez;;ils/elles ;;;entreraient
 Conditionnel Passé;conditionnel;;je ;;;serais entré;;tu ;;;serais entré;;il/elle/on ;;;serait entré;;nous ;;;serions entrés;;vous ;;;seriez entrés;;ils/elles ;;;seraient entrés
-Impératif Présent;impératif;;;;;;;;;;entre;;;;;;;;;;entrons;;;;;entrez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;entre;;;;;;;(nous) ;;;entrons;;(vous) ;;;entrez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;sois entré;;;;;;;(nous) ;;;soyons entrés;;(vous) ;;;soyez entrés;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;entrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;créasse;que ;tu ;;;créasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse créé;que ;tu ;;;eusses créé;qu’;il/elle/on ;;;eût créé;que ;nous ;;;eussions créé;que ;vous ;;;eussiez créé;qu’;ils/elles ;;;eussent créé
 Conditionnel;conditionnel;;je ;;;créerais;;tu ;;;créerais;;il/elle/on ;;;créerait;;nous ;;;créerions;;vous ;;;créeriez;;ils/elles ;;;créeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais créé;;tu ;;;aurais créé;;il/elle/on ;;;aurait créé;;nous ;;;aurions créé;;vous ;;;auriez créé;;ils/elles ;;;auraient créé
-Impératif Présent;impératif;;;;;;;;;;crée;;;;;;;;;;créons;;;;;créez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;crée;;;;;;;(nous) ;;;créons;;(vous) ;;;créez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie créé;;;;;;;(nous) ;;;ayons créé;;(vous) ;;;ayez créé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;créer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

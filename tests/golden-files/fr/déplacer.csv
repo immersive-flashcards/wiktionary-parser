@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;déplaçasse;que ;tu ;;;déplaçasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse déplacé;que ;tu ;;;eusses déplacé;qu’;il/elle/on ;;;eût déplacé;que ;nous ;;;eussions déplacé;que ;vous ;;;eussiez déplacé;qu’;ils/elles ;;;eussent déplacé
 Conditionnel;conditionnel;;je ;;;déplacerais;;tu ;;;déplacerais;;il/elle/on ;;;déplacerait;;nous ;;;déplacerions;;vous ;;;déplaceriez;;ils/elles ;;;déplaceraient
 Conditionnel Passé;conditionnel;;j’;;;aurais déplacé;;tu ;;;aurais déplacé;;il/elle/on ;;;aurait déplacé;;nous ;;;aurions déplacé;;vous ;;;auriez déplacé;;ils/elles ;;;auraient déplacé
-Impératif Présent;impératif;;;;;;;;;;déplace;;;;;;;;;;déplaçons;;;;;déplacez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;déplace;;;;;;;(nous) ;;;déplaçons;;(vous) ;;;déplacez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie déplacé;;;;;;;(nous) ;;;ayons déplacé;;(vous) ;;;ayez déplacé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;déplacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

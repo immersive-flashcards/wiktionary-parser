@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;mondasse;que ;tu ;;;mondasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse mondé;que ;tu ;;;eusses mondé;qu’;il/elle/on ;;;eût mondé;que ;nous ;;;eussions mondé;que ;vous ;;;eussiez mondé;qu’;ils/elles ;;;eussent mondé
 Conditionnel;conditionnel;;je ;;;monderais;;tu ;;;monderais;;il/elle/on ;;;monderait;;nous ;;;monderions;;vous ;;;monderiez;;ils/elles ;;;monderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais mondé;;tu ;;;aurais mondé;;il/elle/on ;;;aurait mondé;;nous ;;;aurions mondé;;vous ;;;auriez mondé;;ils/elles ;;;auraient mondé
-Impératif Présent;impératif;;;;;;;;;;monde;;;;;;;;;;mondons;;;;;mondez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;monde;;;;;;;(nous) ;;;mondons;;(vous) ;;;mondez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie mondé;;;;;;;(nous) ;;;ayons mondé;;(vous) ;;;ayez mondé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;monder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

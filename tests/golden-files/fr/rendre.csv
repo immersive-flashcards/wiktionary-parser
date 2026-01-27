@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;rendisse;que ;tu ;;;rendisses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse rendu;que ;tu ;;;eusses rendu;qu’;il/elle/on ;;;eût rendu;que ;nous ;;;eussions rendu;que ;vous ;;;eussiez rendu;qu’;ils/elles ;;;eussent rendu
 Conditionnel;conditionnel;;je ;;;rendrais;;tu ;;;rendrais;;il/elle/on ;;;rendrait;;nous ;;;rendrions;;vous ;;;rendriez;;ils/elles ;;;rendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais rendu;;tu ;;;aurais rendu;;il/elle/on ;;;aurait rendu;;nous ;;;aurions rendu;;vous ;;;auriez rendu;;ils/elles ;;;auraient rendu
-Impératif Présent;impératif;;;;;;;;;;rends;;;;;;;;;;rendons;;;;;rendez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;rends;;;;;;;(nous) ;;;rendons;;(vous) ;;;rendez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie rendu;;;;;;;(nous) ;;;ayons rendu;;(vous) ;;;ayez rendu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

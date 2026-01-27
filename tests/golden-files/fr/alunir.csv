@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;alunisse;que ;tu ;;;alunisses;qu’;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse aluni;que ;tu ;;;eusses aluni;qu’;il/elle/on ;;;eût aluni;que ;nous ;;;eussions aluni;que ;vous ;;;eussiez aluni;qu’;ils/elles ;;;eussent aluni
 Conditionnel;conditionnel;;j’;;;alunirais;;tu ;;;alunirais;;il/elle/on ;;;alunirait;;nous ;;;alunirions;;vous ;;;aluniriez;;ils/elles ;;;aluniraient
 Conditionnel Passé;conditionnel;;j’;;;aurais aluni;;tu ;;;aurais aluni;;il/elle/on ;;;aurait aluni;;nous ;;;aurions aluni;;vous ;;;auriez aluni;;ils/elles ;;;auraient aluni
-Impératif Présent;impératif;;;;;;;;;;alunis;;;;;;;;;;alunissons;;;;;alunissez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;alunis;;;;;;;(nous) ;;;alunissons;;(vous) ;;;alunissez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie aluni;;;;;;;(nous) ;;;ayons aluni;;(vous) ;;;ayez aluni;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;alunir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

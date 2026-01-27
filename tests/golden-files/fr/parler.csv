@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;parlasse;que ;tu ;;;parlasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse parlé;que ;tu ;;;eusses parlé;qu’;il/elle/on ;;;eût parlé;que ;nous ;;;eussions parlé;que ;vous ;;;eussiez parlé;qu’;ils/elles ;;;eussent parlé
 Conditionnel;conditionnel;;je ;;;parlerais;;tu ;;;parlerais;;il/elle/on ;;;parlerait;;nous ;;;parlerions;;vous ;;;parleriez;;ils/elles ;;;parleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais parlé;;tu ;;;aurais parlé;;il/elle/on ;;;aurait parlé;;nous ;;;aurions parlé;;vous ;;;auriez parlé;;ils/elles ;;;auraient parlé
-Impératif Présent;impératif;;;;;;;;;;parle;;;;;;;;;;parlons;;;;;parlez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;parle;;;;;;;(nous) ;;;parlons;;(vous) ;;;parlez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie parlé;;;;;;;(nous) ;;;ayons parlé;;(vous) ;;;ayez parlé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;parler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

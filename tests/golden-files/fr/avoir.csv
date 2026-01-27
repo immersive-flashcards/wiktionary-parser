@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;eusse;que ;tu ;;;eusses;qu’;il/ell
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse eu;que ;tu ;;;eusses eu;qu’;il/elle/on ;;;eût eu;que ;nous ;;;eussions eu;que ;vous ;;;eussiez eu;qu’;ils/elles ;;;eussent eu
 Conditionnel;conditionnel;;j’;;;aurais;;tu ;;;aurais;;il/elle/on ;;;aurait;;nous ;;;aurions;;vous ;;;auriez;;ils/elles ;;;auraient
 Conditionnel Passé;conditionnel;;j’;;;aurais eu;;tu ;;;aurais eu;;il/elle/on ;;;aurait eu;;nous ;;;aurions eu;;vous ;;;auriez eu;;ils/elles ;;;auraient eu
-Impératif Présent;impératif;;;;;;;;;;aie;;;;;;;;;;ayons;;;;;ayez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;aie;;;;;;;(nous) ;;;ayons;;(vous) ;;;ayez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie eu;;;;;;;(nous) ;;;ayons eu;;(vous) ;;;ayez eu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

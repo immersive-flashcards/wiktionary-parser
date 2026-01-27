@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;domestiquasse;que ;tu ;;;domestiquass
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse domestiqué;que ;tu ;;;eusses domestiqué;qu’;il/elle/on ;;;eût domestiqué;que ;nous ;;;eussions domestiqué;que ;vous ;;;eussiez domestiqué;qu’;ils/elles ;;;eussent domestiqué
 Conditionnel;conditionnel;;je ;;;domestiquerais;;tu ;;;domestiquerais;;il/elle/on ;;;domestiquerait;;nous ;;;domestiquerions;;vous ;;;domestiqueriez;;ils/elles ;;;domestiqueraient
 Conditionnel Passé;conditionnel;;j’;;;aurais domestiqué;;tu ;;;aurais domestiqué;;il/elle/on ;;;aurait domestiqué;;nous ;;;aurions domestiqué;;vous ;;;auriez domestiqué;;ils/elles ;;;auraient domestiqué
-Impératif Présent;impératif;;;;;;;;;;domestique;;;;;;;;;;domestiquons;;;;;domestiquez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;domestique;;;;;;;(nous) ;;;domestiquons;;(vous) ;;;domestiquez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie domestiqué;;;;;;;(nous) ;;;ayons domestiqué;;(vous) ;;;ayez domestiqué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;domestiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

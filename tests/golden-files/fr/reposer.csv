@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;reposasse;que ;tu ;;;reposasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse reposé;que ;tu ;;;eusses reposé;qu’;il/elle/on ;;;eût reposé;que ;nous ;;;eussions reposé;que ;vous ;;;eussiez reposé;qu’;ils/elles ;;;eussent reposé
 Conditionnel;conditionnel;;je ;;;reposerais;;tu ;;;reposerais;;il/elle/on ;;;reposerait;;nous ;;;reposerions;;vous ;;;reposeriez;;ils/elles ;;;reposeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais reposé;;tu ;;;aurais reposé;;il/elle/on ;;;aurait reposé;;nous ;;;aurions reposé;;vous ;;;auriez reposé;;ils/elles ;;;auraient reposé
-Impératif Présent;impératif;;;;;;;;;;repose;;;;;;;;;;reposons;;;;;reposez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;repose;;;;;;;(nous) ;;;reposons;;(vous) ;;;reposez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie reposé;;;;;;;(nous) ;;;ayons reposé;;(vous) ;;;ayez reposé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;reposer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

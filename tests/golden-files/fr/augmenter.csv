@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;augmentasse;que ;tu ;;;augmentasses;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse augmenté;que ;tu ;;;eusses augmenté;qu’;il/elle/on ;;;eût augmenté;que ;nous ;;;eussions augmenté;que ;vous ;;;eussiez augmenté;qu’;ils/elles ;;;eussent augmenté
 Conditionnel;conditionnel;;j’;;;augmenterais;;tu ;;;augmenterais;;il/elle/on ;;;augmenterait;;nous ;;;augmenterions;;vous ;;;augmenteriez;;ils/elles ;;;augmenteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais augmenté;;tu ;;;aurais augmenté;;il/elle/on ;;;aurait augmenté;;nous ;;;aurions augmenté;;vous ;;;auriez augmenté;;ils/elles ;;;auraient augmenté
-Impératif Présent;impératif;;;;;;;;;;augmente;;;;;;;;;;augmentons;;;;;augmentez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;augmente;;;;;;;(nous) ;;;augmentons;;(vous) ;;;augmentez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie augmenté;;;;;;;(nous) ;;;ayons augmenté;;(vous) ;;;ayez augmenté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;augmenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

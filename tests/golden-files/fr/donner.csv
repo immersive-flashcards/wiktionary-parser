@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;donnasse;que ;tu ;;;donnasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse donné;que ;tu ;;;eusses donné;qu’;il/elle/on ;;;eût donné;que ;nous ;;;eussions donné;que ;vous ;;;eussiez donné;qu’;ils/elles ;;;eussent donné
 Conditionnel;conditionnel;;je ;;;donnerais;;tu ;;;donnerais;;il/elle/on ;;;donnerait;;nous ;;;donnerions;;vous ;;;donneriez;;ils/elles ;;;donneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais donné;;tu ;;;aurais donné;;il/elle/on ;;;aurait donné;;nous ;;;aurions donné;;vous ;;;auriez donné;;ils/elles ;;;auraient donné
-Impératif Présent;impératif;;;;;;;;;;donne;;;;;;;;;;donnons;;;;;donnez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;donne;;;;;;;(nous) ;;;donnons;;(vous) ;;;donnez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie donné;;;;;;;(nous) ;;;ayons donné;;(vous) ;;;ayez donné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;donner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

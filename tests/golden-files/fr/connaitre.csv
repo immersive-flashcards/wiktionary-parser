@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;connusse;que ;tu ;;;connusses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse connu;que ;tu ;;;eusses connu;qu’;il/elle/on ;;;eût connu;que ;nous ;;;eussions connu;que ;vous ;;;eussiez connu;qu’;ils/elles ;;;eussent connu
 Conditionnel;conditionnel;;je ;;;connaitrais;;tu ;;;connaitrais;;il/elle/on ;;;connaitrait;;nous ;;;connaitrions;;vous ;;;connaitriez;;ils/elles ;;;connaitraient
 Conditionnel Passé;conditionnel;;j’;;;aurais connu;;tu ;;;aurais connu;;il/elle/on ;;;aurait connu;;nous ;;;aurions connu;;vous ;;;auriez connu;;ils/elles ;;;auraient connu
-Impératif Présent;impératif;;;;;;;;;;connais;;;;;;;;;;connaissons;;;;;connaissez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;connais;;;;;;;(nous) ;;;connaissons;;(vous) ;;;connaissez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie connu;;;;;;;(nous) ;;;ayons connu;;(vous) ;;;ayez connu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;connaitre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

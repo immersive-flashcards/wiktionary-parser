@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;divisasse;que ;tu ;;;divisasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse divisé;que ;tu ;;;eusses divisé;qu’;il/elle/on ;;;eût divisé;que ;nous ;;;eussions divisé;que ;vous ;;;eussiez divisé;qu’;ils/elles ;;;eussent divisé
 Conditionnel;conditionnel;;je ;;;diviserais;;tu ;;;diviserais;;il/elle/on ;;;diviserait;;nous ;;;diviserions;;vous ;;;diviseriez;;ils/elles ;;;diviseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais divisé;;tu ;;;aurais divisé;;il/elle/on ;;;aurait divisé;;nous ;;;aurions divisé;;vous ;;;auriez divisé;;ils/elles ;;;auraient divisé
-Impératif Présent;impératif;;;;;;;;;;divise;;;;;;;;;;divisons;;;;;divisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;divise;;;;;;;(nous) ;;;divisons;;(vous) ;;;divisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie divisé;;;;;;;(nous) ;;;ayons divisé;;(vous) ;;;ayez divisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;diviser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

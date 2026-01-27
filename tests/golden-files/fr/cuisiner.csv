@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;cuisinasse;que ;tu ;;;cuisinasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse cuisiné;que ;tu ;;;eusses cuisiné;qu’;il/elle/on ;;;eût cuisiné;que ;nous ;;;eussions cuisiné;que ;vous ;;;eussiez cuisiné;qu’;ils/elles ;;;eussent cuisiné
 Conditionnel;conditionnel;;je ;;;cuisinerais;;tu ;;;cuisinerais;;il/elle/on ;;;cuisinerait;;nous ;;;cuisinerions;;vous ;;;cuisineriez;;ils/elles ;;;cuisineraient
 Conditionnel Passé;conditionnel;;j’;;;aurais cuisiné;;tu ;;;aurais cuisiné;;il/elle/on ;;;aurait cuisiné;;nous ;;;aurions cuisiné;;vous ;;;auriez cuisiné;;ils/elles ;;;auraient cuisiné
-Impératif Présent;impératif;;;;;;;;;;cuisine;;;;;;;;;;cuisinons;;;;;cuisinez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;cuisine;;;;;;;(nous) ;;;cuisinons;;(vous) ;;;cuisinez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie cuisiné;;;;;;;(nous) ;;;ayons cuisiné;;(vous) ;;;ayez cuisiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;cuisiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

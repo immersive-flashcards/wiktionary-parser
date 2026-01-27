@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;ronronnasse;que ;tu ;;;ronronnasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse ronronné;que ;tu ;;;eusses ronronné;qu’;il/elle/on ;;;eût ronronné;que ;nous ;;;eussions ronronné;que ;vous ;;;eussiez ronronné;qu’;ils/elles ;;;eussent ronronné
 Conditionnel;conditionnel;;je ;;;ronronnerais;;tu ;;;ronronnerais;;il/elle/on ;;;ronronnerait;;nous ;;;ronronnerions;;vous ;;;ronronneriez;;ils/elles ;;;ronronneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais ronronné;;tu ;;;aurais ronronné;;il/elle/on ;;;aurait ronronné;;nous ;;;aurions ronronné;;vous ;;;auriez ronronné;;ils/elles ;;;auraient ronronné
-Impératif Présent;impératif;;;;;;;;;;ronronne;;;;;;;;;;ronronnons;;;;;ronronnez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;ronronne;;;;;;;(nous) ;;;ronronnons;;(vous) ;;;ronronnez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie ronronné;;;;;;;(nous) ;;;ayons ronronné;;(vous) ;;;ayez ronronné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;ronronner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;agressasse;que ;tu ;;;agressasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse agressé;que ;tu ;;;eusses agressé;qu’;il/elle/on ;;;eût agressé;que ;nous ;;;eussions agressé;que ;vous ;;;eussiez agressé;qu’;ils/elles ;;;eussent agressé
 Conditionnel;conditionnel;;j’;;;agresserais;;tu ;;;agresserais;;il/elle/on ;;;agresserait;;nous ;;;agresserions;;vous ;;;agresseriez;;ils/elles ;;;agresseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais agressé;;tu ;;;aurais agressé;;il/elle/on ;;;aurait agressé;;nous ;;;aurions agressé;;vous ;;;auriez agressé;;ils/elles ;;;auraient agressé
-Impératif Présent;impératif;;;;;;;;;;agresse;;;;;;;;;;agressons;;;;;agressez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;agresse;;;;;;;(nous) ;;;agressons;;(vous) ;;;agressez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie agressé;;;;;;;(nous) ;;;ayons agressé;;(vous) ;;;ayez agressé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;agresser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

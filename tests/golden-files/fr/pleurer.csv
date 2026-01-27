@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;pleurasse;que ;tu ;;;pleurasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse pleuré;que ;tu ;;;eusses pleuré;qu’;il/elle/on ;;;eût pleuré;que ;nous ;;;eussions pleuré;que ;vous ;;;eussiez pleuré;qu’;ils/elles ;;;eussent pleuré
 Conditionnel;conditionnel;;je ;;;pleurerais;;tu ;;;pleurerais;;il/elle/on ;;;pleurerait;;nous ;;;pleurerions;;vous ;;;pleureriez;;ils/elles ;;;pleureraient
 Conditionnel Passé;conditionnel;;j’;;;aurais pleuré;;tu ;;;aurais pleuré;;il/elle/on ;;;aurait pleuré;;nous ;;;aurions pleuré;;vous ;;;auriez pleuré;;ils/elles ;;;auraient pleuré
-Impératif Présent;impératif;;;;;;;;;;pleure;;;;;;;;;;pleurons;;;;;pleurez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;pleure;;;;;;;(nous) ;;;pleurons;;(vous) ;;;pleurez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie pleuré;;;;;;;(nous) ;;;ayons pleuré;;(vous) ;;;ayez pleuré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;pleurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

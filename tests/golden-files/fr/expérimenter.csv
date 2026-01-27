@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;expérimentasse;que ;tu ;;;expérime
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse expérimenté;que ;tu ;;;eusses expérimenté;qu’;il/elle/on ;;;eût expérimenté;que ;nous ;;;eussions expérimenté;que ;vous ;;;eussiez expérimenté;qu’;ils/elles ;;;eussent expérimenté
 Conditionnel;conditionnel;;j’;;;expérimenterais;;tu ;;;expérimenterais;;il/elle/on ;;;expérimenterait;;nous ;;;expérimenterions;;vous ;;;expérimenteriez;;ils/elles ;;;expérimenteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais expérimenté;;tu ;;;aurais expérimenté;;il/elle/on ;;;aurait expérimenté;;nous ;;;aurions expérimenté;;vous ;;;auriez expérimenté;;ils/elles ;;;auraient expérimenté
-Impératif Présent;impératif;;;;;;;;;;expérimente;;;;;;;;;;expérimentons;;;;;expérimentez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;expérimente;;;;;;;(nous) ;;;expérimentons;;(vous) ;;;expérimentez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie expérimenté;;;;;;;(nous) ;;;ayons expérimenté;;(vous) ;;;ayez expérimenté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;expérimenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

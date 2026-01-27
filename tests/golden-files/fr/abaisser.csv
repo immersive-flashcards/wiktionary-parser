@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;abaissasse;que ;tu ;;;abaissasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse abaissé;que ;tu ;;;eusses abaissé;qu’;il/elle/on ;;;eût abaissé;que ;nous ;;;eussions abaissé;que ;vous ;;;eussiez abaissé;qu’;ils/elles ;;;eussent abaissé
 Conditionnel;conditionnel;;j’;;;abaisserais;;tu ;;;abaisserais;;il/elle/on ;;;abaisserait;;nous ;;;abaisserions;;vous ;;;abaisseriez;;ils/elles ;;;abaisseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais abaissé;;tu ;;;aurais abaissé;;il/elle/on ;;;aurait abaissé;;nous ;;;aurions abaissé;;vous ;;;auriez abaissé;;ils/elles ;;;auraient abaissé
-Impératif Présent;impératif;;;;;;;;;;abaisse;;;;;;;;;;abaissons;;;;;abaissez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;abaisse;;;;;;;(nous) ;;;abaissons;;(vous) ;;;abaissez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie abaissé;;;;;;;(nous) ;;;ayons abaissé;;(vous) ;;;ayez abaissé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;abaisser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

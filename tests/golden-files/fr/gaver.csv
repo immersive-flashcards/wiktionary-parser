@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;gavasse;que ;tu ;;;gavasses;qu’;il/
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse gavé;que ;tu ;;;eusses gavé;qu’;il/elle/on ;;;eût gavé;que ;nous ;;;eussions gavé;que ;vous ;;;eussiez gavé;qu’;ils/elles ;;;eussent gavé
 Conditionnel;conditionnel;;je ;;;gaverais;;tu ;;;gaverais;;il/elle/on ;;;gaverait;;nous ;;;gaverions;;vous ;;;gaveriez;;ils/elles ;;;gaveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais gavé;;tu ;;;aurais gavé;;il/elle/on ;;;aurait gavé;;nous ;;;aurions gavé;;vous ;;;auriez gavé;;ils/elles ;;;auraient gavé
-Impératif Présent;impératif;;;;;;;;;;gave;;;;;;;;;;gavons;;;;;gavez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;gave;;;;;;;(nous) ;;;gavons;;(vous) ;;;gavez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie gavé;;;;;;;(nous) ;;;ayons gavé;;(vous) ;;;ayez gavé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;gaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

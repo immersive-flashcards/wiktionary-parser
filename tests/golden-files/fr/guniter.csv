@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;gunitasse;que ;tu ;;;gunitasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse gunité;que ;tu ;;;eusses gunité;qu’;il/elle/on ;;;eût gunité;que ;nous ;;;eussions gunité;que ;vous ;;;eussiez gunité;qu’;ils/elles ;;;eussent gunité
 Conditionnel;conditionnel;;je ;;;guniterais;;tu ;;;guniterais;;il/elle/on ;;;guniterait;;nous ;;;guniterions;;vous ;;;guniteriez;;ils/elles ;;;guniteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais gunité;;tu ;;;aurais gunité;;il/elle/on ;;;aurait gunité;;nous ;;;aurions gunité;;vous ;;;auriez gunité;;ils/elles ;;;auraient gunité
-Impératif Présent;impératif;;;;;;;;;;gunite;;;;;;;;;;gunitons;;;;;gunitez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;gunite;;;;;;;(nous) ;;;gunitons;;(vous) ;;;gunitez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie gunité;;;;;;;(nous) ;;;ayons gunité;;(vous) ;;;ayez gunité;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;guniter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

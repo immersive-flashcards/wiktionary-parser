@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;sonnasse;que ;tu ;;;sonnasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse sonné;que ;tu ;;;eusses sonné;qu’;il/elle/on ;;;eût sonné;que ;nous ;;;eussions sonné;que ;vous ;;;eussiez sonné;qu’;ils/elles ;;;eussent sonné
 Conditionnel;conditionnel;;je ;;;sonnerais;;tu ;;;sonnerais;;il/elle/on ;;;sonnerait;;nous ;;;sonnerions;;vous ;;;sonneriez;;ils/elles ;;;sonneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais sonné;;tu ;;;aurais sonné;;il/elle/on ;;;aurait sonné;;nous ;;;aurions sonné;;vous ;;;auriez sonné;;ils/elles ;;;auraient sonné
-Impératif Présent;impératif;;;;;;;;;;sonne;;;;;;;;;;sonnons;;;;;sonnez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;sonne;;;;;;;(nous) ;;;sonnons;;(vous) ;;;sonnez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie sonné;;;;;;;(nous) ;;;ayons sonné;;(vous) ;;;ayez sonné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;sonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

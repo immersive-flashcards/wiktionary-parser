@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;gagnasse;que ;tu ;;;gagnasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse gagné;que ;tu ;;;eusses gagné;qu’;il/elle/on ;;;eût gagné;que ;nous ;;;eussions gagné;que ;vous ;;;eussiez gagné;qu’;ils/elles ;;;eussent gagné
 Conditionnel;conditionnel;;je ;;;gagnerais;;tu ;;;gagnerais;;il/elle/on ;;;gagnerait;;nous ;;;gagnerions;;vous ;;;gagneriez;;ils/elles ;;;gagneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais gagné;;tu ;;;aurais gagné;;il/elle/on ;;;aurait gagné;;nous ;;;aurions gagné;;vous ;;;auriez gagné;;ils/elles ;;;auraient gagné
-Impératif Présent;impératif;;;;;;;;;;gagne;;;;;;;;;;gagnons;;;;;gagnez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;gagne;;;;;;;(nous) ;;;gagnons;;(vous) ;;;gagnez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie gagné;;;;;;;(nous) ;;;ayons gagné;;(vous) ;;;ayez gagné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;gagner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

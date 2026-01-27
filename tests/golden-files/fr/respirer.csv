@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;respirasse;que ;tu ;;;respirasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse respiré;que ;tu ;;;eusses respiré;qu’;il/elle/on ;;;eût respiré;que ;nous ;;;eussions respiré;que ;vous ;;;eussiez respiré;qu’;ils/elles ;;;eussent respiré
 Conditionnel;conditionnel;;je ;;;respirerais;;tu ;;;respirerais;;il/elle/on ;;;respirerait;;nous ;;;respirerions;;vous ;;;respireriez;;ils/elles ;;;respireraient
 Conditionnel Passé;conditionnel;;j’;;;aurais respiré;;tu ;;;aurais respiré;;il/elle/on ;;;aurait respiré;;nous ;;;aurions respiré;;vous ;;;auriez respiré;;ils/elles ;;;auraient respiré
-Impératif Présent;impératif;;;;;;;;;;respire;;;;;;;;;;respirons;;;;;respirez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;respire;;;;;;;(nous) ;;;respirons;;(vous) ;;;respirez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie respiré;;;;;;;(nous) ;;;ayons respiré;;(vous) ;;;ayez respiré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;respirer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;clavardasse;que ;tu ;;;clavardasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse clavardé;que ;tu ;;;eusses clavardé;qu’;il/elle/on ;;;eût clavardé;que ;nous ;;;eussions clavardé;que ;vous ;;;eussiez clavardé;qu’;ils/elles ;;;eussent clavardé
 Conditionnel;conditionnel;;je ;;;clavarderais;;tu ;;;clavarderais;;il/elle/on ;;;clavarderait;;nous ;;;clavarderions;;vous ;;;clavarderiez;;ils/elles ;;;clavarderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais clavardé;;tu ;;;aurais clavardé;;il/elle/on ;;;aurait clavardé;;nous ;;;aurions clavardé;;vous ;;;auriez clavardé;;ils/elles ;;;auraient clavardé
-Impératif Présent;impératif;;;;;;;;;;clavarde;;;;;;;;;;clavardons;;;;;clavardez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;clavarde;;;;;;;(nous) ;;;clavardons;;(vous) ;;;clavardez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie clavardé;;;;;;;(nous) ;;;ayons clavardé;;(vous) ;;;ayez clavardé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;clavarder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

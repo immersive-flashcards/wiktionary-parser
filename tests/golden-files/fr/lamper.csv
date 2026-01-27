@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;lampasse;que ;tu ;;;lampasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse lampé;que ;tu ;;;eusses lampé;qu’;il/elle/on ;;;eût lampé;que ;nous ;;;eussions lampé;que ;vous ;;;eussiez lampé;qu’;ils/elles ;;;eussent lampé
 Conditionnel;conditionnel;;je ;;;lamperais;;tu ;;;lamperais;;il/elle/on ;;;lamperait;;nous ;;;lamperions;;vous ;;;lamperiez;;ils/elles ;;;lamperaient
 Conditionnel Passé;conditionnel;;j’;;;aurais lampé;;tu ;;;aurais lampé;;il/elle/on ;;;aurait lampé;;nous ;;;aurions lampé;;vous ;;;auriez lampé;;ils/elles ;;;auraient lampé
-Impératif Présent;impératif;;;;;;;;;;lampe;;;;;;;;;;lampons;;;;;lampez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;lampe;;;;;;;(nous) ;;;lampons;;(vous) ;;;lampez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie lampé;;;;;;;(nous) ;;;ayons lampé;;(vous) ;;;ayez lampé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;lamper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

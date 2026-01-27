@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;chinoisasse;que ;tu ;;;chinoisasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse chinoisé;que ;tu ;;;eusses chinoisé;qu’;il/elle/on ;;;eût chinoisé;que ;nous ;;;eussions chinoisé;que ;vous ;;;eussiez chinoisé;qu’;ils/elles ;;;eussent chinoisé
 Conditionnel;conditionnel;;je ;;;chinoiserais;;tu ;;;chinoiserais;;il/elle/on ;;;chinoiserait;;nous ;;;chinoiserions;;vous ;;;chinoiseriez;;ils/elles ;;;chinoiseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais chinoisé;;tu ;;;aurais chinoisé;;il/elle/on ;;;aurait chinoisé;;nous ;;;aurions chinoisé;;vous ;;;auriez chinoisé;;ils/elles ;;;auraient chinoisé
-Impératif Présent;impératif;;;;;;;;;;chinoise;;;;;;;;;;chinoisons;;;;;chinoisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;chinoise;;;;;;;(nous) ;;;chinoisons;;(vous) ;;;chinoisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie chinoisé;;;;;;;(nous) ;;;ayons chinoisé;;(vous) ;;;ayez chinoisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;chinoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

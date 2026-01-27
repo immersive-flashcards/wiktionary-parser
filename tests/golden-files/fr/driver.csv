@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;drivasse;que ;tu ;;;drivasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse drivé;que ;tu ;;;eusses drivé;qu’;il/elle/on ;;;eût drivé;que ;nous ;;;eussions drivé;que ;vous ;;;eussiez drivé;qu’;ils/elles ;;;eussent drivé
 Conditionnel;conditionnel;;je ;;;driverais;;tu ;;;driverais;;il/elle/on ;;;driverait;;nous ;;;driverions;;vous ;;;driveriez;;ils/elles ;;;driveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais drivé;;tu ;;;aurais drivé;;il/elle/on ;;;aurait drivé;;nous ;;;aurions drivé;;vous ;;;auriez drivé;;ils/elles ;;;auraient drivé
-Impératif Présent;impératif;;;;;;;;;;drive;;;;;;;;;;drivons;;;;;drivez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;drive;;;;;;;(nous) ;;;drivons;;(vous) ;;;drivez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie drivé;;;;;;;(nous) ;;;ayons drivé;;(vous) ;;;ayez drivé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;driver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;parvinsse;que ;tu ;;;parvinsses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse parvenu;que ;tu ;;;fusses parvenu;qu’;il/elle/on ;;;fût parvenu;que ;nous ;;;fussions parvenus;que ;vous ;;;fussiez parvenus;qu’;ils/elles ;;;fussent parvenus
 Conditionnel;conditionnel;;je ;;;parviendrais;;tu ;;;parviendrais;;il/elle/on ;;;parviendrait;;nous ;;;parviendrions;;vous ;;;parviendriez;;ils/elles ;;;parviendraient
 Conditionnel Passé;conditionnel;;je ;;;serais parvenu;;tu ;;;serais parvenu;;il/elle/on ;;;serait parvenu;;nous ;;;serions parvenus;;vous ;;;seriez parvenus;;ils/elles ;;;seraient parvenus
-Impératif Présent;impératif;;;;;;;;;;parviens;;;;;;;;;;parvenons;;;;;parvenez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;parviens;;;;;;;(nous) ;;;parvenons;;(vous) ;;;parvenez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;sois parvenu;;;;;;;(nous) ;;;soyons parvenus;;(vous) ;;;soyez parvenus;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;parvenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

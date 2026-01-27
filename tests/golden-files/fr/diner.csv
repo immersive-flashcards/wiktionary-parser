@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;dinasse;que ;tu ;;;dinasses;qu’;il/
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse diné;que ;tu ;;;eusses diné;qu’;il/elle/on ;;;eût diné;que ;nous ;;;eussions diné;que ;vous ;;;eussiez diné;qu’;ils/elles ;;;eussent diné
 Conditionnel;conditionnel;;je ;;;dinerais;;tu ;;;dinerais;;il/elle/on ;;;dinerait;;nous ;;;dinerions;;vous ;;;dineriez;;ils/elles ;;;dineraient
 Conditionnel Passé;conditionnel;;j’;;;aurais diné;;tu ;;;aurais diné;;il/elle/on ;;;aurait diné;;nous ;;;aurions diné;;vous ;;;auriez diné;;ils/elles ;;;auraient diné
-Impératif Présent;impératif;;;;;;;;;;dine;;;;;;;;;;dinons;;;;;dinez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;dine;;;;;;;(nous) ;;;dinons;;(vous) ;;;dinez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie diné;;;;;;;(nous) ;;;ayons diné;;(vous) ;;;ayez diné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;diner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

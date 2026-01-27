@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;grattasse;que ;tu ;;;grattasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse gratté;que ;tu ;;;eusses gratté;qu’;il/elle/on ;;;eût gratté;que ;nous ;;;eussions gratté;que ;vous ;;;eussiez gratté;qu’;ils/elles ;;;eussent gratté
 Conditionnel;conditionnel;;je ;;;gratterais;;tu ;;;gratterais;;il/elle/on ;;;gratterait;;nous ;;;gratterions;;vous ;;;gratteriez;;ils/elles ;;;gratteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais gratté;;tu ;;;aurais gratté;;il/elle/on ;;;aurait gratté;;nous ;;;aurions gratté;;vous ;;;auriez gratté;;ils/elles ;;;auraient gratté
-Impératif Présent;impératif;;;;;;;;;;gratte;;;;;;;;;;grattons;;;;;grattez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;gratte;;;;;;;(nous) ;;;grattons;;(vous) ;;;grattez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie gratté;;;;;;;(nous) ;;;ayons gratté;;(vous) ;;;ayez gratté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;gratter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

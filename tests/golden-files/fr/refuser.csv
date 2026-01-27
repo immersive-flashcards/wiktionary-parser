@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;refusasse;que ;tu ;;;refusasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse refusé;que ;tu ;;;eusses refusé;qu’;il/elle/on ;;;eût refusé;que ;nous ;;;eussions refusé;que ;vous ;;;eussiez refusé;qu’;ils/elles ;;;eussent refusé
 Conditionnel;conditionnel;;je ;;;refuserais;;tu ;;;refuserais;;il/elle/on ;;;refuserait;;nous ;;;refuserions;;vous ;;;refuseriez;;ils/elles ;;;refuseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais refusé;;tu ;;;aurais refusé;;il/elle/on ;;;aurait refusé;;nous ;;;aurions refusé;;vous ;;;auriez refusé;;ils/elles ;;;auraient refusé
-Impératif Présent;impératif;;;;;;;;;;refuse;;;;;;;;;;refusons;;;;;refusez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;refuse;;;;;;;(nous) ;;;refusons;;(vous) ;;;refusez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie refusé;;;;;;;(nous) ;;;ayons refusé;;(vous) ;;;ayez refusé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;refuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

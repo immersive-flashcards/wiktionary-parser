@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;défendisse;que ;tu ;;;défendisses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse défendu;que ;tu ;;;eusses défendu;qu’;il/elle/on ;;;eût défendu;que ;nous ;;;eussions défendu;que ;vous ;;;eussiez défendu;qu’;ils/elles ;;;eussent défendu
 Conditionnel;conditionnel;;je ;;;défendrais;;tu ;;;défendrais;;il/elle/on ;;;défendrait;;nous ;;;défendrions;;vous ;;;défendriez;;ils/elles ;;;défendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais défendu;;tu ;;;aurais défendu;;il/elle/on ;;;aurait défendu;;nous ;;;aurions défendu;;vous ;;;auriez défendu;;ils/elles ;;;auraient défendu
-Impératif Présent;impératif;;;;;;;;;;défends;;;;;;;;;;défendons;;;;;défendez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;défends;;;;;;;(nous) ;;;défendons;;(vous) ;;;défendez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie défendu;;;;;;;(nous) ;;;ayons défendu;;(vous) ;;;ayez défendu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;défendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

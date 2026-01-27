@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;procrastinasse;que ;tu ;;;procrastina
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse procrastiné;que ;tu ;;;eusses procrastiné;qu’;il/elle/on ;;;eût procrastiné;que ;nous ;;;eussions procrastiné;que ;vous ;;;eussiez procrastiné;qu’;ils/elles ;;;eussent procrastiné
 Conditionnel;conditionnel;;je ;;;procrastinerais;;tu ;;;procrastinerais;;il/elle/on ;;;procrastinerait;;nous ;;;procrastinerions;;vous ;;;procrastineriez;;ils/elles ;;;procrastineraient
 Conditionnel Passé;conditionnel;;j’;;;aurais procrastiné;;tu ;;;aurais procrastiné;;il/elle/on ;;;aurait procrastiné;;nous ;;;aurions procrastiné;;vous ;;;auriez procrastiné;;ils/elles ;;;auraient procrastiné
-Impératif Présent;impératif;;;;;;;;;;procrastine;;;;;;;;;;procrastinons;;;;;procrastinez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;procrastine;;;;;;;(nous) ;;;procrastinons;;(vous) ;;;procrastinez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie procrastiné;;;;;;;(nous) ;;;ayons procrastiné;;(vous) ;;;ayez procrastiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;procrastiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

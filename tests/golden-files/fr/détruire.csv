@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;détruisisse;que ;tu ;;;détruisisses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse détruit;que ;tu ;;;eusses détruit;qu’;il/elle/on ;;;eût détruit;que ;nous ;;;eussions détruit;que ;vous ;;;eussiez détruit;qu’;ils/elles ;;;eussent détruit
 Conditionnel;conditionnel;;je ;;;détruirais;;tu ;;;détruirais;;il/elle/on ;;;détruirait;;nous ;;;détruirions;;vous ;;;détruiriez;;ils/elles ;;;détruiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais détruit;;tu ;;;aurais détruit;;il/elle/on ;;;aurait détruit;;nous ;;;aurions détruit;;vous ;;;auriez détruit;;ils/elles ;;;auraient détruit
-Impératif Présent;impératif;;;;;;;;;;détruis;;;;;;;;;;détruisons;;;;;détruisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;détruis;;;;;;;(nous) ;;;détruisons;;(vous) ;;;détruisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie détruit;;;;;;;(nous) ;;;ayons détruit;;(vous) ;;;ayez détruit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;détruire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

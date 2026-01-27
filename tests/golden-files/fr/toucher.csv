@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;touchasse;que ;tu ;;;touchasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse touché;que ;tu ;;;eusses touché;qu’;il/elle/on ;;;eût touché;que ;nous ;;;eussions touché;que ;vous ;;;eussiez touché;qu’;ils/elles ;;;eussent touché
 Conditionnel;conditionnel;;je ;;;toucherais;;tu ;;;toucherais;;il/elle/on ;;;toucherait;;nous ;;;toucherions;;vous ;;;toucheriez;;ils/elles ;;;toucheraient
 Conditionnel Passé;conditionnel;;j’;;;aurais touché;;tu ;;;aurais touché;;il/elle/on ;;;aurait touché;;nous ;;;aurions touché;;vous ;;;auriez touché;;ils/elles ;;;auraient touché
-Impératif Présent;impératif;;;;;;;;;;touche;;;;;;;;;;touchons;;;;;touchez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;touche;;;;;;;(nous) ;;;touchons;;(vous) ;;;touchez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie touché;;;;;;;(nous) ;;;ayons touché;;(vous) ;;;ayez touché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;toucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

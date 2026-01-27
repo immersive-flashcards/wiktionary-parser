@@ -203,7 +203,7 @@ forms:
 
     "Imperativo Afirmativo":
       mode: "imperativo"
+      type: "imperative"
       path:
         - "forms"
       tags: ["imperative", "present"]
-      pronouns: "imperative"

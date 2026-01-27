@@ -3,18 +3,18 @@
 import json
 import sys
 import time
+import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any
-import unicodedata
+from typing import Any, Mapping, Sequence
 
 import polars as pl
 import yaml
 import zstandard as zstd
 
-from src.language_functions.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
-from src.language_functions.ca import add_catalan_category_tags, create_catalan_compound_tenses
 from src.helpers.extract_from_spec import extract_from_spec
+from src.language_functions.ca import add_catalan_category_tags, create_catalan_compound_tenses
+from src.language_functions.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -125,7 +125,7 @@ def _get_auxiliary(lang_cfg: LanguageConfig, rows: list[dict[str, Any]]) -> str:
         inf_passe = next(r for r in rows if r.get("key") == "Infinitive Passé").get("conjunction-1")
         return inf_passe.split(" ")[0].split("’")[-1]
 
-    elif isinstance(aux_config, str):  # Spanish, Catalan, etc.
+    if isinstance(aux_config, str):  # Spanish, Catalan, etc.
         return aux_config
 
     return ""
@@ -165,38 +165,82 @@ def extract_categories(entry: dict, lang_cfg: LanguageConfig) -> set[str]:
     raise ValueError(f"Unsupported category path: {path!r}")
 
 
-def split_on_first_delim(s: str, delims: list[str]) -> tuple[str, str] | tuple[None, str]:
-    """Split a string on the first occurrence of any delimiter"""
-    positions = [(s.find(d), d) for d in delims if s.find(d) != -1]
+def split_on_first_delim(s: str, delims: Sequence[str]) -> tuple[str | None, str]:
+    """Split `s` on the earliest occurrence of any delimiter.
 
-    if positions:
-        idx, delim = min(positions, key=lambda x: x[0])
-        return s[: idx + 1], s[idx + 1 :]
+    Returns:
+      (left_including_delim, right) if found, else (None, s).
+    """
+    best_idx = -1
 
-    return None, s
+    for d in delims:
+        idx = s.find(d)
+        if idx == -1:
+            continue
+        if best_idx == -1 or idx < best_idx:
+            best_idx = idx
+
+    if best_idx == -1:
+        return None, s
+
+    return s[: best_idx + 1], s[best_idx + 1 :]
 
 
-def handle_form(lang_cfg: LanguageConfig, row_to_add: dict[str, Any], i: int, form: str):
-    # Split of conjunction if applicable (e.g. French Subjonctif forms)
-    for conjunction in lang_cfg.meta_data.get("conjunctions"):
-        if form.startswith(conjunction):
-            row_to_add[f"conjunction-{i + 1}"] = conjunction
-            form = form[len(conjunction) :]
-            break
+def strip_first_prefix(text: str, prefixes: Sequence[str]) -> tuple[str | None, str]:
+    """If `text` starts with any prefix, strip the first matching one."""
+    for p in prefixes:
+        if text.startswith(p):
+            return p, text[len(p) :]
+    return None, text
 
-    # Split off personal pronouns - either with space or with apostrophe (je suis or j'arrive)
-    p, c = split_on_first_delim(form, ["’", "'", " "])
 
-    row_to_add[f"pronoun-{i + 1}"], form = p, c
-    form = form.replace(" ou ", " / ")
+def normalize_alternatives(text: str) -> str:
+    """Normalize common alternative separator into deck-friendly output."""
+    return text.replace(" ou ", " / ")
 
-    # Split off reflexive pronoun if present
-    for rp in lang_cfg.person_data.get("reflexive-pronouns", [])[i]:
-        if form.startswith(rp):
-            form = form[len(rp) :]
-            row_to_add[f"refl_pronoun-{i + 1}"] = rp
 
-    row_to_add[f"conjugation-{i + 1}"] = form
+def _get_conjunctions(lang_cfg: LanguageConfig) -> list[str]:
+    return list(lang_cfg.meta_data.get("conjunctions") or [])
+
+
+def _get_pronoun_map(lang_cfg: LanguageConfig, imperative: bool) -> Mapping[int, str]:
+    person_data = lang_cfg.person_data
+    if imperative:
+        return person_data.get("imperative-pronouns") or {}
+    return person_data.get("pronouns") or {}
+
+
+def _get_reflexive_alts(lang_cfg: LanguageConfig, person_idx_1: int) -> Sequence[str]:
+    """Return reflexive pronoun alternatives for a person index (1-based)."""
+    refl = lang_cfg.person_data.get("reflexive-pronouns") or []
+    idx0 = person_idx_1 - 1
+    if 0 <= idx0 < len(refl):
+        return refl[idx0] or []
+    return []
+
+
+def parse_and_store_form(lang_cfg: LanguageConfig, row: dict[str, Any], person_idx_1: int, raw_form: str) -> None:
+    """Parse a raw conjugated string into CSV fields for a given person (1-based)."""
+    conjunctions = _get_conjunctions(lang_cfg)
+
+    # 1) Conjunction prefix (e.g., French "que ")
+    conj, form = strip_first_prefix(raw_form, conjunctions)
+    if conj is not None:
+        row[f"conjunction-{person_idx_1}"] = conj
+
+    # 2) Personal pronoun prefix (split on earliest delimiter)
+    pronoun, form = split_on_first_delim(form, ("’", "'", " "))
+    row[f"pronoun-{person_idx_1}"] = pronoun
+    form = normalize_alternatives(form)
+
+    # 3) Reflexive pronoun prefix (per-person alternatives)
+    refl_alts = _get_reflexive_alts(lang_cfg, person_idx_1)
+    rp, form = strip_first_prefix(form, refl_alts)
+    if rp is not None:
+        row[f"refl_pronoun-{person_idx_1}"] = rp
+
+    # 4) Remaining is the conjugation
+    row[f"conjugation-{person_idx_1}"] = form
 
 
 def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: LanguageConfig, run_cfg: RunConfig) -> None:
@@ -207,104 +251,103 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
     # Add verb form rows
     person_data = lang_cfg.person_data
     person_map = person_data.get("person_map")
-    refl_pronouns = person_data.get("reflexive-pronouns", [])
+    conjunctions = _get_conjunctions(lang_cfg)
 
-    for row_key, form in lang_cfg.forms.items():
-        row_to_add = {"key": row_key, "mode": form["mode"]}
+    for row_key, row_spec in lang_cfg.forms.items():
+        row_to_add: dict[str, Any] = {"key": row_key, "mode": row_spec["mode"]}
 
         # Case 1: Handle base forms (infinitive, gerund, participle) - FR, CA, ES (all currently supported tenses)
-        if form.get("type") == "base_form":
-            f = extract_from_spec(entry, form, [form.get("tags")])
-            row_to_add["conjunction-1"] = f[0] if f else ""
+        if row_spec.get("type") == "base_form":
+            f_list = extract_from_spec(entry, row_spec, [row_spec.get("tags")])
+            row_to_add["conjunction-1"] = f_list[0] if f_list else ""
             _merge_identical_verb_forms(lang_cfg, row_to_add)
             rows_out.append(row_to_add)
             continue
 
         # Case 2: Handle tag-based conjugations - CA, ES have tags for specific grammatical persons
         if person_map:
-            form_tags = form.get("tags") or []
-            negation = form.get("negation")
+            form_tags = row_spec.get("tags")
+            negation = row_spec.get("negation")
+            imperative = row_spec.get("type") == "imperative"
+            pronoun_map = _get_pronoun_map(lang_cfg, imperative=imperative)
 
-            for i, person_alts in person_map.items():
+            for person_idx_1, person_alts in person_map.items():
                 tag_alts = [form_tags + alt for alt in person_alts]
-                f_list = extract_from_spec(entry, form, tag_alts)
+                f_list = extract_from_spec(entry, row_spec, tag_alts)
                 if not f_list:
                     continue
 
                 # Split off negation if present and indicated by config
                 if negation:
-                    for idx, f in enumerate(f_list):
+                    for j, f in enumerate(f_list):
                         if f.startswith(negation):
-                            f_list[idx] = f[len(negation) :]
-                            row_to_add[f"negation-{i}"] = negation
+                            f_list[j] = f[len(negation) :]
+                            row_to_add[f"negation-{person_idx_1}"] = negation
 
-                # Split off reflexive pronoun if present
-                reflexive_alts = refl_pronouns[i - 1] if i - 1 < len(refl_pronouns) else []
-                for rp in reflexive_alts:
-                    for idx, f in enumerate(f_list):
-                        if f.startswith(rp):
-                            f_list[idx] = f[len(rp) :]
-                            row_to_add[f"refl_pronoun-{i}"] = rp
+                # Split off reflexive pronoun, if present (refl_prs can have alternative variants: e.g. em and m' in Catalan)
+                refl_alts = _get_reflexive_alts(lang_cfg, person_idx_1)
+                if refl_alts:
+                    for rp in refl_alts:
+                        for j, f in enumerate(f_list):
+                            if f.startswith(rp):
+                                f_list[j] = f[len(rp) :]
+                                row_to_add[f"refl_pronoun-{person_idx_1}"] = rp
 
                 # Join multiple equivalent forms with " / "
                 conjugation = f_list[0] if len(f_list) == 1 else " / ".join(f_list)
-
-                row_to_add[f"conjugation-{i}"] = conjugation if conjugation is not None else ""
-
-                if form.get("pronouns") == "imperative":
-                    row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("imperative-pronouns").get(i)
-                else:
-                    row_to_add[f"pronoun-{i}"] = lang_cfg.person_data.get("pronouns").get(i)
+                row_to_add[f"conjugation-{person_idx_1}"] = conjugation or ""
+                row_to_add[f"pronoun-{person_idx_1}"] = pronoun_map.get(person_idx_1)
 
         # Case 3: Handle order-based conjugations - FR kaikki data has no person tags :'(
         else:
-            if form.get("pronouns") == "imperative":
-                pronoun_list = lang_cfg.person_data.get("imperative-pronouns")
-            else:
-                pronoun_list = lang_cfg.person_data.get("pronouns")
+            imperative = row_spec.get("type") == "imperative"
+            pronoun_map = _get_pronoun_map(lang_cfg, imperative=imperative)
+            pronoun_keys = list(pronoun_map.keys())
 
             # Insert only tags of the tense - there are no tags indicating the person
-            form_tags = form.get("tags") or []
-            f_list = extract_from_spec(entry, form, [form_tags])
-
+            f_list = extract_from_spec(entry, row_spec, [row_spec.get("tags")])
             if not f_list:
                 continue
 
+            expected_n = len(pronoun_keys)
+
             # if there are the expected amount of conjugations (6 for declaratives, 3 for imperatives) - just use them
-            if len(f_list) == len(pronoun_list):
-                for i, f in enumerate(f_list):
-                    # use the key of the pronouns_dict as index so imperatives are at correct position (tu with tu, vous with vous, etc.)
-                    index = list(pronoun_list.keys())[i] - 1
-                    handle_form(lang_cfg, row_to_add, index, f)
+            if len(f_list) == expected_n:
+                # Map in order, but use pronoun_keys so imperative positions line up
+                for k, raw_form in enumerate(f_list):
+                    person_idx_1 = pronoun_keys[k]
+                    parse_and_store_form(lang_cfg, row_to_add, person_idx_1, raw_form)
 
             # if there is a smaller number of conjugations - map them by their leading pronouns
-            elif len(f_list) < len(pronoun_list):
-                for form in f_list:
+            elif len(f_list) < expected_n:
+                # Map by leading pronoun token (after optional conjunction strip)
+                for raw_form in f_list:
+                    _, stripped = strip_first_prefix(raw_form, conjunctions)
+                    leading = stripped.split(" ", 1)[0] if stripped else ""
+                    person_idx_1 = 1  # fallback slot for imperfect datasets
 
-                    # Chop off conjunction
-                    for conjunction in lang_cfg.meta_data.get("conjunctions"):
-                        if form.startswith(conjunction):
-                            form = form[len(conjunction) :]
+                    for idx_1, p in pronoun_map.items():
+                        if p == leading:
+                            person_idx_1 = idx_1
                             break
 
-                    # Derive the index from the leading personal pronoun
-                    pronoun = form.split(" ", 1)[0]
-                    index = 0  # some datasets have imperfect pronouns - rare edge case, just store at index 1
-                    for i, p in pronoun_list.items():
-                        if p == pronoun:
-                            index = i - 1
-                            break
+                    parse_and_store_form(
+                        lang_cfg=lang_cfg,
+                        row=row_to_add,
+                        person_idx_1=person_idx_1,
+                        raw_form=raw_form,
+                    )
 
-                    # parse this conjugation and sort into the derived position
-                    handle_form(lang_cfg, row_to_add, index, form)
-
-            # if there is a larger number of conjugations - use the first 6 only for now
             else:
-                for i in range(len(pronoun_list)):
-                    handle_form(lang_cfg, row_to_add, i, f_list[i])
-
-            # if len(f_list) != 6:  # Flag overloaded tags for later handling
-            #    print(f"{lemma} has {len(f_list)} elements")
+                # if there is a larger number of conjugations - use the first only (for now)
+                for k in range(expected_n):
+                    person_idx_1 = pronoun_keys[k]
+                    parse_and_store_form(
+                        lang_cfg=lang_cfg,
+                        row=row_to_add,
+                        person_idx_1=person_idx_1,
+                        raw_form=f_list[k],
+                    )
 
         _merge_identical_verb_forms(lang_cfg, row_to_add)
 

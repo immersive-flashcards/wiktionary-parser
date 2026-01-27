@@ -128,15 +128,15 @@ forms:
 
     "Imperatiu Afirmatiu":
       mode: "imperatiu"
+      type: "imperative"
       path:
         - "forms"
       tags: ["imperative"]
-      pronouns: "imperative"
 
     "Imperatiu Negatiu":
       mode: "imperatiu"
+      type: "imperative"
       path:
         - "forms"
       tags: ["imperative", "negative"]
-      pronouns: "imperative"
       negation: "no "

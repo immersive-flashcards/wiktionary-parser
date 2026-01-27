@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;partirais;;tu ;;;partirais;;il/elle/on ;;;parti
 Conditionnel Passé;conditionnel;;je ;;;serais parti;;tu ;;;serais parti;;il/elle/on ;;;serait parti;;nous ;;;serions partis;;vous ;;;seriez partis;;ils/elles ;;;seraient partis
 Impératif Présent;impératif;;;;;;;(tu) ;;;pars;;;;;;;(nous) ;;;partons;;(vous) ;;;partez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois parti;;;;;;;(nous) ;;;soyons partis;;(vous) ;;;soyez partis;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pars pas;;;;;;;(nous) ;ne ;;partons pas;;(vous) ;ne ;;partez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pars pas ;;;;;;;(nous) ;ne ;;partons pas ;;(vous) ;ne ;;partez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas parti;;;;;;;(nous) ;ne ;;soyons pas partis;;(vous) ;ne ;;soyez pas partis;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;partir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

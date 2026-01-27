@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;créerais;;tu ;;;créerais;;il/elle/on ;;;crée
 Conditionnel Passé;conditionnel;;j’;;;aurais créé;;tu ;;;aurais créé;;il/elle/on ;;;aurait créé;;nous ;;;aurions créé;;vous ;;;auriez créé;;ils/elles ;;;auraient créé
 Impératif Présent;impératif;;;;;;;(tu) ;;;crée;;;;;;;(nous) ;;;créons;;(vous) ;;;créez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie créé;;;;;;;(nous) ;;;ayons créé;;(vous) ;;;ayez créé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;crée pas;;;;;;;(nous) ;ne ;;créons pas;;(vous) ;ne ;;créez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;crée pas ;;;;;;;(nous) ;ne ;;créons pas ;;(vous) ;ne ;;créez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas créé;;;;;;;(nous) ;n';;ayons pas créé;;(vous) ;n';;ayez pas créé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;créer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

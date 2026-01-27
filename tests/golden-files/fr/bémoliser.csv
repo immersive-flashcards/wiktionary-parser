@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;bémoliserais;;tu ;;;bémoliserais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais bémolisé;;tu ;;;aurais bémolisé;;il/elle/on ;;;aurait bémolisé;;nous ;;;aurions bémolisé;;vous ;;;auriez bémolisé;;ils/elles ;;;auraient bémolisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;bémolise;;;;;;;(nous) ;;;bémolisons;;(vous) ;;;bémolisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie bémolisé;;;;;;;(nous) ;;;ayons bémolisé;;(vous) ;;;ayez bémolisé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;bémolise pas;;;;;;;(nous) ;ne ;;bémolisons pas;;(vous) ;ne ;;bémolisez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;bémolise pas ;;;;;;;(nous) ;ne ;;bémolisons pas ;;(vous) ;ne ;;bémolisez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas bémolisé;;;;;;;(nous) ;n';;ayons pas bémolisé;;(vous) ;n';;ayez pas bémolisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;bémoliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

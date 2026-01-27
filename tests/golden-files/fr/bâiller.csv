@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;bâillerais;;tu ;;;bâillerais;;il/elle/on ;;;b
 Conditionnel Passé;conditionnel;;j’;;;aurais bâillé;;tu ;;;aurais bâillé;;il/elle/on ;;;aurait bâillé;;nous ;;;aurions bâillé;;vous ;;;auriez bâillé;;ils/elles ;;;auraient bâillé
 Impératif Présent;impératif;;;;;;;(tu) ;;;bâille;;;;;;;(nous) ;;;bâillons;;(vous) ;;;bâillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie bâillé;;;;;;;(nous) ;;;ayons bâillé;;(vous) ;;;ayez bâillé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;bâille pas;;;;;;;(nous) ;ne ;;bâillons pas;;(vous) ;ne ;;bâillez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;bâille pas ;;;;;;;(nous) ;ne ;;bâillons pas ;;(vous) ;ne ;;bâillez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas bâillé;;;;;;;(nous) ;n';;ayons pas bâillé;;(vous) ;n';;ayez pas bâillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;bâiller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

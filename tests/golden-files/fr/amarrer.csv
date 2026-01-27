@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;amarrerais;;tu ;;;amarrerais;;il/elle/on ;;;am
 Conditionnel Passé;conditionnel;;j’;;;aurais amarré;;tu ;;;aurais amarré;;il/elle/on ;;;aurait amarré;;nous ;;;aurions amarré;;vous ;;;auriez amarré;;ils/elles ;;;auraient amarré
 Impératif Présent;impératif;;;;;;;(tu) ;;;amarre;;;;;;;(nous) ;;;amarrons;;(vous) ;;;amarrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie amarré;;;;;;;(nous) ;;;ayons amarré;;(vous) ;;;ayez amarré;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;amarre pas;;;;;;;(nous) ;n';;amarrons pas;;(vous) ;n';;amarrez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;amarre pas ;;;;;;;(nous) ;n';;amarrons pas ;;(vous) ;n';;amarrez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas amarré;;;;;;;(nous) ;n';;ayons pas amarré;;(vous) ;n';;ayez pas amarré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;amarrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

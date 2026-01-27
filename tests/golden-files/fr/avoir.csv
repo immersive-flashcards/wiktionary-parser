@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;aurais;;tu ;;;aurais;;il/elle/on ;;;aurait;;no
 Conditionnel Passé;conditionnel;;j’;;;aurais eu;;tu ;;;aurais eu;;il/elle/on ;;;aurait eu;;nous ;;;aurions eu;;vous ;;;auriez eu;;ils/elles ;;;auraient eu
 Impératif Présent;impératif;;;;;;;(tu) ;;;aie;;;;;;;(nous) ;;;ayons;;(vous) ;;;ayez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie eu;;;;;;;(nous) ;;;ayons eu;;(vous) ;;;ayez eu;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;aie pas;;;;;;;(nous) ;n';;ayons pas;;(vous) ;n';;ayez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;aie pas ;;;;;;;(nous) ;n';;ayons pas ;;(vous) ;n';;ayez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas eu;;;;;;;(nous) ;n';;ayons pas eu;;(vous) ;n';;ayez pas eu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

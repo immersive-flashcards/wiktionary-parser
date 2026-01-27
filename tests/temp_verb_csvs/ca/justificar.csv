@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;justificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;justificant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;justificat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;justifico;;tu ;;;justifiques;;ell //ella //vostè ;;;justifica;;nosaltres ;;;justifiquem;;vosaltres ;;;justifiqueu;;ells //elles //vostès ;;;justifiquen
+Indicatiu Imperfet;indicativo;;jo ;;;justificava;;tu ;;;justificaves;;ell //ella //vostè ;;;justificava;;nosaltres ;;;justificàvem;;vosaltres ;;;justificàveu;;ells //elles //vostès ;;;justificaven
+Indicatiu Futur;indicativo;;jo ;;;justificaré;;tu ;;;justificaràs;;ell //ella //vostè ;;;justificarà;;nosaltres ;;;justificarem;;vosaltres ;;;justificareu;;ells //elles //vostès ;;;justificaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;justifiquí;;tu ;;;justificares;;ell //ella //vostè ;;;justificà;;nosaltres ;;;justificàrem;;vosaltres ;;;justificàreu;;ells //elles //vostès ;;;justificaren
+Condicional;condicional;;jo ;;;justificaria;;tu ;;;justificaries;;ell //ella //vostè ;;;justificaria;;nosaltres ;;;justificaríem;;vosaltres ;;;justificaríeu;;ells //elles //vostès ;;;justificarien
+Subjuntiu Present;subjuntiu;;jo ;;;justifiqui;;tu ;;;justifiquis;;ell //ella //vostè ;;;justifiqui;;nosaltres ;;;justifiquem;;vosaltres ;;;justifiqueu;;ells //elles //vostès ;;;justifiquin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;justifiqués;;tu ;;;justifiquessis;;ell //ella //vostè ;;;justifiqués;;nosaltres ;;;justifiquéssim;;vosaltres ;;;justifiquéssiu;;ells //elles //vostès ;;;justifiquessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;justifica;;(vostè) ;;;justifiqui;;(nosaltres) ;;;justifiquem;;(vosaltres) ;;;justifiqueu;;(vostès) ;;;justifiquin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;justifiquis;;(vostè) ;no ;;justifiqui;;(nosaltres) ;no ;;justifiquem;;(vosaltres) ;no ;;justifiqueu;;(vostès) ;no ;;justifiquin
+Indicatiu Perfet;indicatiu;;jo ;;;he justificat;;tu ;;;has justificat;;ell //ella //vostè ;;;ha justificat;;nosaltres ;;;hem justificat;;vosaltres ;;;heu justificat;;ells //elles //vostès ;;;han justificat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig justificat;;tu ;;;vas justificat;;ell //ella //vostè ;;;va justificat;;nosaltres ;;;vam justificat;;vosaltres ;;;vau justificat;;ells //elles //vostès ;;;van justificat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia justificat;;tu ;;;havies justificat;;ell //ella //vostè ;;;havia justificat;;nosaltres ;;;havíem justificat;;vosaltres ;;;havíeu justificat;;ells //elles //vostès ;;;havien justificat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí justificat;;tu ;;;hagueres justificat;;ell //ella //vostè ;;;hagué justificat;;nosaltres ;;;haguérem justificat;;vosaltres ;;;haguéreu justificat;;ells //elles //vostès ;;;hagueren justificat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver justificat;;tu ;;;vas haver justificat;;ell //ella //vostè ;;;va haver justificat;;nosaltres ;;;vam haver justificat;;vosaltres ;;;vau haver justificat;;ells //elles //vostès ;;;van haver justificat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré justificat;;tu ;;;hauràs justificat;;ell //ella //vostè ;;;haurà justificat;;nosaltres ;;;haurem justificat;;vosaltres ;;;haureu justificat;;ells //elles //vostès ;;;hauran justificat
+Condicional Perfet;condicional;;jo ;;;hauria justificat;;tu ;;;hauries justificat;;ell //ella //vostè ;;;hauria justificat;;nosaltres ;;;hauríem justificat;;vosaltres ;;;hauríeu justificat;;ells //elles //vostès ;;;haurien justificat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi justificat;;tu ;;;vagis justificat;;ell //ella //vostè ;;;vagi justificat;;nosaltres ;;;vàgim justificat;;vosaltres ;;;vàgiu justificat;;ells //elles //vostès ;;;vagin justificat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi justificat;;tu ;;;hagis justificat;;ell //ella //vostè ;;;hagi justificat;;nosaltres ;;;hàgim justificat;;vosaltres ;;;hàgiu justificat;;ells //elles //vostès ;;;hagin justificat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes justificat;;tu ;;;haguessis justificat;;ell //ella //vostè ;;;hagués justificat;;nosaltres ;;;haguéssim justificat;;vosaltres ;;;haguéssiu justificat;;ells //elles //vostès ;;;haguessin justificat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver justificat;;tu ;;;vagis haver justificat;;ell //ella //vostè ;;;vagi haver justificat;;nosaltres ;;;vàgim haver justificat;;vosaltres ;;;vàgiu haver justificat;;ells //elles //vostès ;;;vagin haver justificat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;justificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;justific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

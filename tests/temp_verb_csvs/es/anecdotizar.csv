@@ -1,0 +1,30 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;anecdotizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;anecdotizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;anecdotizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;anecdotizo;;tú ;;;anecdotizas;;él //ella //usted ;;;anecdotiza;;nosotros //nosotras ;;;anecdotizamos;;vosotros //vosotras ;;;anecdotizáis;;ellos //ellas //ustedes ;;;anecdotizan;;vos ;;;anecdotizás
+Indicativo Imperfecto;indicativo;;yo ;;;anecdotizaba;;tú //vos ;;;anecdotizabas;;él //ella //usted ;;;anecdotizaba;;nosotros //nosotras ;;;anecdotizábamos;;vosotros //vosotras ;;;anecdotizabais;;ellos //ellas //ustedes ;;;anecdotizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;anecdoticé;;tú //vos ;;;anecdotizaste;;él //ella //usted ;;;anecdotizó;;nosotros //nosotras ;;;anecdotizamos;;vosotros //vosotras ;;;anecdotizasteis;;ellos //ellas //ustedes ;;;anecdotizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;anecdotizaré;;tú //vos ;;;anecdotizarás;;él //ella //usted ;;;anecdotizará;;nosotros //nosotras ;;;anecdotizaremos;;vosotros //vosotras ;;;anecdotizaréis;;ellos //ellas //ustedes ;;;anecdotizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he anecdotizado;;tú //vos ;;;has anecdotizado;;él //ella //usted ;;;ha anecdotizado;;nosotros //nosotras ;;;hemos anecdotizado;;vosotros //vosotras ;;;habéis anecdotizado;;ellos //ellas //ustedes ;;;han anecdotizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había anecdotizado;;tú //vos ;;;habías anecdotizado;;él //ella //usted ;;;había anecdotizado;;nosotros //nosotras ;;;habíamos anecdotizado;;vosotros //vosotras ;;;habíais anecdotizado;;ellos //ellas //ustedes ;;;habían anecdotizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube anecdotizado;;tú //vos ;;;hubiste anecdotizado;;él //ella //usted ;;;hubo anecdotizado;;nosotros //nosotras ;;;hubimos anecdotizado;;vosotros //vosotras ;;;hubisteis anecdotizado;;ellos //ellas //ustedes ;;;hubieron anecdotizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré anecdotizado;;tú //vos ;;;habrás anecdotizado;;él //ella //usted ;;;habrá anecdotizado;;nosotros //nosotras ;;;habremos anecdotizado;;vosotros //vosotras ;;;habréis anecdotizado;;ellos //ellas //ustedes ;;;habrán anecdotizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;anecdotice;;tú //vos ;;;anecdotices;;él //ella //usted ;;;anecdotice;;nosotros //nosotras ;;;anecdoticemos;;vosotros //vosotras ;;;anecdoticéis;;ellos //ellas //ustedes ;;;anecdoticen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;anecdotizara / anecdotizase;;tú //vos ;;;anecdotizaras / anecdotizases;;él //ella //usted ;;;anecdotizara / anecdotizase;;nosotros //nosotras ;;;anecdotizáramos / anecdotizásemos;;vosotros //vosotras ;;;anecdotizarais / anecdotizaseis;;ellos //ellas //ustedes ;;;anecdotizaran / anecdotizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;anecdotizare;;tú //vos ;;;anecdotizares;;él //ella //usted ;;;anecdotizare;;nosotros //nosotras ;;;anecdotizáremos;;vosotros //vosotras ;;;anecdotizareis;;ellos //ellas //ustedes ;;;anecdotizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya anecdotizado;;tú //vos ;;;hayas anecdotizado;;él //ella //usted ;;;haya anecdotizado;;nosotros //nosotras ;;;hayamos anecdotizado;;vosotros //vosotras ;;;hayáis anecdotizado;;ellos //ellas //ustedes ;;;hayan anecdotizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera anecdotizado / hubiese anecdotizado;;tú //vos ;;;hubieras anecdotizado / hubieses anecdotizado;;él //ella //usted ;;;hubiera anecdotizado / hubiese anecdotizado;;nosotros //nosotras ;;;hubiéramos anecdotizado / hubiésemos anecdotizado;;vosotros //vosotras ;;;hubierais anecdotizado / hubieseis anecdotizado;;ellos //ellas //ustedes ;;;hubieran anecdotizado / hubiesen anecdotizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere anecdotizado;;tú //vos ;;;hubieres anecdotizado;;él //ella //usted ;;;hubiere anecdotizado;;nosotros //nosotras ;;;hubiéremos anecdotizado;;vosotros //vosotras ;;;hubiereis anecdotizado;;ellos //ellas //ustedes ;;;hubieren anecdotizado;;;;;
+Condicional;condicional;;yo ;;;anecdotizaría;;tú //vos ;;;anecdotizarías;;él //ella //usted ;;;anecdotizaría;;nosotros //nosotras ;;;anecdotizaríamos;;vosotros //vosotras ;;;anecdotizaríais;;ellos //ellas //ustedes ;;;anecdotizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría anecdotizado;;tú //vos ;;;habrías anecdotizado;;él //ella //usted ;;;habría anecdotizado;;nosotros //nosotras ;;;habríamos anecdotizado;;vosotros //vosotras ;;;habríais anecdotizado;;ellos //ellas //ustedes ;;;habrían anecdotizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anecdotiza;;(usted) ;;;anecdotice;;(nosotros) //(nosotras) ;;;anecdoticemos;;(vosotros) //(vosotras) ;;;anecdotizad;;(ustedes) ;;;anecdoticen;;(vos) ;;;anecdotizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;anecdotices;;(usted) ;no ;;anecdotice;;(nosotros) //(nosotras) ;no ;;anecdoticemos;;(vosotros) //(vosotras) ;no ;;anecdoticéis;;(ustedes) ;no ;;anecdoticen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;anecdotizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;anecdotiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

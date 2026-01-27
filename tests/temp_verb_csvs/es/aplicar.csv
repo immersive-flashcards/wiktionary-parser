@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;aplicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;aplicando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;aplicado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;aplico;;tú ;;;aplicas;;él //ella //usted ;;;aplica;;nosotros //nosotras ;;;aplicamos;;vosotros //vosotras ;;;aplicáis;;ellos //ellas //ustedes ;;;aplican;;vos ;;;aplicás
+Indicativo Imperfecto;indicativo;;yo ;;;aplicaba;;tú //vos ;;;aplicabas;;él //ella //usted ;;;aplicaba;;nosotros //nosotras ;;;aplicábamos;;vosotros //vosotras ;;;aplicabais;;ellos //ellas //ustedes ;;;aplicaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;apliqué;;tú //vos ;;;aplicaste;;él //ella //usted ;;;aplicó;;nosotros //nosotras ;;;aplicamos;;vosotros //vosotras ;;;aplicasteis;;ellos //ellas //ustedes ;;;aplicaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;aplicaré;;tú //vos ;;;aplicarás;;él //ella //usted ;;;aplicará;;nosotros //nosotras ;;;aplicaremos;;vosotros //vosotras ;;;aplicaréis;;ellos //ellas //ustedes ;;;aplicarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he aplicado;;tú //vos ;;;has aplicado;;él //ella //usted ;;;ha aplicado;;nosotros //nosotras ;;;hemos aplicado;;vosotros //vosotras ;;;habéis aplicado;;ellos //ellas //ustedes ;;;han aplicado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había aplicado;;tú //vos ;;;habías aplicado;;él //ella //usted ;;;había aplicado;;nosotros //nosotras ;;;habíamos aplicado;;vosotros //vosotras ;;;habíais aplicado;;ellos //ellas //ustedes ;;;habían aplicado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube aplicado;;tú //vos ;;;hubiste aplicado;;él //ella //usted ;;;hubo aplicado;;nosotros //nosotras ;;;hubimos aplicado;;vosotros //vosotras ;;;hubisteis aplicado;;ellos //ellas //ustedes ;;;hubieron aplicado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré aplicado;;tú //vos ;;;habrás aplicado;;él //ella //usted ;;;habrá aplicado;;nosotros //nosotras ;;;habremos aplicado;;vosotros //vosotras ;;;habréis aplicado;;ellos //ellas //ustedes ;;;habrán aplicado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;aplique;;tú //vos ;;;apliques;;él //ella //usted ;;;aplique;;nosotros //nosotras ;;;apliquemos;;vosotros //vosotras ;;;apliquéis;;ellos //ellas //ustedes ;;;apliquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;aplicara / aplicase;;tú //vos ;;;aplicaras / aplicases;;él //ella //usted ;;;aplicara / aplicase;;nosotros //nosotras ;;;aplicáramos / aplicásemos;;vosotros //vosotras ;;;aplicarais / aplicaseis;;ellos //ellas //ustedes ;;;aplicaran / aplicasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;aplicare;;tú //vos ;;;aplicares;;él //ella //usted ;;;aplicare;;nosotros //nosotras ;;;aplicáremos;;vosotros //vosotras ;;;aplicareis;;ellos //ellas //ustedes ;;;aplicaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya aplicado;;tú //vos ;;;hayas aplicado;;él //ella //usted ;;;haya aplicado;;nosotros //nosotras ;;;hayamos aplicado;;vosotros //vosotras ;;;hayáis aplicado;;ellos //ellas //ustedes ;;;hayan aplicado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera aplicado / hubiese aplicado;;tú //vos ;;;hubieras aplicado / hubieses aplicado;;él //ella //usted ;;;hubiera aplicado / hubiese aplicado;;nosotros //nosotras ;;;hubiéramos aplicado / hubiésemos aplicado;;vosotros //vosotras ;;;hubierais aplicado / hubieseis aplicado;;ellos //ellas //ustedes ;;;hubieran aplicado / hubiesen aplicado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere aplicado;;tú //vos ;;;hubieres aplicado;;él //ella //usted ;;;hubiere aplicado;;nosotros //nosotras ;;;hubiéremos aplicado;;vosotros //vosotras ;;;hubiereis aplicado;;ellos //ellas //ustedes ;;;hubieren aplicado;;;;;
+Condicional;condicional;;yo ;;;aplicaría;;tú //vos ;;;aplicarías;;él //ella //usted ;;;aplicaría;;nosotros //nosotras ;;;aplicaríamos;;vosotros //vosotras ;;;aplicaríais;;ellos //ellas //ustedes ;;;aplicarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría aplicado;;tú //vos ;;;habrías aplicado;;él //ella //usted ;;;habría aplicado;;nosotros //nosotras ;;;habríamos aplicado;;vosotros //vosotras ;;;habríais aplicado;;ellos //ellas //ustedes ;;;habrían aplicado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aplica;;(usted) ;;;aplique;;(nosotros) //(nosotras) ;;;apliquemos;;(vosotros) //(vosotras) ;;;aplicad;;(ustedes) ;;;apliquen;;(vos) ;;;aplicá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apliques;;(usted) ;no ;;aplique;;(nosotros) //(nosotras) ;no ;;apliquemos;;(vosotros) //(vosotras) ;no ;;apliquéis;;(ustedes) ;no ;;apliquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;aplicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;aplic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

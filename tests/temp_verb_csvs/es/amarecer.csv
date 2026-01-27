@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;amarecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;amareciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;amarecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;amarezco;;tú ;;;amareces;;él //ella //usted ;;;amarece;;nosotros //nosotras ;;;amarecemos;;vosotros //vosotras ;;;amarecéis;;ellos //ellas //ustedes ;;;amarecen;;vos ;;;amarecés
+Indicativo Imperfecto;indicativo;;yo ;;;amarecía;;tú //vos ;;;amarecías;;él //ella //usted ;;;amarecía;;nosotros //nosotras ;;;amarecíamos;;vosotros //vosotras ;;;amarecíais;;ellos //ellas //ustedes ;;;amarecían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;amarecí;;tú //vos ;;;amareciste;;él //ella //usted ;;;amareció;;nosotros //nosotras ;;;amarecimos;;vosotros //vosotras ;;;amarecisteis;;ellos //ellas //ustedes ;;;amarecieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;amareceré;;tú //vos ;;;amarecerás;;él //ella //usted ;;;amarecerá;;nosotros //nosotras ;;;amareceremos;;vosotros //vosotras ;;;amareceréis;;ellos //ellas //ustedes ;;;amarecerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he amarecido;;tú //vos ;;;has amarecido;;él //ella //usted ;;;ha amarecido;;nosotros //nosotras ;;;hemos amarecido;;vosotros //vosotras ;;;habéis amarecido;;ellos //ellas //ustedes ;;;han amarecido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había amarecido;;tú //vos ;;;habías amarecido;;él //ella //usted ;;;había amarecido;;nosotros //nosotras ;;;habíamos amarecido;;vosotros //vosotras ;;;habíais amarecido;;ellos //ellas //ustedes ;;;habían amarecido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube amarecido;;tú //vos ;;;hubiste amarecido;;él //ella //usted ;;;hubo amarecido;;nosotros //nosotras ;;;hubimos amarecido;;vosotros //vosotras ;;;hubisteis amarecido;;ellos //ellas //ustedes ;;;hubieron amarecido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré amarecido;;tú //vos ;;;habrás amarecido;;él //ella //usted ;;;habrá amarecido;;nosotros //nosotras ;;;habremos amarecido;;vosotros //vosotras ;;;habréis amarecido;;ellos //ellas //ustedes ;;;habrán amarecido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;amarezca;;tú //vos ;;;amarezcas;;él //ella //usted ;;;amarezca;;nosotros //nosotras ;;;amarezcamos;;vosotros //vosotras ;;;amarezcáis;;ellos //ellas //ustedes ;;;amarezcan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;amareciera / amareciese;;tú //vos ;;;amarecieras / amarecieses;;él //ella //usted ;;;amareciera / amareciese;;nosotros //nosotras ;;;amareciéramos / amareciésemos;;vosotros //vosotras ;;;amarecierais / amarecieseis;;ellos //ellas //ustedes ;;;amarecieran / amareciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;amareciere;;tú //vos ;;;amarecieres;;él //ella //usted ;;;amareciere;;nosotros //nosotras ;;;amareciéremos;;vosotros //vosotras ;;;amareciereis;;ellos //ellas //ustedes ;;;amarecieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya amarecido;;tú //vos ;;;hayas amarecido;;él //ella //usted ;;;haya amarecido;;nosotros //nosotras ;;;hayamos amarecido;;vosotros //vosotras ;;;hayáis amarecido;;ellos //ellas //ustedes ;;;hayan amarecido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera amarecido / hubiese amarecido;;tú //vos ;;;hubieras amarecido / hubieses amarecido;;él //ella //usted ;;;hubiera amarecido / hubiese amarecido;;nosotros //nosotras ;;;hubiéramos amarecido / hubiésemos amarecido;;vosotros //vosotras ;;;hubierais amarecido / hubieseis amarecido;;ellos //ellas //ustedes ;;;hubieran amarecido / hubiesen amarecido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere amarecido;;tú //vos ;;;hubieres amarecido;;él //ella //usted ;;;hubiere amarecido;;nosotros //nosotras ;;;hubiéremos amarecido;;vosotros //vosotras ;;;hubiereis amarecido;;ellos //ellas //ustedes ;;;hubieren amarecido;;;;;
+Condicional;condicional;;yo ;;;amarecería;;tú //vos ;;;amarecerías;;él //ella //usted ;;;amarecería;;nosotros //nosotras ;;;amareceríamos;;vosotros //vosotras ;;;amareceríais;;ellos //ellas //ustedes ;;;amarecerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría amarecido;;tú //vos ;;;habrías amarecido;;él //ella //usted ;;;habría amarecido;;nosotros //nosotras ;;;habríamos amarecido;;vosotros //vosotras ;;;habríais amarecido;;ellos //ellas //ustedes ;;;habrían amarecido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;amarece;;(usted) ;;;amarezca;;(nosotros) //(nosotras) ;;;amarezcamos;;(vosotros) //(vosotras) ;;;amareced;;(ustedes) ;;;amarezcan;;(vos) ;;;amarecé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;amarezcas;;(usted) ;no ;;amarezca;;(nosotros) //(nosotras) ;no ;;amarezcamos;;(vosotros) //(vosotras) ;no ;;amarezcáis;;(ustedes) ;no ;;amarezcan;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;amarecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;amarec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

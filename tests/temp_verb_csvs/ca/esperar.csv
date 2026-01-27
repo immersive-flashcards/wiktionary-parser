@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;esperar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;esperant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;esperat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;espero;;tu ;;;esperes;;ell //ella //vostè ;;;espera;;nosaltres ;;;esperem;;vosaltres ;;;espereu;;ells //elles //vostès ;;;esperen
+Indicatiu Imperfet;indicativo;;jo ;;;esperava;;tu ;;;esperaves;;ell //ella //vostè ;;;esperava;;nosaltres ;;;esperàvem;;vosaltres ;;;esperàveu;;ells //elles //vostès ;;;esperaven
+Indicatiu Futur;indicativo;;jo ;;;esperaré;;tu ;;;esperaràs;;ell //ella //vostè ;;;esperarà;;nosaltres ;;;esperarem;;vosaltres ;;;esperareu;;ells //elles //vostès ;;;esperaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;esperí;;tu ;;;esperares;;ell //ella //vostè ;;;esperà;;nosaltres ;;;esperàrem;;vosaltres ;;;esperàreu;;ells //elles //vostès ;;;esperaren
+Condicional;condicional;;jo ;;;esperaria;;tu ;;;esperaries;;ell //ella //vostè ;;;esperaria;;nosaltres ;;;esperaríem;;vosaltres ;;;esperaríeu;;ells //elles //vostès ;;;esperarien
+Subjuntiu Present;subjuntiu;;jo ;;;esperi;;tu ;;;esperis;;ell //ella //vostè ;;;esperi;;nosaltres ;;;esperem;;vosaltres ;;;espereu;;ells //elles //vostès ;;;esperin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;esperés;;tu ;;;esperessis;;ell //ella //vostè ;;;esperés;;nosaltres ;;;esperéssim;;vosaltres ;;;esperéssiu;;ells //elles //vostès ;;;esperessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;espera;;(vostè) ;;;esperi;;(nosaltres) ;;;esperem;;(vosaltres) ;;;espereu;;(vostès) ;;;esperin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;esperis;;(vostè) ;no ;;esperi;;(nosaltres) ;no ;;esperem;;(vosaltres) ;no ;;espereu;;(vostès) ;no ;;esperin
+Indicatiu Perfet;indicatiu;;jo ;;;he esperat;;tu ;;;has esperat;;ell //ella //vostè ;;;ha esperat;;nosaltres ;;;hem esperat;;vosaltres ;;;heu esperat;;ells //elles //vostès ;;;han esperat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig esperat;;tu ;;;vas esperat;;ell //ella //vostè ;;;va esperat;;nosaltres ;;;vam esperat;;vosaltres ;;;vau esperat;;ells //elles //vostès ;;;van esperat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia esperat;;tu ;;;havies esperat;;ell //ella //vostè ;;;havia esperat;;nosaltres ;;;havíem esperat;;vosaltres ;;;havíeu esperat;;ells //elles //vostès ;;;havien esperat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí esperat;;tu ;;;hagueres esperat;;ell //ella //vostè ;;;hagué esperat;;nosaltres ;;;haguérem esperat;;vosaltres ;;;haguéreu esperat;;ells //elles //vostès ;;;hagueren esperat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver esperat;;tu ;;;vas haver esperat;;ell //ella //vostè ;;;va haver esperat;;nosaltres ;;;vam haver esperat;;vosaltres ;;;vau haver esperat;;ells //elles //vostès ;;;van haver esperat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré esperat;;tu ;;;hauràs esperat;;ell //ella //vostè ;;;haurà esperat;;nosaltres ;;;haurem esperat;;vosaltres ;;;haureu esperat;;ells //elles //vostès ;;;hauran esperat
+Condicional Perfet;condicional;;jo ;;;hauria esperat;;tu ;;;hauries esperat;;ell //ella //vostè ;;;hauria esperat;;nosaltres ;;;hauríem esperat;;vosaltres ;;;hauríeu esperat;;ells //elles //vostès ;;;haurien esperat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi esperat;;tu ;;;vagis esperat;;ell //ella //vostè ;;;vagi esperat;;nosaltres ;;;vàgim esperat;;vosaltres ;;;vàgiu esperat;;ells //elles //vostès ;;;vagin esperat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi esperat;;tu ;;;hagis esperat;;ell //ella //vostè ;;;hagi esperat;;nosaltres ;;;hàgim esperat;;vosaltres ;;;hàgiu esperat;;ells //elles //vostès ;;;hagin esperat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes esperat;;tu ;;;haguessis esperat;;ell //ella //vostè ;;;hagués esperat;;nosaltres ;;;haguéssim esperat;;vosaltres ;;;haguéssiu esperat;;ells //elles //vostès ;;;haguessin esperat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver esperat;;tu ;;;vagis haver esperat;;ell //ella //vostè ;;;vagi haver esperat;;nosaltres ;;;vàgim haver esperat;;vosaltres ;;;vàgiu haver esperat;;ells //elles //vostès ;;;vagin haver esperat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;esperar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;esper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;prendrais;;tu ;;;prendrais;;il/elle/on ;;;prend
 Conditionnel Passé;conditionnel;;j’;;;aurais pris;;tu ;;;aurais pris;;il/elle/on ;;;aurait pris;;nous ;;;aurions pris;;vous ;;;auriez pris;;ils/elles ;;;auraient pris
 Impératif Présent;impératif;;;;;;;(tu) ;;;prends;;;;;;;(nous) ;;;prenons;;(vous) ;;;prenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie pris;;;;;;;(nous) ;;;ayons pris;;(vous) ;;;ayez pris;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;prends pas;;;;;;;(nous) ;ne ;;prenons pas;;(vous) ;ne ;;prenez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;prends pas ;;;;;;;(nous) ;ne ;;prenons pas ;;(vous) ;ne ;;prenez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas pris;;;;;;;(nous) ;n';;ayons pas pris;;(vous) ;n';;ayez pas pris;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;prendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

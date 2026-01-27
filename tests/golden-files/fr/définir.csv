@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;définirais;;tu ;;;définirais;;il/elle/on ;;;d
 Conditionnel Passé;conditionnel;;j’;;;aurais défini;;tu ;;;aurais défini;;il/elle/on ;;;aurait défini;;nous ;;;aurions défini;;vous ;;;auriez défini;;ils/elles ;;;auraient défini
 Impératif Présent;impératif;;;;;;;(tu) ;;;définis;;;;;;;(nous) ;;;définissons;;(vous) ;;;définissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie défini;;;;;;;(nous) ;;;ayons défini;;(vous) ;;;ayez défini;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;définis pas;;;;;;;(nous) ;ne ;;définissons pas;;(vous) ;ne ;;définissez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;définis pas ;;;;;;;(nous) ;ne ;;définissons pas ;;(vous) ;ne ;;définissez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas défini;;;;;;;(nous) ;n';;ayons pas défini;;(vous) ;n';;ayez pas défini;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;définir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;abalanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;abalanzando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;abalanzado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;abalanzo;;tú ;;;abalanzas;;él //ella //usted ;;;abalanza;;nosotros //nosotras ;;;abalanzamos;;vosotros //vosotras ;;;abalanzáis;;ellos //ellas //ustedes ;;;abalanzan;;vos ;;;abalanzás
+Indicativo Imperfecto;indicativo;;yo ;;;abalanzaba;;tú //vos ;;;abalanzabas;;él //ella //usted ;;;abalanzaba;;nosotros //nosotras ;;;abalanzábamos;;vosotros //vosotras ;;;abalanzabais;;ellos //ellas //ustedes ;;;abalanzaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;abalancé;;tú //vos ;;;abalanzaste;;él //ella //usted ;;;abalanzó;;nosotros //nosotras ;;;abalanzamos;;vosotros //vosotras ;;;abalanzasteis;;ellos //ellas //ustedes ;;;abalanzaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;abalanzaré;;tú //vos ;;;abalanzarás;;él //ella //usted ;;;abalanzará;;nosotros //nosotras ;;;abalanzaremos;;vosotros //vosotras ;;;abalanzaréis;;ellos //ellas //ustedes ;;;abalanzarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he abalanzado;;tú //vos ;;;has abalanzado;;él //ella //usted ;;;ha abalanzado;;nosotros //nosotras ;;;hemos abalanzado;;vosotros //vosotras ;;;habéis abalanzado;;ellos //ellas //ustedes ;;;han abalanzado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había abalanzado;;tú //vos ;;;habías abalanzado;;él //ella //usted ;;;había abalanzado;;nosotros //nosotras ;;;habíamos abalanzado;;vosotros //vosotras ;;;habíais abalanzado;;ellos //ellas //ustedes ;;;habían abalanzado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube abalanzado;;tú //vos ;;;hubiste abalanzado;;él //ella //usted ;;;hubo abalanzado;;nosotros //nosotras ;;;hubimos abalanzado;;vosotros //vosotras ;;;hubisteis abalanzado;;ellos //ellas //ustedes ;;;hubieron abalanzado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré abalanzado;;tú //vos ;;;habrás abalanzado;;él //ella //usted ;;;habrá abalanzado;;nosotros //nosotras ;;;habremos abalanzado;;vosotros //vosotras ;;;habréis abalanzado;;ellos //ellas //ustedes ;;;habrán abalanzado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;abalance;;tú //vos ;;;abalances;;él //ella //usted ;;;abalance;;nosotros //nosotras ;;;abalancemos;;vosotros //vosotras ;;;abalancéis;;ellos //ellas //ustedes ;;;abalancen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;abalanzara / abalanzase;;tú //vos ;;;abalanzaras / abalanzases;;él //ella //usted ;;;abalanzara / abalanzase;;nosotros //nosotras ;;;abalanzáramos / abalanzásemos;;vosotros //vosotras ;;;abalanzarais / abalanzaseis;;ellos //ellas //ustedes ;;;abalanzaran / abalanzasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;abalanzare;;tú //vos ;;;abalanzares;;él //ella //usted ;;;abalanzare;;nosotros //nosotras ;;;abalanzáremos;;vosotros //vosotras ;;;abalanzareis;;ellos //ellas //ustedes ;;;abalanzaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya abalanzado;;tú //vos ;;;hayas abalanzado;;él //ella //usted ;;;haya abalanzado;;nosotros //nosotras ;;;hayamos abalanzado;;vosotros //vosotras ;;;hayáis abalanzado;;ellos //ellas //ustedes ;;;hayan abalanzado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera abalanzado / hubiese abalanzado;;tú //vos ;;;hubieras abalanzado / hubieses abalanzado;;él //ella //usted ;;;hubiera abalanzado / hubiese abalanzado;;nosotros //nosotras ;;;hubiéramos abalanzado / hubiésemos abalanzado;;vosotros //vosotras ;;;hubierais abalanzado / hubieseis abalanzado;;ellos //ellas //ustedes ;;;hubieran abalanzado / hubiesen abalanzado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere abalanzado;;tú //vos ;;;hubieres abalanzado;;él //ella //usted ;;;hubiere abalanzado;;nosotros //nosotras ;;;hubiéremos abalanzado;;vosotros //vosotras ;;;hubiereis abalanzado;;ellos //ellas //ustedes ;;;hubieren abalanzado;;;;;
+Condicional;condicional;;yo ;;;abalanzaría;;tú //vos ;;;abalanzarías;;él //ella //usted ;;;abalanzaría;;nosotros //nosotras ;;;abalanzaríamos;;vosotros //vosotras ;;;abalanzaríais;;ellos //ellas //ustedes ;;;abalanzarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría abalanzado;;tú //vos ;;;habrías abalanzado;;él //ella //usted ;;;habría abalanzado;;nosotros //nosotras ;;;habríamos abalanzado;;vosotros //vosotras ;;;habríais abalanzado;;ellos //ellas //ustedes ;;;habrían abalanzado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abalanza;;(usted) ;;;abalance;;(nosotros) //(nosotras) ;;;abalancemos;;(vosotros) //(vosotras) ;;;abalanzad;;(ustedes) ;;;abalancen;;(vos) ;;;abalanzá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abalances;;(usted) ;no ;;abalance;;(nosotros) //(nosotras) ;no ;;abalancemos;;(vosotros) //(vosotras) ;no ;;abalancéis;;(ustedes) ;no ;;abalancen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;abalanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;abalanz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

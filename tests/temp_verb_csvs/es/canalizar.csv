@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;canalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;canalizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;canalizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;canalizo;;tú ;;;canalizas;;él //ella //usted ;;;canaliza;;nosotros //nosotras ;;;canalizamos;;vosotros //vosotras ;;;canalizáis;;ellos //ellas //ustedes ;;;canalizan;;vos ;;;canalizás
+Indicativo Imperfecto;indicativo;;yo ;;;canalizaba;;tú //vos ;;;canalizabas;;él //ella //usted ;;;canalizaba;;nosotros //nosotras ;;;canalizábamos;;vosotros //vosotras ;;;canalizabais;;ellos //ellas //ustedes ;;;canalizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;canalicé;;tú //vos ;;;canalizaste;;él //ella //usted ;;;canalizó;;nosotros //nosotras ;;;canalizamos;;vosotros //vosotras ;;;canalizasteis;;ellos //ellas //ustedes ;;;canalizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;canalizaré;;tú //vos ;;;canalizarás;;él //ella //usted ;;;canalizará;;nosotros //nosotras ;;;canalizaremos;;vosotros //vosotras ;;;canalizaréis;;ellos //ellas //ustedes ;;;canalizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he canalizado;;tú //vos ;;;has canalizado;;él //ella //usted ;;;ha canalizado;;nosotros //nosotras ;;;hemos canalizado;;vosotros //vosotras ;;;habéis canalizado;;ellos //ellas //ustedes ;;;han canalizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había canalizado;;tú //vos ;;;habías canalizado;;él //ella //usted ;;;había canalizado;;nosotros //nosotras ;;;habíamos canalizado;;vosotros //vosotras ;;;habíais canalizado;;ellos //ellas //ustedes ;;;habían canalizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube canalizado;;tú //vos ;;;hubiste canalizado;;él //ella //usted ;;;hubo canalizado;;nosotros //nosotras ;;;hubimos canalizado;;vosotros //vosotras ;;;hubisteis canalizado;;ellos //ellas //ustedes ;;;hubieron canalizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré canalizado;;tú //vos ;;;habrás canalizado;;él //ella //usted ;;;habrá canalizado;;nosotros //nosotras ;;;habremos canalizado;;vosotros //vosotras ;;;habréis canalizado;;ellos //ellas //ustedes ;;;habrán canalizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;canalice;;tú //vos ;;;canalices;;él //ella //usted ;;;canalice;;nosotros //nosotras ;;;canalicemos;;vosotros //vosotras ;;;canalicéis;;ellos //ellas //ustedes ;;;canalicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;canalizara / canalizase;;tú //vos ;;;canalizaras / canalizases;;él //ella //usted ;;;canalizara / canalizase;;nosotros //nosotras ;;;canalizáramos / canalizásemos;;vosotros //vosotras ;;;canalizarais / canalizaseis;;ellos //ellas //ustedes ;;;canalizaran / canalizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;canalizare;;tú //vos ;;;canalizares;;él //ella //usted ;;;canalizare;;nosotros //nosotras ;;;canalizáremos;;vosotros //vosotras ;;;canalizareis;;ellos //ellas //ustedes ;;;canalizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya canalizado;;tú //vos ;;;hayas canalizado;;él //ella //usted ;;;haya canalizado;;nosotros //nosotras ;;;hayamos canalizado;;vosotros //vosotras ;;;hayáis canalizado;;ellos //ellas //ustedes ;;;hayan canalizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera canalizado / hubiese canalizado;;tú //vos ;;;hubieras canalizado / hubieses canalizado;;él //ella //usted ;;;hubiera canalizado / hubiese canalizado;;nosotros //nosotras ;;;hubiéramos canalizado / hubiésemos canalizado;;vosotros //vosotras ;;;hubierais canalizado / hubieseis canalizado;;ellos //ellas //ustedes ;;;hubieran canalizado / hubiesen canalizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere canalizado;;tú //vos ;;;hubieres canalizado;;él //ella //usted ;;;hubiere canalizado;;nosotros //nosotras ;;;hubiéremos canalizado;;vosotros //vosotras ;;;hubiereis canalizado;;ellos //ellas //ustedes ;;;hubieren canalizado;;;;;
+Condicional;condicional;;yo ;;;canalizaría;;tú //vos ;;;canalizarías;;él //ella //usted ;;;canalizaría;;nosotros //nosotras ;;;canalizaríamos;;vosotros //vosotras ;;;canalizaríais;;ellos //ellas //ustedes ;;;canalizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría canalizado;;tú //vos ;;;habrías canalizado;;él //ella //usted ;;;habría canalizado;;nosotros //nosotras ;;;habríamos canalizado;;vosotros //vosotras ;;;habríais canalizado;;ellos //ellas //ustedes ;;;habrían canalizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;canaliza;;(usted) ;;;canalice;;(nosotros) //(nosotras) ;;;canalicemos;;(vosotros) //(vosotras) ;;;canalizad;;(ustedes) ;;;canalicen;;(vos) ;;;canalizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;canalices;;(usted) ;no ;;canalice;;(nosotros) //(nosotras) ;no ;;canalicemos;;(vosotros) //(vosotras) ;no ;;canalicéis;;(ustedes) ;no ;;canalicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;canalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;canaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

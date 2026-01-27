@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;incentivar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;incentivant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;incentivat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;incentivo;;tu ;;;incentives;;ell //ella //vostè ;;;incentiva;;nosaltres ;;;incentivem;;vosaltres ;;;incentiveu;;ells //elles //vostès ;;;incentiven
+Indicatiu Imperfet;indicativo;;jo ;;;incentivava;;tu ;;;incentivaves;;ell //ella //vostè ;;;incentivava;;nosaltres ;;;incentivàvem;;vosaltres ;;;incentivàveu;;ells //elles //vostès ;;;incentivaven
+Indicatiu Futur;indicativo;;jo ;;;incentivaré;;tu ;;;incentivaràs;;ell //ella //vostè ;;;incentivarà;;nosaltres ;;;incentivarem;;vosaltres ;;;incentivareu;;ells //elles //vostès ;;;incentivaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;incentiví;;tu ;;;incentivares;;ell //ella //vostè ;;;incentivà;;nosaltres ;;;incentivàrem;;vosaltres ;;;incentivàreu;;ells //elles //vostès ;;;incentivaren
+Condicional;condicional;;jo ;;;incentivaria;;tu ;;;incentivaries;;ell //ella //vostè ;;;incentivaria;;nosaltres ;;;incentivaríem;;vosaltres ;;;incentivaríeu;;ells //elles //vostès ;;;incentivarien
+Subjuntiu Present;subjuntiu;;jo ;;;incentivi;;tu ;;;incentivis;;ell //ella //vostè ;;;incentivi;;nosaltres ;;;incentivem;;vosaltres ;;;incentiveu;;ells //elles //vostès ;;;incentivin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;incentivés;;tu ;;;incentivessis;;ell //ella //vostè ;;;incentivés;;nosaltres ;;;incentivéssim;;vosaltres ;;;incentivéssiu;;ells //elles //vostès ;;;incentivessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;incentiva;;(vostè) ;;;incentivi;;(nosaltres) ;;;incentivem;;(vosaltres) ;;;incentiveu;;(vostès) ;;;incentivin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;incentivis;;(vostè) ;no ;;incentivi;;(nosaltres) ;no ;;incentivem;;(vosaltres) ;no ;;incentiveu;;(vostès) ;no ;;incentivin
+Indicatiu Perfet;indicatiu;;jo ;;;he incentivat;;tu ;;;has incentivat;;ell //ella //vostè ;;;ha incentivat;;nosaltres ;;;hem incentivat;;vosaltres ;;;heu incentivat;;ells //elles //vostès ;;;han incentivat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig incentivat;;tu ;;;vas incentivat;;ell //ella //vostè ;;;va incentivat;;nosaltres ;;;vam incentivat;;vosaltres ;;;vau incentivat;;ells //elles //vostès ;;;van incentivat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia incentivat;;tu ;;;havies incentivat;;ell //ella //vostè ;;;havia incentivat;;nosaltres ;;;havíem incentivat;;vosaltres ;;;havíeu incentivat;;ells //elles //vostès ;;;havien incentivat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí incentivat;;tu ;;;hagueres incentivat;;ell //ella //vostè ;;;hagué incentivat;;nosaltres ;;;haguérem incentivat;;vosaltres ;;;haguéreu incentivat;;ells //elles //vostès ;;;hagueren incentivat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver incentivat;;tu ;;;vas haver incentivat;;ell //ella //vostè ;;;va haver incentivat;;nosaltres ;;;vam haver incentivat;;vosaltres ;;;vau haver incentivat;;ells //elles //vostès ;;;van haver incentivat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré incentivat;;tu ;;;hauràs incentivat;;ell //ella //vostè ;;;haurà incentivat;;nosaltres ;;;haurem incentivat;;vosaltres ;;;haureu incentivat;;ells //elles //vostès ;;;hauran incentivat
+Condicional Perfet;condicional;;jo ;;;hauria incentivat;;tu ;;;hauries incentivat;;ell //ella //vostè ;;;hauria incentivat;;nosaltres ;;;hauríem incentivat;;vosaltres ;;;hauríeu incentivat;;ells //elles //vostès ;;;haurien incentivat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi incentivat;;tu ;;;vagis incentivat;;ell //ella //vostè ;;;vagi incentivat;;nosaltres ;;;vàgim incentivat;;vosaltres ;;;vàgiu incentivat;;ells //elles //vostès ;;;vagin incentivat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi incentivat;;tu ;;;hagis incentivat;;ell //ella //vostè ;;;hagi incentivat;;nosaltres ;;;hàgim incentivat;;vosaltres ;;;hàgiu incentivat;;ells //elles //vostès ;;;hagin incentivat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes incentivat;;tu ;;;haguessis incentivat;;ell //ella //vostè ;;;hagués incentivat;;nosaltres ;;;haguéssim incentivat;;vosaltres ;;;haguéssiu incentivat;;ells //elles //vostès ;;;haguessin incentivat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver incentivat;;tu ;;;vagis haver incentivat;;ell //ella //vostè ;;;vagi haver incentivat;;nosaltres ;;;vàgim haver incentivat;;vosaltres ;;;vàgiu haver incentivat;;ells //elles //vostès ;;;vagin haver incentivat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;incentivar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;incentiv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

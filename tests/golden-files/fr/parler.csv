@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;parlerais;;tu ;;;parlerais;;il/elle/on ;;;parle
 Conditionnel Passé;conditionnel;;j’;;;aurais parlé;;tu ;;;aurais parlé;;il/elle/on ;;;aurait parlé;;nous ;;;aurions parlé;;vous ;;;auriez parlé;;ils/elles ;;;auraient parlé
 Impératif Présent;impératif;;;;;;;(tu) ;;;parle;;;;;;;(nous) ;;;parlons;;(vous) ;;;parlez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie parlé;;;;;;;(nous) ;;;ayons parlé;;(vous) ;;;ayez parlé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;parle pas;;;;;;;(nous) ;ne ;;parlons pas;;(vous) ;ne ;;parlez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;parle pas ;;;;;;;(nous) ;ne ;;parlons pas ;;(vous) ;ne ;;parlez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas parlé;;;;;;;(nous) ;n';;ayons pas parlé;;(vous) ;n';;ayez pas parlé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;parler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

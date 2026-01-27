@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;philosophaillerais;;tu ;;;philosophaillerais;;i
 Conditionnel Passé;conditionnel;;j’;;;aurais philosophaillé;;tu ;;;aurais philosophaillé;;il/elle/on ;;;aurait philosophaillé;;nous ;;;aurions philosophaillé;;vous ;;;auriez philosophaillé;;ils/elles ;;;auraient philosophaillé
 Impératif Présent;impératif;;;;;;;(tu) ;;;philosophaille;;;;;;;(nous) ;;;philosophaillons;;(vous) ;;;philosophaillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie philosophaillé;;;;;;;(nous) ;;;ayons philosophaillé;;(vous) ;;;ayez philosophaillé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;philosophaille pas;;;;;;;(nous) ;ne ;;philosophaillons pas;;(vous) ;ne ;;philosophaillez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;philosophaille pas ;;;;;;;(nous) ;ne ;;philosophaillons pas ;;(vous) ;ne ;;philosophaillez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas philosophaillé;;;;;;;(nous) ;n';;ayons pas philosophaillé;;(vous) ;n';;ayez pas philosophaillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;philosophailler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

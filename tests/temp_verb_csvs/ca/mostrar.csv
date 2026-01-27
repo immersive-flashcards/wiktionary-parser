@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;mostrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;mostrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;mostrat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;mostro;;tu ;;;mostres;;ell //ella //vostè ;;;mostra;;nosaltres ;;;mostrem;;vosaltres ;;;mostreu;;ells //elles //vostès ;;;mostren
+Indicatiu Imperfet;indicativo;;jo ;;;mostrava;;tu ;;;mostraves;;ell //ella //vostè ;;;mostrava;;nosaltres ;;;mostràvem;;vosaltres ;;;mostràveu;;ells //elles //vostès ;;;mostraven
+Indicatiu Futur;indicativo;;jo ;;;mostraré;;tu ;;;mostraràs;;ell //ella //vostè ;;;mostrarà;;nosaltres ;;;mostrarem;;vosaltres ;;;mostrareu;;ells //elles //vostès ;;;mostraran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;mostrí;;tu ;;;mostrares;;ell //ella //vostè ;;;mostrà;;nosaltres ;;;mostràrem;;vosaltres ;;;mostràreu;;ells //elles //vostès ;;;mostraren
+Condicional;condicional;;jo ;;;mostraria;;tu ;;;mostraries;;ell //ella //vostè ;;;mostraria;;nosaltres ;;;mostraríem;;vosaltres ;;;mostraríeu;;ells //elles //vostès ;;;mostrarien
+Subjuntiu Present;subjuntiu;;jo ;;;mostri;;tu ;;;mostris;;ell //ella //vostè ;;;mostri;;nosaltres ;;;mostrem;;vosaltres ;;;mostreu;;ells //elles //vostès ;;;mostrin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;mostrés;;tu ;;;mostressis;;ell //ella //vostè ;;;mostrés;;nosaltres ;;;mostréssim;;vosaltres ;;;mostréssiu;;ells //elles //vostès ;;;mostressin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;mostra;;(vostè) ;;;mostri;;(nosaltres) ;;;mostrem;;(vosaltres) ;;;mostreu;;(vostès) ;;;mostrin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;mostris;;(vostè) ;no ;;mostri;;(nosaltres) ;no ;;mostrem;;(vosaltres) ;no ;;mostreu;;(vostès) ;no ;;mostrin
+Indicatiu Perfet;indicatiu;;jo ;;;he mostrat;;tu ;;;has mostrat;;ell //ella //vostè ;;;ha mostrat;;nosaltres ;;;hem mostrat;;vosaltres ;;;heu mostrat;;ells //elles //vostès ;;;han mostrat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig mostrat;;tu ;;;vas mostrat;;ell //ella //vostè ;;;va mostrat;;nosaltres ;;;vam mostrat;;vosaltres ;;;vau mostrat;;ells //elles //vostès ;;;van mostrat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia mostrat;;tu ;;;havies mostrat;;ell //ella //vostè ;;;havia mostrat;;nosaltres ;;;havíem mostrat;;vosaltres ;;;havíeu mostrat;;ells //elles //vostès ;;;havien mostrat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí mostrat;;tu ;;;hagueres mostrat;;ell //ella //vostè ;;;hagué mostrat;;nosaltres ;;;haguérem mostrat;;vosaltres ;;;haguéreu mostrat;;ells //elles //vostès ;;;hagueren mostrat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver mostrat;;tu ;;;vas haver mostrat;;ell //ella //vostè ;;;va haver mostrat;;nosaltres ;;;vam haver mostrat;;vosaltres ;;;vau haver mostrat;;ells //elles //vostès ;;;van haver mostrat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré mostrat;;tu ;;;hauràs mostrat;;ell //ella //vostè ;;;haurà mostrat;;nosaltres ;;;haurem mostrat;;vosaltres ;;;haureu mostrat;;ells //elles //vostès ;;;hauran mostrat
+Condicional Perfet;condicional;;jo ;;;hauria mostrat;;tu ;;;hauries mostrat;;ell //ella //vostè ;;;hauria mostrat;;nosaltres ;;;hauríem mostrat;;vosaltres ;;;hauríeu mostrat;;ells //elles //vostès ;;;haurien mostrat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi mostrat;;tu ;;;vagis mostrat;;ell //ella //vostè ;;;vagi mostrat;;nosaltres ;;;vàgim mostrat;;vosaltres ;;;vàgiu mostrat;;ells //elles //vostès ;;;vagin mostrat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi mostrat;;tu ;;;hagis mostrat;;ell //ella //vostè ;;;hagi mostrat;;nosaltres ;;;hàgim mostrat;;vosaltres ;;;hàgiu mostrat;;ells //elles //vostès ;;;hagin mostrat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes mostrat;;tu ;;;haguessis mostrat;;ell //ella //vostè ;;;hagués mostrat;;nosaltres ;;;haguéssim mostrat;;vosaltres ;;;haguéssiu mostrat;;ells //elles //vostès ;;;haguessin mostrat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver mostrat;;tu ;;;vagis haver mostrat;;ell //ella //vostè ;;;vagi haver mostrat;;nosaltres ;;;vàgim haver mostrat;;vosaltres ;;;vàgiu haver mostrat;;ells //elles //vostès ;;;vagin haver mostrat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;mostrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;mostr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

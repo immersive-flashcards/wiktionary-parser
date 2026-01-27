@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;obéirais;;tu ;;;obéirais;;il/elle/on ;;;obé
 Conditionnel Passé;conditionnel;;j’;;;aurais obéi;;tu ;;;aurais obéi;;il/elle/on ;;;aurait obéi;;nous ;;;aurions obéi;;vous ;;;auriez obéi;;ils/elles ;;;auraient obéi
 Impératif Présent;impératif;;;;;;;(tu) ;;;obéis;;;;;;;(nous) ;;;obéissons;;(vous) ;;;obéissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie obéi;;;;;;;(nous) ;;;ayons obéi;;(vous) ;;;ayez obéi;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;obéis pas;;;;;;;(nous) ;n';;obéissons pas;;(vous) ;n';;obéissez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;obéis pas ;;;;;;;(nous) ;n';;obéissons pas ;;(vous) ;n';;obéissez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas obéi;;;;;;;(nous) ;n';;ayons pas obéi;;(vous) ;n';;ayez pas obéi;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;obéir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

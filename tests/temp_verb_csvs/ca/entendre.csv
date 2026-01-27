@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;entendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;entenent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;entès;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;entenc;;tu ;;;entens;;ell //ella //vostè ;;;entén;;nosaltres ;;;entenem;;vosaltres ;;;enteneu;;ells //elles //vostès ;;;entenen
+Indicatiu Imperfet;indicativo;;jo ;;;entenia;;tu ;;;entenies;;ell //ella //vostè ;;;entenia;;nosaltres ;;;enteníem;;vosaltres ;;;enteníeu;;ells //elles //vostès ;;;entenien
+Indicatiu Futur;indicativo;;jo ;;;entendré;;tu ;;;entendràs;;ell //ella //vostè ;;;entendrà;;nosaltres ;;;entendrem;;vosaltres ;;;entendreu;;ells //elles //vostès ;;;entendran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;entenguí;;tu ;;;entengueres;;ell //ella //vostè ;;;entengué;;nosaltres ;;;entenguérem;;vosaltres ;;;entenguéreu;;ells //elles //vostès ;;;entengueren
+Condicional;condicional;;jo ;;;entendria;;tu ;;;entendries;;ell //ella //vostè ;;;entendria;;nosaltres ;;;entendríem;;vosaltres ;;;entendríeu;;ells //elles //vostès ;;;entendrien
+Subjuntiu Present;subjuntiu;;jo ;;;entengui;;tu ;;;entenguis;;ell //ella //vostè ;;;entengui;;nosaltres ;;;entenguem;;vosaltres ;;;entengueu;;ells //elles //vostès ;;;entenguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;entengués;;tu ;;;entenguessis;;ell //ella //vostè ;;;entengués;;nosaltres ;;;entenguéssim;;vosaltres ;;;entenguéssiu;;ells //elles //vostès ;;;entenguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;entén;;(vostè) ;;;entengui;;(nosaltres) ;;;entenguem;;(vosaltres) ;;;enteneu;;(vostès) ;;;entenguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;entenguis;;(vostè) ;no ;;entengui;;(nosaltres) ;no ;;entenguem;;(vosaltres) ;no ;;entengueu;;(vostès) ;no ;;entenguin
+Indicatiu Perfet;indicatiu;;jo ;;;he entès;;tu ;;;has entès;;ell //ella //vostè ;;;ha entès;;nosaltres ;;;hem entès;;vosaltres ;;;heu entès;;ells //elles //vostès ;;;han entès
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig entès;;tu ;;;vas entès;;ell //ella //vostè ;;;va entès;;nosaltres ;;;vam entès;;vosaltres ;;;vau entès;;ells //elles //vostès ;;;van entès
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia entès;;tu ;;;havies entès;;ell //ella //vostè ;;;havia entès;;nosaltres ;;;havíem entès;;vosaltres ;;;havíeu entès;;ells //elles //vostès ;;;havien entès
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí entès;;tu ;;;hagueres entès;;ell //ella //vostè ;;;hagué entès;;nosaltres ;;;haguérem entès;;vosaltres ;;;haguéreu entès;;ells //elles //vostès ;;;hagueren entès
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver entès;;tu ;;;vas haver entès;;ell //ella //vostè ;;;va haver entès;;nosaltres ;;;vam haver entès;;vosaltres ;;;vau haver entès;;ells //elles //vostès ;;;van haver entès
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré entès;;tu ;;;hauràs entès;;ell //ella //vostè ;;;haurà entès;;nosaltres ;;;haurem entès;;vosaltres ;;;haureu entès;;ells //elles //vostès ;;;hauran entès
+Condicional Perfet;condicional;;jo ;;;hauria entès;;tu ;;;hauries entès;;ell //ella //vostè ;;;hauria entès;;nosaltres ;;;hauríem entès;;vosaltres ;;;hauríeu entès;;ells //elles //vostès ;;;haurien entès
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi entès;;tu ;;;vagis entès;;ell //ella //vostè ;;;vagi entès;;nosaltres ;;;vàgim entès;;vosaltres ;;;vàgiu entès;;ells //elles //vostès ;;;vagin entès
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi entès;;tu ;;;hagis entès;;ell //ella //vostè ;;;hagi entès;;nosaltres ;;;hàgim entès;;vosaltres ;;;hàgiu entès;;ells //elles //vostès ;;;hagin entès
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes entès;;tu ;;;haguessis entès;;ell //ella //vostè ;;;hagués entès;;nosaltres ;;;haguéssim entès;;vosaltres ;;;haguéssiu entès;;ells //elles //vostès ;;;haguessin entès
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver entès;;tu ;;;vagis haver entès;;ell //ella //vostè ;;;vagi haver entès;;nosaltres ;;;vàgim haver entès;;vosaltres ;;;vàgiu haver entès;;ells //elles //vostès ;;;vagin haver entès
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;entendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;entend;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

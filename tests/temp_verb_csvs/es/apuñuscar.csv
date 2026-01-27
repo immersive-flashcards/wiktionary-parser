@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;apuñuscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;apuñuscando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;apuñuscado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;apuñusco;;tú ;;;apuñuscas;;él //ella //usted ;;;apuñusca;;nosotros //nosotras ;;;apuñuscamos;;vosotros //vosotras ;;;apuñuscáis;;ellos //ellas //ustedes ;;;apuñuscan;;vos ;;;apuñuscás
+Indicativo Imperfecto;indicativo;;yo ;;;apuñuscaba;;tú //vos ;;;apuñuscabas;;él //ella //usted ;;;apuñuscaba;;nosotros //nosotras ;;;apuñuscábamos;;vosotros //vosotras ;;;apuñuscabais;;ellos //ellas //ustedes ;;;apuñuscaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;apuñusqué;;tú //vos ;;;apuñuscaste;;él //ella //usted ;;;apuñuscó;;nosotros //nosotras ;;;apuñuscamos;;vosotros //vosotras ;;;apuñuscasteis;;ellos //ellas //ustedes ;;;apuñuscaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;apuñuscaré;;tú //vos ;;;apuñuscarás;;él //ella //usted ;;;apuñuscará;;nosotros //nosotras ;;;apuñuscaremos;;vosotros //vosotras ;;;apuñuscaréis;;ellos //ellas //ustedes ;;;apuñuscarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he apuñuscado;;tú //vos ;;;has apuñuscado;;él //ella //usted ;;;ha apuñuscado;;nosotros //nosotras ;;;hemos apuñuscado;;vosotros //vosotras ;;;habéis apuñuscado;;ellos //ellas //ustedes ;;;han apuñuscado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había apuñuscado;;tú //vos ;;;habías apuñuscado;;él //ella //usted ;;;había apuñuscado;;nosotros //nosotras ;;;habíamos apuñuscado;;vosotros //vosotras ;;;habíais apuñuscado;;ellos //ellas //ustedes ;;;habían apuñuscado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube apuñuscado;;tú //vos ;;;hubiste apuñuscado;;él //ella //usted ;;;hubo apuñuscado;;nosotros //nosotras ;;;hubimos apuñuscado;;vosotros //vosotras ;;;hubisteis apuñuscado;;ellos //ellas //ustedes ;;;hubieron apuñuscado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré apuñuscado;;tú //vos ;;;habrás apuñuscado;;él //ella //usted ;;;habrá apuñuscado;;nosotros //nosotras ;;;habremos apuñuscado;;vosotros //vosotras ;;;habréis apuñuscado;;ellos //ellas //ustedes ;;;habrán apuñuscado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;apuñusque;;tú //vos ;;;apuñusques;;él //ella //usted ;;;apuñusque;;nosotros //nosotras ;;;apuñusquemos;;vosotros //vosotras ;;;apuñusquéis;;ellos //ellas //ustedes ;;;apuñusquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;apuñuscara / apuñuscase;;tú //vos ;;;apuñuscaras / apuñuscases;;él //ella //usted ;;;apuñuscara / apuñuscase;;nosotros //nosotras ;;;apuñuscáramos / apuñuscásemos;;vosotros //vosotras ;;;apuñuscarais / apuñuscaseis;;ellos //ellas //ustedes ;;;apuñuscaran / apuñuscasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;apuñuscare;;tú //vos ;;;apuñuscares;;él //ella //usted ;;;apuñuscare;;nosotros //nosotras ;;;apuñuscáremos;;vosotros //vosotras ;;;apuñuscareis;;ellos //ellas //ustedes ;;;apuñuscaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya apuñuscado;;tú //vos ;;;hayas apuñuscado;;él //ella //usted ;;;haya apuñuscado;;nosotros //nosotras ;;;hayamos apuñuscado;;vosotros //vosotras ;;;hayáis apuñuscado;;ellos //ellas //ustedes ;;;hayan apuñuscado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera apuñuscado / hubiese apuñuscado;;tú //vos ;;;hubieras apuñuscado / hubieses apuñuscado;;él //ella //usted ;;;hubiera apuñuscado / hubiese apuñuscado;;nosotros //nosotras ;;;hubiéramos apuñuscado / hubiésemos apuñuscado;;vosotros //vosotras ;;;hubierais apuñuscado / hubieseis apuñuscado;;ellos //ellas //ustedes ;;;hubieran apuñuscado / hubiesen apuñuscado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere apuñuscado;;tú //vos ;;;hubieres apuñuscado;;él //ella //usted ;;;hubiere apuñuscado;;nosotros //nosotras ;;;hubiéremos apuñuscado;;vosotros //vosotras ;;;hubiereis apuñuscado;;ellos //ellas //ustedes ;;;hubieren apuñuscado;;;;;
+Condicional;condicional;;yo ;;;apuñuscaría;;tú //vos ;;;apuñuscarías;;él //ella //usted ;;;apuñuscaría;;nosotros //nosotras ;;;apuñuscaríamos;;vosotros //vosotras ;;;apuñuscaríais;;ellos //ellas //ustedes ;;;apuñuscarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría apuñuscado;;tú //vos ;;;habrías apuñuscado;;él //ella //usted ;;;habría apuñuscado;;nosotros //nosotras ;;;habríamos apuñuscado;;vosotros //vosotras ;;;habríais apuñuscado;;ellos //ellas //ustedes ;;;habrían apuñuscado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apuñusca;;(usted) ;;;apuñusque;;(nosotros) //(nosotras) ;;;apuñusquemos;;(vosotros) //(vosotras) ;;;apuñuscad;;(ustedes) ;;;apuñusquen;;(vos) ;;;apuñuscá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apuñusques;;(usted) ;no ;;apuñusque;;(nosotros) //(nosotras) ;no ;;apuñusquemos;;(vosotros) //(vosotras) ;no ;;apuñusquéis;;(ustedes) ;no ;;apuñusquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;apuñuscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;apuñusc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

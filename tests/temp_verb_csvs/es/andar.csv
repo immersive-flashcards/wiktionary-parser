@@ -1,0 +1,30 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;andar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;andando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;andado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;ando;;tú ;;;andas;;él //ella //usted ;;;anda;;nosotros //nosotras ;;;andamos;;vosotros //vosotras ;;;andáis;;ellos //ellas //ustedes ;;;andan;;vos ;;;andás
+Indicativo Imperfecto;indicativo;;yo ;;;andaba;;tú //vos ;;;andabas;;él //ella //usted ;;;andaba;;nosotros //nosotras ;;;andábamos;;vosotros //vosotras ;;;andabais;;ellos //ellas //ustedes ;;;andaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;anduve / andé;;tú //vos ;;;anduviste / andaste;;él //ella //usted ;;;anduvo / andó;;nosotros //nosotras ;;;anduvimos / andamos;;vosotros //vosotras ;;;anduvisteis / andasteis;;ellos //ellas //ustedes ;;;anduvieron / andaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;andaré;;tú //vos ;;;andarás;;él //ella //usted ;;;andará;;nosotros //nosotras ;;;andaremos;;vosotros //vosotras ;;;andaréis;;ellos //ellas //ustedes ;;;andarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he andado;;tú //vos ;;;has andado;;él //ella //usted ;;;ha andado;;nosotros //nosotras ;;;hemos andado;;vosotros //vosotras ;;;habéis andado;;ellos //ellas //ustedes ;;;han andado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había andado;;tú //vos ;;;habías andado;;él //ella //usted ;;;había andado;;nosotros //nosotras ;;;habíamos andado;;vosotros //vosotras ;;;habíais andado;;ellos //ellas //ustedes ;;;habían andado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube andado;;tú //vos ;;;hubiste andado;;él //ella //usted ;;;hubo andado;;nosotros //nosotras ;;;hubimos andado;;vosotros //vosotras ;;;hubisteis andado;;ellos //ellas //ustedes ;;;hubieron andado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré andado;;tú //vos ;;;habrás andado;;él //ella //usted ;;;habrá andado;;nosotros //nosotras ;;;habremos andado;;vosotros //vosotras ;;;habréis andado;;ellos //ellas //ustedes ;;;habrán andado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;ande;;tú //vos ;;;andes;;él //ella //usted ;;;ande;;nosotros //nosotras ;;;andemos;;vosotros //vosotras ;;;andéis;;ellos //ellas //ustedes ;;;anden;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;anduviera / anduviese;;tú //vos ;;;anduvieras / anduvieses;;él //ella //usted ;;;anduviera / anduviese;;nosotros //nosotras ;;;anduviéramos / anduviésemos;;vosotros //vosotras ;;;anduvierais / anduvieseis;;ellos //ellas //ustedes ;;;anduvieran / anduviesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;anduviere;;tú //vos ;;;anduvieres;;él //ella //usted ;;;anduviere;;nosotros //nosotras ;;;anduviéremos;;vosotros //vosotras ;;;anduviereis;;ellos //ellas //ustedes ;;;anduvieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya andado;;tú //vos ;;;hayas andado;;él //ella //usted ;;;haya andado;;nosotros //nosotras ;;;hayamos andado;;vosotros //vosotras ;;;hayáis andado;;ellos //ellas //ustedes ;;;hayan andado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera andado / hubiese andado;;tú //vos ;;;hubieras andado / hubieses andado;;él //ella //usted ;;;hubiera andado / hubiese andado;;nosotros //nosotras ;;;hubiéramos andado / hubiésemos andado;;vosotros //vosotras ;;;hubierais andado / hubieseis andado;;ellos //ellas //ustedes ;;;hubieran andado / hubiesen andado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere andado;;tú //vos ;;;hubieres andado;;él //ella //usted ;;;hubiere andado;;nosotros //nosotras ;;;hubiéremos andado;;vosotros //vosotras ;;;hubiereis andado;;ellos //ellas //ustedes ;;;hubieren andado;;;;;
+Condicional;condicional;;yo ;;;andaría;;tú //vos ;;;andarías;;él //ella //usted ;;;andaría;;nosotros //nosotras ;;;andaríamos;;vosotros //vosotras ;;;andaríais;;ellos //ellas //ustedes ;;;andarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría andado;;tú //vos ;;;habrías andado;;él //ella //usted ;;;habría andado;;nosotros //nosotras ;;;habríamos andado;;vosotros //vosotras ;;;habríais andado;;ellos //ellas //ustedes ;;;habrían andado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anda;;(usted) ;;;ande;;(nosotros) //(nosotras) ;;;andemos;;(vosotros) //(vosotras) ;;;andad;;(ustedes) ;;;anden;;(vos) ;;;andá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;andes;;(usted) ;no ;;ande;;(nosotros) //(nosotras) ;no ;;andemos;;(vosotros) //(vosotras) ;no ;;andéis;;(ustedes) ;no ;;anden;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;andar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;and;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;andar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

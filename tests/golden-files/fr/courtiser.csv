@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;courtiserais;;tu ;;;courtiserais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais courtisé;;tu ;;;aurais courtisé;;il/elle/on ;;;aurait courtisé;;nous ;;;aurions courtisé;;vous ;;;auriez courtisé;;ils/elles ;;;auraient courtisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;courtise;;;;;;;(nous) ;;;courtisons;;(vous) ;;;courtisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie courtisé;;;;;;;(nous) ;;;ayons courtisé;;(vous) ;;;ayez courtisé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;courtise pas;;;;;;;(nous) ;ne ;;courtisons pas;;(vous) ;ne ;;courtisez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;courtise pas ;;;;;;;(nous) ;ne ;;courtisons pas ;;(vous) ;ne ;;courtisez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas courtisé;;;;;;;(nous) ;n';;ayons pas courtisé;;(vous) ;n';;ayez pas courtisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;courtiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;ferais;;tu ;;;ferais;;il/elle/on ;;;ferait;;nou
 Conditionnel Passé;conditionnel;;j’;;;aurais fait;;tu ;;;aurais fait;;il/elle/on ;;;aurait fait;;nous ;;;aurions fait;;vous ;;;auriez fait;;ils/elles ;;;auraient fait
 Impératif Présent;impératif;;;;;;;(tu) ;;;fais;;;;;;;(nous) ;;;faisons;;(vous) ;;;faites;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fait;;;;;;;(nous) ;;;ayons fait;;(vous) ;;;ayez fait;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fais pas;;;;;;;(nous) ;ne ;;faisons pas;;(vous) ;ne ;;faites pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fais pas ;;;;;;;(nous) ;ne ;;faisons pas ;;(vous) ;ne ;;faites pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas fait;;;;;;;(nous) ;n';;ayons pas fait;;(vous) ;n';;ayez pas fait;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;faire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

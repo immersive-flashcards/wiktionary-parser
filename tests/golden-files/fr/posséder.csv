@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;posséderais / possèderais;;tu ;;;posséderais
 Conditionnel Passé;conditionnel;;j’;;;aurais possédé;;tu ;;;aurais possédé;;il/elle/on ;;;aurait possédé;;nous ;;;aurions possédé;;vous ;;;auriez possédé;;ils/elles ;;;auraient possédé
 Impératif Présent;impératif;;;;;;;(tu) ;;;possède;;;;;;;(nous) ;;;possédons;;(vous) ;;;possédez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie possédé;;;;;;;(nous) ;;;ayons possédé;;(vous) ;;;ayez possédé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;possède pas;;;;;;;(nous) ;ne ;;possédons pas;;(vous) ;ne ;;possédez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;possède pas ;;;;;;;(nous) ;ne ;;possédons pas ;;(vous) ;ne ;;possédez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas possédé;;;;;;;(nous) ;n';;ayons pas possédé;;(vous) ;n';;ayez pas possédé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;posséder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

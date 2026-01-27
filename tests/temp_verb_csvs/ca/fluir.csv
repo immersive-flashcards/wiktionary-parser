@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;fluir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;fluint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;fluït;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;flueixo;;tu ;;;flueixes;;ell //ella //vostè ;;;flueix;;nosaltres ;;;fluïm;;vosaltres ;;;fluïu;;ells //elles //vostès ;;;flueixen
+Indicatiu Imperfet;indicativo;;jo ;;;fluïa;;tu ;;;fluïes;;ell //ella //vostè ;;;fluïa;;nosaltres ;;;fluíem;;vosaltres ;;;fluíeu;;ells //elles //vostès ;;;fluïen
+Indicatiu Futur;indicativo;;jo ;;;fluiré;;tu ;;;fluiràs;;ell //ella //vostè ;;;fluirà;;nosaltres ;;;fluirem;;vosaltres ;;;fluireu;;ells //elles //vostès ;;;fluiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;fluí;;tu ;;;fluïres;;ell //ella //vostè ;;;fluí;;nosaltres ;;;fluírem;;vosaltres ;;;fluíreu;;ells //elles //vostès ;;;fluïren
+Condicional;condicional;;jo ;;;fluiria;;tu ;;;fluiries;;ell //ella //vostè ;;;fluiria;;nosaltres ;;;fluiríem;;vosaltres ;;;fluiríeu;;ells //elles //vostès ;;;fluirien
+Subjuntiu Present;subjuntiu;;jo ;;;flueixi;;tu ;;;flueixis;;ell //ella //vostè ;;;flueixi;;nosaltres ;;;fluïm;;vosaltres ;;;fluïu;;ells //elles //vostès ;;;flueixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;fluís;;tu ;;;fluïssis;;ell //ella //vostè ;;;fluís;;nosaltres ;;;fluíssim;;vosaltres ;;;fluíssiu;;ells //elles //vostès ;;;fluïssin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;flueix;;(vostè) ;;;flueixi;;(nosaltres) ;;;fluïm;;(vosaltres) ;;;fluïu;;(vostès) ;;;flueixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;flueixis;;(vostè) ;no ;;flueixi;;(nosaltres) ;no ;;fluïm;;(vosaltres) ;no ;;fluïu;;(vostès) ;no ;;flueixin
+Indicatiu Perfet;indicatiu;;jo ;;;he fluït;;tu ;;;has fluït;;ell //ella //vostè ;;;ha fluït;;nosaltres ;;;hem fluït;;vosaltres ;;;heu fluït;;ells //elles //vostès ;;;han fluït
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig fluït;;tu ;;;vas fluït;;ell //ella //vostè ;;;va fluït;;nosaltres ;;;vam fluït;;vosaltres ;;;vau fluït;;ells //elles //vostès ;;;van fluït
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia fluït;;tu ;;;havies fluït;;ell //ella //vostè ;;;havia fluït;;nosaltres ;;;havíem fluït;;vosaltres ;;;havíeu fluït;;ells //elles //vostès ;;;havien fluït
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí fluït;;tu ;;;hagueres fluït;;ell //ella //vostè ;;;hagué fluït;;nosaltres ;;;haguérem fluït;;vosaltres ;;;haguéreu fluït;;ells //elles //vostès ;;;hagueren fluït
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver fluït;;tu ;;;vas haver fluït;;ell //ella //vostè ;;;va haver fluït;;nosaltres ;;;vam haver fluït;;vosaltres ;;;vau haver fluït;;ells //elles //vostès ;;;van haver fluït
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré fluït;;tu ;;;hauràs fluït;;ell //ella //vostè ;;;haurà fluït;;nosaltres ;;;haurem fluït;;vosaltres ;;;haureu fluït;;ells //elles //vostès ;;;hauran fluït
+Condicional Perfet;condicional;;jo ;;;hauria fluït;;tu ;;;hauries fluït;;ell //ella //vostè ;;;hauria fluït;;nosaltres ;;;hauríem fluït;;vosaltres ;;;hauríeu fluït;;ells //elles //vostès ;;;haurien fluït
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi fluït;;tu ;;;vagis fluït;;ell //ella //vostè ;;;vagi fluït;;nosaltres ;;;vàgim fluït;;vosaltres ;;;vàgiu fluït;;ells //elles //vostès ;;;vagin fluït
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi fluït;;tu ;;;hagis fluït;;ell //ella //vostè ;;;hagi fluït;;nosaltres ;;;hàgim fluït;;vosaltres ;;;hàgiu fluït;;ells //elles //vostès ;;;hagin fluït
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes fluït;;tu ;;;haguessis fluït;;ell //ella //vostè ;;;hagués fluït;;nosaltres ;;;haguéssim fluït;;vosaltres ;;;haguéssiu fluït;;ells //elles //vostès ;;;haguessin fluït
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver fluït;;tu ;;;vagis haver fluït;;ell //ella //vostè ;;;vagi haver fluït;;nosaltres ;;;vàgim haver fluït;;vosaltres ;;;vàgiu haver fluït;;ells //elles //vostès ;;;vagin haver fluït
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;fluir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;flu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

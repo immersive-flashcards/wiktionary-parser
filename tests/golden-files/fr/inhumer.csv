@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;inhumerais;;tu ;;;inhumerais;;il/elle/on ;;;in
 Conditionnel Passé;conditionnel;;j’;;;aurais inhumé;;tu ;;;aurais inhumé;;il/elle/on ;;;aurait inhumé;;nous ;;;aurions inhumé;;vous ;;;auriez inhumé;;ils/elles ;;;auraient inhumé
 Impératif Présent;impératif;;;;;;;(tu) ;;;inhume;;;;;;;(nous) ;;;inhumons;;(vous) ;;;inhumez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie inhumé;;;;;;;(nous) ;;;ayons inhumé;;(vous) ;;;ayez inhumé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;inhume pas;;;;;;;(nous) ;n';;inhumons pas;;(vous) ;n';;inhumez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;inhume pas ;;;;;;;(nous) ;n';;inhumons pas ;;(vous) ;n';;inhumez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas inhumé;;;;;;;(nous) ;n';;ayons pas inhumé;;(vous) ;n';;ayez pas inhumé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;inhumer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

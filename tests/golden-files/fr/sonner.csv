@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;sonnerais;;tu ;;;sonnerais;;il/elle/on ;;;sonne
 Conditionnel Passé;conditionnel;;j’;;;aurais sonné;;tu ;;;aurais sonné;;il/elle/on ;;;aurait sonné;;nous ;;;aurions sonné;;vous ;;;auriez sonné;;ils/elles ;;;auraient sonné
 Impératif Présent;impératif;;;;;;;(tu) ;;;sonne;;;;;;;(nous) ;;;sonnons;;(vous) ;;;sonnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie sonné;;;;;;;(nous) ;;;ayons sonné;;(vous) ;;;ayez sonné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sonne pas;;;;;;;(nous) ;ne ;;sonnons pas;;(vous) ;ne ;;sonnez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sonne pas ;;;;;;;(nous) ;ne ;;sonnons pas ;;(vous) ;ne ;;sonnez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas sonné;;;;;;;(nous) ;n';;ayons pas sonné;;(vous) ;n';;ayez pas sonné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;sonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

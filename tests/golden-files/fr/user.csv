@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;userais;;tu ;;;userais;;il/elle/on ;;;userait;
 Conditionnel Passé;conditionnel;;j’;;;aurais usé;;tu ;;;aurais usé;;il/elle/on ;;;aurait usé;;nous ;;;aurions usé;;vous ;;;auriez usé;;ils/elles ;;;auraient usé
 Impératif Présent;impératif;;;;;;;(tu) ;;;use;;;;;;;(nous) ;;;usons;;(vous) ;;;usez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie usé;;;;;;;(nous) ;;;ayons usé;;(vous) ;;;ayez usé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;use pas;;;;;;;(nous) ;n';;usons pas;;(vous) ;n';;usez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;use pas ;;;;;;;(nous) ;n';;usons pas ;;(vous) ;n';;usez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas usé;;;;;;;(nous) ;n';;ayons pas usé;;(vous) ;n';;ayez pas usé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;user;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

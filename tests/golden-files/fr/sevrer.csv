@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;sèvrerais;;tu ;;;sèvrerais;;il/elle/on ;;;sè
 Conditionnel Passé;conditionnel;;j’;;;aurais sevré;;tu ;;;aurais sevré;;il/elle/on ;;;aurait sevré;;nous ;;;aurions sevré;;vous ;;;auriez sevré;;ils/elles ;;;auraient sevré
 Impératif Présent;impératif;;;;;;;(tu) ;;;sèvre;;;;;;;(nous) ;;;sevrons;;(vous) ;;;sevrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie sevré;;;;;;;(nous) ;;;ayons sevré;;(vous) ;;;ayez sevré;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sèvre pas;;;;;;;(nous) ;ne ;;sevrons pas;;(vous) ;ne ;;sevrez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sèvre pas ;;;;;;;(nous) ;ne ;;sevrons pas ;;(vous) ;ne ;;sevrez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas sevré;;;;;;;(nous) ;n';;ayons pas sevré;;(vous) ;n';;ayez pas sevré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;sevrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

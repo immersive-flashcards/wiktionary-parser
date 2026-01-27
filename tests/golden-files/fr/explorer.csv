@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;explorerais;;tu ;;;explorerais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais exploré;;tu ;;;aurais exploré;;il/elle/on ;;;aurait exploré;;nous ;;;aurions exploré;;vous ;;;auriez exploré;;ils/elles ;;;auraient exploré
 Impératif Présent;impératif;;;;;;;(tu) ;;;explore;;;;;;;(nous) ;;;explorons;;(vous) ;;;explorez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie exploré;;;;;;;(nous) ;;;ayons exploré;;(vous) ;;;ayez exploré;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;explore pas;;;;;;;(nous) ;n';;explorons pas;;(vous) ;n';;explorez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;explore pas ;;;;;;;(nous) ;n';;explorons pas ;;(vous) ;n';;explorez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas exploré;;;;;;;(nous) ;n';;ayons pas exploré;;(vous) ;n';;ayez pas exploré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;explorer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

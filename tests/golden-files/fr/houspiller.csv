@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;houspillerais;;tu ;;;houspillerais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais houspillé;;tu ;;;aurais houspillé;;il/elle/on ;;;aurait houspillé;;nous ;;;aurions houspillé;;vous ;;;auriez houspillé;;ils/elles ;;;auraient houspillé
 Impératif Présent;impératif;;;;;;;(tu) ;;;houspille;;;;;;;(nous) ;;;houspillons;;(vous) ;;;houspillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie houspillé;;;;;;;(nous) ;;;ayons houspillé;;(vous) ;;;ayez houspillé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;houspille pas;;;;;;;(nous) ;ne ;;houspillons pas;;(vous) ;ne ;;houspillez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;houspille pas ;;;;;;;(nous) ;ne ;;houspillons pas ;;(vous) ;ne ;;houspillez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas houspillé;;;;;;;(nous) ;n';;ayons pas houspillé;;(vous) ;n';;ayez pas houspillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;houspiller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

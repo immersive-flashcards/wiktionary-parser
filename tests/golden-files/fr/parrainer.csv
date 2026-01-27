@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;parrainerais;;tu ;;;parrainerais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais parrainé;;tu ;;;aurais parrainé;;il/elle/on ;;;aurait parrainé;;nous ;;;aurions parrainé;;vous ;;;auriez parrainé;;ils/elles ;;;auraient parrainé
 Impératif Présent;impératif;;;;;;;(tu) ;;;parraine;;;;;;;(nous) ;;;parrainons;;(vous) ;;;parrainez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie parrainé;;;;;;;(nous) ;;;ayons parrainé;;(vous) ;;;ayez parrainé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;parraine pas;;;;;;;(nous) ;ne ;;parrainons pas;;(vous) ;ne ;;parrainez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;parraine pas ;;;;;;;(nous) ;ne ;;parrainons pas ;;(vous) ;ne ;;parrainez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas parrainé;;;;;;;(nous) ;n';;ayons pas parrainé;;(vous) ;n';;ayez pas parrainé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;parrainer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

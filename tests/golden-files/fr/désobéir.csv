@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;désobéirais;;tu ;;;désobéirais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais désobéi;;tu ;;;aurais désobéi;;il/elle/on ;;;aurait désobéi;;nous ;;;aurions désobéi;;vous ;;;auriez désobéi;;ils/elles ;;;auraient désobéi
 Impératif Présent;impératif;;;;;;;(tu) ;;;désobéis;;;;;;;(nous) ;;;désobéissons;;(vous) ;;;désobéissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie désobéi;;;;;;;(nous) ;;;ayons désobéi;;(vous) ;;;ayez désobéi;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;désobéis pas;;;;;;;(nous) ;ne ;;désobéissons pas;;(vous) ;ne ;;désobéissez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;désobéis pas ;;;;;;;(nous) ;ne ;;désobéissons pas ;;(vous) ;ne ;;désobéissez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas désobéi;;;;;;;(nous) ;n';;ayons pas désobéi;;(vous) ;n';;ayez pas désobéi;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;désobéir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

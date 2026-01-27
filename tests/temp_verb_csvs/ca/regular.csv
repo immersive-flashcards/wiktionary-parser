@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;regulant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;regulat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;regulo;;tu ;;;regules;;ell //ella //vostè ;;;regula;;nosaltres ;;;regulem;;vosaltres ;;;reguleu;;ells //elles //vostès ;;;regulen
+Indicatiu Imperfet;indicativo;;jo ;;;regulava;;tu ;;;regulaves;;ell //ella //vostè ;;;regulava;;nosaltres ;;;regulàvem;;vosaltres ;;;regulàveu;;ells //elles //vostès ;;;regulaven
+Indicatiu Futur;indicativo;;jo ;;;regularé;;tu ;;;regularàs;;ell //ella //vostè ;;;regularà;;nosaltres ;;;regularem;;vosaltres ;;;regulareu;;ells //elles //vostès ;;;regularan
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;regulí;;tu ;;;regulares;;ell //ella //vostè ;;;regulà;;nosaltres ;;;regulàrem;;vosaltres ;;;regulàreu;;ells //elles //vostès ;;;regularen
+Condicional;condicional;;jo ;;;regularia;;tu ;;;regularies;;ell //ella //vostè ;;;regularia;;nosaltres ;;;regularíem;;vosaltres ;;;regularíeu;;ells //elles //vostès ;;;regularien
+Subjuntiu Present;subjuntiu;;jo ;;;reguli;;tu ;;;regulis;;ell //ella //vostè ;;;reguli;;nosaltres ;;;regulem;;vosaltres ;;;reguleu;;ells //elles //vostès ;;;regulin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;regulés;;tu ;;;regulessis;;ell //ella //vostè ;;;regulés;;nosaltres ;;;reguléssim;;vosaltres ;;;reguléssiu;;ells //elles //vostès ;;;regulessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;regula;;(vostè) ;;;reguli;;(nosaltres) ;;;regulem;;(vosaltres) ;;;reguleu;;(vostès) ;;;regulin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;regulis;;(vostè) ;no ;;reguli;;(nosaltres) ;no ;;regulem;;(vosaltres) ;no ;;reguleu;;(vostès) ;no ;;regulin
+Indicatiu Perfet;indicatiu;;jo ;;;he regulat;;tu ;;;has regulat;;ell //ella //vostè ;;;ha regulat;;nosaltres ;;;hem regulat;;vosaltres ;;;heu regulat;;ells //elles //vostès ;;;han regulat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig regulat;;tu ;;;vas regulat;;ell //ella //vostè ;;;va regulat;;nosaltres ;;;vam regulat;;vosaltres ;;;vau regulat;;ells //elles //vostès ;;;van regulat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia regulat;;tu ;;;havies regulat;;ell //ella //vostè ;;;havia regulat;;nosaltres ;;;havíem regulat;;vosaltres ;;;havíeu regulat;;ells //elles //vostès ;;;havien regulat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí regulat;;tu ;;;hagueres regulat;;ell //ella //vostè ;;;hagué regulat;;nosaltres ;;;haguérem regulat;;vosaltres ;;;haguéreu regulat;;ells //elles //vostès ;;;hagueren regulat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver regulat;;tu ;;;vas haver regulat;;ell //ella //vostè ;;;va haver regulat;;nosaltres ;;;vam haver regulat;;vosaltres ;;;vau haver regulat;;ells //elles //vostès ;;;van haver regulat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré regulat;;tu ;;;hauràs regulat;;ell //ella //vostè ;;;haurà regulat;;nosaltres ;;;haurem regulat;;vosaltres ;;;haureu regulat;;ells //elles //vostès ;;;hauran regulat
+Condicional Perfet;condicional;;jo ;;;hauria regulat;;tu ;;;hauries regulat;;ell //ella //vostè ;;;hauria regulat;;nosaltres ;;;hauríem regulat;;vosaltres ;;;hauríeu regulat;;ells //elles //vostès ;;;haurien regulat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi regulat;;tu ;;;vagis regulat;;ell //ella //vostè ;;;vagi regulat;;nosaltres ;;;vàgim regulat;;vosaltres ;;;vàgiu regulat;;ells //elles //vostès ;;;vagin regulat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi regulat;;tu ;;;hagis regulat;;ell //ella //vostè ;;;hagi regulat;;nosaltres ;;;hàgim regulat;;vosaltres ;;;hàgiu regulat;;ells //elles //vostès ;;;hagin regulat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes regulat;;tu ;;;haguessis regulat;;ell //ella //vostè ;;;hagués regulat;;nosaltres ;;;haguéssim regulat;;vosaltres ;;;haguéssiu regulat;;ells //elles //vostès ;;;haguessin regulat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver regulat;;tu ;;;vagis haver regulat;;ell //ella //vostè ;;;vagi haver regulat;;nosaltres ;;;vàgim haver regulat;;vosaltres ;;;vàgiu haver regulat;;ells //elles //vostès ;;;vagin haver regulat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;regul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

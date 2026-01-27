@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;priverais;;tu ;;;priverais;;il/elle/on ;;;prive
 Conditionnel Passé;conditionnel;;j’;;;aurais privé;;tu ;;;aurais privé;;il/elle/on ;;;aurait privé;;nous ;;;aurions privé;;vous ;;;auriez privé;;ils/elles ;;;auraient privé
 Impératif Présent;impératif;;;;;;;(tu) ;;;prive;;;;;;;(nous) ;;;privons;;(vous) ;;;privez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie privé;;;;;;;(nous) ;;;ayons privé;;(vous) ;;;ayez privé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;prive pas;;;;;;;(nous) ;ne ;;privons pas;;(vous) ;ne ;;privez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;prive pas ;;;;;;;(nous) ;ne ;;privons pas ;;(vous) ;ne ;;privez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas privé;;;;;;;(nous) ;n';;ayons pas privé;;(vous) ;n';;ayez pas privé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;priver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

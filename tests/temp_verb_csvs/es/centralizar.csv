@@ -1,0 +1,30 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;centralizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;centralizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;centralizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;centralizo;;tú ;;;centralizas;;él //ella //usted ;;;centraliza;;nosotros //nosotras ;;;centralizamos;;vosotros //vosotras ;;;centralizáis;;ellos //ellas //ustedes ;;;centralizan;;vos ;;;centralizás
+Indicativo Imperfecto;indicativo;;yo ;;;centralizaba;;tú //vos ;;;centralizabas;;él //ella //usted ;;;centralizaba;;nosotros //nosotras ;;;centralizábamos;;vosotros //vosotras ;;;centralizabais;;ellos //ellas //ustedes ;;;centralizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;centralicé;;tú //vos ;;;centralizaste;;él //ella //usted ;;;centralizó;;nosotros //nosotras ;;;centralizamos;;vosotros //vosotras ;;;centralizasteis;;ellos //ellas //ustedes ;;;centralizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;centralizaré;;tú //vos ;;;centralizarás;;él //ella //usted ;;;centralizará;;nosotros //nosotras ;;;centralizaremos;;vosotros //vosotras ;;;centralizaréis;;ellos //ellas //ustedes ;;;centralizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he centralizado;;tú //vos ;;;has centralizado;;él //ella //usted ;;;ha centralizado;;nosotros //nosotras ;;;hemos centralizado;;vosotros //vosotras ;;;habéis centralizado;;ellos //ellas //ustedes ;;;han centralizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había centralizado;;tú //vos ;;;habías centralizado;;él //ella //usted ;;;había centralizado;;nosotros //nosotras ;;;habíamos centralizado;;vosotros //vosotras ;;;habíais centralizado;;ellos //ellas //ustedes ;;;habían centralizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube centralizado;;tú //vos ;;;hubiste centralizado;;él //ella //usted ;;;hubo centralizado;;nosotros //nosotras ;;;hubimos centralizado;;vosotros //vosotras ;;;hubisteis centralizado;;ellos //ellas //ustedes ;;;hubieron centralizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré centralizado;;tú //vos ;;;habrás centralizado;;él //ella //usted ;;;habrá centralizado;;nosotros //nosotras ;;;habremos centralizado;;vosotros //vosotras ;;;habréis centralizado;;ellos //ellas //ustedes ;;;habrán centralizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;centralice;;tú //vos ;;;centralices;;él //ella //usted ;;;centralice;;nosotros //nosotras ;;;centralicemos;;vosotros //vosotras ;;;centralicéis;;ellos //ellas //ustedes ;;;centralicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;centralizara / centralizase;;tú //vos ;;;centralizaras / centralizases;;él //ella //usted ;;;centralizara / centralizase;;nosotros //nosotras ;;;centralizáramos / centralizásemos;;vosotros //vosotras ;;;centralizarais / centralizaseis;;ellos //ellas //ustedes ;;;centralizaran / centralizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;centralizare;;tú //vos ;;;centralizares;;él //ella //usted ;;;centralizare;;nosotros //nosotras ;;;centralizáremos;;vosotros //vosotras ;;;centralizareis;;ellos //ellas //ustedes ;;;centralizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya centralizado;;tú //vos ;;;hayas centralizado;;él //ella //usted ;;;haya centralizado;;nosotros //nosotras ;;;hayamos centralizado;;vosotros //vosotras ;;;hayáis centralizado;;ellos //ellas //ustedes ;;;hayan centralizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera centralizado / hubiese centralizado;;tú //vos ;;;hubieras centralizado / hubieses centralizado;;él //ella //usted ;;;hubiera centralizado / hubiese centralizado;;nosotros //nosotras ;;;hubiéramos centralizado / hubiésemos centralizado;;vosotros //vosotras ;;;hubierais centralizado / hubieseis centralizado;;ellos //ellas //ustedes ;;;hubieran centralizado / hubiesen centralizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere centralizado;;tú //vos ;;;hubieres centralizado;;él //ella //usted ;;;hubiere centralizado;;nosotros //nosotras ;;;hubiéremos centralizado;;vosotros //vosotras ;;;hubiereis centralizado;;ellos //ellas //ustedes ;;;hubieren centralizado;;;;;
+Condicional;condicional;;yo ;;;centralizaría;;tú //vos ;;;centralizarías;;él //ella //usted ;;;centralizaría;;nosotros //nosotras ;;;centralizaríamos;;vosotros //vosotras ;;;centralizaríais;;ellos //ellas //ustedes ;;;centralizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría centralizado;;tú //vos ;;;habrías centralizado;;él //ella //usted ;;;habría centralizado;;nosotros //nosotras ;;;habríamos centralizado;;vosotros //vosotras ;;;habríais centralizado;;ellos //ellas //ustedes ;;;habrían centralizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;centraliza;;(usted) ;;;centralice;;(nosotros) //(nosotras) ;;;centralicemos;;(vosotros) //(vosotras) ;;;centralizad;;(ustedes) ;;;centralicen;;(vos) ;;;centralizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;centralices;;(usted) ;no ;;centralice;;(nosotros) //(nosotras) ;no ;;centralicemos;;(vosotros) //(vosotras) ;no ;;centralicéis;;(ustedes) ;no ;;centralicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;centralizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;centraliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

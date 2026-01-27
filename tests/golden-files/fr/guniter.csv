@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;guniterais;;tu ;;;guniterais;;il/elle/on ;;;gun
 Conditionnel Passé;conditionnel;;j’;;;aurais gunité;;tu ;;;aurais gunité;;il/elle/on ;;;aurait gunité;;nous ;;;aurions gunité;;vous ;;;auriez gunité;;ils/elles ;;;auraient gunité
 Impératif Présent;impératif;;;;;;;(tu) ;;;gunite;;;;;;;(nous) ;;;gunitons;;(vous) ;;;gunitez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie gunité;;;;;;;(nous) ;;;ayons gunité;;(vous) ;;;ayez gunité;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gunite pas;;;;;;;(nous) ;ne ;;gunitons pas;;(vous) ;ne ;;gunitez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gunite pas ;;;;;;;(nous) ;ne ;;gunitons pas ;;(vous) ;ne ;;gunitez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas gunité;;;;;;;(nous) ;n';;ayons pas gunité;;(vous) ;n';;ayez pas gunité;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;guniter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;achèterais;;tu ;;;achèterais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais acheté;;tu ;;;aurais acheté;;il/elle/on ;;;aurait acheté;;nous ;;;aurions acheté;;vous ;;;auriez acheté;;ils/elles ;;;auraient acheté
 Impératif Présent;impératif;;;;;;;(tu) ;;;achète;;;;;;;(nous) ;;;achetons;;(vous) ;;;achetez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie acheté;;;;;;;(nous) ;;;ayons acheté;;(vous) ;;;ayez acheté;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;achète pas;;;;;;;(nous) ;n';;achetons pas;;(vous) ;n';;achetez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;achète pas ;;;;;;;(nous) ;n';;achetons pas ;;(vous) ;n';;achetez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas acheté;;;;;;;(nous) ;n';;ayons pas acheté;;(vous) ;n';;ayez pas acheté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;acheter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

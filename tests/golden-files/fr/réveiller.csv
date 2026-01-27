@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;réveillerais;;tu ;;;réveillerais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais réveillé;;tu ;;;aurais réveillé;;il/elle/on ;;;aurait réveillé;;nous ;;;aurions réveillé;;vous ;;;auriez réveillé;;ils/elles ;;;auraient réveillé
 Impératif Présent;impératif;;;;;;;(tu) ;;;réveille;;;;;;;(nous) ;;;réveillons;;(vous) ;;;réveillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie réveillé;;;;;;;(nous) ;;;ayons réveillé;;(vous) ;;;ayez réveillé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;réveille pas;;;;;;;(nous) ;ne ;;réveillons pas;;(vous) ;ne ;;réveillez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;réveille pas ;;;;;;;(nous) ;ne ;;réveillons pas ;;(vous) ;ne ;;réveillez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas réveillé;;;;;;;(nous) ;n';;ayons pas réveillé;;(vous) ;n';;ayez pas réveillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;réveiller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

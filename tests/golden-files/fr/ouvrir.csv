@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;ouvrirais;;tu ;;;ouvrirais;;il/elle/on ;;;ouvr
 Conditionnel Passé;conditionnel;;j’;;;aurais ouvert;;tu ;;;aurais ouvert;;il/elle/on ;;;aurait ouvert;;nous ;;;aurions ouvert;;vous ;;;auriez ouvert;;ils/elles ;;;auraient ouvert
 Impératif Présent;impératif;;;;;;;(tu) ;;;ouvre;;;;;;;(nous) ;;;ouvrons;;(vous) ;;;ouvrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie ouvert;;;;;;;(nous) ;;;ayons ouvert;;(vous) ;;;ayez ouvert;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;ouvre pas;;;;;;;(nous) ;n';;ouvrons pas;;(vous) ;n';;ouvrez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;ouvre pas ;;;;;;;(nous) ;n';;ouvrons pas ;;(vous) ;n';;ouvrez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas ouvert;;;;;;;(nous) ;n';;ayons pas ouvert;;(vous) ;n';;ayez pas ouvert;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;ouvrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

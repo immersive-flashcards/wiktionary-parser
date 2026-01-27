@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;programar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;programant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;programat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;programo;;tu ;;;programes;;ell //ella //vostè ;;;programa;;nosaltres ;;;programem;;vosaltres ;;;programeu;;ells //elles //vostès ;;;programen
+Indicatiu Imperfet;indicativo;;jo ;;;programava;;tu ;;;programaves;;ell //ella //vostè ;;;programava;;nosaltres ;;;programàvem;;vosaltres ;;;programàveu;;ells //elles //vostès ;;;programaven
+Indicatiu Futur;indicativo;;jo ;;;programaré;;tu ;;;programaràs;;ell //ella //vostè ;;;programarà;;nosaltres ;;;programarem;;vosaltres ;;;programareu;;ells //elles //vostès ;;;programaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;programí;;tu ;;;programares;;ell //ella //vostè ;;;programà;;nosaltres ;;;programàrem;;vosaltres ;;;programàreu;;ells //elles //vostès ;;;programaren
+Condicional;condicional;;jo ;;;programaria;;tu ;;;programaries;;ell //ella //vostè ;;;programaria;;nosaltres ;;;programaríem;;vosaltres ;;;programaríeu;;ells //elles //vostès ;;;programarien
+Subjuntiu Present;subjuntiu;;jo ;;;programi;;tu ;;;programis;;ell //ella //vostè ;;;programi;;nosaltres ;;;programem;;vosaltres ;;;programeu;;ells //elles //vostès ;;;programin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;programés;;tu ;;;programessis;;ell //ella //vostè ;;;programés;;nosaltres ;;;programéssim;;vosaltres ;;;programéssiu;;ells //elles //vostès ;;;programessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;programa;;(vostè) ;;;programi;;(nosaltres) ;;;programem;;(vosaltres) ;;;programeu;;(vostès) ;;;programin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;programis;;(vostè) ;no ;;programi;;(nosaltres) ;no ;;programem;;(vosaltres) ;no ;;programeu;;(vostès) ;no ;;programin
+Indicatiu Perfet;indicatiu;;jo ;;;he programat;;tu ;;;has programat;;ell //ella //vostè ;;;ha programat;;nosaltres ;;;hem programat;;vosaltres ;;;heu programat;;ells //elles //vostès ;;;han programat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig programat;;tu ;;;vas programat;;ell //ella //vostè ;;;va programat;;nosaltres ;;;vam programat;;vosaltres ;;;vau programat;;ells //elles //vostès ;;;van programat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia programat;;tu ;;;havies programat;;ell //ella //vostè ;;;havia programat;;nosaltres ;;;havíem programat;;vosaltres ;;;havíeu programat;;ells //elles //vostès ;;;havien programat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí programat;;tu ;;;hagueres programat;;ell //ella //vostè ;;;hagué programat;;nosaltres ;;;haguérem programat;;vosaltres ;;;haguéreu programat;;ells //elles //vostès ;;;hagueren programat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver programat;;tu ;;;vas haver programat;;ell //ella //vostè ;;;va haver programat;;nosaltres ;;;vam haver programat;;vosaltres ;;;vau haver programat;;ells //elles //vostès ;;;van haver programat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré programat;;tu ;;;hauràs programat;;ell //ella //vostè ;;;haurà programat;;nosaltres ;;;haurem programat;;vosaltres ;;;haureu programat;;ells //elles //vostès ;;;hauran programat
+Condicional Perfet;condicional;;jo ;;;hauria programat;;tu ;;;hauries programat;;ell //ella //vostè ;;;hauria programat;;nosaltres ;;;hauríem programat;;vosaltres ;;;hauríeu programat;;ells //elles //vostès ;;;haurien programat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi programat;;tu ;;;vagis programat;;ell //ella //vostè ;;;vagi programat;;nosaltres ;;;vàgim programat;;vosaltres ;;;vàgiu programat;;ells //elles //vostès ;;;vagin programat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi programat;;tu ;;;hagis programat;;ell //ella //vostè ;;;hagi programat;;nosaltres ;;;hàgim programat;;vosaltres ;;;hàgiu programat;;ells //elles //vostès ;;;hagin programat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes programat;;tu ;;;haguessis programat;;ell //ella //vostè ;;;hagués programat;;nosaltres ;;;haguéssim programat;;vosaltres ;;;haguéssiu programat;;ells //elles //vostès ;;;haguessin programat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver programat;;tu ;;;vagis haver programat;;ell //ella //vostè ;;;vagi haver programat;;nosaltres ;;;vàgim haver programat;;vosaltres ;;;vàgiu haver programat;;ells //elles //vostès ;;;vagin haver programat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;programar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;program;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

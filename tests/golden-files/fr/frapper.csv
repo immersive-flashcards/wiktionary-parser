@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;frapperais;;tu ;;;frapperais;;il/elle/on ;;;fra
 Conditionnel Passé;conditionnel;;j’;;;aurais frappé;;tu ;;;aurais frappé;;il/elle/on ;;;aurait frappé;;nous ;;;aurions frappé;;vous ;;;auriez frappé;;ils/elles ;;;auraient frappé
 Impératif Présent;impératif;;;;;;;(tu) ;;;frappe;;;;;;;(nous) ;;;frappons;;(vous) ;;;frappez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie frappé;;;;;;;(nous) ;;;ayons frappé;;(vous) ;;;ayez frappé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;frappe pas;;;;;;;(nous) ;ne ;;frappons pas;;(vous) ;ne ;;frappez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;frappe pas ;;;;;;;(nous) ;ne ;;frappons pas ;;(vous) ;ne ;;frappez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas frappé;;;;;;;(nous) ;n';;ayons pas frappé;;(vous) ;n';;ayez pas frappé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;frapper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

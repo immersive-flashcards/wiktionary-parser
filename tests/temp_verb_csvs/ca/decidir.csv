@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;decidir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;decidint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;decidit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;decideixo;;tu ;;;decideixes;;ell //ella //vostè ;;;decideix;;nosaltres ;;;decidim;;vosaltres ;;;decidiu;;ells //elles //vostès ;;;decideixen
+Indicatiu Imperfet;indicativo;;jo ;;;decidia;;tu ;;;decidies;;ell //ella //vostè ;;;decidia;;nosaltres ;;;decidíem;;vosaltres ;;;decidíeu;;ells //elles //vostès ;;;decidien
+Indicatiu Futur;indicativo;;jo ;;;decidiré;;tu ;;;decidiràs;;ell //ella //vostè ;;;decidirà;;nosaltres ;;;decidirem;;vosaltres ;;;decidireu;;ells //elles //vostès ;;;decidiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;decidí;;tu ;;;decidires;;ell //ella //vostè ;;;decidí;;nosaltres ;;;decidírem;;vosaltres ;;;decidíreu;;ells //elles //vostès ;;;decidiren
+Condicional;condicional;;jo ;;;decidiria;;tu ;;;decidiries;;ell //ella //vostè ;;;decidiria;;nosaltres ;;;decidiríem;;vosaltres ;;;decidiríeu;;ells //elles //vostès ;;;decidirien
+Subjuntiu Present;subjuntiu;;jo ;;;decideixi;;tu ;;;decideixis;;ell //ella //vostè ;;;decideixi;;nosaltres ;;;decidim;;vosaltres ;;;decidiu;;ells //elles //vostès ;;;decideixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;decidís;;tu ;;;decidissis;;ell //ella //vostè ;;;decidís;;nosaltres ;;;decidíssim;;vosaltres ;;;decidíssiu;;ells //elles //vostès ;;;decidissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;decideix;;(vostè) ;;;decideixi;;(nosaltres) ;;;decidim;;(vosaltres) ;;;decidiu;;(vostès) ;;;decideixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;decideixis;;(vostè) ;no ;;decideixi;;(nosaltres) ;no ;;decidim;;(vosaltres) ;no ;;decidiu;;(vostès) ;no ;;decideixin
+Indicatiu Perfet;indicatiu;;jo ;;;he decidit;;tu ;;;has decidit;;ell //ella //vostè ;;;ha decidit;;nosaltres ;;;hem decidit;;vosaltres ;;;heu decidit;;ells //elles //vostès ;;;han decidit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig decidit;;tu ;;;vas decidit;;ell //ella //vostè ;;;va decidit;;nosaltres ;;;vam decidit;;vosaltres ;;;vau decidit;;ells //elles //vostès ;;;van decidit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia decidit;;tu ;;;havies decidit;;ell //ella //vostè ;;;havia decidit;;nosaltres ;;;havíem decidit;;vosaltres ;;;havíeu decidit;;ells //elles //vostès ;;;havien decidit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí decidit;;tu ;;;hagueres decidit;;ell //ella //vostè ;;;hagué decidit;;nosaltres ;;;haguérem decidit;;vosaltres ;;;haguéreu decidit;;ells //elles //vostès ;;;hagueren decidit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver decidit;;tu ;;;vas haver decidit;;ell //ella //vostè ;;;va haver decidit;;nosaltres ;;;vam haver decidit;;vosaltres ;;;vau haver decidit;;ells //elles //vostès ;;;van haver decidit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré decidit;;tu ;;;hauràs decidit;;ell //ella //vostè ;;;haurà decidit;;nosaltres ;;;haurem decidit;;vosaltres ;;;haureu decidit;;ells //elles //vostès ;;;hauran decidit
+Condicional Perfet;condicional;;jo ;;;hauria decidit;;tu ;;;hauries decidit;;ell //ella //vostè ;;;hauria decidit;;nosaltres ;;;hauríem decidit;;vosaltres ;;;hauríeu decidit;;ells //elles //vostès ;;;haurien decidit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi decidit;;tu ;;;vagis decidit;;ell //ella //vostè ;;;vagi decidit;;nosaltres ;;;vàgim decidit;;vosaltres ;;;vàgiu decidit;;ells //elles //vostès ;;;vagin decidit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi decidit;;tu ;;;hagis decidit;;ell //ella //vostè ;;;hagi decidit;;nosaltres ;;;hàgim decidit;;vosaltres ;;;hàgiu decidit;;ells //elles //vostès ;;;hagin decidit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes decidit;;tu ;;;haguessis decidit;;ell //ella //vostè ;;;hagués decidit;;nosaltres ;;;haguéssim decidit;;vosaltres ;;;haguéssiu decidit;;ells //elles //vostès ;;;haguessin decidit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver decidit;;tu ;;;vagis haver decidit;;ell //ella //vostè ;;;vagi haver decidit;;nosaltres ;;;vàgim haver decidit;;vosaltres ;;;vàgiu haver decidit;;ells //elles //vostès ;;;vagin haver decidit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;decidir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;decid;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

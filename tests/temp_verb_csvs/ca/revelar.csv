@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;revelar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;revelant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;revelat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;revelo;;tu ;;;reveles;;ell //ella //vostè ;;;revela;;nosaltres ;;;revelem;;vosaltres ;;;reveleu;;ells //elles //vostès ;;;revelen
+Indicatiu Imperfet;indicativo;;jo ;;;revelava;;tu ;;;revelaves;;ell //ella //vostè ;;;revelava;;nosaltres ;;;revelàvem;;vosaltres ;;;revelàveu;;ells //elles //vostès ;;;revelaven
+Indicatiu Futur;indicativo;;jo ;;;revelaré;;tu ;;;revelaràs;;ell //ella //vostè ;;;revelarà;;nosaltres ;;;revelarem;;vosaltres ;;;revelareu;;ells //elles //vostès ;;;revelaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;revelí;;tu ;;;revelares;;ell //ella //vostè ;;;revelà;;nosaltres ;;;revelàrem;;vosaltres ;;;revelàreu;;ells //elles //vostès ;;;revelaren
+Condicional;condicional;;jo ;;;revelaria;;tu ;;;revelaries;;ell //ella //vostè ;;;revelaria;;nosaltres ;;;revelaríem;;vosaltres ;;;revelaríeu;;ells //elles //vostès ;;;revelarien
+Subjuntiu Present;subjuntiu;;jo ;;;reveli;;tu ;;;revelis;;ell //ella //vostè ;;;reveli;;nosaltres ;;;revelem;;vosaltres ;;;reveleu;;ells //elles //vostès ;;;revelin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;revelés;;tu ;;;revelessis;;ell //ella //vostè ;;;revelés;;nosaltres ;;;reveléssim;;vosaltres ;;;reveléssiu;;ells //elles //vostès ;;;revelessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;revela;;(vostè) ;;;reveli;;(nosaltres) ;;;revelem;;(vosaltres) ;;;reveleu;;(vostès) ;;;revelin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;revelis;;(vostè) ;no ;;reveli;;(nosaltres) ;no ;;revelem;;(vosaltres) ;no ;;reveleu;;(vostès) ;no ;;revelin
+Indicatiu Perfet;indicatiu;;jo ;;;he revelat;;tu ;;;has revelat;;ell //ella //vostè ;;;ha revelat;;nosaltres ;;;hem revelat;;vosaltres ;;;heu revelat;;ells //elles //vostès ;;;han revelat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig revelat;;tu ;;;vas revelat;;ell //ella //vostè ;;;va revelat;;nosaltres ;;;vam revelat;;vosaltres ;;;vau revelat;;ells //elles //vostès ;;;van revelat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia revelat;;tu ;;;havies revelat;;ell //ella //vostè ;;;havia revelat;;nosaltres ;;;havíem revelat;;vosaltres ;;;havíeu revelat;;ells //elles //vostès ;;;havien revelat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí revelat;;tu ;;;hagueres revelat;;ell //ella //vostè ;;;hagué revelat;;nosaltres ;;;haguérem revelat;;vosaltres ;;;haguéreu revelat;;ells //elles //vostès ;;;hagueren revelat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver revelat;;tu ;;;vas haver revelat;;ell //ella //vostè ;;;va haver revelat;;nosaltres ;;;vam haver revelat;;vosaltres ;;;vau haver revelat;;ells //elles //vostès ;;;van haver revelat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré revelat;;tu ;;;hauràs revelat;;ell //ella //vostè ;;;haurà revelat;;nosaltres ;;;haurem revelat;;vosaltres ;;;haureu revelat;;ells //elles //vostès ;;;hauran revelat
+Condicional Perfet;condicional;;jo ;;;hauria revelat;;tu ;;;hauries revelat;;ell //ella //vostè ;;;hauria revelat;;nosaltres ;;;hauríem revelat;;vosaltres ;;;hauríeu revelat;;ells //elles //vostès ;;;haurien revelat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi revelat;;tu ;;;vagis revelat;;ell //ella //vostè ;;;vagi revelat;;nosaltres ;;;vàgim revelat;;vosaltres ;;;vàgiu revelat;;ells //elles //vostès ;;;vagin revelat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi revelat;;tu ;;;hagis revelat;;ell //ella //vostè ;;;hagi revelat;;nosaltres ;;;hàgim revelat;;vosaltres ;;;hàgiu revelat;;ells //elles //vostès ;;;hagin revelat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes revelat;;tu ;;;haguessis revelat;;ell //ella //vostè ;;;hagués revelat;;nosaltres ;;;haguéssim revelat;;vosaltres ;;;haguéssiu revelat;;ells //elles //vostès ;;;haguessin revelat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver revelat;;tu ;;;vagis haver revelat;;ell //ella //vostè ;;;vagi haver revelat;;nosaltres ;;;vàgim haver revelat;;vosaltres ;;;vàgiu haver revelat;;ells //elles //vostès ;;;vagin haver revelat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;revelar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;revel;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

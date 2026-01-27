@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;entraverais;;tu ;;;entraverais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais entravé;;tu ;;;aurais entravé;;il/elle/on ;;;aurait entravé;;nous ;;;aurions entravé;;vous ;;;auriez entravé;;ils/elles ;;;auraient entravé
 Impératif Présent;impératif;;;;;;;(tu) ;;;entrave;;;;;;;(nous) ;;;entravons;;(vous) ;;;entravez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie entravé;;;;;;;(nous) ;;;ayons entravé;;(vous) ;;;ayez entravé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;entrave pas;;;;;;;(nous) ;n';;entravons pas;;(vous) ;n';;entravez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;entrave pas ;;;;;;;(nous) ;n';;entravons pas ;;(vous) ;n';;entravez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas entravé;;;;;;;(nous) ;n';;ayons pas entravé;;(vous) ;n';;ayez pas entravé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;entraver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

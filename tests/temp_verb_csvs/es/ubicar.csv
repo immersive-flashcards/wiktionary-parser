@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;ubicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;ubicando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;ubicado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;ubico;;tú ;;;ubicas;;él //ella //usted ;;;ubica;;nosotros //nosotras ;;;ubicamos;;vosotros //vosotras ;;;ubicáis;;ellos //ellas //ustedes ;;;ubican;;vos ;;;ubicás
+Indicativo Imperfecto;indicativo;;yo ;;;ubicaba;;tú //vos ;;;ubicabas;;él //ella //usted ;;;ubicaba;;nosotros //nosotras ;;;ubicábamos;;vosotros //vosotras ;;;ubicabais;;ellos //ellas //ustedes ;;;ubicaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;ubiqué;;tú //vos ;;;ubicaste;;él //ella //usted ;;;ubicó;;nosotros //nosotras ;;;ubicamos;;vosotros //vosotras ;;;ubicasteis;;ellos //ellas //ustedes ;;;ubicaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;ubicaré;;tú //vos ;;;ubicarás;;él //ella //usted ;;;ubicará;;nosotros //nosotras ;;;ubicaremos;;vosotros //vosotras ;;;ubicaréis;;ellos //ellas //ustedes ;;;ubicarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he ubicado;;tú //vos ;;;has ubicado;;él //ella //usted ;;;ha ubicado;;nosotros //nosotras ;;;hemos ubicado;;vosotros //vosotras ;;;habéis ubicado;;ellos //ellas //ustedes ;;;han ubicado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había ubicado;;tú //vos ;;;habías ubicado;;él //ella //usted ;;;había ubicado;;nosotros //nosotras ;;;habíamos ubicado;;vosotros //vosotras ;;;habíais ubicado;;ellos //ellas //ustedes ;;;habían ubicado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube ubicado;;tú //vos ;;;hubiste ubicado;;él //ella //usted ;;;hubo ubicado;;nosotros //nosotras ;;;hubimos ubicado;;vosotros //vosotras ;;;hubisteis ubicado;;ellos //ellas //ustedes ;;;hubieron ubicado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré ubicado;;tú //vos ;;;habrás ubicado;;él //ella //usted ;;;habrá ubicado;;nosotros //nosotras ;;;habremos ubicado;;vosotros //vosotras ;;;habréis ubicado;;ellos //ellas //ustedes ;;;habrán ubicado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;ubique;;tú //vos ;;;ubiques;;él //ella //usted ;;;ubique;;nosotros //nosotras ;;;ubiquemos;;vosotros //vosotras ;;;ubiquéis;;ellos //ellas //ustedes ;;;ubiquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;ubicara / ubicase;;tú //vos ;;;ubicaras / ubicases;;él //ella //usted ;;;ubicara / ubicase;;nosotros //nosotras ;;;ubicáramos / ubicásemos;;vosotros //vosotras ;;;ubicarais / ubicaseis;;ellos //ellas //ustedes ;;;ubicaran / ubicasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;ubicare;;tú //vos ;;;ubicares;;él //ella //usted ;;;ubicare;;nosotros //nosotras ;;;ubicáremos;;vosotros //vosotras ;;;ubicareis;;ellos //ellas //ustedes ;;;ubicaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya ubicado;;tú //vos ;;;hayas ubicado;;él //ella //usted ;;;haya ubicado;;nosotros //nosotras ;;;hayamos ubicado;;vosotros //vosotras ;;;hayáis ubicado;;ellos //ellas //ustedes ;;;hayan ubicado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera ubicado / hubiese ubicado;;tú //vos ;;;hubieras ubicado / hubieses ubicado;;él //ella //usted ;;;hubiera ubicado / hubiese ubicado;;nosotros //nosotras ;;;hubiéramos ubicado / hubiésemos ubicado;;vosotros //vosotras ;;;hubierais ubicado / hubieseis ubicado;;ellos //ellas //ustedes ;;;hubieran ubicado / hubiesen ubicado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere ubicado;;tú //vos ;;;hubieres ubicado;;él //ella //usted ;;;hubiere ubicado;;nosotros //nosotras ;;;hubiéremos ubicado;;vosotros //vosotras ;;;hubiereis ubicado;;ellos //ellas //ustedes ;;;hubieren ubicado;;;;;
+Condicional;condicional;;yo ;;;ubicaría;;tú //vos ;;;ubicarías;;él //ella //usted ;;;ubicaría;;nosotros //nosotras ;;;ubicaríamos;;vosotros //vosotras ;;;ubicaríais;;ellos //ellas //ustedes ;;;ubicarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría ubicado;;tú //vos ;;;habrías ubicado;;él //ella //usted ;;;habría ubicado;;nosotros //nosotras ;;;habríamos ubicado;;vosotros //vosotras ;;;habríais ubicado;;ellos //ellas //ustedes ;;;habrían ubicado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;ubica;;(usted) ;;;ubique;;(nosotros) //(nosotras) ;;;ubiquemos;;(vosotros) //(vosotras) ;;;ubicad;;(ustedes) ;;;ubiquen;;(vos) ;;;ubicá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;ubiques;;(usted) ;no ;;ubique;;(nosotros) //(nosotras) ;no ;;ubiquemos;;(vosotros) //(vosotras) ;no ;;ubiquéis;;(ustedes) ;no ;;ubiquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;ubicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;ubic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;implementar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;implementant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;implementat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;implemento;;tu ;;;implementes;;ell //ella //vostè ;;;implementa;;nosaltres ;;;implementem;;vosaltres ;;;implementeu;;ells //elles //vostès ;;;implementen
+Indicatiu Imperfet;indicativo;;jo ;;;implementava;;tu ;;;implementaves;;ell //ella //vostè ;;;implementava;;nosaltres ;;;implementàvem;;vosaltres ;;;implementàveu;;ells //elles //vostès ;;;implementaven
+Indicatiu Futur;indicativo;;jo ;;;implementaré;;tu ;;;implementaràs;;ell //ella //vostè ;;;implementarà;;nosaltres ;;;implementarem;;vosaltres ;;;implementareu;;ells //elles //vostès ;;;implementaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;implementí;;tu ;;;implementares;;ell //ella //vostè ;;;implementà;;nosaltres ;;;implementàrem;;vosaltres ;;;implementàreu;;ells //elles //vostès ;;;implementaren
+Condicional;condicional;;jo ;;;implementaria;;tu ;;;implementaries;;ell //ella //vostè ;;;implementaria;;nosaltres ;;;implementaríem;;vosaltres ;;;implementaríeu;;ells //elles //vostès ;;;implementarien
+Subjuntiu Present;subjuntiu;;jo ;;;implementi;;tu ;;;implementis;;ell //ella //vostè ;;;implementi;;nosaltres ;;;implementem;;vosaltres ;;;implementeu;;ells //elles //vostès ;;;implementin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;implementés;;tu ;;;implementessis;;ell //ella //vostè ;;;implementés;;nosaltres ;;;implementéssim;;vosaltres ;;;implementéssiu;;ells //elles //vostès ;;;implementessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;implementa;;(vostè) ;;;implementi;;(nosaltres) ;;;implementem;;(vosaltres) ;;;implementeu;;(vostès) ;;;implementin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;implementis;;(vostè) ;no ;;implementi;;(nosaltres) ;no ;;implementem;;(vosaltres) ;no ;;implementeu;;(vostès) ;no ;;implementin
+Indicatiu Perfet;indicatiu;;jo ;;;he implementat;;tu ;;;has implementat;;ell //ella //vostè ;;;ha implementat;;nosaltres ;;;hem implementat;;vosaltres ;;;heu implementat;;ells //elles //vostès ;;;han implementat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig implementat;;tu ;;;vas implementat;;ell //ella //vostè ;;;va implementat;;nosaltres ;;;vam implementat;;vosaltres ;;;vau implementat;;ells //elles //vostès ;;;van implementat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia implementat;;tu ;;;havies implementat;;ell //ella //vostè ;;;havia implementat;;nosaltres ;;;havíem implementat;;vosaltres ;;;havíeu implementat;;ells //elles //vostès ;;;havien implementat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí implementat;;tu ;;;hagueres implementat;;ell //ella //vostè ;;;hagué implementat;;nosaltres ;;;haguérem implementat;;vosaltres ;;;haguéreu implementat;;ells //elles //vostès ;;;hagueren implementat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver implementat;;tu ;;;vas haver implementat;;ell //ella //vostè ;;;va haver implementat;;nosaltres ;;;vam haver implementat;;vosaltres ;;;vau haver implementat;;ells //elles //vostès ;;;van haver implementat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré implementat;;tu ;;;hauràs implementat;;ell //ella //vostè ;;;haurà implementat;;nosaltres ;;;haurem implementat;;vosaltres ;;;haureu implementat;;ells //elles //vostès ;;;hauran implementat
+Condicional Perfet;condicional;;jo ;;;hauria implementat;;tu ;;;hauries implementat;;ell //ella //vostè ;;;hauria implementat;;nosaltres ;;;hauríem implementat;;vosaltres ;;;hauríeu implementat;;ells //elles //vostès ;;;haurien implementat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi implementat;;tu ;;;vagis implementat;;ell //ella //vostè ;;;vagi implementat;;nosaltres ;;;vàgim implementat;;vosaltres ;;;vàgiu implementat;;ells //elles //vostès ;;;vagin implementat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi implementat;;tu ;;;hagis implementat;;ell //ella //vostè ;;;hagi implementat;;nosaltres ;;;hàgim implementat;;vosaltres ;;;hàgiu implementat;;ells //elles //vostès ;;;hagin implementat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes implementat;;tu ;;;haguessis implementat;;ell //ella //vostè ;;;hagués implementat;;nosaltres ;;;haguéssim implementat;;vosaltres ;;;haguéssiu implementat;;ells //elles //vostès ;;;haguessin implementat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver implementat;;tu ;;;vagis haver implementat;;ell //ella //vostè ;;;vagi haver implementat;;nosaltres ;;;vàgim haver implementat;;vosaltres ;;;vàgiu haver implementat;;ells //elles //vostès ;;;vagin haver implementat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;implementar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;implement;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;écrirais;;tu ;;;écrirais;;il/elle/on ;;;écr
 Conditionnel Passé;conditionnel;;j’;;;aurais écrit;;tu ;;;aurais écrit;;il/elle/on ;;;aurait écrit;;nous ;;;aurions écrit;;vous ;;;auriez écrit;;ils/elles ;;;auraient écrit
 Impératif Présent;impératif;;;;;;;(tu) ;;;écris;;;;;;;(nous) ;;;écrivons;;(vous) ;;;écrivez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie écrit;;;;;;;(nous) ;;;ayons écrit;;(vous) ;;;ayez écrit;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;écris pas;;;;;;;(nous) ;n';;écrivons pas;;(vous) ;n';;écrivez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;écris pas ;;;;;;;(nous) ;n';;écrivons pas ;;(vous) ;n';;écrivez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas écrit;;;;;;;(nous) ;n';;ayons pas écrit;;(vous) ;n';;ayez pas écrit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;écrire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

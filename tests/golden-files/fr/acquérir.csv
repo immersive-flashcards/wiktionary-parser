@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;acquerrais;;tu ;;;acquerrais;;il/elle/on ;;;ac
 Conditionnel Passé;conditionnel;;j’;;;aurais acquis;;tu ;;;aurais acquis;;il/elle/on ;;;aurait acquis;;nous ;;;aurions acquis;;vous ;;;auriez acquis;;ils/elles ;;;auraient acquis
 Impératif Présent;impératif;;;;;;;(tu) ;;;acquiers;;;;;;;(nous) ;;;acquérons;;(vous) ;;;acquérez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie acquis;;;;;;;(nous) ;;;ayons acquis;;(vous) ;;;ayez acquis;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;acquiers pas;;;;;;;(nous) ;n';;acquérons pas;;(vous) ;n';;acquérez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;acquiers pas ;;;;;;;(nous) ;n';;acquérons pas ;;(vous) ;n';;acquérez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas acquis;;;;;;;(nous) ;n';;ayons pas acquis;;(vous) ;n';;ayez pas acquis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;acquérir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

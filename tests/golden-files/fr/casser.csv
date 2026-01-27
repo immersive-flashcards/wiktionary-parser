@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;casserais;;tu ;;;casserais;;il/elle/on ;;;casse
 Conditionnel Passé;conditionnel;;j’;;;aurais cassé;;tu ;;;aurais cassé;;il/elle/on ;;;aurait cassé;;nous ;;;aurions cassé;;vous ;;;auriez cassé;;ils/elles ;;;auraient cassé
 Impératif Présent;impératif;;;;;;;(tu) ;;;casse;;;;;;;(nous) ;;;cassons;;(vous) ;;;cassez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie cassé;;;;;;;(nous) ;;;ayons cassé;;(vous) ;;;ayez cassé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;casse pas;;;;;;;(nous) ;ne ;;cassons pas;;(vous) ;ne ;;cassez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;casse pas ;;;;;;;(nous) ;ne ;;cassons pas ;;(vous) ;ne ;;cassez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas cassé;;;;;;;(nous) ;n';;ayons pas cassé;;(vous) ;n';;ayez pas cassé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;casser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

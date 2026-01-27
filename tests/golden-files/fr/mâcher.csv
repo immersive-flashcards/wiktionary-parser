@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;mâcherais;;tu ;;;mâcherais;;il/elle/on ;;;mâ
 Conditionnel Passé;conditionnel;;j’;;;aurais mâché;;tu ;;;aurais mâché;;il/elle/on ;;;aurait mâché;;nous ;;;aurions mâché;;vous ;;;auriez mâché;;ils/elles ;;;auraient mâché
 Impératif Présent;impératif;;;;;;;(tu) ;;;mâche;;;;;;;(nous) ;;;mâchons;;(vous) ;;;mâchez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie mâché;;;;;;;(nous) ;;;ayons mâché;;(vous) ;;;ayez mâché;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mâche pas;;;;;;;(nous) ;ne ;;mâchons pas;;(vous) ;ne ;;mâchez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mâche pas ;;;;;;;(nous) ;ne ;;mâchons pas ;;(vous) ;ne ;;mâchez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas mâché;;;;;;;(nous) ;n';;ayons pas mâché;;(vous) ;n';;ayez pas mâché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;mâcher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

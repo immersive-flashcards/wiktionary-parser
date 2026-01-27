@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;partagerais;;tu ;;;partagerais;;il/elle/on ;;;p
 Conditionnel Passé;conditionnel;;j’;;;aurais partagé;;tu ;;;aurais partagé;;il/elle/on ;;;aurait partagé;;nous ;;;aurions partagé;;vous ;;;auriez partagé;;ils/elles ;;;auraient partagé
 Impératif Présent;impératif;;;;;;;(tu) ;;;partage;;;;;;;(nous) ;;;partageons;;(vous) ;;;partagez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie partagé;;;;;;;(nous) ;;;ayons partagé;;(vous) ;;;ayez partagé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;partage pas;;;;;;;(nous) ;ne ;;partageons pas;;(vous) ;ne ;;partagez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;partage pas ;;;;;;;(nous) ;ne ;;partageons pas ;;(vous) ;ne ;;partagez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas partagé;;;;;;;(nous) ;n';;ayons pas partagé;;(vous) ;n';;ayez pas partagé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;partager;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

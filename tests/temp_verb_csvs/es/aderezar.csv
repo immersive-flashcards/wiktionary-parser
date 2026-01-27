@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;aderezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;aderezando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;aderezado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;aderezo;;tú ;;;aderezas;;él //ella //usted ;;;adereza;;nosotros //nosotras ;;;aderezamos;;vosotros //vosotras ;;;aderezáis;;ellos //ellas //ustedes ;;;aderezan;;vos ;;;aderezás
+Indicativo Imperfecto;indicativo;;yo ;;;aderezaba;;tú //vos ;;;aderezabas;;él //ella //usted ;;;aderezaba;;nosotros //nosotras ;;;aderezábamos;;vosotros //vosotras ;;;aderezabais;;ellos //ellas //ustedes ;;;aderezaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;aderecé;;tú //vos ;;;aderezaste;;él //ella //usted ;;;aderezó;;nosotros //nosotras ;;;aderezamos;;vosotros //vosotras ;;;aderezasteis;;ellos //ellas //ustedes ;;;aderezaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;aderezaré;;tú //vos ;;;aderezarás;;él //ella //usted ;;;aderezará;;nosotros //nosotras ;;;aderezaremos;;vosotros //vosotras ;;;aderezaréis;;ellos //ellas //ustedes ;;;aderezarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he aderezado;;tú //vos ;;;has aderezado;;él //ella //usted ;;;ha aderezado;;nosotros //nosotras ;;;hemos aderezado;;vosotros //vosotras ;;;habéis aderezado;;ellos //ellas //ustedes ;;;han aderezado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había aderezado;;tú //vos ;;;habías aderezado;;él //ella //usted ;;;había aderezado;;nosotros //nosotras ;;;habíamos aderezado;;vosotros //vosotras ;;;habíais aderezado;;ellos //ellas //ustedes ;;;habían aderezado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube aderezado;;tú //vos ;;;hubiste aderezado;;él //ella //usted ;;;hubo aderezado;;nosotros //nosotras ;;;hubimos aderezado;;vosotros //vosotras ;;;hubisteis aderezado;;ellos //ellas //ustedes ;;;hubieron aderezado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré aderezado;;tú //vos ;;;habrás aderezado;;él //ella //usted ;;;habrá aderezado;;nosotros //nosotras ;;;habremos aderezado;;vosotros //vosotras ;;;habréis aderezado;;ellos //ellas //ustedes ;;;habrán aderezado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;aderece;;tú //vos ;;;adereces;;él //ella //usted ;;;aderece;;nosotros //nosotras ;;;aderecemos;;vosotros //vosotras ;;;aderecéis;;ellos //ellas //ustedes ;;;aderecen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;aderezara / aderezase;;tú //vos ;;;aderezaras / aderezases;;él //ella //usted ;;;aderezara / aderezase;;nosotros //nosotras ;;;aderezáramos / aderezásemos;;vosotros //vosotras ;;;aderezarais / aderezaseis;;ellos //ellas //ustedes ;;;aderezaran / aderezasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;aderezare;;tú //vos ;;;aderezares;;él //ella //usted ;;;aderezare;;nosotros //nosotras ;;;aderezáremos;;vosotros //vosotras ;;;aderezareis;;ellos //ellas //ustedes ;;;aderezaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya aderezado;;tú //vos ;;;hayas aderezado;;él //ella //usted ;;;haya aderezado;;nosotros //nosotras ;;;hayamos aderezado;;vosotros //vosotras ;;;hayáis aderezado;;ellos //ellas //ustedes ;;;hayan aderezado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera aderezado / hubiese aderezado;;tú //vos ;;;hubieras aderezado / hubieses aderezado;;él //ella //usted ;;;hubiera aderezado / hubiese aderezado;;nosotros //nosotras ;;;hubiéramos aderezado / hubiésemos aderezado;;vosotros //vosotras ;;;hubierais aderezado / hubieseis aderezado;;ellos //ellas //ustedes ;;;hubieran aderezado / hubiesen aderezado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere aderezado;;tú //vos ;;;hubieres aderezado;;él //ella //usted ;;;hubiere aderezado;;nosotros //nosotras ;;;hubiéremos aderezado;;vosotros //vosotras ;;;hubiereis aderezado;;ellos //ellas //ustedes ;;;hubieren aderezado;;;;;
+Condicional;condicional;;yo ;;;aderezaría;;tú //vos ;;;aderezarías;;él //ella //usted ;;;aderezaría;;nosotros //nosotras ;;;aderezaríamos;;vosotros //vosotras ;;;aderezaríais;;ellos //ellas //ustedes ;;;aderezarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría aderezado;;tú //vos ;;;habrías aderezado;;él //ella //usted ;;;habría aderezado;;nosotros //nosotras ;;;habríamos aderezado;;vosotros //vosotras ;;;habríais aderezado;;ellos //ellas //ustedes ;;;habrían aderezado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adereza;;(usted) ;;;aderece;;(nosotros) //(nosotras) ;;;aderecemos;;(vosotros) //(vosotras) ;;;aderezad;;(ustedes) ;;;aderecen;;(vos) ;;;aderezá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adereces;;(usted) ;no ;;aderece;;(nosotros) //(nosotras) ;no ;;aderecemos;;(vosotros) //(vosotras) ;no ;;aderecéis;;(ustedes) ;no ;;aderecen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;aderezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;aderez;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

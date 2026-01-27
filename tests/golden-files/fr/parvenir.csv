@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;parviendrais;;tu ;;;parviendrais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;je ;;;serais parvenu;;tu ;;;serais parvenu;;il/elle/on ;;;serait parvenu;;nous ;;;serions parvenus;;vous ;;;seriez parvenus;;ils/elles ;;;seraient parvenus
 Impératif Présent;impératif;;;;;;;(tu) ;;;parviens;;;;;;;(nous) ;;;parvenons;;(vous) ;;;parvenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois parvenu;;;;;;;(nous) ;;;soyons parvenus;;(vous) ;;;soyez parvenus;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;parviens pas;;;;;;;(nous) ;ne ;;parvenons pas;;(vous) ;ne ;;parvenez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;parviens pas ;;;;;;;(nous) ;ne ;;parvenons pas ;;(vous) ;ne ;;parvenez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas parvenu;;;;;;;(nous) ;ne ;;soyons pas parvenus;;(vous) ;ne ;;soyez pas parvenus;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;parvenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

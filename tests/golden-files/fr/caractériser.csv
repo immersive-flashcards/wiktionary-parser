@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;caractériserais;;tu ;;;caractériserais;;il/el
 Conditionnel Passé;conditionnel;;j’;;;aurais caractérisé;;tu ;;;aurais caractérisé;;il/elle/on ;;;aurait caractérisé;;nous ;;;aurions caractérisé;;vous ;;;auriez caractérisé;;ils/elles ;;;auraient caractérisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;caractérise;;;;;;;(nous) ;;;caractérisons;;(vous) ;;;caractérisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie caractérisé;;;;;;;(nous) ;;;ayons caractérisé;;(vous) ;;;ayez caractérisé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;caractérise pas;;;;;;;(nous) ;ne ;;caractérisons pas;;(vous) ;ne ;;caractérisez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;caractérise pas ;;;;;;;(nous) ;ne ;;caractérisons pas ;;(vous) ;ne ;;caractérisez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas caractérisé;;;;;;;(nous) ;n';;ayons pas caractérisé;;(vous) ;n';;ayez pas caractérisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;caractériser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

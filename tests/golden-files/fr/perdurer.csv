@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;perdurerais;;tu ;;;perdurerais;;il/elle/on ;;;p
 Conditionnel Passé;conditionnel;;j’;;;aurais perduré;;tu ;;;aurais perduré;;il/elle/on ;;;aurait perduré;;nous ;;;aurions perduré;;vous ;;;auriez perduré;;ils/elles ;;;auraient perduré
 Impératif Présent;impératif;;;;;;;(tu) ;;;perdure;;;;;;;(nous) ;;;perdurons;;(vous) ;;;perdurez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie perduré;;;;;;;(nous) ;;;ayons perduré;;(vous) ;;;ayez perduré;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;perdure pas;;;;;;;(nous) ;ne ;;perdurons pas;;(vous) ;ne ;;perdurez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;perdure pas ;;;;;;;(nous) ;ne ;;perdurons pas ;;(vous) ;ne ;;perdurez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas perduré;;;;;;;(nous) ;n';;ayons pas perduré;;(vous) ;n';;ayez pas perduré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;perdurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

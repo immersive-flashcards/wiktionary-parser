@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;rasinerais;;tu ;;;rasinerais;;il/elle/on ;;;ras
 Conditionnel Passé;conditionnel;;j’;;;aurais rasiné;;tu ;;;aurais rasiné;;il/elle/on ;;;aurait rasiné;;nous ;;;aurions rasiné;;vous ;;;auriez rasiné;;ils/elles ;;;auraient rasiné
 Impératif Présent;impératif;;;;;;;(tu) ;;;rasine;;;;;;;(nous) ;;;rasinons;;(vous) ;;;rasinez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie rasiné;;;;;;;(nous) ;;;ayons rasiné;;(vous) ;;;ayez rasiné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rasine pas;;;;;;;(nous) ;ne ;;rasinons pas;;(vous) ;ne ;;rasinez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rasine pas ;;;;;;;(nous) ;ne ;;rasinons pas ;;(vous) ;ne ;;rasinez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas rasiné;;;;;;;(nous) ;n';;ayons pas rasiné;;(vous) ;n';;ayez pas rasiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rasiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

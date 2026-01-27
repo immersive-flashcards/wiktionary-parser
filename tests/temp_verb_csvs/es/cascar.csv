@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;cascar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;cascando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;cascado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;casco;;tú ;;;cascas;;él //ella //usted ;;;casca;;nosotros //nosotras ;;;cascamos;;vosotros //vosotras ;;;cascáis;;ellos //ellas //ustedes ;;;cascan;;vos ;;;cascás
+Indicativo Imperfecto;indicativo;;yo ;;;cascaba;;tú //vos ;;;cascabas;;él //ella //usted ;;;cascaba;;nosotros //nosotras ;;;cascábamos;;vosotros //vosotras ;;;cascabais;;ellos //ellas //ustedes ;;;cascaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;casqué;;tú //vos ;;;cascaste;;él //ella //usted ;;;cascó;;nosotros //nosotras ;;;cascamos;;vosotros //vosotras ;;;cascasteis;;ellos //ellas //ustedes ;;;cascaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;cascaré;;tú //vos ;;;cascarás;;él //ella //usted ;;;cascará;;nosotros //nosotras ;;;cascaremos;;vosotros //vosotras ;;;cascaréis;;ellos //ellas //ustedes ;;;cascarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he cascado;;tú //vos ;;;has cascado;;él //ella //usted ;;;ha cascado;;nosotros //nosotras ;;;hemos cascado;;vosotros //vosotras ;;;habéis cascado;;ellos //ellas //ustedes ;;;han cascado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había cascado;;tú //vos ;;;habías cascado;;él //ella //usted ;;;había cascado;;nosotros //nosotras ;;;habíamos cascado;;vosotros //vosotras ;;;habíais cascado;;ellos //ellas //ustedes ;;;habían cascado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube cascado;;tú //vos ;;;hubiste cascado;;él //ella //usted ;;;hubo cascado;;nosotros //nosotras ;;;hubimos cascado;;vosotros //vosotras ;;;hubisteis cascado;;ellos //ellas //ustedes ;;;hubieron cascado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré cascado;;tú //vos ;;;habrás cascado;;él //ella //usted ;;;habrá cascado;;nosotros //nosotras ;;;habremos cascado;;vosotros //vosotras ;;;habréis cascado;;ellos //ellas //ustedes ;;;habrán cascado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;casque;;tú //vos ;;;casques;;él //ella //usted ;;;casque;;nosotros //nosotras ;;;casquemos;;vosotros //vosotras ;;;casquéis;;ellos //ellas //ustedes ;;;casquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;cascara / cascase;;tú //vos ;;;cascaras / cascases;;él //ella //usted ;;;cascara / cascase;;nosotros //nosotras ;;;cascáramos / cascásemos;;vosotros //vosotras ;;;cascarais / cascaseis;;ellos //ellas //ustedes ;;;cascaran / cascasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;cascare;;tú //vos ;;;cascares;;él //ella //usted ;;;cascare;;nosotros //nosotras ;;;cascáremos;;vosotros //vosotras ;;;cascareis;;ellos //ellas //ustedes ;;;cascaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya cascado;;tú //vos ;;;hayas cascado;;él //ella //usted ;;;haya cascado;;nosotros //nosotras ;;;hayamos cascado;;vosotros //vosotras ;;;hayáis cascado;;ellos //ellas //ustedes ;;;hayan cascado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera cascado / hubiese cascado;;tú //vos ;;;hubieras cascado / hubieses cascado;;él //ella //usted ;;;hubiera cascado / hubiese cascado;;nosotros //nosotras ;;;hubiéramos cascado / hubiésemos cascado;;vosotros //vosotras ;;;hubierais cascado / hubieseis cascado;;ellos //ellas //ustedes ;;;hubieran cascado / hubiesen cascado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere cascado;;tú //vos ;;;hubieres cascado;;él //ella //usted ;;;hubiere cascado;;nosotros //nosotras ;;;hubiéremos cascado;;vosotros //vosotras ;;;hubiereis cascado;;ellos //ellas //ustedes ;;;hubieren cascado;;;;;
+Condicional;condicional;;yo ;;;cascaría;;tú //vos ;;;cascarías;;él //ella //usted ;;;cascaría;;nosotros //nosotras ;;;cascaríamos;;vosotros //vosotras ;;;cascaríais;;ellos //ellas //ustedes ;;;cascarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría cascado;;tú //vos ;;;habrías cascado;;él //ella //usted ;;;habría cascado;;nosotros //nosotras ;;;habríamos cascado;;vosotros //vosotras ;;;habríais cascado;;ellos //ellas //ustedes ;;;habrían cascado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;casca;;(usted) ;;;casque;;(nosotros) //(nosotras) ;;;casquemos;;(vosotros) //(vosotras) ;;;cascad;;(ustedes) ;;;casquen;;(vos) ;;;cascá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;casques;;(usted) ;no ;;casque;;(nosotros) //(nosotras) ;no ;;casquemos;;(vosotros) //(vosotras) ;no ;;casquéis;;(ustedes) ;no ;;casquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;cascar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;casc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

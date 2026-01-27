@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;déplacerais;;tu ;;;déplacerais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais déplacé;;tu ;;;aurais déplacé;;il/elle/on ;;;aurait déplacé;;nous ;;;aurions déplacé;;vous ;;;auriez déplacé;;ils/elles ;;;auraient déplacé
 Impératif Présent;impératif;;;;;;;(tu) ;;;déplace;;;;;;;(nous) ;;;déplaçons;;(vous) ;;;déplacez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie déplacé;;;;;;;(nous) ;;;ayons déplacé;;(vous) ;;;ayez déplacé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;déplace pas;;;;;;;(nous) ;ne ;;déplaçons pas;;(vous) ;ne ;;déplacez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;déplace pas ;;;;;;;(nous) ;ne ;;déplaçons pas ;;(vous) ;ne ;;déplacez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas déplacé;;;;;;;(nous) ;n';;ayons pas déplacé;;(vous) ;n';;ayez pas déplacé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;déplacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;cotizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;cotizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;cotizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;cotizo;;tú ;;;cotizas;;él //ella //usted ;;;cotiza;;nosotros //nosotras ;;;cotizamos;;vosotros //vosotras ;;;cotizáis;;ellos //ellas //ustedes ;;;cotizan;;vos ;;;cotizás
+Indicativo Imperfecto;indicativo;;yo ;;;cotizaba;;tú //vos ;;;cotizabas;;él //ella //usted ;;;cotizaba;;nosotros //nosotras ;;;cotizábamos;;vosotros //vosotras ;;;cotizabais;;ellos //ellas //ustedes ;;;cotizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;coticé;;tú //vos ;;;cotizaste;;él //ella //usted ;;;cotizó;;nosotros //nosotras ;;;cotizamos;;vosotros //vosotras ;;;cotizasteis;;ellos //ellas //ustedes ;;;cotizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;cotizaré;;tú //vos ;;;cotizarás;;él //ella //usted ;;;cotizará;;nosotros //nosotras ;;;cotizaremos;;vosotros //vosotras ;;;cotizaréis;;ellos //ellas //ustedes ;;;cotizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he cotizado;;tú //vos ;;;has cotizado;;él //ella //usted ;;;ha cotizado;;nosotros //nosotras ;;;hemos cotizado;;vosotros //vosotras ;;;habéis cotizado;;ellos //ellas //ustedes ;;;han cotizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había cotizado;;tú //vos ;;;habías cotizado;;él //ella //usted ;;;había cotizado;;nosotros //nosotras ;;;habíamos cotizado;;vosotros //vosotras ;;;habíais cotizado;;ellos //ellas //ustedes ;;;habían cotizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube cotizado;;tú //vos ;;;hubiste cotizado;;él //ella //usted ;;;hubo cotizado;;nosotros //nosotras ;;;hubimos cotizado;;vosotros //vosotras ;;;hubisteis cotizado;;ellos //ellas //ustedes ;;;hubieron cotizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré cotizado;;tú //vos ;;;habrás cotizado;;él //ella //usted ;;;habrá cotizado;;nosotros //nosotras ;;;habremos cotizado;;vosotros //vosotras ;;;habréis cotizado;;ellos //ellas //ustedes ;;;habrán cotizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;cotice;;tú //vos ;;;cotices;;él //ella //usted ;;;cotice;;nosotros //nosotras ;;;coticemos;;vosotros //vosotras ;;;coticéis;;ellos //ellas //ustedes ;;;coticen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;cotizara / cotizase;;tú //vos ;;;cotizaras / cotizases;;él //ella //usted ;;;cotizara / cotizase;;nosotros //nosotras ;;;cotizáramos / cotizásemos;;vosotros //vosotras ;;;cotizarais / cotizaseis;;ellos //ellas //ustedes ;;;cotizaran / cotizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;cotizare;;tú //vos ;;;cotizares;;él //ella //usted ;;;cotizare;;nosotros //nosotras ;;;cotizáremos;;vosotros //vosotras ;;;cotizareis;;ellos //ellas //ustedes ;;;cotizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya cotizado;;tú //vos ;;;hayas cotizado;;él //ella //usted ;;;haya cotizado;;nosotros //nosotras ;;;hayamos cotizado;;vosotros //vosotras ;;;hayáis cotizado;;ellos //ellas //ustedes ;;;hayan cotizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera cotizado / hubiese cotizado;;tú //vos ;;;hubieras cotizado / hubieses cotizado;;él //ella //usted ;;;hubiera cotizado / hubiese cotizado;;nosotros //nosotras ;;;hubiéramos cotizado / hubiésemos cotizado;;vosotros //vosotras ;;;hubierais cotizado / hubieseis cotizado;;ellos //ellas //ustedes ;;;hubieran cotizado / hubiesen cotizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere cotizado;;tú //vos ;;;hubieres cotizado;;él //ella //usted ;;;hubiere cotizado;;nosotros //nosotras ;;;hubiéremos cotizado;;vosotros //vosotras ;;;hubiereis cotizado;;ellos //ellas //ustedes ;;;hubieren cotizado;;;;;
+Condicional;condicional;;yo ;;;cotizaría;;tú //vos ;;;cotizarías;;él //ella //usted ;;;cotizaría;;nosotros //nosotras ;;;cotizaríamos;;vosotros //vosotras ;;;cotizaríais;;ellos //ellas //ustedes ;;;cotizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría cotizado;;tú //vos ;;;habrías cotizado;;él //ella //usted ;;;habría cotizado;;nosotros //nosotras ;;;habríamos cotizado;;vosotros //vosotras ;;;habríais cotizado;;ellos //ellas //ustedes ;;;habrían cotizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cotiza;;(usted) ;;;cotice;;(nosotros) //(nosotras) ;;;coticemos;;(vosotros) //(vosotras) ;;;cotizad;;(ustedes) ;;;coticen;;(vos) ;;;cotizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cotices;;(usted) ;no ;;cotice;;(nosotros) //(nosotras) ;no ;;coticemos;;(vosotros) //(vosotras) ;no ;;coticéis;;(ustedes) ;no ;;coticen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;cotizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;cotiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

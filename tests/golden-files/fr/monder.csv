@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;monderais;;tu ;;;monderais;;il/elle/on ;;;monde
 Conditionnel Passé;conditionnel;;j’;;;aurais mondé;;tu ;;;aurais mondé;;il/elle/on ;;;aurait mondé;;nous ;;;aurions mondé;;vous ;;;auriez mondé;;ils/elles ;;;auraient mondé
 Impératif Présent;impératif;;;;;;;(tu) ;;;monde;;;;;;;(nous) ;;;mondons;;(vous) ;;;mondez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie mondé;;;;;;;(nous) ;;;ayons mondé;;(vous) ;;;ayez mondé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;monde pas;;;;;;;(nous) ;ne ;;mondons pas;;(vous) ;ne ;;mondez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;monde pas ;;;;;;;(nous) ;ne ;;mondons pas ;;(vous) ;ne ;;mondez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas mondé;;;;;;;(nous) ;n';;ayons pas mondé;;(vous) ;n';;ayez pas mondé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;monder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

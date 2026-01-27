@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;téléchargerais;;tu ;;;téléchargerais;;il/el
 Conditionnel Passé;conditionnel;;j’;;;aurais téléchargé;;tu ;;;aurais téléchargé;;il/elle/on ;;;aurait téléchargé;;nous ;;;aurions téléchargé;;vous ;;;auriez téléchargé;;ils/elles ;;;auraient téléchargé
 Impératif Présent;impératif;;;;;;;(tu) ;;;télécharge;;;;;;;(nous) ;;;téléchargeons;;(vous) ;;;téléchargez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie téléchargé;;;;;;;(nous) ;;;ayons téléchargé;;(vous) ;;;ayez téléchargé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;télécharge pas;;;;;;;(nous) ;ne ;;téléchargeons pas;;(vous) ;ne ;;téléchargez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;télécharge pas ;;;;;;;(nous) ;ne ;;téléchargeons pas ;;(vous) ;ne ;;téléchargez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas téléchargé;;;;;;;(nous) ;n';;ayons pas téléchargé;;(vous) ;n';;ayez pas téléchargé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;télécharger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;venir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;venint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;vingut;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;vinc;;tu ;;;vens;;ell //ella //vostè ;;;ve;;nosaltres ;;;venim;;vosaltres ;;;veniu;;ells //elles //vostès ;;;venen
+Indicatiu Imperfet;indicativo;;jo ;;;venia;;tu ;;;venies;;ell //ella //vostè ;;;venia;;nosaltres ;;;veníem;;vosaltres ;;;veníeu;;ells //elles //vostès ;;;venien
+Indicatiu Futur;indicativo;;jo ;;;vindré;;tu ;;;vindràs;;ell //ella //vostè ;;;vindrà;;nosaltres ;;;vindrem;;vosaltres ;;;vindreu;;ells //elles //vostès ;;;vindran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;vinguí;;tu ;;;vingueres;;ell //ella //vostè ;;;vingué;;nosaltres ;;;vinguérem;;vosaltres ;;;vinguéreu;;ells //elles //vostès ;;;vingueren
+Condicional;condicional;;jo ;;;vindria;;tu ;;;vindries;;ell //ella //vostè ;;;vindria;;nosaltres ;;;vindríem;;vosaltres ;;;vindríeu;;ells //elles //vostès ;;;vindrien
+Subjuntiu Present;subjuntiu;;jo ;;;vingui;;tu ;;;vinguis;;ell //ella //vostè ;;;vingui;;nosaltres ;;;vinguem;;vosaltres ;;;vingueu;;ells //elles //vostès ;;;vinguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;vingués;;tu ;;;vinguessis;;ell //ella //vostè ;;;vingués;;nosaltres ;;;vinguéssim;;vosaltres ;;;vinguéssiu;;ells //elles //vostès ;;;vinguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;vine;;(vostè) ;;;vingui;;(nosaltres) ;;;vinguem;;(vosaltres) ;;;veniu;;(vostès) ;;;vinguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;vinguis;;(vostè) ;no ;;vingui;;(nosaltres) ;no ;;vinguem;;(vosaltres) ;no ;;vingueu;;(vostès) ;no ;;vinguin
+Indicatiu Perfet;indicatiu;;jo ;;;he vingut;;tu ;;;has vingut;;ell //ella //vostè ;;;ha vingut;;nosaltres ;;;hem vingut;;vosaltres ;;;heu vingut;;ells //elles //vostès ;;;han vingut
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig vingut;;tu ;;;vas vingut;;ell //ella //vostè ;;;va vingut;;nosaltres ;;;vam vingut;;vosaltres ;;;vau vingut;;ells //elles //vostès ;;;van vingut
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia vingut;;tu ;;;havies vingut;;ell //ella //vostè ;;;havia vingut;;nosaltres ;;;havíem vingut;;vosaltres ;;;havíeu vingut;;ells //elles //vostès ;;;havien vingut
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí vingut;;tu ;;;hagueres vingut;;ell //ella //vostè ;;;hagué vingut;;nosaltres ;;;haguérem vingut;;vosaltres ;;;haguéreu vingut;;ells //elles //vostès ;;;hagueren vingut
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver vingut;;tu ;;;vas haver vingut;;ell //ella //vostè ;;;va haver vingut;;nosaltres ;;;vam haver vingut;;vosaltres ;;;vau haver vingut;;ells //elles //vostès ;;;van haver vingut
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré vingut;;tu ;;;hauràs vingut;;ell //ella //vostè ;;;haurà vingut;;nosaltres ;;;haurem vingut;;vosaltres ;;;haureu vingut;;ells //elles //vostès ;;;hauran vingut
+Condicional Perfet;condicional;;jo ;;;hauria vingut;;tu ;;;hauries vingut;;ell //ella //vostè ;;;hauria vingut;;nosaltres ;;;hauríem vingut;;vosaltres ;;;hauríeu vingut;;ells //elles //vostès ;;;haurien vingut
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi vingut;;tu ;;;vagis vingut;;ell //ella //vostè ;;;vagi vingut;;nosaltres ;;;vàgim vingut;;vosaltres ;;;vàgiu vingut;;ells //elles //vostès ;;;vagin vingut
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi vingut;;tu ;;;hagis vingut;;ell //ella //vostè ;;;hagi vingut;;nosaltres ;;;hàgim vingut;;vosaltres ;;;hàgiu vingut;;ells //elles //vostès ;;;hagin vingut
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes vingut;;tu ;;;haguessis vingut;;ell //ella //vostè ;;;hagués vingut;;nosaltres ;;;haguéssim vingut;;vosaltres ;;;haguéssiu vingut;;ells //elles //vostès ;;;haguessin vingut
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver vingut;;tu ;;;vagis haver vingut;;ell //ella //vostè ;;;vagi haver vingut;;nosaltres ;;;vàgim haver vingut;;vosaltres ;;;vàgiu haver vingut;;ells //elles //vostès ;;;vagin haver vingut
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;venir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;ven;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

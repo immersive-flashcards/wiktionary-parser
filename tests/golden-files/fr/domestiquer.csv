@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;domestiquerais;;tu ;;;domestiquerais;;il/elle/o
 Conditionnel Passé;conditionnel;;j’;;;aurais domestiqué;;tu ;;;aurais domestiqué;;il/elle/on ;;;aurait domestiqué;;nous ;;;aurions domestiqué;;vous ;;;auriez domestiqué;;ils/elles ;;;auraient domestiqué
 Impératif Présent;impératif;;;;;;;(tu) ;;;domestique;;;;;;;(nous) ;;;domestiquons;;(vous) ;;;domestiquez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie domestiqué;;;;;;;(nous) ;;;ayons domestiqué;;(vous) ;;;ayez domestiqué;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;domestique pas;;;;;;;(nous) ;ne ;;domestiquons pas;;(vous) ;ne ;;domestiquez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;domestique pas ;;;;;;;(nous) ;ne ;;domestiquons pas ;;(vous) ;ne ;;domestiquez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas domestiqué;;;;;;;(nous) ;n';;ayons pas domestiqué;;(vous) ;n';;ayez pas domestiqué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;domestiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

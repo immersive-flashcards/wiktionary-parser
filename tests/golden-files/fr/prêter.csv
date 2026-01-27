@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;prêterais;;tu ;;;prêterais;;il/elle/on ;;;pr�
 Conditionnel Passé;conditionnel;;j’;;;aurais prêté;;tu ;;;aurais prêté;;il/elle/on ;;;aurait prêté;;nous ;;;aurions prêté;;vous ;;;auriez prêté;;ils/elles ;;;auraient prêté
 Impératif Présent;impératif;;;;;;;(tu) ;;;prête;;;;;;;(nous) ;;;prêtons;;(vous) ;;;prêtez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie prêté;;;;;;;(nous) ;;;ayons prêté;;(vous) ;;;ayez prêté;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;prête pas;;;;;;;(nous) ;ne ;;prêtons pas;;(vous) ;ne ;;prêtez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;prête pas ;;;;;;;(nous) ;ne ;;prêtons pas ;;(vous) ;ne ;;prêtez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas prêté;;;;;;;(nous) ;n';;ayons pas prêté;;(vous) ;n';;ayez pas prêté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;prêter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

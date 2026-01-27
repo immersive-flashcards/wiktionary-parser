@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;finar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;finant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;finat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;fino;;tu ;;;fines;;ell //ella //vostè ;;;fina;;nosaltres ;;;finem;;vosaltres ;;;fineu;;ells //elles //vostès ;;;finen
+Indicatiu Imperfet;indicativo;;jo ;;;finava;;tu ;;;finaves;;ell //ella //vostè ;;;finava;;nosaltres ;;;finàvem;;vosaltres ;;;finàveu;;ells //elles //vostès ;;;finaven
+Indicatiu Futur;indicativo;;jo ;;;finaré;;tu ;;;finaràs;;ell //ella //vostè ;;;finarà;;nosaltres ;;;finarem;;vosaltres ;;;finareu;;ells //elles //vostès ;;;finaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;finí;;tu ;;;finares;;ell //ella //vostè ;;;finà;;nosaltres ;;;finàrem;;vosaltres ;;;finàreu;;ells //elles //vostès ;;;finaren
+Condicional;condicional;;jo ;;;finaria;;tu ;;;finaries;;ell //ella //vostè ;;;finaria;;nosaltres ;;;finaríem;;vosaltres ;;;finaríeu;;ells //elles //vostès ;;;finarien
+Subjuntiu Present;subjuntiu;;jo ;;;fini;;tu ;;;finis;;ell //ella //vostè ;;;fini;;nosaltres ;;;finem;;vosaltres ;;;fineu;;ells //elles //vostès ;;;finin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;finés;;tu ;;;finessis;;ell //ella //vostè ;;;finés;;nosaltres ;;;finéssim;;vosaltres ;;;finéssiu;;ells //elles //vostès ;;;finessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;fina;;(vostè) ;;;fini;;(nosaltres) ;;;finem;;(vosaltres) ;;;fineu;;(vostès) ;;;finin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;finis;;(vostè) ;no ;;fini;;(nosaltres) ;no ;;finem;;(vosaltres) ;no ;;fineu;;(vostès) ;no ;;finin
+Indicatiu Perfet;indicatiu;;jo ;;;he finat;;tu ;;;has finat;;ell //ella //vostè ;;;ha finat;;nosaltres ;;;hem finat;;vosaltres ;;;heu finat;;ells //elles //vostès ;;;han finat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig finat;;tu ;;;vas finat;;ell //ella //vostè ;;;va finat;;nosaltres ;;;vam finat;;vosaltres ;;;vau finat;;ells //elles //vostès ;;;van finat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia finat;;tu ;;;havies finat;;ell //ella //vostè ;;;havia finat;;nosaltres ;;;havíem finat;;vosaltres ;;;havíeu finat;;ells //elles //vostès ;;;havien finat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí finat;;tu ;;;hagueres finat;;ell //ella //vostè ;;;hagué finat;;nosaltres ;;;haguérem finat;;vosaltres ;;;haguéreu finat;;ells //elles //vostès ;;;hagueren finat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver finat;;tu ;;;vas haver finat;;ell //ella //vostè ;;;va haver finat;;nosaltres ;;;vam haver finat;;vosaltres ;;;vau haver finat;;ells //elles //vostès ;;;van haver finat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré finat;;tu ;;;hauràs finat;;ell //ella //vostè ;;;haurà finat;;nosaltres ;;;haurem finat;;vosaltres ;;;haureu finat;;ells //elles //vostès ;;;hauran finat
+Condicional Perfet;condicional;;jo ;;;hauria finat;;tu ;;;hauries finat;;ell //ella //vostè ;;;hauria finat;;nosaltres ;;;hauríem finat;;vosaltres ;;;hauríeu finat;;ells //elles //vostès ;;;haurien finat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi finat;;tu ;;;vagis finat;;ell //ella //vostè ;;;vagi finat;;nosaltres ;;;vàgim finat;;vosaltres ;;;vàgiu finat;;ells //elles //vostès ;;;vagin finat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi finat;;tu ;;;hagis finat;;ell //ella //vostè ;;;hagi finat;;nosaltres ;;;hàgim finat;;vosaltres ;;;hàgiu finat;;ells //elles //vostès ;;;hagin finat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes finat;;tu ;;;haguessis finat;;ell //ella //vostè ;;;hagués finat;;nosaltres ;;;haguéssim finat;;vosaltres ;;;haguéssiu finat;;ells //elles //vostès ;;;haguessin finat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver finat;;tu ;;;vagis haver finat;;ell //ella //vostè ;;;vagi haver finat;;nosaltres ;;;vàgim haver finat;;vosaltres ;;;vàgiu haver finat;;ells //elles //vostès ;;;vagin haver finat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;finar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;fin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

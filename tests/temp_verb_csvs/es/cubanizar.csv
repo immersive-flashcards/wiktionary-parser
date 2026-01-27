@@ -1,0 +1,30 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;cubanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;cubanizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;cubanizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;cubanizo;;tú ;;;cubanizas;;él //ella //usted ;;;cubaniza;;nosotros //nosotras ;;;cubanizamos;;vosotros //vosotras ;;;cubanizáis;;ellos //ellas //ustedes ;;;cubanizan;;vos ;;;cubanizás
+Indicativo Imperfecto;indicativo;;yo ;;;cubanizaba;;tú //vos ;;;cubanizabas;;él //ella //usted ;;;cubanizaba;;nosotros //nosotras ;;;cubanizábamos;;vosotros //vosotras ;;;cubanizabais;;ellos //ellas //ustedes ;;;cubanizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;cubanicé;;tú //vos ;;;cubanizaste;;él //ella //usted ;;;cubanizó;;nosotros //nosotras ;;;cubanizamos;;vosotros //vosotras ;;;cubanizasteis;;ellos //ellas //ustedes ;;;cubanizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;cubanizaré;;tú //vos ;;;cubanizarás;;él //ella //usted ;;;cubanizará;;nosotros //nosotras ;;;cubanizaremos;;vosotros //vosotras ;;;cubanizaréis;;ellos //ellas //ustedes ;;;cubanizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he cubanizado;;tú //vos ;;;has cubanizado;;él //ella //usted ;;;ha cubanizado;;nosotros //nosotras ;;;hemos cubanizado;;vosotros //vosotras ;;;habéis cubanizado;;ellos //ellas //ustedes ;;;han cubanizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había cubanizado;;tú //vos ;;;habías cubanizado;;él //ella //usted ;;;había cubanizado;;nosotros //nosotras ;;;habíamos cubanizado;;vosotros //vosotras ;;;habíais cubanizado;;ellos //ellas //ustedes ;;;habían cubanizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube cubanizado;;tú //vos ;;;hubiste cubanizado;;él //ella //usted ;;;hubo cubanizado;;nosotros //nosotras ;;;hubimos cubanizado;;vosotros //vosotras ;;;hubisteis cubanizado;;ellos //ellas //ustedes ;;;hubieron cubanizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré cubanizado;;tú //vos ;;;habrás cubanizado;;él //ella //usted ;;;habrá cubanizado;;nosotros //nosotras ;;;habremos cubanizado;;vosotros //vosotras ;;;habréis cubanizado;;ellos //ellas //ustedes ;;;habrán cubanizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;cubanice;;tú //vos ;;;cubanices;;él //ella //usted ;;;cubanice;;nosotros //nosotras ;;;cubanicemos;;vosotros //vosotras ;;;cubanicéis;;ellos //ellas //ustedes ;;;cubanicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;cubanizara / cubanizase;;tú //vos ;;;cubanizaras / cubanizases;;él //ella //usted ;;;cubanizara / cubanizase;;nosotros //nosotras ;;;cubanizáramos / cubanizásemos;;vosotros //vosotras ;;;cubanizarais / cubanizaseis;;ellos //ellas //ustedes ;;;cubanizaran / cubanizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;cubanizare;;tú //vos ;;;cubanizares;;él //ella //usted ;;;cubanizare;;nosotros //nosotras ;;;cubanizáremos;;vosotros //vosotras ;;;cubanizareis;;ellos //ellas //ustedes ;;;cubanizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya cubanizado;;tú //vos ;;;hayas cubanizado;;él //ella //usted ;;;haya cubanizado;;nosotros //nosotras ;;;hayamos cubanizado;;vosotros //vosotras ;;;hayáis cubanizado;;ellos //ellas //ustedes ;;;hayan cubanizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera cubanizado / hubiese cubanizado;;tú //vos ;;;hubieras cubanizado / hubieses cubanizado;;él //ella //usted ;;;hubiera cubanizado / hubiese cubanizado;;nosotros //nosotras ;;;hubiéramos cubanizado / hubiésemos cubanizado;;vosotros //vosotras ;;;hubierais cubanizado / hubieseis cubanizado;;ellos //ellas //ustedes ;;;hubieran cubanizado / hubiesen cubanizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere cubanizado;;tú //vos ;;;hubieres cubanizado;;él //ella //usted ;;;hubiere cubanizado;;nosotros //nosotras ;;;hubiéremos cubanizado;;vosotros //vosotras ;;;hubiereis cubanizado;;ellos //ellas //ustedes ;;;hubieren cubanizado;;;;;
+Condicional;condicional;;yo ;;;cubanizaría;;tú //vos ;;;cubanizarías;;él //ella //usted ;;;cubanizaría;;nosotros //nosotras ;;;cubanizaríamos;;vosotros //vosotras ;;;cubanizaríais;;ellos //ellas //ustedes ;;;cubanizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría cubanizado;;tú //vos ;;;habrías cubanizado;;él //ella //usted ;;;habría cubanizado;;nosotros //nosotras ;;;habríamos cubanizado;;vosotros //vosotras ;;;habríais cubanizado;;ellos //ellas //ustedes ;;;habrían cubanizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cubaniza;;(usted) ;;;cubanice;;(nosotros) //(nosotras) ;;;cubanicemos;;(vosotros) //(vosotras) ;;;cubanizad;;(ustedes) ;;;cubanicen;;(vos) ;;;cubanizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cubanices;;(usted) ;no ;;cubanice;;(nosotros) //(nosotras) ;no ;;cubanicemos;;(vosotros) //(vosotras) ;no ;;cubanicéis;;(ustedes) ;no ;;cubanicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;cubanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;cubaniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

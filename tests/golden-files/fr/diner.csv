@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;dinerais;;tu ;;;dinerais;;il/elle/on ;;;dinerai
 Conditionnel Passé;conditionnel;;j’;;;aurais diné;;tu ;;;aurais diné;;il/elle/on ;;;aurait diné;;nous ;;;aurions diné;;vous ;;;auriez diné;;ils/elles ;;;auraient diné
 Impératif Présent;impératif;;;;;;;(tu) ;;;dine;;;;;;;(nous) ;;;dinons;;(vous) ;;;dinez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie diné;;;;;;;(nous) ;;;ayons diné;;(vous) ;;;ayez diné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;dine pas;;;;;;;(nous) ;ne ;;dinons pas;;(vous) ;ne ;;dinez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;dine pas ;;;;;;;(nous) ;ne ;;dinons pas ;;(vous) ;ne ;;dinez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas diné;;;;;;;(nous) ;n';;ayons pas diné;;(vous) ;n';;ayez pas diné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;diner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

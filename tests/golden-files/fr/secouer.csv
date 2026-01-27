@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;secouerais;;tu ;;;secouerais;;il/elle/on ;;;sec
 Conditionnel Passé;conditionnel;;j’;;;aurais secoué;;tu ;;;aurais secoué;;il/elle/on ;;;aurait secoué;;nous ;;;aurions secoué;;vous ;;;auriez secoué;;ils/elles ;;;auraient secoué
 Impératif Présent;impératif;;;;;;;(tu) ;;;secoue;;;;;;;(nous) ;;;secouons;;(vous) ;;;secouez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie secoué;;;;;;;(nous) ;;;ayons secoué;;(vous) ;;;ayez secoué;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;secoue pas;;;;;;;(nous) ;ne ;;secouons pas;;(vous) ;ne ;;secouez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;secoue pas ;;;;;;;(nous) ;ne ;;secouons pas ;;(vous) ;ne ;;secouez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas secoué;;;;;;;(nous) ;n';;ayons pas secoué;;(vous) ;n';;ayez pas secoué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;secouer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

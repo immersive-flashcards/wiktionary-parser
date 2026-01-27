@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;poder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;podent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;pogut;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;puc;;tu ;;;pots;;ell //ella //vostè ;;;pot;;nosaltres ;;;podem;;vosaltres ;;;podeu;;ells //elles //vostès ;;;poden
+Indicatiu Imperfet;indicativo;;jo ;;;podia;;tu ;;;podies;;ell //ella //vostè ;;;podia;;nosaltres ;;;podíem;;vosaltres ;;;podíeu;;ells //elles //vostès ;;;podien
+Indicatiu Futur;indicativo;;jo ;;;podré;;tu ;;;podràs;;ell //ella //vostè ;;;podrà;;nosaltres ;;;podrem;;vosaltres ;;;podreu;;ells //elles //vostès ;;;podran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;poguí;;tu ;;;pogueres;;ell //ella //vostè ;;;pogué;;nosaltres ;;;poguérem;;vosaltres ;;;poguéreu;;ells //elles //vostès ;;;pogueren
+Condicional;condicional;;jo ;;;podria;;tu ;;;podries;;ell //ella //vostè ;;;podria;;nosaltres ;;;podríem;;vosaltres ;;;podríeu;;ells //elles //vostès ;;;podrien
+Subjuntiu Present;subjuntiu;;jo ;;;pugui;;tu ;;;puguis;;ell //ella //vostè ;;;pugui;;nosaltres ;;;puguem;;vosaltres ;;;pugueu;;ells //elles //vostès ;;;puguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;pogués;;tu ;;;poguessis;;ell //ella //vostè ;;;pogués;;nosaltres ;;;poguéssim;;vosaltres ;;;poguéssiu;;ells //elles //vostès ;;;poguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;pugues;;(vostè) ;;;pugui;;(nosaltres) ;;;puguem;;(vosaltres) ;;;pugueu;;(vostès) ;;;puguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;puguis;;(vostè) ;no ;;pugui;;(nosaltres) ;no ;;puguem;;(vosaltres) ;no ;;pugueu;;(vostès) ;no ;;puguin
+Indicatiu Perfet;indicatiu;;jo ;;;he pogut;;tu ;;;has pogut;;ell //ella //vostè ;;;ha pogut;;nosaltres ;;;hem pogut;;vosaltres ;;;heu pogut;;ells //elles //vostès ;;;han pogut
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig pogut;;tu ;;;vas pogut;;ell //ella //vostè ;;;va pogut;;nosaltres ;;;vam pogut;;vosaltres ;;;vau pogut;;ells //elles //vostès ;;;van pogut
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia pogut;;tu ;;;havies pogut;;ell //ella //vostè ;;;havia pogut;;nosaltres ;;;havíem pogut;;vosaltres ;;;havíeu pogut;;ells //elles //vostès ;;;havien pogut
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí pogut;;tu ;;;hagueres pogut;;ell //ella //vostè ;;;hagué pogut;;nosaltres ;;;haguérem pogut;;vosaltres ;;;haguéreu pogut;;ells //elles //vostès ;;;hagueren pogut
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver pogut;;tu ;;;vas haver pogut;;ell //ella //vostè ;;;va haver pogut;;nosaltres ;;;vam haver pogut;;vosaltres ;;;vau haver pogut;;ells //elles //vostès ;;;van haver pogut
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré pogut;;tu ;;;hauràs pogut;;ell //ella //vostè ;;;haurà pogut;;nosaltres ;;;haurem pogut;;vosaltres ;;;haureu pogut;;ells //elles //vostès ;;;hauran pogut
+Condicional Perfet;condicional;;jo ;;;hauria pogut;;tu ;;;hauries pogut;;ell //ella //vostè ;;;hauria pogut;;nosaltres ;;;hauríem pogut;;vosaltres ;;;hauríeu pogut;;ells //elles //vostès ;;;haurien pogut
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi pogut;;tu ;;;vagis pogut;;ell //ella //vostè ;;;vagi pogut;;nosaltres ;;;vàgim pogut;;vosaltres ;;;vàgiu pogut;;ells //elles //vostès ;;;vagin pogut
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi pogut;;tu ;;;hagis pogut;;ell //ella //vostè ;;;hagi pogut;;nosaltres ;;;hàgim pogut;;vosaltres ;;;hàgiu pogut;;ells //elles //vostès ;;;hagin pogut
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes pogut;;tu ;;;haguessis pogut;;ell //ella //vostè ;;;hagués pogut;;nosaltres ;;;haguéssim pogut;;vosaltres ;;;haguéssiu pogut;;ells //elles //vostès ;;;haguessin pogut
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver pogut;;tu ;;;vagis haver pogut;;ell //ella //vostè ;;;vagi haver pogut;;nosaltres ;;;vàgim haver pogut;;vosaltres ;;;vàgiu haver pogut;;ells //elles //vostès ;;;vagin haver pogut
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;poder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;pod;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

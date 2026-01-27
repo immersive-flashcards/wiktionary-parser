@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;accorderais;;tu ;;;accorderais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais accordé;;tu ;;;aurais accordé;;il/elle/on ;;;aurait accordé;;nous ;;;aurions accordé;;vous ;;;auriez accordé;;ils/elles ;;;auraient accordé
 Impératif Présent;impératif;;;;;;;(tu) ;;;accorde;;;;;;;(nous) ;;;accordons;;(vous) ;;;accordez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie accordé;;;;;;;(nous) ;;;ayons accordé;;(vous) ;;;ayez accordé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;accorde pas;;;;;;;(nous) ;n';;accordons pas;;(vous) ;n';;accordez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;accorde pas ;;;;;;;(nous) ;n';;accordons pas ;;(vous) ;n';;accordez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas accordé;;;;;;;(nous) ;n';;ayons pas accordé;;(vous) ;n';;ayez pas accordé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;accorder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

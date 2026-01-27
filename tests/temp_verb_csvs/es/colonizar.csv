@@ -1,0 +1,30 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;colonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;colonizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;colonizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;colonizo;;tú ;;;colonizas;;él //ella //usted ;;;coloniza;;nosotros //nosotras ;;;colonizamos;;vosotros //vosotras ;;;colonizáis;;ellos //ellas //ustedes ;;;colonizan;;vos ;;;colonizás
+Indicativo Imperfecto;indicativo;;yo ;;;colonizaba;;tú //vos ;;;colonizabas;;él //ella //usted ;;;colonizaba;;nosotros //nosotras ;;;colonizábamos;;vosotros //vosotras ;;;colonizabais;;ellos //ellas //ustedes ;;;colonizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;colonicé;;tú //vos ;;;colonizaste;;él //ella //usted ;;;colonizó;;nosotros //nosotras ;;;colonizamos;;vosotros //vosotras ;;;colonizasteis;;ellos //ellas //ustedes ;;;colonizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;colonizaré;;tú //vos ;;;colonizarás;;él //ella //usted ;;;colonizará;;nosotros //nosotras ;;;colonizaremos;;vosotros //vosotras ;;;colonizaréis;;ellos //ellas //ustedes ;;;colonizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he colonizado;;tú //vos ;;;has colonizado;;él //ella //usted ;;;ha colonizado;;nosotros //nosotras ;;;hemos colonizado;;vosotros //vosotras ;;;habéis colonizado;;ellos //ellas //ustedes ;;;han colonizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había colonizado;;tú //vos ;;;habías colonizado;;él //ella //usted ;;;había colonizado;;nosotros //nosotras ;;;habíamos colonizado;;vosotros //vosotras ;;;habíais colonizado;;ellos //ellas //ustedes ;;;habían colonizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube colonizado;;tú //vos ;;;hubiste colonizado;;él //ella //usted ;;;hubo colonizado;;nosotros //nosotras ;;;hubimos colonizado;;vosotros //vosotras ;;;hubisteis colonizado;;ellos //ellas //ustedes ;;;hubieron colonizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré colonizado;;tú //vos ;;;habrás colonizado;;él //ella //usted ;;;habrá colonizado;;nosotros //nosotras ;;;habremos colonizado;;vosotros //vosotras ;;;habréis colonizado;;ellos //ellas //ustedes ;;;habrán colonizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;colonice;;tú //vos ;;;colonices;;él //ella //usted ;;;colonice;;nosotros //nosotras ;;;colonicemos;;vosotros //vosotras ;;;colonicéis;;ellos //ellas //ustedes ;;;colonicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;colonizara / colonizase;;tú //vos ;;;colonizaras / colonizases;;él //ella //usted ;;;colonizara / colonizase;;nosotros //nosotras ;;;colonizáramos / colonizásemos;;vosotros //vosotras ;;;colonizarais / colonizaseis;;ellos //ellas //ustedes ;;;colonizaran / colonizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;colonizare;;tú //vos ;;;colonizares;;él //ella //usted ;;;colonizare;;nosotros //nosotras ;;;colonizáremos;;vosotros //vosotras ;;;colonizareis;;ellos //ellas //ustedes ;;;colonizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya colonizado;;tú //vos ;;;hayas colonizado;;él //ella //usted ;;;haya colonizado;;nosotros //nosotras ;;;hayamos colonizado;;vosotros //vosotras ;;;hayáis colonizado;;ellos //ellas //ustedes ;;;hayan colonizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera colonizado / hubiese colonizado;;tú //vos ;;;hubieras colonizado / hubieses colonizado;;él //ella //usted ;;;hubiera colonizado / hubiese colonizado;;nosotros //nosotras ;;;hubiéramos colonizado / hubiésemos colonizado;;vosotros //vosotras ;;;hubierais colonizado / hubieseis colonizado;;ellos //ellas //ustedes ;;;hubieran colonizado / hubiesen colonizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere colonizado;;tú //vos ;;;hubieres colonizado;;él //ella //usted ;;;hubiere colonizado;;nosotros //nosotras ;;;hubiéremos colonizado;;vosotros //vosotras ;;;hubiereis colonizado;;ellos //ellas //ustedes ;;;hubieren colonizado;;;;;
+Condicional;condicional;;yo ;;;colonizaría;;tú //vos ;;;colonizarías;;él //ella //usted ;;;colonizaría;;nosotros //nosotras ;;;colonizaríamos;;vosotros //vosotras ;;;colonizaríais;;ellos //ellas //ustedes ;;;colonizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría colonizado;;tú //vos ;;;habrías colonizado;;él //ella //usted ;;;habría colonizado;;nosotros //nosotras ;;;habríamos colonizado;;vosotros //vosotras ;;;habríais colonizado;;ellos //ellas //ustedes ;;;habrían colonizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;coloniza;;(usted) ;;;colonice;;(nosotros) //(nosotras) ;;;colonicemos;;(vosotros) //(vosotras) ;;;colonizad;;(ustedes) ;;;colonicen;;(vos) ;;;colonizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;colonices;;(usted) ;no ;;colonice;;(nosotros) //(nosotras) ;no ;;colonicemos;;(vosotros) //(vosotras) ;no ;;colonicéis;;(ustedes) ;no ;;colonicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;colonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;coloniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

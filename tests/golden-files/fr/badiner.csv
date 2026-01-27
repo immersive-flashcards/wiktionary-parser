@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;badinerais;;tu ;;;badinerais;;il/elle/on ;;;bad
 Conditionnel Passé;conditionnel;;j’;;;aurais badiné;;tu ;;;aurais badiné;;il/elle/on ;;;aurait badiné;;nous ;;;aurions badiné;;vous ;;;auriez badiné;;ils/elles ;;;auraient badiné
 Impératif Présent;impératif;;;;;;;(tu) ;;;badine;;;;;;;(nous) ;;;badinons;;(vous) ;;;badinez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie badiné;;;;;;;(nous) ;;;ayons badiné;;(vous) ;;;ayez badiné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;badine pas;;;;;;;(nous) ;ne ;;badinons pas;;(vous) ;ne ;;badinez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;badine pas ;;;;;;;(nous) ;ne ;;badinons pas ;;(vous) ;ne ;;badinez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas badiné;;;;;;;(nous) ;n';;ayons pas badiné;;(vous) ;n';;ayez pas badiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;badiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

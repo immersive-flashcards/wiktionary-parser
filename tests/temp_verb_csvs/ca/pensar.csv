@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;pensar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;pensant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;pensat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;penso;;tu ;;;penses;;ell //ella //vostè ;;;pensa;;nosaltres ;;;pensem;;vosaltres ;;;penseu;;ells //elles //vostès ;;;pensen
+Indicatiu Imperfet;indicativo;;jo ;;;pensava;;tu ;;;pensaves;;ell //ella //vostè ;;;pensava;;nosaltres ;;;pensàvem;;vosaltres ;;;pensàveu;;ells //elles //vostès ;;;pensaven
+Indicatiu Futur;indicativo;;jo ;;;pensaré;;tu ;;;pensaràs;;ell //ella //vostè ;;;pensarà;;nosaltres ;;;pensarem;;vosaltres ;;;pensareu;;ells //elles //vostès ;;;pensaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;pensí;;tu ;;;pensares;;ell //ella //vostè ;;;pensà;;nosaltres ;;;pensàrem;;vosaltres ;;;pensàreu;;ells //elles //vostès ;;;pensaren
+Condicional;condicional;;jo ;;;pensaria;;tu ;;;pensaries;;ell //ella //vostè ;;;pensaria;;nosaltres ;;;pensaríem;;vosaltres ;;;pensaríeu;;ells //elles //vostès ;;;pensarien
+Subjuntiu Present;subjuntiu;;jo ;;;pensi;;tu ;;;pensis;;ell //ella //vostè ;;;pensi;;nosaltres ;;;pensem;;vosaltres ;;;penseu;;ells //elles //vostès ;;;pensin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;pensés;;tu ;;;pensessis;;ell //ella //vostè ;;;pensés;;nosaltres ;;;penséssim;;vosaltres ;;;penséssiu;;ells //elles //vostès ;;;pensessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;pensa;;(vostè) ;;;pensi;;(nosaltres) ;;;pensem;;(vosaltres) ;;;penseu;;(vostès) ;;;pensin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;pensis;;(vostè) ;no ;;pensi;;(nosaltres) ;no ;;pensem;;(vosaltres) ;no ;;penseu;;(vostès) ;no ;;pensin
+Indicatiu Perfet;indicatiu;;jo ;;;he pensat;;tu ;;;has pensat;;ell //ella //vostè ;;;ha pensat;;nosaltres ;;;hem pensat;;vosaltres ;;;heu pensat;;ells //elles //vostès ;;;han pensat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig pensat;;tu ;;;vas pensat;;ell //ella //vostè ;;;va pensat;;nosaltres ;;;vam pensat;;vosaltres ;;;vau pensat;;ells //elles //vostès ;;;van pensat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia pensat;;tu ;;;havies pensat;;ell //ella //vostè ;;;havia pensat;;nosaltres ;;;havíem pensat;;vosaltres ;;;havíeu pensat;;ells //elles //vostès ;;;havien pensat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí pensat;;tu ;;;hagueres pensat;;ell //ella //vostè ;;;hagué pensat;;nosaltres ;;;haguérem pensat;;vosaltres ;;;haguéreu pensat;;ells //elles //vostès ;;;hagueren pensat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver pensat;;tu ;;;vas haver pensat;;ell //ella //vostè ;;;va haver pensat;;nosaltres ;;;vam haver pensat;;vosaltres ;;;vau haver pensat;;ells //elles //vostès ;;;van haver pensat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré pensat;;tu ;;;hauràs pensat;;ell //ella //vostè ;;;haurà pensat;;nosaltres ;;;haurem pensat;;vosaltres ;;;haureu pensat;;ells //elles //vostès ;;;hauran pensat
+Condicional Perfet;condicional;;jo ;;;hauria pensat;;tu ;;;hauries pensat;;ell //ella //vostè ;;;hauria pensat;;nosaltres ;;;hauríem pensat;;vosaltres ;;;hauríeu pensat;;ells //elles //vostès ;;;haurien pensat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi pensat;;tu ;;;vagis pensat;;ell //ella //vostè ;;;vagi pensat;;nosaltres ;;;vàgim pensat;;vosaltres ;;;vàgiu pensat;;ells //elles //vostès ;;;vagin pensat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi pensat;;tu ;;;hagis pensat;;ell //ella //vostè ;;;hagi pensat;;nosaltres ;;;hàgim pensat;;vosaltres ;;;hàgiu pensat;;ells //elles //vostès ;;;hagin pensat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes pensat;;tu ;;;haguessis pensat;;ell //ella //vostè ;;;hagués pensat;;nosaltres ;;;haguéssim pensat;;vosaltres ;;;haguéssiu pensat;;ells //elles //vostès ;;;haguessin pensat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver pensat;;tu ;;;vagis haver pensat;;ell //ella //vostè ;;;vagi haver pensat;;nosaltres ;;;vàgim haver pensat;;vosaltres ;;;vàgiu haver pensat;;ells //elles //vostès ;;;vagin haver pensat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;pensar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;pens;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

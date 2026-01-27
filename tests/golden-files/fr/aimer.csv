@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;aimerais;;tu ;;;aimerais;;il/elle/on ;;;aimera
 Conditionnel Passé;conditionnel;;j’;;;aurais aimé;;tu ;;;aurais aimé;;il/elle/on ;;;aurait aimé;;nous ;;;aurions aimé;;vous ;;;auriez aimé;;ils/elles ;;;auraient aimé
 Impératif Présent;impératif;;;;;;;(tu) ;;;aime;;;;;;;(nous) ;;;aimons;;(vous) ;;;aimez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie aimé;;;;;;;(nous) ;;;ayons aimé;;(vous) ;;;ayez aimé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;aime pas;;;;;;;(nous) ;n';;aimons pas;;(vous) ;n';;aimez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;aime pas ;;;;;;;(nous) ;n';;aimons pas ;;(vous) ;n';;aimez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas aimé;;;;;;;(nous) ;n';;ayons pas aimé;;(vous) ;n';;ayez pas aimé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;aimer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

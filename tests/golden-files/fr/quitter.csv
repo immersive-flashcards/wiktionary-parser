@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;quitterais;;tu ;;;quitterais;;il/elle/on ;;;qui
 Conditionnel Passé;conditionnel;;j’;;;aurais quitté;;tu ;;;aurais quitté;;il/elle/on ;;;aurait quitté;;nous ;;;aurions quitté;;vous ;;;auriez quitté;;ils/elles ;;;auraient quitté
 Impératif Présent;impératif;;;;;;;(tu) ;;;quitte;;;;;;;(nous) ;;;quittons;;(vous) ;;;quittez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie quitté;;;;;;;(nous) ;;;ayons quitté;;(vous) ;;;ayez quitté;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;quitte pas;;;;;;;(nous) ;ne ;;quittons pas;;(vous) ;ne ;;quittez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;quitte pas ;;;;;;;(nous) ;ne ;;quittons pas ;;(vous) ;ne ;;quittez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas quitté;;;;;;;(nous) ;n';;ayons pas quitté;;(vous) ;n';;ayez pas quitté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;quitter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

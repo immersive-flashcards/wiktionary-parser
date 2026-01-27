@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;fatigar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;fatigant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;fatigat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;fatigo;;tu ;;;fatigues;;ell //ella //vostè ;;;fatiga;;nosaltres ;;;fatiguem;;vosaltres ;;;fatigueu;;ells //elles //vostès ;;;fatiguen
+Indicatiu Imperfet;indicativo;;jo ;;;fatigava;;tu ;;;fatigaves;;ell //ella //vostè ;;;fatigava;;nosaltres ;;;fatigàvem;;vosaltres ;;;fatigàveu;;ells //elles //vostès ;;;fatigaven
+Indicatiu Futur;indicativo;;jo ;;;fatigaré;;tu ;;;fatigaràs;;ell //ella //vostè ;;;fatigarà;;nosaltres ;;;fatigarem;;vosaltres ;;;fatigareu;;ells //elles //vostès ;;;fatigaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;fatiguí;;tu ;;;fatigares;;ell //ella //vostè ;;;fatigà;;nosaltres ;;;fatigàrem;;vosaltres ;;;fatigàreu;;ells //elles //vostès ;;;fatigaren
+Condicional;condicional;;jo ;;;fatigaria;;tu ;;;fatigaries;;ell //ella //vostè ;;;fatigaria;;nosaltres ;;;fatigaríem;;vosaltres ;;;fatigaríeu;;ells //elles //vostès ;;;fatigarien
+Subjuntiu Present;subjuntiu;;jo ;;;fatigui;;tu ;;;fatiguis;;ell //ella //vostè ;;;fatigui;;nosaltres ;;;fatiguem;;vosaltres ;;;fatigueu;;ells //elles //vostès ;;;fatiguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;fatigués;;tu ;;;fatiguessis;;ell //ella //vostè ;;;fatigués;;nosaltres ;;;fatiguéssim;;vosaltres ;;;fatiguéssiu;;ells //elles //vostès ;;;fatiguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;fatiga;;(vostè) ;;;fatigui;;(nosaltres) ;;;fatiguem;;(vosaltres) ;;;fatigueu;;(vostès) ;;;fatiguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;fatiguis;;(vostè) ;no ;;fatigui;;(nosaltres) ;no ;;fatiguem;;(vosaltres) ;no ;;fatigueu;;(vostès) ;no ;;fatiguin
+Indicatiu Perfet;indicatiu;;jo ;;;he fatigat;;tu ;;;has fatigat;;ell //ella //vostè ;;;ha fatigat;;nosaltres ;;;hem fatigat;;vosaltres ;;;heu fatigat;;ells //elles //vostès ;;;han fatigat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig fatigat;;tu ;;;vas fatigat;;ell //ella //vostè ;;;va fatigat;;nosaltres ;;;vam fatigat;;vosaltres ;;;vau fatigat;;ells //elles //vostès ;;;van fatigat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia fatigat;;tu ;;;havies fatigat;;ell //ella //vostè ;;;havia fatigat;;nosaltres ;;;havíem fatigat;;vosaltres ;;;havíeu fatigat;;ells //elles //vostès ;;;havien fatigat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí fatigat;;tu ;;;hagueres fatigat;;ell //ella //vostè ;;;hagué fatigat;;nosaltres ;;;haguérem fatigat;;vosaltres ;;;haguéreu fatigat;;ells //elles //vostès ;;;hagueren fatigat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver fatigat;;tu ;;;vas haver fatigat;;ell //ella //vostè ;;;va haver fatigat;;nosaltres ;;;vam haver fatigat;;vosaltres ;;;vau haver fatigat;;ells //elles //vostès ;;;van haver fatigat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré fatigat;;tu ;;;hauràs fatigat;;ell //ella //vostè ;;;haurà fatigat;;nosaltres ;;;haurem fatigat;;vosaltres ;;;haureu fatigat;;ells //elles //vostès ;;;hauran fatigat
+Condicional Perfet;condicional;;jo ;;;hauria fatigat;;tu ;;;hauries fatigat;;ell //ella //vostè ;;;hauria fatigat;;nosaltres ;;;hauríem fatigat;;vosaltres ;;;hauríeu fatigat;;ells //elles //vostès ;;;haurien fatigat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi fatigat;;tu ;;;vagis fatigat;;ell //ella //vostè ;;;vagi fatigat;;nosaltres ;;;vàgim fatigat;;vosaltres ;;;vàgiu fatigat;;ells //elles //vostès ;;;vagin fatigat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi fatigat;;tu ;;;hagis fatigat;;ell //ella //vostè ;;;hagi fatigat;;nosaltres ;;;hàgim fatigat;;vosaltres ;;;hàgiu fatigat;;ells //elles //vostès ;;;hagin fatigat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes fatigat;;tu ;;;haguessis fatigat;;ell //ella //vostè ;;;hagués fatigat;;nosaltres ;;;haguéssim fatigat;;vosaltres ;;;haguéssiu fatigat;;ells //elles //vostès ;;;haguessin fatigat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver fatigat;;tu ;;;vagis haver fatigat;;ell //ella //vostè ;;;vagi haver fatigat;;nosaltres ;;;vàgim haver fatigat;;vosaltres ;;;vàgiu haver fatigat;;ells //elles //vostès ;;;vagin haver fatigat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;fatigar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;fatig;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

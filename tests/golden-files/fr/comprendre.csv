@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;comprendrais;;tu ;;;comprendrais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais compris;;tu ;;;aurais compris;;il/elle/on ;;;aurait compris;;nous ;;;aurions compris;;vous ;;;auriez compris;;ils/elles ;;;auraient compris
 Impératif Présent;impératif;;;;;;;(tu) ;;;comprends;;;;;;;(nous) ;;;comprenons;;(vous) ;;;comprenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie compris;;;;;;;(nous) ;;;ayons compris;;(vous) ;;;ayez compris;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;comprends pas;;;;;;;(nous) ;ne ;;comprenons pas;;(vous) ;ne ;;comprenez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;comprends pas ;;;;;;;(nous) ;ne ;;comprenons pas ;;(vous) ;ne ;;comprenez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas compris;;;;;;;(nous) ;n';;ayons pas compris;;(vous) ;n';;ayez pas compris;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;comprendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;viendrais;;tu ;;;viendrais;;il/elle/on ;;;viend
 Conditionnel Passé;conditionnel;;je ;;;serais venu;;tu ;;;serais venu;;il/elle/on ;;;serait venu;;nous ;;;serions venus;;vous ;;;seriez venus;;ils/elles ;;;seraient venus
 Impératif Présent;impératif;;;;;;;(tu) ;;;viens;;;;;;;(nous) ;;;venons;;(vous) ;;;venez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois venu;;;;;;;(nous) ;;;soyons venus;;(vous) ;;;soyez venus;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;viens pas;;;;;;;(nous) ;ne ;;venons pas;;(vous) ;ne ;;venez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;viens pas ;;;;;;;(nous) ;ne ;;venons pas ;;(vous) ;ne ;;venez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas venu;;;;;;;(nous) ;ne ;;soyons pas venus;;(vous) ;ne ;;soyez pas venus;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;venir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

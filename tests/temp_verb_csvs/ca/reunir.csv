@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;reunir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;reunint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;reunit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;reuneixo;;tu ;;;reuneixes;;ell //ella //vostè ;;;reuneix;;nosaltres ;;;reunim;;vosaltres ;;;reuniu;;ells //elles //vostès ;;;reuneixen
+Indicatiu Imperfet;indicativo;;jo ;;;reunia;;tu ;;;reunies;;ell //ella //vostè ;;;reunia;;nosaltres ;;;reuníem;;vosaltres ;;;reuníeu;;ells //elles //vostès ;;;reunien
+Indicatiu Futur;indicativo;;jo ;;;reuniré;;tu ;;;reuniràs;;ell //ella //vostè ;;;reunirà;;nosaltres ;;;reunirem;;vosaltres ;;;reunireu;;ells //elles //vostès ;;;reuniran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;reuní;;tu ;;;reunires;;ell //ella //vostè ;;;reuní;;nosaltres ;;;reunírem;;vosaltres ;;;reuníreu;;ells //elles //vostès ;;;reuniren
+Condicional;condicional;;jo ;;;reuniria;;tu ;;;reuniries;;ell //ella //vostè ;;;reuniria;;nosaltres ;;;reuniríem;;vosaltres ;;;reuniríeu;;ells //elles //vostès ;;;reunirien
+Subjuntiu Present;subjuntiu;;jo ;;;reuneixi;;tu ;;;reuneixis;;ell //ella //vostè ;;;reuneixi;;nosaltres ;;;reunim;;vosaltres ;;;reuniu;;ells //elles //vostès ;;;reuneixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;reunís;;tu ;;;reunissis;;ell //ella //vostè ;;;reunís;;nosaltres ;;;reuníssim;;vosaltres ;;;reuníssiu;;ells //elles //vostès ;;;reunissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;reuneix;;(vostè) ;;;reuneixi;;(nosaltres) ;;;reunim;;(vosaltres) ;;;reuniu;;(vostès) ;;;reuneixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;reuneixis;;(vostè) ;no ;;reuneixi;;(nosaltres) ;no ;;reunim;;(vosaltres) ;no ;;reuniu;;(vostès) ;no ;;reuneixin
+Indicatiu Perfet;indicatiu;;jo ;;;he reunit;;tu ;;;has reunit;;ell //ella //vostè ;;;ha reunit;;nosaltres ;;;hem reunit;;vosaltres ;;;heu reunit;;ells //elles //vostès ;;;han reunit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig reunit;;tu ;;;vas reunit;;ell //ella //vostè ;;;va reunit;;nosaltres ;;;vam reunit;;vosaltres ;;;vau reunit;;ells //elles //vostès ;;;van reunit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia reunit;;tu ;;;havies reunit;;ell //ella //vostè ;;;havia reunit;;nosaltres ;;;havíem reunit;;vosaltres ;;;havíeu reunit;;ells //elles //vostès ;;;havien reunit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí reunit;;tu ;;;hagueres reunit;;ell //ella //vostè ;;;hagué reunit;;nosaltres ;;;haguérem reunit;;vosaltres ;;;haguéreu reunit;;ells //elles //vostès ;;;hagueren reunit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver reunit;;tu ;;;vas haver reunit;;ell //ella //vostè ;;;va haver reunit;;nosaltres ;;;vam haver reunit;;vosaltres ;;;vau haver reunit;;ells //elles //vostès ;;;van haver reunit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré reunit;;tu ;;;hauràs reunit;;ell //ella //vostè ;;;haurà reunit;;nosaltres ;;;haurem reunit;;vosaltres ;;;haureu reunit;;ells //elles //vostès ;;;hauran reunit
+Condicional Perfet;condicional;;jo ;;;hauria reunit;;tu ;;;hauries reunit;;ell //ella //vostè ;;;hauria reunit;;nosaltres ;;;hauríem reunit;;vosaltres ;;;hauríeu reunit;;ells //elles //vostès ;;;haurien reunit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi reunit;;tu ;;;vagis reunit;;ell //ella //vostè ;;;vagi reunit;;nosaltres ;;;vàgim reunit;;vosaltres ;;;vàgiu reunit;;ells //elles //vostès ;;;vagin reunit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi reunit;;tu ;;;hagis reunit;;ell //ella //vostè ;;;hagi reunit;;nosaltres ;;;hàgim reunit;;vosaltres ;;;hàgiu reunit;;ells //elles //vostès ;;;hagin reunit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes reunit;;tu ;;;haguessis reunit;;ell //ella //vostè ;;;hagués reunit;;nosaltres ;;;haguéssim reunit;;vosaltres ;;;haguéssiu reunit;;ells //elles //vostès ;;;haguessin reunit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver reunit;;tu ;;;vagis haver reunit;;ell //ella //vostè ;;;vagi haver reunit;;nosaltres ;;;vàgim haver reunit;;vosaltres ;;;vàgiu haver reunit;;ells //elles //vostès ;;;vagin haver reunit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;reunir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;reun;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

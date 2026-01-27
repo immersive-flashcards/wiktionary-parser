@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;condamnerais;;tu ;;;condamnerais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais condamné;;tu ;;;aurais condamné;;il/elle/on ;;;aurait condamné;;nous ;;;aurions condamné;;vous ;;;auriez condamné;;ils/elles ;;;auraient condamné
 Impératif Présent;impératif;;;;;;;(tu) ;;;condamne;;;;;;;(nous) ;;;condamnons;;(vous) ;;;condamnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie condamné;;;;;;;(nous) ;;;ayons condamné;;(vous) ;;;ayez condamné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;condamne pas;;;;;;;(nous) ;ne ;;condamnons pas;;(vous) ;ne ;;condamnez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;condamne pas ;;;;;;;(nous) ;ne ;;condamnons pas ;;(vous) ;ne ;;condamnez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas condamné;;;;;;;(nous) ;n';;ayons pas condamné;;(vous) ;n';;ayez pas condamné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;condamner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

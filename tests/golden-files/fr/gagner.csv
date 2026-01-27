@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;gagnerais;;tu ;;;gagnerais;;il/elle/on ;;;gagne
 Conditionnel Passé;conditionnel;;j’;;;aurais gagné;;tu ;;;aurais gagné;;il/elle/on ;;;aurait gagné;;nous ;;;aurions gagné;;vous ;;;auriez gagné;;ils/elles ;;;auraient gagné
 Impératif Présent;impératif;;;;;;;(tu) ;;;gagne;;;;;;;(nous) ;;;gagnons;;(vous) ;;;gagnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie gagné;;;;;;;(nous) ;;;ayons gagné;;(vous) ;;;ayez gagné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gagne pas;;;;;;;(nous) ;ne ;;gagnons pas;;(vous) ;ne ;;gagnez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gagne pas ;;;;;;;(nous) ;ne ;;gagnons pas ;;(vous) ;ne ;;gagnez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas gagné;;;;;;;(nous) ;n';;ayons pas gagné;;(vous) ;n';;ayez pas gagné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;gagner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

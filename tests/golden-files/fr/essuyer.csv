@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;essuierais;;tu ;;;essuierais;;il/elle/on ;;;es
 Conditionnel Passé;conditionnel;;j’;;;aurais essuyé;;tu ;;;aurais essuyé;;il/elle/on ;;;aurait essuyé;;nous ;;;aurions essuyé;;vous ;;;auriez essuyé;;ils/elles ;;;auraient essuyé
 Impératif Présent;impératif;;;;;;;(tu) ;;;essuie;;;;;;;(nous) ;;;essuyons;;(vous) ;;;essuyez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie essuyé;;;;;;;(nous) ;;;ayons essuyé;;(vous) ;;;ayez essuyé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;essuie pas;;;;;;;(nous) ;n';;essuyons pas;;(vous) ;n';;essuyez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;essuie pas ;;;;;;;(nous) ;n';;essuyons pas ;;(vous) ;n';;essuyez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas essuyé;;;;;;;(nous) ;n';;ayons pas essuyé;;(vous) ;n';;ayez pas essuyé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;essuyer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

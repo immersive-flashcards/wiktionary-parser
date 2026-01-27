@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;antipatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;antipatizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;antipatizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;antipatizo;;tú ;;;antipatizas;;él //ella //usted ;;;antipatiza;;nosotros //nosotras ;;;antipatizamos;;vosotros //vosotras ;;;antipatizáis;;ellos //ellas //ustedes ;;;antipatizan;;vos ;;;antipatizás
+Indicativo Imperfecto;indicativo;;yo ;;;antipatizaba;;tú //vos ;;;antipatizabas;;él //ella //usted ;;;antipatizaba;;nosotros //nosotras ;;;antipatizábamos;;vosotros //vosotras ;;;antipatizabais;;ellos //ellas //ustedes ;;;antipatizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;antipaticé;;tú //vos ;;;antipatizaste;;él //ella //usted ;;;antipatizó;;nosotros //nosotras ;;;antipatizamos;;vosotros //vosotras ;;;antipatizasteis;;ellos //ellas //ustedes ;;;antipatizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;antipatizaré;;tú //vos ;;;antipatizarás;;él //ella //usted ;;;antipatizará;;nosotros //nosotras ;;;antipatizaremos;;vosotros //vosotras ;;;antipatizaréis;;ellos //ellas //ustedes ;;;antipatizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he antipatizado;;tú //vos ;;;has antipatizado;;él //ella //usted ;;;ha antipatizado;;nosotros //nosotras ;;;hemos antipatizado;;vosotros //vosotras ;;;habéis antipatizado;;ellos //ellas //ustedes ;;;han antipatizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había antipatizado;;tú //vos ;;;habías antipatizado;;él //ella //usted ;;;había antipatizado;;nosotros //nosotras ;;;habíamos antipatizado;;vosotros //vosotras ;;;habíais antipatizado;;ellos //ellas //ustedes ;;;habían antipatizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube antipatizado;;tú //vos ;;;hubiste antipatizado;;él //ella //usted ;;;hubo antipatizado;;nosotros //nosotras ;;;hubimos antipatizado;;vosotros //vosotras ;;;hubisteis antipatizado;;ellos //ellas //ustedes ;;;hubieron antipatizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré antipatizado;;tú //vos ;;;habrás antipatizado;;él //ella //usted ;;;habrá antipatizado;;nosotros //nosotras ;;;habremos antipatizado;;vosotros //vosotras ;;;habréis antipatizado;;ellos //ellas //ustedes ;;;habrán antipatizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;antipatice;;tú //vos ;;;antipatices;;él //ella //usted ;;;antipatice;;nosotros //nosotras ;;;antipaticemos;;vosotros //vosotras ;;;antipaticéis;;ellos //ellas //ustedes ;;;antipaticen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;antipatizara / antipatizase;;tú //vos ;;;antipatizaras / antipatizases;;él //ella //usted ;;;antipatizara / antipatizase;;nosotros //nosotras ;;;antipatizáramos / antipatizásemos;;vosotros //vosotras ;;;antipatizarais / antipatizaseis;;ellos //ellas //ustedes ;;;antipatizaran / antipatizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;antipatizare;;tú //vos ;;;antipatizares;;él //ella //usted ;;;antipatizare;;nosotros //nosotras ;;;antipatizáremos;;vosotros //vosotras ;;;antipatizareis;;ellos //ellas //ustedes ;;;antipatizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya antipatizado;;tú //vos ;;;hayas antipatizado;;él //ella //usted ;;;haya antipatizado;;nosotros //nosotras ;;;hayamos antipatizado;;vosotros //vosotras ;;;hayáis antipatizado;;ellos //ellas //ustedes ;;;hayan antipatizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera antipatizado / hubiese antipatizado;;tú //vos ;;;hubieras antipatizado / hubieses antipatizado;;él //ella //usted ;;;hubiera antipatizado / hubiese antipatizado;;nosotros //nosotras ;;;hubiéramos antipatizado / hubiésemos antipatizado;;vosotros //vosotras ;;;hubierais antipatizado / hubieseis antipatizado;;ellos //ellas //ustedes ;;;hubieran antipatizado / hubiesen antipatizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere antipatizado;;tú //vos ;;;hubieres antipatizado;;él //ella //usted ;;;hubiere antipatizado;;nosotros //nosotras ;;;hubiéremos antipatizado;;vosotros //vosotras ;;;hubiereis antipatizado;;ellos //ellas //ustedes ;;;hubieren antipatizado;;;;;
+Condicional;condicional;;yo ;;;antipatizaría;;tú //vos ;;;antipatizarías;;él //ella //usted ;;;antipatizaría;;nosotros //nosotras ;;;antipatizaríamos;;vosotros //vosotras ;;;antipatizaríais;;ellos //ellas //ustedes ;;;antipatizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría antipatizado;;tú //vos ;;;habrías antipatizado;;él //ella //usted ;;;habría antipatizado;;nosotros //nosotras ;;;habríamos antipatizado;;vosotros //vosotras ;;;habríais antipatizado;;ellos //ellas //ustedes ;;;habrían antipatizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;antipatiza;;(usted) ;;;antipatice;;(nosotros) //(nosotras) ;;;antipaticemos;;(vosotros) //(vosotras) ;;;antipatizad;;(ustedes) ;;;antipaticen;;(vos) ;;;antipatizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;antipatices;;(usted) ;no ;;antipatice;;(nosotros) //(nosotras) ;no ;;antipaticemos;;(vosotros) //(vosotras) ;no ;;antipaticéis;;(ustedes) ;no ;;antipaticen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;antipatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;antipatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

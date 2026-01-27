@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;stockerais;;tu ;;;stockerais;;il/elle/on ;;;sto
 Conditionnel Passé;conditionnel;;j’;;;aurais stocké;;tu ;;;aurais stocké;;il/elle/on ;;;aurait stocké;;nous ;;;aurions stocké;;vous ;;;auriez stocké;;ils/elles ;;;auraient stocké
 Impératif Présent;impératif;;;;;;;(tu) ;;;stocke;;;;;;;(nous) ;;;stockons;;(vous) ;;;stockez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie stocké;;;;;;;(nous) ;;;ayons stocké;;(vous) ;;;ayez stocké;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;stocke pas;;;;;;;(nous) ;ne ;;stockons pas;;(vous) ;ne ;;stockez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;stocke pas ;;;;;;;(nous) ;ne ;;stockons pas ;;(vous) ;ne ;;stockez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas stocké;;;;;;;(nous) ;n';;ayons pas stocké;;(vous) ;n';;ayez pas stocké;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;stocker;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

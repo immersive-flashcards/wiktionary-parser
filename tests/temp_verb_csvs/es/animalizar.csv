@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;animalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;animalizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;animalizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;animalizo;;tú ;;;animalizas;;él //ella //usted ;;;animaliza;;nosotros //nosotras ;;;animalizamos;;vosotros //vosotras ;;;animalizáis;;ellos //ellas //ustedes ;;;animalizan;;vos ;;;animalizás
+Indicativo Imperfecto;indicativo;;yo ;;;animalizaba;;tú //vos ;;;animalizabas;;él //ella //usted ;;;animalizaba;;nosotros //nosotras ;;;animalizábamos;;vosotros //vosotras ;;;animalizabais;;ellos //ellas //ustedes ;;;animalizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;animalicé;;tú //vos ;;;animalizaste;;él //ella //usted ;;;animalizó;;nosotros //nosotras ;;;animalizamos;;vosotros //vosotras ;;;animalizasteis;;ellos //ellas //ustedes ;;;animalizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;animalizaré;;tú //vos ;;;animalizarás;;él //ella //usted ;;;animalizará;;nosotros //nosotras ;;;animalizaremos;;vosotros //vosotras ;;;animalizaréis;;ellos //ellas //ustedes ;;;animalizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he animalizado;;tú //vos ;;;has animalizado;;él //ella //usted ;;;ha animalizado;;nosotros //nosotras ;;;hemos animalizado;;vosotros //vosotras ;;;habéis animalizado;;ellos //ellas //ustedes ;;;han animalizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había animalizado;;tú //vos ;;;habías animalizado;;él //ella //usted ;;;había animalizado;;nosotros //nosotras ;;;habíamos animalizado;;vosotros //vosotras ;;;habíais animalizado;;ellos //ellas //ustedes ;;;habían animalizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube animalizado;;tú //vos ;;;hubiste animalizado;;él //ella //usted ;;;hubo animalizado;;nosotros //nosotras ;;;hubimos animalizado;;vosotros //vosotras ;;;hubisteis animalizado;;ellos //ellas //ustedes ;;;hubieron animalizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré animalizado;;tú //vos ;;;habrás animalizado;;él //ella //usted ;;;habrá animalizado;;nosotros //nosotras ;;;habremos animalizado;;vosotros //vosotras ;;;habréis animalizado;;ellos //ellas //ustedes ;;;habrán animalizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;animalice;;tú //vos ;;;animalices;;él //ella //usted ;;;animalice;;nosotros //nosotras ;;;animalicemos;;vosotros //vosotras ;;;animalicéis;;ellos //ellas //ustedes ;;;animalicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;animalizara / animalizase;;tú //vos ;;;animalizaras / animalizases;;él //ella //usted ;;;animalizara / animalizase;;nosotros //nosotras ;;;animalizáramos / animalizásemos;;vosotros //vosotras ;;;animalizarais / animalizaseis;;ellos //ellas //ustedes ;;;animalizaran / animalizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;animalizare;;tú //vos ;;;animalizares;;él //ella //usted ;;;animalizare;;nosotros //nosotras ;;;animalizáremos;;vosotros //vosotras ;;;animalizareis;;ellos //ellas //ustedes ;;;animalizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya animalizado;;tú //vos ;;;hayas animalizado;;él //ella //usted ;;;haya animalizado;;nosotros //nosotras ;;;hayamos animalizado;;vosotros //vosotras ;;;hayáis animalizado;;ellos //ellas //ustedes ;;;hayan animalizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera animalizado / hubiese animalizado;;tú //vos ;;;hubieras animalizado / hubieses animalizado;;él //ella //usted ;;;hubiera animalizado / hubiese animalizado;;nosotros //nosotras ;;;hubiéramos animalizado / hubiésemos animalizado;;vosotros //vosotras ;;;hubierais animalizado / hubieseis animalizado;;ellos //ellas //ustedes ;;;hubieran animalizado / hubiesen animalizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere animalizado;;tú //vos ;;;hubieres animalizado;;él //ella //usted ;;;hubiere animalizado;;nosotros //nosotras ;;;hubiéremos animalizado;;vosotros //vosotras ;;;hubiereis animalizado;;ellos //ellas //ustedes ;;;hubieren animalizado;;;;;
+Condicional;condicional;;yo ;;;animalizaría;;tú //vos ;;;animalizarías;;él //ella //usted ;;;animalizaría;;nosotros //nosotras ;;;animalizaríamos;;vosotros //vosotras ;;;animalizaríais;;ellos //ellas //ustedes ;;;animalizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría animalizado;;tú //vos ;;;habrías animalizado;;él //ella //usted ;;;habría animalizado;;nosotros //nosotras ;;;habríamos animalizado;;vosotros //vosotras ;;;habríais animalizado;;ellos //ellas //ustedes ;;;habrían animalizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;animaliza;;(usted) ;;;animalice;;(nosotros) //(nosotras) ;;;animalicemos;;(vosotros) //(vosotras) ;;;animalizad;;(ustedes) ;;;animalicen;;(vos) ;;;animalizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;animalices;;(usted) ;no ;;animalice;;(nosotros) //(nosotras) ;no ;;animalicemos;;(vosotros) //(vosotras) ;no ;;animalicéis;;(ustedes) ;no ;;animalicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;animalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;animaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

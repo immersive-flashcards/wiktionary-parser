@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;dar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;dant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;dat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;;;;;;;;;;;;;;;;nosaltres ;;;dem;;vosaltres ;;;deu;;;;;
+Indicatiu Imperfet;indicativo;;jo ;;;dava;;tu ;;;daves;;ell //ella //vostè ;;;dava;;nosaltres ;;;dàvem;;vosaltres ;;;dàveu;;ells //elles //vostès ;;;daven
+Indicatiu Futur;indicativo;;jo ;;;daré;;tu ;;;daràs;;ell //ella //vostè ;;;darà;;nosaltres ;;;darem;;vosaltres ;;;dareu;;ells //elles //vostès ;;;daran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;di;;tu ;;;dares;;ell //ella //vostè ;;;da;;nosaltres ;;;dàrem;;vosaltres ;;;dàreu;;ells //elles //vostès ;;;daren
+Condicional;condicional;;jo ;;;daria;;tu ;;;daries;;ell //ella //vostè ;;;daria;;nosaltres ;;;daríem;;vosaltres ;;;daríeu;;ells //elles //vostès ;;;darien
+Subjuntiu Present;subjuntiu;;;;;;;;;;;;;;;;;nosaltres ;;;dem;;vosaltres ;;;deu;;;;;
+Subjuntiu Imperfet;subjuntiu;;jo ;;;des;;tu ;;;dessis;;ell //ella //vostè ;;;des;;nosaltres ;;;déssim;;vosaltres ;;;déssiu;;ells //elles //vostès ;;;dessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;;;;;;;;;;;(nosaltres) ;;;dem;;(vosaltres) ;;;deu;;;;;
+Imperatiu Negatiu;imperatiu;;;;;;;;;;;;;;;;;(nosaltres) ;no ;;dem;;(vosaltres) ;no ;;deu;;;;;
+Indicatiu Perfet;indicatiu;;jo ;;;he dat;;tu ;;;has dat;;ell //ella //vostè ;;;ha dat;;nosaltres ;;;hem dat;;vosaltres ;;;heu dat;;ells //elles //vostès ;;;han dat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig dat;;tu ;;;vas dat;;ell //ella //vostè ;;;va dat;;nosaltres ;;;vam dat;;vosaltres ;;;vau dat;;ells //elles //vostès ;;;van dat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia dat;;tu ;;;havies dat;;ell //ella //vostè ;;;havia dat;;nosaltres ;;;havíem dat;;vosaltres ;;;havíeu dat;;ells //elles //vostès ;;;havien dat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí dat;;tu ;;;hagueres dat;;ell //ella //vostè ;;;hagué dat;;nosaltres ;;;haguérem dat;;vosaltres ;;;haguéreu dat;;ells //elles //vostès ;;;hagueren dat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver dat;;tu ;;;vas haver dat;;ell //ella //vostè ;;;va haver dat;;nosaltres ;;;vam haver dat;;vosaltres ;;;vau haver dat;;ells //elles //vostès ;;;van haver dat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré dat;;tu ;;;hauràs dat;;ell //ella //vostè ;;;haurà dat;;nosaltres ;;;haurem dat;;vosaltres ;;;haureu dat;;ells //elles //vostès ;;;hauran dat
+Condicional Perfet;condicional;;jo ;;;hauria dat;;tu ;;;hauries dat;;ell //ella //vostè ;;;hauria dat;;nosaltres ;;;hauríem dat;;vosaltres ;;;hauríeu dat;;ells //elles //vostès ;;;haurien dat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi dat;;tu ;;;vagis dat;;ell //ella //vostè ;;;vagi dat;;nosaltres ;;;vàgim dat;;vosaltres ;;;vàgiu dat;;ells //elles //vostès ;;;vagin dat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi dat;;tu ;;;hagis dat;;ell //ella //vostè ;;;hagi dat;;nosaltres ;;;hàgim dat;;vosaltres ;;;hàgiu dat;;ells //elles //vostès ;;;hagin dat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes dat;;tu ;;;haguessis dat;;ell //ella //vostè ;;;hagués dat;;nosaltres ;;;haguéssim dat;;vosaltres ;;;haguéssiu dat;;ells //elles //vostès ;;;haguessin dat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver dat;;tu ;;;vagis haver dat;;ell //ella //vostè ;;;vagi haver dat;;nosaltres ;;;vàgim haver dat;;vosaltres ;;;vàgiu haver dat;;ells //elles //vostès ;;;vagin haver dat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;dar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;d;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;granular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;granulant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;granulat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;granulo;;tu ;;;granules;;ell //ella //vostè ;;;granula;;nosaltres ;;;granulem;;vosaltres ;;;granuleu;;ells //elles //vostès ;;;granulen
+Indicatiu Imperfet;indicativo;;jo ;;;granulava;;tu ;;;granulaves;;ell //ella //vostè ;;;granulava;;nosaltres ;;;granulàvem;;vosaltres ;;;granulàveu;;ells //elles //vostès ;;;granulaven
+Indicatiu Futur;indicativo;;jo ;;;granularé;;tu ;;;granularàs;;ell //ella //vostè ;;;granularà;;nosaltres ;;;granularem;;vosaltres ;;;granulareu;;ells //elles //vostès ;;;granularan
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;granulí;;tu ;;;granulares;;ell //ella //vostè ;;;granulà;;nosaltres ;;;granulàrem;;vosaltres ;;;granulàreu;;ells //elles //vostès ;;;granularen
+Condicional;condicional;;jo ;;;granularia;;tu ;;;granularies;;ell //ella //vostè ;;;granularia;;nosaltres ;;;granularíem;;vosaltres ;;;granularíeu;;ells //elles //vostès ;;;granularien
+Subjuntiu Present;subjuntiu;;jo ;;;granuli;;tu ;;;granulis;;ell //ella //vostè ;;;granuli;;nosaltres ;;;granulem;;vosaltres ;;;granuleu;;ells //elles //vostès ;;;granulin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;granulés;;tu ;;;granulessis;;ell //ella //vostè ;;;granulés;;nosaltres ;;;granuléssim;;vosaltres ;;;granuléssiu;;ells //elles //vostès ;;;granulessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;granula;;(vostè) ;;;granuli;;(nosaltres) ;;;granulem;;(vosaltres) ;;;granuleu;;(vostès) ;;;granulin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;granulis;;(vostè) ;no ;;granuli;;(nosaltres) ;no ;;granulem;;(vosaltres) ;no ;;granuleu;;(vostès) ;no ;;granulin
+Indicatiu Perfet;indicatiu;;jo ;;;he granulat;;tu ;;;has granulat;;ell //ella //vostè ;;;ha granulat;;nosaltres ;;;hem granulat;;vosaltres ;;;heu granulat;;ells //elles //vostès ;;;han granulat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig granulat;;tu ;;;vas granulat;;ell //ella //vostè ;;;va granulat;;nosaltres ;;;vam granulat;;vosaltres ;;;vau granulat;;ells //elles //vostès ;;;van granulat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia granulat;;tu ;;;havies granulat;;ell //ella //vostè ;;;havia granulat;;nosaltres ;;;havíem granulat;;vosaltres ;;;havíeu granulat;;ells //elles //vostès ;;;havien granulat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí granulat;;tu ;;;hagueres granulat;;ell //ella //vostè ;;;hagué granulat;;nosaltres ;;;haguérem granulat;;vosaltres ;;;haguéreu granulat;;ells //elles //vostès ;;;hagueren granulat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver granulat;;tu ;;;vas haver granulat;;ell //ella //vostè ;;;va haver granulat;;nosaltres ;;;vam haver granulat;;vosaltres ;;;vau haver granulat;;ells //elles //vostès ;;;van haver granulat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré granulat;;tu ;;;hauràs granulat;;ell //ella //vostè ;;;haurà granulat;;nosaltres ;;;haurem granulat;;vosaltres ;;;haureu granulat;;ells //elles //vostès ;;;hauran granulat
+Condicional Perfet;condicional;;jo ;;;hauria granulat;;tu ;;;hauries granulat;;ell //ella //vostè ;;;hauria granulat;;nosaltres ;;;hauríem granulat;;vosaltres ;;;hauríeu granulat;;ells //elles //vostès ;;;haurien granulat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi granulat;;tu ;;;vagis granulat;;ell //ella //vostè ;;;vagi granulat;;nosaltres ;;;vàgim granulat;;vosaltres ;;;vàgiu granulat;;ells //elles //vostès ;;;vagin granulat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi granulat;;tu ;;;hagis granulat;;ell //ella //vostè ;;;hagi granulat;;nosaltres ;;;hàgim granulat;;vosaltres ;;;hàgiu granulat;;ells //elles //vostès ;;;hagin granulat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes granulat;;tu ;;;haguessis granulat;;ell //ella //vostè ;;;hagués granulat;;nosaltres ;;;haguéssim granulat;;vosaltres ;;;haguéssiu granulat;;ells //elles //vostès ;;;haguessin granulat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver granulat;;tu ;;;vagis haver granulat;;ell //ella //vostè ;;;vagi haver granulat;;nosaltres ;;;vàgim haver granulat;;vosaltres ;;;vàgiu haver granulat;;ells //elles //vostès ;;;vagin haver granulat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;granular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;granul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

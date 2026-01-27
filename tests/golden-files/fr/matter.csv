@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;matterais;;tu ;;;matterais;;il/elle/on ;;;matte
 Conditionnel Passé;conditionnel;;j’;;;aurais matté;;tu ;;;aurais matté;;il/elle/on ;;;aurait matté;;nous ;;;aurions matté;;vous ;;;auriez matté;;ils/elles ;;;auraient matté
 Impératif Présent;impératif;;;;;;;(tu) ;;;matte;;;;;;;(nous) ;;;mattons;;(vous) ;;;mattez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie matté;;;;;;;(nous) ;;;ayons matté;;(vous) ;;;ayez matté;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;matte pas;;;;;;;(nous) ;ne ;;mattons pas;;(vous) ;ne ;;mattez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;matte pas ;;;;;;;(nous) ;ne ;;mattons pas ;;(vous) ;ne ;;mattez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas matté;;;;;;;(nous) ;n';;ayons pas matté;;(vous) ;n';;ayez pas matté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;matter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

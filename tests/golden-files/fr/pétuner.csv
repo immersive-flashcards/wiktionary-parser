@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;pétunerais;;tu ;;;pétunerais;;il/elle/on ;;;p
 Conditionnel Passé;conditionnel;;j’;;;aurais pétuné;;tu ;;;aurais pétuné;;il/elle/on ;;;aurait pétuné;;nous ;;;aurions pétuné;;vous ;;;auriez pétuné;;ils/elles ;;;auraient pétuné
 Impératif Présent;impératif;;;;;;;(tu) ;;;pétune;;;;;;;(nous) ;;;pétunons;;(vous) ;;;pétunez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie pétuné;;;;;;;(nous) ;;;ayons pétuné;;(vous) ;;;ayez pétuné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pétune pas;;;;;;;(nous) ;ne ;;pétunons pas;;(vous) ;ne ;;pétunez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pétune pas ;;;;;;;(nous) ;ne ;;pétunons pas ;;(vous) ;ne ;;pétunez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas pétuné;;;;;;;(nous) ;n';;ayons pas pétuné;;(vous) ;n';;ayez pas pétuné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;pétuner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

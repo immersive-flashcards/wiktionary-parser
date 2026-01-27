@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;anatematizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;anatematizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;anatematizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;anatematizo;;tú ;;;anatematizas;;él //ella //usted ;;;anatematiza;;nosotros //nosotras ;;;anatematizamos;;vosotros //vosotras ;;;anatematizáis;;ellos //ellas //ustedes ;;;anatematizan;;vos ;;;anatematizás
+Indicativo Imperfecto;indicativo;;yo ;;;anatematizaba;;tú //vos ;;;anatematizabas;;él //ella //usted ;;;anatematizaba;;nosotros //nosotras ;;;anatematizábamos;;vosotros //vosotras ;;;anatematizabais;;ellos //ellas //ustedes ;;;anatematizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;anatematicé;;tú //vos ;;;anatematizaste;;él //ella //usted ;;;anatematizó;;nosotros //nosotras ;;;anatematizamos;;vosotros //vosotras ;;;anatematizasteis;;ellos //ellas //ustedes ;;;anatematizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;anatematizaré;;tú //vos ;;;anatematizarás;;él //ella //usted ;;;anatematizará;;nosotros //nosotras ;;;anatematizaremos;;vosotros //vosotras ;;;anatematizaréis;;ellos //ellas //ustedes ;;;anatematizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he anatematizado;;tú //vos ;;;has anatematizado;;él //ella //usted ;;;ha anatematizado;;nosotros //nosotras ;;;hemos anatematizado;;vosotros //vosotras ;;;habéis anatematizado;;ellos //ellas //ustedes ;;;han anatematizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había anatematizado;;tú //vos ;;;habías anatematizado;;él //ella //usted ;;;había anatematizado;;nosotros //nosotras ;;;habíamos anatematizado;;vosotros //vosotras ;;;habíais anatematizado;;ellos //ellas //ustedes ;;;habían anatematizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube anatematizado;;tú //vos ;;;hubiste anatematizado;;él //ella //usted ;;;hubo anatematizado;;nosotros //nosotras ;;;hubimos anatematizado;;vosotros //vosotras ;;;hubisteis anatematizado;;ellos //ellas //ustedes ;;;hubieron anatematizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré anatematizado;;tú //vos ;;;habrás anatematizado;;él //ella //usted ;;;habrá anatematizado;;nosotros //nosotras ;;;habremos anatematizado;;vosotros //vosotras ;;;habréis anatematizado;;ellos //ellas //ustedes ;;;habrán anatematizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;anatematice;;tú //vos ;;;anatematices;;él //ella //usted ;;;anatematice;;nosotros //nosotras ;;;anatematicemos;;vosotros //vosotras ;;;anatematicéis;;ellos //ellas //ustedes ;;;anatematicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;anatematizara / anatematizase;;tú //vos ;;;anatematizaras / anatematizases;;él //ella //usted ;;;anatematizara / anatematizase;;nosotros //nosotras ;;;anatematizáramos / anatematizásemos;;vosotros //vosotras ;;;anatematizarais / anatematizaseis;;ellos //ellas //ustedes ;;;anatematizaran / anatematizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;anatematizare;;tú //vos ;;;anatematizares;;él //ella //usted ;;;anatematizare;;nosotros //nosotras ;;;anatematizáremos;;vosotros //vosotras ;;;anatematizareis;;ellos //ellas //ustedes ;;;anatematizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya anatematizado;;tú //vos ;;;hayas anatematizado;;él //ella //usted ;;;haya anatematizado;;nosotros //nosotras ;;;hayamos anatematizado;;vosotros //vosotras ;;;hayáis anatematizado;;ellos //ellas //ustedes ;;;hayan anatematizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera anatematizado / hubiese anatematizado;;tú //vos ;;;hubieras anatematizado / hubieses anatematizado;;él //ella //usted ;;;hubiera anatematizado / hubiese anatematizado;;nosotros //nosotras ;;;hubiéramos anatematizado / hubiésemos anatematizado;;vosotros //vosotras ;;;hubierais anatematizado / hubieseis anatematizado;;ellos //ellas //ustedes ;;;hubieran anatematizado / hubiesen anatematizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere anatematizado;;tú //vos ;;;hubieres anatematizado;;él //ella //usted ;;;hubiere anatematizado;;nosotros //nosotras ;;;hubiéremos anatematizado;;vosotros //vosotras ;;;hubiereis anatematizado;;ellos //ellas //ustedes ;;;hubieren anatematizado;;;;;
+Condicional;condicional;;yo ;;;anatematizaría;;tú //vos ;;;anatematizarías;;él //ella //usted ;;;anatematizaría;;nosotros //nosotras ;;;anatematizaríamos;;vosotros //vosotras ;;;anatematizaríais;;ellos //ellas //ustedes ;;;anatematizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría anatematizado;;tú //vos ;;;habrías anatematizado;;él //ella //usted ;;;habría anatematizado;;nosotros //nosotras ;;;habríamos anatematizado;;vosotros //vosotras ;;;habríais anatematizado;;ellos //ellas //ustedes ;;;habrían anatematizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anatematiza;;(usted) ;;;anatematice;;(nosotros) //(nosotras) ;;;anatematicemos;;(vosotros) //(vosotras) ;;;anatematizad;;(ustedes) ;;;anatematicen;;(vos) ;;;anatematizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;anatematices;;(usted) ;no ;;anatematice;;(nosotros) //(nosotras) ;no ;;anatematicemos;;(vosotros) //(vosotras) ;no ;;anatematicéis;;(ustedes) ;no ;;anatematicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;anatematizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;anatematiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

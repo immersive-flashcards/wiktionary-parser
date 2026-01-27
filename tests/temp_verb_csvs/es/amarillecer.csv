@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;amarillecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;amarilleciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;amarillecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;amarillezco;;tú ;;;amarilleces;;él //ella //usted ;;;amarillece;;nosotros //nosotras ;;;amarillecemos;;vosotros //vosotras ;;;amarillecéis;;ellos //ellas //ustedes ;;;amarillecen;;vos ;;;amarillecés
+Indicativo Imperfecto;indicativo;;yo ;;;amarillecía;;tú //vos ;;;amarillecías;;él //ella //usted ;;;amarillecía;;nosotros //nosotras ;;;amarillecíamos;;vosotros //vosotras ;;;amarillecíais;;ellos //ellas //ustedes ;;;amarillecían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;amarillecí;;tú //vos ;;;amarilleciste;;él //ella //usted ;;;amarilleció;;nosotros //nosotras ;;;amarillecimos;;vosotros //vosotras ;;;amarillecisteis;;ellos //ellas //ustedes ;;;amarillecieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;amarilleceré;;tú //vos ;;;amarillecerás;;él //ella //usted ;;;amarillecerá;;nosotros //nosotras ;;;amarilleceremos;;vosotros //vosotras ;;;amarilleceréis;;ellos //ellas //ustedes ;;;amarillecerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he amarillecido;;tú //vos ;;;has amarillecido;;él //ella //usted ;;;ha amarillecido;;nosotros //nosotras ;;;hemos amarillecido;;vosotros //vosotras ;;;habéis amarillecido;;ellos //ellas //ustedes ;;;han amarillecido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había amarillecido;;tú //vos ;;;habías amarillecido;;él //ella //usted ;;;había amarillecido;;nosotros //nosotras ;;;habíamos amarillecido;;vosotros //vosotras ;;;habíais amarillecido;;ellos //ellas //ustedes ;;;habían amarillecido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube amarillecido;;tú //vos ;;;hubiste amarillecido;;él //ella //usted ;;;hubo amarillecido;;nosotros //nosotras ;;;hubimos amarillecido;;vosotros //vosotras ;;;hubisteis amarillecido;;ellos //ellas //ustedes ;;;hubieron amarillecido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré amarillecido;;tú //vos ;;;habrás amarillecido;;él //ella //usted ;;;habrá amarillecido;;nosotros //nosotras ;;;habremos amarillecido;;vosotros //vosotras ;;;habréis amarillecido;;ellos //ellas //ustedes ;;;habrán amarillecido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;amarillezca;;tú //vos ;;;amarillezcas;;él //ella //usted ;;;amarillezca;;nosotros //nosotras ;;;amarillezcamos;;vosotros //vosotras ;;;amarillezcáis;;ellos //ellas //ustedes ;;;amarillezcan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;amarilleciera / amarilleciese;;tú //vos ;;;amarillecieras / amarillecieses;;él //ella //usted ;;;amarilleciera / amarilleciese;;nosotros //nosotras ;;;amarilleciéramos / amarilleciésemos;;vosotros //vosotras ;;;amarillecierais / amarillecieseis;;ellos //ellas //ustedes ;;;amarillecieran / amarilleciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;amarilleciere;;tú //vos ;;;amarillecieres;;él //ella //usted ;;;amarilleciere;;nosotros //nosotras ;;;amarilleciéremos;;vosotros //vosotras ;;;amarilleciereis;;ellos //ellas //ustedes ;;;amarillecieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya amarillecido;;tú //vos ;;;hayas amarillecido;;él //ella //usted ;;;haya amarillecido;;nosotros //nosotras ;;;hayamos amarillecido;;vosotros //vosotras ;;;hayáis amarillecido;;ellos //ellas //ustedes ;;;hayan amarillecido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera amarillecido / hubiese amarillecido;;tú //vos ;;;hubieras amarillecido / hubieses amarillecido;;él //ella //usted ;;;hubiera amarillecido / hubiese amarillecido;;nosotros //nosotras ;;;hubiéramos amarillecido / hubiésemos amarillecido;;vosotros //vosotras ;;;hubierais amarillecido / hubieseis amarillecido;;ellos //ellas //ustedes ;;;hubieran amarillecido / hubiesen amarillecido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere amarillecido;;tú //vos ;;;hubieres amarillecido;;él //ella //usted ;;;hubiere amarillecido;;nosotros //nosotras ;;;hubiéremos amarillecido;;vosotros //vosotras ;;;hubiereis amarillecido;;ellos //ellas //ustedes ;;;hubieren amarillecido;;;;;
+Condicional;condicional;;yo ;;;amarillecería;;tú //vos ;;;amarillecerías;;él //ella //usted ;;;amarillecería;;nosotros //nosotras ;;;amarilleceríamos;;vosotros //vosotras ;;;amarilleceríais;;ellos //ellas //ustedes ;;;amarillecerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría amarillecido;;tú //vos ;;;habrías amarillecido;;él //ella //usted ;;;habría amarillecido;;nosotros //nosotras ;;;habríamos amarillecido;;vosotros //vosotras ;;;habríais amarillecido;;ellos //ellas //ustedes ;;;habrían amarillecido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;amarillece;;(usted) ;;;amarillezca;;(nosotros) //(nosotras) ;;;amarillezcamos;;(vosotros) //(vosotras) ;;;amarilleced;;(ustedes) ;;;amarillezcan;;(vos) ;;;amarillecé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;amarillezcas;;(usted) ;no ;;amarillezca;;(nosotros) //(nosotras) ;no ;;amarillezcamos;;(vosotros) //(vosotras) ;no ;;amarillezcáis;;(ustedes) ;no ;;amarillezcan;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;amarillecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;amarillec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

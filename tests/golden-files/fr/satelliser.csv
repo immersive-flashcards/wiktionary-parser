@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;satelliserais;;tu ;;;satelliserais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais satellisé;;tu ;;;aurais satellisé;;il/elle/on ;;;aurait satellisé;;nous ;;;aurions satellisé;;vous ;;;auriez satellisé;;ils/elles ;;;auraient satellisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;satellise;;;;;;;(nous) ;;;satellisons;;(vous) ;;;satellisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie satellisé;;;;;;;(nous) ;;;ayons satellisé;;(vous) ;;;ayez satellisé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;satellise pas;;;;;;;(nous) ;ne ;;satellisons pas;;(vous) ;ne ;;satellisez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;satellise pas ;;;;;;;(nous) ;ne ;;satellisons pas ;;(vous) ;ne ;;satellisez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas satellisé;;;;;;;(nous) ;n';;ayons pas satellisé;;(vous) ;n';;ayez pas satellisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;satelliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

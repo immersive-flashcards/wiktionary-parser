@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;castellanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;castellanizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;castellanizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;castellanizo;;tú ;;;castellanizas;;él //ella //usted ;;;castellaniza;;nosotros //nosotras ;;;castellanizamos;;vosotros //vosotras ;;;castellanizáis;;ellos //ellas //ustedes ;;;castellanizan;;vos ;;;castellanizás
+Indicativo Imperfecto;indicativo;;yo ;;;castellanizaba;;tú //vos ;;;castellanizabas;;él //ella //usted ;;;castellanizaba;;nosotros //nosotras ;;;castellanizábamos;;vosotros //vosotras ;;;castellanizabais;;ellos //ellas //ustedes ;;;castellanizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;castellanicé;;tú //vos ;;;castellanizaste;;él //ella //usted ;;;castellanizó;;nosotros //nosotras ;;;castellanizamos;;vosotros //vosotras ;;;castellanizasteis;;ellos //ellas //ustedes ;;;castellanizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;castellanizaré;;tú //vos ;;;castellanizarás;;él //ella //usted ;;;castellanizará;;nosotros //nosotras ;;;castellanizaremos;;vosotros //vosotras ;;;castellanizaréis;;ellos //ellas //ustedes ;;;castellanizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he castellanizado;;tú //vos ;;;has castellanizado;;él //ella //usted ;;;ha castellanizado;;nosotros //nosotras ;;;hemos castellanizado;;vosotros //vosotras ;;;habéis castellanizado;;ellos //ellas //ustedes ;;;han castellanizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había castellanizado;;tú //vos ;;;habías castellanizado;;él //ella //usted ;;;había castellanizado;;nosotros //nosotras ;;;habíamos castellanizado;;vosotros //vosotras ;;;habíais castellanizado;;ellos //ellas //ustedes ;;;habían castellanizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube castellanizado;;tú //vos ;;;hubiste castellanizado;;él //ella //usted ;;;hubo castellanizado;;nosotros //nosotras ;;;hubimos castellanizado;;vosotros //vosotras ;;;hubisteis castellanizado;;ellos //ellas //ustedes ;;;hubieron castellanizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré castellanizado;;tú //vos ;;;habrás castellanizado;;él //ella //usted ;;;habrá castellanizado;;nosotros //nosotras ;;;habremos castellanizado;;vosotros //vosotras ;;;habréis castellanizado;;ellos //ellas //ustedes ;;;habrán castellanizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;castellanice;;tú //vos ;;;castellanices;;él //ella //usted ;;;castellanice;;nosotros //nosotras ;;;castellanicemos;;vosotros //vosotras ;;;castellanicéis;;ellos //ellas //ustedes ;;;castellanicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;castellanizara / castellanizase;;tú //vos ;;;castellanizaras / castellanizases;;él //ella //usted ;;;castellanizara / castellanizase;;nosotros //nosotras ;;;castellanizáramos / castellanizásemos;;vosotros //vosotras ;;;castellanizarais / castellanizaseis;;ellos //ellas //ustedes ;;;castellanizaran / castellanizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;castellanizare;;tú //vos ;;;castellanizares;;él //ella //usted ;;;castellanizare;;nosotros //nosotras ;;;castellanizáremos;;vosotros //vosotras ;;;castellanizareis;;ellos //ellas //ustedes ;;;castellanizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya castellanizado;;tú //vos ;;;hayas castellanizado;;él //ella //usted ;;;haya castellanizado;;nosotros //nosotras ;;;hayamos castellanizado;;vosotros //vosotras ;;;hayáis castellanizado;;ellos //ellas //ustedes ;;;hayan castellanizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera castellanizado / hubiese castellanizado;;tú //vos ;;;hubieras castellanizado / hubieses castellanizado;;él //ella //usted ;;;hubiera castellanizado / hubiese castellanizado;;nosotros //nosotras ;;;hubiéramos castellanizado / hubiésemos castellanizado;;vosotros //vosotras ;;;hubierais castellanizado / hubieseis castellanizado;;ellos //ellas //ustedes ;;;hubieran castellanizado / hubiesen castellanizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere castellanizado;;tú //vos ;;;hubieres castellanizado;;él //ella //usted ;;;hubiere castellanizado;;nosotros //nosotras ;;;hubiéremos castellanizado;;vosotros //vosotras ;;;hubiereis castellanizado;;ellos //ellas //ustedes ;;;hubieren castellanizado;;;;;
+Condicional;condicional;;yo ;;;castellanizaría;;tú //vos ;;;castellanizarías;;él //ella //usted ;;;castellanizaría;;nosotros //nosotras ;;;castellanizaríamos;;vosotros //vosotras ;;;castellanizaríais;;ellos //ellas //ustedes ;;;castellanizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría castellanizado;;tú //vos ;;;habrías castellanizado;;él //ella //usted ;;;habría castellanizado;;nosotros //nosotras ;;;habríamos castellanizado;;vosotros //vosotras ;;;habríais castellanizado;;ellos //ellas //ustedes ;;;habrían castellanizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;castellaniza;;(usted) ;;;castellanice;;(nosotros) //(nosotras) ;;;castellanicemos;;(vosotros) //(vosotras) ;;;castellanizad;;(ustedes) ;;;castellanicen;;(vos) ;;;castellanizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;castellanices;;(usted) ;no ;;castellanice;;(nosotros) //(nosotras) ;no ;;castellanicemos;;(vosotros) //(vosotras) ;no ;;castellanicéis;;(ustedes) ;no ;;castellanicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;castellanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;castellaniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

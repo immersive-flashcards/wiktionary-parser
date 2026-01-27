@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;existir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;existint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;existit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;existeixo;;tu ;;;existeixes;;ell //ella //vostè ;;;existeix;;nosaltres ;;;existim;;vosaltres ;;;existiu;;ells //elles //vostès ;;;existeixen
+Indicatiu Imperfet;indicativo;;jo ;;;existia;;tu ;;;existies;;ell //ella //vostè ;;;existia;;nosaltres ;;;existíem;;vosaltres ;;;existíeu;;ells //elles //vostès ;;;existien
+Indicatiu Futur;indicativo;;jo ;;;existiré;;tu ;;;existiràs;;ell //ella //vostè ;;;existirà;;nosaltres ;;;existirem;;vosaltres ;;;existireu;;ells //elles //vostès ;;;existiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;existí;;tu ;;;existires;;ell //ella //vostè ;;;existí;;nosaltres ;;;existírem;;vosaltres ;;;existíreu;;ells //elles //vostès ;;;existiren
+Condicional;condicional;;jo ;;;existiria;;tu ;;;existiries;;ell //ella //vostè ;;;existiria;;nosaltres ;;;existiríem;;vosaltres ;;;existiríeu;;ells //elles //vostès ;;;existirien
+Subjuntiu Present;subjuntiu;;jo ;;;existeixi;;tu ;;;existeixis;;ell //ella //vostè ;;;existeixi;;nosaltres ;;;existim;;vosaltres ;;;existiu;;ells //elles //vostès ;;;existeixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;existís;;tu ;;;existissis;;ell //ella //vostè ;;;existís;;nosaltres ;;;existíssim;;vosaltres ;;;existíssiu;;ells //elles //vostès ;;;existissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;existeix;;(vostè) ;;;existeixi;;(nosaltres) ;;;existim;;(vosaltres) ;;;existiu;;(vostès) ;;;existeixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;existeixis;;(vostè) ;no ;;existeixi;;(nosaltres) ;no ;;existim;;(vosaltres) ;no ;;existiu;;(vostès) ;no ;;existeixin
+Indicatiu Perfet;indicatiu;;jo ;;;he existit;;tu ;;;has existit;;ell //ella //vostè ;;;ha existit;;nosaltres ;;;hem existit;;vosaltres ;;;heu existit;;ells //elles //vostès ;;;han existit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig existit;;tu ;;;vas existit;;ell //ella //vostè ;;;va existit;;nosaltres ;;;vam existit;;vosaltres ;;;vau existit;;ells //elles //vostès ;;;van existit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia existit;;tu ;;;havies existit;;ell //ella //vostè ;;;havia existit;;nosaltres ;;;havíem existit;;vosaltres ;;;havíeu existit;;ells //elles //vostès ;;;havien existit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí existit;;tu ;;;hagueres existit;;ell //ella //vostè ;;;hagué existit;;nosaltres ;;;haguérem existit;;vosaltres ;;;haguéreu existit;;ells //elles //vostès ;;;hagueren existit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver existit;;tu ;;;vas haver existit;;ell //ella //vostè ;;;va haver existit;;nosaltres ;;;vam haver existit;;vosaltres ;;;vau haver existit;;ells //elles //vostès ;;;van haver existit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré existit;;tu ;;;hauràs existit;;ell //ella //vostè ;;;haurà existit;;nosaltres ;;;haurem existit;;vosaltres ;;;haureu existit;;ells //elles //vostès ;;;hauran existit
+Condicional Perfet;condicional;;jo ;;;hauria existit;;tu ;;;hauries existit;;ell //ella //vostè ;;;hauria existit;;nosaltres ;;;hauríem existit;;vosaltres ;;;hauríeu existit;;ells //elles //vostès ;;;haurien existit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi existit;;tu ;;;vagis existit;;ell //ella //vostè ;;;vagi existit;;nosaltres ;;;vàgim existit;;vosaltres ;;;vàgiu existit;;ells //elles //vostès ;;;vagin existit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi existit;;tu ;;;hagis existit;;ell //ella //vostè ;;;hagi existit;;nosaltres ;;;hàgim existit;;vosaltres ;;;hàgiu existit;;ells //elles //vostès ;;;hagin existit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes existit;;tu ;;;haguessis existit;;ell //ella //vostè ;;;hagués existit;;nosaltres ;;;haguéssim existit;;vosaltres ;;;haguéssiu existit;;ells //elles //vostès ;;;haguessin existit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver existit;;tu ;;;vagis haver existit;;ell //ella //vostè ;;;vagi haver existit;;nosaltres ;;;vàgim haver existit;;vosaltres ;;;vàgiu haver existit;;ells //elles //vostès ;;;vagin haver existit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;existir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;exist;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

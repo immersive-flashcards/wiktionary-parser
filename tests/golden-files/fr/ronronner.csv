@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;ronronnerais;;tu ;;;ronronnerais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais ronronné;;tu ;;;aurais ronronné;;il/elle/on ;;;aurait ronronné;;nous ;;;aurions ronronné;;vous ;;;auriez ronronné;;ils/elles ;;;auraient ronronné
 Impératif Présent;impératif;;;;;;;(tu) ;;;ronronne;;;;;;;(nous) ;;;ronronnons;;(vous) ;;;ronronnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie ronronné;;;;;;;(nous) ;;;ayons ronronné;;(vous) ;;;ayez ronronné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;ronronne pas;;;;;;;(nous) ;ne ;;ronronnons pas;;(vous) ;ne ;;ronronnez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;ronronne pas ;;;;;;;(nous) ;ne ;;ronronnons pas ;;(vous) ;ne ;;ronronnez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas ronronné;;;;;;;(nous) ;n';;ayons pas ronronné;;(vous) ;n';;ayez pas ronronné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;ronronner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

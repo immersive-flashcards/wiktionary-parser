@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;réserverais;;tu ;;;réserverais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais réservé;;tu ;;;aurais réservé;;il/elle/on ;;;aurait réservé;;nous ;;;aurions réservé;;vous ;;;auriez réservé;;ils/elles ;;;auraient réservé
 Impératif Présent;impératif;;;;;;;(tu) ;;;réserve;;;;;;;(nous) ;;;réservons;;(vous) ;;;réservez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie réservé;;;;;;;(nous) ;;;ayons réservé;;(vous) ;;;ayez réservé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;réserve pas;;;;;;;(nous) ;ne ;;réservons pas;;(vous) ;ne ;;réservez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;réserve pas ;;;;;;;(nous) ;ne ;;réservons pas ;;(vous) ;ne ;;réservez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas réservé;;;;;;;(nous) ;n';;ayons pas réservé;;(vous) ;n';;ayez pas réservé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;réserver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

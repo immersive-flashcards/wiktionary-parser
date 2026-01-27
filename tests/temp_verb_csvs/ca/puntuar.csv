@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;puntuar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;puntuant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;puntuat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;puntuo;;tu ;;;puntues;;ell //ella //vostè ;;;puntua;;nosaltres ;;;puntuem;;vosaltres ;;;puntueu;;ells //elles //vostès ;;;puntuen
+Indicatiu Imperfet;indicativo;;jo ;;;puntuava;;tu ;;;puntuaves;;ell //ella //vostè ;;;puntuava;;nosaltres ;;;puntuàvem;;vosaltres ;;;puntuàveu;;ells //elles //vostès ;;;puntuaven
+Indicatiu Futur;indicativo;;jo ;;;puntuaré;;tu ;;;puntuaràs;;ell //ella //vostè ;;;puntuarà;;nosaltres ;;;puntuarem;;vosaltres ;;;puntuareu;;ells //elles //vostès ;;;puntuaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;puntuí;;tu ;;;puntuares;;ell //ella //vostè ;;;puntuà;;nosaltres ;;;puntuàrem;;vosaltres ;;;puntuàreu;;ells //elles //vostès ;;;puntuaren
+Condicional;condicional;;jo ;;;puntuaria;;tu ;;;puntuaries;;ell //ella //vostè ;;;puntuaria;;nosaltres ;;;puntuaríem;;vosaltres ;;;puntuaríeu;;ells //elles //vostès ;;;puntuarien
+Subjuntiu Present;subjuntiu;;jo ;;;puntuï;;tu ;;;puntuïs;;ell //ella //vostè ;;;puntuï;;nosaltres ;;;puntuem;;vosaltres ;;;puntueu;;ells //elles //vostès ;;;puntuïn
+Subjuntiu Imperfet;subjuntiu;;jo ;;;puntués;;tu ;;;puntuessis;;ell //ella //vostè ;;;puntués;;nosaltres ;;;puntuéssim;;vosaltres ;;;puntuéssiu;;ells //elles //vostès ;;;puntuessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;puntua;;(vostè) ;;;puntuï;;(nosaltres) ;;;puntuem;;(vosaltres) ;;;puntueu;;(vostès) ;;;puntuïn
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;puntuïs;;(vostè) ;no ;;puntuï;;(nosaltres) ;no ;;puntuem;;(vosaltres) ;no ;;puntueu;;(vostès) ;no ;;puntuïn
+Indicatiu Perfet;indicatiu;;jo ;;;he puntuat;;tu ;;;has puntuat;;ell //ella //vostè ;;;ha puntuat;;nosaltres ;;;hem puntuat;;vosaltres ;;;heu puntuat;;ells //elles //vostès ;;;han puntuat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig puntuat;;tu ;;;vas puntuat;;ell //ella //vostè ;;;va puntuat;;nosaltres ;;;vam puntuat;;vosaltres ;;;vau puntuat;;ells //elles //vostès ;;;van puntuat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia puntuat;;tu ;;;havies puntuat;;ell //ella //vostè ;;;havia puntuat;;nosaltres ;;;havíem puntuat;;vosaltres ;;;havíeu puntuat;;ells //elles //vostès ;;;havien puntuat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí puntuat;;tu ;;;hagueres puntuat;;ell //ella //vostè ;;;hagué puntuat;;nosaltres ;;;haguérem puntuat;;vosaltres ;;;haguéreu puntuat;;ells //elles //vostès ;;;hagueren puntuat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver puntuat;;tu ;;;vas haver puntuat;;ell //ella //vostè ;;;va haver puntuat;;nosaltres ;;;vam haver puntuat;;vosaltres ;;;vau haver puntuat;;ells //elles //vostès ;;;van haver puntuat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré puntuat;;tu ;;;hauràs puntuat;;ell //ella //vostè ;;;haurà puntuat;;nosaltres ;;;haurem puntuat;;vosaltres ;;;haureu puntuat;;ells //elles //vostès ;;;hauran puntuat
+Condicional Perfet;condicional;;jo ;;;hauria puntuat;;tu ;;;hauries puntuat;;ell //ella //vostè ;;;hauria puntuat;;nosaltres ;;;hauríem puntuat;;vosaltres ;;;hauríeu puntuat;;ells //elles //vostès ;;;haurien puntuat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi puntuat;;tu ;;;vagis puntuat;;ell //ella //vostè ;;;vagi puntuat;;nosaltres ;;;vàgim puntuat;;vosaltres ;;;vàgiu puntuat;;ells //elles //vostès ;;;vagin puntuat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi puntuat;;tu ;;;hagis puntuat;;ell //ella //vostè ;;;hagi puntuat;;nosaltres ;;;hàgim puntuat;;vosaltres ;;;hàgiu puntuat;;ells //elles //vostès ;;;hagin puntuat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes puntuat;;tu ;;;haguessis puntuat;;ell //ella //vostè ;;;hagués puntuat;;nosaltres ;;;haguéssim puntuat;;vosaltres ;;;haguéssiu puntuat;;ells //elles //vostès ;;;haguessin puntuat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver puntuat;;tu ;;;vagis haver puntuat;;ell //ella //vostè ;;;vagi haver puntuat;;nosaltres ;;;vàgim haver puntuat;;vosaltres ;;;vàgiu haver puntuat;;ells //elles //vostès ;;;vagin haver puntuat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;puntuar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;puntu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

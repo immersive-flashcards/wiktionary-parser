@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;obligerais;;tu ;;;obligerais;;il/elle/on ;;;ob
 Conditionnel Passé;conditionnel;;j’;;;aurais obligé;;tu ;;;aurais obligé;;il/elle/on ;;;aurait obligé;;nous ;;;aurions obligé;;vous ;;;auriez obligé;;ils/elles ;;;auraient obligé
 Impératif Présent;impératif;;;;;;;(tu) ;;;oblige;;;;;;;(nous) ;;;obligeons;;(vous) ;;;obligez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie obligé;;;;;;;(nous) ;;;ayons obligé;;(vous) ;;;ayez obligé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;oblige pas;;;;;;;(nous) ;n';;obligeons pas;;(vous) ;n';;obligez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;oblige pas ;;;;;;;(nous) ;n';;obligeons pas ;;(vous) ;n';;obligez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas obligé;;;;;;;(nous) ;n';;ayons pas obligé;;(vous) ;n';;ayez pas obligé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;obliger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

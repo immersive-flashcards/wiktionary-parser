@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;ulular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;ululant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;ululat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;ululo;;tu ;;;ulules;;ell //ella //vostè ;;;ulula;;nosaltres ;;;ululem;;vosaltres ;;;ululeu;;ells //elles //vostès ;;;ululen
+Indicatiu Imperfet;indicativo;;jo ;;;ululava;;tu ;;;ululaves;;ell //ella //vostè ;;;ululava;;nosaltres ;;;ululàvem;;vosaltres ;;;ululàveu;;ells //elles //vostès ;;;ululaven
+Indicatiu Futur;indicativo;;jo ;;;ulularé;;tu ;;;ulularàs;;ell //ella //vostè ;;;ulularà;;nosaltres ;;;ulularem;;vosaltres ;;;ululareu;;ells //elles //vostès ;;;ulularan
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;ululí;;tu ;;;ululares;;ell //ella //vostè ;;;ululà;;nosaltres ;;;ululàrem;;vosaltres ;;;ululàreu;;ells //elles //vostès ;;;ulularen
+Condicional;condicional;;jo ;;;ulularia;;tu ;;;ulularies;;ell //ella //vostè ;;;ulularia;;nosaltres ;;;ulularíem;;vosaltres ;;;ulularíeu;;ells //elles //vostès ;;;ulularien
+Subjuntiu Present;subjuntiu;;jo ;;;ululi;;tu ;;;ululis;;ell //ella //vostè ;;;ululi;;nosaltres ;;;ululem;;vosaltres ;;;ululeu;;ells //elles //vostès ;;;ululin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;ululés;;tu ;;;ululessis;;ell //ella //vostè ;;;ululés;;nosaltres ;;;ululéssim;;vosaltres ;;;ululéssiu;;ells //elles //vostès ;;;ululessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;ulula;;(vostè) ;;;ululi;;(nosaltres) ;;;ululem;;(vosaltres) ;;;ululeu;;(vostès) ;;;ululin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;ululis;;(vostè) ;no ;;ululi;;(nosaltres) ;no ;;ululem;;(vosaltres) ;no ;;ululeu;;(vostès) ;no ;;ululin
+Indicatiu Perfet;indicatiu;;jo ;;;he ululat;;tu ;;;has ululat;;ell //ella //vostè ;;;ha ululat;;nosaltres ;;;hem ululat;;vosaltres ;;;heu ululat;;ells //elles //vostès ;;;han ululat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig ululat;;tu ;;;vas ululat;;ell //ella //vostè ;;;va ululat;;nosaltres ;;;vam ululat;;vosaltres ;;;vau ululat;;ells //elles //vostès ;;;van ululat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia ululat;;tu ;;;havies ululat;;ell //ella //vostè ;;;havia ululat;;nosaltres ;;;havíem ululat;;vosaltres ;;;havíeu ululat;;ells //elles //vostès ;;;havien ululat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí ululat;;tu ;;;hagueres ululat;;ell //ella //vostè ;;;hagué ululat;;nosaltres ;;;haguérem ululat;;vosaltres ;;;haguéreu ululat;;ells //elles //vostès ;;;hagueren ululat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver ululat;;tu ;;;vas haver ululat;;ell //ella //vostè ;;;va haver ululat;;nosaltres ;;;vam haver ululat;;vosaltres ;;;vau haver ululat;;ells //elles //vostès ;;;van haver ululat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré ululat;;tu ;;;hauràs ululat;;ell //ella //vostè ;;;haurà ululat;;nosaltres ;;;haurem ululat;;vosaltres ;;;haureu ululat;;ells //elles //vostès ;;;hauran ululat
+Condicional Perfet;condicional;;jo ;;;hauria ululat;;tu ;;;hauries ululat;;ell //ella //vostè ;;;hauria ululat;;nosaltres ;;;hauríem ululat;;vosaltres ;;;hauríeu ululat;;ells //elles //vostès ;;;haurien ululat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi ululat;;tu ;;;vagis ululat;;ell //ella //vostè ;;;vagi ululat;;nosaltres ;;;vàgim ululat;;vosaltres ;;;vàgiu ululat;;ells //elles //vostès ;;;vagin ululat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi ululat;;tu ;;;hagis ululat;;ell //ella //vostè ;;;hagi ululat;;nosaltres ;;;hàgim ululat;;vosaltres ;;;hàgiu ululat;;ells //elles //vostès ;;;hagin ululat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes ululat;;tu ;;;haguessis ululat;;ell //ella //vostè ;;;hagués ululat;;nosaltres ;;;haguéssim ululat;;vosaltres ;;;haguéssiu ululat;;ells //elles //vostès ;;;haguessin ululat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver ululat;;tu ;;;vagis haver ululat;;ell //ella //vostè ;;;vagi haver ululat;;nosaltres ;;;vàgim haver ululat;;vosaltres ;;;vàgiu haver ululat;;ells //elles //vostès ;;;vagin haver ululat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;ulular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;ulul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

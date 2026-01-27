@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;actualizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;actualizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;actualizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;actualizo;;tú ;;;actualizas;;él //ella //usted ;;;actualiza;;nosotros //nosotras ;;;actualizamos;;vosotros //vosotras ;;;actualizáis;;ellos //ellas //ustedes ;;;actualizan;;vos ;;;actualizás
+Indicativo Imperfecto;indicativo;;yo ;;;actualizaba;;tú //vos ;;;actualizabas;;él //ella //usted ;;;actualizaba;;nosotros //nosotras ;;;actualizábamos;;vosotros //vosotras ;;;actualizabais;;ellos //ellas //ustedes ;;;actualizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;actualicé;;tú //vos ;;;actualizaste;;él //ella //usted ;;;actualizó;;nosotros //nosotras ;;;actualizamos;;vosotros //vosotras ;;;actualizasteis;;ellos //ellas //ustedes ;;;actualizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;actualizaré;;tú //vos ;;;actualizarás;;él //ella //usted ;;;actualizará;;nosotros //nosotras ;;;actualizaremos;;vosotros //vosotras ;;;actualizaréis;;ellos //ellas //ustedes ;;;actualizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he actualizado;;tú //vos ;;;has actualizado;;él //ella //usted ;;;ha actualizado;;nosotros //nosotras ;;;hemos actualizado;;vosotros //vosotras ;;;habéis actualizado;;ellos //ellas //ustedes ;;;han actualizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había actualizado;;tú //vos ;;;habías actualizado;;él //ella //usted ;;;había actualizado;;nosotros //nosotras ;;;habíamos actualizado;;vosotros //vosotras ;;;habíais actualizado;;ellos //ellas //ustedes ;;;habían actualizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube actualizado;;tú //vos ;;;hubiste actualizado;;él //ella //usted ;;;hubo actualizado;;nosotros //nosotras ;;;hubimos actualizado;;vosotros //vosotras ;;;hubisteis actualizado;;ellos //ellas //ustedes ;;;hubieron actualizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré actualizado;;tú //vos ;;;habrás actualizado;;él //ella //usted ;;;habrá actualizado;;nosotros //nosotras ;;;habremos actualizado;;vosotros //vosotras ;;;habréis actualizado;;ellos //ellas //ustedes ;;;habrán actualizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;actualice;;tú //vos ;;;actualices;;él //ella //usted ;;;actualice;;nosotros //nosotras ;;;actualicemos;;vosotros //vosotras ;;;actualicéis;;ellos //ellas //ustedes ;;;actualicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;actualizara / actualizase;;tú //vos ;;;actualizaras / actualizases;;él //ella //usted ;;;actualizara / actualizase;;nosotros //nosotras ;;;actualizáramos / actualizásemos;;vosotros //vosotras ;;;actualizarais / actualizaseis;;ellos //ellas //ustedes ;;;actualizaran / actualizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;actualizare;;tú //vos ;;;actualizares;;él //ella //usted ;;;actualizare;;nosotros //nosotras ;;;actualizáremos;;vosotros //vosotras ;;;actualizareis;;ellos //ellas //ustedes ;;;actualizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya actualizado;;tú //vos ;;;hayas actualizado;;él //ella //usted ;;;haya actualizado;;nosotros //nosotras ;;;hayamos actualizado;;vosotros //vosotras ;;;hayáis actualizado;;ellos //ellas //ustedes ;;;hayan actualizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera actualizado / hubiese actualizado;;tú //vos ;;;hubieras actualizado / hubieses actualizado;;él //ella //usted ;;;hubiera actualizado / hubiese actualizado;;nosotros //nosotras ;;;hubiéramos actualizado / hubiésemos actualizado;;vosotros //vosotras ;;;hubierais actualizado / hubieseis actualizado;;ellos //ellas //ustedes ;;;hubieran actualizado / hubiesen actualizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere actualizado;;tú //vos ;;;hubieres actualizado;;él //ella //usted ;;;hubiere actualizado;;nosotros //nosotras ;;;hubiéremos actualizado;;vosotros //vosotras ;;;hubiereis actualizado;;ellos //ellas //ustedes ;;;hubieren actualizado;;;;;
+Condicional;condicional;;yo ;;;actualizaría;;tú //vos ;;;actualizarías;;él //ella //usted ;;;actualizaría;;nosotros //nosotras ;;;actualizaríamos;;vosotros //vosotras ;;;actualizaríais;;ellos //ellas //ustedes ;;;actualizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría actualizado;;tú //vos ;;;habrías actualizado;;él //ella //usted ;;;habría actualizado;;nosotros //nosotras ;;;habríamos actualizado;;vosotros //vosotras ;;;habríais actualizado;;ellos //ellas //ustedes ;;;habrían actualizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;actualiza;;(usted) ;;;actualice;;(nosotros) //(nosotras) ;;;actualicemos;;(vosotros) //(vosotras) ;;;actualizad;;(ustedes) ;;;actualicen;;(vos) ;;;actualizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;actualices;;(usted) ;no ;;actualice;;(nosotros) //(nosotras) ;no ;;actualicemos;;(vosotros) //(vosotras) ;no ;;actualicéis;;(ustedes) ;no ;;actualicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;actualizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;actualiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

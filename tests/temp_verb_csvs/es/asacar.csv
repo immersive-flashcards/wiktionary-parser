@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;asacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;asacando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;asacado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;asaco;;tú ;;;asacas;;él //ella //usted ;;;asaca;;nosotros //nosotras ;;;asacamos;;vosotros //vosotras ;;;asacáis;;ellos //ellas //ustedes ;;;asacan;;vos ;;;asacás
+Indicativo Imperfecto;indicativo;;yo ;;;asacaba;;tú //vos ;;;asacabas;;él //ella //usted ;;;asacaba;;nosotros //nosotras ;;;asacábamos;;vosotros //vosotras ;;;asacabais;;ellos //ellas //ustedes ;;;asacaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;asaqué;;tú //vos ;;;asacaste;;él //ella //usted ;;;asacó;;nosotros //nosotras ;;;asacamos;;vosotros //vosotras ;;;asacasteis;;ellos //ellas //ustedes ;;;asacaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;asacaré;;tú //vos ;;;asacarás;;él //ella //usted ;;;asacará;;nosotros //nosotras ;;;asacaremos;;vosotros //vosotras ;;;asacaréis;;ellos //ellas //ustedes ;;;asacarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he asacado;;tú //vos ;;;has asacado;;él //ella //usted ;;;ha asacado;;nosotros //nosotras ;;;hemos asacado;;vosotros //vosotras ;;;habéis asacado;;ellos //ellas //ustedes ;;;han asacado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había asacado;;tú //vos ;;;habías asacado;;él //ella //usted ;;;había asacado;;nosotros //nosotras ;;;habíamos asacado;;vosotros //vosotras ;;;habíais asacado;;ellos //ellas //ustedes ;;;habían asacado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube asacado;;tú //vos ;;;hubiste asacado;;él //ella //usted ;;;hubo asacado;;nosotros //nosotras ;;;hubimos asacado;;vosotros //vosotras ;;;hubisteis asacado;;ellos //ellas //ustedes ;;;hubieron asacado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré asacado;;tú //vos ;;;habrás asacado;;él //ella //usted ;;;habrá asacado;;nosotros //nosotras ;;;habremos asacado;;vosotros //vosotras ;;;habréis asacado;;ellos //ellas //ustedes ;;;habrán asacado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;asaque;;tú //vos ;;;asaques;;él //ella //usted ;;;asaque;;nosotros //nosotras ;;;asaquemos;;vosotros //vosotras ;;;asaquéis;;ellos //ellas //ustedes ;;;asaquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;asacara / asacase;;tú //vos ;;;asacaras / asacases;;él //ella //usted ;;;asacara / asacase;;nosotros //nosotras ;;;asacáramos / asacásemos;;vosotros //vosotras ;;;asacarais / asacaseis;;ellos //ellas //ustedes ;;;asacaran / asacasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;asacare;;tú //vos ;;;asacares;;él //ella //usted ;;;asacare;;nosotros //nosotras ;;;asacáremos;;vosotros //vosotras ;;;asacareis;;ellos //ellas //ustedes ;;;asacaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya asacado;;tú //vos ;;;hayas asacado;;él //ella //usted ;;;haya asacado;;nosotros //nosotras ;;;hayamos asacado;;vosotros //vosotras ;;;hayáis asacado;;ellos //ellas //ustedes ;;;hayan asacado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera asacado / hubiese asacado;;tú //vos ;;;hubieras asacado / hubieses asacado;;él //ella //usted ;;;hubiera asacado / hubiese asacado;;nosotros //nosotras ;;;hubiéramos asacado / hubiésemos asacado;;vosotros //vosotras ;;;hubierais asacado / hubieseis asacado;;ellos //ellas //ustedes ;;;hubieran asacado / hubiesen asacado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere asacado;;tú //vos ;;;hubieres asacado;;él //ella //usted ;;;hubiere asacado;;nosotros //nosotras ;;;hubiéremos asacado;;vosotros //vosotras ;;;hubiereis asacado;;ellos //ellas //ustedes ;;;hubieren asacado;;;;;
+Condicional;condicional;;yo ;;;asacaría;;tú //vos ;;;asacarías;;él //ella //usted ;;;asacaría;;nosotros //nosotras ;;;asacaríamos;;vosotros //vosotras ;;;asacaríais;;ellos //ellas //ustedes ;;;asacarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría asacado;;tú //vos ;;;habrías asacado;;él //ella //usted ;;;habría asacado;;nosotros //nosotras ;;;habríamos asacado;;vosotros //vosotras ;;;habríais asacado;;ellos //ellas //ustedes ;;;habrían asacado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;asaca;;(usted) ;;;asaque;;(nosotros) //(nosotras) ;;;asaquemos;;(vosotros) //(vosotras) ;;;asacad;;(ustedes) ;;;asaquen;;(vos) ;;;asacá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;asaques;;(usted) ;no ;;asaque;;(nosotros) //(nosotras) ;no ;;asaquemos;;(vosotros) //(vosotras) ;no ;;asaquéis;;(ustedes) ;no ;;asaquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;asacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;asac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

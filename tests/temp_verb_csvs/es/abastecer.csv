@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;abastecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;abasteciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;abastecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;abastezco;;tú ;;;abasteces;;él //ella //usted ;;;abastece;;nosotros //nosotras ;;;abastecemos;;vosotros //vosotras ;;;abastecéis;;ellos //ellas //ustedes ;;;abastecen;;vos ;;;abastecés
+Indicativo Imperfecto;indicativo;;yo ;;;abastecía;;tú //vos ;;;abastecías;;él //ella //usted ;;;abastecía;;nosotros //nosotras ;;;abastecíamos;;vosotros //vosotras ;;;abastecíais;;ellos //ellas //ustedes ;;;abastecían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;abastecí;;tú //vos ;;;abasteciste;;él //ella //usted ;;;abasteció;;nosotros //nosotras ;;;abastecimos;;vosotros //vosotras ;;;abastecisteis;;ellos //ellas //ustedes ;;;abastecieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;abasteceré;;tú //vos ;;;abastecerás;;él //ella //usted ;;;abastecerá;;nosotros //nosotras ;;;abasteceremos;;vosotros //vosotras ;;;abasteceréis;;ellos //ellas //ustedes ;;;abastecerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he abastecido;;tú //vos ;;;has abastecido;;él //ella //usted ;;;ha abastecido;;nosotros //nosotras ;;;hemos abastecido;;vosotros //vosotras ;;;habéis abastecido;;ellos //ellas //ustedes ;;;han abastecido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había abastecido;;tú //vos ;;;habías abastecido;;él //ella //usted ;;;había abastecido;;nosotros //nosotras ;;;habíamos abastecido;;vosotros //vosotras ;;;habíais abastecido;;ellos //ellas //ustedes ;;;habían abastecido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube abastecido;;tú //vos ;;;hubiste abastecido;;él //ella //usted ;;;hubo abastecido;;nosotros //nosotras ;;;hubimos abastecido;;vosotros //vosotras ;;;hubisteis abastecido;;ellos //ellas //ustedes ;;;hubieron abastecido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré abastecido;;tú //vos ;;;habrás abastecido;;él //ella //usted ;;;habrá abastecido;;nosotros //nosotras ;;;habremos abastecido;;vosotros //vosotras ;;;habréis abastecido;;ellos //ellas //ustedes ;;;habrán abastecido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;abastezca;;tú //vos ;;;abastezcas;;él //ella //usted ;;;abastezca;;nosotros //nosotras ;;;abastezcamos;;vosotros //vosotras ;;;abastezcáis;;ellos //ellas //ustedes ;;;abastezcan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;abasteciera / abasteciese;;tú //vos ;;;abastecieras / abastecieses;;él //ella //usted ;;;abasteciera / abasteciese;;nosotros //nosotras ;;;abasteciéramos / abasteciésemos;;vosotros //vosotras ;;;abastecierais / abastecieseis;;ellos //ellas //ustedes ;;;abastecieran / abasteciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;abasteciere;;tú //vos ;;;abastecieres;;él //ella //usted ;;;abasteciere;;nosotros //nosotras ;;;abasteciéremos;;vosotros //vosotras ;;;abasteciereis;;ellos //ellas //ustedes ;;;abastecieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya abastecido;;tú //vos ;;;hayas abastecido;;él //ella //usted ;;;haya abastecido;;nosotros //nosotras ;;;hayamos abastecido;;vosotros //vosotras ;;;hayáis abastecido;;ellos //ellas //ustedes ;;;hayan abastecido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera abastecido / hubiese abastecido;;tú //vos ;;;hubieras abastecido / hubieses abastecido;;él //ella //usted ;;;hubiera abastecido / hubiese abastecido;;nosotros //nosotras ;;;hubiéramos abastecido / hubiésemos abastecido;;vosotros //vosotras ;;;hubierais abastecido / hubieseis abastecido;;ellos //ellas //ustedes ;;;hubieran abastecido / hubiesen abastecido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere abastecido;;tú //vos ;;;hubieres abastecido;;él //ella //usted ;;;hubiere abastecido;;nosotros //nosotras ;;;hubiéremos abastecido;;vosotros //vosotras ;;;hubiereis abastecido;;ellos //ellas //ustedes ;;;hubieren abastecido;;;;;
+Condicional;condicional;;yo ;;;abastecería;;tú //vos ;;;abastecerías;;él //ella //usted ;;;abastecería;;nosotros //nosotras ;;;abasteceríamos;;vosotros //vosotras ;;;abasteceríais;;ellos //ellas //ustedes ;;;abastecerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría abastecido;;tú //vos ;;;habrías abastecido;;él //ella //usted ;;;habría abastecido;;nosotros //nosotras ;;;habríamos abastecido;;vosotros //vosotras ;;;habríais abastecido;;ellos //ellas //ustedes ;;;habrían abastecido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abastece;;(usted) ;;;abastezca;;(nosotros) //(nosotras) ;;;abastezcamos;;(vosotros) //(vosotras) ;;;abasteced;;(ustedes) ;;;abastezcan;;(vos) ;;;abastecé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abastezcas;;(usted) ;no ;;abastezca;;(nosotros) //(nosotras) ;no ;;abastezcamos;;(vosotros) //(vosotras) ;no ;;abastezcáis;;(ustedes) ;no ;;abastezcan;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;abastecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;abastec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

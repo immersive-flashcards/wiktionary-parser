@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;quitar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;quitant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;quitat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;quito;;tu ;;;quites;;ell //ella //vostè ;;;quita;;nosaltres ;;;quitem;;vosaltres ;;;quiteu;;ells //elles //vostès ;;;quiten
+Indicatiu Imperfet;indicativo;;jo ;;;quitava;;tu ;;;quitaves;;ell //ella //vostè ;;;quitava;;nosaltres ;;;quitàvem;;vosaltres ;;;quitàveu;;ells //elles //vostès ;;;quitaven
+Indicatiu Futur;indicativo;;jo ;;;quitaré;;tu ;;;quitaràs;;ell //ella //vostè ;;;quitarà;;nosaltres ;;;quitarem;;vosaltres ;;;quitareu;;ells //elles //vostès ;;;quitaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;quití;;tu ;;;quitares;;ell //ella //vostè ;;;quità;;nosaltres ;;;quitàrem;;vosaltres ;;;quitàreu;;ells //elles //vostès ;;;quitaren
+Condicional;condicional;;jo ;;;quitaria;;tu ;;;quitaries;;ell //ella //vostè ;;;quitaria;;nosaltres ;;;quitaríem;;vosaltres ;;;quitaríeu;;ells //elles //vostès ;;;quitarien
+Subjuntiu Present;subjuntiu;;jo ;;;quiti;;tu ;;;quitis;;ell //ella //vostè ;;;quiti;;nosaltres ;;;quitem;;vosaltres ;;;quiteu;;ells //elles //vostès ;;;quitin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;quités;;tu ;;;quitessis;;ell //ella //vostè ;;;quités;;nosaltres ;;;quitéssim;;vosaltres ;;;quitéssiu;;ells //elles //vostès ;;;quitessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;quita;;(vostè) ;;;quiti;;(nosaltres) ;;;quitem;;(vosaltres) ;;;quiteu;;(vostès) ;;;quitin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;quitis;;(vostè) ;no ;;quiti;;(nosaltres) ;no ;;quitem;;(vosaltres) ;no ;;quiteu;;(vostès) ;no ;;quitin
+Indicatiu Perfet;indicatiu;;jo ;;;he quitat;;tu ;;;has quitat;;ell //ella //vostè ;;;ha quitat;;nosaltres ;;;hem quitat;;vosaltres ;;;heu quitat;;ells //elles //vostès ;;;han quitat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig quitat;;tu ;;;vas quitat;;ell //ella //vostè ;;;va quitat;;nosaltres ;;;vam quitat;;vosaltres ;;;vau quitat;;ells //elles //vostès ;;;van quitat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia quitat;;tu ;;;havies quitat;;ell //ella //vostè ;;;havia quitat;;nosaltres ;;;havíem quitat;;vosaltres ;;;havíeu quitat;;ells //elles //vostès ;;;havien quitat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí quitat;;tu ;;;hagueres quitat;;ell //ella //vostè ;;;hagué quitat;;nosaltres ;;;haguérem quitat;;vosaltres ;;;haguéreu quitat;;ells //elles //vostès ;;;hagueren quitat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver quitat;;tu ;;;vas haver quitat;;ell //ella //vostè ;;;va haver quitat;;nosaltres ;;;vam haver quitat;;vosaltres ;;;vau haver quitat;;ells //elles //vostès ;;;van haver quitat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré quitat;;tu ;;;hauràs quitat;;ell //ella //vostè ;;;haurà quitat;;nosaltres ;;;haurem quitat;;vosaltres ;;;haureu quitat;;ells //elles //vostès ;;;hauran quitat
+Condicional Perfet;condicional;;jo ;;;hauria quitat;;tu ;;;hauries quitat;;ell //ella //vostè ;;;hauria quitat;;nosaltres ;;;hauríem quitat;;vosaltres ;;;hauríeu quitat;;ells //elles //vostès ;;;haurien quitat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi quitat;;tu ;;;vagis quitat;;ell //ella //vostè ;;;vagi quitat;;nosaltres ;;;vàgim quitat;;vosaltres ;;;vàgiu quitat;;ells //elles //vostès ;;;vagin quitat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi quitat;;tu ;;;hagis quitat;;ell //ella //vostè ;;;hagi quitat;;nosaltres ;;;hàgim quitat;;vosaltres ;;;hàgiu quitat;;ells //elles //vostès ;;;hagin quitat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes quitat;;tu ;;;haguessis quitat;;ell //ella //vostè ;;;hagués quitat;;nosaltres ;;;haguéssim quitat;;vosaltres ;;;haguéssiu quitat;;ells //elles //vostès ;;;haguessin quitat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver quitat;;tu ;;;vagis haver quitat;;ell //ella //vostè ;;;vagi haver quitat;;nosaltres ;;;vàgim haver quitat;;vosaltres ;;;vàgiu haver quitat;;ells //elles //vostès ;;;vagin haver quitat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;quitar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;quit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

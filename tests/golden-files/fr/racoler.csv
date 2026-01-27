@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;racolerais;;tu ;;;racolerais;;il/elle/on ;;;rac
 Conditionnel Passé;conditionnel;;j’;;;aurais racolé;;tu ;;;aurais racolé;;il/elle/on ;;;aurait racolé;;nous ;;;aurions racolé;;vous ;;;auriez racolé;;ils/elles ;;;auraient racolé
 Impératif Présent;impératif;;;;;;;(tu) ;;;racole;;;;;;;(nous) ;;;racolons;;(vous) ;;;racolez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie racolé;;;;;;;(nous) ;;;ayons racolé;;(vous) ;;;ayez racolé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;racole pas;;;;;;;(nous) ;ne ;;racolons pas;;(vous) ;ne ;;racolez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;racole pas ;;;;;;;(nous) ;ne ;;racolons pas ;;(vous) ;ne ;;racolez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas racolé;;;;;;;(nous) ;n';;ayons pas racolé;;(vous) ;n';;ayez pas racolé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;racoler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;emmènerais;;tu ;;;emmènerais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais emmené;;tu ;;;aurais emmené;;il/elle/on ;;;aurait emmené;;nous ;;;aurions emmené;;vous ;;;auriez emmené;;ils/elles ;;;auraient emmené
 Impératif Présent;impératif;;;;;;;(tu) ;;;emmène;;;;;;;(nous) ;;;emmenons;;(vous) ;;;emmenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie emmené;;;;;;;(nous) ;;;ayons emmené;;(vous) ;;;ayez emmené;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;emmène pas;;;;;;;(nous) ;n';;emmenons pas;;(vous) ;n';;emmenez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;emmène pas ;;;;;;;(nous) ;n';;emmenons pas ;;(vous) ;n';;emmenez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas emmené;;;;;;;(nous) ;n';;ayons pas emmené;;(vous) ;n';;ayez pas emmené;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;emmener;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

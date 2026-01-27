@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;apelmazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;apelmazando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;apelmazado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;apelmazo;;tú ;;;apelmazas;;él //ella //usted ;;;apelmaza;;nosotros //nosotras ;;;apelmazamos;;vosotros //vosotras ;;;apelmazáis;;ellos //ellas //ustedes ;;;apelmazan;;vos ;;;apelmazás
+Indicativo Imperfecto;indicativo;;yo ;;;apelmazaba;;tú //vos ;;;apelmazabas;;él //ella //usted ;;;apelmazaba;;nosotros //nosotras ;;;apelmazábamos;;vosotros //vosotras ;;;apelmazabais;;ellos //ellas //ustedes ;;;apelmazaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;apelmacé;;tú //vos ;;;apelmazaste;;él //ella //usted ;;;apelmazó;;nosotros //nosotras ;;;apelmazamos;;vosotros //vosotras ;;;apelmazasteis;;ellos //ellas //ustedes ;;;apelmazaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;apelmazaré;;tú //vos ;;;apelmazarás;;él //ella //usted ;;;apelmazará;;nosotros //nosotras ;;;apelmazaremos;;vosotros //vosotras ;;;apelmazaréis;;ellos //ellas //ustedes ;;;apelmazarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he apelmazado;;tú //vos ;;;has apelmazado;;él //ella //usted ;;;ha apelmazado;;nosotros //nosotras ;;;hemos apelmazado;;vosotros //vosotras ;;;habéis apelmazado;;ellos //ellas //ustedes ;;;han apelmazado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había apelmazado;;tú //vos ;;;habías apelmazado;;él //ella //usted ;;;había apelmazado;;nosotros //nosotras ;;;habíamos apelmazado;;vosotros //vosotras ;;;habíais apelmazado;;ellos //ellas //ustedes ;;;habían apelmazado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube apelmazado;;tú //vos ;;;hubiste apelmazado;;él //ella //usted ;;;hubo apelmazado;;nosotros //nosotras ;;;hubimos apelmazado;;vosotros //vosotras ;;;hubisteis apelmazado;;ellos //ellas //ustedes ;;;hubieron apelmazado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré apelmazado;;tú //vos ;;;habrás apelmazado;;él //ella //usted ;;;habrá apelmazado;;nosotros //nosotras ;;;habremos apelmazado;;vosotros //vosotras ;;;habréis apelmazado;;ellos //ellas //ustedes ;;;habrán apelmazado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;apelmace;;tú //vos ;;;apelmaces;;él //ella //usted ;;;apelmace;;nosotros //nosotras ;;;apelmacemos;;vosotros //vosotras ;;;apelmacéis;;ellos //ellas //ustedes ;;;apelmacen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;apelmazara / apelmazase;;tú //vos ;;;apelmazaras / apelmazases;;él //ella //usted ;;;apelmazara / apelmazase;;nosotros //nosotras ;;;apelmazáramos / apelmazásemos;;vosotros //vosotras ;;;apelmazarais / apelmazaseis;;ellos //ellas //ustedes ;;;apelmazaran / apelmazasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;apelmazare;;tú //vos ;;;apelmazares;;él //ella //usted ;;;apelmazare;;nosotros //nosotras ;;;apelmazáremos;;vosotros //vosotras ;;;apelmazareis;;ellos //ellas //ustedes ;;;apelmazaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya apelmazado;;tú //vos ;;;hayas apelmazado;;él //ella //usted ;;;haya apelmazado;;nosotros //nosotras ;;;hayamos apelmazado;;vosotros //vosotras ;;;hayáis apelmazado;;ellos //ellas //ustedes ;;;hayan apelmazado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera apelmazado / hubiese apelmazado;;tú //vos ;;;hubieras apelmazado / hubieses apelmazado;;él //ella //usted ;;;hubiera apelmazado / hubiese apelmazado;;nosotros //nosotras ;;;hubiéramos apelmazado / hubiésemos apelmazado;;vosotros //vosotras ;;;hubierais apelmazado / hubieseis apelmazado;;ellos //ellas //ustedes ;;;hubieran apelmazado / hubiesen apelmazado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere apelmazado;;tú //vos ;;;hubieres apelmazado;;él //ella //usted ;;;hubiere apelmazado;;nosotros //nosotras ;;;hubiéremos apelmazado;;vosotros //vosotras ;;;hubiereis apelmazado;;ellos //ellas //ustedes ;;;hubieren apelmazado;;;;;
+Condicional;condicional;;yo ;;;apelmazaría;;tú //vos ;;;apelmazarías;;él //ella //usted ;;;apelmazaría;;nosotros //nosotras ;;;apelmazaríamos;;vosotros //vosotras ;;;apelmazaríais;;ellos //ellas //ustedes ;;;apelmazarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría apelmazado;;tú //vos ;;;habrías apelmazado;;él //ella //usted ;;;habría apelmazado;;nosotros //nosotras ;;;habríamos apelmazado;;vosotros //vosotras ;;;habríais apelmazado;;ellos //ellas //ustedes ;;;habrían apelmazado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apelmaza;;(usted) ;;;apelmace;;(nosotros) //(nosotras) ;;;apelmacemos;;(vosotros) //(vosotras) ;;;apelmazad;;(ustedes) ;;;apelmacen;;(vos) ;;;apelmazá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apelmaces;;(usted) ;no ;;apelmace;;(nosotros) //(nosotras) ;no ;;apelmacemos;;(vosotros) //(vosotras) ;no ;;apelmacéis;;(ustedes) ;no ;;apelmacen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;apelmazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;apelmaz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

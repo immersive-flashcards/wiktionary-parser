@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;peindrais;;tu ;;;peindrais;;il/elle/on ;;;peind
 Conditionnel Passé;conditionnel;;j’;;;aurais peint;;tu ;;;aurais peint;;il/elle/on ;;;aurait peint;;nous ;;;aurions peint;;vous ;;;auriez peint;;ils/elles ;;;auraient peint
 Impératif Présent;impératif;;;;;;;(tu) ;;;peins;;;;;;;(nous) ;;;peignons;;(vous) ;;;peignez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie peint;;;;;;;(nous) ;;;ayons peint;;(vous) ;;;ayez peint;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;peins pas;;;;;;;(nous) ;ne ;;peignons pas;;(vous) ;ne ;;peignez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;peins pas ;;;;;;;(nous) ;ne ;;peignons pas ;;(vous) ;ne ;;peignez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas peint;;;;;;;(nous) ;n';;ayons pas peint;;(vous) ;n';;ayez pas peint;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;peindre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;refuserais;;tu ;;;refuserais;;il/elle/on ;;;ref
 Conditionnel Passé;conditionnel;;j’;;;aurais refusé;;tu ;;;aurais refusé;;il/elle/on ;;;aurait refusé;;nous ;;;aurions refusé;;vous ;;;auriez refusé;;ils/elles ;;;auraient refusé
 Impératif Présent;impératif;;;;;;;(tu) ;;;refuse;;;;;;;(nous) ;;;refusons;;(vous) ;;;refusez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie refusé;;;;;;;(nous) ;;;ayons refusé;;(vous) ;;;ayez refusé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;refuse pas;;;;;;;(nous) ;ne ;;refusons pas;;(vous) ;ne ;;refusez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;refuse pas ;;;;;;;(nous) ;ne ;;refusons pas ;;(vous) ;ne ;;refusez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas refusé;;;;;;;(nous) ;n';;ayons pas refusé;;(vous) ;n';;ayez pas refusé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;refuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

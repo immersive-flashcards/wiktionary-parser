@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;anunciar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;anunciant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;anunciat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;anuncio;;tu ;;;anuncies;;ell //ella //vostè ;;;anuncia;;nosaltres ;;;anunciem;;vosaltres ;;;anuncieu;;ells //elles //vostès ;;;anuncien
+Indicatiu Imperfet;indicativo;;jo ;;;anunciava;;tu ;;;anunciaves;;ell //ella //vostè ;;;anunciava;;nosaltres ;;;anunciàvem;;vosaltres ;;;anunciàveu;;ells //elles //vostès ;;;anunciaven
+Indicatiu Futur;indicativo;;jo ;;;anunciaré;;tu ;;;anunciaràs;;ell //ella //vostè ;;;anunciarà;;nosaltres ;;;anunciarem;;vosaltres ;;;anunciareu;;ells //elles //vostès ;;;anunciaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;anuncií;;tu ;;;anunciares;;ell //ella //vostè ;;;anuncià;;nosaltres ;;;anunciàrem;;vosaltres ;;;anunciàreu;;ells //elles //vostès ;;;anunciaren
+Condicional;condicional;;jo ;;;anunciaria;;tu ;;;anunciaries;;ell //ella //vostè ;;;anunciaria;;nosaltres ;;;anunciaríem;;vosaltres ;;;anunciaríeu;;ells //elles //vostès ;;;anunciarien
+Subjuntiu Present;subjuntiu;;jo ;;;anunciï;;tu ;;;anunciïs;;ell //ella //vostè ;;;anunciï;;nosaltres ;;;anunciem;;vosaltres ;;;anuncieu;;ells //elles //vostès ;;;anunciïn
+Subjuntiu Imperfet;subjuntiu;;jo ;;;anunciés;;tu ;;;anunciessis;;ell //ella //vostè ;;;anunciés;;nosaltres ;;;anunciéssim;;vosaltres ;;;anunciéssiu;;ells //elles //vostès ;;;anunciessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;anuncia;;(vostè) ;;;anunciï;;(nosaltres) ;;;anunciem;;(vosaltres) ;;;anuncieu;;(vostès) ;;;anunciïn
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;anunciïs;;(vostè) ;no ;;anunciï;;(nosaltres) ;no ;;anunciem;;(vosaltres) ;no ;;anuncieu;;(vostès) ;no ;;anunciïn
+Indicatiu Perfet;indicatiu;;jo ;;;he anunciat;;tu ;;;has anunciat;;ell //ella //vostè ;;;ha anunciat;;nosaltres ;;;hem anunciat;;vosaltres ;;;heu anunciat;;ells //elles //vostès ;;;han anunciat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig anunciat;;tu ;;;vas anunciat;;ell //ella //vostè ;;;va anunciat;;nosaltres ;;;vam anunciat;;vosaltres ;;;vau anunciat;;ells //elles //vostès ;;;van anunciat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia anunciat;;tu ;;;havies anunciat;;ell //ella //vostè ;;;havia anunciat;;nosaltres ;;;havíem anunciat;;vosaltres ;;;havíeu anunciat;;ells //elles //vostès ;;;havien anunciat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí anunciat;;tu ;;;hagueres anunciat;;ell //ella //vostè ;;;hagué anunciat;;nosaltres ;;;haguérem anunciat;;vosaltres ;;;haguéreu anunciat;;ells //elles //vostès ;;;hagueren anunciat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver anunciat;;tu ;;;vas haver anunciat;;ell //ella //vostè ;;;va haver anunciat;;nosaltres ;;;vam haver anunciat;;vosaltres ;;;vau haver anunciat;;ells //elles //vostès ;;;van haver anunciat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré anunciat;;tu ;;;hauràs anunciat;;ell //ella //vostè ;;;haurà anunciat;;nosaltres ;;;haurem anunciat;;vosaltres ;;;haureu anunciat;;ells //elles //vostès ;;;hauran anunciat
+Condicional Perfet;condicional;;jo ;;;hauria anunciat;;tu ;;;hauries anunciat;;ell //ella //vostè ;;;hauria anunciat;;nosaltres ;;;hauríem anunciat;;vosaltres ;;;hauríeu anunciat;;ells //elles //vostès ;;;haurien anunciat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi anunciat;;tu ;;;vagis anunciat;;ell //ella //vostè ;;;vagi anunciat;;nosaltres ;;;vàgim anunciat;;vosaltres ;;;vàgiu anunciat;;ells //elles //vostès ;;;vagin anunciat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi anunciat;;tu ;;;hagis anunciat;;ell //ella //vostè ;;;hagi anunciat;;nosaltres ;;;hàgim anunciat;;vosaltres ;;;hàgiu anunciat;;ells //elles //vostès ;;;hagin anunciat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes anunciat;;tu ;;;haguessis anunciat;;ell //ella //vostè ;;;hagués anunciat;;nosaltres ;;;haguéssim anunciat;;vosaltres ;;;haguéssiu anunciat;;ells //elles //vostès ;;;haguessin anunciat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver anunciat;;tu ;;;vagis haver anunciat;;ell //ella //vostè ;;;vagi haver anunciat;;nosaltres ;;;vàgim haver anunciat;;vosaltres ;;;vàgiu haver anunciat;;ells //elles //vostès ;;;vagin haver anunciat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;anunciar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;anunci;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

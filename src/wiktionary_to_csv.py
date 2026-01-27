@@ -224,7 +224,7 @@ def _get_reflexive_alts(lang_cfg: LanguageConfig, person_idx_1: int) -> Sequence
     return []
 
 
-def parse_and_store_form(lang_cfg: LanguageConfig, row: dict[str, Any], person_idx_1: int, raw_form: str) -> None:
+def parse_and_store_form(lang_cfg: LanguageConfig, row: dict[str, Any], person_idx_1: int, raw_form: str, imperative: bool) -> None:
     """Parse a raw conjugated string into CSV fields for a given person (1-based)."""
     conjunctions = _get_conjunctions(lang_cfg)
 
@@ -234,8 +234,12 @@ def parse_and_store_form(lang_cfg: LanguageConfig, row: dict[str, Any], person_i
         row[f"conjunction-{person_idx_1}"] = conj
 
     # 2) Personal pronoun prefix (split on earliest delimiter)
-    pronoun, form = split_on_first_delim(form, ("’", "'", " "))
-    row[f"pronoun-{person_idx_1}"] = pronoun
+    if not imperative:
+        pronoun, form = split_on_first_delim(form, ("’", "'", " "))
+        row[f"pronoun-{person_idx_1}"] = pronoun
+    else:
+        row[f"pronoun-{person_idx_1}"] = lang_cfg.person_data.get("imperative-pronouns").get(person_idx_1)
+
     form = normalize_alternatives(form)
 
     # 3) Reflexive pronoun prefix (per-person alternatives)
@@ -321,7 +325,7 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                 # Map in order, but use pronoun_keys so imperative positions line up
                 for k, raw_form in enumerate(f_list):
                     person_idx_1 = pronoun_keys[k]
-                    parse_and_store_form(lang_cfg, row_to_add, person_idx_1, raw_form)
+                    parse_and_store_form(lang_cfg, row_to_add, person_idx_1, raw_form, imperative)
 
             # if there is a smaller number of conjugations - map them by their leading pronouns
             elif len(f_list) < expected_n:
@@ -336,23 +340,13 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                             person_idx_1 = idx_1
                             break
 
-                    parse_and_store_form(
-                        lang_cfg=lang_cfg,
-                        row=row_to_add,
-                        person_idx_1=person_idx_1,
-                        raw_form=raw_form,
-                    )
+                    parse_and_store_form(lang_cfg, row_to_add, person_idx_1, raw_form, imperative)
 
             else:
                 # if there is a larger number of conjugations - use the first only (for now)
                 for k in range(expected_n):
                     person_idx_1 = pronoun_keys[k]
-                    parse_and_store_form(
-                        lang_cfg=lang_cfg,
-                        row=row_to_add,
-                        person_idx_1=person_idx_1,
-                        raw_form=f_list[k],
-                    )
+                    parse_and_store_form(lang_cfg, row_to_add, person_idx_1, f_list[k], imperative)
 
         _merge_identical_verb_forms(lang_cfg, row_to_add)
 

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;explorasse;que ;tu ;;;explorasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse exploré;que ;tu ;;;eusses exploré;qu’;il/elle/on ;;;eût exploré;que ;nous ;;;eussions exploré;que ;vous ;;;eussiez exploré;qu’;ils/elles ;;;eussent exploré
 Conditionnel;conditionnel;;j’;;;explorerais;;tu ;;;explorerais;;il/elle/on ;;;explorerait;;nous ;;;explorerions;;vous ;;;exploreriez;;ils/elles ;;;exploreraient
 Conditionnel Passé;conditionnel;;j’;;;aurais exploré;;tu ;;;aurais exploré;;il/elle/on ;;;aurait exploré;;nous ;;;aurions exploré;;vous ;;;auriez exploré;;ils/elles ;;;auraient exploré
-Impératif Présent;impératif;;;;;;;;;;explore;;;;;;;;;;explorons;;;;;explorez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;explore;;;;;;;(nous) ;;;explorons;;(vous) ;;;explorez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie exploré;;;;;;;(nous) ;;;ayons exploré;;(vous) ;;;ayez exploré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;explorer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

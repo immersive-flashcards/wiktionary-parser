@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;voulusse;que ;tu ;;;voulusses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse voulu;que ;tu ;;;eusses voulu;qu’;il/elle/on ;;;eût voulu;que ;nous ;;;eussions voulu;que ;vous ;;;eussiez voulu;qu’;ils/elles ;;;eussent voulu
 Conditionnel;conditionnel;;je ;;;voudrais;;tu ;;;voudrais;;il/elle/on ;;;voudrait;;nous ;;;voudrions;;vous ;;;voudriez;;ils/elles ;;;voudraient
 Conditionnel Passé;conditionnel;;j’;;;aurais voulu;;tu ;;;aurais voulu;;il/elle/on ;;;aurait voulu;;nous ;;;aurions voulu;;vous ;;;auriez voulu;;ils/elles ;;;auraient voulu
-Impératif Présent;impératif;;;;;;;veux ;;;ou veuille;;;;;;;voulons ;;;ou veuillons;;voulez ;;;ou veuillez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;veux / veuille;;;;;;;(nous) ;;;voulons / veuillons;;(vous) ;;;voulez / veuillez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie voulu;;;;;;;(nous) ;;;ayons voulu;;(vous) ;;;ayez voulu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;vouloir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

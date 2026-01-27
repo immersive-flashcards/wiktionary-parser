@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;racontasse;que ;tu ;;;racontasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse raconté;que ;tu ;;;eusses raconté;qu’;il/elle/on ;;;eût raconté;que ;nous ;;;eussions raconté;que ;vous ;;;eussiez raconté;qu’;ils/elles ;;;eussent raconté
 Conditionnel;conditionnel;;je ;;;raconterais;;tu ;;;raconterais;;il/elle/on ;;;raconterait;;nous ;;;raconterions;;vous ;;;raconteriez;;ils/elles ;;;raconteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais raconté;;tu ;;;aurais raconté;;il/elle/on ;;;aurait raconté;;nous ;;;aurions raconté;;vous ;;;auriez raconté;;ils/elles ;;;auraient raconté
-Impératif Présent;impératif;;;;;;;;;;raconte;;;;;;;;;;racontons;;;;;racontez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;raconte;;;;;;;(nous) ;;;racontons;;(vous) ;;;racontez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie raconté;;;;;;;(nous) ;;;ayons raconté;;(vous) ;;;ayez raconté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;raconter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

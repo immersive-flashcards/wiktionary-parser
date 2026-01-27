@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;entravasse;que ;tu ;;;entravasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse entravé;que ;tu ;;;eusses entravé;qu’;il/elle/on ;;;eût entravé;que ;nous ;;;eussions entravé;que ;vous ;;;eussiez entravé;qu’;ils/elles ;;;eussent entravé
 Conditionnel;conditionnel;;j’;;;entraverais;;tu ;;;entraverais;;il/elle/on ;;;entraverait;;nous ;;;entraverions;;vous ;;;entraveriez;;ils/elles ;;;entraveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais entravé;;tu ;;;aurais entravé;;il/elle/on ;;;aurait entravé;;nous ;;;aurions entravé;;vous ;;;auriez entravé;;ils/elles ;;;auraient entravé
-Impératif Présent;impératif;;;;;;;;;;entrave;;;;;;;;;;entravons;;;;;entravez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;entrave;;;;;;;(nous) ;;;entravons;;(vous) ;;;entravez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie entravé;;;;;;;(nous) ;;;ayons entravé;;(vous) ;;;ayez entravé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;entraver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;prêtasse;que ;tu ;;;prêtasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse prêté;que ;tu ;;;eusses prêté;qu’;il/elle/on ;;;eût prêté;que ;nous ;;;eussions prêté;que ;vous ;;;eussiez prêté;qu’;ils/elles ;;;eussent prêté
 Conditionnel;conditionnel;;je ;;;prêterais;;tu ;;;prêterais;;il/elle/on ;;;prêterait;;nous ;;;prêterions;;vous ;;;prêteriez;;ils/elles ;;;prêteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais prêté;;tu ;;;aurais prêté;;il/elle/on ;;;aurait prêté;;nous ;;;aurions prêté;;vous ;;;auriez prêté;;ils/elles ;;;auraient prêté
-Impératif Présent;impératif;;;;;;;;;;prête;;;;;;;;;;prêtons;;;;;prêtez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;prête;;;;;;;(nous) ;;;prêtons;;(vous) ;;;prêtez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie prêté;;;;;;;(nous) ;;;ayons prêté;;(vous) ;;;ayez prêté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;prêter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;apportasse;que ;tu ;;;apportasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse apporté;que ;tu ;;;eusses apporté;qu’;il/elle/on ;;;eût apporté;que ;nous ;;;eussions apporté;que ;vous ;;;eussiez apporté;qu’;ils/elles ;;;eussent apporté
 Conditionnel;conditionnel;;j’;;;apporterais;;tu ;;;apporterais;;il/elle/on ;;;apporterait;;nous ;;;apporterions;;vous ;;;apporteriez;;ils/elles ;;;apporteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais apporté;;tu ;;;aurais apporté;;il/elle/on ;;;aurait apporté;;nous ;;;aurions apporté;;vous ;;;auriez apporté;;ils/elles ;;;auraient apporté
-Impératif Présent;impératif;;;;;;;;;;apporte;;;;;;;;;;apportons;;;;;apportez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;apporte;;;;;;;(nous) ;;;apportons;;(vous) ;;;apportez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie apporté;;;;;;;(nous) ;;;ayons apporté;;(vous) ;;;ayez apporté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;apporter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

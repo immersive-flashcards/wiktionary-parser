@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;satellisasse;que ;tu ;;;satellisasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse satellisé;que ;tu ;;;eusses satellisé;qu’;il/elle/on ;;;eût satellisé;que ;nous ;;;eussions satellisé;que ;vous ;;;eussiez satellisé;qu’;ils/elles ;;;eussent satellisé
 Conditionnel;conditionnel;;je ;;;satelliserais;;tu ;;;satelliserais;;il/elle/on ;;;satelliserait;;nous ;;;satelliserions;;vous ;;;satelliseriez;;ils/elles ;;;satelliseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais satellisé;;tu ;;;aurais satellisé;;il/elle/on ;;;aurait satellisé;;nous ;;;aurions satellisé;;vous ;;;auriez satellisé;;ils/elles ;;;auraient satellisé
-Impératif Présent;impératif;;;;;;;;;;satellise;;;;;;;;;;satellisons;;;;;satellisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;satellise;;;;;;;(nous) ;;;satellisons;;(vous) ;;;satellisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie satellisé;;;;;;;(nous) ;;;ayons satellisé;;(vous) ;;;ayez satellisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;satelliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

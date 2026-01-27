@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;grondasse;que ;tu ;;;grondasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse grondé;que ;tu ;;;eusses grondé;qu’;il/elle/on ;;;eût grondé;que ;nous ;;;eussions grondé;que ;vous ;;;eussiez grondé;qu’;ils/elles ;;;eussent grondé
 Conditionnel;conditionnel;;je ;;;gronderais;;tu ;;;gronderais;;il/elle/on ;;;gronderait;;nous ;;;gronderions;;vous ;;;gronderiez;;ils/elles ;;;gronderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais grondé;;tu ;;;aurais grondé;;il/elle/on ;;;aurait grondé;;nous ;;;aurions grondé;;vous ;;;auriez grondé;;ils/elles ;;;auraient grondé
-Impératif Présent;impératif;;;;;;;;;;gronde;;;;;;;;;;grondons;;;;;grondez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;gronde;;;;;;;(nous) ;;;grondons;;(vous) ;;;grondez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie grondé;;;;;;;(nous) ;;;ayons grondé;;(vous) ;;;ayez grondé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;gronder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

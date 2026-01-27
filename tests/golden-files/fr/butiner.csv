@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;butinasse;que ;tu ;;;butinasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse butiné;que ;tu ;;;eusses butiné;qu’;il/elle/on ;;;eût butiné;que ;nous ;;;eussions butiné;que ;vous ;;;eussiez butiné;qu’;ils/elles ;;;eussent butiné
 Conditionnel;conditionnel;;je ;;;butinerais;;tu ;;;butinerais;;il/elle/on ;;;butinerait;;nous ;;;butinerions;;vous ;;;butineriez;;ils/elles ;;;butineraient
 Conditionnel Passé;conditionnel;;j’;;;aurais butiné;;tu ;;;aurais butiné;;il/elle/on ;;;aurait butiné;;nous ;;;aurions butiné;;vous ;;;auriez butiné;;ils/elles ;;;auraient butiné
-Impératif Présent;impératif;;;;;;;;;;butine;;;;;;;;;;butinons;;;;;butinez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;butine;;;;;;;(nous) ;;;butinons;;(vous) ;;;butinez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie butiné;;;;;;;(nous) ;;;ayons butiné;;(vous) ;;;ayez butiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;butiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

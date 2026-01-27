@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;succédasse;que ;tu ;;;succédasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse succédé;que ;tu ;;;eusses succédé;qu’;il/elle/on ;;;eût succédé;que ;nous ;;;eussions succédé;que ;vous ;;;eussiez succédé;qu’;ils/elles ;;;eussent succédé
 Conditionnel;conditionnel;;je ;;;succéderais / succèderais;;tu ;;;succéderais / succèderais;;il/elle/on ;;;succéderait / succèderait;;nous ;;;succéderions / succèderions;;vous ;;;succéderiez / succèderiez;;ils/elles ;;;succéderaient / succèderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais succédé;;tu ;;;aurais succédé;;il/elle/on ;;;aurait succédé;;nous ;;;aurions succédé;;vous ;;;auriez succédé;;ils/elles ;;;auraient succédé
-Impératif Présent;impératif;;;;;;;;;;succède;;;;;;;;;;succédons;;;;;succédez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;succède;;;;;;;(nous) ;;;succédons;;(vous) ;;;succédez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie succédé;;;;;;;(nous) ;;;ayons succédé;;(vous) ;;;ayez succédé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;succéder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

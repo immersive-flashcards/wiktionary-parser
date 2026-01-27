@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;badinasse;que ;tu ;;;badinasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse badiné;que ;tu ;;;eusses badiné;qu’;il/elle/on ;;;eût badiné;que ;nous ;;;eussions badiné;que ;vous ;;;eussiez badiné;qu’;ils/elles ;;;eussent badiné
 Conditionnel;conditionnel;;je ;;;badinerais;;tu ;;;badinerais;;il/elle/on ;;;badinerait;;nous ;;;badinerions;;vous ;;;badineriez;;ils/elles ;;;badineraient
 Conditionnel Passé;conditionnel;;j’;;;aurais badiné;;tu ;;;aurais badiné;;il/elle/on ;;;aurait badiné;;nous ;;;aurions badiné;;vous ;;;auriez badiné;;ils/elles ;;;auraient badiné
-Impératif Présent;impératif;;;;;;;;;;badine;;;;;;;;;;badinons;;;;;badinez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;badine;;;;;;;(nous) ;;;badinons;;(vous) ;;;badinez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie badiné;;;;;;;(nous) ;;;ayons badiné;;(vous) ;;;ayez badiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;badiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

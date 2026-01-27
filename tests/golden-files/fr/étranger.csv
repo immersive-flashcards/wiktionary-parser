@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;étrangeasse;que ;tu ;;;étrangeasse
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse étrangé;que ;tu ;;;eusses étrangé;qu’;il/elle/on ;;;eût étrangé;que ;nous ;;;eussions étrangé;que ;vous ;;;eussiez étrangé;qu’;ils/elles ;;;eussent étrangé
 Conditionnel;conditionnel;;j’;;;étrangerais;;tu ;;;étrangerais;;il/elle/on ;;;étrangerait;;nous ;;;étrangerions;;vous ;;;étrangeriez;;ils/elles ;;;étrangeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais étrangé;;tu ;;;aurais étrangé;;il/elle/on ;;;aurait étrangé;;nous ;;;aurions étrangé;;vous ;;;auriez étrangé;;ils/elles ;;;auraient étrangé
-Impératif Présent;impératif;;;;;;;;;;étrange;;;;;;;;;;étrangeons;;;;;étrangez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;étrange;;;;;;;(nous) ;;;étrangeons;;(vous) ;;;étrangez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie étrangé;;;;;;;(nous) ;;;ayons étrangé;;(vous) ;;;ayez étrangé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;étranger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

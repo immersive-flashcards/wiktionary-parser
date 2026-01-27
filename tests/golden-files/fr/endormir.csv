@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;endormisse;que ;tu ;;;endormisses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse endormi;que ;tu ;;;eusses endormi;qu’;il/elle/on ;;;eût endormi;que ;nous ;;;eussions endormi;que ;vous ;;;eussiez endormi;qu’;ils/elles ;;;eussent endormi
 Conditionnel;conditionnel;;j’;;;endormirais;;tu ;;;endormirais;;il/elle/on ;;;endormirait;;nous ;;;endormirions;;vous ;;;endormiriez;;ils/elles ;;;endormiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais endormi;;tu ;;;aurais endormi;;il/elle/on ;;;aurait endormi;;nous ;;;aurions endormi;;vous ;;;auriez endormi;;ils/elles ;;;auraient endormi
-Impératif Présent;impératif;;;;;;;;;;endors;;;;;;;;;;endormons;;;;;endormez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;endors;;;;;;;(nous) ;;;endormons;;(vous) ;;;endormez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie endormi;;;;;;;(nous) ;;;ayons endormi;;(vous) ;;;ayez endormi;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;endormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

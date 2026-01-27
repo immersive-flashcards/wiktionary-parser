@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;volasse;que ;tu ;;;volasses;qu’;il/
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse volé;que ;tu ;;;eusses volé;qu’;il/elle/on ;;;eût volé;que ;nous ;;;eussions volé;que ;vous ;;;eussiez volé;qu’;ils/elles ;;;eussent volé
 Conditionnel;conditionnel;;je ;;;volerais;;tu ;;;volerais;;il/elle/on ;;;volerait;;nous ;;;volerions;;vous ;;;voleriez;;ils/elles ;;;voleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais volé;;tu ;;;aurais volé;;il/elle/on ;;;aurait volé;;nous ;;;aurions volé;;vous ;;;auriez volé;;ils/elles ;;;auraient volé
-Impératif Présent;impératif;;;;;;;;;;vole;;;;;;;;;;volons;;;;;volez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;vole;;;;;;;(nous) ;;;volons;;(vous) ;;;volez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie volé;;;;;;;(nous) ;;;ayons volé;;(vous) ;;;ayez volé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;voler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

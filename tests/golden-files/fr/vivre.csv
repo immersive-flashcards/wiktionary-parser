@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;vécusse;que ;tu ;;;vécusses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse vécu;que ;tu ;;;eusses vécu;qu’;il/elle/on ;;;eût vécu;que ;nous ;;;eussions vécu;que ;vous ;;;eussiez vécu;qu’;ils/elles ;;;eussent vécu
 Conditionnel;conditionnel;;je ;;;vivrais;;tu ;;;vivrais;;il/elle/on ;;;vivrait;;nous ;;;vivrions;;vous ;;;vivriez;;ils/elles ;;;vivraient
 Conditionnel Passé;conditionnel;;j’;;;aurais vécu;;tu ;;;aurais vécu;;il/elle/on ;;;aurait vécu;;nous ;;;aurions vécu;;vous ;;;auriez vécu;;ils/elles ;;;auraient vécu
-Impératif Présent;impératif;;;;;;;;;;vis;;;;;;;;;;vivons;;;;;vivez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;vis;;;;;;;(nous) ;;;vivons;;(vous) ;;;vivez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie vécu;;;;;;;(nous) ;;;ayons vécu;;(vous) ;;;ayez vécu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;vivre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

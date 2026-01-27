@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;allasse;que ;tu ;;;allasses;qu’;il
 Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse allé;que ;tu ;;;fusses allé;qu’;il/elle/on ;;;fût allé;que ;nous ;;;fussions allés;que ;vous ;;;fussiez allés;qu’;ils/elles ;;;fussent allés
 Conditionnel;conditionnel;;j’;;;irais;;tu ;;;irais;;il/elle/on ;;;irait;;nous ;;;irions;;vous ;;;iriez;;ils/elles ;;;iraient
 Conditionnel Passé;conditionnel;;je ;;;serais allé;;tu ;;;serais allé;;il/elle/on ;;;serait allé;;nous ;;;serions allés;;vous ;;;seriez allés;;ils/elles ;;;seraient allés
-Impératif Présent;impératif;;;;;;;;;;va;;;;;;;;;;allons;;;;;allez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;va;;;;;;;(nous) ;;;allons;;(vous) ;;;allez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;sois allé;;;;;;;(nous) ;;;soyons allés;;(vous) ;;;soyez allés;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;aller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

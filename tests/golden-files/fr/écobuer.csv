@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;écobuasse;que ;tu ;;;écobuasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse écobué;que ;tu ;;;eusses écobué;qu’;il/elle/on ;;;eût écobué;que ;nous ;;;eussions écobué;que ;vous ;;;eussiez écobué;qu’;ils/elles ;;;eussent écobué
 Conditionnel;conditionnel;;j’;;;écobuerais;;tu ;;;écobuerais;;il/elle/on ;;;écobuerait;;nous ;;;écobuerions;;vous ;;;écobueriez;;ils/elles ;;;écobueraient
 Conditionnel Passé;conditionnel;;j’;;;aurais écobué;;tu ;;;aurais écobué;;il/elle/on ;;;aurait écobué;;nous ;;;aurions écobué;;vous ;;;auriez écobué;;ils/elles ;;;auraient écobué
-Impératif Présent;impératif;;;;;;;;;;écobue;;;;;;;;;;écobuons;;;;;écobuez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;écobue;;;;;;;(nous) ;;;écobuons;;(vous) ;;;écobuez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie écobué;;;;;;;(nous) ;;;ayons écobué;;(vous) ;;;ayez écobué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;écobuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

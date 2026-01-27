@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;fourbisse;que ;tu ;;;fourbisses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fourbi;que ;tu ;;;eusses fourbi;qu’;il/elle/on ;;;eût fourbi;que ;nous ;;;eussions fourbi;que ;vous ;;;eussiez fourbi;qu’;ils/elles ;;;eussent fourbi
 Conditionnel;conditionnel;;je ;;;fourbirais;;tu ;;;fourbirais;;il/elle/on ;;;fourbirait;;nous ;;;fourbirions;;vous ;;;fourbiriez;;ils/elles ;;;fourbiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fourbi;;tu ;;;aurais fourbi;;il/elle/on ;;;aurait fourbi;;nous ;;;aurions fourbi;;vous ;;;auriez fourbi;;ils/elles ;;;auraient fourbi
-Impératif Présent;impératif;;;;;;;;;;fourbis;;;;;;;;;;fourbissons;;;;;fourbissez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;fourbis;;;;;;;(nous) ;;;fourbissons;;(vous) ;;;fourbissez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie fourbi;;;;;;;(nous) ;;;ayons fourbi;;(vous) ;;;ayez fourbi;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;fourbir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

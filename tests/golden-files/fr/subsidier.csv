@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;subsidiasse;que ;tu ;;;subsidiasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse subsidié;que ;tu ;;;eusses subsidié;qu’;il/elle/on ;;;eût subsidié;que ;nous ;;;eussions subsidié;que ;vous ;;;eussiez subsidié;qu’;ils/elles ;;;eussent subsidié
 Conditionnel;conditionnel;;je ;;;subsidierais;;tu ;;;subsidierais;;il/elle/on ;;;subsidierait;;nous ;;;subsidierions;;vous ;;;subsidieriez;;ils/elles ;;;subsidieraient
 Conditionnel Passé;conditionnel;;j’;;;aurais subsidié;;tu ;;;aurais subsidié;;il/elle/on ;;;aurait subsidié;;nous ;;;aurions subsidié;;vous ;;;auriez subsidié;;ils/elles ;;;auraient subsidié
-Impératif Présent;impératif;;;;;;;;;;subsidie;;;;;;;;;;subsidions;;;;;subsidiez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;subsidie;;;;;;;(nous) ;;;subsidions;;(vous) ;;;subsidiez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie subsidié;;;;;;;(nous) ;;;ayons subsidié;;(vous) ;;;ayez subsidié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;subsidier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

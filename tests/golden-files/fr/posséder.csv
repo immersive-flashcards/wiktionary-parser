@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;possédasse;que ;tu ;;;possédasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse possédé;que ;tu ;;;eusses possédé;qu’;il/elle/on ;;;eût possédé;que ;nous ;;;eussions possédé;que ;vous ;;;eussiez possédé;qu’;ils/elles ;;;eussent possédé
 Conditionnel;conditionnel;;je ;;;posséderais / possèderais;;tu ;;;posséderais / possèderais;;il/elle/on ;;;posséderait / possèderait;;nous ;;;posséderions / possèderions;;vous ;;;posséderiez / possèderiez;;ils/elles ;;;posséderaient / possèderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais possédé;;tu ;;;aurais possédé;;il/elle/on ;;;aurait possédé;;nous ;;;aurions possédé;;vous ;;;auriez possédé;;ils/elles ;;;auraient possédé
-Impératif Présent;impératif;;;;;;;;;;possède;;;;;;;;;;possédons;;;;;possédez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;possède;;;;;;;(nous) ;;;possédons;;(vous) ;;;possédez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie possédé;;;;;;;(nous) ;;;ayons possédé;;(vous) ;;;ayez possédé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;posséder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;rasinasse;que ;tu ;;;rasinasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse rasiné;que ;tu ;;;eusses rasiné;qu’;il/elle/on ;;;eût rasiné;que ;nous ;;;eussions rasiné;que ;vous ;;;eussiez rasiné;qu’;ils/elles ;;;eussent rasiné
 Conditionnel;conditionnel;;je ;;;rasinerais;;tu ;;;rasinerais;;il/elle/on ;;;rasinerait;;nous ;;;rasinerions;;vous ;;;rasineriez;;ils/elles ;;;rasineraient
 Conditionnel Passé;conditionnel;;j’;;;aurais rasiné;;tu ;;;aurais rasiné;;il/elle/on ;;;aurait rasiné;;nous ;;;aurions rasiné;;vous ;;;auriez rasiné;;ils/elles ;;;auraient rasiné
-Impératif Présent;impératif;;;;;;;;;;rasine;;;;;;;;;;rasinons;;;;;rasinez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;rasine;;;;;;;(nous) ;;;rasinons;;(vous) ;;;rasinez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie rasiné;;;;;;;(nous) ;;;ayons rasiné;;(vous) ;;;ayez rasiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rasiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

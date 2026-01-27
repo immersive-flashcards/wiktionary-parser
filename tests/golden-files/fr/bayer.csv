@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;bayasse;que ;tu ;;;bayasses;qu’;il/
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse bayé;que ;tu ;;;eusses bayé;qu’;il/elle/on ;;;eût bayé;que ;nous ;;;eussions bayé;que ;vous ;;;eussiez bayé;qu’;ils/elles ;;;eussent bayé
 Conditionnel;conditionnel;;je ;;;bayerais;;tu ;;;bayerais;;il/elle/on ;;;bayerait;;nous ;;;bayerions;;vous ;;;bayeriez;;ils/elles ;;;bayeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais bayé;;tu ;;;aurais bayé;;il/elle/on ;;;aurait bayé;;nous ;;;aurions bayé;;vous ;;;auriez bayé;;ils/elles ;;;auraient bayé
-Impératif Présent;impératif;;;;;;;;;;baye;;;;;;;;;;bayons;;;;;bayez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;baye;;;;;;;(nous) ;;;bayons;;(vous) ;;;bayez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie bayé;;;;;;;(nous) ;;;ayons bayé;;(vous) ;;;ayez bayé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;bayer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

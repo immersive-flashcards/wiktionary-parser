@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;agrégeasse;que ;tu ;;;agrégeasses;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse agrégé;que ;tu ;;;eusses agrégé;qu’;il/elle/on ;;;eût agrégé;que ;nous ;;;eussions agrégé;que ;vous ;;;eussiez agrégé;qu’;ils/elles ;;;eussent agrégé
 Conditionnel;conditionnel;;j’;;;agrégerais / agrègerais;;tu ;;;agrégerais / agrègerais;;il/elle/on ;;;agrégerait / agrègerait;;nous ;;;agrégerions / agrègerions;;vous ;;;agrégeriez / agrègeriez;;ils/elles ;;;agrégeraient / agrègeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais agrégé;;tu ;;;aurais agrégé;;il/elle/on ;;;aurait agrégé;;nous ;;;aurions agrégé;;vous ;;;auriez agrégé;;ils/elles ;;;auraient agrégé
-Impératif Présent;impératif;;;;;;;;;;agrège;;;;;;;;;;agrégeons;;;;;agrégez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;agrège;;;;;;;(nous) ;;;agrégeons;;(vous) ;;;agrégez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie agrégé;;;;;;;(nous) ;;;ayons agrégé;;(vous) ;;;ayez agrégé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;agréger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

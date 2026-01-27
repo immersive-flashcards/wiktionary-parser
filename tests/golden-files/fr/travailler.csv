@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;travaillasse;que ;tu ;;;travaillasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse travaillé;que ;tu ;;;eusses travaillé;qu’;il/elle/on ;;;eût travaillé;que ;nous ;;;eussions travaillé;que ;vous ;;;eussiez travaillé;qu’;ils/elles ;;;eussent travaillé
 Conditionnel;conditionnel;;je ;;;travaillerais;;tu ;;;travaillerais;;il/elle/on ;;;travaillerait;;nous ;;;travaillerions;;vous ;;;travailleriez;;ils/elles ;;;travailleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais travaillé;;tu ;;;aurais travaillé;;il/elle/on ;;;aurait travaillé;;nous ;;;aurions travaillé;;vous ;;;auriez travaillé;;ils/elles ;;;auraient travaillé
-Impératif Présent;impératif;;;;;;;;;;travaille;;;;;;;;;;travaillons;;;;;travaillez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;travaille;;;;;;;(nous) ;;;travaillons;;(vous) ;;;travaillez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie travaillé;;;;;;;(nous) ;;;ayons travaillé;;(vous) ;;;ayez travaillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;travailler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

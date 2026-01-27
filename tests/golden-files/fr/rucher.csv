@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;ruchasse;que ;tu ;;;ruchasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse ruché;que ;tu ;;;eusses ruché;qu’;il/elle/on ;;;eût ruché;que ;nous ;;;eussions ruché;que ;vous ;;;eussiez ruché;qu’;ils/elles ;;;eussent ruché
 Conditionnel;conditionnel;;je ;;;rucherais;;tu ;;;rucherais;;il/elle/on ;;;rucherait;;nous ;;;rucherions;;vous ;;;rucheriez;;ils/elles ;;;rucheraient
 Conditionnel Passé;conditionnel;;j’;;;aurais ruché;;tu ;;;aurais ruché;;il/elle/on ;;;aurait ruché;;nous ;;;aurions ruché;;vous ;;;auriez ruché;;ils/elles ;;;auraient ruché
-Impératif Présent;impératif;;;;;;;;;;ruche;;;;;;;;;;ruchons;;;;;ruchez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;ruche;;;;;;;(nous) ;;;ruchons;;(vous) ;;;ruchez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie ruché;;;;;;;(nous) ;;;ayons ruché;;(vous) ;;;ayez ruché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

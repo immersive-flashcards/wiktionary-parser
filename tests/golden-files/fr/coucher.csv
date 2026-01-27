@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;couchasse;que ;tu ;;;couchasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse couché;que ;tu ;;;eusses couché;qu’;il/elle/on ;;;eût couché;que ;nous ;;;eussions couché;que ;vous ;;;eussiez couché;qu’;ils/elles ;;;eussent couché
 Conditionnel;conditionnel;;je ;;;coucherais;;tu ;;;coucherais;;il/elle/on ;;;coucherait;;nous ;;;coucherions;;vous ;;;coucheriez;;ils/elles ;;;coucheraient
 Conditionnel Passé;conditionnel;;j’;;;aurais couché;;tu ;;;aurais couché;;il/elle/on ;;;aurait couché;;nous ;;;aurions couché;;vous ;;;auriez couché;;ils/elles ;;;auraient couché
-Impératif Présent;impératif;;;;;;;;;;couche;;;;;;;;;;couchons;;;;;couchez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;couche;;;;;;;(nous) ;;;couchons;;(vous) ;;;couchez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie couché;;;;;;;(nous) ;;;ayons couché;;(vous) ;;;ayez couché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;coucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

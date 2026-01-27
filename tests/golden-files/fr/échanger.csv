@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;échangeasse;que ;tu ;;;échangeasse
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse échangé;que ;tu ;;;eusses échangé;qu’;il/elle/on ;;;eût échangé;que ;nous ;;;eussions échangé;que ;vous ;;;eussiez échangé;qu’;ils/elles ;;;eussent échangé
 Conditionnel;conditionnel;;j’;;;échangerais;;tu ;;;échangerais;;il/elle/on ;;;échangerait;;nous ;;;échangerions;;vous ;;;échangeriez;;ils/elles ;;;échangeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais échangé;;tu ;;;aurais échangé;;il/elle/on ;;;aurait échangé;;nous ;;;aurions échangé;;vous ;;;auriez échangé;;ils/elles ;;;auraient échangé
-Impératif Présent;impératif;;;;;;;;;;échange;;;;;;;;;;échangeons;;;;;échangez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;échange;;;;;;;(nous) ;;;échangeons;;(vous) ;;;échangez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie échangé;;;;;;;(nous) ;;;ayons échangé;;(vous) ;;;ayez échangé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;échanger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

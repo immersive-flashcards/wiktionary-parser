@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;délinéasse;que ;tu ;;;délinéasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse délinéé;que ;tu ;;;eusses délinéé;qu’;il/elle/on ;;;eût délinéé;que ;nous ;;;eussions délinéé;que ;vous ;;;eussiez délinéé;qu’;ils/elles ;;;eussent délinéé
 Conditionnel;conditionnel;;je ;;;délinéerais;;tu ;;;délinéerais;;il/elle/on ;;;délinéerait;;nous ;;;délinéerions;;vous ;;;délinéeriez;;ils/elles ;;;délinéeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais délinéé;;tu ;;;aurais délinéé;;il/elle/on ;;;aurait délinéé;;nous ;;;aurions délinéé;;vous ;;;auriez délinéé;;ils/elles ;;;auraient délinéé
-Impératif Présent;impératif;;;;;;;;;;délinée;;;;;;;;;;délinéons;;;;;délinéez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;délinée;;;;;;;(nous) ;;;délinéons;;(vous) ;;;délinéez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie délinéé;;;;;;;(nous) ;;;ayons délinéé;;(vous) ;;;ayez délinéé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;délinéer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

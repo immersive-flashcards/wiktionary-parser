@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;identifiasse;que ;tu ;;;identifiasse
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse identifié;que ;tu ;;;eusses identifié;qu’;il/elle/on ;;;eût identifié;que ;nous ;;;eussions identifié;que ;vous ;;;eussiez identifié;qu’;ils/elles ;;;eussent identifié
 Conditionnel;conditionnel;;j’;;;identifierais;;tu ;;;identifierais;;il/elle/on ;;;identifierait;;nous ;;;identifierions;;vous ;;;identifieriez;;ils/elles ;;;identifieraient
 Conditionnel Passé;conditionnel;;j’;;;aurais identifié;;tu ;;;aurais identifié;;il/elle/on ;;;aurait identifié;;nous ;;;aurions identifié;;vous ;;;auriez identifié;;ils/elles ;;;auraient identifié
-Impératif Présent;impératif;;;;;;;;;;identifie;;;;;;;;;;identifions;;;;;identifiez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;identifie;;;;;;;(nous) ;;;identifions;;(vous) ;;;identifiez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie identifié;;;;;;;(nous) ;;;ayons identifié;;(vous) ;;;ayez identifié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;identifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

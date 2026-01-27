@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;partisse;que ;tu ;;;partisses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse parti;que ;tu ;;;fusses parti;qu’;il/elle/on ;;;fût parti;que ;nous ;;;fussions partis;que ;vous ;;;fussiez partis;qu’;ils/elles ;;;fussent partis
 Conditionnel;conditionnel;;je ;;;partirais;;tu ;;;partirais;;il/elle/on ;;;partirait;;nous ;;;partirions;;vous ;;;partiriez;;ils/elles ;;;partiraient
 Conditionnel Passé;conditionnel;;je ;;;serais parti;;tu ;;;serais parti;;il/elle/on ;;;serait parti;;nous ;;;serions partis;;vous ;;;seriez partis;;ils/elles ;;;seraient partis
-Impératif Présent;impératif;;;;;;;;;;pars;;;;;;;;;;partons;;;;;partez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;pars;;;;;;;(nous) ;;;partons;;(vous) ;;;partez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;sois parti;;;;;;;(nous) ;;;soyons partis;;(vous) ;;;soyez partis;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;partir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

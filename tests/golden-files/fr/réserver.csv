@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;réservasse;que ;tu ;;;réservasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse réservé;que ;tu ;;;eusses réservé;qu’;il/elle/on ;;;eût réservé;que ;nous ;;;eussions réservé;que ;vous ;;;eussiez réservé;qu’;ils/elles ;;;eussent réservé
 Conditionnel;conditionnel;;je ;;;réserverais;;tu ;;;réserverais;;il/elle/on ;;;réserverait;;nous ;;;réserverions;;vous ;;;réserveriez;;ils/elles ;;;réserveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais réservé;;tu ;;;aurais réservé;;il/elle/on ;;;aurait réservé;;nous ;;;aurions réservé;;vous ;;;auriez réservé;;ils/elles ;;;auraient réservé
-Impératif Présent;impératif;;;;;;;;;;réserve;;;;;;;;;;réservons;;;;;réservez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;réserve;;;;;;;(nous) ;;;réservons;;(vous) ;;;réservez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie réservé;;;;;;;(nous) ;;;ayons réservé;;(vous) ;;;ayez réservé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;réserver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

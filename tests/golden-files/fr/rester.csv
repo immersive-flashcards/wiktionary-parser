@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;restasse;que ;tu ;;;restasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse resté;que ;tu ;;;fusses resté;qu’;il/elle/on ;;;fût resté;que ;nous ;;;fussions restés;que ;vous ;;;fussiez restés;qu’;ils/elles ;;;fussent restés
 Conditionnel;conditionnel;;je ;;;resterais;;tu ;;;resterais;;il/elle/on ;;;resterait;;nous ;;;resterions;;vous ;;;resteriez;;ils/elles ;;;resteraient
 Conditionnel Passé;conditionnel;;je ;;;serais resté;;tu ;;;serais resté;;il/elle/on ;;;serait resté;;nous ;;;serions restés;;vous ;;;seriez restés;;ils/elles ;;;seraient restés
-Impératif Présent;impératif;;;;;;;;;;reste;;;;;;;;;;restons;;;;;restez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;reste;;;;;;;(nous) ;;;restons;;(vous) ;;;restez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;sois resté;;;;;;;(nous) ;;;soyons restés;;(vous) ;;;soyez restés;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rester;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

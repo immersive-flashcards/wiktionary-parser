@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;modifiasse;que ;tu ;;;modifiasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse modifié;que ;tu ;;;eusses modifié;qu’;il/elle/on ;;;eût modifié;que ;nous ;;;eussions modifié;que ;vous ;;;eussiez modifié;qu’;ils/elles ;;;eussent modifié
 Conditionnel;conditionnel;;je ;;;modifierais;;tu ;;;modifierais;;il/elle/on ;;;modifierait;;nous ;;;modifierions;;vous ;;;modifieriez;;ils/elles ;;;modifieraient
 Conditionnel Passé;conditionnel;;j’;;;aurais modifié;;tu ;;;aurais modifié;;il/elle/on ;;;aurait modifié;;nous ;;;aurions modifié;;vous ;;;auriez modifié;;ils/elles ;;;auraient modifié
-Impératif Présent;impératif;;;;;;;;;;modifie;;;;;;;;;;modifions;;;;;modifiez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;modifie;;;;;;;(nous) ;;;modifions;;(vous) ;;;modifiez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie modifié;;;;;;;(nous) ;;;ayons modifié;;(vous) ;;;ayez modifié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;modifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;obligeasse;que ;tu ;;;obligeasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse obligé;que ;tu ;;;eusses obligé;qu’;il/elle/on ;;;eût obligé;que ;nous ;;;eussions obligé;que ;vous ;;;eussiez obligé;qu’;ils/elles ;;;eussent obligé
 Conditionnel;conditionnel;;j’;;;obligerais;;tu ;;;obligerais;;il/elle/on ;;;obligerait;;nous ;;;obligerions;;vous ;;;obligeriez;;ils/elles ;;;obligeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais obligé;;tu ;;;aurais obligé;;il/elle/on ;;;aurait obligé;;nous ;;;aurions obligé;;vous ;;;auriez obligé;;ils/elles ;;;auraient obligé
-Impératif Présent;impératif;;;;;;;;;;oblige;;;;;;;;;;obligeons;;;;;obligez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;oblige;;;;;;;(nous) ;;;obligeons;;(vous) ;;;obligez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie obligé;;;;;;;(nous) ;;;ayons obligé;;(vous) ;;;ayez obligé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;obliger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

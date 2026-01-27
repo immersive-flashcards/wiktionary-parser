@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;stockasse;que ;tu ;;;stockasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse stocké;que ;tu ;;;eusses stocké;qu’;il/elle/on ;;;eût stocké;que ;nous ;;;eussions stocké;que ;vous ;;;eussiez stocké;qu’;ils/elles ;;;eussent stocké
 Conditionnel;conditionnel;;je ;;;stockerais;;tu ;;;stockerais;;il/elle/on ;;;stockerait;;nous ;;;stockerions;;vous ;;;stockeriez;;ils/elles ;;;stockeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais stocké;;tu ;;;aurais stocké;;il/elle/on ;;;aurait stocké;;nous ;;;aurions stocké;;vous ;;;auriez stocké;;ils/elles ;;;auraient stocké
-Impératif Présent;impératif;;;;;;;;;;stocke;;;;;;;;;;stockons;;;;;stockez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;stocke;;;;;;;(nous) ;;;stockons;;(vous) ;;;stockez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie stocké;;;;;;;(nous) ;;;ayons stocké;;(vous) ;;;ayez stocké;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;stocker;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

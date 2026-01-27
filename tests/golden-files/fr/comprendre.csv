@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;comprisse;que ;tu ;;;comprisses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse compris;que ;tu ;;;eusses compris;qu’;il/elle/on ;;;eût compris;que ;nous ;;;eussions compris;que ;vous ;;;eussiez compris;qu’;ils/elles ;;;eussent compris
 Conditionnel;conditionnel;;je ;;;comprendrais;;tu ;;;comprendrais;;il/elle/on ;;;comprendrait;;nous ;;;comprendrions;;vous ;;;comprendriez;;ils/elles ;;;comprendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais compris;;tu ;;;aurais compris;;il/elle/on ;;;aurait compris;;nous ;;;aurions compris;;vous ;;;auriez compris;;ils/elles ;;;auraient compris
-Impératif Présent;impératif;;;;;;;;;;comprends;;;;;;;;;;comprenons;;;;;comprenez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;comprends;;;;;;;(nous) ;;;comprenons;;(vous) ;;;comprenez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie compris;;;;;;;(nous) ;;;ayons compris;;(vous) ;;;ayez compris;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;comprendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

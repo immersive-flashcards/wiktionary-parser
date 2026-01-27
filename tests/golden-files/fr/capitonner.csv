@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;capitonnasse;que ;tu ;;;capitonnasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse capitonné;que ;tu ;;;eusses capitonné;qu’;il/elle/on ;;;eût capitonné;que ;nous ;;;eussions capitonné;que ;vous ;;;eussiez capitonné;qu’;ils/elles ;;;eussent capitonné
 Conditionnel;conditionnel;;je ;;;capitonnerais;;tu ;;;capitonnerais;;il/elle/on ;;;capitonnerait;;nous ;;;capitonnerions;;vous ;;;capitonneriez;;ils/elles ;;;capitonneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais capitonné;;tu ;;;aurais capitonné;;il/elle/on ;;;aurait capitonné;;nous ;;;aurions capitonné;;vous ;;;auriez capitonné;;ils/elles ;;;auraient capitonné
-Impératif Présent;impératif;;;;;;;;;;capitonne;;;;;;;;;;capitonnons;;;;;capitonnez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;capitonne;;;;;;;(nous) ;;;capitonnons;;(vous) ;;;capitonnez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie capitonné;;;;;;;(nous) ;;;ayons capitonné;;(vous) ;;;ayez capitonné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;capitonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;bémolisasse;que ;tu ;;;bémolisasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse bémolisé;que ;tu ;;;eusses bémolisé;qu’;il/elle/on ;;;eût bémolisé;que ;nous ;;;eussions bémolisé;que ;vous ;;;eussiez bémolisé;qu’;ils/elles ;;;eussent bémolisé
 Conditionnel;conditionnel;;je ;;;bémoliserais;;tu ;;;bémoliserais;;il/elle/on ;;;bémoliserait;;nous ;;;bémoliserions;;vous ;;;bémoliseriez;;ils/elles ;;;bémoliseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais bémolisé;;tu ;;;aurais bémolisé;;il/elle/on ;;;aurait bémolisé;;nous ;;;aurions bémolisé;;vous ;;;auriez bémolisé;;ils/elles ;;;auraient bémolisé
-Impératif Présent;impératif;;;;;;;;;;bémolise;;;;;;;;;;bémolisons;;;;;bémolisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;bémolise;;;;;;;(nous) ;;;bémolisons;;(vous) ;;;bémolisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie bémolisé;;;;;;;(nous) ;;;ayons bémolisé;;(vous) ;;;ayez bémolisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;bémoliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

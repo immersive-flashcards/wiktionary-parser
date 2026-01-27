@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;reniflasse;que ;tu ;;;reniflasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse reniflé;que ;tu ;;;eusses reniflé;qu’;il/elle/on ;;;eût reniflé;que ;nous ;;;eussions reniflé;que ;vous ;;;eussiez reniflé;qu’;ils/elles ;;;eussent reniflé
 Conditionnel;conditionnel;;je ;;;reniflerais;;tu ;;;reniflerais;;il/elle/on ;;;reniflerait;;nous ;;;reniflerions;;vous ;;;renifleriez;;ils/elles ;;;renifleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais reniflé;;tu ;;;aurais reniflé;;il/elle/on ;;;aurait reniflé;;nous ;;;aurions reniflé;;vous ;;;auriez reniflé;;ils/elles ;;;auraient reniflé
-Impératif Présent;impératif;;;;;;;;;;renifle;;;;;;;;;;reniflons;;;;;reniflez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;renifle;;;;;;;(nous) ;;;reniflons;;(vous) ;;;reniflez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie reniflé;;;;;;;(nous) ;;;ayons reniflé;;(vous) ;;;ayez reniflé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;renifler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

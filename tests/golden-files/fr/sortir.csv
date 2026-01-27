@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;sortisse;que ;tu ;;;sortisses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse sorti;que ;tu ;;;fusses sorti;qu’;il/elle/on ;;;fût sorti;que ;nous ;;;fussions sortis;que ;vous ;;;fussiez sortis;qu’;ils/elles ;;;fussent sortis
 Conditionnel;conditionnel;;je ;;;sortirais;;tu ;;;sortirais;;il/elle/on ;;;sortirait;;nous ;;;sortirions;;vous ;;;sortiriez;;ils/elles ;;;sortiraient
 Conditionnel Passé;conditionnel;;je ;;;serais sorti;;tu ;;;serais sorti;;il/elle/on ;;;serait sorti;;nous ;;;serions sortis;;vous ;;;seriez sortis;;ils/elles ;;;seraient sortis
-Impératif Présent;impératif;;;;;;;;;;sors;;;;;;;;;;sortons;;;;;sortez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;sors;;;;;;;(nous) ;;;sortons;;(vous) ;;;sortez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;sois sorti;;;;;;;(nous) ;;;soyons sortis;;(vous) ;;;soyez sortis;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;sortir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

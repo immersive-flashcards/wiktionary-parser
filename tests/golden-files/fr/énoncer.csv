@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;énonçasse;que ;tu ;;;énonçasses;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse énoncé;que ;tu ;;;eusses énoncé;qu’;il/elle/on ;;;eût énoncé;que ;nous ;;;eussions énoncé;que ;vous ;;;eussiez énoncé;qu’;ils/elles ;;;eussent énoncé
 Conditionnel;conditionnel;;j’;;;énoncerais;;tu ;;;énoncerais;;il/elle/on ;;;énoncerait;;nous ;;;énoncerions;;vous ;;;énonceriez;;ils/elles ;;;énonceraient
 Conditionnel Passé;conditionnel;;j’;;;aurais énoncé;;tu ;;;aurais énoncé;;il/elle/on ;;;aurait énoncé;;nous ;;;aurions énoncé;;vous ;;;auriez énoncé;;ils/elles ;;;auraient énoncé
-Impératif Présent;impératif;;;;;;;;;;énonce;;;;;;;;;;énonçons;;;;;énoncez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;énonce;;;;;;;(nous) ;;;énonçons;;(vous) ;;;énoncez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie énoncé;;;;;;;(nous) ;;;ayons énoncé;;(vous) ;;;ayez énoncé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;énoncer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;prisse;que ;tu ;;;prisses;qu’;il/el
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse pris;que ;tu ;;;eusses pris;qu’;il/elle/on ;;;eût pris;que ;nous ;;;eussions pris;que ;vous ;;;eussiez pris;qu’;ils/elles ;;;eussent pris
 Conditionnel;conditionnel;;je ;;;prendrais;;tu ;;;prendrais;;il/elle/on ;;;prendrait;;nous ;;;prendrions;;vous ;;;prendriez;;ils/elles ;;;prendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais pris;;tu ;;;aurais pris;;il/elle/on ;;;aurait pris;;nous ;;;aurions pris;;vous ;;;auriez pris;;ils/elles ;;;auraient pris
-Impératif Présent;impératif;;;;;;;;;;prends;;;;;;;;;;prenons;;;;;prenez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;prends;;;;;;;(nous) ;;;prenons;;(vous) ;;;prenez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie pris;;;;;;;(nous) ;;;ayons pris;;(vous) ;;;ayez pris;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;prendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -175,3 +175,10 @@ forms:
       path:
         - "forms"
       tags: ["imperative", "present"]
+
+    "Impératif Passé":
+      mode: "impératif"
+      type: "imperative"
+      path:
+        - "forms"
+      tags: ["imperative", "past"]

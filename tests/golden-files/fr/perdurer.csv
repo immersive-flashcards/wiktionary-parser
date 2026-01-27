@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;perdurasse;que ;tu ;;;perdurasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse perduré;que ;tu ;;;eusses perduré;qu’;il/elle/on ;;;eût perduré;que ;nous ;;;eussions perduré;que ;vous ;;;eussiez perduré;qu’;ils/elles ;;;eussent perduré
 Conditionnel;conditionnel;;je ;;;perdurerais;;tu ;;;perdurerais;;il/elle/on ;;;perdurerait;;nous ;;;perdurerions;;vous ;;;perdureriez;;ils/elles ;;;perdureraient
 Conditionnel Passé;conditionnel;;j’;;;aurais perduré;;tu ;;;aurais perduré;;il/elle/on ;;;aurait perduré;;nous ;;;aurions perduré;;vous ;;;auriez perduré;;ils/elles ;;;auraient perduré
-Impératif Présent;impératif;;;;;;;;;;perdure;;;;;;;;;;perdurons;;;;;perdurez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;perdure;;;;;;;(nous) ;;;perdurons;;(vous) ;;;perdurez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie perduré;;;;;;;(nous) ;;;ayons perduré;;(vous) ;;;ayez perduré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;perdurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

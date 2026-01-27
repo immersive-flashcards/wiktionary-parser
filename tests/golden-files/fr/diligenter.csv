@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;diligentasse;que ;tu ;;;diligentasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse diligenté;que ;tu ;;;eusses diligenté;qu’;il/elle/on ;;;eût diligenté;que ;nous ;;;eussions diligenté;que ;vous ;;;eussiez diligenté;qu’;ils/elles ;;;eussent diligenté
 Conditionnel;conditionnel;;je ;;;diligenterais;;tu ;;;diligenterais;;il/elle/on ;;;diligenterait;;nous ;;;diligenterions;;vous ;;;diligenteriez;;ils/elles ;;;diligenteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais diligenté;;tu ;;;aurais diligenté;;il/elle/on ;;;aurait diligenté;;nous ;;;aurions diligenté;;vous ;;;auriez diligenté;;ils/elles ;;;auraient diligenté
-Impératif Présent;impératif;;;;;;;;;;diligente;;;;;;;;;;diligentons;;;;;diligentez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;diligente;;;;;;;(nous) ;;;diligentons;;(vous) ;;;diligentez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie diligenté;;;;;;;(nous) ;;;ayons diligenté;;(vous) ;;;ayez diligenté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;diligenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;stationnasse;que ;tu ;;;stationnasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse stationné;que ;tu ;;;eusses stationné;qu’;il/elle/on ;;;eût stationné;que ;nous ;;;eussions stationné;que ;vous ;;;eussiez stationné;qu’;ils/elles ;;;eussent stationné
 Conditionnel;conditionnel;;je ;;;stationnerais;;tu ;;;stationnerais;;il/elle/on ;;;stationnerait;;nous ;;;stationnerions;;vous ;;;stationneriez;;ils/elles ;;;stationneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais stationné;;tu ;;;aurais stationné;;il/elle/on ;;;aurait stationné;;nous ;;;aurions stationné;;vous ;;;auriez stationné;;ils/elles ;;;auraient stationné
-Impératif Présent;impératif;;;;;;;;;;stationne;;;;;;;;;;stationnons;;;;;stationnez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;stationne;;;;;;;(nous) ;;;stationnons;;(vous) ;;;stationnez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie stationné;;;;;;;(nous) ;;;ayons stationné;;(vous) ;;;ayez stationné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;stationner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

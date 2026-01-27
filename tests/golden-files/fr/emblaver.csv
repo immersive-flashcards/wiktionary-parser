@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;emblavasse;que ;tu ;;;emblavasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse emblavé;que ;tu ;;;eusses emblavé;qu’;il/elle/on ;;;eût emblavé;que ;nous ;;;eussions emblavé;que ;vous ;;;eussiez emblavé;qu’;ils/elles ;;;eussent emblavé
 Conditionnel;conditionnel;;j’;;;emblaverais;;tu ;;;emblaverais;;il/elle/on ;;;emblaverait;;nous ;;;emblaverions;;vous ;;;emblaveriez;;ils/elles ;;;emblaveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais emblavé;;tu ;;;aurais emblavé;;il/elle/on ;;;aurait emblavé;;nous ;;;aurions emblavé;;vous ;;;auriez emblavé;;ils/elles ;;;auraient emblavé
-Impératif Présent;impératif;;;;;;;;;;emblave;;;;;;;;;;emblavons;;;;;emblavez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;emblave;;;;;;;(nous) ;;;emblavons;;(vous) ;;;emblavez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie emblavé;;;;;;;(nous) ;;;ayons emblavé;;(vous) ;;;ayez emblavé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;emblaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

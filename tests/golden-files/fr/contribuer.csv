@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;contribuasse;que ;tu ;;;contribuasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse contribué;que ;tu ;;;eusses contribué;qu’;il/elle/on ;;;eût contribué;que ;nous ;;;eussions contribué;que ;vous ;;;eussiez contribué;qu’;ils/elles ;;;eussent contribué
 Conditionnel;conditionnel;;je ;;;contribuerais;;tu ;;;contribuerais;;il/elle/on ;;;contribuerait;;nous ;;;contribuerions;;vous ;;;contribueriez;;ils/elles ;;;contribueraient
 Conditionnel Passé;conditionnel;;j’;;;aurais contribué;;tu ;;;aurais contribué;;il/elle/on ;;;aurait contribué;;nous ;;;aurions contribué;;vous ;;;auriez contribué;;ils/elles ;;;auraient contribué
-Impératif Présent;impératif;;;;;;;;;;contribue;;;;;;;;;;contribuons;;;;;contribuez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;contribue;;;;;;;(nous) ;;;contribuons;;(vous) ;;;contribuez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie contribué;;;;;;;(nous) ;;;ayons contribué;;(vous) ;;;ayez contribué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;contribuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;bernasse;que ;tu ;;;bernasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse berné;que ;tu ;;;eusses berné;qu’;il/elle/on ;;;eût berné;que ;nous ;;;eussions berné;que ;vous ;;;eussiez berné;qu’;ils/elles ;;;eussent berné
 Conditionnel;conditionnel;;je ;;;bernerais;;tu ;;;bernerais;;il/elle/on ;;;bernerait;;nous ;;;bernerions;;vous ;;;berneriez;;ils/elles ;;;berneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais berné;;tu ;;;aurais berné;;il/elle/on ;;;aurait berné;;nous ;;;aurions berné;;vous ;;;auriez berné;;ils/elles ;;;auraient berné
-Impératif Présent;impératif;;;;;;;;;;berne;;;;;;;;;;bernons;;;;;bernez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;berne;;;;;;;(nous) ;;;bernons;;(vous) ;;;bernez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie berné;;;;;;;(nous) ;;;ayons berné;;(vous) ;;;ayez berné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;berner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

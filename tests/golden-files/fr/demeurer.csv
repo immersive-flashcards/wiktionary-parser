@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;demeurasse;que ;tu ;;;demeurasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse demeuré;que ;tu ;;;eusses demeuré;qu’;il/elle/on ;;;eût demeuré;que ;nous ;;;eussions demeuré;que ;vous ;;;eussiez demeuré;qu’;ils/elles ;;;eussent demeuré
 Conditionnel;conditionnel;;je ;;;demeurerais;;tu ;;;demeurerais;;il/elle/on ;;;demeurerait;;nous ;;;demeurerions;;vous ;;;demeureriez;;ils/elles ;;;demeureraient
 Conditionnel Passé;conditionnel;;j’;;;aurais demeuré;;tu ;;;aurais demeuré;;il/elle/on ;;;aurait demeuré;;nous ;;;aurions demeuré;;vous ;;;auriez demeuré;;ils/elles ;;;auraient demeuré
-Impératif Présent;impératif;;;;;;;;;;demeure;;;;;;;;;;demeurons;;;;;demeurez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;demeure;;;;;;;(nous) ;;;demeurons;;(vous) ;;;demeurez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie demeuré;;;;;;;(nous) ;;;ayons demeuré;;(vous) ;;;ayez demeuré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;demeurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

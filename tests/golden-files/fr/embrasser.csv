@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;embrassasse;que ;tu ;;;embrassasses;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse embrassé;que ;tu ;;;eusses embrassé;qu’;il/elle/on ;;;eût embrassé;que ;nous ;;;eussions embrassé;que ;vous ;;;eussiez embrassé;qu’;ils/elles ;;;eussent embrassé
 Conditionnel;conditionnel;;j’;;;embrasserais;;tu ;;;embrasserais;;il/elle/on ;;;embrasserait;;nous ;;;embrasserions;;vous ;;;embrasseriez;;ils/elles ;;;embrasseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais embrassé;;tu ;;;aurais embrassé;;il/elle/on ;;;aurait embrassé;;nous ;;;aurions embrassé;;vous ;;;auriez embrassé;;ils/elles ;;;auraient embrassé
-Impératif Présent;impératif;;;;;;;;;;embrasse;;;;;;;;;;embrassons;;;;;embrassez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;embrasse;;;;;;;(nous) ;;;embrassons;;(vous) ;;;embrassez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie embrassé;;;;;;;(nous) ;;;ayons embrassé;;(vous) ;;;ayez embrassé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;embrasser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

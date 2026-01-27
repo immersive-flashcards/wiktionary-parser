@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;diffusasse;que ;tu ;;;diffusasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse diffusé;que ;tu ;;;eusses diffusé;qu’;il/elle/on ;;;eût diffusé;que ;nous ;;;eussions diffusé;que ;vous ;;;eussiez diffusé;qu’;ils/elles ;;;eussent diffusé
 Conditionnel;conditionnel;;je ;;;diffuserais;;tu ;;;diffuserais;;il/elle/on ;;;diffuserait;;nous ;;;diffuserions;;vous ;;;diffuseriez;;ils/elles ;;;diffuseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais diffusé;;tu ;;;aurais diffusé;;il/elle/on ;;;aurait diffusé;;nous ;;;aurions diffusé;;vous ;;;auriez diffusé;;ils/elles ;;;auraient diffusé
-Impératif Présent;impératif;;;;;;;;;;diffuse;;;;;;;;;;diffusons;;;;;diffusez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;diffuse;;;;;;;(nous) ;;;diffusons;;(vous) ;;;diffusez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie diffusé;;;;;;;(nous) ;;;ayons diffusé;;(vous) ;;;ayez diffusé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;diffuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

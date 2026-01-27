@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;secouasse;que ;tu ;;;secouasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse secoué;que ;tu ;;;eusses secoué;qu’;il/elle/on ;;;eût secoué;que ;nous ;;;eussions secoué;que ;vous ;;;eussiez secoué;qu’;ils/elles ;;;eussent secoué
 Conditionnel;conditionnel;;je ;;;secouerais;;tu ;;;secouerais;;il/elle/on ;;;secouerait;;nous ;;;secouerions;;vous ;;;secoueriez;;ils/elles ;;;secoueraient
 Conditionnel Passé;conditionnel;;j’;;;aurais secoué;;tu ;;;aurais secoué;;il/elle/on ;;;aurait secoué;;nous ;;;aurions secoué;;vous ;;;auriez secoué;;ils/elles ;;;auraient secoué
-Impératif Présent;impératif;;;;;;;;;;secoue;;;;;;;;;;secouons;;;;;secouez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;secoue;;;;;;;(nous) ;;;secouons;;(vous) ;;;secouez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie secoué;;;;;;;(nous) ;;;ayons secoué;;(vous) ;;;ayez secoué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;secouer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

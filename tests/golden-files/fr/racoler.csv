@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;racolasse;que ;tu ;;;racolasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse racolé;que ;tu ;;;eusses racolé;qu’;il/elle/on ;;;eût racolé;que ;nous ;;;eussions racolé;que ;vous ;;;eussiez racolé;qu’;ils/elles ;;;eussent racolé
 Conditionnel;conditionnel;;je ;;;racolerais;;tu ;;;racolerais;;il/elle/on ;;;racolerait;;nous ;;;racolerions;;vous ;;;racoleriez;;ils/elles ;;;racoleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais racolé;;tu ;;;aurais racolé;;il/elle/on ;;;aurait racolé;;nous ;;;aurions racolé;;vous ;;;auriez racolé;;ils/elles ;;;auraient racolé
-Impératif Présent;impératif;;;;;;;;;;racole;;;;;;;;;;racolons;;;;;racolez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;racole;;;;;;;(nous) ;;;racolons;;(vous) ;;;racolez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie racolé;;;;;;;(nous) ;;;ayons racolé;;(vous) ;;;ayez racolé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;racoler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

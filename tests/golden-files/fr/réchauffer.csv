@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;réchauffasse;que ;tu ;;;réchauffass
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse réchauffé;que ;tu ;;;eusses réchauffé;qu’;il/elle/on ;;;eût réchauffé;que ;nous ;;;eussions réchauffé;que ;vous ;;;eussiez réchauffé;qu’;ils/elles ;;;eussent réchauffé
 Conditionnel;conditionnel;;je ;;;réchaufferais;;tu ;;;réchaufferais;;il/elle/on ;;;réchaufferait;;nous ;;;réchaufferions;;vous ;;;réchaufferiez;;ils/elles ;;;réchaufferaient
 Conditionnel Passé;conditionnel;;j’;;;aurais réchauffé;;tu ;;;aurais réchauffé;;il/elle/on ;;;aurait réchauffé;;nous ;;;aurions réchauffé;;vous ;;;auriez réchauffé;;ils/elles ;;;auraient réchauffé
-Impératif Présent;impératif;;;;;;;;;;réchauffe;;;;;;;;;;réchauffons;;;;;réchauffez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;réchauffe;;;;;;;(nous) ;;;réchauffons;;(vous) ;;;réchauffez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie réchauffé;;;;;;;(nous) ;;;ayons réchauffé;;(vous) ;;;ayez réchauffé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;réchauffer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

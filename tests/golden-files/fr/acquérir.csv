@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;acquisse;que ;tu ;;;acquisses;qu’;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse acquis;que ;tu ;;;eusses acquis;qu’;il/elle/on ;;;eût acquis;que ;nous ;;;eussions acquis;que ;vous ;;;eussiez acquis;qu’;ils/elles ;;;eussent acquis
 Conditionnel;conditionnel;;j’;;;acquerrais;;tu ;;;acquerrais;;il/elle/on ;;;acquerrait;;nous ;;;acquerrions;;vous ;;;acquerriez;;ils/elles ;;;acquerraient
 Conditionnel Passé;conditionnel;;j’;;;aurais acquis;;tu ;;;aurais acquis;;il/elle/on ;;;aurait acquis;;nous ;;;aurions acquis;;vous ;;;auriez acquis;;ils/elles ;;;auraient acquis
-Impératif Présent;impératif;;;;;;;;;;acquiers;;;;;;;;;;acquérons;;;;;acquérez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;acquiers;;;;;;;(nous) ;;;acquérons;;(vous) ;;;acquérez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie acquis;;;;;;;(nous) ;;;ayons acquis;;(vous) ;;;ayez acquis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;acquérir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

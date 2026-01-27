@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;fâchasse;que ;tu ;;;fâchasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fâché;que ;tu ;;;eusses fâché;qu’;il/elle/on ;;;eût fâché;que ;nous ;;;eussions fâché;que ;vous ;;;eussiez fâché;qu’;ils/elles ;;;eussent fâché
 Conditionnel;conditionnel;;je ;;;fâcherais;;tu ;;;fâcherais;;il/elle/on ;;;fâcherait;;nous ;;;fâcherions;;vous ;;;fâcheriez;;ils/elles ;;;fâcheraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fâché;;tu ;;;aurais fâché;;il/elle/on ;;;aurait fâché;;nous ;;;aurions fâché;;vous ;;;auriez fâché;;ils/elles ;;;auraient fâché
-Impératif Présent;impératif;;;;;;;;;;fâche;;;;;;;;;;fâchons;;;;;fâchez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;fâche;;;;;;;(nous) ;;;fâchons;;(vous) ;;;fâchez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie fâché;;;;;;;(nous) ;;;ayons fâché;;(vous) ;;;ayez fâché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;fâcher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

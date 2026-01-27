@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;abandonnasse;que ;tu ;;;abandonnasse
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse abandonné;que ;tu ;;;eusses abandonné;qu’;il/elle/on ;;;eût abandonné;que ;nous ;;;eussions abandonné;que ;vous ;;;eussiez abandonné;qu’;ils/elles ;;;eussent abandonné
 Conditionnel;conditionnel;;j’;;;abandonnerais;;tu ;;;abandonnerais;;il/elle/on ;;;abandonnerait;;nous ;;;abandonnerions;;vous ;;;abandonneriez;;ils/elles ;;;abandonneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais abandonné;;tu ;;;aurais abandonné;;il/elle/on ;;;aurait abandonné;;nous ;;;aurions abandonné;;vous ;;;auriez abandonné;;ils/elles ;;;auraient abandonné
-Impératif Présent;impératif;;;;;;;;;;abandonne;;;;;;;;;;abandonnons;;;;;abandonnez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;abandonne;;;;;;;(nous) ;;;abandonnons;;(vous) ;;;abandonnez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie abandonné;;;;;;;(nous) ;;;ayons abandonné;;(vous) ;;;ayez abandonné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;abandonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;aidasse;que ;tu ;;;aidasses;qu’;il
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse aidé;que ;tu ;;;eusses aidé;qu’;il/elle/on ;;;eût aidé;que ;nous ;;;eussions aidé;que ;vous ;;;eussiez aidé;qu’;ils/elles ;;;eussent aidé
 Conditionnel;conditionnel;;j’;;;aiderais;;tu ;;;aiderais;;il/elle/on ;;;aiderait;;nous ;;;aiderions;;vous ;;;aideriez;;ils/elles ;;;aideraient
 Conditionnel Passé;conditionnel;;j’;;;aurais aidé;;tu ;;;aurais aidé;;il/elle/on ;;;aurait aidé;;nous ;;;aurions aidé;;vous ;;;auriez aidé;;ils/elles ;;;auraient aidé
-Impératif Présent;impératif;;;;;;;;;;aide;;;;;;;;;;aidons;;;;;aidez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;aide;;;;;;;(nous) ;;;aidons;;(vous) ;;;aidez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie aidé;;;;;;;(nous) ;;;ayons aidé;;(vous) ;;;ayez aidé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;aider;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

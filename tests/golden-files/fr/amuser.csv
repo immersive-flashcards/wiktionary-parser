@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;amusasse;que ;tu ;;;amusasses;qu’;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse amusé;que ;tu ;;;eusses amusé;qu’;il/elle/on ;;;eût amusé;que ;nous ;;;eussions amusé;que ;vous ;;;eussiez amusé;qu’;ils/elles ;;;eussent amusé
 Conditionnel;conditionnel;;j’;;;amuserais;;tu ;;;amuserais;;il/elle/on ;;;amuserait;;nous ;;;amuserions;;vous ;;;amuseriez;;ils/elles ;;;amuseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais amusé;;tu ;;;aurais amusé;;il/elle/on ;;;aurait amusé;;nous ;;;aurions amusé;;vous ;;;auriez amusé;;ils/elles ;;;auraient amusé
-Impératif Présent;impératif;;;;;;;;;;amuse;;;;;;;;;;amusons;;;;;amusez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;amuse;;;;;;;(nous) ;;;amusons;;(vous) ;;;amusez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie amusé;;;;;;;(nous) ;;;ayons amusé;;(vous) ;;;ayez amusé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;amuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

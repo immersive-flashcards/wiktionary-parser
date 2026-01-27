@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;satisfisse;que ;tu ;;;satisfisses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse satisfait;que ;tu ;;;eusses satisfait;qu’;il/elle/on ;;;eût satisfait;que ;nous ;;;eussions satisfait;que ;vous ;;;eussiez satisfait;qu’;ils/elles ;;;eussent satisfait
 Conditionnel;conditionnel;;je ;;;satisferais;;tu ;;;satisferais;;il/elle/on ;;;satisferait;;nous ;;;satisferions;;vous ;;;satisferiez;;ils/elles ;;;satisferaient
 Conditionnel Passé;conditionnel;;j’;;;aurais satisfait;;tu ;;;aurais satisfait;;il/elle/on ;;;aurait satisfait;;nous ;;;aurions satisfait;;vous ;;;auriez satisfait;;ils/elles ;;;auraient satisfait
-Impératif Présent;impératif;;;;;;;;;;satisfais;;;;;;;;;;satisfaisons;;;;;satisfaites;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;satisfais;;;;;;;(nous) ;;;satisfaisons;;(vous) ;;;satisfaites;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie satisfait;;;;;;;(nous) ;;;ayons satisfait;;(vous) ;;;ayez satisfait;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;satisfaire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

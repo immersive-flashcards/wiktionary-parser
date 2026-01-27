@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;décimasse;que ;tu ;;;décimasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse décimé;que ;tu ;;;eusses décimé;qu’;il/elle/on ;;;eût décimé;que ;nous ;;;eussions décimé;que ;vous ;;;eussiez décimé;qu’;ils/elles ;;;eussent décimé
 Conditionnel;conditionnel;;je ;;;décimerais;;tu ;;;décimerais;;il/elle/on ;;;décimerait;;nous ;;;décimerions;;vous ;;;décimeriez;;ils/elles ;;;décimeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais décimé;;tu ;;;aurais décimé;;il/elle/on ;;;aurait décimé;;nous ;;;aurions décimé;;vous ;;;auriez décimé;;ils/elles ;;;auraient décimé
-Impératif Présent;impératif;;;;;;;;;;décime;;;;;;;;;;décimons;;;;;décimez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;décime;;;;;;;(nous) ;;;décimons;;(vous) ;;;décimez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie décimé;;;;;;;(nous) ;;;ayons décimé;;(vous) ;;;ayez décimé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;décimer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

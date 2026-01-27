@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;disse;que ;tu ;;;disses;qu’;il/elle
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse dit;que ;tu ;;;eusses dit;qu’;il/elle/on ;;;eût dit;que ;nous ;;;eussions dit;que ;vous ;;;eussiez dit;qu’;ils/elles ;;;eussent dit
 Conditionnel;conditionnel;;je ;;;dirais;;tu ;;;dirais;;il/elle/on ;;;dirait;;nous ;;;dirions;;vous ;;;diriez;;ils/elles ;;;diraient
 Conditionnel Passé;conditionnel;;j’;;;aurais dit;;tu ;;;aurais dit;;il/elle/on ;;;aurait dit;;nous ;;;aurions dit;;vous ;;;auriez dit;;ils/elles ;;;auraient dit
-Impératif Présent;impératif;;;;;;;;;;dis;;;;;;;;;;disons;;;;;dites;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;dis;;;;;;;(nous) ;;;disons;;(vous) ;;;dites;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie dit;;;;;;;(nous) ;;;ayons dit;;(vous) ;;;ayez dit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;dire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

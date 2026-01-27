@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;sourisse;que ;tu ;;;sourisses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse souri;que ;tu ;;;eusses souri;qu’;il/elle/on ;;;eût souri;que ;nous ;;;eussions souri;que ;vous ;;;eussiez souri;qu’;ils/elles ;;;eussent souri
 Conditionnel;conditionnel;;je ;;;sourirais;;tu ;;;sourirais;;il/elle/on ;;;sourirait;;nous ;;;souririons;;vous ;;;souririez;;ils/elles ;;;souriraient
 Conditionnel Passé;conditionnel;;j’;;;aurais souri;;tu ;;;aurais souri;;il/elle/on ;;;aurait souri;;nous ;;;aurions souri;;vous ;;;auriez souri;;ils/elles ;;;auraient souri
-Impératif Présent;impératif;;;;;;;;;;souris;;;;;;;;;;sourions;;;;;souriez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;souris;;;;;;;(nous) ;;;sourions;;(vous) ;;;souriez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie souri;;;;;;;(nous) ;;;ayons souri;;(vous) ;;;ayez souri;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;sourire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

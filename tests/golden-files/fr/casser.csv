@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;cassasse;que ;tu ;;;cassasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse cassé;que ;tu ;;;eusses cassé;qu’;il/elle/on ;;;eût cassé;que ;nous ;;;eussions cassé;que ;vous ;;;eussiez cassé;qu’;ils/elles ;;;eussent cassé
 Conditionnel;conditionnel;;je ;;;casserais;;tu ;;;casserais;;il/elle/on ;;;casserait;;nous ;;;casserions;;vous ;;;casseriez;;ils/elles ;;;casseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais cassé;;tu ;;;aurais cassé;;il/elle/on ;;;aurait cassé;;nous ;;;aurions cassé;;vous ;;;auriez cassé;;ils/elles ;;;auraient cassé
-Impératif Présent;impératif;;;;;;;;;;casse;;;;;;;;;;cassons;;;;;cassez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;casse;;;;;;;(nous) ;;;cassons;;(vous) ;;;cassez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie cassé;;;;;;;(nous) ;;;ayons cassé;;(vous) ;;;ayez cassé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;casser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;nourrisse;que ;tu ;;;nourrisses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse nourri;que ;tu ;;;eusses nourri;qu’;il/elle/on ;;;eût nourri;que ;nous ;;;eussions nourri;que ;vous ;;;eussiez nourri;qu’;ils/elles ;;;eussent nourri
 Conditionnel;conditionnel;;je ;;;nourrirais;;tu ;;;nourrirais;;il/elle/on ;;;nourrirait;;nous ;;;nourririons;;vous ;;;nourririez;;ils/elles ;;;nourriraient
 Conditionnel Passé;conditionnel;;j’;;;aurais nourri;;tu ;;;aurais nourri;;il/elle/on ;;;aurait nourri;;nous ;;;aurions nourri;;vous ;;;auriez nourri;;ils/elles ;;;auraient nourri
-Impératif Présent;impératif;;;;;;;;;;nourris;;;;;;;;;;nourrissons;;;;;nourrissez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;nourris;;;;;;;(nous) ;;;nourrissons;;(vous) ;;;nourrissez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie nourri;;;;;;;(nous) ;;;ayons nourri;;(vous) ;;;ayez nourri;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;nourrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

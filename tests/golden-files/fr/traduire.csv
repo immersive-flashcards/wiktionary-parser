@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;traduisisse;que ;tu ;;;traduisisses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse traduit;que ;tu ;;;eusses traduit;qu’;il/elle/on ;;;eût traduit;que ;nous ;;;eussions traduit;que ;vous ;;;eussiez traduit;qu’;ils/elles ;;;eussent traduit
 Conditionnel;conditionnel;;je ;;;traduirais;;tu ;;;traduirais;;il/elle/on ;;;traduirait;;nous ;;;traduirions;;vous ;;;traduiriez;;ils/elles ;;;traduiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais traduit;;tu ;;;aurais traduit;;il/elle/on ;;;aurait traduit;;nous ;;;aurions traduit;;vous ;;;auriez traduit;;ils/elles ;;;auraient traduit
-Impératif Présent;impératif;;;;;;;;;;traduis;;;;;;;;;;traduisons;;;;;traduisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;traduis;;;;;;;(nous) ;;;traduisons;;(vous) ;;;traduisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie traduit;;;;;;;(nous) ;;;ayons traduit;;(vous) ;;;ayez traduit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;traduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

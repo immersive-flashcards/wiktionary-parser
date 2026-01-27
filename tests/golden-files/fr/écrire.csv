@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;écrivisse;que ;tu ;;;écrivisses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse écrit;que ;tu ;;;eusses écrit;qu’;il/elle/on ;;;eût écrit;que ;nous ;;;eussions écrit;que ;vous ;;;eussiez écrit;qu’;ils/elles ;;;eussent écrit
 Conditionnel;conditionnel;;j’;;;écrirais;;tu ;;;écrirais;;il/elle/on ;;;écrirait;;nous ;;;écririons;;vous ;;;écririez;;ils/elles ;;;écriraient
 Conditionnel Passé;conditionnel;;j’;;;aurais écrit;;tu ;;;aurais écrit;;il/elle/on ;;;aurait écrit;;nous ;;;aurions écrit;;vous ;;;auriez écrit;;ils/elles ;;;auraient écrit
-Impératif Présent;impératif;;;;;;;;;;écris;;;;;;;;;;écrivons;;;;;écrivez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;écris;;;;;;;(nous) ;;;écrivons;;(vous) ;;;écrivez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie écrit;;;;;;;(nous) ;;;ayons écrit;;(vous) ;;;ayez écrit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;écrire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

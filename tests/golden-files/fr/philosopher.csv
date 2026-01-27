@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;philosophasse;que ;tu ;;;philosophass
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse philosophé;que ;tu ;;;eusses philosophé;qu’;il/elle/on ;;;eût philosophé;que ;nous ;;;eussions philosophé;que ;vous ;;;eussiez philosophé;qu’;ils/elles ;;;eussent philosophé
 Conditionnel;conditionnel;;je ;;;philosopherais;;tu ;;;philosopherais;;il/elle/on ;;;philosopherait;;nous ;;;philosopherions;;vous ;;;philosopheriez;;ils/elles ;;;philosopheraient
 Conditionnel Passé;conditionnel;;j’;;;aurais philosophé;;tu ;;;aurais philosophé;;il/elle/on ;;;aurait philosophé;;nous ;;;aurions philosophé;;vous ;;;auriez philosophé;;ils/elles ;;;auraient philosophé
-Impératif Présent;impératif;;;;;;;;;;philosophe;;;;;;;;;;philosophons;;;;;philosophez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;philosophe;;;;;;;(nous) ;;;philosophons;;(vous) ;;;philosophez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie philosophé;;;;;;;(nous) ;;;ayons philosophé;;(vous) ;;;ayez philosophé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;philosopher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

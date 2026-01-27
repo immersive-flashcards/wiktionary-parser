@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;manquasse;que ;tu ;;;manquasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse manqué;que ;tu ;;;eusses manqué;qu’;il/elle/on ;;;eût manqué;que ;nous ;;;eussions manqué;que ;vous ;;;eussiez manqué;qu’;ils/elles ;;;eussent manqué
 Conditionnel;conditionnel;;je ;;;manquerais;;tu ;;;manquerais;;il/elle/on ;;;manquerait;;nous ;;;manquerions;;vous ;;;manqueriez;;ils/elles ;;;manqueraient
 Conditionnel Passé;conditionnel;;j’;;;aurais manqué;;tu ;;;aurais manqué;;il/elle/on ;;;aurait manqué;;nous ;;;aurions manqué;;vous ;;;auriez manqué;;ils/elles ;;;auraient manqué
-Impératif Présent;impératif;;;;;;;;;;manque;;;;;;;;;;manquons;;;;;manquez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;manque;;;;;;;(nous) ;;;manquons;;(vous) ;;;manquez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie manqué;;;;;;;(nous) ;;;ayons manqué;;(vous) ;;;ayez manqué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;manquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

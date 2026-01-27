@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;estasse;que ;tu ;;;estasses;qu’;il
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse esté;que ;tu ;;;eusses esté;qu’;il/elle/on ;;;eût esté;que ;nous ;;;eussions esté;que ;vous ;;;eussiez esté;qu’;ils/elles ;;;eussent esté
 Conditionnel;conditionnel;;j’;;;esterais;;tu ;;;esterais;;il/elle/on ;;;esterait;;nous ;;;esterions;;vous ;;;esteriez;;ils/elles ;;;esteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais esté;;tu ;;;aurais esté;;il/elle/on ;;;aurait esté;;nous ;;;aurions esté;;vous ;;;auriez esté;;ils/elles ;;;auraient esté
-Impératif Présent;impératif;;;;;;;;;;este;;;;;;;;;;estons;;;;;estez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;este;;;;;;;(nous) ;;;estons;;(vous) ;;;estez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie esté;;;;;;;(nous) ;;;ayons esté;;(vous) ;;;ayez esté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;ester;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

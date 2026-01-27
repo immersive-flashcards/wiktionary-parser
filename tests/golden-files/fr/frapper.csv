@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;frappasse;que ;tu ;;;frappasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse frappé;que ;tu ;;;eusses frappé;qu’;il/elle/on ;;;eût frappé;que ;nous ;;;eussions frappé;que ;vous ;;;eussiez frappé;qu’;ils/elles ;;;eussent frappé
 Conditionnel;conditionnel;;je ;;;frapperais;;tu ;;;frapperais;;il/elle/on ;;;frapperait;;nous ;;;frapperions;;vous ;;;frapperiez;;ils/elles ;;;frapperaient
 Conditionnel Passé;conditionnel;;j’;;;aurais frappé;;tu ;;;aurais frappé;;il/elle/on ;;;aurait frappé;;nous ;;;aurions frappé;;vous ;;;auriez frappé;;ils/elles ;;;auraient frappé
-Impératif Présent;impératif;;;;;;;;;;frappe;;;;;;;;;;frappons;;;;;frappez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;frappe;;;;;;;(nous) ;;;frappons;;(vous) ;;;frappez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie frappé;;;;;;;(nous) ;;;ayons frappé;;(vous) ;;;ayez frappé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;frapper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;chuchotasse;que ;tu ;;;chuchotasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse chuchoté;que ;tu ;;;eusses chuchoté;qu’;il/elle/on ;;;eût chuchoté;que ;nous ;;;eussions chuchoté;que ;vous ;;;eussiez chuchoté;qu’;ils/elles ;;;eussent chuchoté
 Conditionnel;conditionnel;;je ;;;chuchoterais;;tu ;;;chuchoterais;;il/elle/on ;;;chuchoterait;;nous ;;;chuchoterions;;vous ;;;chuchoteriez;;ils/elles ;;;chuchoteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais chuchoté;;tu ;;;aurais chuchoté;;il/elle/on ;;;aurait chuchoté;;nous ;;;aurions chuchoté;;vous ;;;auriez chuchoté;;ils/elles ;;;auraient chuchoté
-Impératif Présent;impératif;;;;;;;;;;chuchote;;;;;;;;;;chuchotons;;;;;chuchotez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;chuchote;;;;;;;(nous) ;;;chuchotons;;(vous) ;;;chuchotez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie chuchoté;;;;;;;(nous) ;;;ayons chuchoté;;(vous) ;;;ayez chuchoté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;chuchoter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

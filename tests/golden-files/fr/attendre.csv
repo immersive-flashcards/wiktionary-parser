@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;attendisse;que ;tu ;;;attendisses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse attendu;que ;tu ;;;eusses attendu;qu’;il/elle/on ;;;eût attendu;que ;nous ;;;eussions attendu;que ;vous ;;;eussiez attendu;qu’;ils/elles ;;;eussent attendu
 Conditionnel;conditionnel;;j’;;;attendrais;;tu ;;;attendrais;;il/elle/on ;;;attendrait;;nous ;;;attendrions;;vous ;;;attendriez;;ils/elles ;;;attendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais attendu;;tu ;;;aurais attendu;;il/elle/on ;;;aurait attendu;;nous ;;;aurions attendu;;vous ;;;auriez attendu;;ils/elles ;;;auraient attendu
-Impératif Présent;impératif;;;;;;;;;;attends;;;;;;;;;;attendons;;;;;attendez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;attends;;;;;;;(nous) ;;;attendons;;(vous) ;;;attendez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie attendu;;;;;;;(nous) ;;;ayons attendu;;(vous) ;;;ayez attendu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;attendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

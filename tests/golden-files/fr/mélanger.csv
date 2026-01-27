@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;mélangeasse;que ;tu ;;;mélangeasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse mélangé;que ;tu ;;;eusses mélangé;qu’;il/elle/on ;;;eût mélangé;que ;nous ;;;eussions mélangé;que ;vous ;;;eussiez mélangé;qu’;ils/elles ;;;eussent mélangé
 Conditionnel;conditionnel;;je ;;;mélangerais;;tu ;;;mélangerais;;il/elle/on ;;;mélangerait;;nous ;;;mélangerions;;vous ;;;mélangeriez;;ils/elles ;;;mélangeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais mélangé;;tu ;;;aurais mélangé;;il/elle/on ;;;aurait mélangé;;nous ;;;aurions mélangé;;vous ;;;auriez mélangé;;ils/elles ;;;auraient mélangé
-Impératif Présent;impératif;;;;;;;;;;mélange;;;;;;;;;;mélangeons;;;;;mélangez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;mélange;;;;;;;(nous) ;;;mélangeons;;(vous) ;;;mélangez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie mélangé;;;;;;;(nous) ;;;ayons mélangé;;(vous) ;;;ayez mélangé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;mélanger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

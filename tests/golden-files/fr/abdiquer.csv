@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;abdiquasse;que ;tu ;;;abdiquasses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse abdiqué;que ;tu ;;;eusses abdiqué;qu’;il/elle/on ;;;eût abdiqué;que ;nous ;;;eussions abdiqué;que ;vous ;;;eussiez abdiqué;qu’;ils/elles ;;;eussent abdiqué
 Conditionnel;conditionnel;;j’;;;abdiquerais;;tu ;;;abdiquerais;;il/elle/on ;;;abdiquerait;;nous ;;;abdiquerions;;vous ;;;abdiqueriez;;ils/elles ;;;abdiqueraient
 Conditionnel Passé;conditionnel;;j’;;;aurais abdiqué;;tu ;;;aurais abdiqué;;il/elle/on ;;;aurait abdiqué;;nous ;;;aurions abdiqué;;vous ;;;auriez abdiqué;;ils/elles ;;;auraient abdiqué
-Impératif Présent;impératif;;;;;;;;;;abdique;;;;;;;;;;abdiquons;;;;;abdiquez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;abdique;;;;;;;(nous) ;;;abdiquons;;(vous) ;;;abdiquez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie abdiqué;;;;;;;(nous) ;;;ayons abdiqué;;(vous) ;;;ayez abdiqué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;abdiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

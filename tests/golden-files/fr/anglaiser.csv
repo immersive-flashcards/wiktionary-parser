@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;anglaisasse;que ;tu ;;;anglaisasses;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse anglaisé;que ;tu ;;;eusses anglaisé;qu’;il/elle/on ;;;eût anglaisé;que ;nous ;;;eussions anglaisé;que ;vous ;;;eussiez anglaisé;qu’;ils/elles ;;;eussent anglaisé
 Conditionnel;conditionnel;;j’;;;anglaiserais;;tu ;;;anglaiserais;;il/elle/on ;;;anglaiserait;;nous ;;;anglaiserions;;vous ;;;anglaiseriez;;ils/elles ;;;anglaiseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais anglaisé;;tu ;;;aurais anglaisé;;il/elle/on ;;;aurait anglaisé;;nous ;;;aurions anglaisé;;vous ;;;auriez anglaisé;;ils/elles ;;;auraient anglaisé
-Impératif Présent;impératif;;;;;;;;;;anglaise;;;;;;;;;;anglaisons;;;;;anglaisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;anglaise;;;;;;;(nous) ;;;anglaisons;;(vous) ;;;anglaisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie anglaisé;;;;;;;(nous) ;;;ayons anglaisé;;(vous) ;;;ayez anglaisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;anglaiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

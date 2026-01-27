@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;interdisse;que ;tu ;;;interdisses;qu
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse interdit;que ;tu ;;;eusses interdit;qu’;il/elle/on ;;;eût interdit;que ;nous ;;;eussions interdit;que ;vous ;;;eussiez interdit;qu’;ils/elles ;;;eussent interdit
 Conditionnel;conditionnel;;j’;;;interdirais;;tu ;;;interdirais;;il/elle/on ;;;interdirait;;nous ;;;interdirions;;vous ;;;interdiriez;;ils/elles ;;;interdiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais interdit;;tu ;;;aurais interdit;;il/elle/on ;;;aurait interdit;;nous ;;;aurions interdit;;vous ;;;auriez interdit;;ils/elles ;;;auraient interdit
-Impératif Présent;impératif;;;;;;;;;;interdis;;;;;;;;;;interdisons;;;;;interdisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;interdis;;;;;;;(nous) ;;;interdisons;;(vous) ;;;interdisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie interdit;;;;;;;(nous) ;;;ayons interdit;;(vous) ;;;ayez interdit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;interdire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

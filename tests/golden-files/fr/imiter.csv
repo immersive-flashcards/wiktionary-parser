@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;imitasse;que ;tu ;;;imitasses;qu’;
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse imité;que ;tu ;;;eusses imité;qu’;il/elle/on ;;;eût imité;que ;nous ;;;eussions imité;que ;vous ;;;eussiez imité;qu’;ils/elles ;;;eussent imité
 Conditionnel;conditionnel;;j’;;;imiterais;;tu ;;;imiterais;;il/elle/on ;;;imiterait;;nous ;;;imiterions;;vous ;;;imiteriez;;ils/elles ;;;imiteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais imité;;tu ;;;aurais imité;;il/elle/on ;;;aurait imité;;nous ;;;aurions imité;;vous ;;;auriez imité;;ils/elles ;;;auraient imité
-Impératif Présent;impératif;;;;;;;;;;imite;;;;;;;;;;imitons;;;;;imitez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;imite;;;;;;;(nous) ;;;imitons;;(vous) ;;;imitez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie imité;;;;;;;(nous) ;;;ayons imité;;(vous) ;;;ayez imité;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;imiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

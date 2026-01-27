@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;susse;que ;tu ;;;susses;qu’;il/elle
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse su;que ;tu ;;;eusses su;qu’;il/elle/on ;;;eût su;que ;nous ;;;eussions su;que ;vous ;;;eussiez su;qu’;ils/elles ;;;eussent su
 Conditionnel;conditionnel;;je ;;;saurais;;tu ;;;saurais;;il/elle/on ;;;saurait;;nous ;;;saurions;;vous ;;;sauriez;;ils/elles ;;;sauraient
 Conditionnel Passé;conditionnel;;j’;;;aurais su;;tu ;;;aurais su;;il/elle/on ;;;aurait su;;nous ;;;aurions su;;vous ;;;auriez su;;ils/elles ;;;auraient su
-Impératif Présent;impératif;;;;;;;;;;sache;;;;;;;;;;sachons;;;;;sachez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;sache;;;;;;;(nous) ;;;sachons;;(vous) ;;;sachez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie su;;;;;;;(nous) ;;;ayons su;;(vous) ;;;ayez su;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;savoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

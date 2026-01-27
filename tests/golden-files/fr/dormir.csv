@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;dormisse;que ;tu ;;;dormisses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse dormi;que ;tu ;;;eusses dormi;qu’;il/elle/on ;;;eût dormi;que ;nous ;;;eussions dormi;que ;vous ;;;eussiez dormi;qu’;ils/elles ;;;eussent dormi
 Conditionnel;conditionnel;;je ;;;dormirais;;tu ;;;dormirais;;il/elle/on ;;;dormirait;;nous ;;;dormirions;;vous ;;;dormiriez;;ils/elles ;;;dormiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais dormi;;tu ;;;aurais dormi;;il/elle/on ;;;aurait dormi;;nous ;;;aurions dormi;;vous ;;;auriez dormi;;ils/elles ;;;auraient dormi
-Impératif Présent;impératif;;;;;;;;;;dors;;;;;;;;;;dormons;;;;;dormez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;dors;;;;;;;(nous) ;;;dormons;;(vous) ;;;dormez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie dormi;;;;;;;(nous) ;;;ayons dormi;;(vous) ;;;ayez dormi;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;dormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

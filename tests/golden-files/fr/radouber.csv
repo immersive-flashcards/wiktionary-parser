@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;radoubasse;que ;tu ;;;radoubasses;qu�
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse radoubé;que ;tu ;;;eusses radoubé;qu’;il/elle/on ;;;eût radoubé;que ;nous ;;;eussions radoubé;que ;vous ;;;eussiez radoubé;qu’;ils/elles ;;;eussent radoubé
 Conditionnel;conditionnel;;je ;;;radouberais;;tu ;;;radouberais;;il/elle/on ;;;radouberait;;nous ;;;radouberions;;vous ;;;radouberiez;;ils/elles ;;;radouberaient
 Conditionnel Passé;conditionnel;;j’;;;aurais radoubé;;tu ;;;aurais radoubé;;il/elle/on ;;;aurait radoubé;;nous ;;;aurions radoubé;;vous ;;;auriez radoubé;;ils/elles ;;;auraient radoubé
-Impératif Présent;impératif;;;;;;;;;;radoube;;;;;;;;;;radoubons;;;;;radoubez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;radoube;;;;;;;(nous) ;;;radoubons;;(vous) ;;;radoubez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie radoubé;;;;;;;(nous) ;;;ayons radoubé;;(vous) ;;;ayez radoubé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;radouber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

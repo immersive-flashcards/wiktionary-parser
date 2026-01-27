@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;réveillasse;que ;tu ;;;réveillasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse réveillé;que ;tu ;;;eusses réveillé;qu’;il/elle/on ;;;eût réveillé;que ;nous ;;;eussions réveillé;que ;vous ;;;eussiez réveillé;qu’;ils/elles ;;;eussent réveillé
 Conditionnel;conditionnel;;je ;;;réveillerais;;tu ;;;réveillerais;;il/elle/on ;;;réveillerait;;nous ;;;réveillerions;;vous ;;;réveilleriez;;ils/elles ;;;réveilleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais réveillé;;tu ;;;aurais réveillé;;il/elle/on ;;;aurait réveillé;;nous ;;;aurions réveillé;;vous ;;;auriez réveillé;;ils/elles ;;;auraient réveillé
-Impératif Présent;impératif;;;;;;;;;;réveille;;;;;;;;;;réveillons;;;;;réveillez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;réveille;;;;;;;(nous) ;;;réveillons;;(vous) ;;;réveillez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie réveillé;;;;;;;(nous) ;;;ayons réveillé;;(vous) ;;;ayez réveillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;réveiller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

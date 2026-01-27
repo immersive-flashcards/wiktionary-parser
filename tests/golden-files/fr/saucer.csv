@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;sauçasse;que ;tu ;;;sauçasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse saucé;que ;tu ;;;eusses saucé;qu’;il/elle/on ;;;eût saucé;que ;nous ;;;eussions saucé;que ;vous ;;;eussiez saucé;qu’;ils/elles ;;;eussent saucé
 Conditionnel;conditionnel;;je ;;;saucerais;;tu ;;;saucerais;;il/elle/on ;;;saucerait;;nous ;;;saucerions;;vous ;;;sauceriez;;ils/elles ;;;sauceraient
 Conditionnel Passé;conditionnel;;j’;;;aurais saucé;;tu ;;;aurais saucé;;il/elle/on ;;;aurait saucé;;nous ;;;aurions saucé;;vous ;;;auriez saucé;;ils/elles ;;;auraient saucé
-Impératif Présent;impératif;;;;;;;;;;sauce;;;;;;;;;;sauçons;;;;;saucez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;sauce;;;;;;;(nous) ;;;sauçons;;(vous) ;;;saucez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie saucé;;;;;;;(nous) ;;;ayons saucé;;(vous) ;;;ayez saucé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;saucer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

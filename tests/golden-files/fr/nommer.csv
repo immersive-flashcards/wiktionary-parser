@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;nommasse;que ;tu ;;;nommasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse nommé;que ;tu ;;;eusses nommé;qu’;il/elle/on ;;;eût nommé;que ;nous ;;;eussions nommé;que ;vous ;;;eussiez nommé;qu’;ils/elles ;;;eussent nommé
 Conditionnel;conditionnel;;je ;;;nommerais;;tu ;;;nommerais;;il/elle/on ;;;nommerait;;nous ;;;nommerions;;vous ;;;nommeriez;;ils/elles ;;;nommeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais nommé;;tu ;;;aurais nommé;;il/elle/on ;;;aurait nommé;;nous ;;;aurions nommé;;vous ;;;auriez nommé;;ils/elles ;;;auraient nommé
-Impératif Présent;impératif;;;;;;;;;;nomme;;;;;;;;;;nommons;;;;;nommez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;nomme;;;;;;;(nous) ;;;nommons;;(vous) ;;;nommez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie nommé;;;;;;;(nous) ;;;ayons nommé;;(vous) ;;;ayez nommé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;nommer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

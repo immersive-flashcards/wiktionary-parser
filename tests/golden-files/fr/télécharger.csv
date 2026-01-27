@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;téléchargeasse;que ;tu ;;;télécha
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse téléchargé;que ;tu ;;;eusses téléchargé;qu’;il/elle/on ;;;eût téléchargé;que ;nous ;;;eussions téléchargé;que ;vous ;;;eussiez téléchargé;qu’;ils/elles ;;;eussent téléchargé
 Conditionnel;conditionnel;;je ;;;téléchargerais;;tu ;;;téléchargerais;;il/elle/on ;;;téléchargerait;;nous ;;;téléchargerions;;vous ;;;téléchargeriez;;ils/elles ;;;téléchargeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais téléchargé;;tu ;;;aurais téléchargé;;il/elle/on ;;;aurait téléchargé;;nous ;;;aurions téléchargé;;vous ;;;auriez téléchargé;;ils/elles ;;;auraient téléchargé
-Impératif Présent;impératif;;;;;;;;;;télécharge;;;;;;;;;;téléchargeons;;;;;téléchargez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;télécharge;;;;;;;(nous) ;;;téléchargeons;;(vous) ;;;téléchargez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie téléchargé;;;;;;;(nous) ;;;ayons téléchargé;;(vous) ;;;ayez téléchargé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;télécharger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

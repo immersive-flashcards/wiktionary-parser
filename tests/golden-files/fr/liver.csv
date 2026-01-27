@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;livasse;que ;tu ;;;livasses;qu’;il/
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse livé;que ;tu ;;;eusses livé;qu’;il/elle/on ;;;eût livé;que ;nous ;;;eussions livé;que ;vous ;;;eussiez livé;qu’;ils/elles ;;;eussent livé
 Conditionnel;conditionnel;;je ;;;liverais;;tu ;;;liverais;;il/elle/on ;;;liverait;;nous ;;;liverions;;vous ;;;liveriez;;ils/elles ;;;liveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais livé;;tu ;;;aurais livé;;il/elle/on ;;;aurait livé;;nous ;;;aurions livé;;vous ;;;auriez livé;;ils/elles ;;;auraient livé
-Impératif Présent;impératif;;;;;;;;;;live;;;;;;;;;;livons;;;;;livez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;live;;;;;;;(nous) ;;;livons;;(vous) ;;;livez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie livé;;;;;;;(nous) ;;;ayons livé;;(vous) ;;;ayez livé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;liver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

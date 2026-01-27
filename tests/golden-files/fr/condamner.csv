@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;condamnasse;que ;tu ;;;condamnasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse condamné;que ;tu ;;;eusses condamné;qu’;il/elle/on ;;;eût condamné;que ;nous ;;;eussions condamné;que ;vous ;;;eussiez condamné;qu’;ils/elles ;;;eussent condamné
 Conditionnel;conditionnel;;je ;;;condamnerais;;tu ;;;condamnerais;;il/elle/on ;;;condamnerait;;nous ;;;condamnerions;;vous ;;;condamneriez;;ils/elles ;;;condamneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais condamné;;tu ;;;aurais condamné;;il/elle/on ;;;aurait condamné;;nous ;;;aurions condamné;;vous ;;;auriez condamné;;ils/elles ;;;auraient condamné
-Impératif Présent;impératif;;;;;;;;;;condamne;;;;;;;;;;condamnons;;;;;condamnez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;condamne;;;;;;;(nous) ;;;condamnons;;(vous) ;;;condamnez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie condamné;;;;;;;(nous) ;;;ayons condamné;;(vous) ;;;ayez condamné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;condamner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;modulasse;que ;tu ;;;modulasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse modulé;que ;tu ;;;eusses modulé;qu’;il/elle/on ;;;eût modulé;que ;nous ;;;eussions modulé;que ;vous ;;;eussiez modulé;qu’;ils/elles ;;;eussent modulé
 Conditionnel;conditionnel;;je ;;;modulerais;;tu ;;;modulerais;;il/elle/on ;;;modulerait;;nous ;;;modulerions;;vous ;;;moduleriez;;ils/elles ;;;moduleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais modulé;;tu ;;;aurais modulé;;il/elle/on ;;;aurait modulé;;nous ;;;aurions modulé;;vous ;;;auriez modulé;;ils/elles ;;;auraient modulé
-Impératif Présent;impératif;;;;;;;;;;module;;;;;;;;;;modulons;;;;;modulez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;module;;;;;;;(nous) ;;;modulons;;(vous) ;;;modulez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie modulé;;;;;;;(nous) ;;;ayons modulé;;(vous) ;;;ayez modulé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;moduler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

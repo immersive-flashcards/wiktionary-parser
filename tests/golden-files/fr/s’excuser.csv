@@ -19,7 +19,7 @@ Subjonctif Imparfait;subjonctif;que ;je ;;m’;excusasse;que ;tu ;;t’;excusass
 Subjonctif Plusqueparfait;subjonctif;que ;je ;;me ;fusse excusé;que ;tu ;;te ;fusses excusé;qu’;il/elle/on ;;se ;fût excusé;que ;nous ;;nous ;fussions excusés;que ;vous ;;vous ;fussiez excusés;qu’;ils/elles ;;se ;fussent excusés
 Conditionnel;conditionnel;;je ;;m’;excuserais;;tu ;;t’;excuserais;;il/elle/on ;;s’;excuserait;;nous ;;nous ;excuserions;;vous ;;vous ;excuseriez;;ils/elles ;;s’;excuseraient
 Conditionnel Passé;conditionnel;;je ;;me ;serais excusé;;tu ;;te ;serais excusé;;il/elle/on ;;se ;serait excusé;;nous ;;nous ;serions excusés;;vous ;;vous ;seriez excusés;;ils/elles ;;se ;seraient excusés
-Impératif Présent;impératif;;;;;;;;;;excuse-toi;;;;;;;;;;excusons-nous;;;;;excusez-vous;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;excuse-toi;;;;;;;(nous) ;;;excusons-nous;;(vous) ;;;excusez-vous;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;true;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;excuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

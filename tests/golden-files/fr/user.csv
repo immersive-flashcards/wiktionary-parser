@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;j’;;;usasse;que ;tu ;;;usasses;qu’;il/e
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse usé;que ;tu ;;;eusses usé;qu’;il/elle/on ;;;eût usé;que ;nous ;;;eussions usé;que ;vous ;;;eussiez usé;qu’;ils/elles ;;;eussent usé
 Conditionnel;conditionnel;;j’;;;userais;;tu ;;;userais;;il/elle/on ;;;userait;;nous ;;;userions;;vous ;;;useriez;;ils/elles ;;;useraient
 Conditionnel Passé;conditionnel;;j’;;;aurais usé;;tu ;;;aurais usé;;il/elle/on ;;;aurait usé;;nous ;;;aurions usé;;vous ;;;auriez usé;;ils/elles ;;;auraient usé
-Impératif Présent;impératif;;;;;;;;;;use;;;;;;;;;;usons;;;;;usez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;use;;;;;;;(nous) ;;;usons;;(vous) ;;;usez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie usé;;;;;;;(nous) ;;;ayons usé;;(vous) ;;;ayez usé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;user;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

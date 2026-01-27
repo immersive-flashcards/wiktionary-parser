@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;rinçasse;que ;tu ;;;rinçasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse rincé;que ;tu ;;;eusses rincé;qu’;il/elle/on ;;;eût rincé;que ;nous ;;;eussions rincé;que ;vous ;;;eussiez rincé;qu’;ils/elles ;;;eussent rincé
 Conditionnel;conditionnel;;je ;;;rincerais;;tu ;;;rincerais;;il/elle/on ;;;rincerait;;nous ;;;rincerions;;vous ;;;rinceriez;;ils/elles ;;;rinceraient
 Conditionnel Passé;conditionnel;;j’;;;aurais rincé;;tu ;;;aurais rincé;;il/elle/on ;;;aurait rincé;;nous ;;;aurions rincé;;vous ;;;auriez rincé;;ils/elles ;;;auraient rincé
-Impératif Présent;impératif;;;;;;;;;;rince;;;;;;;;;;rinçons;;;;;rincez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;rince;;;;;;;(nous) ;;;rinçons;;(vous) ;;;rincez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie rincé;;;;;;;(nous) ;;;ayons rincé;;(vous) ;;;ayez rincé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rincer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

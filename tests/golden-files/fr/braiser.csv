@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;braisasse;que ;tu ;;;braisasses;qu’
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse braisé;que ;tu ;;;eusses braisé;qu’;il/elle/on ;;;eût braisé;que ;nous ;;;eussions braisé;que ;vous ;;;eussiez braisé;qu’;ils/elles ;;;eussent braisé
 Conditionnel;conditionnel;;je ;;;braiserais;;tu ;;;braiserais;;il/elle/on ;;;braiserait;;nous ;;;braiserions;;vous ;;;braiseriez;;ils/elles ;;;braiseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais braisé;;tu ;;;aurais braisé;;il/elle/on ;;;aurait braisé;;nous ;;;aurions braisé;;vous ;;;auriez braisé;;ils/elles ;;;auraient braisé
-Impératif Présent;impératif;;;;;;;;;;braise;;;;;;;;;;braisons;;;;;braisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;braise;;;;;;;(nous) ;;;braisons;;(vous) ;;;braisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie braisé;;;;;;;(nous) ;;;ayons braisé;;(vous) ;;;ayez braisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;braiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

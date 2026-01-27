@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;privasse;que ;tu ;;;privasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse privé;que ;tu ;;;eusses privé;qu’;il/elle/on ;;;eût privé;que ;nous ;;;eussions privé;que ;vous ;;;eussiez privé;qu’;ils/elles ;;;eussent privé
 Conditionnel;conditionnel;;je ;;;priverais;;tu ;;;priverais;;il/elle/on ;;;priverait;;nous ;;;priverions;;vous ;;;priveriez;;ils/elles ;;;priveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais privé;;tu ;;;aurais privé;;il/elle/on ;;;aurait privé;;nous ;;;aurions privé;;vous ;;;auriez privé;;ils/elles ;;;auraient privé
-Impératif Présent;impératif;;;;;;;;;;prive;;;;;;;;;;privons;;;;;privez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;prive;;;;;;;(nous) ;;;privons;;(vous) ;;;privez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie privé;;;;;;;(nous) ;;;ayons privé;;(vous) ;;;ayez privé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;priver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

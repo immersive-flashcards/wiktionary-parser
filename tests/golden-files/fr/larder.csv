@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;lardasse;que ;tu ;;;lardasses;qu’;i
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse lardé;que ;tu ;;;eusses lardé;qu’;il/elle/on ;;;eût lardé;que ;nous ;;;eussions lardé;que ;vous ;;;eussiez lardé;qu’;ils/elles ;;;eussent lardé
 Conditionnel;conditionnel;;je ;;;larderais;;tu ;;;larderais;;il/elle/on ;;;larderait;;nous ;;;larderions;;vous ;;;larderiez;;ils/elles ;;;larderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais lardé;;tu ;;;aurais lardé;;il/elle/on ;;;aurait lardé;;nous ;;;aurions lardé;;vous ;;;auriez lardé;;ils/elles ;;;auraient lardé
-Impératif Présent;impératif;;;;;;;;;;larde;;;;;;;;;;lardons;;;;;lardez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;larde;;;;;;;(nous) ;;;lardons;;(vous) ;;;lardez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie lardé;;;;;;;(nous) ;;;ayons lardé;;(vous) ;;;ayez lardé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;larder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

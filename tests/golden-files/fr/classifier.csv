@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;classifiasse;que ;tu ;;;classifiasses
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse classifié;que ;tu ;;;eusses classifié;qu’;il/elle/on ;;;eût classifié;que ;nous ;;;eussions classifié;que ;vous ;;;eussiez classifié;qu’;ils/elles ;;;eussent classifié
 Conditionnel;conditionnel;;je ;;;classifierais;;tu ;;;classifierais;;il/elle/on ;;;classifierait;;nous ;;;classifierions;;vous ;;;classifieriez;;ils/elles ;;;classifieraient
 Conditionnel Passé;conditionnel;;j’;;;aurais classifié;;tu ;;;aurais classifié;;il/elle/on ;;;aurait classifié;;nous ;;;aurions classifié;;vous ;;;auriez classifié;;ils/elles ;;;auraient classifié
-Impératif Présent;impératif;;;;;;;;;;classifie;;;;;;;;;;classifions;;;;;classifiez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;classifie;;;;;;;(nous) ;;;classifions;;(vous) ;;;classifiez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie classifié;;;;;;;(nous) ;;;ayons classifié;;(vous) ;;;ayez classifié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;classifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

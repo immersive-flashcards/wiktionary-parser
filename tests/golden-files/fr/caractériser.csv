@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;caractérisasse;que ;tu ;;;caractéri
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse caractérisé;que ;tu ;;;eusses caractérisé;qu’;il/elle/on ;;;eût caractérisé;que ;nous ;;;eussions caractérisé;que ;vous ;;;eussiez caractérisé;qu’;ils/elles ;;;eussent caractérisé
 Conditionnel;conditionnel;;je ;;;caractériserais;;tu ;;;caractériserais;;il/elle/on ;;;caractériserait;;nous ;;;caractériserions;;vous ;;;caractériseriez;;ils/elles ;;;caractériseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais caractérisé;;tu ;;;aurais caractérisé;;il/elle/on ;;;aurait caractérisé;;nous ;;;aurions caractérisé;;vous ;;;auriez caractérisé;;ils/elles ;;;auraient caractérisé
-Impératif Présent;impératif;;;;;;;;;;caractérise;;;;;;;;;;caractérisons;;;;;caractérisez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;caractérise;;;;;;;(nous) ;;;caractérisons;;(vous) ;;;caractérisez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie caractérisé;;;;;;;(nous) ;;;ayons caractérisé;;(vous) ;;;ayez caractérisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;caractériser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

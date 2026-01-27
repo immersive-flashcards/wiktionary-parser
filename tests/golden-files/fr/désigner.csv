@@ -19,7 +19,8 @@ Subjonctif Imparfait;subjonctif;que ;je ;;;désignasse;que ;tu ;;;désignasses;q
 Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse désigné;que ;tu ;;;eusses désigné;qu’;il/elle/on ;;;eût désigné;que ;nous ;;;eussions désigné;que ;vous ;;;eussiez désigné;qu’;ils/elles ;;;eussent désigné
 Conditionnel;conditionnel;;je ;;;désignerais;;tu ;;;désignerais;;il/elle/on ;;;désignerait;;nous ;;;désignerions;;vous ;;;désigneriez;;ils/elles ;;;désigneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais désigné;;tu ;;;aurais désigné;;il/elle/on ;;;aurait désigné;;nous ;;;aurions désigné;;vous ;;;auriez désigné;;ils/elles ;;;auraient désigné
-Impératif Présent;impératif;;;;;;;;;;désigne;;;;;;;;;;désignons;;;;;désignez;;;;;
+Impératif Présent;impératif;;;;;;;(tu) ;;;désigne;;;;;;;(nous) ;;;désignons;;(vous) ;;;désignez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie désigné;;;;;;;(nous) ;;;ayons désigné;;(vous) ;;;ayez désigné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;désigner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

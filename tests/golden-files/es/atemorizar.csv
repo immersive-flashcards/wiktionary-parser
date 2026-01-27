@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;atemorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;atemorizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;atemorizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;atemorizo;;tú ;;;atemorizas;;él //ella //usted ;;;atemoriza;;nosotros //nosotras ;;;atemorizamos;;vosotros //vosotras ;;;atemorizáis;;ellos //ellas //ustedes ;;;atemorizan;;vos ;;;atemorizás
+Indicativo Imperfecto;indicativo;;yo ;;;atemorizaba;;tú //vos ;;;atemorizabas;;él //ella //usted ;;;atemorizaba;;nosotros //nosotras ;;;atemorizábamos;;vosotros //vosotras ;;;atemorizabais;;ellos //ellas //ustedes ;;;atemorizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;atemoricé;;tú //vos ;;;atemorizaste;;él //ella //usted ;;;atemorizó;;nosotros //nosotras ;;;atemorizamos;;vosotros //vosotras ;;;atemorizasteis;;ellos //ellas //ustedes ;;;atemorizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;atemorizaré;;tú //vos ;;;atemorizarás;;él //ella //usted ;;;atemorizará;;nosotros //nosotras ;;;atemorizaremos;;vosotros //vosotras ;;;atemorizaréis;;ellos //ellas //ustedes ;;;atemorizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he atemorizado;;tú //vos ;;;has atemorizado;;él //ella //usted ;;;ha atemorizado;;nosotros //nosotras ;;;hemos atemorizado;;vosotros //vosotras ;;;habéis atemorizado;;ellos //ellas //ustedes ;;;han atemorizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había atemorizado;;tú //vos ;;;habías atemorizado;;él //ella //usted ;;;había atemorizado;;nosotros //nosotras ;;;habíamos atemorizado;;vosotros //vosotras ;;;habíais atemorizado;;ellos //ellas //ustedes ;;;habían atemorizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube atemorizado;;tú //vos ;;;hubiste atemorizado;;él //ella //usted ;;;hubo atemorizado;;nosotros //nosotras ;;;hubimos atemorizado;;vosotros //vosotras ;;;hubisteis atemorizado;;ellos //ellas //ustedes ;;;hubieron atemorizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré atemorizado;;tú //vos ;;;habrás atemorizado;;él //ella //usted ;;;habrá atemorizado;;nosotros //nosotras ;;;habremos atemorizado;;vosotros //vosotras ;;;habréis atemorizado;;ellos //ellas //ustedes ;;;habrán atemorizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;atemorice;;tú //vos ;;;atemorices;;él //ella //usted ;;;atemorice;;nosotros //nosotras ;;;atemoricemos;;vosotros //vosotras ;;;atemoricéis;;ellos //ellas //ustedes ;;;atemoricen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;atemorizara / atemorizase;;tú //vos ;;;atemorizaras / atemorizases;;él //ella //usted ;;;atemorizara / atemorizase;;nosotros //nosotras ;;;atemorizáramos / atemorizásemos;;vosotros //vosotras ;;;atemorizarais / atemorizaseis;;ellos //ellas //ustedes ;;;atemorizaran / atemorizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;atemorizare;;tú //vos ;;;atemorizares;;él //ella //usted ;;;atemorizare;;nosotros //nosotras ;;;atemorizáremos;;vosotros //vosotras ;;;atemorizareis;;ellos //ellas //ustedes ;;;atemorizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya atemorizado;;tú //vos ;;;hayas atemorizado;;él //ella //usted ;;;haya atemorizado;;nosotros //nosotras ;;;hayamos atemorizado;;vosotros //vosotras ;;;hayáis atemorizado;;ellos //ellas //ustedes ;;;hayan atemorizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera atemorizado / hubiese atemorizado;;tú //vos ;;;hubieras atemorizado / hubieses atemorizado;;él //ella //usted ;;;hubiera atemorizado / hubiese atemorizado;;nosotros //nosotras ;;;hubiéramos atemorizado / hubiésemos atemorizado;;vosotros //vosotras ;;;hubierais atemorizado / hubieseis atemorizado;;ellos //ellas //ustedes ;;;hubieran atemorizado / hubiesen atemorizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere atemorizado;;tú //vos ;;;hubieres atemorizado;;él //ella //usted ;;;hubiere atemorizado;;nosotros //nosotras ;;;hubiéremos atemorizado;;vosotros //vosotras ;;;hubiereis atemorizado;;ellos //ellas //ustedes ;;;hubieren atemorizado;;;;;
+Condicional;condicional;;yo ;;;atemorizaría;;tú //vos ;;;atemorizarías;;él //ella //usted ;;;atemorizaría;;nosotros //nosotras ;;;atemorizaríamos;;vosotros //vosotras ;;;atemorizaríais;;ellos //ellas //ustedes ;;;atemorizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría atemorizado;;tú //vos ;;;habrías atemorizado;;él //ella //usted ;;;habría atemorizado;;nosotros //nosotras ;;;habríamos atemorizado;;vosotros //vosotras ;;;habríais atemorizado;;ellos //ellas //ustedes ;;;habrían atemorizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;atemoriza;;(usted) ;;;atemorice;;(nosotros) //(nosotras) ;;;atemoricemos;;(vosotros) //(vosotras) ;;;atemorizad;;(ustedes) ;;;atemoricen;;(vos) ;;;atemorizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;atemorices;;(usted) ;no ;;atemorice;;(nosotros) //(nosotras) ;no ;;atemoricemos;;(vosotros) //(vosotras) ;no ;;atemoricéis;;(ustedes) ;no ;;atemoricen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;atemorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;atemoriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

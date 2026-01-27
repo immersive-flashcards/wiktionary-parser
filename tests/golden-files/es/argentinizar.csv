@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;argentinizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;argentinizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;argentinizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;argentinizo;;tú ;;;argentinizas;;él //ella //usted ;;;argentiniza;;nosotros //nosotras ;;;argentinizamos;;vosotros //vosotras ;;;argentinizáis;;ellos //ellas //ustedes ;;;argentinizan;;vos ;;;argentinizás
+Indicativo Imperfecto;indicativo;;yo ;;;argentinizaba;;tú //vos ;;;argentinizabas;;él //ella //usted ;;;argentinizaba;;nosotros //nosotras ;;;argentinizábamos;;vosotros //vosotras ;;;argentinizabais;;ellos //ellas //ustedes ;;;argentinizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;argentinicé;;tú //vos ;;;argentinizaste;;él //ella //usted ;;;argentinizó;;nosotros //nosotras ;;;argentinizamos;;vosotros //vosotras ;;;argentinizasteis;;ellos //ellas //ustedes ;;;argentinizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;argentinizaré;;tú //vos ;;;argentinizarás;;él //ella //usted ;;;argentinizará;;nosotros //nosotras ;;;argentinizaremos;;vosotros //vosotras ;;;argentinizaréis;;ellos //ellas //ustedes ;;;argentinizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he argentinizado;;tú //vos ;;;has argentinizado;;él //ella //usted ;;;ha argentinizado;;nosotros //nosotras ;;;hemos argentinizado;;vosotros //vosotras ;;;habéis argentinizado;;ellos //ellas //ustedes ;;;han argentinizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había argentinizado;;tú //vos ;;;habías argentinizado;;él //ella //usted ;;;había argentinizado;;nosotros //nosotras ;;;habíamos argentinizado;;vosotros //vosotras ;;;habíais argentinizado;;ellos //ellas //ustedes ;;;habían argentinizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube argentinizado;;tú //vos ;;;hubiste argentinizado;;él //ella //usted ;;;hubo argentinizado;;nosotros //nosotras ;;;hubimos argentinizado;;vosotros //vosotras ;;;hubisteis argentinizado;;ellos //ellas //ustedes ;;;hubieron argentinizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré argentinizado;;tú //vos ;;;habrás argentinizado;;él //ella //usted ;;;habrá argentinizado;;nosotros //nosotras ;;;habremos argentinizado;;vosotros //vosotras ;;;habréis argentinizado;;ellos //ellas //ustedes ;;;habrán argentinizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;argentinice;;tú //vos ;;;argentinices;;él //ella //usted ;;;argentinice;;nosotros //nosotras ;;;argentinicemos;;vosotros //vosotras ;;;argentinicéis;;ellos //ellas //ustedes ;;;argentinicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;argentinizara / argentinizase;;tú //vos ;;;argentinizaras / argentinizases;;él //ella //usted ;;;argentinizara / argentinizase;;nosotros //nosotras ;;;argentinizáramos / argentinizásemos;;vosotros //vosotras ;;;argentinizarais / argentinizaseis;;ellos //ellas //ustedes ;;;argentinizaran / argentinizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;argentinizare;;tú //vos ;;;argentinizares;;él //ella //usted ;;;argentinizare;;nosotros //nosotras ;;;argentinizáremos;;vosotros //vosotras ;;;argentinizareis;;ellos //ellas //ustedes ;;;argentinizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya argentinizado;;tú //vos ;;;hayas argentinizado;;él //ella //usted ;;;haya argentinizado;;nosotros //nosotras ;;;hayamos argentinizado;;vosotros //vosotras ;;;hayáis argentinizado;;ellos //ellas //ustedes ;;;hayan argentinizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera argentinizado / hubiese argentinizado;;tú //vos ;;;hubieras argentinizado / hubieses argentinizado;;él //ella //usted ;;;hubiera argentinizado / hubiese argentinizado;;nosotros //nosotras ;;;hubiéramos argentinizado / hubiésemos argentinizado;;vosotros //vosotras ;;;hubierais argentinizado / hubieseis argentinizado;;ellos //ellas //ustedes ;;;hubieran argentinizado / hubiesen argentinizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere argentinizado;;tú //vos ;;;hubieres argentinizado;;él //ella //usted ;;;hubiere argentinizado;;nosotros //nosotras ;;;hubiéremos argentinizado;;vosotros //vosotras ;;;hubiereis argentinizado;;ellos //ellas //ustedes ;;;hubieren argentinizado;;;;;
+Condicional;condicional;;yo ;;;argentinizaría;;tú //vos ;;;argentinizarías;;él //ella //usted ;;;argentinizaría;;nosotros //nosotras ;;;argentinizaríamos;;vosotros //vosotras ;;;argentinizaríais;;ellos //ellas //ustedes ;;;argentinizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría argentinizado;;tú //vos ;;;habrías argentinizado;;él //ella //usted ;;;habría argentinizado;;nosotros //nosotras ;;;habríamos argentinizado;;vosotros //vosotras ;;;habríais argentinizado;;ellos //ellas //ustedes ;;;habrían argentinizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;argentiniza;;(usted) ;;;argentinice;;(nosotros) //(nosotras) ;;;argentinicemos;;(vosotros) //(vosotras) ;;;argentinizad;;(ustedes) ;;;argentinicen;;(vos) ;;;argentinizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;argentinices;;(usted) ;no ;;argentinice;;(nosotros) //(nosotras) ;no ;;argentinicemos;;(vosotros) //(vosotras) ;no ;;argentinicéis;;(ustedes) ;no ;;argentinicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;argentinizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;argentiniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

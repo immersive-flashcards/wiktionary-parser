@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;créer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir créé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en créant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant créé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;créant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;créé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;crée;;tu ;;;crées;;il/elle/on ;;;crée;;nous ;;;créons;;vous ;;;créez;;ils/elles ;;;créent
+Indicatif Passé Composé;indicatif;;j’;;;ai créé;;tu ;;;as créé;;il/elle/on ;;;a créé;;nous ;;;avons créé;;vous ;;;avez créé;;ils/elles ;;;ont créé
+Indicatif Imparfait;indicatif;;je ;;;créais;;tu ;;;créais;;il/elle/on ;;;créait;;nous ;;;créions;;vous ;;;créiez;;ils/elles ;;;créaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais créé;;tu ;;;avais créé;;il/elle/on ;;;avait créé;;nous ;;;avions créé;;vous ;;;aviez créé;;ils/elles ;;;avaient créé
+Indicatif Passé Simple;indicatif;;je ;;;créai;;tu ;;;créas;;il/elle/on ;;;créa;;nous ;;;créâmes;;vous ;;;créâtes;;ils/elles ;;;créèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus créé;;tu ;;;eus créé;;il/elle/on ;;;eut créé;;nous ;;;eûmes créé;;vous ;;;eûtes créé;;ils/elles ;;;eurent créé
+Indicatif Futur Simple;indicatif;;je ;;;créerai;;tu ;;;créeras;;il/elle/on ;;;créera;;nous ;;;créerons;;vous ;;;créerez;;ils/elles ;;;créeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai créé;;tu ;;;auras créé;;il/elle/on ;;;aura créé;;nous ;;;aurons créé;;vous ;;;aurez créé;;ils/elles ;;;auront créé
+Subjonctif Présent;subjonctif;que ;je ;;;crée;que ;tu ;;;crées;qu’;il/elle/on ;;;crée;que ;nous ;;;créions;que ;vous ;;;créiez;qu’;ils/elles ;;;créent
+Subjonctif Passé;subjonctif;que ;j’;;;aie créé;que ;tu ;;;aies créé;qu’;il/elle/on ;;;ait créé;que ;nous ;;;ayons créé;que ;vous ;;;ayez créé;qu’;ils/elles ;;;aient créé
+Subjonctif Imparfait;subjonctif;que ;je ;;;créasse;que ;tu ;;;créasses;qu’;il/elle/on ;;;créât;que ;nous ;;;créassions;que ;vous ;;;créassiez;qu’;ils/elles ;;;créassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse créé;que ;tu ;;;eusses créé;qu’;il/elle/on ;;;eût créé;que ;nous ;;;eussions créé;que ;vous ;;;eussiez créé;qu’;ils/elles ;;;eussent créé
+Conditionnel;conditionnel;;je ;;;créerais;;tu ;;;créerais;;il/elle/on ;;;créerait;;nous ;;;créerions;;vous ;;;créeriez;;ils/elles ;;;créeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais créé;;tu ;;;aurais créé;;il/elle/on ;;;aurait créé;;nous ;;;aurions créé;;vous ;;;auriez créé;;ils/elles ;;;auraient créé
+Impératif Présent;impératif;;;;;;;;;;crée;;;;;;;;;;créons;;;;;créez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;créer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;cré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

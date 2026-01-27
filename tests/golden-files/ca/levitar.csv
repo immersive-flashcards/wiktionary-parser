@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;levitar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;levitant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;levitat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;levito;;tu ;;;levites;;ell //ella //vostè ;;;levita;;nosaltres ;;;levitem;;vosaltres ;;;leviteu;;ells //elles //vostès ;;;leviten
+Indicatiu Imperfet;indicativo;;jo ;;;levitava;;tu ;;;levitaves;;ell //ella //vostè ;;;levitava;;nosaltres ;;;levitàvem;;vosaltres ;;;levitàveu;;ells //elles //vostès ;;;levitaven
+Indicatiu Futur;indicativo;;jo ;;;levitaré;;tu ;;;levitaràs;;ell //ella //vostè ;;;levitarà;;nosaltres ;;;levitarem;;vosaltres ;;;levitareu;;ells //elles //vostès ;;;levitaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;levití;;tu ;;;levitares;;ell //ella //vostè ;;;levità;;nosaltres ;;;levitàrem;;vosaltres ;;;levitàreu;;ells //elles //vostès ;;;levitaren
+Condicional;condicional;;jo ;;;levitaria;;tu ;;;levitaries;;ell //ella //vostè ;;;levitaria;;nosaltres ;;;levitaríem;;vosaltres ;;;levitaríeu;;ells //elles //vostès ;;;levitarien
+Subjuntiu Present;subjuntiu;;jo ;;;leviti;;tu ;;;levitis;;ell //ella //vostè ;;;leviti;;nosaltres ;;;levitem;;vosaltres ;;;leviteu;;ells //elles //vostès ;;;levitin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;levités;;tu ;;;levitessis;;ell //ella //vostè ;;;levités;;nosaltres ;;;levitéssim;;vosaltres ;;;levitéssiu;;ells //elles //vostès ;;;levitessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;levita;;(vostè) ;;;leviti;;(nosaltres) ;;;levitem;;(vosaltres) ;;;leviteu;;(vostès) ;;;levitin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;levitis;;(vostè) ;no ;;leviti;;(nosaltres) ;no ;;levitem;;(vosaltres) ;no ;;leviteu;;(vostès) ;no ;;levitin
+Indicatiu Perfet;indicatiu;;jo ;;;he levitat;;tu ;;;has levitat;;ell //ella //vostè ;;;ha levitat;;nosaltres ;;;hem levitat;;vosaltres ;;;heu levitat;;ells //elles //vostès ;;;han levitat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig levitat;;tu ;;;vas levitat;;ell //ella //vostè ;;;va levitat;;nosaltres ;;;vam levitat;;vosaltres ;;;vau levitat;;ells //elles //vostès ;;;van levitat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia levitat;;tu ;;;havies levitat;;ell //ella //vostè ;;;havia levitat;;nosaltres ;;;havíem levitat;;vosaltres ;;;havíeu levitat;;ells //elles //vostès ;;;havien levitat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí levitat;;tu ;;;hagueres levitat;;ell //ella //vostè ;;;hagué levitat;;nosaltres ;;;haguérem levitat;;vosaltres ;;;haguéreu levitat;;ells //elles //vostès ;;;hagueren levitat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver levitat;;tu ;;;vas haver levitat;;ell //ella //vostè ;;;va haver levitat;;nosaltres ;;;vam haver levitat;;vosaltres ;;;vau haver levitat;;ells //elles //vostès ;;;van haver levitat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré levitat;;tu ;;;hauràs levitat;;ell //ella //vostè ;;;haurà levitat;;nosaltres ;;;haurem levitat;;vosaltres ;;;haureu levitat;;ells //elles //vostès ;;;hauran levitat
+Condicional Perfet;condicional;;jo ;;;hauria levitat;;tu ;;;hauries levitat;;ell //ella //vostè ;;;hauria levitat;;nosaltres ;;;hauríem levitat;;vosaltres ;;;hauríeu levitat;;ells //elles //vostès ;;;haurien levitat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi levitat;;tu ;;;vagis levitat;;ell //ella //vostè ;;;vagi levitat;;nosaltres ;;;vàgim levitat;;vosaltres ;;;vàgiu levitat;;ells //elles //vostès ;;;vagin levitat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi levitat;;tu ;;;hagis levitat;;ell //ella //vostè ;;;hagi levitat;;nosaltres ;;;hàgim levitat;;vosaltres ;;;hàgiu levitat;;ells //elles //vostès ;;;hagin levitat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes levitat;;tu ;;;haguessis levitat;;ell //ella //vostè ;;;hagués levitat;;nosaltres ;;;haguéssim levitat;;vosaltres ;;;haguéssiu levitat;;ells //elles //vostès ;;;haguessin levitat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver levitat;;tu ;;;vagis haver levitat;;ell //ella //vostè ;;;vagi haver levitat;;nosaltres ;;;vàgim haver levitat;;vosaltres ;;;vàgiu haver levitat;;ells //elles //vostès ;;;vagin haver levitat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;levitar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;levit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

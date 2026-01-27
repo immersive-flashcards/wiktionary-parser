@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;adulzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;adulzando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;adulzado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;adulzo;;tú ;;;adulzas;;él //ella //usted ;;;adulza;;nosotros //nosotras ;;;adulzamos;;vosotros //vosotras ;;;adulzáis;;ellos //ellas //ustedes ;;;adulzan;;vos ;;;adulzás
+Indicativo Imperfecto;indicativo;;yo ;;;adulzaba;;tú //vos ;;;adulzabas;;él //ella //usted ;;;adulzaba;;nosotros //nosotras ;;;adulzábamos;;vosotros //vosotras ;;;adulzabais;;ellos //ellas //ustedes ;;;adulzaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;adulcé;;tú //vos ;;;adulzaste;;él //ella //usted ;;;adulzó;;nosotros //nosotras ;;;adulzamos;;vosotros //vosotras ;;;adulzasteis;;ellos //ellas //ustedes ;;;adulzaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;adulzaré;;tú //vos ;;;adulzarás;;él //ella //usted ;;;adulzará;;nosotros //nosotras ;;;adulzaremos;;vosotros //vosotras ;;;adulzaréis;;ellos //ellas //ustedes ;;;adulzarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he adulzado;;tú //vos ;;;has adulzado;;él //ella //usted ;;;ha adulzado;;nosotros //nosotras ;;;hemos adulzado;;vosotros //vosotras ;;;habéis adulzado;;ellos //ellas //ustedes ;;;han adulzado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había adulzado;;tú //vos ;;;habías adulzado;;él //ella //usted ;;;había adulzado;;nosotros //nosotras ;;;habíamos adulzado;;vosotros //vosotras ;;;habíais adulzado;;ellos //ellas //ustedes ;;;habían adulzado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube adulzado;;tú //vos ;;;hubiste adulzado;;él //ella //usted ;;;hubo adulzado;;nosotros //nosotras ;;;hubimos adulzado;;vosotros //vosotras ;;;hubisteis adulzado;;ellos //ellas //ustedes ;;;hubieron adulzado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré adulzado;;tú //vos ;;;habrás adulzado;;él //ella //usted ;;;habrá adulzado;;nosotros //nosotras ;;;habremos adulzado;;vosotros //vosotras ;;;habréis adulzado;;ellos //ellas //ustedes ;;;habrán adulzado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;adulce;;tú //vos ;;;adulces;;él //ella //usted ;;;adulce;;nosotros //nosotras ;;;adulcemos;;vosotros //vosotras ;;;adulcéis;;ellos //ellas //ustedes ;;;adulcen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;adulzara / adulzase;;tú //vos ;;;adulzaras / adulzases;;él //ella //usted ;;;adulzara / adulzase;;nosotros //nosotras ;;;adulzáramos / adulzásemos;;vosotros //vosotras ;;;adulzarais / adulzaseis;;ellos //ellas //ustedes ;;;adulzaran / adulzasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;adulzare;;tú //vos ;;;adulzares;;él //ella //usted ;;;adulzare;;nosotros //nosotras ;;;adulzáremos;;vosotros //vosotras ;;;adulzareis;;ellos //ellas //ustedes ;;;adulzaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya adulzado;;tú //vos ;;;hayas adulzado;;él //ella //usted ;;;haya adulzado;;nosotros //nosotras ;;;hayamos adulzado;;vosotros //vosotras ;;;hayáis adulzado;;ellos //ellas //ustedes ;;;hayan adulzado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera adulzado / hubiese adulzado;;tú //vos ;;;hubieras adulzado / hubieses adulzado;;él //ella //usted ;;;hubiera adulzado / hubiese adulzado;;nosotros //nosotras ;;;hubiéramos adulzado / hubiésemos adulzado;;vosotros //vosotras ;;;hubierais adulzado / hubieseis adulzado;;ellos //ellas //ustedes ;;;hubieran adulzado / hubiesen adulzado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere adulzado;;tú //vos ;;;hubieres adulzado;;él //ella //usted ;;;hubiere adulzado;;nosotros //nosotras ;;;hubiéremos adulzado;;vosotros //vosotras ;;;hubiereis adulzado;;ellos //ellas //ustedes ;;;hubieren adulzado;;;;;
+Condicional;condicional;;yo ;;;adulzaría;;tú //vos ;;;adulzarías;;él //ella //usted ;;;adulzaría;;nosotros //nosotras ;;;adulzaríamos;;vosotros //vosotras ;;;adulzaríais;;ellos //ellas //ustedes ;;;adulzarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría adulzado;;tú //vos ;;;habrías adulzado;;él //ella //usted ;;;habría adulzado;;nosotros //nosotras ;;;habríamos adulzado;;vosotros //vosotras ;;;habríais adulzado;;ellos //ellas //ustedes ;;;habrían adulzado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adulza;;(usted) ;;;adulce;;(nosotros) //(nosotras) ;;;adulcemos;;(vosotros) //(vosotras) ;;;adulzad;;(ustedes) ;;;adulcen;;(vos) ;;;adulzá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adulces;;(usted) ;no ;;adulce;;(nosotros) //(nosotras) ;no ;;adulcemos;;(vosotros) //(vosotras) ;no ;;adulcéis;;(ustedes) ;no ;;adulcen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;adulzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;adulz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

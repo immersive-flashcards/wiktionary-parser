@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;perdurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir perduré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en perdurant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant perduré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;perdurant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;perduré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;perdure;;tu ;;;perdures;;il/elle/on ;;;perdure;;nous ;;;perdurons;;vous ;;;perdurez;;ils/elles ;;;perdurent
+Indicatif Passé Composé;indicatif;;j’;;;ai perduré;;tu ;;;as perduré;;il/elle/on ;;;a perduré;;nous ;;;avons perduré;;vous ;;;avez perduré;;ils/elles ;;;ont perduré
+Indicatif Imparfait;indicatif;;je ;;;perdurais;;tu ;;;perdurais;;il/elle/on ;;;perdurait;;nous ;;;perdurions;;vous ;;;perduriez;;ils/elles ;;;perduraient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais perduré;;tu ;;;avais perduré;;il/elle/on ;;;avait perduré;;nous ;;;avions perduré;;vous ;;;aviez perduré;;ils/elles ;;;avaient perduré
+Indicatif Passé Simple;indicatif;;je ;;;perdurai;;tu ;;;perduras;;il/elle/on ;;;perdura;;nous ;;;perdurâmes;;vous ;;;perdurâtes;;ils/elles ;;;perdurèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus perduré;;tu ;;;eus perduré;;il/elle/on ;;;eut perduré;;nous ;;;eûmes perduré;;vous ;;;eûtes perduré;;ils/elles ;;;eurent perduré
+Indicatif Futur Simple;indicatif;;je ;;;perdurerai;;tu ;;;perdureras;;il/elle/on ;;;perdurera;;nous ;;;perdurerons;;vous ;;;perdurerez;;ils/elles ;;;perdureront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai perduré;;tu ;;;auras perduré;;il/elle/on ;;;aura perduré;;nous ;;;aurons perduré;;vous ;;;aurez perduré;;ils/elles ;;;auront perduré
+Subjonctif Présent;subjonctif;que ;je ;;;perdure;que ;tu ;;;perdures;qu’;il/elle/on ;;;perdure;que ;nous ;;;perdurions;que ;vous ;;;perduriez;qu’;ils/elles ;;;perdurent
+Subjonctif Passé;subjonctif;que ;j’;;;aie perduré;que ;tu ;;;aies perduré;qu’;il/elle/on ;;;ait perduré;que ;nous ;;;ayons perduré;que ;vous ;;;ayez perduré;qu’;ils/elles ;;;aient perduré
+Subjonctif Imparfait;subjonctif;que ;je ;;;perdurasse;que ;tu ;;;perdurasses;qu’;il/elle/on ;;;perdurât;que ;nous ;;;perdurassions;que ;vous ;;;perdurassiez;qu’;ils/elles ;;;perdurassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse perduré;que ;tu ;;;eusses perduré;qu’;il/elle/on ;;;eût perduré;que ;nous ;;;eussions perduré;que ;vous ;;;eussiez perduré;qu’;ils/elles ;;;eussent perduré
+Conditionnel;conditionnel;;je ;;;perdurerais;;tu ;;;perdurerais;;il/elle/on ;;;perdurerait;;nous ;;;perdurerions;;vous ;;;perdureriez;;ils/elles ;;;perdureraient
+Conditionnel Passé;conditionnel;;j’;;;aurais perduré;;tu ;;;aurais perduré;;il/elle/on ;;;aurait perduré;;nous ;;;aurions perduré;;vous ;;;auriez perduré;;ils/elles ;;;auraient perduré
+Impératif Présent;impératif;;;;;;;;;;perdure;;;;;;;;;;perdurons;;;;;perdurez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;perdurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;perdur;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

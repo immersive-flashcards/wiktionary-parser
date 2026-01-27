@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;correspondre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;corresponent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;correspost;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;corresponc;;tu ;;;correspons;;ell //ella //vostè ;;;correspon;;nosaltres ;;;corresponem;;vosaltres ;;;corresponeu;;ells //elles //vostès ;;;corresponen
+Indicatiu Imperfet;indicativo;;jo ;;;corresponia;;tu ;;;corresponies;;ell //ella //vostè ;;;corresponia;;nosaltres ;;;corresponíem;;vosaltres ;;;corresponíeu;;ells //elles //vostès ;;;corresponien
+Indicatiu Futur;indicativo;;jo ;;;correspondré;;tu ;;;correspondràs;;ell //ella //vostè ;;;correspondrà;;nosaltres ;;;correspondrem;;vosaltres ;;;correspondreu;;ells //elles //vostès ;;;correspondran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;corresponguí;;tu ;;;correspongueres;;ell //ella //vostè ;;;correspongué;;nosaltres ;;;corresponguérem;;vosaltres ;;;corresponguéreu;;ells //elles //vostès ;;;correspongueren
+Condicional;condicional;;jo ;;;correspondria;;tu ;;;correspondries;;ell //ella //vostè ;;;correspondria;;nosaltres ;;;correspondríem;;vosaltres ;;;correspondríeu;;ells //elles //vostès ;;;correspondrien
+Subjuntiu Present;subjuntiu;;jo ;;;correspongui;;tu ;;;corresponguis;;ell //ella //vostè ;;;correspongui;;nosaltres ;;;corresponguem;;vosaltres ;;;correspongueu;;ells //elles //vostès ;;;corresponguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;correspongués;;tu ;;;corresponguessis;;ell //ella //vostè ;;;correspongués;;nosaltres ;;;corresponguéssim;;vosaltres ;;;corresponguéssiu;;ells //elles //vostès ;;;corresponguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;correspon;;(vostè) ;;;correspongui;;(nosaltres) ;;;corresponguem;;(vosaltres) ;;;corresponeu;;(vostès) ;;;corresponguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;corresponguis;;(vostè) ;no ;;correspongui;;(nosaltres) ;no ;;corresponguem;;(vosaltres) ;no ;;correspongueu;;(vostès) ;no ;;corresponguin
+Indicatiu Perfet;indicatiu;;jo ;;;he correspost;;tu ;;;has correspost;;ell //ella //vostè ;;;ha correspost;;nosaltres ;;;hem correspost;;vosaltres ;;;heu correspost;;ells //elles //vostès ;;;han correspost
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig correspost;;tu ;;;vas correspost;;ell //ella //vostè ;;;va correspost;;nosaltres ;;;vam correspost;;vosaltres ;;;vau correspost;;ells //elles //vostès ;;;van correspost
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia correspost;;tu ;;;havies correspost;;ell //ella //vostè ;;;havia correspost;;nosaltres ;;;havíem correspost;;vosaltres ;;;havíeu correspost;;ells //elles //vostès ;;;havien correspost
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí correspost;;tu ;;;hagueres correspost;;ell //ella //vostè ;;;hagué correspost;;nosaltres ;;;haguérem correspost;;vosaltres ;;;haguéreu correspost;;ells //elles //vostès ;;;hagueren correspost
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver correspost;;tu ;;;vas haver correspost;;ell //ella //vostè ;;;va haver correspost;;nosaltres ;;;vam haver correspost;;vosaltres ;;;vau haver correspost;;ells //elles //vostès ;;;van haver correspost
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré correspost;;tu ;;;hauràs correspost;;ell //ella //vostè ;;;haurà correspost;;nosaltres ;;;haurem correspost;;vosaltres ;;;haureu correspost;;ells //elles //vostès ;;;hauran correspost
+Condicional Perfet;condicional;;jo ;;;hauria correspost;;tu ;;;hauries correspost;;ell //ella //vostè ;;;hauria correspost;;nosaltres ;;;hauríem correspost;;vosaltres ;;;hauríeu correspost;;ells //elles //vostès ;;;haurien correspost
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi correspost;;tu ;;;vagis correspost;;ell //ella //vostè ;;;vagi correspost;;nosaltres ;;;vàgim correspost;;vosaltres ;;;vàgiu correspost;;ells //elles //vostès ;;;vagin correspost
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi correspost;;tu ;;;hagis correspost;;ell //ella //vostè ;;;hagi correspost;;nosaltres ;;;hàgim correspost;;vosaltres ;;;hàgiu correspost;;ells //elles //vostès ;;;hagin correspost
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes correspost;;tu ;;;haguessis correspost;;ell //ella //vostè ;;;hagués correspost;;nosaltres ;;;haguéssim correspost;;vosaltres ;;;haguéssiu correspost;;ells //elles //vostès ;;;haguessin correspost
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver correspost;;tu ;;;vagis haver correspost;;ell //ella //vostè ;;;vagi haver correspost;;nosaltres ;;;vàgim haver correspost;;vosaltres ;;;vàgiu haver correspost;;ells //elles //vostès ;;;vagin haver correspost
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;correspondre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;correspond;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

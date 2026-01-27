@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;abdiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir abdiqué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en abdiquant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant abdiqué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;abdiquant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;abdiqué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;abdique;;tu ;;;abdiques;;il/elle/on ;;;abdique;;nous ;;;abdiquons;;vous ;;;abdiquez;;ils/elles ;;;abdiquent
+Indicatif Passé Composé;indicatif;;j’;;;ai abdiqué;;tu ;;;as abdiqué;;il/elle/on ;;;a abdiqué;;nous ;;;avons abdiqué;;vous ;;;avez abdiqué;;ils/elles ;;;ont abdiqué
+Indicatif Imparfait;indicatif;;j’;;;abdiquais;;tu ;;;abdiquais;;il/elle/on ;;;abdiquait;;nous ;;;abdiquions;;vous ;;;abdiquiez;;ils/elles ;;;abdiquaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais abdiqué;;tu ;;;avais abdiqué;;il/elle/on ;;;avait abdiqué;;nous ;;;avions abdiqué;;vous ;;;aviez abdiqué;;ils/elles ;;;avaient abdiqué
+Indicatif Passé Simple;indicatif;;j’;;;abdiquai;;tu ;;;abdiquas;;il/elle/on ;;;abdiqua;;nous ;;;abdiquâmes;;vous ;;;abdiquâtes;;ils/elles ;;;abdiquèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus abdiqué;;tu ;;;eus abdiqué;;il/elle/on ;;;eut abdiqué;;nous ;;;eûmes abdiqué;;vous ;;;eûtes abdiqué;;ils/elles ;;;eurent abdiqué
+Indicatif Futur Simple;indicatif;;j’;;;abdiquerai;;tu ;;;abdiqueras;;il/elle/on ;;;abdiquera;;nous ;;;abdiquerons;;vous ;;;abdiquerez;;ils/elles ;;;abdiqueront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai abdiqué;;tu ;;;auras abdiqué;;il/elle/on ;;;aura abdiqué;;nous ;;;aurons abdiqué;;vous ;;;aurez abdiqué;;ils/elles ;;;auront abdiqué
+Subjonctif Présent;subjonctif;que ;j’;;;abdique;que ;tu ;;;abdiques;qu’;il/elle/on ;;;abdique;que ;nous ;;;abdiquions;que ;vous ;;;abdiquiez;qu’;ils/elles ;;;abdiquent
+Subjonctif Passé;subjonctif;que ;j’;;;aie abdiqué;que ;tu ;;;aies abdiqué;qu’;il/elle/on ;;;ait abdiqué;que ;nous ;;;ayons abdiqué;que ;vous ;;;ayez abdiqué;qu’;ils/elles ;;;aient abdiqué
+Subjonctif Imparfait;subjonctif;que ;j’;;;abdiquasse;que ;tu ;;;abdiquasses;qu’;il/elle/on ;;;abdiquât;que ;nous ;;;abdiquassions;que ;vous ;;;abdiquassiez;qu’;ils/elles ;;;abdiquassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse abdiqué;que ;tu ;;;eusses abdiqué;qu’;il/elle/on ;;;eût abdiqué;que ;nous ;;;eussions abdiqué;que ;vous ;;;eussiez abdiqué;qu’;ils/elles ;;;eussent abdiqué
+Conditionnel;conditionnel;;j’;;;abdiquerais;;tu ;;;abdiquerais;;il/elle/on ;;;abdiquerait;;nous ;;;abdiquerions;;vous ;;;abdiqueriez;;ils/elles ;;;abdiqueraient
+Conditionnel Passé;conditionnel;;j’;;;aurais abdiqué;;tu ;;;aurais abdiqué;;il/elle/on ;;;aurait abdiqué;;nous ;;;aurions abdiqué;;vous ;;;auriez abdiqué;;ils/elles ;;;auraient abdiqué
+Impératif Présent;impératif;;;;;;;;;;abdique;;;;;;;;;;abdiquons;;;;;abdiquez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;abdiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;abdiqu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

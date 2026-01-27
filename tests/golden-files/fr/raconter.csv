@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;raconter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir raconté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en racontant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant raconté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;racontant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;raconté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;raconte;;tu ;;;racontes;;il/elle/on ;;;raconte;;nous ;;;racontons;;vous ;;;racontez;;ils/elles ;;;racontent
+Indicatif Passé Composé;indicatif;;j’;;;ai raconté;;tu ;;;as raconté;;il/elle/on ;;;a raconté;;nous ;;;avons raconté;;vous ;;;avez raconté;;ils/elles ;;;ont raconté
+Indicatif Imparfait;indicatif;;je ;;;racontais;;tu ;;;racontais;;il/elle/on ;;;racontait;;nous ;;;racontions;;vous ;;;racontiez;;ils/elles ;;;racontaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais raconté;;tu ;;;avais raconté;;il/elle/on ;;;avait raconté;;nous ;;;avions raconté;;vous ;;;aviez raconté;;ils/elles ;;;avaient raconté
+Indicatif Passé Simple;indicatif;;je ;;;racontai;;tu ;;;racontas;;il/elle/on ;;;raconta;;nous ;;;racontâmes;;vous ;;;racontâtes;;ils/elles ;;;racontèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus raconté;;tu ;;;eus raconté;;il/elle/on ;;;eut raconté;;nous ;;;eûmes raconté;;vous ;;;eûtes raconté;;ils/elles ;;;eurent raconté
+Indicatif Futur Simple;indicatif;;je ;;;raconterai;;tu ;;;raconteras;;il/elle/on ;;;racontera;;nous ;;;raconterons;;vous ;;;raconterez;;ils/elles ;;;raconteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai raconté;;tu ;;;auras raconté;;il/elle/on ;;;aura raconté;;nous ;;;aurons raconté;;vous ;;;aurez raconté;;ils/elles ;;;auront raconté
+Subjonctif Présent;subjonctif;que ;je ;;;raconte;que ;tu ;;;racontes;qu’;il/elle/on ;;;raconte;que ;nous ;;;racontions;que ;vous ;;;racontiez;qu’;ils/elles ;;;racontent
+Subjonctif Passé;subjonctif;que ;j’;;;aie raconté;que ;tu ;;;aies raconté;qu’;il/elle/on ;;;ait raconté;que ;nous ;;;ayons raconté;que ;vous ;;;ayez raconté;qu’;ils/elles ;;;aient raconté
+Subjonctif Imparfait;subjonctif;que ;je ;;;racontasse;que ;tu ;;;racontasses;qu’;il/elle/on ;;;racontât;que ;nous ;;;racontassions;que ;vous ;;;racontassiez;qu’;ils/elles ;;;racontassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse raconté;que ;tu ;;;eusses raconté;qu’;il/elle/on ;;;eût raconté;que ;nous ;;;eussions raconté;que ;vous ;;;eussiez raconté;qu’;ils/elles ;;;eussent raconté
+Conditionnel;conditionnel;;je ;;;raconterais;;tu ;;;raconterais;;il/elle/on ;;;raconterait;;nous ;;;raconterions;;vous ;;;raconteriez;;ils/elles ;;;raconteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais raconté;;tu ;;;aurais raconté;;il/elle/on ;;;aurait raconté;;nous ;;;aurions raconté;;vous ;;;auriez raconté;;ils/elles ;;;auraient raconté
+Impératif Présent;impératif;;;;;;;;;;raconte;;;;;;;;;;racontons;;;;;racontez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;raconter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;racont;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

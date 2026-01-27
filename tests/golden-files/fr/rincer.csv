@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;rincer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir rincé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en rinçant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant rincé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;rinçant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;rincé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;rince;;tu ;;;rinces;;il/elle/on ;;;rince;;nous ;;;rinçons;;vous ;;;rincez;;ils/elles ;;;rincent
+Indicatif Passé Composé;indicatif;;j’;;;ai rincé;;tu ;;;as rincé;;il/elle/on ;;;a rincé;;nous ;;;avons rincé;;vous ;;;avez rincé;;ils/elles ;;;ont rincé
+Indicatif Imparfait;indicatif;;je ;;;rinçais;;tu ;;;rinçais;;il/elle/on ;;;rinçait;;nous ;;;rincions;;vous ;;;rinciez;;ils/elles ;;;rinçaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais rincé;;tu ;;;avais rincé;;il/elle/on ;;;avait rincé;;nous ;;;avions rincé;;vous ;;;aviez rincé;;ils/elles ;;;avaient rincé
+Indicatif Passé Simple;indicatif;;je ;;;rinçai;;tu ;;;rinças;;il/elle/on ;;;rinça;;nous ;;;rinçâmes;;vous ;;;rinçâtes;;ils/elles ;;;rincèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus rincé;;tu ;;;eus rincé;;il/elle/on ;;;eut rincé;;nous ;;;eûmes rincé;;vous ;;;eûtes rincé;;ils/elles ;;;eurent rincé
+Indicatif Futur Simple;indicatif;;je ;;;rincerai;;tu ;;;rinceras;;il/elle/on ;;;rincera;;nous ;;;rincerons;;vous ;;;rincerez;;ils/elles ;;;rinceront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai rincé;;tu ;;;auras rincé;;il/elle/on ;;;aura rincé;;nous ;;;aurons rincé;;vous ;;;aurez rincé;;ils/elles ;;;auront rincé
+Subjonctif Présent;subjonctif;que ;je ;;;rince;que ;tu ;;;rinces;qu’;il/elle/on ;;;rince;que ;nous ;;;rincions;que ;vous ;;;rinciez;qu’;ils/elles ;;;rincent
+Subjonctif Passé;subjonctif;que ;j’;;;aie rincé;que ;tu ;;;aies rincé;qu’;il/elle/on ;;;ait rincé;que ;nous ;;;ayons rincé;que ;vous ;;;ayez rincé;qu’;ils/elles ;;;aient rincé
+Subjonctif Imparfait;subjonctif;que ;je ;;;rinçasse;que ;tu ;;;rinçasses;qu’;il/elle/on ;;;rinçât;que ;nous ;;;rinçassions;que ;vous ;;;rinçassiez;qu’;ils/elles ;;;rinçassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse rincé;que ;tu ;;;eusses rincé;qu’;il/elle/on ;;;eût rincé;que ;nous ;;;eussions rincé;que ;vous ;;;eussiez rincé;qu’;ils/elles ;;;eussent rincé
+Conditionnel;conditionnel;;je ;;;rincerais;;tu ;;;rincerais;;il/elle/on ;;;rincerait;;nous ;;;rincerions;;vous ;;;rinceriez;;ils/elles ;;;rinceraient
+Conditionnel Passé;conditionnel;;j’;;;aurais rincé;;tu ;;;aurais rincé;;il/elle/on ;;;aurait rincé;;nous ;;;aurions rincé;;vous ;;;auriez rincé;;ils/elles ;;;auraient rincé
+Impératif Présent;impératif;;;;;;;;;;rince;;;;;;;;;;rinçons;;;;;rincez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;rincer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;rinc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;residir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;residint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;residit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;resideixo;;tu ;;;resideixes;;ell //ella //vostè ;;;resideix;;nosaltres ;;;residim;;vosaltres ;;;residiu;;ells //elles //vostès ;;;resideixen
+Indicatiu Imperfet;indicativo;;jo ;;;residia;;tu ;;;residies;;ell //ella //vostè ;;;residia;;nosaltres ;;;residíem;;vosaltres ;;;residíeu;;ells //elles //vostès ;;;residien
+Indicatiu Futur;indicativo;;jo ;;;residiré;;tu ;;;residiràs;;ell //ella //vostè ;;;residirà;;nosaltres ;;;residirem;;vosaltres ;;;residireu;;ells //elles //vostès ;;;residiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;residí;;tu ;;;residires;;ell //ella //vostè ;;;residí;;nosaltres ;;;residírem;;vosaltres ;;;residíreu;;ells //elles //vostès ;;;residiren
+Condicional;condicional;;jo ;;;residiria;;tu ;;;residiries;;ell //ella //vostè ;;;residiria;;nosaltres ;;;residiríem;;vosaltres ;;;residiríeu;;ells //elles //vostès ;;;residirien
+Subjuntiu Present;subjuntiu;;jo ;;;resideixi;;tu ;;;resideixis;;ell //ella //vostè ;;;resideixi;;nosaltres ;;;residim;;vosaltres ;;;residiu;;ells //elles //vostès ;;;resideixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;residís;;tu ;;;residissis;;ell //ella //vostè ;;;residís;;nosaltres ;;;residíssim;;vosaltres ;;;residíssiu;;ells //elles //vostès ;;;residissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;resideix;;(vostè) ;;;resideixi;;(nosaltres) ;;;residim;;(vosaltres) ;;;residiu;;(vostès) ;;;resideixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;resideixis;;(vostè) ;no ;;resideixi;;(nosaltres) ;no ;;residim;;(vosaltres) ;no ;;residiu;;(vostès) ;no ;;resideixin
+Indicatiu Perfet;indicatiu;;jo ;;;he residit;;tu ;;;has residit;;ell //ella //vostè ;;;ha residit;;nosaltres ;;;hem residit;;vosaltres ;;;heu residit;;ells //elles //vostès ;;;han residit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig residit;;tu ;;;vas residit;;ell //ella //vostè ;;;va residit;;nosaltres ;;;vam residit;;vosaltres ;;;vau residit;;ells //elles //vostès ;;;van residit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia residit;;tu ;;;havies residit;;ell //ella //vostè ;;;havia residit;;nosaltres ;;;havíem residit;;vosaltres ;;;havíeu residit;;ells //elles //vostès ;;;havien residit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí residit;;tu ;;;hagueres residit;;ell //ella //vostè ;;;hagué residit;;nosaltres ;;;haguérem residit;;vosaltres ;;;haguéreu residit;;ells //elles //vostès ;;;hagueren residit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver residit;;tu ;;;vas haver residit;;ell //ella //vostè ;;;va haver residit;;nosaltres ;;;vam haver residit;;vosaltres ;;;vau haver residit;;ells //elles //vostès ;;;van haver residit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré residit;;tu ;;;hauràs residit;;ell //ella //vostè ;;;haurà residit;;nosaltres ;;;haurem residit;;vosaltres ;;;haureu residit;;ells //elles //vostès ;;;hauran residit
+Condicional Perfet;condicional;;jo ;;;hauria residit;;tu ;;;hauries residit;;ell //ella //vostè ;;;hauria residit;;nosaltres ;;;hauríem residit;;vosaltres ;;;hauríeu residit;;ells //elles //vostès ;;;haurien residit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi residit;;tu ;;;vagis residit;;ell //ella //vostè ;;;vagi residit;;nosaltres ;;;vàgim residit;;vosaltres ;;;vàgiu residit;;ells //elles //vostès ;;;vagin residit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi residit;;tu ;;;hagis residit;;ell //ella //vostè ;;;hagi residit;;nosaltres ;;;hàgim residit;;vosaltres ;;;hàgiu residit;;ells //elles //vostès ;;;hagin residit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes residit;;tu ;;;haguessis residit;;ell //ella //vostè ;;;hagués residit;;nosaltres ;;;haguéssim residit;;vosaltres ;;;haguéssiu residit;;ells //elles //vostès ;;;haguessin residit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver residit;;tu ;;;vagis haver residit;;ell //ella //vostè ;;;vagi haver residit;;nosaltres ;;;vàgim haver residit;;vosaltres ;;;vàgiu haver residit;;ells //elles //vostès ;;;vagin haver residit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;residir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;resid;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

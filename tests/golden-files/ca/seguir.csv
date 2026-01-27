@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;seguir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;seguint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;seguit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;segueixo;;tu ;;;segueixes;;ell //ella //vostè ;;;segueix;;nosaltres ;;;seguim;;vosaltres ;;;seguiu;;ells //elles //vostès ;;;segueixen
+Indicatiu Imperfet;indicativo;;jo ;;;seguia;;tu ;;;seguies;;ell //ella //vostè ;;;seguia;;nosaltres ;;;seguíem;;vosaltres ;;;seguíeu;;ells //elles //vostès ;;;seguien
+Indicatiu Futur;indicativo;;jo ;;;seguiré;;tu ;;;seguiràs;;ell //ella //vostè ;;;seguirà;;nosaltres ;;;seguirem;;vosaltres ;;;seguireu;;ells //elles //vostès ;;;seguiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;seguí;;tu ;;;seguires;;ell //ella //vostè ;;;seguí;;nosaltres ;;;seguírem;;vosaltres ;;;seguíreu;;ells //elles //vostès ;;;seguiren
+Condicional;condicional;;jo ;;;seguiria;;tu ;;;seguiries;;ell //ella //vostè ;;;seguiria;;nosaltres ;;;seguiríem;;vosaltres ;;;seguiríeu;;ells //elles //vostès ;;;seguirien
+Subjuntiu Present;subjuntiu;;jo ;;;segueixi;;tu ;;;segueixis;;ell //ella //vostè ;;;segueixi;;nosaltres ;;;seguim;;vosaltres ;;;seguiu;;ells //elles //vostès ;;;segueixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;seguís;;tu ;;;seguissis;;ell //ella //vostè ;;;seguís;;nosaltres ;;;seguíssim;;vosaltres ;;;seguíssiu;;ells //elles //vostès ;;;seguissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;segueix;;(vostè) ;;;segueixi;;(nosaltres) ;;;seguim;;(vosaltres) ;;;seguiu;;(vostès) ;;;segueixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;segueixis;;(vostè) ;no ;;segueixi;;(nosaltres) ;no ;;seguim;;(vosaltres) ;no ;;seguiu;;(vostès) ;no ;;segueixin
+Indicatiu Perfet;indicatiu;;jo ;;;he seguit;;tu ;;;has seguit;;ell //ella //vostè ;;;ha seguit;;nosaltres ;;;hem seguit;;vosaltres ;;;heu seguit;;ells //elles //vostès ;;;han seguit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig seguit;;tu ;;;vas seguit;;ell //ella //vostè ;;;va seguit;;nosaltres ;;;vam seguit;;vosaltres ;;;vau seguit;;ells //elles //vostès ;;;van seguit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia seguit;;tu ;;;havies seguit;;ell //ella //vostè ;;;havia seguit;;nosaltres ;;;havíem seguit;;vosaltres ;;;havíeu seguit;;ells //elles //vostès ;;;havien seguit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí seguit;;tu ;;;hagueres seguit;;ell //ella //vostè ;;;hagué seguit;;nosaltres ;;;haguérem seguit;;vosaltres ;;;haguéreu seguit;;ells //elles //vostès ;;;hagueren seguit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver seguit;;tu ;;;vas haver seguit;;ell //ella //vostè ;;;va haver seguit;;nosaltres ;;;vam haver seguit;;vosaltres ;;;vau haver seguit;;ells //elles //vostès ;;;van haver seguit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré seguit;;tu ;;;hauràs seguit;;ell //ella //vostè ;;;haurà seguit;;nosaltres ;;;haurem seguit;;vosaltres ;;;haureu seguit;;ells //elles //vostès ;;;hauran seguit
+Condicional Perfet;condicional;;jo ;;;hauria seguit;;tu ;;;hauries seguit;;ell //ella //vostè ;;;hauria seguit;;nosaltres ;;;hauríem seguit;;vosaltres ;;;hauríeu seguit;;ells //elles //vostès ;;;haurien seguit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi seguit;;tu ;;;vagis seguit;;ell //ella //vostè ;;;vagi seguit;;nosaltres ;;;vàgim seguit;;vosaltres ;;;vàgiu seguit;;ells //elles //vostès ;;;vagin seguit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi seguit;;tu ;;;hagis seguit;;ell //ella //vostè ;;;hagi seguit;;nosaltres ;;;hàgim seguit;;vosaltres ;;;hàgiu seguit;;ells //elles //vostès ;;;hagin seguit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes seguit;;tu ;;;haguessis seguit;;ell //ella //vostè ;;;hagués seguit;;nosaltres ;;;haguéssim seguit;;vosaltres ;;;haguéssiu seguit;;ells //elles //vostès ;;;haguessin seguit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver seguit;;tu ;;;vagis haver seguit;;ell //ella //vostè ;;;vagi haver seguit;;nosaltres ;;;vàgim haver seguit;;vosaltres ;;;vàgiu haver seguit;;ells //elles //vostès ;;;vagin haver seguit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;seguir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;segu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

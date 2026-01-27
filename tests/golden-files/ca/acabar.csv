@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;acabar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;acabant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;acabat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;acabo;;tu ;;;acabes;;ell //ella //vostè ;;;acaba;;nosaltres ;;;acabem;;vosaltres ;;;acabeu;;ells //elles //vostès ;;;acaben
+Indicatiu Imperfet;indicativo;;jo ;;;acabava;;tu ;;;acabaves;;ell //ella //vostè ;;;acabava;;nosaltres ;;;acabàvem;;vosaltres ;;;acabàveu;;ells //elles //vostès ;;;acabaven
+Indicatiu Futur;indicativo;;jo ;;;acabaré;;tu ;;;acabaràs;;ell //ella //vostè ;;;acabarà;;nosaltres ;;;acabarem;;vosaltres ;;;acabareu;;ells //elles //vostès ;;;acabaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;acabí;;tu ;;;acabares;;ell //ella //vostè ;;;acabà;;nosaltres ;;;acabàrem;;vosaltres ;;;acabàreu;;ells //elles //vostès ;;;acabaren
+Condicional;condicional;;jo ;;;acabaria;;tu ;;;acabaries;;ell //ella //vostè ;;;acabaria;;nosaltres ;;;acabaríem;;vosaltres ;;;acabaríeu;;ells //elles //vostès ;;;acabarien
+Subjuntiu Present;subjuntiu;;jo ;;;acabi;;tu ;;;acabis;;ell //ella //vostè ;;;acabi;;nosaltres ;;;acabem;;vosaltres ;;;acabeu;;ells //elles //vostès ;;;acabin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;acabés;;tu ;;;acabessis;;ell //ella //vostè ;;;acabés;;nosaltres ;;;acabéssim;;vosaltres ;;;acabéssiu;;ells //elles //vostès ;;;acabessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;acaba;;(vostè) ;;;acabi;;(nosaltres) ;;;acabem;;(vosaltres) ;;;acabeu;;(vostès) ;;;acabin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;acabis;;(vostè) ;no ;;acabi;;(nosaltres) ;no ;;acabem;;(vosaltres) ;no ;;acabeu;;(vostès) ;no ;;acabin
+Indicatiu Perfet;indicatiu;;jo ;;;he acabat;;tu ;;;has acabat;;ell //ella //vostè ;;;ha acabat;;nosaltres ;;;hem acabat;;vosaltres ;;;heu acabat;;ells //elles //vostès ;;;han acabat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig acabat;;tu ;;;vas acabat;;ell //ella //vostè ;;;va acabat;;nosaltres ;;;vam acabat;;vosaltres ;;;vau acabat;;ells //elles //vostès ;;;van acabat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia acabat;;tu ;;;havies acabat;;ell //ella //vostè ;;;havia acabat;;nosaltres ;;;havíem acabat;;vosaltres ;;;havíeu acabat;;ells //elles //vostès ;;;havien acabat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí acabat;;tu ;;;hagueres acabat;;ell //ella //vostè ;;;hagué acabat;;nosaltres ;;;haguérem acabat;;vosaltres ;;;haguéreu acabat;;ells //elles //vostès ;;;hagueren acabat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver acabat;;tu ;;;vas haver acabat;;ell //ella //vostè ;;;va haver acabat;;nosaltres ;;;vam haver acabat;;vosaltres ;;;vau haver acabat;;ells //elles //vostès ;;;van haver acabat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré acabat;;tu ;;;hauràs acabat;;ell //ella //vostè ;;;haurà acabat;;nosaltres ;;;haurem acabat;;vosaltres ;;;haureu acabat;;ells //elles //vostès ;;;hauran acabat
+Condicional Perfet;condicional;;jo ;;;hauria acabat;;tu ;;;hauries acabat;;ell //ella //vostè ;;;hauria acabat;;nosaltres ;;;hauríem acabat;;vosaltres ;;;hauríeu acabat;;ells //elles //vostès ;;;haurien acabat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi acabat;;tu ;;;vagis acabat;;ell //ella //vostè ;;;vagi acabat;;nosaltres ;;;vàgim acabat;;vosaltres ;;;vàgiu acabat;;ells //elles //vostès ;;;vagin acabat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi acabat;;tu ;;;hagis acabat;;ell //ella //vostè ;;;hagi acabat;;nosaltres ;;;hàgim acabat;;vosaltres ;;;hàgiu acabat;;ells //elles //vostès ;;;hagin acabat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes acabat;;tu ;;;haguessis acabat;;ell //ella //vostè ;;;hagués acabat;;nosaltres ;;;haguéssim acabat;;vosaltres ;;;haguéssiu acabat;;ells //elles //vostès ;;;haguessin acabat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver acabat;;tu ;;;vagis haver acabat;;ell //ella //vostè ;;;vagi haver acabat;;nosaltres ;;;vàgim haver acabat;;vosaltres ;;;vàgiu haver acabat;;ells //elles //vostès ;;;vagin haver acabat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;acabar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;acab;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

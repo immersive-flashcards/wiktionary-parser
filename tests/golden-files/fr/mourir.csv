@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;mourir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;être mort;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en mourant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en étant mort;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;mourant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;mort;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;meurs;;tu ;;;meurs;;il/elle/on ;;;meurt;;nous ;;;mourons;;vous ;;;mourez;;ils/elles ;;;meurent
+Indicatif Passé Composé;indicatif;;je ;;;suis mort;;tu ;;;es mort;;il/elle/on ;;;est mort;;nous ;;;sommes morts;;vous ;;;êtes morts;;ils/elles ;;;sont morts
+Indicatif Imparfait;indicatif;;je ;;;mourais;;tu ;;;mourais;;il/elle/on ;;;mourait;;nous ;;;mourions;;vous ;;;mouriez;;ils/elles ;;;mouraient
+Indicatif Plusqueparfait;indicatif;;j’;;;étais mort;;tu ;;;étais mort;;il/elle/on ;;;était mort;;nous ;;;étions morts;;vous ;;;étiez morts;;ils/elles ;;;étaient morts
+Indicatif Passé Simple;indicatif;;je ;;;mourus;;tu ;;;mourus;;il/elle/on ;;;mourut;;nous ;;;mourûmes;;vous ;;;mourûtes;;ils/elles ;;;moururent
+Indicatif Passé Antérieur;indicatif;;je ;;;fus mort;;tu ;;;fus mort;;il/elle/on ;;;fut mort;;nous ;;;fûmes morts;;vous ;;;fûtes morts;;ils/elles ;;;furent morts
+Indicatif Futur Simple;indicatif;;je ;;;mourrai;;tu ;;;mourras;;il/elle/on ;;;mourra;;nous ;;;mourrons;;vous ;;;mourrez;;ils/elles ;;;mourront
+Indicatif Futur Antérieur;indicatif;;je ;;;serai mort;;tu ;;;seras mort;;il/elle/on ;;;sera mort;;nous ;;;serons morts;;vous ;;;serez morts;;ils/elles ;;;seront morts
+Subjonctif Présent;subjonctif;que ;je ;;;meure;que ;tu ;;;meures;qu’;il/elle/on ;;;meure;que ;nous ;;;mourions;que ;vous ;;;mouriez;qu’;ils/elles ;;;meurent
+Subjonctif Passé;subjonctif;que ;je ;;;sois mort;que ;tu ;;;sois mort;qu’;il/elle/on ;;;soit mort;que ;nous ;;;soyons morts;que ;vous ;;;soyez morts;qu’;ils/elles ;;;soient morts
+Subjonctif Imparfait;subjonctif;que ;je ;;;mourusse;que ;tu ;;;mourusses;qu’;il/elle/on ;;;mourût;que ;nous ;;;mourussions;que ;vous ;;;mourussiez;qu’;ils/elles ;;;mourussent
+Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse mort;que ;tu ;;;fusses mort;qu’;il/elle/on ;;;fût mort;que ;nous ;;;fussions morts;que ;vous ;;;fussiez morts;qu’;ils/elles ;;;fussent morts
+Conditionnel;conditionnel;;je ;;;mourrais;;tu ;;;mourrais;;il/elle/on ;;;mourrait;;nous ;;;mourrions;;vous ;;;mourriez;;ils/elles ;;;mourraient
+Conditionnel Passé;conditionnel;;je ;;;serais mort;;tu ;;;serais mort;;il/elle/on ;;;serait mort;;nous ;;;serions morts;;vous ;;;seriez morts;;ils/elles ;;;seraient morts
+Impératif Présent;impératif;;;;;;;;;;meurs;;;;;;;;;;mourons;;;;;mourez;;;;;
+auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;mourir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;mour;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

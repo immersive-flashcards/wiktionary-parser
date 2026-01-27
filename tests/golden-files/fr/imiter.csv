@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;imiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir imité;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en imitant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant imité;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;imitant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;imité;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;imite;;tu ;;;imites;;il/elle/on ;;;imite;;nous ;;;imitons;;vous ;;;imitez;;ils/elles ;;;imitent
+Indicatif Passé Composé;indicatif;;j’;;;ai imité;;tu ;;;as imité;;il/elle/on ;;;a imité;;nous ;;;avons imité;;vous ;;;avez imité;;ils/elles ;;;ont imité
+Indicatif Imparfait;indicatif;;j’;;;imitais;;tu ;;;imitais;;il/elle/on ;;;imitait;;nous ;;;imitions;;vous ;;;imitiez;;ils/elles ;;;imitaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais imité;;tu ;;;avais imité;;il/elle/on ;;;avait imité;;nous ;;;avions imité;;vous ;;;aviez imité;;ils/elles ;;;avaient imité
+Indicatif Passé Simple;indicatif;;j’;;;imitai;;tu ;;;imitas;;il/elle/on ;;;imita;;nous ;;;imitâmes;;vous ;;;imitâtes;;ils/elles ;;;imitèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus imité;;tu ;;;eus imité;;il/elle/on ;;;eut imité;;nous ;;;eûmes imité;;vous ;;;eûtes imité;;ils/elles ;;;eurent imité
+Indicatif Futur Simple;indicatif;;j’;;;imiterai;;tu ;;;imiteras;;il/elle/on ;;;imitera;;nous ;;;imiterons;;vous ;;;imiterez;;ils/elles ;;;imiteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai imité;;tu ;;;auras imité;;il/elle/on ;;;aura imité;;nous ;;;aurons imité;;vous ;;;aurez imité;;ils/elles ;;;auront imité
+Subjonctif Présent;subjonctif;que ;j’;;;imite;que ;tu ;;;imites;qu’;il/elle/on ;;;imite;que ;nous ;;;imitions;que ;vous ;;;imitiez;qu’;ils/elles ;;;imitent
+Subjonctif Passé;subjonctif;que ;j’;;;aie imité;que ;tu ;;;aies imité;qu’;il/elle/on ;;;ait imité;que ;nous ;;;ayons imité;que ;vous ;;;ayez imité;qu’;ils/elles ;;;aient imité
+Subjonctif Imparfait;subjonctif;que ;j’;;;imitasse;que ;tu ;;;imitasses;qu’;il/elle/on ;;;imitât;que ;nous ;;;imitassions;que ;vous ;;;imitassiez;qu’;ils/elles ;;;imitassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse imité;que ;tu ;;;eusses imité;qu’;il/elle/on ;;;eût imité;que ;nous ;;;eussions imité;que ;vous ;;;eussiez imité;qu’;ils/elles ;;;eussent imité
+Conditionnel;conditionnel;;j’;;;imiterais;;tu ;;;imiterais;;il/elle/on ;;;imiterait;;nous ;;;imiterions;;vous ;;;imiteriez;;ils/elles ;;;imiteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais imité;;tu ;;;aurais imité;;il/elle/on ;;;aurait imité;;nous ;;;aurions imité;;vous ;;;auriez imité;;ils/elles ;;;auraient imité
+Impératif Présent;impératif;;;;;;;;;;imite;;;;;;;;;;imitons;;;;;imitez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;imiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;imit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

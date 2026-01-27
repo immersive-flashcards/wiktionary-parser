@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;recordar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;recordant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;recordat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;recordo;;tu ;;;recordes;;ell //ella //vostè ;;;recorda;;nosaltres ;;;recordem;;vosaltres ;;;recordeu;;ells //elles //vostès ;;;recorden
+Indicatiu Imperfet;indicativo;;jo ;;;recordava;;tu ;;;recordaves;;ell //ella //vostè ;;;recordava;;nosaltres ;;;recordàvem;;vosaltres ;;;recordàveu;;ells //elles //vostès ;;;recordaven
+Indicatiu Futur;indicativo;;jo ;;;recordaré;;tu ;;;recordaràs;;ell //ella //vostè ;;;recordarà;;nosaltres ;;;recordarem;;vosaltres ;;;recordareu;;ells //elles //vostès ;;;recordaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;recordí;;tu ;;;recordares;;ell //ella //vostè ;;;recordà;;nosaltres ;;;recordàrem;;vosaltres ;;;recordàreu;;ells //elles //vostès ;;;recordaren
+Condicional;condicional;;jo ;;;recordaria;;tu ;;;recordaries;;ell //ella //vostè ;;;recordaria;;nosaltres ;;;recordaríem;;vosaltres ;;;recordaríeu;;ells //elles //vostès ;;;recordarien
+Subjuntiu Present;subjuntiu;;jo ;;;recordi;;tu ;;;recordis;;ell //ella //vostè ;;;recordi;;nosaltres ;;;recordem;;vosaltres ;;;recordeu;;ells //elles //vostès ;;;recordin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;recordés;;tu ;;;recordessis;;ell //ella //vostè ;;;recordés;;nosaltres ;;;recordéssim;;vosaltres ;;;recordéssiu;;ells //elles //vostès ;;;recordessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;recorda;;(vostè) ;;;recordi;;(nosaltres) ;;;recordem;;(vosaltres) ;;;recordeu;;(vostès) ;;;recordin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;recordis;;(vostè) ;no ;;recordi;;(nosaltres) ;no ;;recordem;;(vosaltres) ;no ;;recordeu;;(vostès) ;no ;;recordin
+Indicatiu Perfet;indicatiu;;jo ;;;he recordat;;tu ;;;has recordat;;ell //ella //vostè ;;;ha recordat;;nosaltres ;;;hem recordat;;vosaltres ;;;heu recordat;;ells //elles //vostès ;;;han recordat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig recordat;;tu ;;;vas recordat;;ell //ella //vostè ;;;va recordat;;nosaltres ;;;vam recordat;;vosaltres ;;;vau recordat;;ells //elles //vostès ;;;van recordat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia recordat;;tu ;;;havies recordat;;ell //ella //vostè ;;;havia recordat;;nosaltres ;;;havíem recordat;;vosaltres ;;;havíeu recordat;;ells //elles //vostès ;;;havien recordat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí recordat;;tu ;;;hagueres recordat;;ell //ella //vostè ;;;hagué recordat;;nosaltres ;;;haguérem recordat;;vosaltres ;;;haguéreu recordat;;ells //elles //vostès ;;;hagueren recordat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver recordat;;tu ;;;vas haver recordat;;ell //ella //vostè ;;;va haver recordat;;nosaltres ;;;vam haver recordat;;vosaltres ;;;vau haver recordat;;ells //elles //vostès ;;;van haver recordat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré recordat;;tu ;;;hauràs recordat;;ell //ella //vostè ;;;haurà recordat;;nosaltres ;;;haurem recordat;;vosaltres ;;;haureu recordat;;ells //elles //vostès ;;;hauran recordat
+Condicional Perfet;condicional;;jo ;;;hauria recordat;;tu ;;;hauries recordat;;ell //ella //vostè ;;;hauria recordat;;nosaltres ;;;hauríem recordat;;vosaltres ;;;hauríeu recordat;;ells //elles //vostès ;;;haurien recordat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi recordat;;tu ;;;vagis recordat;;ell //ella //vostè ;;;vagi recordat;;nosaltres ;;;vàgim recordat;;vosaltres ;;;vàgiu recordat;;ells //elles //vostès ;;;vagin recordat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi recordat;;tu ;;;hagis recordat;;ell //ella //vostè ;;;hagi recordat;;nosaltres ;;;hàgim recordat;;vosaltres ;;;hàgiu recordat;;ells //elles //vostès ;;;hagin recordat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes recordat;;tu ;;;haguessis recordat;;ell //ella //vostè ;;;hagués recordat;;nosaltres ;;;haguéssim recordat;;vosaltres ;;;haguéssiu recordat;;ells //elles //vostès ;;;haguessin recordat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver recordat;;tu ;;;vagis haver recordat;;ell //ella //vostè ;;;vagi haver recordat;;nosaltres ;;;vàgim haver recordat;;vosaltres ;;;vàgiu haver recordat;;ells //elles //vostès ;;;vagin haver recordat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;recordar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;record;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

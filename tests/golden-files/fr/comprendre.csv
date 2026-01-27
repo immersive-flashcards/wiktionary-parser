@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;comprendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir compris;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en comprenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant compris;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;comprenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;compris;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;comprends;;tu ;;;comprends;;il/elle/on ;;;comprend;;nous ;;;comprenons;;vous ;;;comprenez;;ils/elles ;;;comprennent
+Indicatif Passé Composé;indicatif;;j’;;;ai compris;;tu ;;;as compris;;il/elle/on ;;;a compris;;nous ;;;avons compris;;vous ;;;avez compris;;ils/elles ;;;ont compris
+Indicatif Imparfait;indicatif;;je ;;;comprenais;;tu ;;;comprenais;;il/elle/on ;;;comprenait;;nous ;;;comprenions;;vous ;;;compreniez;;ils/elles ;;;comprenaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais compris;;tu ;;;avais compris;;il/elle/on ;;;avait compris;;nous ;;;avions compris;;vous ;;;aviez compris;;ils/elles ;;;avaient compris
+Indicatif Passé Simple;indicatif;;je ;;;compris;;tu ;;;compris;;il/elle/on ;;;comprit;;nous ;;;comprîmes;;vous ;;;comprîtes;;ils/elles ;;;comprirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus compris;;tu ;;;eus compris;;il/elle/on ;;;eut compris;;nous ;;;eûmes compris;;vous ;;;eûtes compris;;ils/elles ;;;eurent compris
+Indicatif Futur Simple;indicatif;;je ;;;comprendrai;;tu ;;;comprendras;;il/elle/on ;;;comprendra;;nous ;;;comprendrons;;vous ;;;comprendrez;;ils/elles ;;;comprendront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai compris;;tu ;;;auras compris;;il/elle/on ;;;aura compris;;nous ;;;aurons compris;;vous ;;;aurez compris;;ils/elles ;;;auront compris
+Subjonctif Présent;subjonctif;que ;je ;;;comprenne;que ;tu ;;;comprennes;qu’;il/elle/on ;;;comprenne;que ;nous ;;;comprenions;que ;vous ;;;compreniez;qu’;ils/elles ;;;comprennent
+Subjonctif Passé;subjonctif;que ;j’;;;aie compris;que ;tu ;;;aies compris;qu’;il/elle/on ;;;ait compris;que ;nous ;;;ayons compris;que ;vous ;;;ayez compris;qu’;ils/elles ;;;aient compris
+Subjonctif Imparfait;subjonctif;que ;je ;;;comprisse;que ;tu ;;;comprisses;qu’;il/elle/on ;;;comprît;que ;nous ;;;comprissions;que ;vous ;;;comprissiez;qu’;ils/elles ;;;comprissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse compris;que ;tu ;;;eusses compris;qu’;il/elle/on ;;;eût compris;que ;nous ;;;eussions compris;que ;vous ;;;eussiez compris;qu’;ils/elles ;;;eussent compris
+Conditionnel;conditionnel;;je ;;;comprendrais;;tu ;;;comprendrais;;il/elle/on ;;;comprendrait;;nous ;;;comprendrions;;vous ;;;comprendriez;;ils/elles ;;;comprendraient
+Conditionnel Passé;conditionnel;;j’;;;aurais compris;;tu ;;;aurais compris;;il/elle/on ;;;aurait compris;;nous ;;;aurions compris;;vous ;;;auriez compris;;ils/elles ;;;auraient compris
+Impératif Présent;impératif;;;;;;;;;;comprends;;;;;;;;;;comprenons;;;;;comprenez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;comprendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;comprend;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

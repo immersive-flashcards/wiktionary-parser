@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;armonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;armonizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;armonizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;armonizo;;tú ;;;armonizas;;él //ella //usted ;;;armoniza;;nosotros //nosotras ;;;armonizamos;;vosotros //vosotras ;;;armonizáis;;ellos //ellas //ustedes ;;;armonizan;;vos ;;;armonizás
+Indicativo Imperfecto;indicativo;;yo ;;;armonizaba;;tú //vos ;;;armonizabas;;él //ella //usted ;;;armonizaba;;nosotros //nosotras ;;;armonizábamos;;vosotros //vosotras ;;;armonizabais;;ellos //ellas //ustedes ;;;armonizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;armonicé;;tú //vos ;;;armonizaste;;él //ella //usted ;;;armonizó;;nosotros //nosotras ;;;armonizamos;;vosotros //vosotras ;;;armonizasteis;;ellos //ellas //ustedes ;;;armonizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;armonizaré;;tú //vos ;;;armonizarás;;él //ella //usted ;;;armonizará;;nosotros //nosotras ;;;armonizaremos;;vosotros //vosotras ;;;armonizaréis;;ellos //ellas //ustedes ;;;armonizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he armonizado;;tú //vos ;;;has armonizado;;él //ella //usted ;;;ha armonizado;;nosotros //nosotras ;;;hemos armonizado;;vosotros //vosotras ;;;habéis armonizado;;ellos //ellas //ustedes ;;;han armonizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había armonizado;;tú //vos ;;;habías armonizado;;él //ella //usted ;;;había armonizado;;nosotros //nosotras ;;;habíamos armonizado;;vosotros //vosotras ;;;habíais armonizado;;ellos //ellas //ustedes ;;;habían armonizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube armonizado;;tú //vos ;;;hubiste armonizado;;él //ella //usted ;;;hubo armonizado;;nosotros //nosotras ;;;hubimos armonizado;;vosotros //vosotras ;;;hubisteis armonizado;;ellos //ellas //ustedes ;;;hubieron armonizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré armonizado;;tú //vos ;;;habrás armonizado;;él //ella //usted ;;;habrá armonizado;;nosotros //nosotras ;;;habremos armonizado;;vosotros //vosotras ;;;habréis armonizado;;ellos //ellas //ustedes ;;;habrán armonizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;armonice;;tú //vos ;;;armonices;;él //ella //usted ;;;armonice;;nosotros //nosotras ;;;armonicemos;;vosotros //vosotras ;;;armonicéis;;ellos //ellas //ustedes ;;;armonicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;armonizara / armonizase;;tú //vos ;;;armonizaras / armonizases;;él //ella //usted ;;;armonizara / armonizase;;nosotros //nosotras ;;;armonizáramos / armonizásemos;;vosotros //vosotras ;;;armonizarais / armonizaseis;;ellos //ellas //ustedes ;;;armonizaran / armonizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;armonizare;;tú //vos ;;;armonizares;;él //ella //usted ;;;armonizare;;nosotros //nosotras ;;;armonizáremos;;vosotros //vosotras ;;;armonizareis;;ellos //ellas //ustedes ;;;armonizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya armonizado;;tú //vos ;;;hayas armonizado;;él //ella //usted ;;;haya armonizado;;nosotros //nosotras ;;;hayamos armonizado;;vosotros //vosotras ;;;hayáis armonizado;;ellos //ellas //ustedes ;;;hayan armonizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera armonizado / hubiese armonizado;;tú //vos ;;;hubieras armonizado / hubieses armonizado;;él //ella //usted ;;;hubiera armonizado / hubiese armonizado;;nosotros //nosotras ;;;hubiéramos armonizado / hubiésemos armonizado;;vosotros //vosotras ;;;hubierais armonizado / hubieseis armonizado;;ellos //ellas //ustedes ;;;hubieran armonizado / hubiesen armonizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere armonizado;;tú //vos ;;;hubieres armonizado;;él //ella //usted ;;;hubiere armonizado;;nosotros //nosotras ;;;hubiéremos armonizado;;vosotros //vosotras ;;;hubiereis armonizado;;ellos //ellas //ustedes ;;;hubieren armonizado;;;;;
+Condicional;condicional;;yo ;;;armonizaría;;tú //vos ;;;armonizarías;;él //ella //usted ;;;armonizaría;;nosotros //nosotras ;;;armonizaríamos;;vosotros //vosotras ;;;armonizaríais;;ellos //ellas //ustedes ;;;armonizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría armonizado;;tú //vos ;;;habrías armonizado;;él //ella //usted ;;;habría armonizado;;nosotros //nosotras ;;;habríamos armonizado;;vosotros //vosotras ;;;habríais armonizado;;ellos //ellas //ustedes ;;;habrían armonizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;armoniza;;(usted) ;;;armonice;;(nosotros) //(nosotras) ;;;armonicemos;;(vosotros) //(vosotras) ;;;armonizad;;(ustedes) ;;;armonicen;;(vos) ;;;armonizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;armonices;;(usted) ;no ;;armonice;;(nosotros) //(nosotras) ;no ;;armonicemos;;(vosotros) //(vosotras) ;no ;;armonicéis;;(ustedes) ;no ;;armonicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;armonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;armoniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

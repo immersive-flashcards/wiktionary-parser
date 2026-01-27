@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;odiar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;odiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;odiat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;odio;;tu ;;;odies;;ell //ella //vostè ;;;odia;;nosaltres ;;;odiem;;vosaltres ;;;odieu;;ells //elles //vostès ;;;odien
+Indicatiu Imperfet;indicativo;;jo ;;;odiava;;tu ;;;odiaves;;ell //ella //vostè ;;;odiava;;nosaltres ;;;odiàvem;;vosaltres ;;;odiàveu;;ells //elles //vostès ;;;odiaven
+Indicatiu Futur;indicativo;;jo ;;;odiaré;;tu ;;;odiaràs;;ell //ella //vostè ;;;odiarà;;nosaltres ;;;odiarem;;vosaltres ;;;odiareu;;ells //elles //vostès ;;;odiaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;odií;;tu ;;;odiares;;ell //ella //vostè ;;;odià;;nosaltres ;;;odiàrem;;vosaltres ;;;odiàreu;;ells //elles //vostès ;;;odiaren
+Condicional;condicional;;jo ;;;odiaria;;tu ;;;odiaries;;ell //ella //vostè ;;;odiaria;;nosaltres ;;;odiaríem;;vosaltres ;;;odiaríeu;;ells //elles //vostès ;;;odiarien
+Subjuntiu Present;subjuntiu;;jo ;;;odiï;;tu ;;;odiïs;;ell //ella //vostè ;;;odiï;;nosaltres ;;;odiem;;vosaltres ;;;odieu;;ells //elles //vostès ;;;odiïn
+Subjuntiu Imperfet;subjuntiu;;jo ;;;odiés;;tu ;;;odiessis;;ell //ella //vostè ;;;odiés;;nosaltres ;;;odiéssim;;vosaltres ;;;odiéssiu;;ells //elles //vostès ;;;odiessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;odia;;(vostè) ;;;odiï;;(nosaltres) ;;;odiem;;(vosaltres) ;;;odieu;;(vostès) ;;;odiïn
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;odiïs;;(vostè) ;no ;;odiï;;(nosaltres) ;no ;;odiem;;(vosaltres) ;no ;;odieu;;(vostès) ;no ;;odiïn
+Indicatiu Perfet;indicatiu;;jo ;;;he odiat;;tu ;;;has odiat;;ell //ella //vostè ;;;ha odiat;;nosaltres ;;;hem odiat;;vosaltres ;;;heu odiat;;ells //elles //vostès ;;;han odiat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig odiat;;tu ;;;vas odiat;;ell //ella //vostè ;;;va odiat;;nosaltres ;;;vam odiat;;vosaltres ;;;vau odiat;;ells //elles //vostès ;;;van odiat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia odiat;;tu ;;;havies odiat;;ell //ella //vostè ;;;havia odiat;;nosaltres ;;;havíem odiat;;vosaltres ;;;havíeu odiat;;ells //elles //vostès ;;;havien odiat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí odiat;;tu ;;;hagueres odiat;;ell //ella //vostè ;;;hagué odiat;;nosaltres ;;;haguérem odiat;;vosaltres ;;;haguéreu odiat;;ells //elles //vostès ;;;hagueren odiat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver odiat;;tu ;;;vas haver odiat;;ell //ella //vostè ;;;va haver odiat;;nosaltres ;;;vam haver odiat;;vosaltres ;;;vau haver odiat;;ells //elles //vostès ;;;van haver odiat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré odiat;;tu ;;;hauràs odiat;;ell //ella //vostè ;;;haurà odiat;;nosaltres ;;;haurem odiat;;vosaltres ;;;haureu odiat;;ells //elles //vostès ;;;hauran odiat
+Condicional Perfet;condicional;;jo ;;;hauria odiat;;tu ;;;hauries odiat;;ell //ella //vostè ;;;hauria odiat;;nosaltres ;;;hauríem odiat;;vosaltres ;;;hauríeu odiat;;ells //elles //vostès ;;;haurien odiat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi odiat;;tu ;;;vagis odiat;;ell //ella //vostè ;;;vagi odiat;;nosaltres ;;;vàgim odiat;;vosaltres ;;;vàgiu odiat;;ells //elles //vostès ;;;vagin odiat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi odiat;;tu ;;;hagis odiat;;ell //ella //vostè ;;;hagi odiat;;nosaltres ;;;hàgim odiat;;vosaltres ;;;hàgiu odiat;;ells //elles //vostès ;;;hagin odiat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes odiat;;tu ;;;haguessis odiat;;ell //ella //vostè ;;;hagués odiat;;nosaltres ;;;haguéssim odiat;;vosaltres ;;;haguéssiu odiat;;ells //elles //vostès ;;;haguessin odiat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver odiat;;tu ;;;vagis haver odiat;;ell //ella //vostè ;;;vagi haver odiat;;nosaltres ;;;vàgim haver odiat;;vosaltres ;;;vàgiu haver odiat;;ells //elles //vostès ;;;vagin haver odiat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;odiar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;odi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

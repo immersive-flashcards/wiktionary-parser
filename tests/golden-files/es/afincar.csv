@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;afincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;afincando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;afincado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;afinco;;tú ;;;afincas;;él //ella //usted ;;;afinca;;nosotros //nosotras ;;;afincamos;;vosotros //vosotras ;;;afincáis;;ellos //ellas //ustedes ;;;afincan;;vos ;;;afincás
+Indicativo Imperfecto;indicativo;;yo ;;;afincaba;;tú //vos ;;;afincabas;;él //ella //usted ;;;afincaba;;nosotros //nosotras ;;;afincábamos;;vosotros //vosotras ;;;afincabais;;ellos //ellas //ustedes ;;;afincaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;afinqué;;tú //vos ;;;afincaste;;él //ella //usted ;;;afincó;;nosotros //nosotras ;;;afincamos;;vosotros //vosotras ;;;afincasteis;;ellos //ellas //ustedes ;;;afincaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;afincaré;;tú //vos ;;;afincarás;;él //ella //usted ;;;afincará;;nosotros //nosotras ;;;afincaremos;;vosotros //vosotras ;;;afincaréis;;ellos //ellas //ustedes ;;;afincarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he afincado;;tú //vos ;;;has afincado;;él //ella //usted ;;;ha afincado;;nosotros //nosotras ;;;hemos afincado;;vosotros //vosotras ;;;habéis afincado;;ellos //ellas //ustedes ;;;han afincado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había afincado;;tú //vos ;;;habías afincado;;él //ella //usted ;;;había afincado;;nosotros //nosotras ;;;habíamos afincado;;vosotros //vosotras ;;;habíais afincado;;ellos //ellas //ustedes ;;;habían afincado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube afincado;;tú //vos ;;;hubiste afincado;;él //ella //usted ;;;hubo afincado;;nosotros //nosotras ;;;hubimos afincado;;vosotros //vosotras ;;;hubisteis afincado;;ellos //ellas //ustedes ;;;hubieron afincado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré afincado;;tú //vos ;;;habrás afincado;;él //ella //usted ;;;habrá afincado;;nosotros //nosotras ;;;habremos afincado;;vosotros //vosotras ;;;habréis afincado;;ellos //ellas //ustedes ;;;habrán afincado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;afinque;;tú //vos ;;;afinques;;él //ella //usted ;;;afinque;;nosotros //nosotras ;;;afinquemos;;vosotros //vosotras ;;;afinquéis;;ellos //ellas //ustedes ;;;afinquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;afincara / afincase;;tú //vos ;;;afincaras / afincases;;él //ella //usted ;;;afincara / afincase;;nosotros //nosotras ;;;afincáramos / afincásemos;;vosotros //vosotras ;;;afincarais / afincaseis;;ellos //ellas //ustedes ;;;afincaran / afincasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;afincare;;tú //vos ;;;afincares;;él //ella //usted ;;;afincare;;nosotros //nosotras ;;;afincáremos;;vosotros //vosotras ;;;afincareis;;ellos //ellas //ustedes ;;;afincaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya afincado;;tú //vos ;;;hayas afincado;;él //ella //usted ;;;haya afincado;;nosotros //nosotras ;;;hayamos afincado;;vosotros //vosotras ;;;hayáis afincado;;ellos //ellas //ustedes ;;;hayan afincado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera afincado / hubiese afincado;;tú //vos ;;;hubieras afincado / hubieses afincado;;él //ella //usted ;;;hubiera afincado / hubiese afincado;;nosotros //nosotras ;;;hubiéramos afincado / hubiésemos afincado;;vosotros //vosotras ;;;hubierais afincado / hubieseis afincado;;ellos //ellas //ustedes ;;;hubieran afincado / hubiesen afincado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere afincado;;tú //vos ;;;hubieres afincado;;él //ella //usted ;;;hubiere afincado;;nosotros //nosotras ;;;hubiéremos afincado;;vosotros //vosotras ;;;hubiereis afincado;;ellos //ellas //ustedes ;;;hubieren afincado;;;;;
+Condicional;condicional;;yo ;;;afincaría;;tú //vos ;;;afincarías;;él //ella //usted ;;;afincaría;;nosotros //nosotras ;;;afincaríamos;;vosotros //vosotras ;;;afincaríais;;ellos //ellas //ustedes ;;;afincarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría afincado;;tú //vos ;;;habrías afincado;;él //ella //usted ;;;habría afincado;;nosotros //nosotras ;;;habríamos afincado;;vosotros //vosotras ;;;habríais afincado;;ellos //ellas //ustedes ;;;habrían afincado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;afinca;;(usted) ;;;afinque;;(nosotros) //(nosotras) ;;;afinquemos;;(vosotros) //(vosotras) ;;;afincad;;(ustedes) ;;;afinquen;;(vos) ;;;afincá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;afinques;;(usted) ;no ;;afinque;;(nosotros) //(nosotras) ;no ;;afinquemos;;(vosotros) //(vosotras) ;no ;;afinquéis;;(ustedes) ;no ;;afinquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;afincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;afinc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

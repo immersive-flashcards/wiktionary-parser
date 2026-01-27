@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;destacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;destacant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;destacat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;destaco;;tu ;;;destaques;;ell //ella //vostè ;;;destaca;;nosaltres ;;;destaquem;;vosaltres ;;;destaqueu;;ells //elles //vostès ;;;destaquen
+Indicatiu Imperfet;indicativo;;jo ;;;destacava;;tu ;;;destacaves;;ell //ella //vostè ;;;destacava;;nosaltres ;;;destacàvem;;vosaltres ;;;destacàveu;;ells //elles //vostès ;;;destacaven
+Indicatiu Futur;indicativo;;jo ;;;destacaré;;tu ;;;destacaràs;;ell //ella //vostè ;;;destacarà;;nosaltres ;;;destacarem;;vosaltres ;;;destacareu;;ells //elles //vostès ;;;destacaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;destaquí;;tu ;;;destacares;;ell //ella //vostè ;;;destacà;;nosaltres ;;;destacàrem;;vosaltres ;;;destacàreu;;ells //elles //vostès ;;;destacaren
+Condicional;condicional;;jo ;;;destacaria;;tu ;;;destacaries;;ell //ella //vostè ;;;destacaria;;nosaltres ;;;destacaríem;;vosaltres ;;;destacaríeu;;ells //elles //vostès ;;;destacarien
+Subjuntiu Present;subjuntiu;;jo ;;;destaqui;;tu ;;;destaquis;;ell //ella //vostè ;;;destaqui;;nosaltres ;;;destaquem;;vosaltres ;;;destaqueu;;ells //elles //vostès ;;;destaquin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;destaqués;;tu ;;;destaquessis;;ell //ella //vostè ;;;destaqués;;nosaltres ;;;destaquéssim;;vosaltres ;;;destaquéssiu;;ells //elles //vostès ;;;destaquessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;destaca;;(vostè) ;;;destaqui;;(nosaltres) ;;;destaquem;;(vosaltres) ;;;destaqueu;;(vostès) ;;;destaquin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;destaquis;;(vostè) ;no ;;destaqui;;(nosaltres) ;no ;;destaquem;;(vosaltres) ;no ;;destaqueu;;(vostès) ;no ;;destaquin
+Indicatiu Perfet;indicatiu;;jo ;;;he destacat;;tu ;;;has destacat;;ell //ella //vostè ;;;ha destacat;;nosaltres ;;;hem destacat;;vosaltres ;;;heu destacat;;ells //elles //vostès ;;;han destacat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig destacat;;tu ;;;vas destacat;;ell //ella //vostè ;;;va destacat;;nosaltres ;;;vam destacat;;vosaltres ;;;vau destacat;;ells //elles //vostès ;;;van destacat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia destacat;;tu ;;;havies destacat;;ell //ella //vostè ;;;havia destacat;;nosaltres ;;;havíem destacat;;vosaltres ;;;havíeu destacat;;ells //elles //vostès ;;;havien destacat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí destacat;;tu ;;;hagueres destacat;;ell //ella //vostè ;;;hagué destacat;;nosaltres ;;;haguérem destacat;;vosaltres ;;;haguéreu destacat;;ells //elles //vostès ;;;hagueren destacat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver destacat;;tu ;;;vas haver destacat;;ell //ella //vostè ;;;va haver destacat;;nosaltres ;;;vam haver destacat;;vosaltres ;;;vau haver destacat;;ells //elles //vostès ;;;van haver destacat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré destacat;;tu ;;;hauràs destacat;;ell //ella //vostè ;;;haurà destacat;;nosaltres ;;;haurem destacat;;vosaltres ;;;haureu destacat;;ells //elles //vostès ;;;hauran destacat
+Condicional Perfet;condicional;;jo ;;;hauria destacat;;tu ;;;hauries destacat;;ell //ella //vostè ;;;hauria destacat;;nosaltres ;;;hauríem destacat;;vosaltres ;;;hauríeu destacat;;ells //elles //vostès ;;;haurien destacat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi destacat;;tu ;;;vagis destacat;;ell //ella //vostè ;;;vagi destacat;;nosaltres ;;;vàgim destacat;;vosaltres ;;;vàgiu destacat;;ells //elles //vostès ;;;vagin destacat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi destacat;;tu ;;;hagis destacat;;ell //ella //vostè ;;;hagi destacat;;nosaltres ;;;hàgim destacat;;vosaltres ;;;hàgiu destacat;;ells //elles //vostès ;;;hagin destacat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes destacat;;tu ;;;haguessis destacat;;ell //ella //vostè ;;;hagués destacat;;nosaltres ;;;haguéssim destacat;;vosaltres ;;;haguéssiu destacat;;ells //elles //vostès ;;;haguessin destacat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver destacat;;tu ;;;vagis haver destacat;;ell //ella //vostè ;;;vagi haver destacat;;nosaltres ;;;vàgim haver destacat;;vosaltres ;;;vàgiu haver destacat;;ells //elles //vostès ;;;vagin haver destacat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;destacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;destac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

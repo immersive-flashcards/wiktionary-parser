@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;mâcher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir mâché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en mâchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant mâché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;mâchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;mâché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;mâche;;tu ;;;mâches;;il/elle/on ;;;mâche;;nous ;;;mâchons;;vous ;;;mâchez;;ils/elles ;;;mâchent
+Indicatif Passé Composé;indicatif;;j’;;;ai mâché;;tu ;;;as mâché;;il/elle/on ;;;a mâché;;nous ;;;avons mâché;;vous ;;;avez mâché;;ils/elles ;;;ont mâché
+Indicatif Imparfait;indicatif;;je ;;;mâchais;;tu ;;;mâchais;;il/elle/on ;;;mâchait;;nous ;;;mâchions;;vous ;;;mâchiez;;ils/elles ;;;mâchaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais mâché;;tu ;;;avais mâché;;il/elle/on ;;;avait mâché;;nous ;;;avions mâché;;vous ;;;aviez mâché;;ils/elles ;;;avaient mâché
+Indicatif Passé Simple;indicatif;;je ;;;mâchai;;tu ;;;mâchas;;il/elle/on ;;;mâcha;;nous ;;;mâchâmes;;vous ;;;mâchâtes;;ils/elles ;;;mâchèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus mâché;;tu ;;;eus mâché;;il/elle/on ;;;eut mâché;;nous ;;;eûmes mâché;;vous ;;;eûtes mâché;;ils/elles ;;;eurent mâché
+Indicatif Futur Simple;indicatif;;je ;;;mâcherai;;tu ;;;mâcheras;;il/elle/on ;;;mâchera;;nous ;;;mâcherons;;vous ;;;mâcherez;;ils/elles ;;;mâcheront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai mâché;;tu ;;;auras mâché;;il/elle/on ;;;aura mâché;;nous ;;;aurons mâché;;vous ;;;aurez mâché;;ils/elles ;;;auront mâché
+Subjonctif Présent;subjonctif;que ;je ;;;mâche;que ;tu ;;;mâches;qu’;il/elle/on ;;;mâche;que ;nous ;;;mâchions;que ;vous ;;;mâchiez;qu’;ils/elles ;;;mâchent
+Subjonctif Passé;subjonctif;que ;j’;;;aie mâché;que ;tu ;;;aies mâché;qu’;il/elle/on ;;;ait mâché;que ;nous ;;;ayons mâché;que ;vous ;;;ayez mâché;qu’;ils/elles ;;;aient mâché
+Subjonctif Imparfait;subjonctif;que ;je ;;;mâchasse;que ;tu ;;;mâchasses;qu’;il/elle/on ;;;mâchât;que ;nous ;;;mâchassions;que ;vous ;;;mâchassiez;qu’;ils/elles ;;;mâchassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse mâché;que ;tu ;;;eusses mâché;qu’;il/elle/on ;;;eût mâché;que ;nous ;;;eussions mâché;que ;vous ;;;eussiez mâché;qu’;ils/elles ;;;eussent mâché
+Conditionnel;conditionnel;;je ;;;mâcherais;;tu ;;;mâcherais;;il/elle/on ;;;mâcherait;;nous ;;;mâcherions;;vous ;;;mâcheriez;;ils/elles ;;;mâcheraient
+Conditionnel Passé;conditionnel;;j’;;;aurais mâché;;tu ;;;aurais mâché;;il/elle/on ;;;aurait mâché;;nous ;;;aurions mâché;;vous ;;;auriez mâché;;ils/elles ;;;auraient mâché
+Impératif Présent;impératif;;;;;;;;;;mâche;;;;;;;;;;mâchons;;;;;mâchez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;mâcher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;mâch;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

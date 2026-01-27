@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;agudizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;agudizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;agudizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;agudizo;;tú ;;;agudizas;;él //ella //usted ;;;agudiza;;nosotros //nosotras ;;;agudizamos;;vosotros //vosotras ;;;agudizáis;;ellos //ellas //ustedes ;;;agudizan;;vos ;;;agudizás
+Indicativo Imperfecto;indicativo;;yo ;;;agudizaba;;tú //vos ;;;agudizabas;;él //ella //usted ;;;agudizaba;;nosotros //nosotras ;;;agudizábamos;;vosotros //vosotras ;;;agudizabais;;ellos //ellas //ustedes ;;;agudizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;agudicé;;tú //vos ;;;agudizaste;;él //ella //usted ;;;agudizó;;nosotros //nosotras ;;;agudizamos;;vosotros //vosotras ;;;agudizasteis;;ellos //ellas //ustedes ;;;agudizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;agudizaré;;tú //vos ;;;agudizarás;;él //ella //usted ;;;agudizará;;nosotros //nosotras ;;;agudizaremos;;vosotros //vosotras ;;;agudizaréis;;ellos //ellas //ustedes ;;;agudizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he agudizado;;tú //vos ;;;has agudizado;;él //ella //usted ;;;ha agudizado;;nosotros //nosotras ;;;hemos agudizado;;vosotros //vosotras ;;;habéis agudizado;;ellos //ellas //ustedes ;;;han agudizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había agudizado;;tú //vos ;;;habías agudizado;;él //ella //usted ;;;había agudizado;;nosotros //nosotras ;;;habíamos agudizado;;vosotros //vosotras ;;;habíais agudizado;;ellos //ellas //ustedes ;;;habían agudizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube agudizado;;tú //vos ;;;hubiste agudizado;;él //ella //usted ;;;hubo agudizado;;nosotros //nosotras ;;;hubimos agudizado;;vosotros //vosotras ;;;hubisteis agudizado;;ellos //ellas //ustedes ;;;hubieron agudizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré agudizado;;tú //vos ;;;habrás agudizado;;él //ella //usted ;;;habrá agudizado;;nosotros //nosotras ;;;habremos agudizado;;vosotros //vosotras ;;;habréis agudizado;;ellos //ellas //ustedes ;;;habrán agudizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;agudice;;tú //vos ;;;agudices;;él //ella //usted ;;;agudice;;nosotros //nosotras ;;;agudicemos;;vosotros //vosotras ;;;agudicéis;;ellos //ellas //ustedes ;;;agudicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;agudizara / agudizase;;tú //vos ;;;agudizaras / agudizases;;él //ella //usted ;;;agudizara / agudizase;;nosotros //nosotras ;;;agudizáramos / agudizásemos;;vosotros //vosotras ;;;agudizarais / agudizaseis;;ellos //ellas //ustedes ;;;agudizaran / agudizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;agudizare;;tú //vos ;;;agudizares;;él //ella //usted ;;;agudizare;;nosotros //nosotras ;;;agudizáremos;;vosotros //vosotras ;;;agudizareis;;ellos //ellas //ustedes ;;;agudizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya agudizado;;tú //vos ;;;hayas agudizado;;él //ella //usted ;;;haya agudizado;;nosotros //nosotras ;;;hayamos agudizado;;vosotros //vosotras ;;;hayáis agudizado;;ellos //ellas //ustedes ;;;hayan agudizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera agudizado / hubiese agudizado;;tú //vos ;;;hubieras agudizado / hubieses agudizado;;él //ella //usted ;;;hubiera agudizado / hubiese agudizado;;nosotros //nosotras ;;;hubiéramos agudizado / hubiésemos agudizado;;vosotros //vosotras ;;;hubierais agudizado / hubieseis agudizado;;ellos //ellas //ustedes ;;;hubieran agudizado / hubiesen agudizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere agudizado;;tú //vos ;;;hubieres agudizado;;él //ella //usted ;;;hubiere agudizado;;nosotros //nosotras ;;;hubiéremos agudizado;;vosotros //vosotras ;;;hubiereis agudizado;;ellos //ellas //ustedes ;;;hubieren agudizado;;;;;
+Condicional;condicional;;yo ;;;agudizaría;;tú //vos ;;;agudizarías;;él //ella //usted ;;;agudizaría;;nosotros //nosotras ;;;agudizaríamos;;vosotros //vosotras ;;;agudizaríais;;ellos //ellas //ustedes ;;;agudizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría agudizado;;tú //vos ;;;habrías agudizado;;él //ella //usted ;;;habría agudizado;;nosotros //nosotras ;;;habríamos agudizado;;vosotros //vosotras ;;;habríais agudizado;;ellos //ellas //ustedes ;;;habrían agudizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;agudiza;;(usted) ;;;agudice;;(nosotros) //(nosotras) ;;;agudicemos;;(vosotros) //(vosotras) ;;;agudizad;;(ustedes) ;;;agudicen;;(vos) ;;;agudizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;agudices;;(usted) ;no ;;agudice;;(nosotros) //(nosotras) ;no ;;agudicemos;;(vosotros) //(vosotras) ;no ;;agudicéis;;(ustedes) ;no ;;agudicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;agudizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;agudiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

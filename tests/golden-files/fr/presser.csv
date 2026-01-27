@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;presser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir pressé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en pressant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant pressé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;pressant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;pressé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;presse;;tu ;;;presses;;il/elle/on ;;;presse;;nous ;;;pressons;;vous ;;;pressez;;ils/elles ;;;pressent
+Indicatif Passé Composé;indicatif;;j’;;;ai pressé;;tu ;;;as pressé;;il/elle/on ;;;a pressé;;nous ;;;avons pressé;;vous ;;;avez pressé;;ils/elles ;;;ont pressé
+Indicatif Imparfait;indicatif;;je ;;;pressais;;tu ;;;pressais;;il/elle/on ;;;pressait;;nous ;;;pressions;;vous ;;;pressiez;;ils/elles ;;;pressaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais pressé;;tu ;;;avais pressé;;il/elle/on ;;;avait pressé;;nous ;;;avions pressé;;vous ;;;aviez pressé;;ils/elles ;;;avaient pressé
+Indicatif Passé Simple;indicatif;;je ;;;pressai;;tu ;;;pressas;;il/elle/on ;;;pressa;;nous ;;;pressâmes;;vous ;;;pressâtes;;ils/elles ;;;pressèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus pressé;;tu ;;;eus pressé;;il/elle/on ;;;eut pressé;;nous ;;;eûmes pressé;;vous ;;;eûtes pressé;;ils/elles ;;;eurent pressé
+Indicatif Futur Simple;indicatif;;je ;;;presserai;;tu ;;;presseras;;il/elle/on ;;;pressera;;nous ;;;presserons;;vous ;;;presserez;;ils/elles ;;;presseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai pressé;;tu ;;;auras pressé;;il/elle/on ;;;aura pressé;;nous ;;;aurons pressé;;vous ;;;aurez pressé;;ils/elles ;;;auront pressé
+Subjonctif Présent;subjonctif;que ;je ;;;presse;que ;tu ;;;presses;qu’;il/elle/on ;;;presse;que ;nous ;;;pressions;que ;vous ;;;pressiez;qu’;ils/elles ;;;pressent
+Subjonctif Passé;subjonctif;que ;j’;;;aie pressé;que ;tu ;;;aies pressé;qu’;il/elle/on ;;;ait pressé;que ;nous ;;;ayons pressé;que ;vous ;;;ayez pressé;qu’;ils/elles ;;;aient pressé
+Subjonctif Imparfait;subjonctif;que ;je ;;;pressasse;que ;tu ;;;pressasses;qu’;il/elle/on ;;;pressât;que ;nous ;;;pressassions;que ;vous ;;;pressassiez;qu’;ils/elles ;;;pressassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse pressé;que ;tu ;;;eusses pressé;qu’;il/elle/on ;;;eût pressé;que ;nous ;;;eussions pressé;que ;vous ;;;eussiez pressé;qu’;ils/elles ;;;eussent pressé
+Conditionnel;conditionnel;;je ;;;presserais;;tu ;;;presserais;;il/elle/on ;;;presserait;;nous ;;;presserions;;vous ;;;presseriez;;ils/elles ;;;presseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais pressé;;tu ;;;aurais pressé;;il/elle/on ;;;aurait pressé;;nous ;;;aurions pressé;;vous ;;;auriez pressé;;ils/elles ;;;auraient pressé
+Impératif Présent;impératif;;;;;;;;;;presse;;;;;;;;;;pressons;;;;;pressez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;presser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;press;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

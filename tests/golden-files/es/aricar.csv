@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;aricar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;aricando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;aricado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;arico;;tú ;;;aricas;;él //ella //usted ;;;arica;;nosotros //nosotras ;;;aricamos;;vosotros //vosotras ;;;aricáis;;ellos //ellas //ustedes ;;;arican;;vos ;;;aricás
+Indicativo Imperfecto;indicativo;;yo ;;;aricaba;;tú //vos ;;;aricabas;;él //ella //usted ;;;aricaba;;nosotros //nosotras ;;;aricábamos;;vosotros //vosotras ;;;aricabais;;ellos //ellas //ustedes ;;;aricaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;ariqué;;tú //vos ;;;aricaste;;él //ella //usted ;;;aricó;;nosotros //nosotras ;;;aricamos;;vosotros //vosotras ;;;aricasteis;;ellos //ellas //ustedes ;;;aricaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;aricaré;;tú //vos ;;;aricarás;;él //ella //usted ;;;aricará;;nosotros //nosotras ;;;aricaremos;;vosotros //vosotras ;;;aricaréis;;ellos //ellas //ustedes ;;;aricarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he aricado;;tú //vos ;;;has aricado;;él //ella //usted ;;;ha aricado;;nosotros //nosotras ;;;hemos aricado;;vosotros //vosotras ;;;habéis aricado;;ellos //ellas //ustedes ;;;han aricado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había aricado;;tú //vos ;;;habías aricado;;él //ella //usted ;;;había aricado;;nosotros //nosotras ;;;habíamos aricado;;vosotros //vosotras ;;;habíais aricado;;ellos //ellas //ustedes ;;;habían aricado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube aricado;;tú //vos ;;;hubiste aricado;;él //ella //usted ;;;hubo aricado;;nosotros //nosotras ;;;hubimos aricado;;vosotros //vosotras ;;;hubisteis aricado;;ellos //ellas //ustedes ;;;hubieron aricado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré aricado;;tú //vos ;;;habrás aricado;;él //ella //usted ;;;habrá aricado;;nosotros //nosotras ;;;habremos aricado;;vosotros //vosotras ;;;habréis aricado;;ellos //ellas //ustedes ;;;habrán aricado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;arique;;tú //vos ;;;ariques;;él //ella //usted ;;;arique;;nosotros //nosotras ;;;ariquemos;;vosotros //vosotras ;;;ariquéis;;ellos //ellas //ustedes ;;;ariquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;aricara / aricase;;tú //vos ;;;aricaras / aricases;;él //ella //usted ;;;aricara / aricase;;nosotros //nosotras ;;;aricáramos / aricásemos;;vosotros //vosotras ;;;aricarais / aricaseis;;ellos //ellas //ustedes ;;;aricaran / aricasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;aricare;;tú //vos ;;;aricares;;él //ella //usted ;;;aricare;;nosotros //nosotras ;;;aricáremos;;vosotros //vosotras ;;;aricareis;;ellos //ellas //ustedes ;;;aricaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya aricado;;tú //vos ;;;hayas aricado;;él //ella //usted ;;;haya aricado;;nosotros //nosotras ;;;hayamos aricado;;vosotros //vosotras ;;;hayáis aricado;;ellos //ellas //ustedes ;;;hayan aricado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera aricado / hubiese aricado;;tú //vos ;;;hubieras aricado / hubieses aricado;;él //ella //usted ;;;hubiera aricado / hubiese aricado;;nosotros //nosotras ;;;hubiéramos aricado / hubiésemos aricado;;vosotros //vosotras ;;;hubierais aricado / hubieseis aricado;;ellos //ellas //ustedes ;;;hubieran aricado / hubiesen aricado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere aricado;;tú //vos ;;;hubieres aricado;;él //ella //usted ;;;hubiere aricado;;nosotros //nosotras ;;;hubiéremos aricado;;vosotros //vosotras ;;;hubiereis aricado;;ellos //ellas //ustedes ;;;hubieren aricado;;;;;
+Condicional;condicional;;yo ;;;aricaría;;tú //vos ;;;aricarías;;él //ella //usted ;;;aricaría;;nosotros //nosotras ;;;aricaríamos;;vosotros //vosotras ;;;aricaríais;;ellos //ellas //ustedes ;;;aricarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría aricado;;tú //vos ;;;habrías aricado;;él //ella //usted ;;;habría aricado;;nosotros //nosotras ;;;habríamos aricado;;vosotros //vosotras ;;;habríais aricado;;ellos //ellas //ustedes ;;;habrían aricado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arica;;(usted) ;;;arique;;(nosotros) //(nosotras) ;;;ariquemos;;(vosotros) //(vosotras) ;;;aricad;;(ustedes) ;;;ariquen;;(vos) ;;;aricá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;ariques;;(usted) ;no ;;arique;;(nosotros) //(nosotras) ;no ;;ariquemos;;(vosotros) //(vosotras) ;no ;;ariquéis;;(ustedes) ;no ;;ariquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;aricar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;aric;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

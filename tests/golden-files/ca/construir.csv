@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;construir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;construint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;construït;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;construeixo;;tu ;;;construeixes;;ell //ella //vostè ;;;construeix;;nosaltres ;;;construïm;;vosaltres ;;;construïu;;ells //elles //vostès ;;;construeixen
+Indicatiu Imperfet;indicativo;;jo ;;;construïa;;tu ;;;construïes;;ell //ella //vostè ;;;construïa;;nosaltres ;;;construíem;;vosaltres ;;;construíeu;;ells //elles //vostès ;;;construïen
+Indicatiu Futur;indicativo;;jo ;;;construiré;;tu ;;;construiràs;;ell //ella //vostè ;;;construirà;;nosaltres ;;;construirem;;vosaltres ;;;construireu;;ells //elles //vostès ;;;construiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;construí;;tu ;;;construïres;;ell //ella //vostè ;;;construí;;nosaltres ;;;construírem;;vosaltres ;;;construíreu;;ells //elles //vostès ;;;construïren
+Condicional;condicional;;jo ;;;construiria;;tu ;;;construiries;;ell //ella //vostè ;;;construiria;;nosaltres ;;;construiríem;;vosaltres ;;;construiríeu;;ells //elles //vostès ;;;construirien
+Subjuntiu Present;subjuntiu;;jo ;;;construeixi;;tu ;;;construeixis;;ell //ella //vostè ;;;construeixi;;nosaltres ;;;construïm;;vosaltres ;;;construïu;;ells //elles //vostès ;;;construeixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;construís;;tu ;;;construïssis;;ell //ella //vostè ;;;construís;;nosaltres ;;;construíssim;;vosaltres ;;;construíssiu;;ells //elles //vostès ;;;construïssin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;construeix;;(vostè) ;;;construeixi;;(nosaltres) ;;;construïm;;(vosaltres) ;;;construïu;;(vostès) ;;;construeixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;construeixis;;(vostè) ;no ;;construeixi;;(nosaltres) ;no ;;construïm;;(vosaltres) ;no ;;construïu;;(vostès) ;no ;;construeixin
+Indicatiu Perfet;indicatiu;;jo ;;;he construït;;tu ;;;has construït;;ell //ella //vostè ;;;ha construït;;nosaltres ;;;hem construït;;vosaltres ;;;heu construït;;ells //elles //vostès ;;;han construït
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig construït;;tu ;;;vas construït;;ell //ella //vostè ;;;va construït;;nosaltres ;;;vam construït;;vosaltres ;;;vau construït;;ells //elles //vostès ;;;van construït
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia construït;;tu ;;;havies construït;;ell //ella //vostè ;;;havia construït;;nosaltres ;;;havíem construït;;vosaltres ;;;havíeu construït;;ells //elles //vostès ;;;havien construït
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí construït;;tu ;;;hagueres construït;;ell //ella //vostè ;;;hagué construït;;nosaltres ;;;haguérem construït;;vosaltres ;;;haguéreu construït;;ells //elles //vostès ;;;hagueren construït
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver construït;;tu ;;;vas haver construït;;ell //ella //vostè ;;;va haver construït;;nosaltres ;;;vam haver construït;;vosaltres ;;;vau haver construït;;ells //elles //vostès ;;;van haver construït
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré construït;;tu ;;;hauràs construït;;ell //ella //vostè ;;;haurà construït;;nosaltres ;;;haurem construït;;vosaltres ;;;haureu construït;;ells //elles //vostès ;;;hauran construït
+Condicional Perfet;condicional;;jo ;;;hauria construït;;tu ;;;hauries construït;;ell //ella //vostè ;;;hauria construït;;nosaltres ;;;hauríem construït;;vosaltres ;;;hauríeu construït;;ells //elles //vostès ;;;haurien construït
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi construït;;tu ;;;vagis construït;;ell //ella //vostè ;;;vagi construït;;nosaltres ;;;vàgim construït;;vosaltres ;;;vàgiu construït;;ells //elles //vostès ;;;vagin construït
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi construït;;tu ;;;hagis construït;;ell //ella //vostè ;;;hagi construït;;nosaltres ;;;hàgim construït;;vosaltres ;;;hàgiu construït;;ells //elles //vostès ;;;hagin construït
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes construït;;tu ;;;haguessis construït;;ell //ella //vostè ;;;hagués construït;;nosaltres ;;;haguéssim construït;;vosaltres ;;;haguéssiu construït;;ells //elles //vostès ;;;haguessin construït
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver construït;;tu ;;;vagis haver construït;;ell //ella //vostè ;;;vagi haver construït;;nosaltres ;;;vàgim haver construït;;vosaltres ;;;vàgiu haver construït;;ells //elles //vostès ;;;vagin haver construït
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;construir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;constru;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

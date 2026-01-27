@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;acatar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;acatant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;acatat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;acato;;tu ;;;acates;;ell //ella //vostè ;;;acata;;nosaltres ;;;acatem;;vosaltres ;;;acateu;;ells //elles //vostès ;;;acaten
+Indicatiu Imperfet;indicativo;;jo ;;;acatava;;tu ;;;acataves;;ell //ella //vostè ;;;acatava;;nosaltres ;;;acatàvem;;vosaltres ;;;acatàveu;;ells //elles //vostès ;;;acataven
+Indicatiu Futur;indicativo;;jo ;;;acataré;;tu ;;;acataràs;;ell //ella //vostè ;;;acatarà;;nosaltres ;;;acatarem;;vosaltres ;;;acatareu;;ells //elles //vostès ;;;acataran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;acatí;;tu ;;;acatares;;ell //ella //vostè ;;;acatà;;nosaltres ;;;acatàrem;;vosaltres ;;;acatàreu;;ells //elles //vostès ;;;acataren
+Condicional;condicional;;jo ;;;acataria;;tu ;;;acataries;;ell //ella //vostè ;;;acataria;;nosaltres ;;;acataríem;;vosaltres ;;;acataríeu;;ells //elles //vostès ;;;acatarien
+Subjuntiu Present;subjuntiu;;jo ;;;acati;;tu ;;;acatis;;ell //ella //vostè ;;;acati;;nosaltres ;;;acatem;;vosaltres ;;;acateu;;ells //elles //vostès ;;;acatin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;acatés;;tu ;;;acatessis;;ell //ella //vostè ;;;acatés;;nosaltres ;;;acatéssim;;vosaltres ;;;acatéssiu;;ells //elles //vostès ;;;acatessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;acata;;(vostè) ;;;acati;;(nosaltres) ;;;acatem;;(vosaltres) ;;;acateu;;(vostès) ;;;acatin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;acatis;;(vostè) ;no ;;acati;;(nosaltres) ;no ;;acatem;;(vosaltres) ;no ;;acateu;;(vostès) ;no ;;acatin
+Indicatiu Perfet;indicatiu;;jo ;;;he acatat;;tu ;;;has acatat;;ell //ella //vostè ;;;ha acatat;;nosaltres ;;;hem acatat;;vosaltres ;;;heu acatat;;ells //elles //vostès ;;;han acatat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig acatat;;tu ;;;vas acatat;;ell //ella //vostè ;;;va acatat;;nosaltres ;;;vam acatat;;vosaltres ;;;vau acatat;;ells //elles //vostès ;;;van acatat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia acatat;;tu ;;;havies acatat;;ell //ella //vostè ;;;havia acatat;;nosaltres ;;;havíem acatat;;vosaltres ;;;havíeu acatat;;ells //elles //vostès ;;;havien acatat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí acatat;;tu ;;;hagueres acatat;;ell //ella //vostè ;;;hagué acatat;;nosaltres ;;;haguérem acatat;;vosaltres ;;;haguéreu acatat;;ells //elles //vostès ;;;hagueren acatat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver acatat;;tu ;;;vas haver acatat;;ell //ella //vostè ;;;va haver acatat;;nosaltres ;;;vam haver acatat;;vosaltres ;;;vau haver acatat;;ells //elles //vostès ;;;van haver acatat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré acatat;;tu ;;;hauràs acatat;;ell //ella //vostè ;;;haurà acatat;;nosaltres ;;;haurem acatat;;vosaltres ;;;haureu acatat;;ells //elles //vostès ;;;hauran acatat
+Condicional Perfet;condicional;;jo ;;;hauria acatat;;tu ;;;hauries acatat;;ell //ella //vostè ;;;hauria acatat;;nosaltres ;;;hauríem acatat;;vosaltres ;;;hauríeu acatat;;ells //elles //vostès ;;;haurien acatat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi acatat;;tu ;;;vagis acatat;;ell //ella //vostè ;;;vagi acatat;;nosaltres ;;;vàgim acatat;;vosaltres ;;;vàgiu acatat;;ells //elles //vostès ;;;vagin acatat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi acatat;;tu ;;;hagis acatat;;ell //ella //vostè ;;;hagi acatat;;nosaltres ;;;hàgim acatat;;vosaltres ;;;hàgiu acatat;;ells //elles //vostès ;;;hagin acatat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes acatat;;tu ;;;haguessis acatat;;ell //ella //vostè ;;;hagués acatat;;nosaltres ;;;haguéssim acatat;;vosaltres ;;;haguéssiu acatat;;ells //elles //vostès ;;;haguessin acatat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver acatat;;tu ;;;vagis haver acatat;;ell //ella //vostè ;;;vagi haver acatat;;nosaltres ;;;vàgim haver acatat;;vosaltres ;;;vàgiu haver acatat;;ells //elles //vostès ;;;vagin haver acatat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;acatar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;acat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

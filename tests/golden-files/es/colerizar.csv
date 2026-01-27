@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;colerizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;colerizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;colerizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;colerizo;;tú ;;;colerizas;;él //ella //usted ;;;coleriza;;nosotros //nosotras ;;;colerizamos;;vosotros //vosotras ;;;colerizáis;;ellos //ellas //ustedes ;;;colerizan;;vos ;;;colerizás
+Indicativo Imperfecto;indicativo;;yo ;;;colerizaba;;tú //vos ;;;colerizabas;;él //ella //usted ;;;colerizaba;;nosotros //nosotras ;;;colerizábamos;;vosotros //vosotras ;;;colerizabais;;ellos //ellas //ustedes ;;;colerizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;colericé;;tú //vos ;;;colerizaste;;él //ella //usted ;;;colerizó;;nosotros //nosotras ;;;colerizamos;;vosotros //vosotras ;;;colerizasteis;;ellos //ellas //ustedes ;;;colerizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;colerizaré;;tú //vos ;;;colerizarás;;él //ella //usted ;;;colerizará;;nosotros //nosotras ;;;colerizaremos;;vosotros //vosotras ;;;colerizaréis;;ellos //ellas //ustedes ;;;colerizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he colerizado;;tú //vos ;;;has colerizado;;él //ella //usted ;;;ha colerizado;;nosotros //nosotras ;;;hemos colerizado;;vosotros //vosotras ;;;habéis colerizado;;ellos //ellas //ustedes ;;;han colerizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había colerizado;;tú //vos ;;;habías colerizado;;él //ella //usted ;;;había colerizado;;nosotros //nosotras ;;;habíamos colerizado;;vosotros //vosotras ;;;habíais colerizado;;ellos //ellas //ustedes ;;;habían colerizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube colerizado;;tú //vos ;;;hubiste colerizado;;él //ella //usted ;;;hubo colerizado;;nosotros //nosotras ;;;hubimos colerizado;;vosotros //vosotras ;;;hubisteis colerizado;;ellos //ellas //ustedes ;;;hubieron colerizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré colerizado;;tú //vos ;;;habrás colerizado;;él //ella //usted ;;;habrá colerizado;;nosotros //nosotras ;;;habremos colerizado;;vosotros //vosotras ;;;habréis colerizado;;ellos //ellas //ustedes ;;;habrán colerizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;colerice;;tú //vos ;;;colerices;;él //ella //usted ;;;colerice;;nosotros //nosotras ;;;colericemos;;vosotros //vosotras ;;;colericéis;;ellos //ellas //ustedes ;;;colericen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;colerizara / colerizase;;tú //vos ;;;colerizaras / colerizases;;él //ella //usted ;;;colerizara / colerizase;;nosotros //nosotras ;;;colerizáramos / colerizásemos;;vosotros //vosotras ;;;colerizarais / colerizaseis;;ellos //ellas //ustedes ;;;colerizaran / colerizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;colerizare;;tú //vos ;;;colerizares;;él //ella //usted ;;;colerizare;;nosotros //nosotras ;;;colerizáremos;;vosotros //vosotras ;;;colerizareis;;ellos //ellas //ustedes ;;;colerizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya colerizado;;tú //vos ;;;hayas colerizado;;él //ella //usted ;;;haya colerizado;;nosotros //nosotras ;;;hayamos colerizado;;vosotros //vosotras ;;;hayáis colerizado;;ellos //ellas //ustedes ;;;hayan colerizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera colerizado / hubiese colerizado;;tú //vos ;;;hubieras colerizado / hubieses colerizado;;él //ella //usted ;;;hubiera colerizado / hubiese colerizado;;nosotros //nosotras ;;;hubiéramos colerizado / hubiésemos colerizado;;vosotros //vosotras ;;;hubierais colerizado / hubieseis colerizado;;ellos //ellas //ustedes ;;;hubieran colerizado / hubiesen colerizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere colerizado;;tú //vos ;;;hubieres colerizado;;él //ella //usted ;;;hubiere colerizado;;nosotros //nosotras ;;;hubiéremos colerizado;;vosotros //vosotras ;;;hubiereis colerizado;;ellos //ellas //ustedes ;;;hubieren colerizado;;;;;
+Condicional;condicional;;yo ;;;colerizaría;;tú //vos ;;;colerizarías;;él //ella //usted ;;;colerizaría;;nosotros //nosotras ;;;colerizaríamos;;vosotros //vosotras ;;;colerizaríais;;ellos //ellas //ustedes ;;;colerizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría colerizado;;tú //vos ;;;habrías colerizado;;él //ella //usted ;;;habría colerizado;;nosotros //nosotras ;;;habríamos colerizado;;vosotros //vosotras ;;;habríais colerizado;;ellos //ellas //ustedes ;;;habrían colerizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;coleriza;;(usted) ;;;colerice;;(nosotros) //(nosotras) ;;;colericemos;;(vosotros) //(vosotras) ;;;colerizad;;(ustedes) ;;;colericen;;(vos) ;;;colerizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;colerices;;(usted) ;no ;;colerice;;(nosotros) //(nosotras) ;no ;;colericemos;;(vosotros) //(vosotras) ;no ;;colericéis;;(ustedes) ;no ;;colericen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;colerizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;coleriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

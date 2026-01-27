@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;acorazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;acorazando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;acorazado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;acorazo;;tú ;;;acorazas;;él //ella //usted ;;;acoraza;;nosotros //nosotras ;;;acorazamos;;vosotros //vosotras ;;;acorazáis;;ellos //ellas //ustedes ;;;acorazan;;vos ;;;acorazás
+Indicativo Imperfecto;indicativo;;yo ;;;acorazaba;;tú //vos ;;;acorazabas;;él //ella //usted ;;;acorazaba;;nosotros //nosotras ;;;acorazábamos;;vosotros //vosotras ;;;acorazabais;;ellos //ellas //ustedes ;;;acorazaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;acoracé;;tú //vos ;;;acorazaste;;él //ella //usted ;;;acorazó;;nosotros //nosotras ;;;acorazamos;;vosotros //vosotras ;;;acorazasteis;;ellos //ellas //ustedes ;;;acorazaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;acorazaré;;tú //vos ;;;acorazarás;;él //ella //usted ;;;acorazará;;nosotros //nosotras ;;;acorazaremos;;vosotros //vosotras ;;;acorazaréis;;ellos //ellas //ustedes ;;;acorazarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he acorazado;;tú //vos ;;;has acorazado;;él //ella //usted ;;;ha acorazado;;nosotros //nosotras ;;;hemos acorazado;;vosotros //vosotras ;;;habéis acorazado;;ellos //ellas //ustedes ;;;han acorazado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había acorazado;;tú //vos ;;;habías acorazado;;él //ella //usted ;;;había acorazado;;nosotros //nosotras ;;;habíamos acorazado;;vosotros //vosotras ;;;habíais acorazado;;ellos //ellas //ustedes ;;;habían acorazado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube acorazado;;tú //vos ;;;hubiste acorazado;;él //ella //usted ;;;hubo acorazado;;nosotros //nosotras ;;;hubimos acorazado;;vosotros //vosotras ;;;hubisteis acorazado;;ellos //ellas //ustedes ;;;hubieron acorazado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré acorazado;;tú //vos ;;;habrás acorazado;;él //ella //usted ;;;habrá acorazado;;nosotros //nosotras ;;;habremos acorazado;;vosotros //vosotras ;;;habréis acorazado;;ellos //ellas //ustedes ;;;habrán acorazado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;acorace;;tú //vos ;;;acoraces;;él //ella //usted ;;;acorace;;nosotros //nosotras ;;;acoracemos;;vosotros //vosotras ;;;acoracéis;;ellos //ellas //ustedes ;;;acoracen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;acorazara / acorazase;;tú //vos ;;;acorazaras / acorazases;;él //ella //usted ;;;acorazara / acorazase;;nosotros //nosotras ;;;acorazáramos / acorazásemos;;vosotros //vosotras ;;;acorazarais / acorazaseis;;ellos //ellas //ustedes ;;;acorazaran / acorazasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;acorazare;;tú //vos ;;;acorazares;;él //ella //usted ;;;acorazare;;nosotros //nosotras ;;;acorazáremos;;vosotros //vosotras ;;;acorazareis;;ellos //ellas //ustedes ;;;acorazaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya acorazado;;tú //vos ;;;hayas acorazado;;él //ella //usted ;;;haya acorazado;;nosotros //nosotras ;;;hayamos acorazado;;vosotros //vosotras ;;;hayáis acorazado;;ellos //ellas //ustedes ;;;hayan acorazado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera acorazado / hubiese acorazado;;tú //vos ;;;hubieras acorazado / hubieses acorazado;;él //ella //usted ;;;hubiera acorazado / hubiese acorazado;;nosotros //nosotras ;;;hubiéramos acorazado / hubiésemos acorazado;;vosotros //vosotras ;;;hubierais acorazado / hubieseis acorazado;;ellos //ellas //ustedes ;;;hubieran acorazado / hubiesen acorazado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere acorazado;;tú //vos ;;;hubieres acorazado;;él //ella //usted ;;;hubiere acorazado;;nosotros //nosotras ;;;hubiéremos acorazado;;vosotros //vosotras ;;;hubiereis acorazado;;ellos //ellas //ustedes ;;;hubieren acorazado;;;;;
+Condicional;condicional;;yo ;;;acorazaría;;tú //vos ;;;acorazarías;;él //ella //usted ;;;acorazaría;;nosotros //nosotras ;;;acorazaríamos;;vosotros //vosotras ;;;acorazaríais;;ellos //ellas //ustedes ;;;acorazarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría acorazado;;tú //vos ;;;habrías acorazado;;él //ella //usted ;;;habría acorazado;;nosotros //nosotras ;;;habríamos acorazado;;vosotros //vosotras ;;;habríais acorazado;;ellos //ellas //ustedes ;;;habrían acorazado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;acoraza;;(usted) ;;;acorace;;(nosotros) //(nosotras) ;;;acoracemos;;(vosotros) //(vosotras) ;;;acorazad;;(ustedes) ;;;acoracen;;(vos) ;;;acorazá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;acoraces;;(usted) ;no ;;acorace;;(nosotros) //(nosotras) ;no ;;acoracemos;;(vosotros) //(vosotras) ;no ;;acoracéis;;(ustedes) ;no ;;acoracen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;acorazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;acoraz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

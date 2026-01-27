@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;respirer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir respiré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en respirant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant respiré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;respirant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;respiré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;respire;;tu ;;;respires;;il/elle/on ;;;respire;;nous ;;;respirons;;vous ;;;respirez;;ils/elles ;;;respirent
+Indicatif Passé Composé;indicatif;;j’;;;ai respiré;;tu ;;;as respiré;;il/elle/on ;;;a respiré;;nous ;;;avons respiré;;vous ;;;avez respiré;;ils/elles ;;;ont respiré
+Indicatif Imparfait;indicatif;;je ;;;respirais;;tu ;;;respirais;;il/elle/on ;;;respirait;;nous ;;;respirions;;vous ;;;respiriez;;ils/elles ;;;respiraient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais respiré;;tu ;;;avais respiré;;il/elle/on ;;;avait respiré;;nous ;;;avions respiré;;vous ;;;aviez respiré;;ils/elles ;;;avaient respiré
+Indicatif Passé Simple;indicatif;;je ;;;respirai;;tu ;;;respiras;;il/elle/on ;;;respira;;nous ;;;respirâmes;;vous ;;;respirâtes;;ils/elles ;;;respirèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus respiré;;tu ;;;eus respiré;;il/elle/on ;;;eut respiré;;nous ;;;eûmes respiré;;vous ;;;eûtes respiré;;ils/elles ;;;eurent respiré
+Indicatif Futur Simple;indicatif;;je ;;;respirerai;;tu ;;;respireras;;il/elle/on ;;;respirera;;nous ;;;respirerons;;vous ;;;respirerez;;ils/elles ;;;respireront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai respiré;;tu ;;;auras respiré;;il/elle/on ;;;aura respiré;;nous ;;;aurons respiré;;vous ;;;aurez respiré;;ils/elles ;;;auront respiré
+Subjonctif Présent;subjonctif;que ;je ;;;respire;que ;tu ;;;respires;qu’;il/elle/on ;;;respire;que ;nous ;;;respirions;que ;vous ;;;respiriez;qu’;ils/elles ;;;respirent
+Subjonctif Passé;subjonctif;que ;j’;;;aie respiré;que ;tu ;;;aies respiré;qu’;il/elle/on ;;;ait respiré;que ;nous ;;;ayons respiré;que ;vous ;;;ayez respiré;qu’;ils/elles ;;;aient respiré
+Subjonctif Imparfait;subjonctif;que ;je ;;;respirasse;que ;tu ;;;respirasses;qu’;il/elle/on ;;;respirât;que ;nous ;;;respirassions;que ;vous ;;;respirassiez;qu’;ils/elles ;;;respirassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse respiré;que ;tu ;;;eusses respiré;qu’;il/elle/on ;;;eût respiré;que ;nous ;;;eussions respiré;que ;vous ;;;eussiez respiré;qu’;ils/elles ;;;eussent respiré
+Conditionnel;conditionnel;;je ;;;respirerais;;tu ;;;respirerais;;il/elle/on ;;;respirerait;;nous ;;;respirerions;;vous ;;;respireriez;;ils/elles ;;;respireraient
+Conditionnel Passé;conditionnel;;j’;;;aurais respiré;;tu ;;;aurais respiré;;il/elle/on ;;;aurait respiré;;nous ;;;aurions respiré;;vous ;;;auriez respiré;;ils/elles ;;;auraient respiré
+Impératif Présent;impératif;;;;;;;;;;respire;;;;;;;;;;respirons;;;;;respirez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;respirer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;respir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

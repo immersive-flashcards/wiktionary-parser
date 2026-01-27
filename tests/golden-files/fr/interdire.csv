@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;interdire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir interdit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en interdisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant interdit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;interdisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;interdit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;interdis;;tu ;;;interdis;;il/elle/on ;;;interdit;;nous ;;;interdisons;;vous ;;;interdisez;;ils/elles ;;;interdisent
+Indicatif Passé Composé;indicatif;;j’;;;ai interdit;;tu ;;;as interdit;;il/elle/on ;;;a interdit;;nous ;;;avons interdit;;vous ;;;avez interdit;;ils/elles ;;;ont interdit
+Indicatif Imparfait;indicatif;;j’;;;interdisais;;tu ;;;interdisais;;il/elle/on ;;;interdisait;;nous ;;;interdisions;;vous ;;;interdisiez;;ils/elles ;;;interdisaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais interdit;;tu ;;;avais interdit;;il/elle/on ;;;avait interdit;;nous ;;;avions interdit;;vous ;;;aviez interdit;;ils/elles ;;;avaient interdit
+Indicatif Passé Simple;indicatif;;j’;;;interdis;;tu ;;;interdis;;il/elle/on ;;;interdit;;nous ;;;interdîmes;;vous ;;;interdîtes;;ils/elles ;;;interdirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus interdit;;tu ;;;eus interdit;;il/elle/on ;;;eut interdit;;nous ;;;eûmes interdit;;vous ;;;eûtes interdit;;ils/elles ;;;eurent interdit
+Indicatif Futur Simple;indicatif;;j’;;;interdirai;;tu ;;;interdiras;;il/elle/on ;;;interdira;;nous ;;;interdirons;;vous ;;;interdirez;;ils/elles ;;;interdiront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai interdit;;tu ;;;auras interdit;;il/elle/on ;;;aura interdit;;nous ;;;aurons interdit;;vous ;;;aurez interdit;;ils/elles ;;;auront interdit
+Subjonctif Présent;subjonctif;que ;j’;;;interdise;que ;tu ;;;interdises;qu’;il/elle/on ;;;interdise;que ;nous ;;;interdisions;que ;vous ;;;interdisiez;qu’;ils/elles ;;;interdisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie interdit;que ;tu ;;;aies interdit;qu’;il/elle/on ;;;ait interdit;que ;nous ;;;ayons interdit;que ;vous ;;;ayez interdit;qu’;ils/elles ;;;aient interdit
+Subjonctif Imparfait;subjonctif;que ;j’;;;interdisse;que ;tu ;;;interdisses;qu’;il/elle/on ;;;interdît;que ;nous ;;;interdissions;que ;vous ;;;interdissiez;qu’;ils/elles ;;;interdissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse interdit;que ;tu ;;;eusses interdit;qu’;il/elle/on ;;;eût interdit;que ;nous ;;;eussions interdit;que ;vous ;;;eussiez interdit;qu’;ils/elles ;;;eussent interdit
+Conditionnel;conditionnel;;j’;;;interdirais;;tu ;;;interdirais;;il/elle/on ;;;interdirait;;nous ;;;interdirions;;vous ;;;interdiriez;;ils/elles ;;;interdiraient
+Conditionnel Passé;conditionnel;;j’;;;aurais interdit;;tu ;;;aurais interdit;;il/elle/on ;;;aurait interdit;;nous ;;;aurions interdit;;vous ;;;auriez interdit;;ils/elles ;;;auraient interdit
+Impératif Présent;impératif;;;;;;;;;;interdis;;;;;;;;;;interdisons;;;;;interdisez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;interdire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;interdi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;agresser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir agressé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en agressant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant agressé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;agressant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;agressé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;agresse;;tu ;;;agresses;;il/elle/on ;;;agresse;;nous ;;;agressons;;vous ;;;agressez;;ils/elles ;;;agressent
+Indicatif Passé Composé;indicatif;;j’;;;ai agressé;;tu ;;;as agressé;;il/elle/on ;;;a agressé;;nous ;;;avons agressé;;vous ;;;avez agressé;;ils/elles ;;;ont agressé
+Indicatif Imparfait;indicatif;;j’;;;agressais;;tu ;;;agressais;;il/elle/on ;;;agressait;;nous ;;;agressions;;vous ;;;agressiez;;ils/elles ;;;agressaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais agressé;;tu ;;;avais agressé;;il/elle/on ;;;avait agressé;;nous ;;;avions agressé;;vous ;;;aviez agressé;;ils/elles ;;;avaient agressé
+Indicatif Passé Simple;indicatif;;j’;;;agressai;;tu ;;;agressas;;il/elle/on ;;;agressa;;nous ;;;agressâmes;;vous ;;;agressâtes;;ils/elles ;;;agressèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus agressé;;tu ;;;eus agressé;;il/elle/on ;;;eut agressé;;nous ;;;eûmes agressé;;vous ;;;eûtes agressé;;ils/elles ;;;eurent agressé
+Indicatif Futur Simple;indicatif;;j’;;;agresserai;;tu ;;;agresseras;;il/elle/on ;;;agressera;;nous ;;;agresserons;;vous ;;;agresserez;;ils/elles ;;;agresseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai agressé;;tu ;;;auras agressé;;il/elle/on ;;;aura agressé;;nous ;;;aurons agressé;;vous ;;;aurez agressé;;ils/elles ;;;auront agressé
+Subjonctif Présent;subjonctif;que ;j’;;;agresse;que ;tu ;;;agresses;qu’;il/elle/on ;;;agresse;que ;nous ;;;agressions;que ;vous ;;;agressiez;qu’;ils/elles ;;;agressent
+Subjonctif Passé;subjonctif;que ;j’;;;aie agressé;que ;tu ;;;aies agressé;qu’;il/elle/on ;;;ait agressé;que ;nous ;;;ayons agressé;que ;vous ;;;ayez agressé;qu’;ils/elles ;;;aient agressé
+Subjonctif Imparfait;subjonctif;que ;j’;;;agressasse;que ;tu ;;;agressasses;qu’;il/elle/on ;;;agressât;que ;nous ;;;agressassions;que ;vous ;;;agressassiez;qu’;ils/elles ;;;agressassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse agressé;que ;tu ;;;eusses agressé;qu’;il/elle/on ;;;eût agressé;que ;nous ;;;eussions agressé;que ;vous ;;;eussiez agressé;qu’;ils/elles ;;;eussent agressé
+Conditionnel;conditionnel;;j’;;;agresserais;;tu ;;;agresserais;;il/elle/on ;;;agresserait;;nous ;;;agresserions;;vous ;;;agresseriez;;ils/elles ;;;agresseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais agressé;;tu ;;;aurais agressé;;il/elle/on ;;;aurait agressé;;nous ;;;aurions agressé;;vous ;;;auriez agressé;;ils/elles ;;;auraient agressé
+Impératif Présent;impératif;;;;;;;;;;agresse;;;;;;;;;;agressons;;;;;agressez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;agresser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;agress;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

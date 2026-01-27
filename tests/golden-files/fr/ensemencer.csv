@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;ensemencer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir ensemencé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en ensemençant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant ensemencé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;ensemençant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;ensemencé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;ensemence;;tu ;;;ensemences;;il/elle/on ;;;ensemence;;nous ;;;ensemençons;;vous ;;;ensemencez;;ils/elles ;;;ensemencent
+Indicatif Passé Composé;indicatif;;j’;;;ai ensemencé;;tu ;;;as ensemencé;;il/elle/on ;;;a ensemencé;;nous ;;;avons ensemencé;;vous ;;;avez ensemencé;;ils/elles ;;;ont ensemencé
+Indicatif Imparfait;indicatif;;j’;;;ensemençais;;tu ;;;ensemençais;;il/elle/on ;;;ensemençait;;nous ;;;ensemencions;;vous ;;;ensemenciez;;ils/elles ;;;ensemençaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais ensemencé;;tu ;;;avais ensemencé;;il/elle/on ;;;avait ensemencé;;nous ;;;avions ensemencé;;vous ;;;aviez ensemencé;;ils/elles ;;;avaient ensemencé
+Indicatif Passé Simple;indicatif;;j’;;;ensemençai;;tu ;;;ensemenças;;il/elle/on ;;;ensemença;;nous ;;;ensemençâmes;;vous ;;;ensemençâtes;;ils/elles ;;;ensemencèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus ensemencé;;tu ;;;eus ensemencé;;il/elle/on ;;;eut ensemencé;;nous ;;;eûmes ensemencé;;vous ;;;eûtes ensemencé;;ils/elles ;;;eurent ensemencé
+Indicatif Futur Simple;indicatif;;j’;;;ensemencerai;;tu ;;;ensemenceras;;il/elle/on ;;;ensemencera;;nous ;;;ensemencerons;;vous ;;;ensemencerez;;ils/elles ;;;ensemenceront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai ensemencé;;tu ;;;auras ensemencé;;il/elle/on ;;;aura ensemencé;;nous ;;;aurons ensemencé;;vous ;;;aurez ensemencé;;ils/elles ;;;auront ensemencé
+Subjonctif Présent;subjonctif;que ;j’;;;ensemence;que ;tu ;;;ensemences;qu’;il/elle/on ;;;ensemence;que ;nous ;;;ensemencions;que ;vous ;;;ensemenciez;qu’;ils/elles ;;;ensemencent
+Subjonctif Passé;subjonctif;que ;j’;;;aie ensemencé;que ;tu ;;;aies ensemencé;qu’;il/elle/on ;;;ait ensemencé;que ;nous ;;;ayons ensemencé;que ;vous ;;;ayez ensemencé;qu’;ils/elles ;;;aient ensemencé
+Subjonctif Imparfait;subjonctif;que ;j’;;;ensemençasse;que ;tu ;;;ensemençasses;qu’;il/elle/on ;;;ensemençât;que ;nous ;;;ensemençassions;que ;vous ;;;ensemençassiez;qu’;ils/elles ;;;ensemençassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse ensemencé;que ;tu ;;;eusses ensemencé;qu’;il/elle/on ;;;eût ensemencé;que ;nous ;;;eussions ensemencé;que ;vous ;;;eussiez ensemencé;qu’;ils/elles ;;;eussent ensemencé
+Conditionnel;conditionnel;;j’;;;ensemencerais;;tu ;;;ensemencerais;;il/elle/on ;;;ensemencerait;;nous ;;;ensemencerions;;vous ;;;ensemenceriez;;ils/elles ;;;ensemenceraient
+Conditionnel Passé;conditionnel;;j’;;;aurais ensemencé;;tu ;;;aurais ensemencé;;il/elle/on ;;;aurait ensemencé;;nous ;;;aurions ensemencé;;vous ;;;auriez ensemencé;;ils/elles ;;;auraient ensemencé
+Impératif Présent;impératif;;;;;;;;;;ensemence;;;;;;;;;;ensemençons;;;;;ensemencez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;ensemencer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;ensemenc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;indicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;indicant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;indicat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;indico;;tu ;;;indiques;;ell //ella //vostè ;;;indica;;nosaltres ;;;indiquem;;vosaltres ;;;indiqueu;;ells //elles //vostès ;;;indiquen
+Indicatiu Imperfet;indicativo;;jo ;;;indicava;;tu ;;;indicaves;;ell //ella //vostè ;;;indicava;;nosaltres ;;;indicàvem;;vosaltres ;;;indicàveu;;ells //elles //vostès ;;;indicaven
+Indicatiu Futur;indicativo;;jo ;;;indicaré;;tu ;;;indicaràs;;ell //ella //vostè ;;;indicarà;;nosaltres ;;;indicarem;;vosaltres ;;;indicareu;;ells //elles //vostès ;;;indicaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;indiquí;;tu ;;;indicares;;ell //ella //vostè ;;;indicà;;nosaltres ;;;indicàrem;;vosaltres ;;;indicàreu;;ells //elles //vostès ;;;indicaren
+Condicional;condicional;;jo ;;;indicaria;;tu ;;;indicaries;;ell //ella //vostè ;;;indicaria;;nosaltres ;;;indicaríem;;vosaltres ;;;indicaríeu;;ells //elles //vostès ;;;indicarien
+Subjuntiu Present;subjuntiu;;jo ;;;indiqui;;tu ;;;indiquis;;ell //ella //vostè ;;;indiqui;;nosaltres ;;;indiquem;;vosaltres ;;;indiqueu;;ells //elles //vostès ;;;indiquin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;indiqués;;tu ;;;indiquessis;;ell //ella //vostè ;;;indiqués;;nosaltres ;;;indiquéssim;;vosaltres ;;;indiquéssiu;;ells //elles //vostès ;;;indiquessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;indica;;(vostè) ;;;indiqui;;(nosaltres) ;;;indiquem;;(vosaltres) ;;;indiqueu;;(vostès) ;;;indiquin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;indiquis;;(vostè) ;no ;;indiqui;;(nosaltres) ;no ;;indiquem;;(vosaltres) ;no ;;indiqueu;;(vostès) ;no ;;indiquin
+Indicatiu Perfet;indicatiu;;jo ;;;he indicat;;tu ;;;has indicat;;ell //ella //vostè ;;;ha indicat;;nosaltres ;;;hem indicat;;vosaltres ;;;heu indicat;;ells //elles //vostès ;;;han indicat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig indicat;;tu ;;;vas indicat;;ell //ella //vostè ;;;va indicat;;nosaltres ;;;vam indicat;;vosaltres ;;;vau indicat;;ells //elles //vostès ;;;van indicat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia indicat;;tu ;;;havies indicat;;ell //ella //vostè ;;;havia indicat;;nosaltres ;;;havíem indicat;;vosaltres ;;;havíeu indicat;;ells //elles //vostès ;;;havien indicat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí indicat;;tu ;;;hagueres indicat;;ell //ella //vostè ;;;hagué indicat;;nosaltres ;;;haguérem indicat;;vosaltres ;;;haguéreu indicat;;ells //elles //vostès ;;;hagueren indicat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver indicat;;tu ;;;vas haver indicat;;ell //ella //vostè ;;;va haver indicat;;nosaltres ;;;vam haver indicat;;vosaltres ;;;vau haver indicat;;ells //elles //vostès ;;;van haver indicat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré indicat;;tu ;;;hauràs indicat;;ell //ella //vostè ;;;haurà indicat;;nosaltres ;;;haurem indicat;;vosaltres ;;;haureu indicat;;ells //elles //vostès ;;;hauran indicat
+Condicional Perfet;condicional;;jo ;;;hauria indicat;;tu ;;;hauries indicat;;ell //ella //vostè ;;;hauria indicat;;nosaltres ;;;hauríem indicat;;vosaltres ;;;hauríeu indicat;;ells //elles //vostès ;;;haurien indicat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi indicat;;tu ;;;vagis indicat;;ell //ella //vostè ;;;vagi indicat;;nosaltres ;;;vàgim indicat;;vosaltres ;;;vàgiu indicat;;ells //elles //vostès ;;;vagin indicat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi indicat;;tu ;;;hagis indicat;;ell //ella //vostè ;;;hagi indicat;;nosaltres ;;;hàgim indicat;;vosaltres ;;;hàgiu indicat;;ells //elles //vostès ;;;hagin indicat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes indicat;;tu ;;;haguessis indicat;;ell //ella //vostè ;;;hagués indicat;;nosaltres ;;;haguéssim indicat;;vosaltres ;;;haguéssiu indicat;;ells //elles //vostès ;;;haguessin indicat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver indicat;;tu ;;;vagis haver indicat;;ell //ella //vostè ;;;vagi haver indicat;;nosaltres ;;;vàgim haver indicat;;vosaltres ;;;vàgiu haver indicat;;ells //elles //vostès ;;;vagin haver indicat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;indicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;indic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;anarquizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;anarquizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;anarquizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;anarquizo;;tú ;;;anarquizas;;él //ella //usted ;;;anarquiza;;nosotros //nosotras ;;;anarquizamos;;vosotros //vosotras ;;;anarquizáis;;ellos //ellas //ustedes ;;;anarquizan;;vos ;;;anarquizás
+Indicativo Imperfecto;indicativo;;yo ;;;anarquizaba;;tú //vos ;;;anarquizabas;;él //ella //usted ;;;anarquizaba;;nosotros //nosotras ;;;anarquizábamos;;vosotros //vosotras ;;;anarquizabais;;ellos //ellas //ustedes ;;;anarquizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;anarquicé;;tú //vos ;;;anarquizaste;;él //ella //usted ;;;anarquizó;;nosotros //nosotras ;;;anarquizamos;;vosotros //vosotras ;;;anarquizasteis;;ellos //ellas //ustedes ;;;anarquizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;anarquizaré;;tú //vos ;;;anarquizarás;;él //ella //usted ;;;anarquizará;;nosotros //nosotras ;;;anarquizaremos;;vosotros //vosotras ;;;anarquizaréis;;ellos //ellas //ustedes ;;;anarquizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he anarquizado;;tú //vos ;;;has anarquizado;;él //ella //usted ;;;ha anarquizado;;nosotros //nosotras ;;;hemos anarquizado;;vosotros //vosotras ;;;habéis anarquizado;;ellos //ellas //ustedes ;;;han anarquizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había anarquizado;;tú //vos ;;;habías anarquizado;;él //ella //usted ;;;había anarquizado;;nosotros //nosotras ;;;habíamos anarquizado;;vosotros //vosotras ;;;habíais anarquizado;;ellos //ellas //ustedes ;;;habían anarquizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube anarquizado;;tú //vos ;;;hubiste anarquizado;;él //ella //usted ;;;hubo anarquizado;;nosotros //nosotras ;;;hubimos anarquizado;;vosotros //vosotras ;;;hubisteis anarquizado;;ellos //ellas //ustedes ;;;hubieron anarquizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré anarquizado;;tú //vos ;;;habrás anarquizado;;él //ella //usted ;;;habrá anarquizado;;nosotros //nosotras ;;;habremos anarquizado;;vosotros //vosotras ;;;habréis anarquizado;;ellos //ellas //ustedes ;;;habrán anarquizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;anarquice;;tú //vos ;;;anarquices;;él //ella //usted ;;;anarquice;;nosotros //nosotras ;;;anarquicemos;;vosotros //vosotras ;;;anarquicéis;;ellos //ellas //ustedes ;;;anarquicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;anarquizara / anarquizase;;tú //vos ;;;anarquizaras / anarquizases;;él //ella //usted ;;;anarquizara / anarquizase;;nosotros //nosotras ;;;anarquizáramos / anarquizásemos;;vosotros //vosotras ;;;anarquizarais / anarquizaseis;;ellos //ellas //ustedes ;;;anarquizaran / anarquizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;anarquizare;;tú //vos ;;;anarquizares;;él //ella //usted ;;;anarquizare;;nosotros //nosotras ;;;anarquizáremos;;vosotros //vosotras ;;;anarquizareis;;ellos //ellas //ustedes ;;;anarquizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya anarquizado;;tú //vos ;;;hayas anarquizado;;él //ella //usted ;;;haya anarquizado;;nosotros //nosotras ;;;hayamos anarquizado;;vosotros //vosotras ;;;hayáis anarquizado;;ellos //ellas //ustedes ;;;hayan anarquizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera anarquizado / hubiese anarquizado;;tú //vos ;;;hubieras anarquizado / hubieses anarquizado;;él //ella //usted ;;;hubiera anarquizado / hubiese anarquizado;;nosotros //nosotras ;;;hubiéramos anarquizado / hubiésemos anarquizado;;vosotros //vosotras ;;;hubierais anarquizado / hubieseis anarquizado;;ellos //ellas //ustedes ;;;hubieran anarquizado / hubiesen anarquizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere anarquizado;;tú //vos ;;;hubieres anarquizado;;él //ella //usted ;;;hubiere anarquizado;;nosotros //nosotras ;;;hubiéremos anarquizado;;vosotros //vosotras ;;;hubiereis anarquizado;;ellos //ellas //ustedes ;;;hubieren anarquizado;;;;;
+Condicional;condicional;;yo ;;;anarquizaría;;tú //vos ;;;anarquizarías;;él //ella //usted ;;;anarquizaría;;nosotros //nosotras ;;;anarquizaríamos;;vosotros //vosotras ;;;anarquizaríais;;ellos //ellas //ustedes ;;;anarquizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría anarquizado;;tú //vos ;;;habrías anarquizado;;él //ella //usted ;;;habría anarquizado;;nosotros //nosotras ;;;habríamos anarquizado;;vosotros //vosotras ;;;habríais anarquizado;;ellos //ellas //ustedes ;;;habrían anarquizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anarquiza;;(usted) ;;;anarquice;;(nosotros) //(nosotras) ;;;anarquicemos;;(vosotros) //(vosotras) ;;;anarquizad;;(ustedes) ;;;anarquicen;;(vos) ;;;anarquizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;anarquices;;(usted) ;no ;;anarquice;;(nosotros) //(nosotras) ;no ;;anarquicemos;;(vosotros) //(vosotras) ;no ;;anarquicéis;;(ustedes) ;no ;;anarquicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;anarquizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;anarquiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;salvar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;salvant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;salvat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;salvo;;tu ;;;salves;;ell //ella //vostè ;;;salva;;nosaltres ;;;salvem;;vosaltres ;;;salveu;;ells //elles //vostès ;;;salven
+Indicatiu Imperfet;indicativo;;jo ;;;salvava;;tu ;;;salvaves;;ell //ella //vostè ;;;salvava;;nosaltres ;;;salvàvem;;vosaltres ;;;salvàveu;;ells //elles //vostès ;;;salvaven
+Indicatiu Futur;indicativo;;jo ;;;salvaré;;tu ;;;salvaràs;;ell //ella //vostè ;;;salvarà;;nosaltres ;;;salvarem;;vosaltres ;;;salvareu;;ells //elles //vostès ;;;salvaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;salví;;tu ;;;salvares;;ell //ella //vostè ;;;salvà;;nosaltres ;;;salvàrem;;vosaltres ;;;salvàreu;;ells //elles //vostès ;;;salvaren
+Condicional;condicional;;jo ;;;salvaria;;tu ;;;salvaries;;ell //ella //vostè ;;;salvaria;;nosaltres ;;;salvaríem;;vosaltres ;;;salvaríeu;;ells //elles //vostès ;;;salvarien
+Subjuntiu Present;subjuntiu;;jo ;;;salvi;;tu ;;;salvis;;ell //ella //vostè ;;;salvi;;nosaltres ;;;salvem;;vosaltres ;;;salveu;;ells //elles //vostès ;;;salvin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;salvés;;tu ;;;salvessis;;ell //ella //vostè ;;;salvés;;nosaltres ;;;salvéssim;;vosaltres ;;;salvéssiu;;ells //elles //vostès ;;;salvessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;salva;;(vostè) ;;;salvi;;(nosaltres) ;;;salvem;;(vosaltres) ;;;salveu;;(vostès) ;;;salvin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;salvis;;(vostè) ;no ;;salvi;;(nosaltres) ;no ;;salvem;;(vosaltres) ;no ;;salveu;;(vostès) ;no ;;salvin
+Indicatiu Perfet;indicatiu;;jo ;;;he salvat;;tu ;;;has salvat;;ell //ella //vostè ;;;ha salvat;;nosaltres ;;;hem salvat;;vosaltres ;;;heu salvat;;ells //elles //vostès ;;;han salvat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig salvat;;tu ;;;vas salvat;;ell //ella //vostè ;;;va salvat;;nosaltres ;;;vam salvat;;vosaltres ;;;vau salvat;;ells //elles //vostès ;;;van salvat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia salvat;;tu ;;;havies salvat;;ell //ella //vostè ;;;havia salvat;;nosaltres ;;;havíem salvat;;vosaltres ;;;havíeu salvat;;ells //elles //vostès ;;;havien salvat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí salvat;;tu ;;;hagueres salvat;;ell //ella //vostè ;;;hagué salvat;;nosaltres ;;;haguérem salvat;;vosaltres ;;;haguéreu salvat;;ells //elles //vostès ;;;hagueren salvat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver salvat;;tu ;;;vas haver salvat;;ell //ella //vostè ;;;va haver salvat;;nosaltres ;;;vam haver salvat;;vosaltres ;;;vau haver salvat;;ells //elles //vostès ;;;van haver salvat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré salvat;;tu ;;;hauràs salvat;;ell //ella //vostè ;;;haurà salvat;;nosaltres ;;;haurem salvat;;vosaltres ;;;haureu salvat;;ells //elles //vostès ;;;hauran salvat
+Condicional Perfet;condicional;;jo ;;;hauria salvat;;tu ;;;hauries salvat;;ell //ella //vostè ;;;hauria salvat;;nosaltres ;;;hauríem salvat;;vosaltres ;;;hauríeu salvat;;ells //elles //vostès ;;;haurien salvat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi salvat;;tu ;;;vagis salvat;;ell //ella //vostè ;;;vagi salvat;;nosaltres ;;;vàgim salvat;;vosaltres ;;;vàgiu salvat;;ells //elles //vostès ;;;vagin salvat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi salvat;;tu ;;;hagis salvat;;ell //ella //vostè ;;;hagi salvat;;nosaltres ;;;hàgim salvat;;vosaltres ;;;hàgiu salvat;;ells //elles //vostès ;;;hagin salvat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes salvat;;tu ;;;haguessis salvat;;ell //ella //vostè ;;;hagués salvat;;nosaltres ;;;haguéssim salvat;;vosaltres ;;;haguéssiu salvat;;ells //elles //vostès ;;;haguessin salvat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver salvat;;tu ;;;vagis haver salvat;;ell //ella //vostè ;;;vagi haver salvat;;nosaltres ;;;vàgim haver salvat;;vosaltres ;;;vàgiu haver salvat;;ells //elles //vostès ;;;vagin haver salvat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;salvar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;salv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

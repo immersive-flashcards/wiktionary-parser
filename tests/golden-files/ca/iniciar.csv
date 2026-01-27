@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;iniciar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;iniciant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;iniciat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;inicio;;tu ;;;inicies;;ell //ella //vostè ;;;inicia;;nosaltres ;;;iniciem;;vosaltres ;;;inicieu;;ells //elles //vostès ;;;inicien
+Indicatiu Imperfet;indicativo;;jo ;;;iniciava;;tu ;;;iniciaves;;ell //ella //vostè ;;;iniciava;;nosaltres ;;;iniciàvem;;vosaltres ;;;iniciàveu;;ells //elles //vostès ;;;iniciaven
+Indicatiu Futur;indicativo;;jo ;;;iniciaré;;tu ;;;iniciaràs;;ell //ella //vostè ;;;iniciarà;;nosaltres ;;;iniciarem;;vosaltres ;;;iniciareu;;ells //elles //vostès ;;;iniciaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;inicií;;tu ;;;iniciares;;ell //ella //vostè ;;;inicià;;nosaltres ;;;iniciàrem;;vosaltres ;;;iniciàreu;;ells //elles //vostès ;;;iniciaren
+Condicional;condicional;;jo ;;;iniciaria;;tu ;;;iniciaries;;ell //ella //vostè ;;;iniciaria;;nosaltres ;;;iniciaríem;;vosaltres ;;;iniciaríeu;;ells //elles //vostès ;;;iniciarien
+Subjuntiu Present;subjuntiu;;jo ;;;iniciï;;tu ;;;iniciïs;;ell //ella //vostè ;;;iniciï;;nosaltres ;;;iniciem;;vosaltres ;;;inicieu;;ells //elles //vostès ;;;iniciïn
+Subjuntiu Imperfet;subjuntiu;;jo ;;;iniciés;;tu ;;;iniciessis;;ell //ella //vostè ;;;iniciés;;nosaltres ;;;iniciéssim;;vosaltres ;;;iniciéssiu;;ells //elles //vostès ;;;iniciessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;inicia;;(vostè) ;;;iniciï;;(nosaltres) ;;;iniciem;;(vosaltres) ;;;inicieu;;(vostès) ;;;iniciïn
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;iniciïs;;(vostè) ;no ;;iniciï;;(nosaltres) ;no ;;iniciem;;(vosaltres) ;no ;;inicieu;;(vostès) ;no ;;iniciïn
+Indicatiu Perfet;indicatiu;;jo ;;;he iniciat;;tu ;;;has iniciat;;ell //ella //vostè ;;;ha iniciat;;nosaltres ;;;hem iniciat;;vosaltres ;;;heu iniciat;;ells //elles //vostès ;;;han iniciat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig iniciat;;tu ;;;vas iniciat;;ell //ella //vostè ;;;va iniciat;;nosaltres ;;;vam iniciat;;vosaltres ;;;vau iniciat;;ells //elles //vostès ;;;van iniciat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia iniciat;;tu ;;;havies iniciat;;ell //ella //vostè ;;;havia iniciat;;nosaltres ;;;havíem iniciat;;vosaltres ;;;havíeu iniciat;;ells //elles //vostès ;;;havien iniciat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí iniciat;;tu ;;;hagueres iniciat;;ell //ella //vostè ;;;hagué iniciat;;nosaltres ;;;haguérem iniciat;;vosaltres ;;;haguéreu iniciat;;ells //elles //vostès ;;;hagueren iniciat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver iniciat;;tu ;;;vas haver iniciat;;ell //ella //vostè ;;;va haver iniciat;;nosaltres ;;;vam haver iniciat;;vosaltres ;;;vau haver iniciat;;ells //elles //vostès ;;;van haver iniciat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré iniciat;;tu ;;;hauràs iniciat;;ell //ella //vostè ;;;haurà iniciat;;nosaltres ;;;haurem iniciat;;vosaltres ;;;haureu iniciat;;ells //elles //vostès ;;;hauran iniciat
+Condicional Perfet;condicional;;jo ;;;hauria iniciat;;tu ;;;hauries iniciat;;ell //ella //vostè ;;;hauria iniciat;;nosaltres ;;;hauríem iniciat;;vosaltres ;;;hauríeu iniciat;;ells //elles //vostès ;;;haurien iniciat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi iniciat;;tu ;;;vagis iniciat;;ell //ella //vostè ;;;vagi iniciat;;nosaltres ;;;vàgim iniciat;;vosaltres ;;;vàgiu iniciat;;ells //elles //vostès ;;;vagin iniciat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi iniciat;;tu ;;;hagis iniciat;;ell //ella //vostè ;;;hagi iniciat;;nosaltres ;;;hàgim iniciat;;vosaltres ;;;hàgiu iniciat;;ells //elles //vostès ;;;hagin iniciat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes iniciat;;tu ;;;haguessis iniciat;;ell //ella //vostè ;;;hagués iniciat;;nosaltres ;;;haguéssim iniciat;;vosaltres ;;;haguéssiu iniciat;;ells //elles //vostès ;;;haguessin iniciat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver iniciat;;tu ;;;vagis haver iniciat;;ell //ella //vostè ;;;vagi haver iniciat;;nosaltres ;;;vàgim haver iniciat;;vosaltres ;;;vàgiu haver iniciat;;ells //elles //vostès ;;;vagin haver iniciat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;iniciar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;inici;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

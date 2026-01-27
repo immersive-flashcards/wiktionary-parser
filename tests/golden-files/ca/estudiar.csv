@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;estudiar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;estudiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;estudiat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;estudio;;tu ;;;estudies;;ell //ella //vostè ;;;estudia;;nosaltres ;;;estudiem;;vosaltres ;;;estudieu;;ells //elles //vostès ;;;estudien
+Indicatiu Imperfet;indicativo;;jo ;;;estudiava;;tu ;;;estudiaves;;ell //ella //vostè ;;;estudiava;;nosaltres ;;;estudiàvem;;vosaltres ;;;estudiàveu;;ells //elles //vostès ;;;estudiaven
+Indicatiu Futur;indicativo;;jo ;;;estudiaré;;tu ;;;estudiaràs;;ell //ella //vostè ;;;estudiarà;;nosaltres ;;;estudiarem;;vosaltres ;;;estudiareu;;ells //elles //vostès ;;;estudiaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;estudií;;tu ;;;estudiares;;ell //ella //vostè ;;;estudià;;nosaltres ;;;estudiàrem;;vosaltres ;;;estudiàreu;;ells //elles //vostès ;;;estudiaren
+Condicional;condicional;;jo ;;;estudiaria;;tu ;;;estudiaries;;ell //ella //vostè ;;;estudiaria;;nosaltres ;;;estudiaríem;;vosaltres ;;;estudiaríeu;;ells //elles //vostès ;;;estudiarien
+Subjuntiu Present;subjuntiu;;jo ;;;estudiï;;tu ;;;estudiïs;;ell //ella //vostè ;;;estudiï;;nosaltres ;;;estudiem;;vosaltres ;;;estudieu;;ells //elles //vostès ;;;estudiïn
+Subjuntiu Imperfet;subjuntiu;;jo ;;;estudiés;;tu ;;;estudiessis;;ell //ella //vostè ;;;estudiés;;nosaltres ;;;estudiéssim;;vosaltres ;;;estudiéssiu;;ells //elles //vostès ;;;estudiessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;estudia;;(vostè) ;;;estudiï;;(nosaltres) ;;;estudiem;;(vosaltres) ;;;estudieu;;(vostès) ;;;estudiïn
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;estudiïs;;(vostè) ;no ;;estudiï;;(nosaltres) ;no ;;estudiem;;(vosaltres) ;no ;;estudieu;;(vostès) ;no ;;estudiïn
+Indicatiu Perfet;indicatiu;;jo ;;;he estudiat;;tu ;;;has estudiat;;ell //ella //vostè ;;;ha estudiat;;nosaltres ;;;hem estudiat;;vosaltres ;;;heu estudiat;;ells //elles //vostès ;;;han estudiat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig estudiat;;tu ;;;vas estudiat;;ell //ella //vostè ;;;va estudiat;;nosaltres ;;;vam estudiat;;vosaltres ;;;vau estudiat;;ells //elles //vostès ;;;van estudiat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia estudiat;;tu ;;;havies estudiat;;ell //ella //vostè ;;;havia estudiat;;nosaltres ;;;havíem estudiat;;vosaltres ;;;havíeu estudiat;;ells //elles //vostès ;;;havien estudiat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí estudiat;;tu ;;;hagueres estudiat;;ell //ella //vostè ;;;hagué estudiat;;nosaltres ;;;haguérem estudiat;;vosaltres ;;;haguéreu estudiat;;ells //elles //vostès ;;;hagueren estudiat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver estudiat;;tu ;;;vas haver estudiat;;ell //ella //vostè ;;;va haver estudiat;;nosaltres ;;;vam haver estudiat;;vosaltres ;;;vau haver estudiat;;ells //elles //vostès ;;;van haver estudiat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré estudiat;;tu ;;;hauràs estudiat;;ell //ella //vostè ;;;haurà estudiat;;nosaltres ;;;haurem estudiat;;vosaltres ;;;haureu estudiat;;ells //elles //vostès ;;;hauran estudiat
+Condicional Perfet;condicional;;jo ;;;hauria estudiat;;tu ;;;hauries estudiat;;ell //ella //vostè ;;;hauria estudiat;;nosaltres ;;;hauríem estudiat;;vosaltres ;;;hauríeu estudiat;;ells //elles //vostès ;;;haurien estudiat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi estudiat;;tu ;;;vagis estudiat;;ell //ella //vostè ;;;vagi estudiat;;nosaltres ;;;vàgim estudiat;;vosaltres ;;;vàgiu estudiat;;ells //elles //vostès ;;;vagin estudiat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi estudiat;;tu ;;;hagis estudiat;;ell //ella //vostè ;;;hagi estudiat;;nosaltres ;;;hàgim estudiat;;vosaltres ;;;hàgiu estudiat;;ells //elles //vostès ;;;hagin estudiat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes estudiat;;tu ;;;haguessis estudiat;;ell //ella //vostè ;;;hagués estudiat;;nosaltres ;;;haguéssim estudiat;;vosaltres ;;;haguéssiu estudiat;;ells //elles //vostès ;;;haguessin estudiat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver estudiat;;tu ;;;vagis haver estudiat;;ell //ella //vostè ;;;vagi haver estudiat;;nosaltres ;;;vàgim haver estudiat;;vosaltres ;;;vàgiu haver estudiat;;ells //elles //vostès ;;;vagin haver estudiat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;estudiar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;estudi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;pronunciar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;pronunciant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;pronunciat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;pronuncio;;tu ;;;pronuncies;;ell //ella //vostè ;;;pronuncia;;nosaltres ;;;pronunciem;;vosaltres ;;;pronuncieu;;ells //elles //vostès ;;;pronuncien
+Indicatiu Imperfet;indicativo;;jo ;;;pronunciava;;tu ;;;pronunciaves;;ell //ella //vostè ;;;pronunciava;;nosaltres ;;;pronunciàvem;;vosaltres ;;;pronunciàveu;;ells //elles //vostès ;;;pronunciaven
+Indicatiu Futur;indicativo;;jo ;;;pronunciaré;;tu ;;;pronunciaràs;;ell //ella //vostè ;;;pronunciarà;;nosaltres ;;;pronunciarem;;vosaltres ;;;pronunciareu;;ells //elles //vostès ;;;pronunciaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;pronuncií;;tu ;;;pronunciares;;ell //ella //vostè ;;;pronuncià;;nosaltres ;;;pronunciàrem;;vosaltres ;;;pronunciàreu;;ells //elles //vostès ;;;pronunciaren
+Condicional;condicional;;jo ;;;pronunciaria;;tu ;;;pronunciaries;;ell //ella //vostè ;;;pronunciaria;;nosaltres ;;;pronunciaríem;;vosaltres ;;;pronunciaríeu;;ells //elles //vostès ;;;pronunciarien
+Subjuntiu Present;subjuntiu;;jo ;;;pronunciï;;tu ;;;pronunciïs;;ell //ella //vostè ;;;pronunciï;;nosaltres ;;;pronunciem;;vosaltres ;;;pronuncieu;;ells //elles //vostès ;;;pronunciïn
+Subjuntiu Imperfet;subjuntiu;;jo ;;;pronunciés;;tu ;;;pronunciessis;;ell //ella //vostè ;;;pronunciés;;nosaltres ;;;pronunciéssim;;vosaltres ;;;pronunciéssiu;;ells //elles //vostès ;;;pronunciessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;pronuncia;;(vostè) ;;;pronunciï;;(nosaltres) ;;;pronunciem;;(vosaltres) ;;;pronuncieu;;(vostès) ;;;pronunciïn
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;pronunciïs;;(vostè) ;no ;;pronunciï;;(nosaltres) ;no ;;pronunciem;;(vosaltres) ;no ;;pronuncieu;;(vostès) ;no ;;pronunciïn
+Indicatiu Perfet;indicatiu;;jo ;;;he pronunciat;;tu ;;;has pronunciat;;ell //ella //vostè ;;;ha pronunciat;;nosaltres ;;;hem pronunciat;;vosaltres ;;;heu pronunciat;;ells //elles //vostès ;;;han pronunciat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig pronunciat;;tu ;;;vas pronunciat;;ell //ella //vostè ;;;va pronunciat;;nosaltres ;;;vam pronunciat;;vosaltres ;;;vau pronunciat;;ells //elles //vostès ;;;van pronunciat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia pronunciat;;tu ;;;havies pronunciat;;ell //ella //vostè ;;;havia pronunciat;;nosaltres ;;;havíem pronunciat;;vosaltres ;;;havíeu pronunciat;;ells //elles //vostès ;;;havien pronunciat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí pronunciat;;tu ;;;hagueres pronunciat;;ell //ella //vostè ;;;hagué pronunciat;;nosaltres ;;;haguérem pronunciat;;vosaltres ;;;haguéreu pronunciat;;ells //elles //vostès ;;;hagueren pronunciat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver pronunciat;;tu ;;;vas haver pronunciat;;ell //ella //vostè ;;;va haver pronunciat;;nosaltres ;;;vam haver pronunciat;;vosaltres ;;;vau haver pronunciat;;ells //elles //vostès ;;;van haver pronunciat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré pronunciat;;tu ;;;hauràs pronunciat;;ell //ella //vostè ;;;haurà pronunciat;;nosaltres ;;;haurem pronunciat;;vosaltres ;;;haureu pronunciat;;ells //elles //vostès ;;;hauran pronunciat
+Condicional Perfet;condicional;;jo ;;;hauria pronunciat;;tu ;;;hauries pronunciat;;ell //ella //vostè ;;;hauria pronunciat;;nosaltres ;;;hauríem pronunciat;;vosaltres ;;;hauríeu pronunciat;;ells //elles //vostès ;;;haurien pronunciat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi pronunciat;;tu ;;;vagis pronunciat;;ell //ella //vostè ;;;vagi pronunciat;;nosaltres ;;;vàgim pronunciat;;vosaltres ;;;vàgiu pronunciat;;ells //elles //vostès ;;;vagin pronunciat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi pronunciat;;tu ;;;hagis pronunciat;;ell //ella //vostè ;;;hagi pronunciat;;nosaltres ;;;hàgim pronunciat;;vosaltres ;;;hàgiu pronunciat;;ells //elles //vostès ;;;hagin pronunciat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes pronunciat;;tu ;;;haguessis pronunciat;;ell //ella //vostè ;;;hagués pronunciat;;nosaltres ;;;haguéssim pronunciat;;vosaltres ;;;haguéssiu pronunciat;;ells //elles //vostès ;;;haguessin pronunciat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver pronunciat;;tu ;;;vagis haver pronunciat;;ell //ella //vostè ;;;vagi haver pronunciat;;nosaltres ;;;vàgim haver pronunciat;;vosaltres ;;;vàgiu haver pronunciat;;ells //elles //vostès ;;;vagin haver pronunciat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;pronunciar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;pronunci;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

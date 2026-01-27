@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;rêver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir rêvé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en rêvant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant rêvé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;rêvant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;rêvé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;rêve;;tu ;;;rêves;;il/elle/on ;;;rêve;;nous ;;;rêvons;;vous ;;;rêvez;;ils/elles ;;;rêvent
+Indicatif Passé Composé;indicatif;;j’;;;ai rêvé;;tu ;;;as rêvé;;il/elle/on ;;;a rêvé;;nous ;;;avons rêvé;;vous ;;;avez rêvé;;ils/elles ;;;ont rêvé
+Indicatif Imparfait;indicatif;;je ;;;rêvais;;tu ;;;rêvais;;il/elle/on ;;;rêvait;;nous ;;;rêvions;;vous ;;;rêviez;;ils/elles ;;;rêvaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais rêvé;;tu ;;;avais rêvé;;il/elle/on ;;;avait rêvé;;nous ;;;avions rêvé;;vous ;;;aviez rêvé;;ils/elles ;;;avaient rêvé
+Indicatif Passé Simple;indicatif;;je ;;;rêvai;;tu ;;;rêvas;;il/elle/on ;;;rêva;;nous ;;;rêvâmes;;vous ;;;rêvâtes;;ils/elles ;;;rêvèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus rêvé;;tu ;;;eus rêvé;;il/elle/on ;;;eut rêvé;;nous ;;;eûmes rêvé;;vous ;;;eûtes rêvé;;ils/elles ;;;eurent rêvé
+Indicatif Futur Simple;indicatif;;je ;;;rêverai;;tu ;;;rêveras;;il/elle/on ;;;rêvera;;nous ;;;rêverons;;vous ;;;rêverez;;ils/elles ;;;rêveront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai rêvé;;tu ;;;auras rêvé;;il/elle/on ;;;aura rêvé;;nous ;;;aurons rêvé;;vous ;;;aurez rêvé;;ils/elles ;;;auront rêvé
+Subjonctif Présent;subjonctif;que ;je ;;;rêve;que ;tu ;;;rêves;qu’;il/elle/on ;;;rêve;que ;nous ;;;rêvions;que ;vous ;;;rêviez;qu’;ils/elles ;;;rêvent
+Subjonctif Passé;subjonctif;que ;j’;;;aie rêvé;que ;tu ;;;aies rêvé;qu’;il/elle/on ;;;ait rêvé;que ;nous ;;;ayons rêvé;que ;vous ;;;ayez rêvé;qu’;ils/elles ;;;aient rêvé
+Subjonctif Imparfait;subjonctif;que ;je ;;;rêvasse;que ;tu ;;;rêvasses;qu’;il/elle/on ;;;rêvât;que ;nous ;;;rêvassions;que ;vous ;;;rêvassiez;qu’;ils/elles ;;;rêvassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse rêvé;que ;tu ;;;eusses rêvé;qu’;il/elle/on ;;;eût rêvé;que ;nous ;;;eussions rêvé;que ;vous ;;;eussiez rêvé;qu’;ils/elles ;;;eussent rêvé
+Conditionnel;conditionnel;;je ;;;rêverais;;tu ;;;rêverais;;il/elle/on ;;;rêverait;;nous ;;;rêverions;;vous ;;;rêveriez;;ils/elles ;;;rêveraient
+Conditionnel Passé;conditionnel;;j’;;;aurais rêvé;;tu ;;;aurais rêvé;;il/elle/on ;;;aurait rêvé;;nous ;;;aurions rêvé;;vous ;;;auriez rêvé;;ils/elles ;;;auraient rêvé
+Impératif Présent;impératif;;;;;;;;;;rêve;;;;;;;;;;rêvons;;;;;rêvez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;rêver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;rêv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

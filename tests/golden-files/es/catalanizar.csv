@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;catalanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;catalanizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;catalanizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;catalanizo;;tú ;;;catalanizas;;él //ella //usted ;;;catalaniza;;nosotros //nosotras ;;;catalanizamos;;vosotros //vosotras ;;;catalanizáis;;ellos //ellas //ustedes ;;;catalanizan;;vos ;;;catalanizás
+Indicativo Imperfecto;indicativo;;yo ;;;catalanizaba;;tú //vos ;;;catalanizabas;;él //ella //usted ;;;catalanizaba;;nosotros //nosotras ;;;catalanizábamos;;vosotros //vosotras ;;;catalanizabais;;ellos //ellas //ustedes ;;;catalanizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;catalanicé;;tú //vos ;;;catalanizaste;;él //ella //usted ;;;catalanizó;;nosotros //nosotras ;;;catalanizamos;;vosotros //vosotras ;;;catalanizasteis;;ellos //ellas //ustedes ;;;catalanizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;catalanizaré;;tú //vos ;;;catalanizarás;;él //ella //usted ;;;catalanizará;;nosotros //nosotras ;;;catalanizaremos;;vosotros //vosotras ;;;catalanizaréis;;ellos //ellas //ustedes ;;;catalanizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he catalanizado;;tú //vos ;;;has catalanizado;;él //ella //usted ;;;ha catalanizado;;nosotros //nosotras ;;;hemos catalanizado;;vosotros //vosotras ;;;habéis catalanizado;;ellos //ellas //ustedes ;;;han catalanizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había catalanizado;;tú //vos ;;;habías catalanizado;;él //ella //usted ;;;había catalanizado;;nosotros //nosotras ;;;habíamos catalanizado;;vosotros //vosotras ;;;habíais catalanizado;;ellos //ellas //ustedes ;;;habían catalanizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube catalanizado;;tú //vos ;;;hubiste catalanizado;;él //ella //usted ;;;hubo catalanizado;;nosotros //nosotras ;;;hubimos catalanizado;;vosotros //vosotras ;;;hubisteis catalanizado;;ellos //ellas //ustedes ;;;hubieron catalanizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré catalanizado;;tú //vos ;;;habrás catalanizado;;él //ella //usted ;;;habrá catalanizado;;nosotros //nosotras ;;;habremos catalanizado;;vosotros //vosotras ;;;habréis catalanizado;;ellos //ellas //ustedes ;;;habrán catalanizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;catalanice;;tú //vos ;;;catalanices;;él //ella //usted ;;;catalanice;;nosotros //nosotras ;;;catalanicemos;;vosotros //vosotras ;;;catalanicéis;;ellos //ellas //ustedes ;;;catalanicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;catalanizara / catalanizase;;tú //vos ;;;catalanizaras / catalanizases;;él //ella //usted ;;;catalanizara / catalanizase;;nosotros //nosotras ;;;catalanizáramos / catalanizásemos;;vosotros //vosotras ;;;catalanizarais / catalanizaseis;;ellos //ellas //ustedes ;;;catalanizaran / catalanizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;catalanizare;;tú //vos ;;;catalanizares;;él //ella //usted ;;;catalanizare;;nosotros //nosotras ;;;catalanizáremos;;vosotros //vosotras ;;;catalanizareis;;ellos //ellas //ustedes ;;;catalanizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya catalanizado;;tú //vos ;;;hayas catalanizado;;él //ella //usted ;;;haya catalanizado;;nosotros //nosotras ;;;hayamos catalanizado;;vosotros //vosotras ;;;hayáis catalanizado;;ellos //ellas //ustedes ;;;hayan catalanizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera catalanizado / hubiese catalanizado;;tú //vos ;;;hubieras catalanizado / hubieses catalanizado;;él //ella //usted ;;;hubiera catalanizado / hubiese catalanizado;;nosotros //nosotras ;;;hubiéramos catalanizado / hubiésemos catalanizado;;vosotros //vosotras ;;;hubierais catalanizado / hubieseis catalanizado;;ellos //ellas //ustedes ;;;hubieran catalanizado / hubiesen catalanizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere catalanizado;;tú //vos ;;;hubieres catalanizado;;él //ella //usted ;;;hubiere catalanizado;;nosotros //nosotras ;;;hubiéremos catalanizado;;vosotros //vosotras ;;;hubiereis catalanizado;;ellos //ellas //ustedes ;;;hubieren catalanizado;;;;;
+Condicional;condicional;;yo ;;;catalanizaría;;tú //vos ;;;catalanizarías;;él //ella //usted ;;;catalanizaría;;nosotros //nosotras ;;;catalanizaríamos;;vosotros //vosotras ;;;catalanizaríais;;ellos //ellas //ustedes ;;;catalanizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría catalanizado;;tú //vos ;;;habrías catalanizado;;él //ella //usted ;;;habría catalanizado;;nosotros //nosotras ;;;habríamos catalanizado;;vosotros //vosotras ;;;habríais catalanizado;;ellos //ellas //ustedes ;;;habrían catalanizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;catalaniza;;(usted) ;;;catalanice;;(nosotros) //(nosotras) ;;;catalanicemos;;(vosotros) //(vosotras) ;;;catalanizad;;(ustedes) ;;;catalanicen;;(vos) ;;;catalanizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;catalanices;;(usted) ;no ;;catalanice;;(nosotros) //(nosotras) ;no ;;catalanicemos;;(vosotros) //(vosotras) ;no ;;catalanicéis;;(ustedes) ;no ;;catalanicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;catalanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;catalaniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

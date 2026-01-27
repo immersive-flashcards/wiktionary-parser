@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;ester;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir esté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en estant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant esté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;estant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;esté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;este;;tu ;;;estes;;il/elle/on ;;;este;;nous ;;;estons;;vous ;;;estez;;ils/elles ;;;estent
+Indicatif Passé Composé;indicatif;;j’;;;ai esté;;tu ;;;as esté;;il/elle/on ;;;a esté;;nous ;;;avons esté;;vous ;;;avez esté;;ils/elles ;;;ont esté
+Indicatif Imparfait;indicatif;;j’;;;estais;;tu ;;;estais;;il/elle/on ;;;estait;;nous ;;;estions;;vous ;;;estiez;;ils/elles ;;;estaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais esté;;tu ;;;avais esté;;il/elle/on ;;;avait esté;;nous ;;;avions esté;;vous ;;;aviez esté;;ils/elles ;;;avaient esté
+Indicatif Passé Simple;indicatif;;j’;;;estai;;tu ;;;estas;;il/elle/on ;;;esta;;nous ;;;estâmes;;vous ;;;estâtes;;ils/elles ;;;estèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus esté;;tu ;;;eus esté;;il/elle/on ;;;eut esté;;nous ;;;eûmes esté;;vous ;;;eûtes esté;;ils/elles ;;;eurent esté
+Indicatif Futur Simple;indicatif;;j’;;;esterai;;tu ;;;esteras;;il/elle/on ;;;estera;;nous ;;;esterons;;vous ;;;esterez;;ils/elles ;;;esteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai esté;;tu ;;;auras esté;;il/elle/on ;;;aura esté;;nous ;;;aurons esté;;vous ;;;aurez esté;;ils/elles ;;;auront esté
+Subjonctif Présent;subjonctif;que ;j’;;;este;que ;tu ;;;estes;qu’;il/elle/on ;;;este;que ;nous ;;;estions;que ;vous ;;;estiez;qu’;ils/elles ;;;estent
+Subjonctif Passé;subjonctif;que ;j’;;;aie esté;que ;tu ;;;aies esté;qu’;il/elle/on ;;;ait esté;que ;nous ;;;ayons esté;que ;vous ;;;ayez esté;qu’;ils/elles ;;;aient esté
+Subjonctif Imparfait;subjonctif;que ;j’;;;estasse;que ;tu ;;;estasses;qu’;il/elle/on ;;;estât;que ;nous ;;;estassions;que ;vous ;;;estassiez;qu’;ils/elles ;;;estassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse esté;que ;tu ;;;eusses esté;qu’;il/elle/on ;;;eût esté;que ;nous ;;;eussions esté;que ;vous ;;;eussiez esté;qu’;ils/elles ;;;eussent esté
+Conditionnel;conditionnel;;j’;;;esterais;;tu ;;;esterais;;il/elle/on ;;;esterait;;nous ;;;esterions;;vous ;;;esteriez;;ils/elles ;;;esteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais esté;;tu ;;;aurais esté;;il/elle/on ;;;aurait esté;;nous ;;;aurions esté;;vous ;;;auriez esté;;ils/elles ;;;auraient esté
+Impératif Présent;impératif;;;;;;;;;;este;;;;;;;;;;estons;;;;;estez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;ester;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;est;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

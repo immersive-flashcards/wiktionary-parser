@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;accaparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir accaparé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en accaparant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant accaparé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;accaparant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;accaparé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;accapare;;tu ;;;accapares;;il/elle/on ;;;accapare;;nous ;;;accaparons;;vous ;;;accaparez;;ils/elles ;;;accaparent
+Indicatif Passé Composé;indicatif;;j’;;;ai accaparé;;tu ;;;as accaparé;;il/elle/on ;;;a accaparé;;nous ;;;avons accaparé;;vous ;;;avez accaparé;;ils/elles ;;;ont accaparé
+Indicatif Imparfait;indicatif;;j’;;;accaparais;;tu ;;;accaparais;;il/elle/on ;;;accaparait;;nous ;;;accaparions;;vous ;;;accapariez;;ils/elles ;;;accaparaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais accaparé;;tu ;;;avais accaparé;;il/elle/on ;;;avait accaparé;;nous ;;;avions accaparé;;vous ;;;aviez accaparé;;ils/elles ;;;avaient accaparé
+Indicatif Passé Simple;indicatif;;j’;;;accaparai;;tu ;;;accaparas;;il/elle/on ;;;accapara;;nous ;;;accaparâmes;;vous ;;;accaparâtes;;ils/elles ;;;accaparèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus accaparé;;tu ;;;eus accaparé;;il/elle/on ;;;eut accaparé;;nous ;;;eûmes accaparé;;vous ;;;eûtes accaparé;;ils/elles ;;;eurent accaparé
+Indicatif Futur Simple;indicatif;;j’;;;accaparerai;;tu ;;;accapareras;;il/elle/on ;;;accaparera;;nous ;;;accaparerons;;vous ;;;accaparerez;;ils/elles ;;;accapareront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai accaparé;;tu ;;;auras accaparé;;il/elle/on ;;;aura accaparé;;nous ;;;aurons accaparé;;vous ;;;aurez accaparé;;ils/elles ;;;auront accaparé
+Subjonctif Présent;subjonctif;que ;j’;;;accapare;que ;tu ;;;accapares;qu’;il/elle/on ;;;accapare;que ;nous ;;;accaparions;que ;vous ;;;accapariez;qu’;ils/elles ;;;accaparent
+Subjonctif Passé;subjonctif;que ;j’;;;aie accaparé;que ;tu ;;;aies accaparé;qu’;il/elle/on ;;;ait accaparé;que ;nous ;;;ayons accaparé;que ;vous ;;;ayez accaparé;qu’;ils/elles ;;;aient accaparé
+Subjonctif Imparfait;subjonctif;que ;j’;;;accaparasse;que ;tu ;;;accaparasses;qu’;il/elle/on ;;;accaparât;que ;nous ;;;accaparassions;que ;vous ;;;accaparassiez;qu’;ils/elles ;;;accaparassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse accaparé;que ;tu ;;;eusses accaparé;qu’;il/elle/on ;;;eût accaparé;que ;nous ;;;eussions accaparé;que ;vous ;;;eussiez accaparé;qu’;ils/elles ;;;eussent accaparé
+Conditionnel;conditionnel;;j’;;;accaparerais;;tu ;;;accaparerais;;il/elle/on ;;;accaparerait;;nous ;;;accaparerions;;vous ;;;accapareriez;;ils/elles ;;;accapareraient
+Conditionnel Passé;conditionnel;;j’;;;aurais accaparé;;tu ;;;aurais accaparé;;il/elle/on ;;;aurait accaparé;;nous ;;;aurions accaparé;;vous ;;;auriez accaparé;;ils/elles ;;;auraient accaparé
+Impératif Présent;impératif;;;;;;;;;;accapare;;;;;;;;;;accaparons;;;;;accaparez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;accaparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;accapar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

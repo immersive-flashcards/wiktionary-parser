@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;adquirir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;adquirint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;adquirit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;adquireixo;;tu ;;;adquireixes;;ell //ella //vostè ;;;adquireix;;nosaltres ;;;adquirim;;vosaltres ;;;adquiriu;;ells //elles //vostès ;;;adquireixen
+Indicatiu Imperfet;indicativo;;jo ;;;adquiria;;tu ;;;adquiries;;ell //ella //vostè ;;;adquiria;;nosaltres ;;;adquiríem;;vosaltres ;;;adquiríeu;;ells //elles //vostès ;;;adquirien
+Indicatiu Futur;indicativo;;jo ;;;adquiriré;;tu ;;;adquiriràs;;ell //ella //vostè ;;;adquirirà;;nosaltres ;;;adquirirem;;vosaltres ;;;adquirireu;;ells //elles //vostès ;;;adquiriran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;adquirí;;tu ;;;adquirires;;ell //ella //vostè ;;;adquirí;;nosaltres ;;;adquirírem;;vosaltres ;;;adquiríreu;;ells //elles //vostès ;;;adquiriren
+Condicional;condicional;;jo ;;;adquiriria;;tu ;;;adquiriries;;ell //ella //vostè ;;;adquiriria;;nosaltres ;;;adquiriríem;;vosaltres ;;;adquiriríeu;;ells //elles //vostès ;;;adquiririen
+Subjuntiu Present;subjuntiu;;jo ;;;adquireixi;;tu ;;;adquireixis;;ell //ella //vostè ;;;adquireixi;;nosaltres ;;;adquirim;;vosaltres ;;;adquiriu;;ells //elles //vostès ;;;adquireixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;adquirís;;tu ;;;adquirissis;;ell //ella //vostè ;;;adquirís;;nosaltres ;;;adquiríssim;;vosaltres ;;;adquiríssiu;;ells //elles //vostès ;;;adquirissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;adquireix;;(vostè) ;;;adquireixi;;(nosaltres) ;;;adquirim;;(vosaltres) ;;;adquiriu;;(vostès) ;;;adquireixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;adquireixis;;(vostè) ;no ;;adquireixi;;(nosaltres) ;no ;;adquirim;;(vosaltres) ;no ;;adquiriu;;(vostès) ;no ;;adquireixin
+Indicatiu Perfet;indicatiu;;jo ;;;he adquirit;;tu ;;;has adquirit;;ell //ella //vostè ;;;ha adquirit;;nosaltres ;;;hem adquirit;;vosaltres ;;;heu adquirit;;ells //elles //vostès ;;;han adquirit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig adquirit;;tu ;;;vas adquirit;;ell //ella //vostè ;;;va adquirit;;nosaltres ;;;vam adquirit;;vosaltres ;;;vau adquirit;;ells //elles //vostès ;;;van adquirit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia adquirit;;tu ;;;havies adquirit;;ell //ella //vostè ;;;havia adquirit;;nosaltres ;;;havíem adquirit;;vosaltres ;;;havíeu adquirit;;ells //elles //vostès ;;;havien adquirit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí adquirit;;tu ;;;hagueres adquirit;;ell //ella //vostè ;;;hagué adquirit;;nosaltres ;;;haguérem adquirit;;vosaltres ;;;haguéreu adquirit;;ells //elles //vostès ;;;hagueren adquirit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver adquirit;;tu ;;;vas haver adquirit;;ell //ella //vostè ;;;va haver adquirit;;nosaltres ;;;vam haver adquirit;;vosaltres ;;;vau haver adquirit;;ells //elles //vostès ;;;van haver adquirit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré adquirit;;tu ;;;hauràs adquirit;;ell //ella //vostè ;;;haurà adquirit;;nosaltres ;;;haurem adquirit;;vosaltres ;;;haureu adquirit;;ells //elles //vostès ;;;hauran adquirit
+Condicional Perfet;condicional;;jo ;;;hauria adquirit;;tu ;;;hauries adquirit;;ell //ella //vostè ;;;hauria adquirit;;nosaltres ;;;hauríem adquirit;;vosaltres ;;;hauríeu adquirit;;ells //elles //vostès ;;;haurien adquirit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi adquirit;;tu ;;;vagis adquirit;;ell //ella //vostè ;;;vagi adquirit;;nosaltres ;;;vàgim adquirit;;vosaltres ;;;vàgiu adquirit;;ells //elles //vostès ;;;vagin adquirit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi adquirit;;tu ;;;hagis adquirit;;ell //ella //vostè ;;;hagi adquirit;;nosaltres ;;;hàgim adquirit;;vosaltres ;;;hàgiu adquirit;;ells //elles //vostès ;;;hagin adquirit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes adquirit;;tu ;;;haguessis adquirit;;ell //ella //vostè ;;;hagués adquirit;;nosaltres ;;;haguéssim adquirit;;vosaltres ;;;haguéssiu adquirit;;ells //elles //vostès ;;;haguessin adquirit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver adquirit;;tu ;;;vagis haver adquirit;;ell //ella //vostè ;;;vagi haver adquirit;;nosaltres ;;;vàgim haver adquirit;;vosaltres ;;;vàgiu haver adquirit;;ells //elles //vostès ;;;vagin haver adquirit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;adquirir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;adquir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;amplificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;amplificando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;amplificado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;amplifico;;tú ;;;amplificas;;él //ella //usted ;;;amplifica;;nosotros //nosotras ;;;amplificamos;;vosotros //vosotras ;;;amplificáis;;ellos //ellas //ustedes ;;;amplifican;;vos ;;;amplificás
+Indicativo Imperfecto;indicativo;;yo ;;;amplificaba;;tú //vos ;;;amplificabas;;él //ella //usted ;;;amplificaba;;nosotros //nosotras ;;;amplificábamos;;vosotros //vosotras ;;;amplificabais;;ellos //ellas //ustedes ;;;amplificaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;amplifiqué;;tú //vos ;;;amplificaste;;él //ella //usted ;;;amplificó;;nosotros //nosotras ;;;amplificamos;;vosotros //vosotras ;;;amplificasteis;;ellos //ellas //ustedes ;;;amplificaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;amplificaré;;tú //vos ;;;amplificarás;;él //ella //usted ;;;amplificará;;nosotros //nosotras ;;;amplificaremos;;vosotros //vosotras ;;;amplificaréis;;ellos //ellas //ustedes ;;;amplificarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he amplificado;;tú //vos ;;;has amplificado;;él //ella //usted ;;;ha amplificado;;nosotros //nosotras ;;;hemos amplificado;;vosotros //vosotras ;;;habéis amplificado;;ellos //ellas //ustedes ;;;han amplificado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había amplificado;;tú //vos ;;;habías amplificado;;él //ella //usted ;;;había amplificado;;nosotros //nosotras ;;;habíamos amplificado;;vosotros //vosotras ;;;habíais amplificado;;ellos //ellas //ustedes ;;;habían amplificado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube amplificado;;tú //vos ;;;hubiste amplificado;;él //ella //usted ;;;hubo amplificado;;nosotros //nosotras ;;;hubimos amplificado;;vosotros //vosotras ;;;hubisteis amplificado;;ellos //ellas //ustedes ;;;hubieron amplificado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré amplificado;;tú //vos ;;;habrás amplificado;;él //ella //usted ;;;habrá amplificado;;nosotros //nosotras ;;;habremos amplificado;;vosotros //vosotras ;;;habréis amplificado;;ellos //ellas //ustedes ;;;habrán amplificado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;amplifique;;tú //vos ;;;amplifiques;;él //ella //usted ;;;amplifique;;nosotros //nosotras ;;;amplifiquemos;;vosotros //vosotras ;;;amplifiquéis;;ellos //ellas //ustedes ;;;amplifiquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;amplificara / amplificase;;tú //vos ;;;amplificaras / amplificases;;él //ella //usted ;;;amplificara / amplificase;;nosotros //nosotras ;;;amplificáramos / amplificásemos;;vosotros //vosotras ;;;amplificarais / amplificaseis;;ellos //ellas //ustedes ;;;amplificaran / amplificasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;amplificare;;tú //vos ;;;amplificares;;él //ella //usted ;;;amplificare;;nosotros //nosotras ;;;amplificáremos;;vosotros //vosotras ;;;amplificareis;;ellos //ellas //ustedes ;;;amplificaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya amplificado;;tú //vos ;;;hayas amplificado;;él //ella //usted ;;;haya amplificado;;nosotros //nosotras ;;;hayamos amplificado;;vosotros //vosotras ;;;hayáis amplificado;;ellos //ellas //ustedes ;;;hayan amplificado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera amplificado / hubiese amplificado;;tú //vos ;;;hubieras amplificado / hubieses amplificado;;él //ella //usted ;;;hubiera amplificado / hubiese amplificado;;nosotros //nosotras ;;;hubiéramos amplificado / hubiésemos amplificado;;vosotros //vosotras ;;;hubierais amplificado / hubieseis amplificado;;ellos //ellas //ustedes ;;;hubieran amplificado / hubiesen amplificado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere amplificado;;tú //vos ;;;hubieres amplificado;;él //ella //usted ;;;hubiere amplificado;;nosotros //nosotras ;;;hubiéremos amplificado;;vosotros //vosotras ;;;hubiereis amplificado;;ellos //ellas //ustedes ;;;hubieren amplificado;;;;;
+Condicional;condicional;;yo ;;;amplificaría;;tú //vos ;;;amplificarías;;él //ella //usted ;;;amplificaría;;nosotros //nosotras ;;;amplificaríamos;;vosotros //vosotras ;;;amplificaríais;;ellos //ellas //ustedes ;;;amplificarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría amplificado;;tú //vos ;;;habrías amplificado;;él //ella //usted ;;;habría amplificado;;nosotros //nosotras ;;;habríamos amplificado;;vosotros //vosotras ;;;habríais amplificado;;ellos //ellas //ustedes ;;;habrían amplificado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;amplifica;;(usted) ;;;amplifique;;(nosotros) //(nosotras) ;;;amplifiquemos;;(vosotros) //(vosotras) ;;;amplificad;;(ustedes) ;;;amplifiquen;;(vos) ;;;amplificá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;amplifiques;;(usted) ;no ;;amplifique;;(nosotros) //(nosotras) ;no ;;amplifiquemos;;(vosotros) //(vosotras) ;no ;;amplifiquéis;;(ustedes) ;no ;;amplifiquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;amplificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;amplific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

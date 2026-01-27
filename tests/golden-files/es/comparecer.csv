@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;comparecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;compareciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;comparecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;comparezco;;tú ;;;compareces;;él //ella //usted ;;;comparece;;nosotros //nosotras ;;;comparecemos;;vosotros //vosotras ;;;comparecéis;;ellos //ellas //ustedes ;;;comparecen;;vos ;;;comparecés
+Indicativo Imperfecto;indicativo;;yo ;;;comparecía;;tú //vos ;;;comparecías;;él //ella //usted ;;;comparecía;;nosotros //nosotras ;;;comparecíamos;;vosotros //vosotras ;;;comparecíais;;ellos //ellas //ustedes ;;;comparecían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;comparecí;;tú //vos ;;;compareciste;;él //ella //usted ;;;compareció;;nosotros //nosotras ;;;comparecimos;;vosotros //vosotras ;;;comparecisteis;;ellos //ellas //ustedes ;;;comparecieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;compareceré;;tú //vos ;;;comparecerás;;él //ella //usted ;;;comparecerá;;nosotros //nosotras ;;;compareceremos;;vosotros //vosotras ;;;compareceréis;;ellos //ellas //ustedes ;;;comparecerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he comparecido;;tú //vos ;;;has comparecido;;él //ella //usted ;;;ha comparecido;;nosotros //nosotras ;;;hemos comparecido;;vosotros //vosotras ;;;habéis comparecido;;ellos //ellas //ustedes ;;;han comparecido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había comparecido;;tú //vos ;;;habías comparecido;;él //ella //usted ;;;había comparecido;;nosotros //nosotras ;;;habíamos comparecido;;vosotros //vosotras ;;;habíais comparecido;;ellos //ellas //ustedes ;;;habían comparecido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube comparecido;;tú //vos ;;;hubiste comparecido;;él //ella //usted ;;;hubo comparecido;;nosotros //nosotras ;;;hubimos comparecido;;vosotros //vosotras ;;;hubisteis comparecido;;ellos //ellas //ustedes ;;;hubieron comparecido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré comparecido;;tú //vos ;;;habrás comparecido;;él //ella //usted ;;;habrá comparecido;;nosotros //nosotras ;;;habremos comparecido;;vosotros //vosotras ;;;habréis comparecido;;ellos //ellas //ustedes ;;;habrán comparecido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;comparezca;;tú //vos ;;;comparezcas;;él //ella //usted ;;;comparezca;;nosotros //nosotras ;;;comparezcamos;;vosotros //vosotras ;;;comparezcáis;;ellos //ellas //ustedes ;;;comparezcan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;compareciera / compareciese;;tú //vos ;;;comparecieras / comparecieses;;él //ella //usted ;;;compareciera / compareciese;;nosotros //nosotras ;;;compareciéramos / compareciésemos;;vosotros //vosotras ;;;comparecierais / comparecieseis;;ellos //ellas //ustedes ;;;comparecieran / compareciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;compareciere;;tú //vos ;;;comparecieres;;él //ella //usted ;;;compareciere;;nosotros //nosotras ;;;compareciéremos;;vosotros //vosotras ;;;compareciereis;;ellos //ellas //ustedes ;;;comparecieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya comparecido;;tú //vos ;;;hayas comparecido;;él //ella //usted ;;;haya comparecido;;nosotros //nosotras ;;;hayamos comparecido;;vosotros //vosotras ;;;hayáis comparecido;;ellos //ellas //ustedes ;;;hayan comparecido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera comparecido / hubiese comparecido;;tú //vos ;;;hubieras comparecido / hubieses comparecido;;él //ella //usted ;;;hubiera comparecido / hubiese comparecido;;nosotros //nosotras ;;;hubiéramos comparecido / hubiésemos comparecido;;vosotros //vosotras ;;;hubierais comparecido / hubieseis comparecido;;ellos //ellas //ustedes ;;;hubieran comparecido / hubiesen comparecido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere comparecido;;tú //vos ;;;hubieres comparecido;;él //ella //usted ;;;hubiere comparecido;;nosotros //nosotras ;;;hubiéremos comparecido;;vosotros //vosotras ;;;hubiereis comparecido;;ellos //ellas //ustedes ;;;hubieren comparecido;;;;;
+Condicional;condicional;;yo ;;;comparecería;;tú //vos ;;;comparecerías;;él //ella //usted ;;;comparecería;;nosotros //nosotras ;;;compareceríamos;;vosotros //vosotras ;;;compareceríais;;ellos //ellas //ustedes ;;;comparecerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría comparecido;;tú //vos ;;;habrías comparecido;;él //ella //usted ;;;habría comparecido;;nosotros //nosotras ;;;habríamos comparecido;;vosotros //vosotras ;;;habríais comparecido;;ellos //ellas //ustedes ;;;habrían comparecido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;comparece;;(usted) ;;;comparezca;;(nosotros) //(nosotras) ;;;comparezcamos;;(vosotros) //(vosotras) ;;;compareced;;(ustedes) ;;;comparezcan;;(vos) ;;;comparecé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;comparezcas;;(usted) ;no ;;comparezca;;(nosotros) //(nosotras) ;no ;;comparezcamos;;(vosotros) //(vosotras) ;no ;;comparezcáis;;(ustedes) ;no ;;comparezcan;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;comparecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;comparec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

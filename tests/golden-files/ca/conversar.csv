@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;conversar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;conversant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;conversat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;converso;;tu ;;;converses;;ell //ella //vostè ;;;conversa;;nosaltres ;;;conversem;;vosaltres ;;;converseu;;ells //elles //vostès ;;;conversen
+Indicatiu Imperfet;indicativo;;jo ;;;conversava;;tu ;;;conversaves;;ell //ella //vostè ;;;conversava;;nosaltres ;;;conversàvem;;vosaltres ;;;conversàveu;;ells //elles //vostès ;;;conversaven
+Indicatiu Futur;indicativo;;jo ;;;conversaré;;tu ;;;conversaràs;;ell //ella //vostè ;;;conversarà;;nosaltres ;;;conversarem;;vosaltres ;;;conversareu;;ells //elles //vostès ;;;conversaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;conversí;;tu ;;;conversares;;ell //ella //vostè ;;;conversà;;nosaltres ;;;conversàrem;;vosaltres ;;;conversàreu;;ells //elles //vostès ;;;conversaren
+Condicional;condicional;;jo ;;;conversaria;;tu ;;;conversaries;;ell //ella //vostè ;;;conversaria;;nosaltres ;;;conversaríem;;vosaltres ;;;conversaríeu;;ells //elles //vostès ;;;conversarien
+Subjuntiu Present;subjuntiu;;jo ;;;conversi;;tu ;;;conversis;;ell //ella //vostè ;;;conversi;;nosaltres ;;;conversem;;vosaltres ;;;converseu;;ells //elles //vostès ;;;conversin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;conversés;;tu ;;;conversessis;;ell //ella //vostè ;;;conversés;;nosaltres ;;;converséssim;;vosaltres ;;;converséssiu;;ells //elles //vostès ;;;conversessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;conversa;;(vostè) ;;;conversi;;(nosaltres) ;;;conversem;;(vosaltres) ;;;converseu;;(vostès) ;;;conversin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;conversis;;(vostè) ;no ;;conversi;;(nosaltres) ;no ;;conversem;;(vosaltres) ;no ;;converseu;;(vostès) ;no ;;conversin
+Indicatiu Perfet;indicatiu;;jo ;;;he conversat;;tu ;;;has conversat;;ell //ella //vostè ;;;ha conversat;;nosaltres ;;;hem conversat;;vosaltres ;;;heu conversat;;ells //elles //vostès ;;;han conversat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig conversat;;tu ;;;vas conversat;;ell //ella //vostè ;;;va conversat;;nosaltres ;;;vam conversat;;vosaltres ;;;vau conversat;;ells //elles //vostès ;;;van conversat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia conversat;;tu ;;;havies conversat;;ell //ella //vostè ;;;havia conversat;;nosaltres ;;;havíem conversat;;vosaltres ;;;havíeu conversat;;ells //elles //vostès ;;;havien conversat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí conversat;;tu ;;;hagueres conversat;;ell //ella //vostè ;;;hagué conversat;;nosaltres ;;;haguérem conversat;;vosaltres ;;;haguéreu conversat;;ells //elles //vostès ;;;hagueren conversat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver conversat;;tu ;;;vas haver conversat;;ell //ella //vostè ;;;va haver conversat;;nosaltres ;;;vam haver conversat;;vosaltres ;;;vau haver conversat;;ells //elles //vostès ;;;van haver conversat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré conversat;;tu ;;;hauràs conversat;;ell //ella //vostè ;;;haurà conversat;;nosaltres ;;;haurem conversat;;vosaltres ;;;haureu conversat;;ells //elles //vostès ;;;hauran conversat
+Condicional Perfet;condicional;;jo ;;;hauria conversat;;tu ;;;hauries conversat;;ell //ella //vostè ;;;hauria conversat;;nosaltres ;;;hauríem conversat;;vosaltres ;;;hauríeu conversat;;ells //elles //vostès ;;;haurien conversat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi conversat;;tu ;;;vagis conversat;;ell //ella //vostè ;;;vagi conversat;;nosaltres ;;;vàgim conversat;;vosaltres ;;;vàgiu conversat;;ells //elles //vostès ;;;vagin conversat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi conversat;;tu ;;;hagis conversat;;ell //ella //vostè ;;;hagi conversat;;nosaltres ;;;hàgim conversat;;vosaltres ;;;hàgiu conversat;;ells //elles //vostès ;;;hagin conversat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes conversat;;tu ;;;haguessis conversat;;ell //ella //vostè ;;;hagués conversat;;nosaltres ;;;haguéssim conversat;;vosaltres ;;;haguéssiu conversat;;ells //elles //vostès ;;;haguessin conversat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver conversat;;tu ;;;vagis haver conversat;;ell //ella //vostè ;;;vagi haver conversat;;nosaltres ;;;vàgim haver conversat;;vosaltres ;;;vàgiu haver conversat;;ells //elles //vostès ;;;vagin haver conversat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;conversar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;convers;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;embarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;embarcant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;embarcat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;embarco;;tu ;;;embarques;;ell //ella //vostè ;;;embarca;;nosaltres ;;;embarquem;;vosaltres ;;;embarqueu;;ells //elles //vostès ;;;embarquen
+Indicatiu Imperfet;indicativo;;jo ;;;embarcava;;tu ;;;embarcaves;;ell //ella //vostè ;;;embarcava;;nosaltres ;;;embarcàvem;;vosaltres ;;;embarcàveu;;ells //elles //vostès ;;;embarcaven
+Indicatiu Futur;indicativo;;jo ;;;embarcaré;;tu ;;;embarcaràs;;ell //ella //vostè ;;;embarcarà;;nosaltres ;;;embarcarem;;vosaltres ;;;embarcareu;;ells //elles //vostès ;;;embarcaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;embarquí;;tu ;;;embarcares;;ell //ella //vostè ;;;embarcà;;nosaltres ;;;embarcàrem;;vosaltres ;;;embarcàreu;;ells //elles //vostès ;;;embarcaren
+Condicional;condicional;;jo ;;;embarcaria;;tu ;;;embarcaries;;ell //ella //vostè ;;;embarcaria;;nosaltres ;;;embarcaríem;;vosaltres ;;;embarcaríeu;;ells //elles //vostès ;;;embarcarien
+Subjuntiu Present;subjuntiu;;jo ;;;embarqui;;tu ;;;embarquis;;ell //ella //vostè ;;;embarqui;;nosaltres ;;;embarquem;;vosaltres ;;;embarqueu;;ells //elles //vostès ;;;embarquin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;embarqués;;tu ;;;embarquessis;;ell //ella //vostè ;;;embarqués;;nosaltres ;;;embarquéssim;;vosaltres ;;;embarquéssiu;;ells //elles //vostès ;;;embarquessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;embarca;;(vostè) ;;;embarqui;;(nosaltres) ;;;embarquem;;(vosaltres) ;;;embarqueu;;(vostès) ;;;embarquin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;embarquis;;(vostè) ;no ;;embarqui;;(nosaltres) ;no ;;embarquem;;(vosaltres) ;no ;;embarqueu;;(vostès) ;no ;;embarquin
+Indicatiu Perfet;indicatiu;;jo ;;;he embarcat;;tu ;;;has embarcat;;ell //ella //vostè ;;;ha embarcat;;nosaltres ;;;hem embarcat;;vosaltres ;;;heu embarcat;;ells //elles //vostès ;;;han embarcat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig embarcat;;tu ;;;vas embarcat;;ell //ella //vostè ;;;va embarcat;;nosaltres ;;;vam embarcat;;vosaltres ;;;vau embarcat;;ells //elles //vostès ;;;van embarcat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia embarcat;;tu ;;;havies embarcat;;ell //ella //vostè ;;;havia embarcat;;nosaltres ;;;havíem embarcat;;vosaltres ;;;havíeu embarcat;;ells //elles //vostès ;;;havien embarcat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí embarcat;;tu ;;;hagueres embarcat;;ell //ella //vostè ;;;hagué embarcat;;nosaltres ;;;haguérem embarcat;;vosaltres ;;;haguéreu embarcat;;ells //elles //vostès ;;;hagueren embarcat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver embarcat;;tu ;;;vas haver embarcat;;ell //ella //vostè ;;;va haver embarcat;;nosaltres ;;;vam haver embarcat;;vosaltres ;;;vau haver embarcat;;ells //elles //vostès ;;;van haver embarcat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré embarcat;;tu ;;;hauràs embarcat;;ell //ella //vostè ;;;haurà embarcat;;nosaltres ;;;haurem embarcat;;vosaltres ;;;haureu embarcat;;ells //elles //vostès ;;;hauran embarcat
+Condicional Perfet;condicional;;jo ;;;hauria embarcat;;tu ;;;hauries embarcat;;ell //ella //vostè ;;;hauria embarcat;;nosaltres ;;;hauríem embarcat;;vosaltres ;;;hauríeu embarcat;;ells //elles //vostès ;;;haurien embarcat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi embarcat;;tu ;;;vagis embarcat;;ell //ella //vostè ;;;vagi embarcat;;nosaltres ;;;vàgim embarcat;;vosaltres ;;;vàgiu embarcat;;ells //elles //vostès ;;;vagin embarcat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi embarcat;;tu ;;;hagis embarcat;;ell //ella //vostè ;;;hagi embarcat;;nosaltres ;;;hàgim embarcat;;vosaltres ;;;hàgiu embarcat;;ells //elles //vostès ;;;hagin embarcat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes embarcat;;tu ;;;haguessis embarcat;;ell //ella //vostè ;;;hagués embarcat;;nosaltres ;;;haguéssim embarcat;;vosaltres ;;;haguéssiu embarcat;;ells //elles //vostès ;;;haguessin embarcat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver embarcat;;tu ;;;vagis haver embarcat;;ell //ella //vostè ;;;vagi haver embarcat;;nosaltres ;;;vàgim haver embarcat;;vosaltres ;;;vàgiu haver embarcat;;ells //elles //vostès ;;;vagin haver embarcat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;embarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;embarc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

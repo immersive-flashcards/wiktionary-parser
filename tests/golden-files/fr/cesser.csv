@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;cesser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir cessé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en cessant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant cessé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;cessant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;cessé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;cesse;;tu ;;;cesses;;il/elle/on ;;;cesse;;nous ;;;cessons;;vous ;;;cessez;;ils/elles ;;;cessent
+Indicatif Passé Composé;indicatif;;j’;;;ai cessé;;tu ;;;as cessé;;il/elle/on ;;;a cessé;;nous ;;;avons cessé;;vous ;;;avez cessé;;ils/elles ;;;ont cessé
+Indicatif Imparfait;indicatif;;je ;;;cessais;;tu ;;;cessais;;il/elle/on ;;;cessait;;nous ;;;cessions;;vous ;;;cessiez;;ils/elles ;;;cessaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais cessé;;tu ;;;avais cessé;;il/elle/on ;;;avait cessé;;nous ;;;avions cessé;;vous ;;;aviez cessé;;ils/elles ;;;avaient cessé
+Indicatif Passé Simple;indicatif;;je ;;;cessai;;tu ;;;cessas;;il/elle/on ;;;cessa;;nous ;;;cessâmes;;vous ;;;cessâtes;;ils/elles ;;;cessèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus cessé;;tu ;;;eus cessé;;il/elle/on ;;;eut cessé;;nous ;;;eûmes cessé;;vous ;;;eûtes cessé;;ils/elles ;;;eurent cessé
+Indicatif Futur Simple;indicatif;;je ;;;cesserai;;tu ;;;cesseras;;il/elle/on ;;;cessera;;nous ;;;cesserons;;vous ;;;cesserez;;ils/elles ;;;cesseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai cessé;;tu ;;;auras cessé;;il/elle/on ;;;aura cessé;;nous ;;;aurons cessé;;vous ;;;aurez cessé;;ils/elles ;;;auront cessé
+Subjonctif Présent;subjonctif;que ;je ;;;cesse;que ;tu ;;;cesses;qu’;il/elle/on ;;;cesse;que ;nous ;;;cessions;que ;vous ;;;cessiez;qu’;ils/elles ;;;cessent
+Subjonctif Passé;subjonctif;que ;j’;;;aie cessé;que ;tu ;;;aies cessé;qu’;il/elle/on ;;;ait cessé;que ;nous ;;;ayons cessé;que ;vous ;;;ayez cessé;qu’;ils/elles ;;;aient cessé
+Subjonctif Imparfait;subjonctif;que ;je ;;;cessasse;que ;tu ;;;cessasses;qu’;il/elle/on ;;;cessât;que ;nous ;;;cessassions;que ;vous ;;;cessassiez;qu’;ils/elles ;;;cessassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse cessé;que ;tu ;;;eusses cessé;qu’;il/elle/on ;;;eût cessé;que ;nous ;;;eussions cessé;que ;vous ;;;eussiez cessé;qu’;ils/elles ;;;eussent cessé
+Conditionnel;conditionnel;;je ;;;cesserais;;tu ;;;cesserais;;il/elle/on ;;;cesserait;;nous ;;;cesserions;;vous ;;;cesseriez;;ils/elles ;;;cesseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais cessé;;tu ;;;aurais cessé;;il/elle/on ;;;aurait cessé;;nous ;;;aurions cessé;;vous ;;;auriez cessé;;ils/elles ;;;auraient cessé
+Impératif Présent;impératif;;;;;;;;;;cesse;;;;;;;;;;cessons;;;;;cessez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;cesser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;cess;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

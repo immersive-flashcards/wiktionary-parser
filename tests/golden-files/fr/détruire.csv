@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;détruire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir détruit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en détruisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant détruit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;détruisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;détruit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;détruis;;tu ;;;détruis;;il/elle/on ;;;détruit;;nous ;;;détruisons;;vous ;;;détruisez;;ils/elles ;;;détruisent
+Indicatif Passé Composé;indicatif;;j’;;;ai détruit;;tu ;;;as détruit;;il/elle/on ;;;a détruit;;nous ;;;avons détruit;;vous ;;;avez détruit;;ils/elles ;;;ont détruit
+Indicatif Imparfait;indicatif;;je ;;;détruisais;;tu ;;;détruisais;;il/elle/on ;;;détruisait;;nous ;;;détruisions;;vous ;;;détruisiez;;ils/elles ;;;détruisaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais détruit;;tu ;;;avais détruit;;il/elle/on ;;;avait détruit;;nous ;;;avions détruit;;vous ;;;aviez détruit;;ils/elles ;;;avaient détruit
+Indicatif Passé Simple;indicatif;;je ;;;détruisis;;tu ;;;détruisis;;il/elle/on ;;;détruisit;;nous ;;;détruisîmes;;vous ;;;détruisîtes;;ils/elles ;;;détruisirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus détruit;;tu ;;;eus détruit;;il/elle/on ;;;eut détruit;;nous ;;;eûmes détruit;;vous ;;;eûtes détruit;;ils/elles ;;;eurent détruit
+Indicatif Futur Simple;indicatif;;je ;;;détruirai;;tu ;;;détruiras;;il/elle/on ;;;détruira;;nous ;;;détruirons;;vous ;;;détruirez;;ils/elles ;;;détruiront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai détruit;;tu ;;;auras détruit;;il/elle/on ;;;aura détruit;;nous ;;;aurons détruit;;vous ;;;aurez détruit;;ils/elles ;;;auront détruit
+Subjonctif Présent;subjonctif;que ;je ;;;détruise;que ;tu ;;;détruises;qu’;il/elle/on ;;;détruise;que ;nous ;;;détruisions;que ;vous ;;;détruisiez;qu’;ils/elles ;;;détruisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie détruit;que ;tu ;;;aies détruit;qu’;il/elle/on ;;;ait détruit;que ;nous ;;;ayons détruit;que ;vous ;;;ayez détruit;qu’;ils/elles ;;;aient détruit
+Subjonctif Imparfait;subjonctif;que ;je ;;;détruisisse;que ;tu ;;;détruisisses;qu’;il/elle/on ;;;détruisît;que ;nous ;;;détruisissions;que ;vous ;;;détruisissiez;qu’;ils/elles ;;;détruisissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse détruit;que ;tu ;;;eusses détruit;qu’;il/elle/on ;;;eût détruit;que ;nous ;;;eussions détruit;que ;vous ;;;eussiez détruit;qu’;ils/elles ;;;eussent détruit
+Conditionnel;conditionnel;;je ;;;détruirais;;tu ;;;détruirais;;il/elle/on ;;;détruirait;;nous ;;;détruirions;;vous ;;;détruiriez;;ils/elles ;;;détruiraient
+Conditionnel Passé;conditionnel;;j’;;;aurais détruit;;tu ;;;aurais détruit;;il/elle/on ;;;aurait détruit;;nous ;;;aurions détruit;;vous ;;;auriez détruit;;ils/elles ;;;auraient détruit
+Impératif Présent;impératif;;;;;;;;;;détruis;;;;;;;;;;détruisons;;;;;détruisez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;détruire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;détrui;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;convalecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;convaleciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;convalecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;convalezco;;tú ;;;convaleces;;él //ella //usted ;;;convalece;;nosotros //nosotras ;;;convalecemos;;vosotros //vosotras ;;;convalecéis;;ellos //ellas //ustedes ;;;convalecen;;vos ;;;convalecés
+Indicativo Imperfecto;indicativo;;yo ;;;convalecía;;tú //vos ;;;convalecías;;él //ella //usted ;;;convalecía;;nosotros //nosotras ;;;convalecíamos;;vosotros //vosotras ;;;convalecíais;;ellos //ellas //ustedes ;;;convalecían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;convalecí;;tú //vos ;;;convaleciste;;él //ella //usted ;;;convaleció;;nosotros //nosotras ;;;convalecimos;;vosotros //vosotras ;;;convalecisteis;;ellos //ellas //ustedes ;;;convalecieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;convaleceré;;tú //vos ;;;convalecerás;;él //ella //usted ;;;convalecerá;;nosotros //nosotras ;;;convaleceremos;;vosotros //vosotras ;;;convaleceréis;;ellos //ellas //ustedes ;;;convalecerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he convalecido;;tú //vos ;;;has convalecido;;él //ella //usted ;;;ha convalecido;;nosotros //nosotras ;;;hemos convalecido;;vosotros //vosotras ;;;habéis convalecido;;ellos //ellas //ustedes ;;;han convalecido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había convalecido;;tú //vos ;;;habías convalecido;;él //ella //usted ;;;había convalecido;;nosotros //nosotras ;;;habíamos convalecido;;vosotros //vosotras ;;;habíais convalecido;;ellos //ellas //ustedes ;;;habían convalecido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube convalecido;;tú //vos ;;;hubiste convalecido;;él //ella //usted ;;;hubo convalecido;;nosotros //nosotras ;;;hubimos convalecido;;vosotros //vosotras ;;;hubisteis convalecido;;ellos //ellas //ustedes ;;;hubieron convalecido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré convalecido;;tú //vos ;;;habrás convalecido;;él //ella //usted ;;;habrá convalecido;;nosotros //nosotras ;;;habremos convalecido;;vosotros //vosotras ;;;habréis convalecido;;ellos //ellas //ustedes ;;;habrán convalecido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;convalezca;;tú //vos ;;;convalezcas;;él //ella //usted ;;;convalezca;;nosotros //nosotras ;;;convalezcamos;;vosotros //vosotras ;;;convalezcáis;;ellos //ellas //ustedes ;;;convalezcan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;convaleciera / convaleciese;;tú //vos ;;;convalecieras / convalecieses;;él //ella //usted ;;;convaleciera / convaleciese;;nosotros //nosotras ;;;convaleciéramos / convaleciésemos;;vosotros //vosotras ;;;convalecierais / convalecieseis;;ellos //ellas //ustedes ;;;convalecieran / convaleciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;convaleciere;;tú //vos ;;;convalecieres;;él //ella //usted ;;;convaleciere;;nosotros //nosotras ;;;convaleciéremos;;vosotros //vosotras ;;;convaleciereis;;ellos //ellas //ustedes ;;;convalecieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya convalecido;;tú //vos ;;;hayas convalecido;;él //ella //usted ;;;haya convalecido;;nosotros //nosotras ;;;hayamos convalecido;;vosotros //vosotras ;;;hayáis convalecido;;ellos //ellas //ustedes ;;;hayan convalecido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera convalecido / hubiese convalecido;;tú //vos ;;;hubieras convalecido / hubieses convalecido;;él //ella //usted ;;;hubiera convalecido / hubiese convalecido;;nosotros //nosotras ;;;hubiéramos convalecido / hubiésemos convalecido;;vosotros //vosotras ;;;hubierais convalecido / hubieseis convalecido;;ellos //ellas //ustedes ;;;hubieran convalecido / hubiesen convalecido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere convalecido;;tú //vos ;;;hubieres convalecido;;él //ella //usted ;;;hubiere convalecido;;nosotros //nosotras ;;;hubiéremos convalecido;;vosotros //vosotras ;;;hubiereis convalecido;;ellos //ellas //ustedes ;;;hubieren convalecido;;;;;
+Condicional;condicional;;yo ;;;convalecería;;tú //vos ;;;convalecerías;;él //ella //usted ;;;convalecería;;nosotros //nosotras ;;;convaleceríamos;;vosotros //vosotras ;;;convaleceríais;;ellos //ellas //ustedes ;;;convalecerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría convalecido;;tú //vos ;;;habrías convalecido;;él //ella //usted ;;;habría convalecido;;nosotros //nosotras ;;;habríamos convalecido;;vosotros //vosotras ;;;habríais convalecido;;ellos //ellas //ustedes ;;;habrían convalecido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;convalece;;(usted) ;;;convalezca;;(nosotros) //(nosotras) ;;;convalezcamos;;(vosotros) //(vosotras) ;;;convaleced;;(ustedes) ;;;convalezcan;;(vos) ;;;convalecé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;convalezcas;;(usted) ;no ;;convalezca;;(nosotros) //(nosotras) ;no ;;convalezcamos;;(vosotros) //(vosotras) ;no ;;convalezcáis;;(ustedes) ;no ;;convalezcan;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;convalecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;convalec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

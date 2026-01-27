@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;installer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir installé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en installant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant installé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;installant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;installé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;installe;;tu ;;;installes;;il/elle/on ;;;installe;;nous ;;;installons;;vous ;;;installez;;ils/elles ;;;installent
+Indicatif Passé Composé;indicatif;;j’;;;ai installé;;tu ;;;as installé;;il/elle/on ;;;a installé;;nous ;;;avons installé;;vous ;;;avez installé;;ils/elles ;;;ont installé
+Indicatif Imparfait;indicatif;;j’;;;installais;;tu ;;;installais;;il/elle/on ;;;installait;;nous ;;;installions;;vous ;;;installiez;;ils/elles ;;;installaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais installé;;tu ;;;avais installé;;il/elle/on ;;;avait installé;;nous ;;;avions installé;;vous ;;;aviez installé;;ils/elles ;;;avaient installé
+Indicatif Passé Simple;indicatif;;j’;;;installai;;tu ;;;installas;;il/elle/on ;;;installa;;nous ;;;installâmes;;vous ;;;installâtes;;ils/elles ;;;installèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus installé;;tu ;;;eus installé;;il/elle/on ;;;eut installé;;nous ;;;eûmes installé;;vous ;;;eûtes installé;;ils/elles ;;;eurent installé
+Indicatif Futur Simple;indicatif;;j’;;;installerai;;tu ;;;installeras;;il/elle/on ;;;installera;;nous ;;;installerons;;vous ;;;installerez;;ils/elles ;;;installeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai installé;;tu ;;;auras installé;;il/elle/on ;;;aura installé;;nous ;;;aurons installé;;vous ;;;aurez installé;;ils/elles ;;;auront installé
+Subjonctif Présent;subjonctif;que ;j’;;;installe;que ;tu ;;;installes;qu’;il/elle/on ;;;installe;que ;nous ;;;installions;que ;vous ;;;installiez;qu’;ils/elles ;;;installent
+Subjonctif Passé;subjonctif;que ;j’;;;aie installé;que ;tu ;;;aies installé;qu’;il/elle/on ;;;ait installé;que ;nous ;;;ayons installé;que ;vous ;;;ayez installé;qu’;ils/elles ;;;aient installé
+Subjonctif Imparfait;subjonctif;que ;j’;;;installasse;que ;tu ;;;installasses;qu’;il/elle/on ;;;installât;que ;nous ;;;installassions;que ;vous ;;;installassiez;qu’;ils/elles ;;;installassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse installé;que ;tu ;;;eusses installé;qu’;il/elle/on ;;;eût installé;que ;nous ;;;eussions installé;que ;vous ;;;eussiez installé;qu’;ils/elles ;;;eussent installé
+Conditionnel;conditionnel;;j’;;;installerais;;tu ;;;installerais;;il/elle/on ;;;installerait;;nous ;;;installerions;;vous ;;;installeriez;;ils/elles ;;;installeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais installé;;tu ;;;aurais installé;;il/elle/on ;;;aurait installé;;nous ;;;aurions installé;;vous ;;;auriez installé;;ils/elles ;;;auraient installé
+Impératif Présent;impératif;;;;;;;;;;installe;;;;;;;;;;installons;;;;;installez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;installer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;install;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

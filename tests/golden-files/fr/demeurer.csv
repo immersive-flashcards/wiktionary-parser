@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;demeurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir demeuré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en demeurant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant demeuré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;demeurant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;demeuré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;demeure;;tu ;;;demeures;;il/elle/on ;;;demeure;;nous ;;;demeurons;;vous ;;;demeurez;;ils/elles ;;;demeurent
+Indicatif Passé Composé;indicatif;;j’;;;ai demeuré;;tu ;;;as demeuré;;il/elle/on ;;;a demeuré;;nous ;;;avons demeuré;;vous ;;;avez demeuré;;ils/elles ;;;ont demeuré
+Indicatif Imparfait;indicatif;;je ;;;demeurais;;tu ;;;demeurais;;il/elle/on ;;;demeurait;;nous ;;;demeurions;;vous ;;;demeuriez;;ils/elles ;;;demeuraient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais demeuré;;tu ;;;avais demeuré;;il/elle/on ;;;avait demeuré;;nous ;;;avions demeuré;;vous ;;;aviez demeuré;;ils/elles ;;;avaient demeuré
+Indicatif Passé Simple;indicatif;;je ;;;demeurai;;tu ;;;demeuras;;il/elle/on ;;;demeura;;nous ;;;demeurâmes;;vous ;;;demeurâtes;;ils/elles ;;;demeurèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus demeuré;;tu ;;;eus demeuré;;il/elle/on ;;;eut demeuré;;nous ;;;eûmes demeuré;;vous ;;;eûtes demeuré;;ils/elles ;;;eurent demeuré
+Indicatif Futur Simple;indicatif;;je ;;;demeurerai;;tu ;;;demeureras;;il/elle/on ;;;demeurera;;nous ;;;demeurerons;;vous ;;;demeurerez;;ils/elles ;;;demeureront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai demeuré;;tu ;;;auras demeuré;;il/elle/on ;;;aura demeuré;;nous ;;;aurons demeuré;;vous ;;;aurez demeuré;;ils/elles ;;;auront demeuré
+Subjonctif Présent;subjonctif;que ;je ;;;demeure;que ;tu ;;;demeures;qu’;il/elle/on ;;;demeure;que ;nous ;;;demeurions;que ;vous ;;;demeuriez;qu’;ils/elles ;;;demeurent
+Subjonctif Passé;subjonctif;que ;j’;;;aie demeuré;que ;tu ;;;aies demeuré;qu’;il/elle/on ;;;ait demeuré;que ;nous ;;;ayons demeuré;que ;vous ;;;ayez demeuré;qu’;ils/elles ;;;aient demeuré
+Subjonctif Imparfait;subjonctif;que ;je ;;;demeurasse;que ;tu ;;;demeurasses;qu’;il/elle/on ;;;demeurât;que ;nous ;;;demeurassions;que ;vous ;;;demeurassiez;qu’;ils/elles ;;;demeurassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse demeuré;que ;tu ;;;eusses demeuré;qu’;il/elle/on ;;;eût demeuré;que ;nous ;;;eussions demeuré;que ;vous ;;;eussiez demeuré;qu’;ils/elles ;;;eussent demeuré
+Conditionnel;conditionnel;;je ;;;demeurerais;;tu ;;;demeurerais;;il/elle/on ;;;demeurerait;;nous ;;;demeurerions;;vous ;;;demeureriez;;ils/elles ;;;demeureraient
+Conditionnel Passé;conditionnel;;j’;;;aurais demeuré;;tu ;;;aurais demeuré;;il/elle/on ;;;aurait demeuré;;nous ;;;aurions demeuré;;vous ;;;auriez demeuré;;ils/elles ;;;auraient demeuré
+Impératif Présent;impératif;;;;;;;;;;demeure;;;;;;;;;;demeurons;;;;;demeurez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;demeurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;demeur;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

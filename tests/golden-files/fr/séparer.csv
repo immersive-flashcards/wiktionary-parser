@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;séparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir séparé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en séparant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant séparé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;séparant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;séparé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;sépare;;tu ;;;sépares;;il/elle/on ;;;sépare;;nous ;;;séparons;;vous ;;;séparez;;ils/elles ;;;séparent
+Indicatif Passé Composé;indicatif;;j’;;;ai séparé;;tu ;;;as séparé;;il/elle/on ;;;a séparé;;nous ;;;avons séparé;;vous ;;;avez séparé;;ils/elles ;;;ont séparé
+Indicatif Imparfait;indicatif;;je ;;;séparais;;tu ;;;séparais;;il/elle/on ;;;séparait;;nous ;;;séparions;;vous ;;;sépariez;;ils/elles ;;;séparaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais séparé;;tu ;;;avais séparé;;il/elle/on ;;;avait séparé;;nous ;;;avions séparé;;vous ;;;aviez séparé;;ils/elles ;;;avaient séparé
+Indicatif Passé Simple;indicatif;;je ;;;séparai;;tu ;;;séparas;;il/elle/on ;;;sépara;;nous ;;;séparâmes;;vous ;;;séparâtes;;ils/elles ;;;séparèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus séparé;;tu ;;;eus séparé;;il/elle/on ;;;eut séparé;;nous ;;;eûmes séparé;;vous ;;;eûtes séparé;;ils/elles ;;;eurent séparé
+Indicatif Futur Simple;indicatif;;je ;;;séparerai;;tu ;;;sépareras;;il/elle/on ;;;séparera;;nous ;;;séparerons;;vous ;;;séparerez;;ils/elles ;;;sépareront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai séparé;;tu ;;;auras séparé;;il/elle/on ;;;aura séparé;;nous ;;;aurons séparé;;vous ;;;aurez séparé;;ils/elles ;;;auront séparé
+Subjonctif Présent;subjonctif;que ;je ;;;sépare;que ;tu ;;;sépares;qu’;il/elle/on ;;;sépare;que ;nous ;;;séparions;que ;vous ;;;sépariez;qu’;ils/elles ;;;séparent
+Subjonctif Passé;subjonctif;que ;j’;;;aie séparé;que ;tu ;;;aies séparé;qu’;il/elle/on ;;;ait séparé;que ;nous ;;;ayons séparé;que ;vous ;;;ayez séparé;qu’;ils/elles ;;;aient séparé
+Subjonctif Imparfait;subjonctif;que ;je ;;;séparasse;que ;tu ;;;séparasses;qu’;il/elle/on ;;;séparât;que ;nous ;;;séparassions;que ;vous ;;;séparassiez;qu’;ils/elles ;;;séparassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse séparé;que ;tu ;;;eusses séparé;qu’;il/elle/on ;;;eût séparé;que ;nous ;;;eussions séparé;que ;vous ;;;eussiez séparé;qu’;ils/elles ;;;eussent séparé
+Conditionnel;conditionnel;;je ;;;séparerais;;tu ;;;séparerais;;il/elle/on ;;;séparerait;;nous ;;;séparerions;;vous ;;;sépareriez;;ils/elles ;;;sépareraient
+Conditionnel Passé;conditionnel;;j’;;;aurais séparé;;tu ;;;aurais séparé;;il/elle/on ;;;aurait séparé;;nous ;;;aurions séparé;;vous ;;;auriez séparé;;ils/elles ;;;auraient séparé
+Impératif Présent;impératif;;;;;;;;;;sépare;;;;;;;;;;séparons;;;;;séparez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;séparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;sépar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

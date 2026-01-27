@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;moduler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir modulé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en modulant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant modulé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;modulant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;modulé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;module;;tu ;;;modules;;il/elle/on ;;;module;;nous ;;;modulons;;vous ;;;modulez;;ils/elles ;;;modulent
+Indicatif Passé Composé;indicatif;;j’;;;ai modulé;;tu ;;;as modulé;;il/elle/on ;;;a modulé;;nous ;;;avons modulé;;vous ;;;avez modulé;;ils/elles ;;;ont modulé
+Indicatif Imparfait;indicatif;;je ;;;modulais;;tu ;;;modulais;;il/elle/on ;;;modulait;;nous ;;;modulions;;vous ;;;moduliez;;ils/elles ;;;modulaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais modulé;;tu ;;;avais modulé;;il/elle/on ;;;avait modulé;;nous ;;;avions modulé;;vous ;;;aviez modulé;;ils/elles ;;;avaient modulé
+Indicatif Passé Simple;indicatif;;je ;;;modulai;;tu ;;;modulas;;il/elle/on ;;;modula;;nous ;;;modulâmes;;vous ;;;modulâtes;;ils/elles ;;;modulèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus modulé;;tu ;;;eus modulé;;il/elle/on ;;;eut modulé;;nous ;;;eûmes modulé;;vous ;;;eûtes modulé;;ils/elles ;;;eurent modulé
+Indicatif Futur Simple;indicatif;;je ;;;modulerai;;tu ;;;moduleras;;il/elle/on ;;;modulera;;nous ;;;modulerons;;vous ;;;modulerez;;ils/elles ;;;moduleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai modulé;;tu ;;;auras modulé;;il/elle/on ;;;aura modulé;;nous ;;;aurons modulé;;vous ;;;aurez modulé;;ils/elles ;;;auront modulé
+Subjonctif Présent;subjonctif;que ;je ;;;module;que ;tu ;;;modules;qu’;il/elle/on ;;;module;que ;nous ;;;modulions;que ;vous ;;;moduliez;qu’;ils/elles ;;;modulent
+Subjonctif Passé;subjonctif;que ;j’;;;aie modulé;que ;tu ;;;aies modulé;qu’;il/elle/on ;;;ait modulé;que ;nous ;;;ayons modulé;que ;vous ;;;ayez modulé;qu’;ils/elles ;;;aient modulé
+Subjonctif Imparfait;subjonctif;que ;je ;;;modulasse;que ;tu ;;;modulasses;qu’;il/elle/on ;;;modulât;que ;nous ;;;modulassions;que ;vous ;;;modulassiez;qu’;ils/elles ;;;modulassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse modulé;que ;tu ;;;eusses modulé;qu’;il/elle/on ;;;eût modulé;que ;nous ;;;eussions modulé;que ;vous ;;;eussiez modulé;qu’;ils/elles ;;;eussent modulé
+Conditionnel;conditionnel;;je ;;;modulerais;;tu ;;;modulerais;;il/elle/on ;;;modulerait;;nous ;;;modulerions;;vous ;;;moduleriez;;ils/elles ;;;moduleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais modulé;;tu ;;;aurais modulé;;il/elle/on ;;;aurait modulé;;nous ;;;aurions modulé;;vous ;;;auriez modulé;;ils/elles ;;;auraient modulé
+Impératif Présent;impératif;;;;;;;;;;module;;;;;;;;;;modulons;;;;;modulez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;moduler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;modul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

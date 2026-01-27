@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;lever;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir levé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en levant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant levé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;levant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;levé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;lève;;tu ;;;lèves;;il/elle/on ;;;lève;;nous ;;;levons;;vous ;;;levez;;ils/elles ;;;lèvent
+Indicatif Passé Composé;indicatif;;j’;;;ai levé;;tu ;;;as levé;;il/elle/on ;;;a levé;;nous ;;;avons levé;;vous ;;;avez levé;;ils/elles ;;;ont levé
+Indicatif Imparfait;indicatif;;je ;;;levais;;tu ;;;levais;;il/elle/on ;;;levait;;nous ;;;levions;;vous ;;;leviez;;ils/elles ;;;levaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais levé;;tu ;;;avais levé;;il/elle/on ;;;avait levé;;nous ;;;avions levé;;vous ;;;aviez levé;;ils/elles ;;;avaient levé
+Indicatif Passé Simple;indicatif;;je ;;;levai;;tu ;;;levas;;il/elle/on ;;;leva;;nous ;;;levâmes;;vous ;;;levâtes;;ils/elles ;;;levèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus levé;;tu ;;;eus levé;;il/elle/on ;;;eut levé;;nous ;;;eûmes levé;;vous ;;;eûtes levé;;ils/elles ;;;eurent levé
+Indicatif Futur Simple;indicatif;;je ;;;lèverai;;tu ;;;lèveras;;il/elle/on ;;;lèvera;;nous ;;;lèverons;;vous ;;;lèverez;;ils/elles ;;;lèveront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai levé;;tu ;;;auras levé;;il/elle/on ;;;aura levé;;nous ;;;aurons levé;;vous ;;;aurez levé;;ils/elles ;;;auront levé
+Subjonctif Présent;subjonctif;que ;je ;;;lève;que ;tu ;;;lèves;qu’;il/elle/on ;;;lève;que ;nous ;;;levions;que ;vous ;;;leviez;qu’;ils/elles ;;;lèvent
+Subjonctif Passé;subjonctif;que ;j’;;;aie levé;que ;tu ;;;aies levé;qu’;il/elle/on ;;;ait levé;que ;nous ;;;ayons levé;que ;vous ;;;ayez levé;qu’;ils/elles ;;;aient levé
+Subjonctif Imparfait;subjonctif;que ;je ;;;levasse;que ;tu ;;;levasses;qu’;il/elle/on ;;;levât;que ;nous ;;;levassions;que ;vous ;;;levassiez;qu’;ils/elles ;;;levassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse levé;que ;tu ;;;eusses levé;qu’;il/elle/on ;;;eût levé;que ;nous ;;;eussions levé;que ;vous ;;;eussiez levé;qu’;ils/elles ;;;eussent levé
+Conditionnel;conditionnel;;je ;;;lèverais;;tu ;;;lèverais;;il/elle/on ;;;lèverait;;nous ;;;lèverions;;vous ;;;lèveriez;;ils/elles ;;;lèveraient
+Conditionnel Passé;conditionnel;;j’;;;aurais levé;;tu ;;;aurais levé;;il/elle/on ;;;aurait levé;;nous ;;;aurions levé;;vous ;;;auriez levé;;ils/elles ;;;auraient levé
+Impératif Présent;impératif;;;;;;;;;;lève;;;;;;;;;;levons;;;;;levez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;lever;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;lev;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

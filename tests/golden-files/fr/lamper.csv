@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;lamperais;;tu ;;;lamperais;;il/elle/on ;;;lampe
 Conditionnel Passé;conditionnel;;j’;;;aurais lampé;;tu ;;;aurais lampé;;il/elle/on ;;;aurait lampé;;nous ;;;aurions lampé;;vous ;;;auriez lampé;;ils/elles ;;;auraient lampé
 Impératif Présent;impératif;;;;;;;(tu) ;;;lampe;;;;;;;(nous) ;;;lampons;;(vous) ;;;lampez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie lampé;;;;;;;(nous) ;;;ayons lampé;;(vous) ;;;ayez lampé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;lampe pas;;;;;;;(nous) ;ne ;;lampons pas;;(vous) ;ne ;;lampez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;lamper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

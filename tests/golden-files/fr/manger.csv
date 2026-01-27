@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;mangerais;;tu ;;;mangerais;;il/elle/on ;;;mange
 Conditionnel Passé;conditionnel;;j’;;;aurais mangé;;tu ;;;aurais mangé;;il/elle/on ;;;aurait mangé;;nous ;;;aurions mangé;;vous ;;;auriez mangé;;ils/elles ;;;auraient mangé
 Impératif Présent;impératif;;;;;;;(tu) ;;;mange;;;;;;;(nous) ;;;mangeons;;(vous) ;;;mangez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie mangé;;;;;;;(nous) ;;;ayons mangé;;(vous) ;;;ayez mangé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mange pas;;;;;;;(nous) ;ne ;;mangeons pas;;(vous) ;ne ;;mangez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;manger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

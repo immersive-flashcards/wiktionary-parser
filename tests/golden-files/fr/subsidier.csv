@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;subsidierais;;tu ;;;subsidierais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais subsidié;;tu ;;;aurais subsidié;;il/elle/on ;;;aurait subsidié;;nous ;;;aurions subsidié;;vous ;;;auriez subsidié;;ils/elles ;;;auraient subsidié
 Impératif Présent;impératif;;;;;;;(tu) ;;;subsidie;;;;;;;(nous) ;;;subsidions;;(vous) ;;;subsidiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie subsidié;;;;;;;(nous) ;;;ayons subsidié;;(vous) ;;;ayez subsidié;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;subsidie pas;;;;;;;(nous) ;ne ;;subsidions pas;;(vous) ;ne ;;subsidiez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;subsidier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

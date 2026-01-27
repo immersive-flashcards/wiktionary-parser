@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;abstergerais;;tu ;;;abstergerais;;il/elle/on ;
 Conditionnel Passé;conditionnel;;j’;;;aurais abstergé;;tu ;;;aurais abstergé;;il/elle/on ;;;aurait abstergé;;nous ;;;aurions abstergé;;vous ;;;auriez abstergé;;ils/elles ;;;auraient abstergé
 Impératif Présent;impératif;;;;;;;(tu) ;;;absterge;;;;;;;(nous) ;;;abstergeons;;(vous) ;;;abstergez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie abstergé;;;;;;;(nous) ;;;ayons abstergé;;(vous) ;;;ayez abstergé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;absterge pas;;;;;;;(nous) ;n';;abstergeons pas;;(vous) ;n';;abstergez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;absterger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

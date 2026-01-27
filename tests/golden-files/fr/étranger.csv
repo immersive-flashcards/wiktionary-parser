@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;étrangerais;;tu ;;;étrangerais;;il/elle/on ;
 Conditionnel Passé;conditionnel;;j’;;;aurais étrangé;;tu ;;;aurais étrangé;;il/elle/on ;;;aurait étrangé;;nous ;;;aurions étrangé;;vous ;;;auriez étrangé;;ils/elles ;;;auraient étrangé
 Impératif Présent;impératif;;;;;;;(tu) ;;;étrange;;;;;;;(nous) ;;;étrangeons;;(vous) ;;;étrangez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie étrangé;;;;;;;(nous) ;;;ayons étrangé;;(vous) ;;;ayez étrangé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;étrange pas;;;;;;;(nous) ;n';;étrangeons pas;;(vous) ;n';;étrangez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;étranger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

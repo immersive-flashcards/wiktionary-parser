@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;apporterais;;tu ;;;apporterais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais apporté;;tu ;;;aurais apporté;;il/elle/on ;;;aurait apporté;;nous ;;;aurions apporté;;vous ;;;auriez apporté;;ils/elles ;;;auraient apporté
 Impératif Présent;impératif;;;;;;;(tu) ;;;apporte;;;;;;;(nous) ;;;apportons;;(vous) ;;;apportez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie apporté;;;;;;;(nous) ;;;ayons apporté;;(vous) ;;;ayez apporté;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;apporte pas;;;;;;;(nous) ;n';;apportons pas;;(vous) ;n';;apportez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;apporter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

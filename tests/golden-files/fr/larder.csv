@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;larderais;;tu ;;;larderais;;il/elle/on ;;;larde
 Conditionnel Passé;conditionnel;;j’;;;aurais lardé;;tu ;;;aurais lardé;;il/elle/on ;;;aurait lardé;;nous ;;;aurions lardé;;vous ;;;auriez lardé;;ils/elles ;;;auraient lardé
 Impératif Présent;impératif;;;;;;;(tu) ;;;larde;;;;;;;(nous) ;;;lardons;;(vous) ;;;lardez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie lardé;;;;;;;(nous) ;;;ayons lardé;;(vous) ;;;ayez lardé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;larde pas;;;;;;;(nous) ;ne ;;lardons pas;;(vous) ;ne ;;lardez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;larder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

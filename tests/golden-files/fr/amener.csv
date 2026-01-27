@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;amènerais;;tu ;;;amènerais;;il/elle/on ;;;am
 Conditionnel Passé;conditionnel;;j’;;;aurais amené;;tu ;;;aurais amené;;il/elle/on ;;;aurait amené;;nous ;;;aurions amené;;vous ;;;auriez amené;;ils/elles ;;;auraient amené
 Impératif Présent;impératif;;;;;;;(tu) ;;;amène;;;;;;;(nous) ;;;amenons;;(vous) ;;;amenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie amené;;;;;;;(nous) ;;;ayons amené;;(vous) ;;;ayez amené;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;amène pas;;;;;;;(nous) ;n';;amenons pas;;(vous) ;n';;amenez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;amener;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

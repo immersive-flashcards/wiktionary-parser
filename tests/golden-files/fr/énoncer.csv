@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;énoncerais;;tu ;;;énoncerais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais énoncé;;tu ;;;aurais énoncé;;il/elle/on ;;;aurait énoncé;;nous ;;;aurions énoncé;;vous ;;;auriez énoncé;;ils/elles ;;;auraient énoncé
 Impératif Présent;impératif;;;;;;;(tu) ;;;énonce;;;;;;;(nous) ;;;énonçons;;(vous) ;;;énoncez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie énoncé;;;;;;;(nous) ;;;ayons énoncé;;(vous) ;;;ayez énoncé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;énonce pas;;;;;;;(nous) ;n';;énonçons pas;;(vous) ;n';;énoncez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;énoncer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

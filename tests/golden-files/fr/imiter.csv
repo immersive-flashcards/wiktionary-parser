@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;imiterais;;tu ;;;imiterais;;il/elle/on ;;;imit
 Conditionnel Passé;conditionnel;;j’;;;aurais imité;;tu ;;;aurais imité;;il/elle/on ;;;aurait imité;;nous ;;;aurions imité;;vous ;;;auriez imité;;ils/elles ;;;auraient imité
 Impératif Présent;impératif;;;;;;;(tu) ;;;imite;;;;;;;(nous) ;;;imitons;;(vous) ;;;imitez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie imité;;;;;;;(nous) ;;;ayons imité;;(vous) ;;;ayez imité;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;imite pas;;;;;;;(nous) ;n';;imitons pas;;(vous) ;n';;imitez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;imiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

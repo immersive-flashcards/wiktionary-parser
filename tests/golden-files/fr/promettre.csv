@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;promettrais;;tu ;;;promettrais;;il/elle/on ;;;p
 Conditionnel Passé;conditionnel;;j’;;;aurais promis;;tu ;;;aurais promis;;il/elle/on ;;;aurait promis;;nous ;;;aurions promis;;vous ;;;auriez promis;;ils/elles ;;;auraient promis
 Impératif Présent;impératif;;;;;;;(tu) ;;;promets;;;;;;;(nous) ;;;promettons;;(vous) ;;;promettez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie promis;;;;;;;(nous) ;;;ayons promis;;(vous) ;;;ayez promis;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;promets pas;;;;;;;(nous) ;ne ;;promettons pas;;(vous) ;ne ;;promettez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;promettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

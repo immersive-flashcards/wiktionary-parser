@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;avoinerais;;tu ;;;avoinerais;;il/elle/on ;;;av
 Conditionnel Passé;conditionnel;;j’;;;aurais avoiné;;tu ;;;aurais avoiné;;il/elle/on ;;;aurait avoiné;;nous ;;;aurions avoiné;;vous ;;;auriez avoiné;;ils/elles ;;;auraient avoiné
 Impératif Présent;impératif;;;;;;;(tu) ;;;avoine;;;;;;;(nous) ;;;avoinons;;(vous) ;;;avoinez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie avoiné;;;;;;;(nous) ;;;ayons avoiné;;(vous) ;;;ayez avoiné;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;avoine pas;;;;;;;(nous) ;n';;avoinons pas;;(vous) ;n';;avoinez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;avoiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

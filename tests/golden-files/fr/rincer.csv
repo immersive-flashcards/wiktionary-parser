@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;rincerais;;tu ;;;rincerais;;il/elle/on ;;;rince
 Conditionnel Passé;conditionnel;;j’;;;aurais rincé;;tu ;;;aurais rincé;;il/elle/on ;;;aurait rincé;;nous ;;;aurions rincé;;vous ;;;auriez rincé;;ils/elles ;;;auraient rincé
 Impératif Présent;impératif;;;;;;;(tu) ;;;rince;;;;;;;(nous) ;;;rinçons;;(vous) ;;;rincez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie rincé;;;;;;;(nous) ;;;ayons rincé;;(vous) ;;;ayez rincé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rince pas;;;;;;;(nous) ;ne ;;rinçons pas;;(vous) ;ne ;;rincez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rincer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

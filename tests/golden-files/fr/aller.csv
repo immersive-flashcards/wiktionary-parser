@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;irais;;tu ;;;irais;;il/elle/on ;;;irait;;nous 
 Conditionnel Passé;conditionnel;;je ;;;serais allé;;tu ;;;serais allé;;il/elle/on ;;;serait allé;;nous ;;;serions allés;;vous ;;;seriez allés;;ils/elles ;;;seraient allés
 Impératif Présent;impératif;;;;;;;(tu) ;;;va;;;;;;;(nous) ;;;allons;;(vous) ;;;allez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois allé;;;;;;;(nous) ;;;soyons allés;;(vous) ;;;soyez allés;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;va pas;;;;;;;(nous) ;n';;allons pas;;(vous) ;n';;allez pas;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;aller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

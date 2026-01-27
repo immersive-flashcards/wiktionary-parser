@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;accueillerais;;tu ;;;accueillerais;;il/elle/on
 Conditionnel Passé;conditionnel;;j’;;;aurais accueilli;;tu ;;;aurais accueilli;;il/elle/on ;;;aurait accueilli;;nous ;;;aurions accueilli;;vous ;;;auriez accueilli;;ils/elles ;;;auraient accueilli
 Impératif Présent;impératif;;;;;;;(tu) ;;;accueille;;;;;;;(nous) ;;;accueillons;;(vous) ;;;accueillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie accueilli;;;;;;;(nous) ;;;ayons accueilli;;(vous) ;;;ayez accueilli;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;accueille pas;;;;;;;(nous) ;n';;accueillons pas;;(vous) ;n';;accueillez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;accueillir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

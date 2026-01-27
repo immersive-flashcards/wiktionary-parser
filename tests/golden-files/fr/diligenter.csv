@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;diligenterais;;tu ;;;diligenterais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais diligenté;;tu ;;;aurais diligenté;;il/elle/on ;;;aurait diligenté;;nous ;;;aurions diligenté;;vous ;;;auriez diligenté;;ils/elles ;;;auraient diligenté
 Impératif Présent;impératif;;;;;;;(tu) ;;;diligente;;;;;;;(nous) ;;;diligentons;;(vous) ;;;diligentez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie diligenté;;;;;;;(nous) ;;;ayons diligenté;;(vous) ;;;ayez diligenté;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;diligente pas;;;;;;;(nous) ;ne ;;diligentons pas;;(vous) ;ne ;;diligentez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;diligenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

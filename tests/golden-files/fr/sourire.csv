@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;sourirais;;tu ;;;sourirais;;il/elle/on ;;;souri
 Conditionnel Passé;conditionnel;;j’;;;aurais souri;;tu ;;;aurais souri;;il/elle/on ;;;aurait souri;;nous ;;;aurions souri;;vous ;;;auriez souri;;ils/elles ;;;auraient souri
 Impératif Présent;impératif;;;;;;;(tu) ;;;souris;;;;;;;(nous) ;;;sourions;;(vous) ;;;souriez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie souri;;;;;;;(nous) ;;;ayons souri;;(vous) ;;;ayez souri;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;souris pas;;;;;;;(nous) ;ne ;;sourions pas;;(vous) ;ne ;;souriez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;sourire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

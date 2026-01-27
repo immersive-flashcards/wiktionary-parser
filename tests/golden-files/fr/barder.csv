@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;barderais;;tu ;;;barderais;;il/elle/on ;;;barde
 Conditionnel Passé;conditionnel;;j’;;;aurais bardé;;tu ;;;aurais bardé;;il/elle/on ;;;aurait bardé;;nous ;;;aurions bardé;;vous ;;;auriez bardé;;ils/elles ;;;auraient bardé
 Impératif Présent;impératif;;;;;;;(tu) ;;;barde;;;;;;;(nous) ;;;bardons;;(vous) ;;;bardez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie bardé;;;;;;;(nous) ;;;ayons bardé;;(vous) ;;;ayez bardé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;barde pas;;;;;;;(nous) ;ne ;;bardons pas;;(vous) ;ne ;;bardez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;barder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

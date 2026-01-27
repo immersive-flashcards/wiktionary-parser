@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;mélangerais;;tu ;;;mélangerais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais mélangé;;tu ;;;aurais mélangé;;il/elle/on ;;;aurait mélangé;;nous ;;;aurions mélangé;;vous ;;;auriez mélangé;;ils/elles ;;;auraient mélangé
 Impératif Présent;impératif;;;;;;;(tu) ;;;mélange;;;;;;;(nous) ;;;mélangeons;;(vous) ;;;mélangez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie mélangé;;;;;;;(nous) ;;;ayons mélangé;;(vous) ;;;ayez mélangé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mélange pas;;;;;;;(nous) ;ne ;;mélangeons pas;;(vous) ;ne ;;mélangez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;mélanger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

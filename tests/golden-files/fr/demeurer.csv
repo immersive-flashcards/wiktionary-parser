@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;demeurerais;;tu ;;;demeurerais;;il/elle/on ;;;d
 Conditionnel Passé;conditionnel;;j’;;;aurais demeuré;;tu ;;;aurais demeuré;;il/elle/on ;;;aurait demeuré;;nous ;;;aurions demeuré;;vous ;;;auriez demeuré;;ils/elles ;;;auraient demeuré
 Impératif Présent;impératif;;;;;;;(tu) ;;;demeure;;;;;;;(nous) ;;;demeurons;;(vous) ;;;demeurez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie demeuré;;;;;;;(nous) ;;;ayons demeuré;;(vous) ;;;ayez demeuré;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;demeure pas;;;;;;;(nous) ;ne ;;demeurons pas;;(vous) ;ne ;;demeurez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;demeurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

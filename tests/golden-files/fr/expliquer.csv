@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;expliquerais;;tu ;;;expliquerais;;il/elle/on ;
 Conditionnel Passé;conditionnel;;j’;;;aurais expliqué;;tu ;;;aurais expliqué;;il/elle/on ;;;aurait expliqué;;nous ;;;aurions expliqué;;vous ;;;auriez expliqué;;ils/elles ;;;auraient expliqué
 Impératif Présent;impératif;;;;;;;(tu) ;;;explique;;;;;;;(nous) ;;;expliquons;;(vous) ;;;expliquez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie expliqué;;;;;;;(nous) ;;;ayons expliqué;;(vous) ;;;ayez expliqué;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;explique pas;;;;;;;(nous) ;n';;expliquons pas;;(vous) ;n';;expliquez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;expliquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

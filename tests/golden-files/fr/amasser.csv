@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;amasserais;;tu ;;;amasserais;;il/elle/on ;;;am
 Conditionnel Passé;conditionnel;;j’;;;aurais amassé;;tu ;;;aurais amassé;;il/elle/on ;;;aurait amassé;;nous ;;;aurions amassé;;vous ;;;auriez amassé;;ils/elles ;;;auraient amassé
 Impératif Présent;impératif;;;;;;;(tu) ;;;amasse;;;;;;;(nous) ;;;amassons;;(vous) ;;;amassez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie amassé;;;;;;;(nous) ;;;ayons amassé;;(vous) ;;;ayez amassé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;amasse pas;;;;;;;(nous) ;n';;amassons pas;;(vous) ;n';;amassez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;amasser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

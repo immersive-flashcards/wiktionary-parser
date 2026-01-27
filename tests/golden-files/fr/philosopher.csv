@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;philosopherais;;tu ;;;philosopherais;;il/elle/o
 Conditionnel Passé;conditionnel;;j’;;;aurais philosophé;;tu ;;;aurais philosophé;;il/elle/on ;;;aurait philosophé;;nous ;;;aurions philosophé;;vous ;;;auriez philosophé;;ils/elles ;;;auraient philosophé
 Impératif Présent;impératif;;;;;;;(tu) ;;;philosophe;;;;;;;(nous) ;;;philosophons;;(vous) ;;;philosophez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie philosophé;;;;;;;(nous) ;;;ayons philosophé;;(vous) ;;;ayez philosophé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;philosophe pas;;;;;;;(nous) ;ne ;;philosophons pas;;(vous) ;ne ;;philosophez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;philosopher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

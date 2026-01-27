@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;tinterais;;tu ;;;tinterais;;il/elle/on ;;;tinte
 Conditionnel Passé;conditionnel;;j’;;;aurais tinté;;tu ;;;aurais tinté;;il/elle/on ;;;aurait tinté;;nous ;;;aurions tinté;;vous ;;;auriez tinté;;ils/elles ;;;auraient tinté
 Impératif Présent;impératif;;;;;;;(tu) ;;;tinte;;;;;;;(nous) ;;;tintons;;(vous) ;;;tintez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie tinté;;;;;;;(nous) ;;;ayons tinté;;(vous) ;;;ayez tinté;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;tinte pas;;;;;;;(nous) ;ne ;;tintons pas;;(vous) ;ne ;;tintez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;tinter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

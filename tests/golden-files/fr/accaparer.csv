@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;accaparerais;;tu ;;;accaparerais;;il/elle/on ;
 Conditionnel Passé;conditionnel;;j’;;;aurais accaparé;;tu ;;;aurais accaparé;;il/elle/on ;;;aurait accaparé;;nous ;;;aurions accaparé;;vous ;;;auriez accaparé;;ils/elles ;;;auraient accaparé
 Impératif Présent;impératif;;;;;;;(tu) ;;;accapare;;;;;;;(nous) ;;;accaparons;;(vous) ;;;accaparez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie accaparé;;;;;;;(nous) ;;;ayons accaparé;;(vous) ;;;ayez accaparé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;accapare pas;;;;;;;(nous) ;n';;accaparons pas;;(vous) ;n';;accaparez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;accaparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

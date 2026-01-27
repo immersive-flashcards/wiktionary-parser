@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;fournirais;;tu ;;;fournirais;;il/elle/on ;;;fou
 Conditionnel Passé;conditionnel;;j’;;;aurais fourni;;tu ;;;aurais fourni;;il/elle/on ;;;aurait fourni;;nous ;;;aurions fourni;;vous ;;;auriez fourni;;ils/elles ;;;auraient fourni
 Impératif Présent;impératif;;;;;;;(tu) ;;;fournis;;;;;;;(nous) ;;;fournissons;;(vous) ;;;fournissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fourni;;;;;;;(nous) ;;;ayons fourni;;(vous) ;;;ayez fourni;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fournis pas;;;;;;;(nous) ;ne ;;fournissons pas;;(vous) ;ne ;;fournissez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;fournir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;bayerais;;tu ;;;bayerais;;il/elle/on ;;;bayerai
 Conditionnel Passé;conditionnel;;j’;;;aurais bayé;;tu ;;;aurais bayé;;il/elle/on ;;;aurait bayé;;nous ;;;aurions bayé;;vous ;;;auriez bayé;;ils/elles ;;;auraient bayé
 Impératif Présent;impératif;;;;;;;(tu) ;;;baye;;;;;;;(nous) ;;;bayons;;(vous) ;;;bayez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie bayé;;;;;;;(nous) ;;;ayons bayé;;(vous) ;;;ayez bayé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;baye pas;;;;;;;(nous) ;ne ;;bayons pas;;(vous) ;ne ;;bayez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;bayer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;manquerais;;tu ;;;manquerais;;il/elle/on ;;;man
 Conditionnel Passé;conditionnel;;j’;;;aurais manqué;;tu ;;;aurais manqué;;il/elle/on ;;;aurait manqué;;nous ;;;aurions manqué;;vous ;;;auriez manqué;;ils/elles ;;;auraient manqué
 Impératif Présent;impératif;;;;;;;(tu) ;;;manque;;;;;;;(nous) ;;;manquons;;(vous) ;;;manquez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie manqué;;;;;;;(nous) ;;;ayons manqué;;(vous) ;;;ayez manqué;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;manque pas;;;;;;;(nous) ;ne ;;manquons pas;;(vous) ;ne ;;manquez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;manquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

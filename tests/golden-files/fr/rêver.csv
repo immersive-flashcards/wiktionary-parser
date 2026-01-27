@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;rêverais;;tu ;;;rêverais;;il/elle/on ;;;rêve
 Conditionnel Passé;conditionnel;;j’;;;aurais rêvé;;tu ;;;aurais rêvé;;il/elle/on ;;;aurait rêvé;;nous ;;;aurions rêvé;;vous ;;;auriez rêvé;;ils/elles ;;;auraient rêvé
 Impératif Présent;impératif;;;;;;;(tu) ;;;rêve;;;;;;;(nous) ;;;rêvons;;(vous) ;;;rêvez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie rêvé;;;;;;;(nous) ;;;ayons rêvé;;(vous) ;;;ayez rêvé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rêve pas;;;;;;;(nous) ;ne ;;rêvons pas;;(vous) ;ne ;;rêvez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rêver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

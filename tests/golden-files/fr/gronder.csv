@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;gronderais;;tu ;;;gronderais;;il/elle/on ;;;gro
 Conditionnel Passé;conditionnel;;j’;;;aurais grondé;;tu ;;;aurais grondé;;il/elle/on ;;;aurait grondé;;nous ;;;aurions grondé;;vous ;;;auriez grondé;;ils/elles ;;;auraient grondé
 Impératif Présent;impératif;;;;;;;(tu) ;;;gronde;;;;;;;(nous) ;;;grondons;;(vous) ;;;grondez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie grondé;;;;;;;(nous) ;;;ayons grondé;;(vous) ;;;ayez grondé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gronde pas;;;;;;;(nous) ;ne ;;grondons pas;;(vous) ;ne ;;grondez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;gronder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

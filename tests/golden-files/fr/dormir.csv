@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;dormirais;;tu ;;;dormirais;;il/elle/on ;;;dormi
 Conditionnel Passé;conditionnel;;j’;;;aurais dormi;;tu ;;;aurais dormi;;il/elle/on ;;;aurait dormi;;nous ;;;aurions dormi;;vous ;;;auriez dormi;;ils/elles ;;;auraient dormi
 Impératif Présent;impératif;;;;;;;(tu) ;;;dors;;;;;;;(nous) ;;;dormons;;(vous) ;;;dormez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie dormi;;;;;;;(nous) ;;;ayons dormi;;(vous) ;;;ayez dormi;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;dors pas;;;;;;;(nous) ;ne ;;dormons pas;;(vous) ;ne ;;dormez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;dormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

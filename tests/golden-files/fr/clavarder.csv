@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;clavarderais;;tu ;;;clavarderais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais clavardé;;tu ;;;aurais clavardé;;il/elle/on ;;;aurait clavardé;;nous ;;;aurions clavardé;;vous ;;;auriez clavardé;;ils/elles ;;;auraient clavardé
 Impératif Présent;impératif;;;;;;;(tu) ;;;clavarde;;;;;;;(nous) ;;;clavardons;;(vous) ;;;clavardez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie clavardé;;;;;;;(nous) ;;;ayons clavardé;;(vous) ;;;ayez clavardé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;clavarde pas;;;;;;;(nous) ;ne ;;clavardons pas;;(vous) ;ne ;;clavardez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;clavarder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

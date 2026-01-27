@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;stationnerais;;tu ;;;stationnerais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais stationné;;tu ;;;aurais stationné;;il/elle/on ;;;aurait stationné;;nous ;;;aurions stationné;;vous ;;;auriez stationné;;ils/elles ;;;auraient stationné
 Impératif Présent;impératif;;;;;;;(tu) ;;;stationne;;;;;;;(nous) ;;;stationnons;;(vous) ;;;stationnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie stationné;;;;;;;(nous) ;;;ayons stationné;;(vous) ;;;ayez stationné;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;stationne pas;;;;;;;(nous) ;ne ;;stationnons pas;;(vous) ;ne ;;stationnez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;stationner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;raconterais;;tu ;;;raconterais;;il/elle/on ;;;r
 Conditionnel Passé;conditionnel;;j’;;;aurais raconté;;tu ;;;aurais raconté;;il/elle/on ;;;aurait raconté;;nous ;;;aurions raconté;;vous ;;;auriez raconté;;ils/elles ;;;auraient raconté
 Impératif Présent;impératif;;;;;;;(tu) ;;;raconte;;;;;;;(nous) ;;;racontons;;(vous) ;;;racontez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie raconté;;;;;;;(nous) ;;;ayons raconté;;(vous) ;;;ayez raconté;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;raconte pas;;;;;;;(nous) ;ne ;;racontons pas;;(vous) ;ne ;;racontez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;raconter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

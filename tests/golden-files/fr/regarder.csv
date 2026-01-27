@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;regarderais;;tu ;;;regarderais;;il/elle/on ;;;r
 Conditionnel Passé;conditionnel;;j’;;;aurais regardé;;tu ;;;aurais regardé;;il/elle/on ;;;aurait regardé;;nous ;;;aurions regardé;;vous ;;;auriez regardé;;ils/elles ;;;auraient regardé
 Impératif Présent;impératif;;;;;;;(tu) ;;;regarde;;;;;;;(nous) ;;;regardons;;(vous) ;;;regardez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie regardé;;;;;;;(nous) ;;;ayons regardé;;(vous) ;;;ayez regardé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;regarde pas;;;;;;;(nous) ;ne ;;regardons pas;;(vous) ;ne ;;regardez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;regarder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

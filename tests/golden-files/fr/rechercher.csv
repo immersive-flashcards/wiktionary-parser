@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;rechercherais;;tu ;;;rechercherais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais recherché;;tu ;;;aurais recherché;;il/elle/on ;;;aurait recherché;;nous ;;;aurions recherché;;vous ;;;auriez recherché;;ils/elles ;;;auraient recherché
 Impératif Présent;impératif;;;;;;;(tu) ;;;recherche;;;;;;;(nous) ;;;recherchons;;(vous) ;;;recherchez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie recherché;;;;;;;(nous) ;;;ayons recherché;;(vous) ;;;ayez recherché;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;recherche pas;;;;;;;(nous) ;ne ;;recherchons pas;;(vous) ;ne ;;recherchez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rechercher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

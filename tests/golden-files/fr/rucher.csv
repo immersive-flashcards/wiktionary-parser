@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;rucherais;;tu ;;;rucherais;;il/elle/on ;;;ruche
 Conditionnel Passé;conditionnel;;j’;;;aurais ruché;;tu ;;;aurais ruché;;il/elle/on ;;;aurait ruché;;nous ;;;aurions ruché;;vous ;;;auriez ruché;;ils/elles ;;;auraient ruché
 Impératif Présent;impératif;;;;;;;(tu) ;;;ruche;;;;;;;(nous) ;;;ruchons;;(vous) ;;;ruchez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie ruché;;;;;;;(nous) ;;;ayons ruché;;(vous) ;;;ayez ruché;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;ruche pas;;;;;;;(nous) ;ne ;;ruchons pas;;(vous) ;ne ;;ruchez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;pleurerais;;tu ;;;pleurerais;;il/elle/on ;;;ple
 Conditionnel Passé;conditionnel;;j’;;;aurais pleuré;;tu ;;;aurais pleuré;;il/elle/on ;;;aurait pleuré;;nous ;;;aurions pleuré;;vous ;;;auriez pleuré;;ils/elles ;;;auraient pleuré
 Impératif Présent;impératif;;;;;;;(tu) ;;;pleure;;;;;;;(nous) ;;;pleurons;;(vous) ;;;pleurez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie pleuré;;;;;;;(nous) ;;;ayons pleuré;;(vous) ;;;ayez pleuré;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pleure pas;;;;;;;(nous) ;ne ;;pleurons pas;;(vous) ;ne ;;pleurez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;pleurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

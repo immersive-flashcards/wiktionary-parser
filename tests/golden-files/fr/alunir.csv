@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;alunirais;;tu ;;;alunirais;;il/elle/on ;;;alun
 Conditionnel Passé;conditionnel;;j’;;;aurais aluni;;tu ;;;aurais aluni;;il/elle/on ;;;aurait aluni;;nous ;;;aurions aluni;;vous ;;;auriez aluni;;ils/elles ;;;auraient aluni
 Impératif Présent;impératif;;;;;;;(tu) ;;;alunis;;;;;;;(nous) ;;;alunissons;;(vous) ;;;alunissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie aluni;;;;;;;(nous) ;;;ayons aluni;;(vous) ;;;ayez aluni;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;alunis pas;;;;;;;(nous) ;n';;alunissons pas;;(vous) ;n';;alunissez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;alunir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

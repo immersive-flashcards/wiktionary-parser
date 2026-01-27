@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;classifierais;;tu ;;;classifierais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais classifié;;tu ;;;aurais classifié;;il/elle/on ;;;aurait classifié;;nous ;;;aurions classifié;;vous ;;;auriez classifié;;ils/elles ;;;auraient classifié
 Impératif Présent;impératif;;;;;;;(tu) ;;;classifie;;;;;;;(nous) ;;;classifions;;(vous) ;;;classifiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie classifié;;;;;;;(nous) ;;;ayons classifié;;(vous) ;;;ayez classifié;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;classifie pas;;;;;;;(nous) ;ne ;;classifions pas;;(vous) ;ne ;;classifiez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;classifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

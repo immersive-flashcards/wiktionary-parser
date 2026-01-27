@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;capitonnerais;;tu ;;;capitonnerais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais capitonné;;tu ;;;aurais capitonné;;il/elle/on ;;;aurait capitonné;;nous ;;;aurions capitonné;;vous ;;;auriez capitonné;;ils/elles ;;;auraient capitonné
 Impératif Présent;impératif;;;;;;;(tu) ;;;capitonne;;;;;;;(nous) ;;;capitonnons;;(vous) ;;;capitonnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie capitonné;;;;;;;(nous) ;;;ayons capitonné;;(vous) ;;;ayez capitonné;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;capitonne pas;;;;;;;(nous) ;ne ;;capitonnons pas;;(vous) ;ne ;;capitonnez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;capitonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

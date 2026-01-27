@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;retirerais;;tu ;;;retirerais;;il/elle/on ;;;ret
 Conditionnel Passé;conditionnel;;j’;;;aurais retiré;;tu ;;;aurais retiré;;il/elle/on ;;;aurait retiré;;nous ;;;aurions retiré;;vous ;;;auriez retiré;;ils/elles ;;;auraient retiré
 Impératif Présent;impératif;;;;;;;(tu) ;;;retire;;;;;;;(nous) ;;;retirons;;(vous) ;;;retirez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie retiré;;;;;;;(nous) ;;;ayons retiré;;(vous) ;;;ayez retiré;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;retire pas;;;;;;;(nous) ;ne ;;retirons pas;;(vous) ;ne ;;retirez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;retirer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

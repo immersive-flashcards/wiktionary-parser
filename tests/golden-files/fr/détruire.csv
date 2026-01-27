@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;détruirais;;tu ;;;détruirais;;il/elle/on ;;;d
 Conditionnel Passé;conditionnel;;j’;;;aurais détruit;;tu ;;;aurais détruit;;il/elle/on ;;;aurait détruit;;nous ;;;aurions détruit;;vous ;;;auriez détruit;;ils/elles ;;;auraient détruit
 Impératif Présent;impératif;;;;;;;(tu) ;;;détruis;;;;;;;(nous) ;;;détruisons;;(vous) ;;;détruisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie détruit;;;;;;;(nous) ;;;ayons détruit;;(vous) ;;;ayez détruit;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;détruis pas;;;;;;;(nous) ;ne ;;détruisons pas;;(vous) ;ne ;;détruisez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;détruire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

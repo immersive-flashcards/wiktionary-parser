@@ -31,12 +31,12 @@ person-data:
     5: "(vous) "
 
   reflexive-pronouns:
-    - [ "me ", "m’" ]
-    - [ "te ", "t’" ]
-    - [ "se ", "s’" ]
-    - [ "nous " ]
-    - [ "vous " ]
-    - [ "se ", "s’" ]
+    1: [ "me ", "m’" ]
+    2: [ "te ", "t’" ]
+    3: [ "se ", "s’" ]
+    4: [ "nous " ]
+    5: [ "vous " ]
+    6: [ "se ", "s’" ]
 
 category_source:
   path: ["senses", "*", "categories"]

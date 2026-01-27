@@ -49,12 +49,12 @@ person-data:
     6: "(vostès) "
 
   reflexive-pronouns:
-    - [ "em ", "m'" ]
-    - [ "et ", "t'" ]
-    - [ "es ", "s'" ]
-    - [ "ens " ]
-    - [ "us " ]
-    - [ "se ", "s'" ]
+    1: [ "em ", "m'" ]
+    2: [ "et ", "t'" ]
+    3: [ "es ", "s'" ]
+    4: [ "ens " ]
+    5: [ "us " ]
+    6: [ "se ", "s'" ]
 
 category_source:
   path: ["senses", "*", "categories"]

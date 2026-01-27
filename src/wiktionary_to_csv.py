@@ -218,9 +218,8 @@ def _get_pronoun_map(lang_cfg: LanguageConfig, imperative: bool) -> Mapping[int,
 def _get_reflexive_alts(lang_cfg: LanguageConfig, person_idx_1: int) -> Sequence[str]:
     """Return reflexive pronoun alternatives for a person index (1-based)."""
     refl = lang_cfg.person_data.get("reflexive-pronouns") or []
-    idx0 = person_idx_1 - 1
-    if 0 <= idx0 < len(refl):
-        return refl[idx0] or []
+    if 0 <= person_idx_1 < len(refl) +1:
+        return refl.get(person_idx_1) or []
     return []
 
 

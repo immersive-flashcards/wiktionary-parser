@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;emploierais;;tu ;;;emploierais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais employé;;tu ;;;aurais employé;;il/elle/on ;;;aurait employé;;nous ;;;aurions employé;;vous ;;;auriez employé;;ils/elles ;;;auraient employé
 Impératif Présent;impératif;;;;;;;(tu) ;;;emploie;;;;;;;(nous) ;;;employons;;(vous) ;;;employez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie employé;;;;;;;(nous) ;;;ayons employé;;(vous) ;;;ayez employé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;emploie pas;;;;;;;(nous) ;n';;employons pas;;(vous) ;n';;employez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;employer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

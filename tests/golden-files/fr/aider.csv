@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;aiderais;;tu ;;;aiderais;;il/elle/on ;;;aidera
 Conditionnel Passé;conditionnel;;j’;;;aurais aidé;;tu ;;;aurais aidé;;il/elle/on ;;;aurait aidé;;nous ;;;aurions aidé;;vous ;;;auriez aidé;;ils/elles ;;;auraient aidé
 Impératif Présent;impératif;;;;;;;(tu) ;;;aide;;;;;;;(nous) ;;;aidons;;(vous) ;;;aidez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie aidé;;;;;;;(nous) ;;;ayons aidé;;(vous) ;;;ayez aidé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;aide pas;;;;;;;(nous) ;n';;aidons pas;;(vous) ;n';;aidez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;aider;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

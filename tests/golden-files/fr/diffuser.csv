@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;diffuserais;;tu ;;;diffuserais;;il/elle/on ;;;d
 Conditionnel Passé;conditionnel;;j’;;;aurais diffusé;;tu ;;;aurais diffusé;;il/elle/on ;;;aurait diffusé;;nous ;;;aurions diffusé;;vous ;;;auriez diffusé;;ils/elles ;;;auraient diffusé
 Impératif Présent;impératif;;;;;;;(tu) ;;;diffuse;;;;;;;(nous) ;;;diffusons;;(vous) ;;;diffusez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie diffusé;;;;;;;(nous) ;;;ayons diffusé;;(vous) ;;;ayez diffusé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;diffuse pas;;;;;;;(nous) ;ne ;;diffusons pas;;(vous) ;ne ;;diffusez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;diffuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

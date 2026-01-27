@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;radouberais;;tu ;;;radouberais;;il/elle/on ;;;r
 Conditionnel Passé;conditionnel;;j’;;;aurais radoubé;;tu ;;;aurais radoubé;;il/elle/on ;;;aurait radoubé;;nous ;;;aurions radoubé;;vous ;;;auriez radoubé;;ils/elles ;;;auraient radoubé
 Impératif Présent;impératif;;;;;;;(tu) ;;;radoube;;;;;;;(nous) ;;;radoubons;;(vous) ;;;radoubez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie radoubé;;;;;;;(nous) ;;;ayons radoubé;;(vous) ;;;ayez radoubé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;radoube pas;;;;;;;(nous) ;ne ;;radoubons pas;;(vous) ;ne ;;radoubez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;radouber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

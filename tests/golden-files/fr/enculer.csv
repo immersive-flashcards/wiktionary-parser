@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;enculerais;;tu ;;;enculerais;;il/elle/on ;;;en
 Conditionnel Passé;conditionnel;;j’;;;aurais enculé;;tu ;;;aurais enculé;;il/elle/on ;;;aurait enculé;;nous ;;;aurions enculé;;vous ;;;auriez enculé;;ils/elles ;;;auraient enculé
 Impératif Présent;impératif;;;;;;;(tu) ;;;encule;;;;;;;(nous) ;;;enculons;;(vous) ;;;enculez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie enculé;;;;;;;(nous) ;;;ayons enculé;;(vous) ;;;ayez enculé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;encule pas;;;;;;;(nous) ;n';;enculons pas;;(vous) ;n';;enculez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;enculer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

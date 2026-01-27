@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;distribuerais;;tu ;;;distribuerais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais distribué;;tu ;;;aurais distribué;;il/elle/on ;;;aurait distribué;;nous ;;;aurions distribué;;vous ;;;auriez distribué;;ils/elles ;;;auraient distribué
 Impératif Présent;impératif;;;;;;;(tu) ;;;distribue;;;;;;;(nous) ;;;distribuons;;(vous) ;;;distribuez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie distribué;;;;;;;(nous) ;;;ayons distribué;;(vous) ;;;ayez distribué;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;distribue pas;;;;;;;(nous) ;ne ;;distribuons pas;;(vous) ;ne ;;distribuez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;distribuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

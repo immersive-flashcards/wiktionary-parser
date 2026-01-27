@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;rentrerais;;tu ;;;rentrerais;;il/elle/on ;;;ren
 Conditionnel Passé;conditionnel;;je ;;;serais rentré;;tu ;;;serais rentré;;il/elle/on ;;;serait rentré;;nous ;;;serions rentrés;;vous ;;;seriez rentrés;;ils/elles ;;;seraient rentrés
 Impératif Présent;impératif;;;;;;;(tu) ;;;rentre;;;;;;;(nous) ;;;rentrons;;(vous) ;;;rentrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois rentré;;;;;;;(nous) ;;;soyons rentrés;;(vous) ;;;soyez rentrés;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rentre pas;;;;;;;(nous) ;ne ;;rentrons pas;;(vous) ;ne ;;rentrez pas;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rentrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

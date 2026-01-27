@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;resterais;;tu ;;;resterais;;il/elle/on ;;;reste
 Conditionnel Passé;conditionnel;;je ;;;serais resté;;tu ;;;serais resté;;il/elle/on ;;;serait resté;;nous ;;;serions restés;;vous ;;;seriez restés;;ils/elles ;;;seraient restés
 Impératif Présent;impératif;;;;;;;(tu) ;;;reste;;;;;;;(nous) ;;;restons;;(vous) ;;;restez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois resté;;;;;;;(nous) ;;;soyons restés;;(vous) ;;;soyez restés;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;reste pas;;;;;;;(nous) ;ne ;;restons pas;;(vous) ;ne ;;restez pas;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rester;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

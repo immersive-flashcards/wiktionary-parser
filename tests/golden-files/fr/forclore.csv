@@ -18,6 +18,7 @@ Conditionnel;conditionnel;;je ;;;forclorais;;tu ;;;forclorais;;il/elle/on ;;;for
 Conditionnel Passé;conditionnel;;j’;;;aurais forclos;;tu ;;;aurais forclos;;il/elle/on ;;;aurait forclos;;nous ;;;aurions forclos;;vous ;;;auriez forclos;;ils/elles ;;;auraient forclos
 Impératif Présent;impératif;;;;;;;(tu) ;;;forclos;;;;;;;(nous) ;;;forclosons;;(vous) ;;;forclosez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie forclos;;;;;;;(nous) ;;;ayons forclos;;(vous) ;;;ayez forclos;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;forclos pas;;;;;;;(nous) ;ne ;;forclosons pas;;(vous) ;ne ;;forclosez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;forclore;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;nourrirais;;tu ;;;nourrirais;;il/elle/on ;;;nou
 Conditionnel Passé;conditionnel;;j’;;;aurais nourri;;tu ;;;aurais nourri;;il/elle/on ;;;aurait nourri;;nous ;;;aurions nourri;;vous ;;;auriez nourri;;ils/elles ;;;auraient nourri
 Impératif Présent;impératif;;;;;;;(tu) ;;;nourris;;;;;;;(nous) ;;;nourrissons;;(vous) ;;;nourrissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie nourri;;;;;;;(nous) ;;;ayons nourri;;(vous) ;;;ayez nourri;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;nourris pas;;;;;;;(nous) ;ne ;;nourrissons pas;;(vous) ;ne ;;nourrissez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;nourrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

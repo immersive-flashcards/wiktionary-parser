@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;verrais;;tu ;;;verrais;;il/elle/on ;;;verrait;;
 Conditionnel Passé;conditionnel;;j’;;;aurais vu;;tu ;;;aurais vu;;il/elle/on ;;;aurait vu;;nous ;;;aurions vu;;vous ;;;auriez vu;;ils/elles ;;;auraient vu
 Impératif Présent;impératif;;;;;;;(tu) ;;;vois;;;;;;;(nous) ;;;voyons;;(vous) ;;;voyez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie vu;;;;;;;(nous) ;;;ayons vu;;(vous) ;;;ayez vu;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vois pas;;;;;;;(nous) ;ne ;;voyons pas;;(vous) ;ne ;;voyez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;voir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

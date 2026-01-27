@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;dauberais;;tu ;;;dauberais;;il/elle/on ;;;daube
 Conditionnel Passé;conditionnel;;j’;;;aurais daubé;;tu ;;;aurais daubé;;il/elle/on ;;;aurait daubé;;nous ;;;aurions daubé;;vous ;;;auriez daubé;;ils/elles ;;;auraient daubé
 Impératif Présent;impératif;;;;;;;(tu) ;;;daube;;;;;;;(nous) ;;;daubons;;(vous) ;;;daubez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie daubé;;;;;;;(nous) ;;;ayons daubé;;(vous) ;;;ayez daubé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;daube pas;;;;;;;(nous) ;ne ;;daubons pas;;(vous) ;ne ;;daubez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;dauber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

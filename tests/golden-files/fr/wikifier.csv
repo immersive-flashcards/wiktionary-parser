@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;wikifierais;;tu ;;;wikifierais;;il/elle/on ;;;w
 Conditionnel Passé;conditionnel;;j’;;;aurais wikifié;;tu ;;;aurais wikifié;;il/elle/on ;;;aurait wikifié;;nous ;;;aurions wikifié;;vous ;;;auriez wikifié;;ils/elles ;;;auraient wikifié
 Impératif Présent;impératif;;;;;;;(tu) ;;;wikifie;;;;;;;(nous) ;;;wikifions;;(vous) ;;;wikifiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie wikifié;;;;;;;(nous) ;;;ayons wikifié;;(vous) ;;;ayez wikifié;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;wikifie pas;;;;;;;(nous) ;ne ;;wikifions pas;;(vous) ;ne ;;wikifiez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;wikifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

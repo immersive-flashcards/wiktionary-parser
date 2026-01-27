@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;butinerais;;tu ;;;butinerais;;il/elle/on ;;;but
 Conditionnel Passé;conditionnel;;j’;;;aurais butiné;;tu ;;;aurais butiné;;il/elle/on ;;;aurait butiné;;nous ;;;aurions butiné;;vous ;;;auriez butiné;;ils/elles ;;;auraient butiné
 Impératif Présent;impératif;;;;;;;(tu) ;;;butine;;;;;;;(nous) ;;;butinons;;(vous) ;;;butinez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie butiné;;;;;;;(nous) ;;;ayons butiné;;(vous) ;;;ayez butiné;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;butine pas;;;;;;;(nous) ;ne ;;butinons pas;;(vous) ;ne ;;butinez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;butiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

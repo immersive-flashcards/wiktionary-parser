@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;échangerais;;tu ;;;échangerais;;il/elle/on ;
 Conditionnel Passé;conditionnel;;j’;;;aurais échangé;;tu ;;;aurais échangé;;il/elle/on ;;;aurait échangé;;nous ;;;aurions échangé;;vous ;;;auriez échangé;;ils/elles ;;;auraient échangé
 Impératif Présent;impératif;;;;;;;(tu) ;;;échange;;;;;;;(nous) ;;;échangeons;;(vous) ;;;échangez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie échangé;;;;;;;(nous) ;;;ayons échangé;;(vous) ;;;ayez échangé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;échange pas;;;;;;;(nous) ;n';;échangeons pas;;(vous) ;n';;échangez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;échanger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

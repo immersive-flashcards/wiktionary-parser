@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;driverais;;tu ;;;driverais;;il/elle/on ;;;drive
 Conditionnel Passé;conditionnel;;j’;;;aurais drivé;;tu ;;;aurais drivé;;il/elle/on ;;;aurait drivé;;nous ;;;aurions drivé;;vous ;;;auriez drivé;;ils/elles ;;;auraient drivé
 Impératif Présent;impératif;;;;;;;(tu) ;;;drive;;;;;;;(nous) ;;;drivons;;(vous) ;;;drivez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie drivé;;;;;;;(nous) ;;;ayons drivé;;(vous) ;;;ayez drivé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;drive pas;;;;;;;(nous) ;ne ;;drivons pas;;(vous) ;ne ;;drivez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;driver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

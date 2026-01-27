@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;attendrais;;tu ;;;attendrais;;il/elle/on ;;;at
 Conditionnel Passé;conditionnel;;j’;;;aurais attendu;;tu ;;;aurais attendu;;il/elle/on ;;;aurait attendu;;nous ;;;aurions attendu;;vous ;;;auriez attendu;;ils/elles ;;;auraient attendu
 Impératif Présent;impératif;;;;;;;(tu) ;;;attends;;;;;;;(nous) ;;;attendons;;(vous) ;;;attendez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie attendu;;;;;;;(nous) ;;;ayons attendu;;(vous) ;;;ayez attendu;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;attends pas;;;;;;;(nous) ;n';;attendons pas;;(vous) ;n';;attendez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;attendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

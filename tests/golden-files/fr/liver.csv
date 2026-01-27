@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;liverais;;tu ;;;liverais;;il/elle/on ;;;liverai
 Conditionnel Passé;conditionnel;;j’;;;aurais livé;;tu ;;;aurais livé;;il/elle/on ;;;aurait livé;;nous ;;;aurions livé;;vous ;;;auriez livé;;ils/elles ;;;auraient livé
 Impératif Présent;impératif;;;;;;;(tu) ;;;live;;;;;;;(nous) ;;;livons;;(vous) ;;;livez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie livé;;;;;;;(nous) ;;;ayons livé;;(vous) ;;;ayez livé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;live pas;;;;;;;(nous) ;ne ;;livons pas;;(vous) ;ne ;;livez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;liver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

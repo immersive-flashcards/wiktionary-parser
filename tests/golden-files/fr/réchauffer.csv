@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;réchaufferais;;tu ;;;réchaufferais;;il/elle/o
 Conditionnel Passé;conditionnel;;j’;;;aurais réchauffé;;tu ;;;aurais réchauffé;;il/elle/on ;;;aurait réchauffé;;nous ;;;aurions réchauffé;;vous ;;;auriez réchauffé;;ils/elles ;;;auraient réchauffé
 Impératif Présent;impératif;;;;;;;(tu) ;;;réchauffe;;;;;;;(nous) ;;;réchauffons;;(vous) ;;;réchauffez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie réchauffé;;;;;;;(nous) ;;;ayons réchauffé;;(vous) ;;;ayez réchauffé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;réchauffe pas;;;;;;;(nous) ;ne ;;réchauffons pas;;(vous) ;ne ;;réchauffez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;réchauffer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

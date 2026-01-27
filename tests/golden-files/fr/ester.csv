@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;esterais;;tu ;;;esterais;;il/elle/on ;;;estera
 Conditionnel Passé;conditionnel;;j’;;;aurais esté;;tu ;;;aurais esté;;il/elle/on ;;;aurait esté;;nous ;;;aurions esté;;vous ;;;auriez esté;;ils/elles ;;;auraient esté
 Impératif Présent;impératif;;;;;;;(tu) ;;;este;;;;;;;(nous) ;;;estons;;(vous) ;;;estez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie esté;;;;;;;(nous) ;;;ayons esté;;(vous) ;;;ayez esté;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;este pas;;;;;;;(nous) ;n';;estons pas;;(vous) ;n';;estez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;ester;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

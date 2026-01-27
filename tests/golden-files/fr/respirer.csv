@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;respirerais;;tu ;;;respirerais;;il/elle/on ;;;r
 Conditionnel Passé;conditionnel;;j’;;;aurais respiré;;tu ;;;aurais respiré;;il/elle/on ;;;aurait respiré;;nous ;;;aurions respiré;;vous ;;;auriez respiré;;ils/elles ;;;auraient respiré
 Impératif Présent;impératif;;;;;;;(tu) ;;;respire;;;;;;;(nous) ;;;respirons;;(vous) ;;;respirez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie respiré;;;;;;;(nous) ;;;ayons respiré;;(vous) ;;;ayez respiré;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;respire pas;;;;;;;(nous) ;ne ;;respirons pas;;(vous) ;ne ;;respirez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;respirer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

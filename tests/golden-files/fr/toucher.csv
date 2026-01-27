@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;toucherais;;tu ;;;toucherais;;il/elle/on ;;;tou
 Conditionnel Passé;conditionnel;;j’;;;aurais touché;;tu ;;;aurais touché;;il/elle/on ;;;aurait touché;;nous ;;;aurions touché;;vous ;;;auriez touché;;ils/elles ;;;auraient touché
 Impératif Présent;impératif;;;;;;;(tu) ;;;touche;;;;;;;(nous) ;;;touchons;;(vous) ;;;touchez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie touché;;;;;;;(nous) ;;;ayons touché;;(vous) ;;;ayez touché;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;touche pas;;;;;;;(nous) ;ne ;;touchons pas;;(vous) ;ne ;;touchez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;toucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;anglaiserais;;tu ;;;anglaiserais;;il/elle/on ;
 Conditionnel Passé;conditionnel;;j’;;;aurais anglaisé;;tu ;;;aurais anglaisé;;il/elle/on ;;;aurait anglaisé;;nous ;;;aurions anglaisé;;vous ;;;auriez anglaisé;;ils/elles ;;;auraient anglaisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;anglaise;;;;;;;(nous) ;;;anglaisons;;(vous) ;;;anglaisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie anglaisé;;;;;;;(nous) ;;;ayons anglaisé;;(vous) ;;;ayez anglaisé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;anglaise pas;;;;;;;(nous) ;n';;anglaisons pas;;(vous) ;n';;anglaisez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;anglaiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

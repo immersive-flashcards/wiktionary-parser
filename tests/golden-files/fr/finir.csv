@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;finirais;;tu ;;;finirais;;il/elle/on ;;;finirai
 Conditionnel Passé;conditionnel;;j’;;;aurais fini;;tu ;;;aurais fini;;il/elle/on ;;;aurait fini;;nous ;;;aurions fini;;vous ;;;auriez fini;;ils/elles ;;;auraient fini
 Impératif Présent;impératif;;;;;;;(tu) ;;;finis;;;;;;;(nous) ;;;finissons;;(vous) ;;;finissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fini;;;;;;;(nous) ;;;ayons fini;;(vous) ;;;ayez fini;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;finis pas;;;;;;;(nous) ;ne ;;finissons pas;;(vous) ;ne ;;finissez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;finir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

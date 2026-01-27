@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;assiérais;;tu ;;;assiérais;;il/elle/on ;;;as
 Conditionnel Passé;conditionnel;;j’;;;aurais assis;;tu ;;;aurais assis;;il/elle/on ;;;aurait assis;;nous ;;;aurions assis;;vous ;;;auriez assis;;ils/elles ;;;auraient assis
 Impératif Présent;impératif;;;;;;;(tu) ;;;assieds;;;;;;;(nous) ;;;asseyons;;(vous) ;;;asseyez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie assis;;;;;;;(nous) ;;;ayons assis;;(vous) ;;;ayez assis;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;assieds pas;;;;;;;(nous) ;n';;asseyons pas;;(vous) ;n';;asseyez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;assoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

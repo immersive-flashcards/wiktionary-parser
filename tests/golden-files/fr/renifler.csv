@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;reniflerais;;tu ;;;reniflerais;;il/elle/on ;;;r
 Conditionnel Passé;conditionnel;;j’;;;aurais reniflé;;tu ;;;aurais reniflé;;il/elle/on ;;;aurait reniflé;;nous ;;;aurions reniflé;;vous ;;;auriez reniflé;;ils/elles ;;;auraient reniflé
 Impératif Présent;impératif;;;;;;;(tu) ;;;renifle;;;;;;;(nous) ;;;reniflons;;(vous) ;;;reniflez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie reniflé;;;;;;;(nous) ;;;ayons reniflé;;(vous) ;;;ayez reniflé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;renifle pas;;;;;;;(nous) ;ne ;;reniflons pas;;(vous) ;ne ;;reniflez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;renifler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

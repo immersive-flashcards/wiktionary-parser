@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;ennuierais;;tu ;;;ennuierais;;il/elle/on ;;;en
 Conditionnel Passé;conditionnel;;j’;;;aurais ennuyé;;tu ;;;aurais ennuyé;;il/elle/on ;;;aurait ennuyé;;nous ;;;aurions ennuyé;;vous ;;;auriez ennuyé;;ils/elles ;;;auraient ennuyé
 Impératif Présent;impératif;;;;;;;(tu) ;;;ennuie;;;;;;;(nous) ;;;ennuyons;;(vous) ;;;ennuyez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie ennuyé;;;;;;;(nous) ;;;ayons ennuyé;;(vous) ;;;ayez ennuyé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;ennuie pas;;;;;;;(nous) ;n';;ennuyons pas;;(vous) ;n';;ennuyez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;ennuyer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

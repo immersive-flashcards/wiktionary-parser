@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;abandonnerais;;tu ;;;abandonnerais;;il/elle/on
 Conditionnel Passé;conditionnel;;j’;;;aurais abandonné;;tu ;;;aurais abandonné;;il/elle/on ;;;aurait abandonné;;nous ;;;aurions abandonné;;vous ;;;auriez abandonné;;ils/elles ;;;auraient abandonné
 Impératif Présent;impératif;;;;;;;(tu) ;;;abandonne;;;;;;;(nous) ;;;abandonnons;;(vous) ;;;abandonnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie abandonné;;;;;;;(nous) ;;;ayons abandonné;;(vous) ;;;ayez abandonné;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;abandonne pas;;;;;;;(nous) ;n';;abandonnons pas;;(vous) ;n';;abandonnez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;abandonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

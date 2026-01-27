@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;apprivoiserais;;tu ;;;apprivoiserais;;il/elle/
 Conditionnel Passé;conditionnel;;j’;;;aurais apprivoisé;;tu ;;;aurais apprivoisé;;il/elle/on ;;;aurait apprivoisé;;nous ;;;aurions apprivoisé;;vous ;;;auriez apprivoisé;;ils/elles ;;;auraient apprivoisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;apprivoise;;;;;;;(nous) ;;;apprivoisons;;(vous) ;;;apprivoisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie apprivoisé;;;;;;;(nous) ;;;ayons apprivoisé;;(vous) ;;;ayez apprivoisé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;apprivoise pas;;;;;;;(nous) ;n';;apprivoisons pas;;(vous) ;n';;apprivoisez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;apprivoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

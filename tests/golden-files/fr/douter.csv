@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;douterais;;tu ;;;douterais;;il/elle/on ;;;doute
 Conditionnel Passé;conditionnel;;j’;;;aurais douté;;tu ;;;aurais douté;;il/elle/on ;;;aurait douté;;nous ;;;aurions douté;;vous ;;;auriez douté;;ils/elles ;;;auraient douté
 Impératif Présent;impératif;;;;;;;(tu) ;;;doute;;;;;;;(nous) ;;;doutons;;(vous) ;;;doutez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie douté;;;;;;;(nous) ;;;ayons douté;;(vous) ;;;ayez douté;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;doute pas;;;;;;;(nous) ;ne ;;doutons pas;;(vous) ;ne ;;doutez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;douter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;embrasserais;;tu ;;;embrasserais;;il/elle/on ;
 Conditionnel Passé;conditionnel;;j’;;;aurais embrassé;;tu ;;;aurais embrassé;;il/elle/on ;;;aurait embrassé;;nous ;;;aurions embrassé;;vous ;;;auriez embrassé;;ils/elles ;;;auraient embrassé
 Impératif Présent;impératif;;;;;;;(tu) ;;;embrasse;;;;;;;(nous) ;;;embrassons;;(vous) ;;;embrassez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie embrassé;;;;;;;(nous) ;;;ayons embrassé;;(vous) ;;;ayez embrassé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;embrasse pas;;;;;;;(nous) ;n';;embrassons pas;;(vous) ;n';;embrassez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;embrasser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;situerais;;tu ;;;situerais;;il/elle/on ;;;situe
 Conditionnel Passé;conditionnel;;j’;;;aurais situé;;tu ;;;aurais situé;;il/elle/on ;;;aurait situé;;nous ;;;aurions situé;;vous ;;;auriez situé;;ils/elles ;;;auraient situé
 Impératif Présent;impératif;;;;;;;(tu) ;;;situe;;;;;;;(nous) ;;;situons;;(vous) ;;;situez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie situé;;;;;;;(nous) ;;;ayons situé;;(vous) ;;;ayez situé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;situe pas;;;;;;;(nous) ;ne ;;situons pas;;(vous) ;ne ;;situez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;situer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

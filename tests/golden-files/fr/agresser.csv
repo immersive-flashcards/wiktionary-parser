@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;agresserais;;tu ;;;agresserais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais agressé;;tu ;;;aurais agressé;;il/elle/on ;;;aurait agressé;;nous ;;;aurions agressé;;vous ;;;auriez agressé;;ils/elles ;;;auraient agressé
 Impératif Présent;impératif;;;;;;;(tu) ;;;agresse;;;;;;;(nous) ;;;agressons;;(vous) ;;;agressez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie agressé;;;;;;;(nous) ;;;ayons agressé;;(vous) ;;;ayez agressé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;agresse pas;;;;;;;(nous) ;n';;agressons pas;;(vous) ;n';;agressez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;agresser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;lirais;;tu ;;;lirais;;il/elle/on ;;;lirait;;nou
 Conditionnel Passé;conditionnel;;j’;;;aurais lu;;tu ;;;aurais lu;;il/elle/on ;;;aurait lu;;nous ;;;aurions lu;;vous ;;;auriez lu;;ils/elles ;;;auraient lu
 Impératif Présent;impératif;;;;;;;(tu) ;;;lis;;;;;;;(nous) ;;;lisons;;(vous) ;;;lisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie lu;;;;;;;(nous) ;;;ayons lu;;(vous) ;;;ayez lu;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;lis pas;;;;;;;(nous) ;ne ;;lisons pas;;(vous) ;ne ;;lisez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;lire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

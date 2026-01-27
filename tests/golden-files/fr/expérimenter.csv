@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;expérimenterais;;tu ;;;expérimenterais;;il/e
 Conditionnel Passé;conditionnel;;j’;;;aurais expérimenté;;tu ;;;aurais expérimenté;;il/elle/on ;;;aurait expérimenté;;nous ;;;aurions expérimenté;;vous ;;;auriez expérimenté;;ils/elles ;;;auraient expérimenté
 Impératif Présent;impératif;;;;;;;(tu) ;;;expérimente;;;;;;;(nous) ;;;expérimentons;;(vous) ;;;expérimentez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie expérimenté;;;;;;;(nous) ;;;ayons expérimenté;;(vous) ;;;ayez expérimenté;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;expérimente pas;;;;;;;(nous) ;n';;expérimentons pas;;(vous) ;n';;expérimentez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;expérimenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

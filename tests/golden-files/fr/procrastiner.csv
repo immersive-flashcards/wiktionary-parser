@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;procrastinerais;;tu ;;;procrastinerais;;il/elle
 Conditionnel Passé;conditionnel;;j’;;;aurais procrastiné;;tu ;;;aurais procrastiné;;il/elle/on ;;;aurait procrastiné;;nous ;;;aurions procrastiné;;vous ;;;auriez procrastiné;;ils/elles ;;;auraient procrastiné
 Impératif Présent;impératif;;;;;;;(tu) ;;;procrastine;;;;;;;(nous) ;;;procrastinons;;(vous) ;;;procrastinez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie procrastiné;;;;;;;(nous) ;;;ayons procrastiné;;(vous) ;;;ayez procrastiné;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;procrastine pas;;;;;;;(nous) ;ne ;;procrastinons pas;;(vous) ;ne ;;procrastinez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;procrastiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

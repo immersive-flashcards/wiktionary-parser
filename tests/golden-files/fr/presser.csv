@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;presserais;;tu ;;;presserais;;il/elle/on ;;;pre
 Conditionnel Passé;conditionnel;;j’;;;aurais pressé;;tu ;;;aurais pressé;;il/elle/on ;;;aurait pressé;;nous ;;;aurions pressé;;vous ;;;auriez pressé;;ils/elles ;;;auraient pressé
 Impératif Présent;impératif;;;;;;;(tu) ;;;presse;;;;;;;(nous) ;;;pressons;;(vous) ;;;pressez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie pressé;;;;;;;(nous) ;;;ayons pressé;;(vous) ;;;ayez pressé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;presse pas;;;;;;;(nous) ;ne ;;pressons pas;;(vous) ;ne ;;pressez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;presser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

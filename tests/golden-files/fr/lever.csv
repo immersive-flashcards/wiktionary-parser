@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;lèverais;;tu ;;;lèverais;;il/elle/on ;;;lève
 Conditionnel Passé;conditionnel;;j’;;;aurais levé;;tu ;;;aurais levé;;il/elle/on ;;;aurait levé;;nous ;;;aurions levé;;vous ;;;auriez levé;;ils/elles ;;;auraient levé
 Impératif Présent;impératif;;;;;;;(tu) ;;;lève;;;;;;;(nous) ;;;levons;;(vous) ;;;levez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie levé;;;;;;;(nous) ;;;ayons levé;;(vous) ;;;ayez levé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;lève pas;;;;;;;(nous) ;ne ;;levons pas;;(vous) ;ne ;;levez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;lever;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

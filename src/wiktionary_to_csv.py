@@ -15,6 +15,7 @@ import zstandard as zstd
 from src.helpers.extract_from_spec import extract_from_spec
 from src.language_functions.ca import add_catalan_category_tags, create_catalan_compound_tenses
 from src.language_functions.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
+from src.language_functions.fr import create_french_negative_imperative
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -149,6 +150,8 @@ def _add_missing_forms(lang_config: LanguageConfig, entry: dict[str, Any], rows:
     if lang_config.lang_code == "ca":  # Catalan
         create_catalan_compound_tenses(rows, reflexive)
         add_catalan_category_tags(entry, rows)
+    if lang_config.lang_code == "fr":  # French
+        create_french_negative_imperative(lang_config, rows, reflexive)
 
 
 # Helper to get category list from entry - can be nested
@@ -218,7 +221,7 @@ def _get_pronoun_map(lang_cfg: LanguageConfig, imperative: bool) -> Mapping[int,
 def _get_reflexive_alts(lang_cfg: LanguageConfig, person_idx_1: int) -> Sequence[str]:
     """Return reflexive pronoun alternatives for a person index (1-based)."""
     refl = lang_cfg.person_data.get("reflexive-pronouns") or []
-    if 0 <= person_idx_1 < len(refl) +1:
+    if 0 <= person_idx_1 < len(refl) + 1:
         return refl.get(person_idx_1) or []
     return []
 

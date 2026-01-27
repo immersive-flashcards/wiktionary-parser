@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;appuierais;;tu ;;;appuierais;;il/elle/on ;;;ap
 Conditionnel Passé;conditionnel;;j’;;;aurais appuyé;;tu ;;;aurais appuyé;;il/elle/on ;;;aurait appuyé;;nous ;;;aurions appuyé;;vous ;;;auriez appuyé;;ils/elles ;;;auraient appuyé
 Impératif Présent;impératif;;;;;;;(tu) ;;;appuie;;;;;;;(nous) ;;;appuyons;;(vous) ;;;appuyez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie appuyé;;;;;;;(nous) ;;;ayons appuyé;;(vous) ;;;ayez appuyé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;appuie pas;;;;;;;(nous) ;n';;appuyons pas;;(vous) ;n';;appuyez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;appuyer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

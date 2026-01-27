@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;sortirais;;tu ;;;sortirais;;il/elle/on ;;;sorti
 Conditionnel Passé;conditionnel;;je ;;;serais sorti;;tu ;;;serais sorti;;il/elle/on ;;;serait sorti;;nous ;;;serions sortis;;vous ;;;seriez sortis;;ils/elles ;;;seraient sortis
 Impératif Présent;impératif;;;;;;;(tu) ;;;sors;;;;;;;(nous) ;;;sortons;;(vous) ;;;sortez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois sorti;;;;;;;(nous) ;;;soyons sortis;;(vous) ;;;soyez sortis;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sors pas;;;;;;;(nous) ;ne ;;sortons pas;;(vous) ;ne ;;sortez pas;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;sortir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

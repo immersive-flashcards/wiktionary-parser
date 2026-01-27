@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;interdirais;;tu ;;;interdirais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais interdit;;tu ;;;aurais interdit;;il/elle/on ;;;aurait interdit;;nous ;;;aurions interdit;;vous ;;;auriez interdit;;ils/elles ;;;auraient interdit
 Impératif Présent;impératif;;;;;;;(tu) ;;;interdis;;;;;;;(nous) ;;;interdisons;;(vous) ;;;interdisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie interdit;;;;;;;(nous) ;;;ayons interdit;;(vous) ;;;ayez interdit;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;interdis pas;;;;;;;(nous) ;n';;interdisons pas;;(vous) ;n';;interdisez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;interdire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

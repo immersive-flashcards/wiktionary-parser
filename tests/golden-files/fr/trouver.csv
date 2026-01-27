@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;trouverais;;tu ;;;trouverais;;il/elle/on ;;;tro
 Conditionnel Passé;conditionnel;;j’;;;aurais trouvé;;tu ;;;aurais trouvé;;il/elle/on ;;;aurait trouvé;;nous ;;;aurions trouvé;;vous ;;;auriez trouvé;;ils/elles ;;;auraient trouvé
 Impératif Présent;impératif;;;;;;;(tu) ;;;trouve;;;;;;;(nous) ;;;trouvons;;(vous) ;;;trouvez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie trouvé;;;;;;;(nous) ;;;ayons trouvé;;(vous) ;;;ayez trouvé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;trouve pas;;;;;;;(nous) ;ne ;;trouvons pas;;(vous) ;ne ;;trouvez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;trouver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

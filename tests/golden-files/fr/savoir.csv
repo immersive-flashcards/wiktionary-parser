@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;saurais;;tu ;;;saurais;;il/elle/on ;;;saurait;;
 Conditionnel Passé;conditionnel;;j’;;;aurais su;;tu ;;;aurais su;;il/elle/on ;;;aurait su;;nous ;;;aurions su;;vous ;;;auriez su;;ils/elles ;;;auraient su
 Impératif Présent;impératif;;;;;;;(tu) ;;;sache;;;;;;;(nous) ;;;sachons;;(vous) ;;;sachez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie su;;;;;;;(nous) ;;;ayons su;;(vous) ;;;ayez su;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sache pas;;;;;;;(nous) ;ne ;;sachons pas;;(vous) ;ne ;;sachez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;savoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

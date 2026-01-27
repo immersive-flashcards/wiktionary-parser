@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;fermerais;;tu ;;;fermerais;;il/elle/on ;;;ferme
 Conditionnel Passé;conditionnel;;j’;;;aurais fermé;;tu ;;;aurais fermé;;il/elle/on ;;;aurait fermé;;nous ;;;aurions fermé;;vous ;;;auriez fermé;;ils/elles ;;;auraient fermé
 Impératif Présent;impératif;;;;;;;(tu) ;;;ferme;;;;;;;(nous) ;;;fermons;;(vous) ;;;fermez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fermé;;;;;;;(nous) ;;;ayons fermé;;(vous) ;;;ayez fermé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;ferme pas;;;;;;;(nous) ;ne ;;fermons pas;;(vous) ;ne ;;fermez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;fermer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;rirais;;tu ;;;rirais;;il/elle/on ;;;rirait;;nou
 Conditionnel Passé;conditionnel;;j’;;;aurais ri;;tu ;;;aurais ri;;il/elle/on ;;;aurait ri;;nous ;;;aurions ri;;vous ;;;auriez ri;;ils/elles ;;;auraient ri
 Impératif Présent;impératif;;;;;;;(tu) ;;;ris;;;;;;;(nous) ;;;rions;;(vous) ;;;riez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie ri;;;;;;;(nous) ;;;ayons ri;;(vous) ;;;ayez ri;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;ris pas;;;;;;;(nous) ;ne ;;rions pas;;(vous) ;ne ;;riez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;rire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

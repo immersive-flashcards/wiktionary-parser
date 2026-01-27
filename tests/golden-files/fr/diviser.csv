@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;diviserais;;tu ;;;diviserais;;il/elle/on ;;;div
 Conditionnel Passé;conditionnel;;j’;;;aurais divisé;;tu ;;;aurais divisé;;il/elle/on ;;;aurait divisé;;nous ;;;aurions divisé;;vous ;;;auriez divisé;;ils/elles ;;;auraient divisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;divise;;;;;;;(nous) ;;;divisons;;(vous) ;;;divisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie divisé;;;;;;;(nous) ;;;ayons divisé;;(vous) ;;;ayez divisé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;divise pas;;;;;;;(nous) ;ne ;;divisons pas;;(vous) ;ne ;;divisez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;diviser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

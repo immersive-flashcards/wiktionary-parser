@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;j’;;;offrirais;;tu ;;;offrirais;;il/elle/on ;;;offr
 Conditionnel Passé;conditionnel;;j’;;;aurais offert;;tu ;;;aurais offert;;il/elle/on ;;;aurait offert;;nous ;;;aurions offert;;vous ;;;auriez offert;;ils/elles ;;;auraient offert
 Impératif Présent;impératif;;;;;;;(tu) ;;;offre;;;;;;;(nous) ;;;offrons;;(vous) ;;;offrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie offert;;;;;;;(nous) ;;;ayons offert;;(vous) ;;;ayez offert;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;offre pas;;;;;;;(nous) ;n';;offrons pas;;(vous) ;n';;offrez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;offrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

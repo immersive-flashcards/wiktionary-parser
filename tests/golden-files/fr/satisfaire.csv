@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;satisferais;;tu ;;;satisferais;;il/elle/on ;;;s
 Conditionnel Passé;conditionnel;;j’;;;aurais satisfait;;tu ;;;aurais satisfait;;il/elle/on ;;;aurait satisfait;;nous ;;;aurions satisfait;;vous ;;;auriez satisfait;;ils/elles ;;;auraient satisfait
 Impératif Présent;impératif;;;;;;;(tu) ;;;satisfais;;;;;;;(nous) ;;;satisfaisons;;(vous) ;;;satisfaites;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie satisfait;;;;;;;(nous) ;;;ayons satisfait;;(vous) ;;;ayez satisfait;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;satisfais pas;;;;;;;(nous) ;ne ;;satisfaisons pas;;(vous) ;ne ;;satisfaites pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;satisfaire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;mourrais;;tu ;;;mourrais;;il/elle/on ;;;mourrai
 Conditionnel Passé;conditionnel;;je ;;;serais mort;;tu ;;;serais mort;;il/elle/on ;;;serait mort;;nous ;;;serions morts;;vous ;;;seriez morts;;ils/elles ;;;seraient morts
 Impératif Présent;impératif;;;;;;;(tu) ;;;meurs;;;;;;;(nous) ;;;mourons;;(vous) ;;;mourez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois mort;;;;;;;(nous) ;;;soyons morts;;(vous) ;;;soyez morts;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;meurs pas;;;;;;;(nous) ;ne ;;mourons pas;;(vous) ;ne ;;mourez pas;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;mourir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

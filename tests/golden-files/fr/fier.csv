@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;fierais;;tu ;;;fierais;;il/elle/on ;;;fierait;;
 Conditionnel Passé;conditionnel;;j’;;;aurais fié;;tu ;;;aurais fié;;il/elle/on ;;;aurait fié;;nous ;;;aurions fié;;vous ;;;auriez fié;;ils/elles ;;;auraient fié
 Impératif Présent;impératif;;;;;;;(tu) ;;;fie;;;;;;;(nous) ;;;fions;;(vous) ;;;fiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fié;;;;;;;(nous) ;;;ayons fié;;(vous) ;;;ayez fié;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fie pas;;;;;;;(nous) ;ne ;;fions pas;;(vous) ;ne ;;fiez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;fier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

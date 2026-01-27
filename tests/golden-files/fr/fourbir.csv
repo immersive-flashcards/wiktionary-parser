@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;fourbirais;;tu ;;;fourbirais;;il/elle/on ;;;fou
 Conditionnel Passé;conditionnel;;j’;;;aurais fourbi;;tu ;;;aurais fourbi;;il/elle/on ;;;aurait fourbi;;nous ;;;aurions fourbi;;vous ;;;auriez fourbi;;ils/elles ;;;auraient fourbi
 Impératif Présent;impératif;;;;;;;(tu) ;;;fourbis;;;;;;;(nous) ;;;fourbissons;;(vous) ;;;fourbissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fourbi;;;;;;;(nous) ;;;ayons fourbi;;(vous) ;;;ayez fourbi;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fourbis pas;;;;;;;(nous) ;ne ;;fourbissons pas;;(vous) ;ne ;;fourbissez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;fourbir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

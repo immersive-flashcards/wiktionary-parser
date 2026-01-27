@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;séjournerais;;tu ;;;séjournerais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais séjourné;;tu ;;;aurais séjourné;;il/elle/on ;;;aurait séjourné;;nous ;;;aurions séjourné;;vous ;;;auriez séjourné;;ils/elles ;;;auraient séjourné
 Impératif Présent;impératif;;;;;;;(tu) ;;;séjourne;;;;;;;(nous) ;;;séjournons;;(vous) ;;;séjournez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie séjourné;;;;;;;(nous) ;;;ayons séjourné;;(vous) ;;;ayez séjourné;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;séjourne pas;;;;;;;(nous) ;ne ;;séjournons pas;;(vous) ;ne ;;séjournez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;séjourner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

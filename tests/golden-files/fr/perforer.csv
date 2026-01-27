@@ -21,6 +21,7 @@ Conditionnel;conditionnel;;je ;;;perforerais;;tu ;;;perforerais;;il/elle/on ;;;p
 Conditionnel Passé;conditionnel;;j’;;;aurais perforé;;tu ;;;aurais perforé;;il/elle/on ;;;aurait perforé;;nous ;;;aurions perforé;;vous ;;;auriez perforé;;ils/elles ;;;auraient perforé
 Impératif Présent;impératif;;;;;;;(tu) ;;;perfore;;;;;;;(nous) ;;;perforons;;(vous) ;;;perforez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie perforé;;;;;;;(nous) ;;;ayons perforé;;(vous) ;;;ayez perforé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;perfore pas;;;;;;;(nous) ;ne ;;perforons pas;;(vous) ;ne ;;perforez pas;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;perforer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

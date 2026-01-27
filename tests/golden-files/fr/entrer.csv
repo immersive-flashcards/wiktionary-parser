@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;entrerais;;tu ;;;entrerais;;il/elle/on ;;;entr
 Conditionnel Passé;conditionnel;;je ;;;serais entré;;tu ;;;serais entré;;il/elle/on ;;;serait entré;;nous ;;;serions entrés;;vous ;;;seriez entrés;;ils/elles ;;;seraient entrés
 Impératif Présent;impératif;;;;;;;(tu) ;;;entre;;;;;;;(nous) ;;;entrons;;(vous) ;;;entrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois entré;;;;;;;(nous) ;;;soyons entrés;;(vous) ;;;soyez entrés;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;entre pas;;;;;;;(nous) ;n';;entrons pas;;(vous) ;n';;entrez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;entre pas ;;;;;;;(nous) ;n';;entrons pas ;;(vous) ;n';;entrez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas entré;;;;;;;(nous) ;ne ;;soyons pas entrés;;(vous) ;ne ;;soyez pas entrés;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;entrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

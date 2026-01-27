@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;voudrais;;tu ;;;voudrais;;il/elle/on ;;;voudrai
 Conditionnel Passé;conditionnel;;j’;;;aurais voulu;;tu ;;;aurais voulu;;il/elle/on ;;;aurait voulu;;nous ;;;aurions voulu;;vous ;;;auriez voulu;;ils/elles ;;;auraient voulu
 Impératif Présent;impératif;;;;;;;(tu) ;;;veux / veuille;;;;;;;(nous) ;;;voulons / veuillons;;(vous) ;;;voulez / veuillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie voulu;;;;;;;(nous) ;;;ayons voulu;;(vous) ;;;ayez voulu;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;veux / veuille pas;;;;;;;(nous) ;ne ;;voulons / veuillons pas;;(vous) ;ne ;;voulez / veuillez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;veux / veuille pas ;;;;;;;(nous) ;ne ;;voulons / veuillons pas ;;(vous) ;ne ;;voulez / veuillez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas voulu;;;;;;;(nous) ;n';;ayons pas voulu;;(vous) ;n';;ayez pas voulu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;vouloir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

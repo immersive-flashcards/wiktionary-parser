@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;arabizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;arabizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;arabizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;arabizo;;tú ;;;arabizas;;él //ella //usted ;;;arabiza;;nosotros //nosotras ;;;arabizamos;;vosotros //vosotras ;;;arabizáis;;ellos //ellas //ustedes ;;;arabizan;;vos ;;;arabizás
+Indicativo Imperfecto;indicativo;;yo ;;;arabizaba;;tú //vos ;;;arabizabas;;él //ella //usted ;;;arabizaba;;nosotros //nosotras ;;;arabizábamos;;vosotros //vosotras ;;;arabizabais;;ellos //ellas //ustedes ;;;arabizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;arabicé;;tú //vos ;;;arabizaste;;él //ella //usted ;;;arabizó;;nosotros //nosotras ;;;arabizamos;;vosotros //vosotras ;;;arabizasteis;;ellos //ellas //ustedes ;;;arabizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;arabizaré;;tú //vos ;;;arabizarás;;él //ella //usted ;;;arabizará;;nosotros //nosotras ;;;arabizaremos;;vosotros //vosotras ;;;arabizaréis;;ellos //ellas //ustedes ;;;arabizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he arabizado;;tú //vos ;;;has arabizado;;él //ella //usted ;;;ha arabizado;;nosotros //nosotras ;;;hemos arabizado;;vosotros //vosotras ;;;habéis arabizado;;ellos //ellas //ustedes ;;;han arabizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había arabizado;;tú //vos ;;;habías arabizado;;él //ella //usted ;;;había arabizado;;nosotros //nosotras ;;;habíamos arabizado;;vosotros //vosotras ;;;habíais arabizado;;ellos //ellas //ustedes ;;;habían arabizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube arabizado;;tú //vos ;;;hubiste arabizado;;él //ella //usted ;;;hubo arabizado;;nosotros //nosotras ;;;hubimos arabizado;;vosotros //vosotras ;;;hubisteis arabizado;;ellos //ellas //ustedes ;;;hubieron arabizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré arabizado;;tú //vos ;;;habrás arabizado;;él //ella //usted ;;;habrá arabizado;;nosotros //nosotras ;;;habremos arabizado;;vosotros //vosotras ;;;habréis arabizado;;ellos //ellas //ustedes ;;;habrán arabizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;arabice;;tú //vos ;;;arabices;;él //ella //usted ;;;arabice;;nosotros //nosotras ;;;arabicemos;;vosotros //vosotras ;;;arabicéis;;ellos //ellas //ustedes ;;;arabicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;arabizara / arabizase;;tú //vos ;;;arabizaras / arabizases;;él //ella //usted ;;;arabizara / arabizase;;nosotros //nosotras ;;;arabizáramos / arabizásemos;;vosotros //vosotras ;;;arabizarais / arabizaseis;;ellos //ellas //ustedes ;;;arabizaran / arabizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;arabizare;;tú //vos ;;;arabizares;;él //ella //usted ;;;arabizare;;nosotros //nosotras ;;;arabizáremos;;vosotros //vosotras ;;;arabizareis;;ellos //ellas //ustedes ;;;arabizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya arabizado;;tú //vos ;;;hayas arabizado;;él //ella //usted ;;;haya arabizado;;nosotros //nosotras ;;;hayamos arabizado;;vosotros //vosotras ;;;hayáis arabizado;;ellos //ellas //ustedes ;;;hayan arabizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera arabizado / hubiese arabizado;;tú //vos ;;;hubieras arabizado / hubieses arabizado;;él //ella //usted ;;;hubiera arabizado / hubiese arabizado;;nosotros //nosotras ;;;hubiéramos arabizado / hubiésemos arabizado;;vosotros //vosotras ;;;hubierais arabizado / hubieseis arabizado;;ellos //ellas //ustedes ;;;hubieran arabizado / hubiesen arabizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere arabizado;;tú //vos ;;;hubieres arabizado;;él //ella //usted ;;;hubiere arabizado;;nosotros //nosotras ;;;hubiéremos arabizado;;vosotros //vosotras ;;;hubiereis arabizado;;ellos //ellas //ustedes ;;;hubieren arabizado;;;;;
+Condicional;condicional;;yo ;;;arabizaría;;tú //vos ;;;arabizarías;;él //ella //usted ;;;arabizaría;;nosotros //nosotras ;;;arabizaríamos;;vosotros //vosotras ;;;arabizaríais;;ellos //ellas //ustedes ;;;arabizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría arabizado;;tú //vos ;;;habrías arabizado;;él //ella //usted ;;;habría arabizado;;nosotros //nosotras ;;;habríamos arabizado;;vosotros //vosotras ;;;habríais arabizado;;ellos //ellas //ustedes ;;;habrían arabizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arabiza;;(usted) ;;;arabice;;(nosotros) //(nosotras) ;;;arabicemos;;(vosotros) //(vosotras) ;;;arabizad;;(ustedes) ;;;arabicen;;(vos) ;;;arabizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;arabices;;(usted) ;no ;;arabice;;(nosotros) //(nosotras) ;no ;;arabicemos;;(vosotros) //(vosotras) ;no ;;arabicéis;;(ustedes) ;no ;;arabicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;arabizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;arabiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

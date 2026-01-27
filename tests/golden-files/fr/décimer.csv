@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;décimerais;;tu ;;;décimerais;;il/elle/on ;;;d
 Conditionnel Passé;conditionnel;;j’;;;aurais décimé;;tu ;;;aurais décimé;;il/elle/on ;;;aurait décimé;;nous ;;;aurions décimé;;vous ;;;auriez décimé;;ils/elles ;;;auraient décimé
 Impératif Présent;impératif;;;;;;;(tu) ;;;décime;;;;;;;(nous) ;;;décimons;;(vous) ;;;décimez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie décimé;;;;;;;(nous) ;;;ayons décimé;;(vous) ;;;ayez décimé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;décime pas;;;;;;;(nous) ;ne ;;décimons pas;;(vous) ;ne ;;décimez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;décime pas ;;;;;;;(nous) ;ne ;;décimons pas ;;(vous) ;ne ;;décimez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas décimé;;;;;;;(nous) ;n';;ayons pas décimé;;(vous) ;n';;ayez pas décimé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;décimer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

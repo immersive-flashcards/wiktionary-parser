@@ -21,7 +21,7 @@ def causes_elision(s: str, rows: list[dict[str, Any]]) -> bool:
 def create_french_negative_imperative(lang_config, rows: list[dict[str, Any]], reflexive: bool) -> None:
     """Add negative imperative forms == subjuntivo forms"""
 
-    neg = {"long": "ne ", "short": "n'", "after": " pas"}
+    neg = {"long": "ne ", "short": "n'", "after": " pas "}
 
     try:
         row = next(r for r in rows if r.get("key") == "Impératif Présent").copy()
@@ -45,6 +45,18 @@ def create_french_negative_imperative(lang_config, rows: list[dict[str, Any]], r
         pass
 
     try:
-        imp_passe = next(r for r in rows if r.get("key") == "Impératif Passé")
+        row = next(r for r in rows if r.get("key") == "Impératif Passé").copy()
+        row["key"] = "Impératif Passé Négatif"
+
+        for idx in lang_config.person_data.get("imperative-pronouns").keys():
+            if causes_elision(row[f"conjugation-{idx}"], rows):
+                row[f"negation-{idx}"] = neg["short"]
+            else:
+                row[f"negation-{idx}"] = neg["long"]
+
+            aux, part = row[f"conjugation-{idx}"].split(" ")
+            row[f"conjugation-{idx}"] = aux + neg["after"] + part
+
+        rows.append(row)
     except StopIteration:
         pass

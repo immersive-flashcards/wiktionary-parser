@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;chuchoterais;;tu ;;;chuchoterais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais chuchoté;;tu ;;;aurais chuchoté;;il/elle/on ;;;aurait chuchoté;;nous ;;;aurions chuchoté;;vous ;;;auriez chuchoté;;ils/elles ;;;auraient chuchoté
 Impératif Présent;impératif;;;;;;;(tu) ;;;chuchote;;;;;;;(nous) ;;;chuchotons;;(vous) ;;;chuchotez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie chuchoté;;;;;;;(nous) ;;;ayons chuchoté;;(vous) ;;;ayez chuchoté;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;chuchote pas;;;;;;;(nous) ;ne ;;chuchotons pas;;(vous) ;ne ;;chuchotez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;chuchote pas ;;;;;;;(nous) ;ne ;;chuchotons pas ;;(vous) ;ne ;;chuchotez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas chuchoté;;;;;;;(nous) ;n';;ayons pas chuchoté;;(vous) ;n';;ayez pas chuchoté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;chuchoter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

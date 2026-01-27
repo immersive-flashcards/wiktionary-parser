@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;gaverais;;tu ;;;gaverais;;il/elle/on ;;;gaverai
 Conditionnel Passé;conditionnel;;j’;;;aurais gavé;;tu ;;;aurais gavé;;il/elle/on ;;;aurait gavé;;nous ;;;aurions gavé;;vous ;;;auriez gavé;;ils/elles ;;;auraient gavé
 Impératif Présent;impératif;;;;;;;(tu) ;;;gave;;;;;;;(nous) ;;;gavons;;(vous) ;;;gavez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie gavé;;;;;;;(nous) ;;;ayons gavé;;(vous) ;;;ayez gavé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gave pas;;;;;;;(nous) ;ne ;;gavons pas;;(vous) ;ne ;;gavez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gave pas ;;;;;;;(nous) ;ne ;;gavons pas ;;(vous) ;ne ;;gavez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas gavé;;;;;;;(nous) ;n';;ayons pas gavé;;(vous) ;n';;ayez pas gavé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;gaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

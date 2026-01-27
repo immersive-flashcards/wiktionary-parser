@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;écobuerais;;tu ;;;écobuerais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais écobué;;tu ;;;aurais écobué;;il/elle/on ;;;aurait écobué;;nous ;;;aurions écobué;;vous ;;;auriez écobué;;ils/elles ;;;auraient écobué
 Impératif Présent;impératif;;;;;;;(tu) ;;;écobue;;;;;;;(nous) ;;;écobuons;;(vous) ;;;écobuez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie écobué;;;;;;;(nous) ;;;ayons écobué;;(vous) ;;;ayez écobué;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;écobue pas;;;;;;;(nous) ;n';;écobuons pas;;(vous) ;n';;écobuez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;écobue pas ;;;;;;;(nous) ;n';;écobuons pas ;;(vous) ;n';;écobuez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas écobué;;;;;;;(nous) ;n';;ayons pas écobué;;(vous) ;n';;ayez pas écobué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;écobuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

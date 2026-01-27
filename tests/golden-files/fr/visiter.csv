@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;visiterais;;tu ;;;visiterais;;il/elle/on ;;;vis
 Conditionnel Passé;conditionnel;;j’;;;aurais visité;;tu ;;;aurais visité;;il/elle/on ;;;aurait visité;;nous ;;;aurions visité;;vous ;;;auriez visité;;ils/elles ;;;auraient visité
 Impératif Présent;impératif;;;;;;;(tu) ;;;visite;;;;;;;(nous) ;;;visitons;;(vous) ;;;visitez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie visité;;;;;;;(nous) ;;;ayons visité;;(vous) ;;;ayez visité;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;visite pas;;;;;;;(nous) ;ne ;;visitons pas;;(vous) ;ne ;;visitez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;visite pas ;;;;;;;(nous) ;ne ;;visitons pas ;;(vous) ;ne ;;visitez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas visité;;;;;;;(nous) ;n';;ayons pas visité;;(vous) ;n';;ayez pas visité;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;visiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

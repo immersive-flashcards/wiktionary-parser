@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;plorar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;plorant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;plorat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;ploro;;tu ;;;plores;;ell //ella //vostè ;;;plora;;nosaltres ;;;plorem;;vosaltres ;;;ploreu;;ells //elles //vostès ;;;ploren
+Indicatiu Imperfet;indicativo;;jo ;;;plorava;;tu ;;;ploraves;;ell //ella //vostè ;;;plorava;;nosaltres ;;;ploràvem;;vosaltres ;;;ploràveu;;ells //elles //vostès ;;;ploraven
+Indicatiu Futur;indicativo;;jo ;;;ploraré;;tu ;;;ploraràs;;ell //ella //vostè ;;;plorarà;;nosaltres ;;;plorarem;;vosaltres ;;;plorareu;;ells //elles //vostès ;;;ploraran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;plorí;;tu ;;;plorares;;ell //ella //vostè ;;;plorà;;nosaltres ;;;ploràrem;;vosaltres ;;;ploràreu;;ells //elles //vostès ;;;ploraren
+Condicional;condicional;;jo ;;;ploraria;;tu ;;;ploraries;;ell //ella //vostè ;;;ploraria;;nosaltres ;;;ploraríem;;vosaltres ;;;ploraríeu;;ells //elles //vostès ;;;plorarien
+Subjuntiu Present;subjuntiu;;jo ;;;plori;;tu ;;;ploris;;ell //ella //vostè ;;;plori;;nosaltres ;;;plorem;;vosaltres ;;;ploreu;;ells //elles //vostès ;;;plorin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;plorés;;tu ;;;ploressis;;ell //ella //vostè ;;;plorés;;nosaltres ;;;ploréssim;;vosaltres ;;;ploréssiu;;ells //elles //vostès ;;;ploressin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;plora;;(vostè) ;;;plori;;(nosaltres) ;;;plorem;;(vosaltres) ;;;ploreu;;(vostès) ;;;plorin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;ploris;;(vostè) ;no ;;plori;;(nosaltres) ;no ;;plorem;;(vosaltres) ;no ;;ploreu;;(vostès) ;no ;;plorin
+Indicatiu Perfet;indicatiu;;jo ;;;he plorat;;tu ;;;has plorat;;ell //ella //vostè ;;;ha plorat;;nosaltres ;;;hem plorat;;vosaltres ;;;heu plorat;;ells //elles //vostès ;;;han plorat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig plorat;;tu ;;;vas plorat;;ell //ella //vostè ;;;va plorat;;nosaltres ;;;vam plorat;;vosaltres ;;;vau plorat;;ells //elles //vostès ;;;van plorat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia plorat;;tu ;;;havies plorat;;ell //ella //vostè ;;;havia plorat;;nosaltres ;;;havíem plorat;;vosaltres ;;;havíeu plorat;;ells //elles //vostès ;;;havien plorat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí plorat;;tu ;;;hagueres plorat;;ell //ella //vostè ;;;hagué plorat;;nosaltres ;;;haguérem plorat;;vosaltres ;;;haguéreu plorat;;ells //elles //vostès ;;;hagueren plorat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver plorat;;tu ;;;vas haver plorat;;ell //ella //vostè ;;;va haver plorat;;nosaltres ;;;vam haver plorat;;vosaltres ;;;vau haver plorat;;ells //elles //vostès ;;;van haver plorat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré plorat;;tu ;;;hauràs plorat;;ell //ella //vostè ;;;haurà plorat;;nosaltres ;;;haurem plorat;;vosaltres ;;;haureu plorat;;ells //elles //vostès ;;;hauran plorat
+Condicional Perfet;condicional;;jo ;;;hauria plorat;;tu ;;;hauries plorat;;ell //ella //vostè ;;;hauria plorat;;nosaltres ;;;hauríem plorat;;vosaltres ;;;hauríeu plorat;;ells //elles //vostès ;;;haurien plorat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi plorat;;tu ;;;vagis plorat;;ell //ella //vostè ;;;vagi plorat;;nosaltres ;;;vàgim plorat;;vosaltres ;;;vàgiu plorat;;ells //elles //vostès ;;;vagin plorat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi plorat;;tu ;;;hagis plorat;;ell //ella //vostè ;;;hagi plorat;;nosaltres ;;;hàgim plorat;;vosaltres ;;;hàgiu plorat;;ells //elles //vostès ;;;hagin plorat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes plorat;;tu ;;;haguessis plorat;;ell //ella //vostè ;;;hagués plorat;;nosaltres ;;;haguéssim plorat;;vosaltres ;;;haguéssiu plorat;;ells //elles //vostès ;;;haguessin plorat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver plorat;;tu ;;;vagis haver plorat;;ell //ella //vostè ;;;vagi haver plorat;;nosaltres ;;;vàgim haver plorat;;vosaltres ;;;vàgiu haver plorat;;ells //elles //vostès ;;;vagin haver plorat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;plorar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;plor;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

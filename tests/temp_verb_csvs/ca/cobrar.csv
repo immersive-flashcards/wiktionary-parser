@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;cobrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;cobrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;cobrat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;cobro;;tu ;;;cobres;;ell //ella //vostè ;;;cobra;;nosaltres ;;;cobrem;;vosaltres ;;;cobreu;;ells //elles //vostès ;;;cobren
+Indicatiu Imperfet;indicativo;;jo ;;;cobrava;;tu ;;;cobraves;;ell //ella //vostè ;;;cobrava;;nosaltres ;;;cobràvem;;vosaltres ;;;cobràveu;;ells //elles //vostès ;;;cobraven
+Indicatiu Futur;indicativo;;jo ;;;cobraré;;tu ;;;cobraràs;;ell //ella //vostè ;;;cobrarà;;nosaltres ;;;cobrarem;;vosaltres ;;;cobrareu;;ells //elles //vostès ;;;cobraran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;cobrí;;tu ;;;cobrares;;ell //ella //vostè ;;;cobrà;;nosaltres ;;;cobràrem;;vosaltres ;;;cobràreu;;ells //elles //vostès ;;;cobraren
+Condicional;condicional;;jo ;;;cobraria;;tu ;;;cobraries;;ell //ella //vostè ;;;cobraria;;nosaltres ;;;cobraríem;;vosaltres ;;;cobraríeu;;ells //elles //vostès ;;;cobrarien
+Subjuntiu Present;subjuntiu;;jo ;;;cobri;;tu ;;;cobris;;ell //ella //vostè ;;;cobri;;nosaltres ;;;cobrem;;vosaltres ;;;cobreu;;ells //elles //vostès ;;;cobrin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;cobrés;;tu ;;;cobressis;;ell //ella //vostè ;;;cobrés;;nosaltres ;;;cobréssim;;vosaltres ;;;cobréssiu;;ells //elles //vostès ;;;cobressin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;cobra;;(vostè) ;;;cobri;;(nosaltres) ;;;cobrem;;(vosaltres) ;;;cobreu;;(vostès) ;;;cobrin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;cobris;;(vostè) ;no ;;cobri;;(nosaltres) ;no ;;cobrem;;(vosaltres) ;no ;;cobreu;;(vostès) ;no ;;cobrin
+Indicatiu Perfet;indicatiu;;jo ;;;he cobrat;;tu ;;;has cobrat;;ell //ella //vostè ;;;ha cobrat;;nosaltres ;;;hem cobrat;;vosaltres ;;;heu cobrat;;ells //elles //vostès ;;;han cobrat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig cobrat;;tu ;;;vas cobrat;;ell //ella //vostè ;;;va cobrat;;nosaltres ;;;vam cobrat;;vosaltres ;;;vau cobrat;;ells //elles //vostès ;;;van cobrat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia cobrat;;tu ;;;havies cobrat;;ell //ella //vostè ;;;havia cobrat;;nosaltres ;;;havíem cobrat;;vosaltres ;;;havíeu cobrat;;ells //elles //vostès ;;;havien cobrat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí cobrat;;tu ;;;hagueres cobrat;;ell //ella //vostè ;;;hagué cobrat;;nosaltres ;;;haguérem cobrat;;vosaltres ;;;haguéreu cobrat;;ells //elles //vostès ;;;hagueren cobrat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver cobrat;;tu ;;;vas haver cobrat;;ell //ella //vostè ;;;va haver cobrat;;nosaltres ;;;vam haver cobrat;;vosaltres ;;;vau haver cobrat;;ells //elles //vostès ;;;van haver cobrat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré cobrat;;tu ;;;hauràs cobrat;;ell //ella //vostè ;;;haurà cobrat;;nosaltres ;;;haurem cobrat;;vosaltres ;;;haureu cobrat;;ells //elles //vostès ;;;hauran cobrat
+Condicional Perfet;condicional;;jo ;;;hauria cobrat;;tu ;;;hauries cobrat;;ell //ella //vostè ;;;hauria cobrat;;nosaltres ;;;hauríem cobrat;;vosaltres ;;;hauríeu cobrat;;ells //elles //vostès ;;;haurien cobrat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi cobrat;;tu ;;;vagis cobrat;;ell //ella //vostè ;;;vagi cobrat;;nosaltres ;;;vàgim cobrat;;vosaltres ;;;vàgiu cobrat;;ells //elles //vostès ;;;vagin cobrat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi cobrat;;tu ;;;hagis cobrat;;ell //ella //vostè ;;;hagi cobrat;;nosaltres ;;;hàgim cobrat;;vosaltres ;;;hàgiu cobrat;;ells //elles //vostès ;;;hagin cobrat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes cobrat;;tu ;;;haguessis cobrat;;ell //ella //vostè ;;;hagués cobrat;;nosaltres ;;;haguéssim cobrat;;vosaltres ;;;haguéssiu cobrat;;ells //elles //vostès ;;;haguessin cobrat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver cobrat;;tu ;;;vagis haver cobrat;;ell //ella //vostè ;;;vagi haver cobrat;;nosaltres ;;;vàgim haver cobrat;;vosaltres ;;;vàgiu haver cobrat;;ells //elles //vostès ;;;vagin haver cobrat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;cobrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;cobr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

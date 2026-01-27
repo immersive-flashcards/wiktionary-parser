@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;conduirais;;tu ;;;conduirais;;il/elle/on ;;;con
 Conditionnel Passé;conditionnel;;j’;;;aurais conduit;;tu ;;;aurais conduit;;il/elle/on ;;;aurait conduit;;nous ;;;aurions conduit;;vous ;;;auriez conduit;;ils/elles ;;;auraient conduit
 Impératif Présent;impératif;;;;;;;(tu) ;;;conduis;;;;;;;(nous) ;;;conduisons;;(vous) ;;;conduisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie conduit;;;;;;;(nous) ;;;ayons conduit;;(vous) ;;;ayez conduit;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;conduis pas;;;;;;;(nous) ;ne ;;conduisons pas;;(vous) ;ne ;;conduisez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;conduis pas ;;;;;;;(nous) ;ne ;;conduisons pas ;;(vous) ;ne ;;conduisez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas conduit;;;;;;;(nous) ;n';;ayons pas conduit;;(vous) ;n';;ayez pas conduit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;conduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

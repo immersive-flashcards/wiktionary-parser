@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;désignerais;;tu ;;;désignerais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais désigné;;tu ;;;aurais désigné;;il/elle/on ;;;aurait désigné;;nous ;;;aurions désigné;;vous ;;;auriez désigné;;ils/elles ;;;auraient désigné
 Impératif Présent;impératif;;;;;;;(tu) ;;;désigne;;;;;;;(nous) ;;;désignons;;(vous) ;;;désignez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie désigné;;;;;;;(nous) ;;;ayons désigné;;(vous) ;;;ayez désigné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;désigne pas;;;;;;;(nous) ;ne ;;désignons pas;;(vous) ;ne ;;désignez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;désigne pas ;;;;;;;(nous) ;ne ;;désignons pas ;;(vous) ;ne ;;désignez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas désigné;;;;;;;(nous) ;n';;ayons pas désigné;;(vous) ;n';;ayez pas désigné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;désigner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

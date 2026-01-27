@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;llevar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;llevant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;llevat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;llevo;;tu ;;;lleves;;ell //ella //vostè ;;;lleva;;nosaltres ;;;llevem;;vosaltres ;;;lleveu;;ells //elles //vostès ;;;lleven
+Indicatiu Imperfet;indicativo;;jo ;;;llevava;;tu ;;;llevaves;;ell //ella //vostè ;;;llevava;;nosaltres ;;;llevàvem;;vosaltres ;;;llevàveu;;ells //elles //vostès ;;;llevaven
+Indicatiu Futur;indicativo;;jo ;;;llevaré;;tu ;;;llevaràs;;ell //ella //vostè ;;;llevarà;;nosaltres ;;;llevarem;;vosaltres ;;;llevareu;;ells //elles //vostès ;;;llevaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;lleví;;tu ;;;llevares;;ell //ella //vostè ;;;llevà;;nosaltres ;;;llevàrem;;vosaltres ;;;llevàreu;;ells //elles //vostès ;;;llevaren
+Condicional;condicional;;jo ;;;llevaria;;tu ;;;llevaries;;ell //ella //vostè ;;;llevaria;;nosaltres ;;;llevaríem;;vosaltres ;;;llevaríeu;;ells //elles //vostès ;;;llevarien
+Subjuntiu Present;subjuntiu;;jo ;;;llevi;;tu ;;;llevis;;ell //ella //vostè ;;;llevi;;nosaltres ;;;llevem;;vosaltres ;;;lleveu;;ells //elles //vostès ;;;llevin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;llevés;;tu ;;;llevessis;;ell //ella //vostè ;;;llevés;;nosaltres ;;;llevéssim;;vosaltres ;;;llevéssiu;;ells //elles //vostès ;;;llevessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;lleva;;(vostè) ;;;llevi;;(nosaltres) ;;;llevem;;(vosaltres) ;;;lleveu;;(vostès) ;;;llevin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;llevis;;(vostè) ;no ;;llevi;;(nosaltres) ;no ;;llevem;;(vosaltres) ;no ;;lleveu;;(vostès) ;no ;;llevin
+Indicatiu Perfet;indicatiu;;jo ;;;he llevat;;tu ;;;has llevat;;ell //ella //vostè ;;;ha llevat;;nosaltres ;;;hem llevat;;vosaltres ;;;heu llevat;;ells //elles //vostès ;;;han llevat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig llevat;;tu ;;;vas llevat;;ell //ella //vostè ;;;va llevat;;nosaltres ;;;vam llevat;;vosaltres ;;;vau llevat;;ells //elles //vostès ;;;van llevat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia llevat;;tu ;;;havies llevat;;ell //ella //vostè ;;;havia llevat;;nosaltres ;;;havíem llevat;;vosaltres ;;;havíeu llevat;;ells //elles //vostès ;;;havien llevat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí llevat;;tu ;;;hagueres llevat;;ell //ella //vostè ;;;hagué llevat;;nosaltres ;;;haguérem llevat;;vosaltres ;;;haguéreu llevat;;ells //elles //vostès ;;;hagueren llevat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver llevat;;tu ;;;vas haver llevat;;ell //ella //vostè ;;;va haver llevat;;nosaltres ;;;vam haver llevat;;vosaltres ;;;vau haver llevat;;ells //elles //vostès ;;;van haver llevat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré llevat;;tu ;;;hauràs llevat;;ell //ella //vostè ;;;haurà llevat;;nosaltres ;;;haurem llevat;;vosaltres ;;;haureu llevat;;ells //elles //vostès ;;;hauran llevat
+Condicional Perfet;condicional;;jo ;;;hauria llevat;;tu ;;;hauries llevat;;ell //ella //vostè ;;;hauria llevat;;nosaltres ;;;hauríem llevat;;vosaltres ;;;hauríeu llevat;;ells //elles //vostès ;;;haurien llevat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi llevat;;tu ;;;vagis llevat;;ell //ella //vostè ;;;vagi llevat;;nosaltres ;;;vàgim llevat;;vosaltres ;;;vàgiu llevat;;ells //elles //vostès ;;;vagin llevat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi llevat;;tu ;;;hagis llevat;;ell //ella //vostè ;;;hagi llevat;;nosaltres ;;;hàgim llevat;;vosaltres ;;;hàgiu llevat;;ells //elles //vostès ;;;hagin llevat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes llevat;;tu ;;;haguessis llevat;;ell //ella //vostè ;;;hagués llevat;;nosaltres ;;;haguéssim llevat;;vosaltres ;;;haguéssiu llevat;;ells //elles //vostès ;;;haguessin llevat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver llevat;;tu ;;;vagis haver llevat;;ell //ella //vostè ;;;vagi haver llevat;;nosaltres ;;;vàgim haver llevat;;vosaltres ;;;vàgiu haver llevat;;ells //elles //vostès ;;;vagin haver llevat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;llevar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;llev;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

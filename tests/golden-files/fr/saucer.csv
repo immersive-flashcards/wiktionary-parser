@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;saucerais;;tu ;;;saucerais;;il/elle/on ;;;sauce
 Conditionnel Passé;conditionnel;;j’;;;aurais saucé;;tu ;;;aurais saucé;;il/elle/on ;;;aurait saucé;;nous ;;;aurions saucé;;vous ;;;auriez saucé;;ils/elles ;;;auraient saucé
 Impératif Présent;impératif;;;;;;;(tu) ;;;sauce;;;;;;;(nous) ;;;sauçons;;(vous) ;;;saucez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie saucé;;;;;;;(nous) ;;;ayons saucé;;(vous) ;;;ayez saucé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sauce pas;;;;;;;(nous) ;ne ;;sauçons pas;;(vous) ;ne ;;saucez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sauce pas ;;;;;;;(nous) ;ne ;;sauçons pas ;;(vous) ;ne ;;saucez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas saucé;;;;;;;(nous) ;n';;ayons pas saucé;;(vous) ;n';;ayez pas saucé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;saucer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

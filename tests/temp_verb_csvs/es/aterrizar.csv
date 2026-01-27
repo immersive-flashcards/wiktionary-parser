@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;aterrizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;aterrizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;aterrizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;aterrizo;;tú ;;;aterrizas;;él //ella //usted ;;;aterriza;;nosotros //nosotras ;;;aterrizamos;;vosotros //vosotras ;;;aterrizáis;;ellos //ellas //ustedes ;;;aterrizan;;vos ;;;aterrizás
+Indicativo Imperfecto;indicativo;;yo ;;;aterrizaba;;tú //vos ;;;aterrizabas;;él //ella //usted ;;;aterrizaba;;nosotros //nosotras ;;;aterrizábamos;;vosotros //vosotras ;;;aterrizabais;;ellos //ellas //ustedes ;;;aterrizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;aterricé;;tú //vos ;;;aterrizaste;;él //ella //usted ;;;aterrizó;;nosotros //nosotras ;;;aterrizamos;;vosotros //vosotras ;;;aterrizasteis;;ellos //ellas //ustedes ;;;aterrizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;aterrizaré;;tú //vos ;;;aterrizarás;;él //ella //usted ;;;aterrizará;;nosotros //nosotras ;;;aterrizaremos;;vosotros //vosotras ;;;aterrizaréis;;ellos //ellas //ustedes ;;;aterrizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he aterrizado;;tú //vos ;;;has aterrizado;;él //ella //usted ;;;ha aterrizado;;nosotros //nosotras ;;;hemos aterrizado;;vosotros //vosotras ;;;habéis aterrizado;;ellos //ellas //ustedes ;;;han aterrizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había aterrizado;;tú //vos ;;;habías aterrizado;;él //ella //usted ;;;había aterrizado;;nosotros //nosotras ;;;habíamos aterrizado;;vosotros //vosotras ;;;habíais aterrizado;;ellos //ellas //ustedes ;;;habían aterrizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube aterrizado;;tú //vos ;;;hubiste aterrizado;;él //ella //usted ;;;hubo aterrizado;;nosotros //nosotras ;;;hubimos aterrizado;;vosotros //vosotras ;;;hubisteis aterrizado;;ellos //ellas //ustedes ;;;hubieron aterrizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré aterrizado;;tú //vos ;;;habrás aterrizado;;él //ella //usted ;;;habrá aterrizado;;nosotros //nosotras ;;;habremos aterrizado;;vosotros //vosotras ;;;habréis aterrizado;;ellos //ellas //ustedes ;;;habrán aterrizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;aterrice;;tú //vos ;;;aterrices;;él //ella //usted ;;;aterrice;;nosotros //nosotras ;;;aterricemos;;vosotros //vosotras ;;;aterricéis;;ellos //ellas //ustedes ;;;aterricen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;aterrizara / aterrizase;;tú //vos ;;;aterrizaras / aterrizases;;él //ella //usted ;;;aterrizara / aterrizase;;nosotros //nosotras ;;;aterrizáramos / aterrizásemos;;vosotros //vosotras ;;;aterrizarais / aterrizaseis;;ellos //ellas //ustedes ;;;aterrizaran / aterrizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;aterrizare;;tú //vos ;;;aterrizares;;él //ella //usted ;;;aterrizare;;nosotros //nosotras ;;;aterrizáremos;;vosotros //vosotras ;;;aterrizareis;;ellos //ellas //ustedes ;;;aterrizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya aterrizado;;tú //vos ;;;hayas aterrizado;;él //ella //usted ;;;haya aterrizado;;nosotros //nosotras ;;;hayamos aterrizado;;vosotros //vosotras ;;;hayáis aterrizado;;ellos //ellas //ustedes ;;;hayan aterrizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera aterrizado / hubiese aterrizado;;tú //vos ;;;hubieras aterrizado / hubieses aterrizado;;él //ella //usted ;;;hubiera aterrizado / hubiese aterrizado;;nosotros //nosotras ;;;hubiéramos aterrizado / hubiésemos aterrizado;;vosotros //vosotras ;;;hubierais aterrizado / hubieseis aterrizado;;ellos //ellas //ustedes ;;;hubieran aterrizado / hubiesen aterrizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere aterrizado;;tú //vos ;;;hubieres aterrizado;;él //ella //usted ;;;hubiere aterrizado;;nosotros //nosotras ;;;hubiéremos aterrizado;;vosotros //vosotras ;;;hubiereis aterrizado;;ellos //ellas //ustedes ;;;hubieren aterrizado;;;;;
+Condicional;condicional;;yo ;;;aterrizaría;;tú //vos ;;;aterrizarías;;él //ella //usted ;;;aterrizaría;;nosotros //nosotras ;;;aterrizaríamos;;vosotros //vosotras ;;;aterrizaríais;;ellos //ellas //ustedes ;;;aterrizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría aterrizado;;tú //vos ;;;habrías aterrizado;;él //ella //usted ;;;habría aterrizado;;nosotros //nosotras ;;;habríamos aterrizado;;vosotros //vosotras ;;;habríais aterrizado;;ellos //ellas //ustedes ;;;habrían aterrizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aterriza;;(usted) ;;;aterrice;;(nosotros) //(nosotras) ;;;aterricemos;;(vosotros) //(vosotras) ;;;aterrizad;;(ustedes) ;;;aterricen;;(vos) ;;;aterrizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aterrices;;(usted) ;no ;;aterrice;;(nosotros) //(nosotras) ;no ;;aterricemos;;(vosotros) //(vosotras) ;no ;;aterricéis;;(ustedes) ;no ;;aterricen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;aterrizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;aterriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

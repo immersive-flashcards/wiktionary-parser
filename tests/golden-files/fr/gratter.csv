@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;gratterais;;tu ;;;gratterais;;il/elle/on ;;;gra
 Conditionnel Passé;conditionnel;;j’;;;aurais gratté;;tu ;;;aurais gratté;;il/elle/on ;;;aurait gratté;;nous ;;;aurions gratté;;vous ;;;auriez gratté;;ils/elles ;;;auraient gratté
 Impératif Présent;impératif;;;;;;;(tu) ;;;gratte;;;;;;;(nous) ;;;grattons;;(vous) ;;;grattez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie gratté;;;;;;;(nous) ;;;ayons gratté;;(vous) ;;;ayez gratté;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gratte pas;;;;;;;(nous) ;ne ;;grattons pas;;(vous) ;ne ;;grattez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gratte pas ;;;;;;;(nous) ;ne ;;grattons pas ;;(vous) ;ne ;;grattez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas gratté;;;;;;;(nous) ;n';;ayons pas gratté;;(vous) ;n';;ayez pas gratté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;gratter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;refer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;refent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;refet;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;refaig;;tu ;;;refàs;;ell //ella //vostè ;;;refà;;nosaltres ;;;refem;;vosaltres ;;;refeu;;ells //elles //vostès ;;;refan
+Indicatiu Imperfet;indicativo;;jo ;;;refeia;;tu ;;;refeies;;ell //ella //vostè ;;;refeia;;nosaltres ;;;refèiem;;vosaltres ;;;refèieu;;ells //elles //vostès ;;;refeien
+Indicatiu Futur;indicativo;;jo ;;;refaré;;tu ;;;refaràs;;ell //ella //vostè ;;;refarà;;nosaltres ;;;refarem;;vosaltres ;;;refareu;;ells //elles //vostès ;;;refaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;refiu;;tu ;;;referes;;ell //ella //vostè ;;;refeu;;nosaltres ;;;reférem;;vosaltres ;;;reféreu;;ells //elles //vostès ;;;referen
+Condicional;condicional;;jo ;;;refaria;;tu ;;;refaries;;ell //ella //vostè ;;;refaria;;nosaltres ;;;refaríem;;vosaltres ;;;refaríeu;;ells //elles //vostès ;;;refarien
+Subjuntiu Present;subjuntiu;;jo ;;;refaci;;tu ;;;refacis;;ell //ella //vostè ;;;refaci;;nosaltres ;;;refem;;vosaltres ;;;refeu;;ells //elles //vostès ;;;refacin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;refés;;tu ;;;refessis;;ell //ella //vostè ;;;refés;;nosaltres ;;;reféssim;;vosaltres ;;;reféssiu;;ells //elles //vostès ;;;refessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;refés;;(vostè) ;;;refaci;;(nosaltres) ;;;refem;;(vosaltres) ;;;refeu;;(vostès) ;;;refacin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;refacis;;(vostè) ;no ;;refaci;;(nosaltres) ;no ;;refem;;(vosaltres) ;no ;;refeu;;(vostès) ;no ;;refacin
+Indicatiu Perfet;indicatiu;;jo ;;;he refet;;tu ;;;has refet;;ell //ella //vostè ;;;ha refet;;nosaltres ;;;hem refet;;vosaltres ;;;heu refet;;ells //elles //vostès ;;;han refet
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig refet;;tu ;;;vas refet;;ell //ella //vostè ;;;va refet;;nosaltres ;;;vam refet;;vosaltres ;;;vau refet;;ells //elles //vostès ;;;van refet
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia refet;;tu ;;;havies refet;;ell //ella //vostè ;;;havia refet;;nosaltres ;;;havíem refet;;vosaltres ;;;havíeu refet;;ells //elles //vostès ;;;havien refet
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí refet;;tu ;;;hagueres refet;;ell //ella //vostè ;;;hagué refet;;nosaltres ;;;haguérem refet;;vosaltres ;;;haguéreu refet;;ells //elles //vostès ;;;hagueren refet
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver refet;;tu ;;;vas haver refet;;ell //ella //vostè ;;;va haver refet;;nosaltres ;;;vam haver refet;;vosaltres ;;;vau haver refet;;ells //elles //vostès ;;;van haver refet
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré refet;;tu ;;;hauràs refet;;ell //ella //vostè ;;;haurà refet;;nosaltres ;;;haurem refet;;vosaltres ;;;haureu refet;;ells //elles //vostès ;;;hauran refet
+Condicional Perfet;condicional;;jo ;;;hauria refet;;tu ;;;hauries refet;;ell //ella //vostè ;;;hauria refet;;nosaltres ;;;hauríem refet;;vosaltres ;;;hauríeu refet;;ells //elles //vostès ;;;haurien refet
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi refet;;tu ;;;vagis refet;;ell //ella //vostè ;;;vagi refet;;nosaltres ;;;vàgim refet;;vosaltres ;;;vàgiu refet;;ells //elles //vostès ;;;vagin refet
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi refet;;tu ;;;hagis refet;;ell //ella //vostè ;;;hagi refet;;nosaltres ;;;hàgim refet;;vosaltres ;;;hàgiu refet;;ells //elles //vostès ;;;hagin refet
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes refet;;tu ;;;haguessis refet;;ell //ella //vostè ;;;hagués refet;;nosaltres ;;;haguéssim refet;;vosaltres ;;;haguéssiu refet;;ells //elles //vostès ;;;haguessin refet
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver refet;;tu ;;;vagis haver refet;;ell //ella //vostè ;;;vagi haver refet;;nosaltres ;;;vàgim haver refet;;vosaltres ;;;vàgiu haver refet;;ells //elles //vostès ;;;vagin haver refet
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;refer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;ref;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

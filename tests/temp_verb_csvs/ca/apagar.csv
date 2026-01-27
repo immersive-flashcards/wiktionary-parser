@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;apagar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;apagant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;apagat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;apago;;tu ;;;apagues;;ell //ella //vostè ;;;apaga;;nosaltres ;;;apaguem;;vosaltres ;;;apagueu;;ells //elles //vostès ;;;apaguen
+Indicatiu Imperfet;indicativo;;jo ;;;apagava;;tu ;;;apagaves;;ell //ella //vostè ;;;apagava;;nosaltres ;;;apagàvem;;vosaltres ;;;apagàveu;;ells //elles //vostès ;;;apagaven
+Indicatiu Futur;indicativo;;jo ;;;apagaré;;tu ;;;apagaràs;;ell //ella //vostè ;;;apagarà;;nosaltres ;;;apagarem;;vosaltres ;;;apagareu;;ells //elles //vostès ;;;apagaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;apaguí;;tu ;;;apagares;;ell //ella //vostè ;;;apagà;;nosaltres ;;;apagàrem;;vosaltres ;;;apagàreu;;ells //elles //vostès ;;;apagaren
+Condicional;condicional;;jo ;;;apagaria;;tu ;;;apagaries;;ell //ella //vostè ;;;apagaria;;nosaltres ;;;apagaríem;;vosaltres ;;;apagaríeu;;ells //elles //vostès ;;;apagarien
+Subjuntiu Present;subjuntiu;;jo ;;;apagui;;tu ;;;apaguis;;ell //ella //vostè ;;;apagui;;nosaltres ;;;apaguem;;vosaltres ;;;apagueu;;ells //elles //vostès ;;;apaguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;apagués;;tu ;;;apaguessis;;ell //ella //vostè ;;;apagués;;nosaltres ;;;apaguéssim;;vosaltres ;;;apaguéssiu;;ells //elles //vostès ;;;apaguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;apaga;;(vostè) ;;;apagui;;(nosaltres) ;;;apaguem;;(vosaltres) ;;;apagueu;;(vostès) ;;;apaguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;apaguis;;(vostè) ;no ;;apagui;;(nosaltres) ;no ;;apaguem;;(vosaltres) ;no ;;apagueu;;(vostès) ;no ;;apaguin
+Indicatiu Perfet;indicatiu;;jo ;;;he apagat;;tu ;;;has apagat;;ell //ella //vostè ;;;ha apagat;;nosaltres ;;;hem apagat;;vosaltres ;;;heu apagat;;ells //elles //vostès ;;;han apagat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig apagat;;tu ;;;vas apagat;;ell //ella //vostè ;;;va apagat;;nosaltres ;;;vam apagat;;vosaltres ;;;vau apagat;;ells //elles //vostès ;;;van apagat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia apagat;;tu ;;;havies apagat;;ell //ella //vostè ;;;havia apagat;;nosaltres ;;;havíem apagat;;vosaltres ;;;havíeu apagat;;ells //elles //vostès ;;;havien apagat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí apagat;;tu ;;;hagueres apagat;;ell //ella //vostè ;;;hagué apagat;;nosaltres ;;;haguérem apagat;;vosaltres ;;;haguéreu apagat;;ells //elles //vostès ;;;hagueren apagat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver apagat;;tu ;;;vas haver apagat;;ell //ella //vostè ;;;va haver apagat;;nosaltres ;;;vam haver apagat;;vosaltres ;;;vau haver apagat;;ells //elles //vostès ;;;van haver apagat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré apagat;;tu ;;;hauràs apagat;;ell //ella //vostè ;;;haurà apagat;;nosaltres ;;;haurem apagat;;vosaltres ;;;haureu apagat;;ells //elles //vostès ;;;hauran apagat
+Condicional Perfet;condicional;;jo ;;;hauria apagat;;tu ;;;hauries apagat;;ell //ella //vostè ;;;hauria apagat;;nosaltres ;;;hauríem apagat;;vosaltres ;;;hauríeu apagat;;ells //elles //vostès ;;;haurien apagat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi apagat;;tu ;;;vagis apagat;;ell //ella //vostè ;;;vagi apagat;;nosaltres ;;;vàgim apagat;;vosaltres ;;;vàgiu apagat;;ells //elles //vostès ;;;vagin apagat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi apagat;;tu ;;;hagis apagat;;ell //ella //vostè ;;;hagi apagat;;nosaltres ;;;hàgim apagat;;vosaltres ;;;hàgiu apagat;;ells //elles //vostès ;;;hagin apagat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes apagat;;tu ;;;haguessis apagat;;ell //ella //vostè ;;;hagués apagat;;nosaltres ;;;haguéssim apagat;;vosaltres ;;;haguéssiu apagat;;ells //elles //vostès ;;;haguessin apagat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver apagat;;tu ;;;vagis haver apagat;;ell //ella //vostè ;;;vagi haver apagat;;nosaltres ;;;vàgim haver apagat;;vosaltres ;;;vàgiu haver apagat;;ells //elles //vostès ;;;vagin haver apagat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;apagar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;apag;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;courrais;;tu ;;;courrais;;il/elle/on ;;;courrai
 Conditionnel Passé;conditionnel;;j’;;;aurais couru;;tu ;;;aurais couru;;il/elle/on ;;;aurait couru;;nous ;;;aurions couru;;vous ;;;auriez couru;;ils/elles ;;;auraient couru
 Impératif Présent;impératif;;;;;;;(tu) ;;;cours;;;;;;;(nous) ;;;courons;;(vous) ;;;courez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie couru;;;;;;;(nous) ;;;ayons couru;;(vous) ;;;ayez couru;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;cours pas;;;;;;;(nous) ;ne ;;courons pas;;(vous) ;ne ;;courez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;cours pas ;;;;;;;(nous) ;ne ;;courons pas ;;(vous) ;ne ;;courez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas couru;;;;;;;(nous) ;n';;ayons pas couru;;(vous) ;n';;ayez pas couru;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;courir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

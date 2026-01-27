@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;vasculariserais;;tu ;;;vasculariserais;;il/elle
 Conditionnel Passé;conditionnel;;j’;;;aurais vascularisé;;tu ;;;aurais vascularisé;;il/elle/on ;;;aurait vascularisé;;nous ;;;aurions vascularisé;;vous ;;;auriez vascularisé;;ils/elles ;;;auraient vascularisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;vascularise;;;;;;;(nous) ;;;vascularisons;;(vous) ;;;vascularisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie vascularisé;;;;;;;(nous) ;;;ayons vascularisé;;(vous) ;;;ayez vascularisé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vascularise pas;;;;;;;(nous) ;ne ;;vascularisons pas;;(vous) ;ne ;;vascularisez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vascularise pas ;;;;;;;(nous) ;ne ;;vascularisons pas ;;(vous) ;ne ;;vascularisez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas vascularisé;;;;;;;(nous) ;n';;ayons pas vascularisé;;(vous) ;n';;ayez pas vascularisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;vasculariser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

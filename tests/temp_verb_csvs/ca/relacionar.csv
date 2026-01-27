@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;relacionar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;relacionant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;relacionat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;relaciono;;tu ;;;relaciones;;ell //ella //vostè ;;;relaciona;;nosaltres ;;;relacionem;;vosaltres ;;;relacioneu;;ells //elles //vostès ;;;relacionen
+Indicatiu Imperfet;indicativo;;jo ;;;relacionava;;tu ;;;relacionaves;;ell //ella //vostè ;;;relacionava;;nosaltres ;;;relacionàvem;;vosaltres ;;;relacionàveu;;ells //elles //vostès ;;;relacionaven
+Indicatiu Futur;indicativo;;jo ;;;relacionaré;;tu ;;;relacionaràs;;ell //ella //vostè ;;;relacionarà;;nosaltres ;;;relacionarem;;vosaltres ;;;relacionareu;;ells //elles //vostès ;;;relacionaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;relacioní;;tu ;;;relacionares;;ell //ella //vostè ;;;relacionà;;nosaltres ;;;relacionàrem;;vosaltres ;;;relacionàreu;;ells //elles //vostès ;;;relacionaren
+Condicional;condicional;;jo ;;;relacionaria;;tu ;;;relacionaries;;ell //ella //vostè ;;;relacionaria;;nosaltres ;;;relacionaríem;;vosaltres ;;;relacionaríeu;;ells //elles //vostès ;;;relacionarien
+Subjuntiu Present;subjuntiu;;jo ;;;relacioni;;tu ;;;relacionis;;ell //ella //vostè ;;;relacioni;;nosaltres ;;;relacionem;;vosaltres ;;;relacioneu;;ells //elles //vostès ;;;relacionin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;relacionés;;tu ;;;relacionessis;;ell //ella //vostè ;;;relacionés;;nosaltres ;;;relacionéssim;;vosaltres ;;;relacionéssiu;;ells //elles //vostès ;;;relacionessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;relaciona;;(vostè) ;;;relacioni;;(nosaltres) ;;;relacionem;;(vosaltres) ;;;relacioneu;;(vostès) ;;;relacionin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;relacionis;;(vostè) ;no ;;relacioni;;(nosaltres) ;no ;;relacionem;;(vosaltres) ;no ;;relacioneu;;(vostès) ;no ;;relacionin
+Indicatiu Perfet;indicatiu;;jo ;;;he relacionat;;tu ;;;has relacionat;;ell //ella //vostè ;;;ha relacionat;;nosaltres ;;;hem relacionat;;vosaltres ;;;heu relacionat;;ells //elles //vostès ;;;han relacionat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig relacionat;;tu ;;;vas relacionat;;ell //ella //vostè ;;;va relacionat;;nosaltres ;;;vam relacionat;;vosaltres ;;;vau relacionat;;ells //elles //vostès ;;;van relacionat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia relacionat;;tu ;;;havies relacionat;;ell //ella //vostè ;;;havia relacionat;;nosaltres ;;;havíem relacionat;;vosaltres ;;;havíeu relacionat;;ells //elles //vostès ;;;havien relacionat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí relacionat;;tu ;;;hagueres relacionat;;ell //ella //vostè ;;;hagué relacionat;;nosaltres ;;;haguérem relacionat;;vosaltres ;;;haguéreu relacionat;;ells //elles //vostès ;;;hagueren relacionat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver relacionat;;tu ;;;vas haver relacionat;;ell //ella //vostè ;;;va haver relacionat;;nosaltres ;;;vam haver relacionat;;vosaltres ;;;vau haver relacionat;;ells //elles //vostès ;;;van haver relacionat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré relacionat;;tu ;;;hauràs relacionat;;ell //ella //vostè ;;;haurà relacionat;;nosaltres ;;;haurem relacionat;;vosaltres ;;;haureu relacionat;;ells //elles //vostès ;;;hauran relacionat
+Condicional Perfet;condicional;;jo ;;;hauria relacionat;;tu ;;;hauries relacionat;;ell //ella //vostè ;;;hauria relacionat;;nosaltres ;;;hauríem relacionat;;vosaltres ;;;hauríeu relacionat;;ells //elles //vostès ;;;haurien relacionat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi relacionat;;tu ;;;vagis relacionat;;ell //ella //vostè ;;;vagi relacionat;;nosaltres ;;;vàgim relacionat;;vosaltres ;;;vàgiu relacionat;;ells //elles //vostès ;;;vagin relacionat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi relacionat;;tu ;;;hagis relacionat;;ell //ella //vostè ;;;hagi relacionat;;nosaltres ;;;hàgim relacionat;;vosaltres ;;;hàgiu relacionat;;ells //elles //vostès ;;;hagin relacionat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes relacionat;;tu ;;;haguessis relacionat;;ell //ella //vostè ;;;hagués relacionat;;nosaltres ;;;haguéssim relacionat;;vosaltres ;;;haguéssiu relacionat;;ells //elles //vostès ;;;haguessin relacionat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver relacionat;;tu ;;;vagis haver relacionat;;ell //ella //vostè ;;;vagi haver relacionat;;nosaltres ;;;vàgim haver relacionat;;vosaltres ;;;vàgiu haver relacionat;;ells //elles //vostès ;;;vagin haver relacionat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;relacionar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;relacion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

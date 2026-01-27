@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;modifierais;;tu ;;;modifierais;;il/elle/on ;;;m
 Conditionnel Passé;conditionnel;;j’;;;aurais modifié;;tu ;;;aurais modifié;;il/elle/on ;;;aurait modifié;;nous ;;;aurions modifié;;vous ;;;auriez modifié;;ils/elles ;;;auraient modifié
 Impératif Présent;impératif;;;;;;;(tu) ;;;modifie;;;;;;;(nous) ;;;modifions;;(vous) ;;;modifiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie modifié;;;;;;;(nous) ;;;ayons modifié;;(vous) ;;;ayez modifié;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;modifie pas;;;;;;;(nous) ;ne ;;modifions pas;;(vous) ;ne ;;modifiez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;modifie pas ;;;;;;;(nous) ;ne ;;modifions pas ;;(vous) ;ne ;;modifiez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas modifié;;;;;;;(nous) ;n';;ayons pas modifié;;(vous) ;n';;ayez pas modifié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;modifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

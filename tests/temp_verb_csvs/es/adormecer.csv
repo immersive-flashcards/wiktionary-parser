@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;adormecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;adormeciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;adormecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;adormezco;;tú ;;;adormeces;;él //ella //usted ;;;adormece;;nosotros //nosotras ;;;adormecemos;;vosotros //vosotras ;;;adormecéis;;ellos //ellas //ustedes ;;;adormecen;;vos ;;;adormecés
+Indicativo Imperfecto;indicativo;;yo ;;;adormecía;;tú //vos ;;;adormecías;;él //ella //usted ;;;adormecía;;nosotros //nosotras ;;;adormecíamos;;vosotros //vosotras ;;;adormecíais;;ellos //ellas //ustedes ;;;adormecían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;adormecí;;tú //vos ;;;adormeciste;;él //ella //usted ;;;adormeció;;nosotros //nosotras ;;;adormecimos;;vosotros //vosotras ;;;adormecisteis;;ellos //ellas //ustedes ;;;adormecieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;adormeceré;;tú //vos ;;;adormecerás;;él //ella //usted ;;;adormecerá;;nosotros //nosotras ;;;adormeceremos;;vosotros //vosotras ;;;adormeceréis;;ellos //ellas //ustedes ;;;adormecerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he adormecido;;tú //vos ;;;has adormecido;;él //ella //usted ;;;ha adormecido;;nosotros //nosotras ;;;hemos adormecido;;vosotros //vosotras ;;;habéis adormecido;;ellos //ellas //ustedes ;;;han adormecido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había adormecido;;tú //vos ;;;habías adormecido;;él //ella //usted ;;;había adormecido;;nosotros //nosotras ;;;habíamos adormecido;;vosotros //vosotras ;;;habíais adormecido;;ellos //ellas //ustedes ;;;habían adormecido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube adormecido;;tú //vos ;;;hubiste adormecido;;él //ella //usted ;;;hubo adormecido;;nosotros //nosotras ;;;hubimos adormecido;;vosotros //vosotras ;;;hubisteis adormecido;;ellos //ellas //ustedes ;;;hubieron adormecido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré adormecido;;tú //vos ;;;habrás adormecido;;él //ella //usted ;;;habrá adormecido;;nosotros //nosotras ;;;habremos adormecido;;vosotros //vosotras ;;;habréis adormecido;;ellos //ellas //ustedes ;;;habrán adormecido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;adormezca;;tú //vos ;;;adormezcas;;él //ella //usted ;;;adormezca;;nosotros //nosotras ;;;adormezcamos;;vosotros //vosotras ;;;adormezcáis;;ellos //ellas //ustedes ;;;adormezcan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;adormeciera / adormeciese;;tú //vos ;;;adormecieras / adormecieses;;él //ella //usted ;;;adormeciera / adormeciese;;nosotros //nosotras ;;;adormeciéramos / adormeciésemos;;vosotros //vosotras ;;;adormecierais / adormecieseis;;ellos //ellas //ustedes ;;;adormecieran / adormeciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;adormeciere;;tú //vos ;;;adormecieres;;él //ella //usted ;;;adormeciere;;nosotros //nosotras ;;;adormeciéremos;;vosotros //vosotras ;;;adormeciereis;;ellos //ellas //ustedes ;;;adormecieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya adormecido;;tú //vos ;;;hayas adormecido;;él //ella //usted ;;;haya adormecido;;nosotros //nosotras ;;;hayamos adormecido;;vosotros //vosotras ;;;hayáis adormecido;;ellos //ellas //ustedes ;;;hayan adormecido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera adormecido / hubiese adormecido;;tú //vos ;;;hubieras adormecido / hubieses adormecido;;él //ella //usted ;;;hubiera adormecido / hubiese adormecido;;nosotros //nosotras ;;;hubiéramos adormecido / hubiésemos adormecido;;vosotros //vosotras ;;;hubierais adormecido / hubieseis adormecido;;ellos //ellas //ustedes ;;;hubieran adormecido / hubiesen adormecido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere adormecido;;tú //vos ;;;hubieres adormecido;;él //ella //usted ;;;hubiere adormecido;;nosotros //nosotras ;;;hubiéremos adormecido;;vosotros //vosotras ;;;hubiereis adormecido;;ellos //ellas //ustedes ;;;hubieren adormecido;;;;;
+Condicional;condicional;;yo ;;;adormecería;;tú //vos ;;;adormecerías;;él //ella //usted ;;;adormecería;;nosotros //nosotras ;;;adormeceríamos;;vosotros //vosotras ;;;adormeceríais;;ellos //ellas //ustedes ;;;adormecerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría adormecido;;tú //vos ;;;habrías adormecido;;él //ella //usted ;;;habría adormecido;;nosotros //nosotras ;;;habríamos adormecido;;vosotros //vosotras ;;;habríais adormecido;;ellos //ellas //ustedes ;;;habrían adormecido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adormece;;(usted) ;;;adormezca;;(nosotros) //(nosotras) ;;;adormezcamos;;(vosotros) //(vosotras) ;;;adormeced;;(ustedes) ;;;adormezcan;;(vos) ;;;adormecé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adormezcas;;(usted) ;no ;;adormezca;;(nosotros) //(nosotras) ;no ;;adormezcamos;;(vosotros) //(vosotras) ;no ;;adormezcáis;;(ustedes) ;no ;;adormezcan;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;adormecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;adormec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

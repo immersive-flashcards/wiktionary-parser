@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;étudierais;;tu ;;;étudierais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais étudié;;tu ;;;aurais étudié;;il/elle/on ;;;aurait étudié;;nous ;;;aurions étudié;;vous ;;;auriez étudié;;ils/elles ;;;auraient étudié
 Impératif Présent;impératif;;;;;;;(tu) ;;;étudie;;;;;;;(nous) ;;;étudions;;(vous) ;;;étudiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie étudié;;;;;;;(nous) ;;;ayons étudié;;(vous) ;;;ayez étudié;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;étudie pas;;;;;;;(nous) ;n';;étudions pas;;(vous) ;n';;étudiez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;étudie pas ;;;;;;;(nous) ;n';;étudions pas ;;(vous) ;n';;étudiez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas étudié;;;;;;;(nous) ;n';;ayons pas étudié;;(vous) ;n';;ayez pas étudié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;étudier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;nommerais;;tu ;;;nommerais;;il/elle/on ;;;nomme
 Conditionnel Passé;conditionnel;;j’;;;aurais nommé;;tu ;;;aurais nommé;;il/elle/on ;;;aurait nommé;;nous ;;;aurions nommé;;vous ;;;auriez nommé;;ils/elles ;;;auraient nommé
 Impératif Présent;impératif;;;;;;;(tu) ;;;nomme;;;;;;;(nous) ;;;nommons;;(vous) ;;;nommez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie nommé;;;;;;;(nous) ;;;ayons nommé;;(vous) ;;;ayez nommé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;nomme pas;;;;;;;(nous) ;ne ;;nommons pas;;(vous) ;ne ;;nommez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;nomme pas ;;;;;;;(nous) ;ne ;;nommons pas ;;(vous) ;ne ;;nommez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas nommé;;;;;;;(nous) ;n';;ayons pas nommé;;(vous) ;n';;ayez pas nommé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;nommer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

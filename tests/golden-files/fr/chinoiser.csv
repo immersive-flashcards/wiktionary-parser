@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;chinoiserais;;tu ;;;chinoiserais;;il/elle/on ;;
 Conditionnel Passé;conditionnel;;j’;;;aurais chinoisé;;tu ;;;aurais chinoisé;;il/elle/on ;;;aurait chinoisé;;nous ;;;aurions chinoisé;;vous ;;;auriez chinoisé;;ils/elles ;;;auraient chinoisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;chinoise;;;;;;;(nous) ;;;chinoisons;;(vous) ;;;chinoisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie chinoisé;;;;;;;(nous) ;;;ayons chinoisé;;(vous) ;;;ayez chinoisé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;chinoise pas;;;;;;;(nous) ;ne ;;chinoisons pas;;(vous) ;ne ;;chinoisez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;chinoise pas ;;;;;;;(nous) ;ne ;;chinoisons pas ;;(vous) ;ne ;;chinoisez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas chinoisé;;;;;;;(nous) ;n';;ayons pas chinoisé;;(vous) ;n';;ayez pas chinoisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;chinoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

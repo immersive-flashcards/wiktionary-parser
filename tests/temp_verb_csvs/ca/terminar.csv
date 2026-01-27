@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;terminar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;terminant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;terminat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;termino;;tu ;;;termines;;ell //ella //vostè ;;;termina;;nosaltres ;;;terminem;;vosaltres ;;;termineu;;ells //elles //vostès ;;;terminen
+Indicatiu Imperfet;indicativo;;jo ;;;terminava;;tu ;;;terminaves;;ell //ella //vostè ;;;terminava;;nosaltres ;;;terminàvem;;vosaltres ;;;terminàveu;;ells //elles //vostès ;;;terminaven
+Indicatiu Futur;indicativo;;jo ;;;terminaré;;tu ;;;terminaràs;;ell //ella //vostè ;;;terminarà;;nosaltres ;;;terminarem;;vosaltres ;;;terminareu;;ells //elles //vostès ;;;terminaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;terminí;;tu ;;;terminares;;ell //ella //vostè ;;;terminà;;nosaltres ;;;terminàrem;;vosaltres ;;;terminàreu;;ells //elles //vostès ;;;terminaren
+Condicional;condicional;;jo ;;;terminaria;;tu ;;;terminaries;;ell //ella //vostè ;;;terminaria;;nosaltres ;;;terminaríem;;vosaltres ;;;terminaríeu;;ells //elles //vostès ;;;terminarien
+Subjuntiu Present;subjuntiu;;jo ;;;termini;;tu ;;;terminis;;ell //ella //vostè ;;;termini;;nosaltres ;;;terminem;;vosaltres ;;;termineu;;ells //elles //vostès ;;;terminin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;terminés;;tu ;;;terminessis;;ell //ella //vostè ;;;terminés;;nosaltres ;;;terminéssim;;vosaltres ;;;terminéssiu;;ells //elles //vostès ;;;terminessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;termina;;(vostè) ;;;termini;;(nosaltres) ;;;terminem;;(vosaltres) ;;;termineu;;(vostès) ;;;terminin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;terminis;;(vostè) ;no ;;termini;;(nosaltres) ;no ;;terminem;;(vosaltres) ;no ;;termineu;;(vostès) ;no ;;terminin
+Indicatiu Perfet;indicatiu;;jo ;;;he terminat;;tu ;;;has terminat;;ell //ella //vostè ;;;ha terminat;;nosaltres ;;;hem terminat;;vosaltres ;;;heu terminat;;ells //elles //vostès ;;;han terminat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig terminat;;tu ;;;vas terminat;;ell //ella //vostè ;;;va terminat;;nosaltres ;;;vam terminat;;vosaltres ;;;vau terminat;;ells //elles //vostès ;;;van terminat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia terminat;;tu ;;;havies terminat;;ell //ella //vostè ;;;havia terminat;;nosaltres ;;;havíem terminat;;vosaltres ;;;havíeu terminat;;ells //elles //vostès ;;;havien terminat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí terminat;;tu ;;;hagueres terminat;;ell //ella //vostè ;;;hagué terminat;;nosaltres ;;;haguérem terminat;;vosaltres ;;;haguéreu terminat;;ells //elles //vostès ;;;hagueren terminat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver terminat;;tu ;;;vas haver terminat;;ell //ella //vostè ;;;va haver terminat;;nosaltres ;;;vam haver terminat;;vosaltres ;;;vau haver terminat;;ells //elles //vostès ;;;van haver terminat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré terminat;;tu ;;;hauràs terminat;;ell //ella //vostè ;;;haurà terminat;;nosaltres ;;;haurem terminat;;vosaltres ;;;haureu terminat;;ells //elles //vostès ;;;hauran terminat
+Condicional Perfet;condicional;;jo ;;;hauria terminat;;tu ;;;hauries terminat;;ell //ella //vostè ;;;hauria terminat;;nosaltres ;;;hauríem terminat;;vosaltres ;;;hauríeu terminat;;ells //elles //vostès ;;;haurien terminat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi terminat;;tu ;;;vagis terminat;;ell //ella //vostè ;;;vagi terminat;;nosaltres ;;;vàgim terminat;;vosaltres ;;;vàgiu terminat;;ells //elles //vostès ;;;vagin terminat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi terminat;;tu ;;;hagis terminat;;ell //ella //vostè ;;;hagi terminat;;nosaltres ;;;hàgim terminat;;vosaltres ;;;hàgiu terminat;;ells //elles //vostès ;;;hagin terminat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes terminat;;tu ;;;haguessis terminat;;ell //ella //vostè ;;;hagués terminat;;nosaltres ;;;haguéssim terminat;;vosaltres ;;;haguéssiu terminat;;ells //elles //vostès ;;;haguessin terminat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver terminat;;tu ;;;vagis haver terminat;;ell //ella //vostè ;;;vagi haver terminat;;nosaltres ;;;vàgim haver terminat;;vosaltres ;;;vàgiu haver terminat;;ells //elles //vostès ;;;vagin haver terminat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;terminar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;termin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

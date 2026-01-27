@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;poblar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;poblant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;poblat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;poblo;;tu ;;;pobles;;ell //ella //vostè ;;;pobla;;nosaltres ;;;poblem;;vosaltres ;;;pobleu;;ells //elles //vostès ;;;poblen
+Indicatiu Imperfet;indicativo;;jo ;;;poblava;;tu ;;;poblaves;;ell //ella //vostè ;;;poblava;;nosaltres ;;;poblàvem;;vosaltres ;;;poblàveu;;ells //elles //vostès ;;;poblaven
+Indicatiu Futur;indicativo;;jo ;;;poblaré;;tu ;;;poblaràs;;ell //ella //vostè ;;;poblarà;;nosaltres ;;;poblarem;;vosaltres ;;;poblareu;;ells //elles //vostès ;;;poblaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;poblí;;tu ;;;poblares;;ell //ella //vostè ;;;poblà;;nosaltres ;;;poblàrem;;vosaltres ;;;poblàreu;;ells //elles //vostès ;;;poblaren
+Condicional;condicional;;jo ;;;poblaria;;tu ;;;poblaries;;ell //ella //vostè ;;;poblaria;;nosaltres ;;;poblaríem;;vosaltres ;;;poblaríeu;;ells //elles //vostès ;;;poblarien
+Subjuntiu Present;subjuntiu;;jo ;;;pobli;;tu ;;;poblis;;ell //ella //vostè ;;;pobli;;nosaltres ;;;poblem;;vosaltres ;;;pobleu;;ells //elles //vostès ;;;poblin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;poblés;;tu ;;;poblessis;;ell //ella //vostè ;;;poblés;;nosaltres ;;;pobléssim;;vosaltres ;;;pobléssiu;;ells //elles //vostès ;;;poblessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;pobla;;(vostè) ;;;pobli;;(nosaltres) ;;;poblem;;(vosaltres) ;;;pobleu;;(vostès) ;;;poblin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;poblis;;(vostè) ;no ;;pobli;;(nosaltres) ;no ;;poblem;;(vosaltres) ;no ;;pobleu;;(vostès) ;no ;;poblin
+Indicatiu Perfet;indicatiu;;jo ;;;he poblat;;tu ;;;has poblat;;ell //ella //vostè ;;;ha poblat;;nosaltres ;;;hem poblat;;vosaltres ;;;heu poblat;;ells //elles //vostès ;;;han poblat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig poblat;;tu ;;;vas poblat;;ell //ella //vostè ;;;va poblat;;nosaltres ;;;vam poblat;;vosaltres ;;;vau poblat;;ells //elles //vostès ;;;van poblat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia poblat;;tu ;;;havies poblat;;ell //ella //vostè ;;;havia poblat;;nosaltres ;;;havíem poblat;;vosaltres ;;;havíeu poblat;;ells //elles //vostès ;;;havien poblat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí poblat;;tu ;;;hagueres poblat;;ell //ella //vostè ;;;hagué poblat;;nosaltres ;;;haguérem poblat;;vosaltres ;;;haguéreu poblat;;ells //elles //vostès ;;;hagueren poblat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver poblat;;tu ;;;vas haver poblat;;ell //ella //vostè ;;;va haver poblat;;nosaltres ;;;vam haver poblat;;vosaltres ;;;vau haver poblat;;ells //elles //vostès ;;;van haver poblat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré poblat;;tu ;;;hauràs poblat;;ell //ella //vostè ;;;haurà poblat;;nosaltres ;;;haurem poblat;;vosaltres ;;;haureu poblat;;ells //elles //vostès ;;;hauran poblat
+Condicional Perfet;condicional;;jo ;;;hauria poblat;;tu ;;;hauries poblat;;ell //ella //vostè ;;;hauria poblat;;nosaltres ;;;hauríem poblat;;vosaltres ;;;hauríeu poblat;;ells //elles //vostès ;;;haurien poblat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi poblat;;tu ;;;vagis poblat;;ell //ella //vostè ;;;vagi poblat;;nosaltres ;;;vàgim poblat;;vosaltres ;;;vàgiu poblat;;ells //elles //vostès ;;;vagin poblat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi poblat;;tu ;;;hagis poblat;;ell //ella //vostè ;;;hagi poblat;;nosaltres ;;;hàgim poblat;;vosaltres ;;;hàgiu poblat;;ells //elles //vostès ;;;hagin poblat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes poblat;;tu ;;;haguessis poblat;;ell //ella //vostè ;;;hagués poblat;;nosaltres ;;;haguéssim poblat;;vosaltres ;;;haguéssiu poblat;;ells //elles //vostès ;;;haguessin poblat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver poblat;;tu ;;;vagis haver poblat;;ell //ella //vostè ;;;vagi haver poblat;;nosaltres ;;;vàgim haver poblat;;vosaltres ;;;vàgiu haver poblat;;ells //elles //vostès ;;;vagin haver poblat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;poblar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;pobl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

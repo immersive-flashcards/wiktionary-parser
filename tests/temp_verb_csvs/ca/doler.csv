@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;doler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;dolent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;dolgut;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;dolc;;tu ;;;dols;;ell //ella //vostè ;;;dol;;nosaltres ;;;dolem;;vosaltres ;;;doleu;;ells //elles //vostès ;;;dolen
+Indicatiu Imperfet;indicativo;;jo ;;;dolia;;tu ;;;dolies;;ell //ella //vostè ;;;dolia;;nosaltres ;;;dolíem;;vosaltres ;;;dolíeu;;ells //elles //vostès ;;;dolien
+Indicatiu Futur;indicativo;;jo ;;;doldré;;tu ;;;doldràs;;ell //ella //vostè ;;;doldrà;;nosaltres ;;;doldrem;;vosaltres ;;;doldreu;;ells //elles //vostès ;;;doldran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;dolguí;;tu ;;;dolgueres;;ell //ella //vostè ;;;dolgué;;nosaltres ;;;dolguérem;;vosaltres ;;;dolguéreu;;ells //elles //vostès ;;;dolgueren
+Condicional;condicional;;jo ;;;doldria;;tu ;;;doldries;;ell //ella //vostè ;;;doldria;;nosaltres ;;;doldríem;;vosaltres ;;;doldríeu;;ells //elles //vostès ;;;doldrien
+Subjuntiu Present;subjuntiu;;jo ;;;dolgui;;tu ;;;dolguis;;ell //ella //vostè ;;;dolgui;;nosaltres ;;;dolguem;;vosaltres ;;;dolgueu;;ells //elles //vostès ;;;dolguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;dolgués;;tu ;;;dolguessis;;ell //ella //vostè ;;;dolgués;;nosaltres ;;;dolguéssim;;vosaltres ;;;dolguéssiu;;ells //elles //vostès ;;;dolguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;dol;;(vostè) ;;;dolgui;;(nosaltres) ;;;dolguem;;(vosaltres) ;;;doleu;;(vostès) ;;;dolguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;dolguis;;(vostè) ;no ;;dolgui;;(nosaltres) ;no ;;dolguem;;(vosaltres) ;no ;;dolgueu;;(vostès) ;no ;;dolguin
+Indicatiu Perfet;indicatiu;;jo ;;;he dolgut;;tu ;;;has dolgut;;ell //ella //vostè ;;;ha dolgut;;nosaltres ;;;hem dolgut;;vosaltres ;;;heu dolgut;;ells //elles //vostès ;;;han dolgut
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig dolgut;;tu ;;;vas dolgut;;ell //ella //vostè ;;;va dolgut;;nosaltres ;;;vam dolgut;;vosaltres ;;;vau dolgut;;ells //elles //vostès ;;;van dolgut
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia dolgut;;tu ;;;havies dolgut;;ell //ella //vostè ;;;havia dolgut;;nosaltres ;;;havíem dolgut;;vosaltres ;;;havíeu dolgut;;ells //elles //vostès ;;;havien dolgut
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí dolgut;;tu ;;;hagueres dolgut;;ell //ella //vostè ;;;hagué dolgut;;nosaltres ;;;haguérem dolgut;;vosaltres ;;;haguéreu dolgut;;ells //elles //vostès ;;;hagueren dolgut
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver dolgut;;tu ;;;vas haver dolgut;;ell //ella //vostè ;;;va haver dolgut;;nosaltres ;;;vam haver dolgut;;vosaltres ;;;vau haver dolgut;;ells //elles //vostès ;;;van haver dolgut
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré dolgut;;tu ;;;hauràs dolgut;;ell //ella //vostè ;;;haurà dolgut;;nosaltres ;;;haurem dolgut;;vosaltres ;;;haureu dolgut;;ells //elles //vostès ;;;hauran dolgut
+Condicional Perfet;condicional;;jo ;;;hauria dolgut;;tu ;;;hauries dolgut;;ell //ella //vostè ;;;hauria dolgut;;nosaltres ;;;hauríem dolgut;;vosaltres ;;;hauríeu dolgut;;ells //elles //vostès ;;;haurien dolgut
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi dolgut;;tu ;;;vagis dolgut;;ell //ella //vostè ;;;vagi dolgut;;nosaltres ;;;vàgim dolgut;;vosaltres ;;;vàgiu dolgut;;ells //elles //vostès ;;;vagin dolgut
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi dolgut;;tu ;;;hagis dolgut;;ell //ella //vostè ;;;hagi dolgut;;nosaltres ;;;hàgim dolgut;;vosaltres ;;;hàgiu dolgut;;ells //elles //vostès ;;;hagin dolgut
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes dolgut;;tu ;;;haguessis dolgut;;ell //ella //vostè ;;;hagués dolgut;;nosaltres ;;;haguéssim dolgut;;vosaltres ;;;haguéssiu dolgut;;ells //elles //vostès ;;;haguessin dolgut
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver dolgut;;tu ;;;vagis haver dolgut;;ell //ella //vostè ;;;vagi haver dolgut;;nosaltres ;;;vàgim haver dolgut;;vosaltres ;;;vàgiu haver dolgut;;ells //elles //vostès ;;;vagin haver dolgut
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;doler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;dol;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

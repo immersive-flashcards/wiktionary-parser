@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;ensemencerais;;tu ;;;ensemencerais;;il/elle/on
 Conditionnel Passé;conditionnel;;j’;;;aurais ensemencé;;tu ;;;aurais ensemencé;;il/elle/on ;;;aurait ensemencé;;nous ;;;aurions ensemencé;;vous ;;;auriez ensemencé;;ils/elles ;;;auraient ensemencé
 Impératif Présent;impératif;;;;;;;(tu) ;;;ensemence;;;;;;;(nous) ;;;ensemençons;;(vous) ;;;ensemencez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie ensemencé;;;;;;;(nous) ;;;ayons ensemencé;;(vous) ;;;ayez ensemencé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;ensemence pas;;;;;;;(nous) ;n';;ensemençons pas;;(vous) ;n';;ensemencez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;ensemence pas ;;;;;;;(nous) ;n';;ensemençons pas ;;(vous) ;n';;ensemencez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas ensemencé;;;;;;;(nous) ;n';;ayons pas ensemencé;;(vous) ;n';;ayez pas ensemencé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;ensemencer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

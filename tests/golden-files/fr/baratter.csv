@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;baratterais;;tu ;;;baratterais;;il/elle/on ;;;b
 Conditionnel Passé;conditionnel;;j’;;;aurais baratté;;tu ;;;aurais baratté;;il/elle/on ;;;aurait baratté;;nous ;;;aurions baratté;;vous ;;;auriez baratté;;ils/elles ;;;auraient baratté
 Impératif Présent;impératif;;;;;;;(tu) ;;;baratte;;;;;;;(nous) ;;;barattons;;(vous) ;;;barattez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie baratté;;;;;;;(nous) ;;;ayons baratté;;(vous) ;;;ayez baratté;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;baratte pas;;;;;;;(nous) ;ne ;;barattons pas;;(vous) ;ne ;;barattez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;baratte pas ;;;;;;;(nous) ;ne ;;barattons pas ;;(vous) ;ne ;;barattez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas baratté;;;;;;;(nous) ;n';;ayons pas baratté;;(vous) ;n';;ayez pas baratté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;baratter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

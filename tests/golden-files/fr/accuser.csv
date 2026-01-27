@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;accuserais;;tu ;;;accuserais;;il/elle/on ;;;ac
 Conditionnel Passé;conditionnel;;j’;;;aurais accusé;;tu ;;;aurais accusé;;il/elle/on ;;;aurait accusé;;nous ;;;aurions accusé;;vous ;;;auriez accusé;;ils/elles ;;;auraient accusé
 Impératif Présent;impératif;;;;;;;(tu) ;;;accuse;;;;;;;(nous) ;;;accusons;;(vous) ;;;accusez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie accusé;;;;;;;(nous) ;;;ayons accusé;;(vous) ;;;ayez accusé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;accuse pas;;;;;;;(nous) ;n';;accusons pas;;(vous) ;n';;accusez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;accuse pas ;;;;;;;(nous) ;n';;accusons pas ;;(vous) ;n';;accusez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas accusé;;;;;;;(nous) ;n';;ayons pas accusé;;(vous) ;n';;ayez pas accusé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;accuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

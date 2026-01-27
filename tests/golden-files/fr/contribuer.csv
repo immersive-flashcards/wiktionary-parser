@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;contribuerais;;tu ;;;contribuerais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais contribué;;tu ;;;aurais contribué;;il/elle/on ;;;aurait contribué;;nous ;;;aurions contribué;;vous ;;;auriez contribué;;ils/elles ;;;auraient contribué
 Impératif Présent;impératif;;;;;;;(tu) ;;;contribue;;;;;;;(nous) ;;;contribuons;;(vous) ;;;contribuez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie contribué;;;;;;;(nous) ;;;ayons contribué;;(vous) ;;;ayez contribué;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;contribue pas;;;;;;;(nous) ;ne ;;contribuons pas;;(vous) ;ne ;;contribuez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;contribue pas ;;;;;;;(nous) ;ne ;;contribuons pas ;;(vous) ;ne ;;contribuez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas contribué;;;;;;;(nous) ;n';;ayons pas contribué;;(vous) ;n';;ayez pas contribué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;contribuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

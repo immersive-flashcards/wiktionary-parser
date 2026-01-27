@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;occuperais;;tu ;;;occuperais;;il/elle/on ;;;oc
 Conditionnel Passé;conditionnel;;j’;;;aurais occupé;;tu ;;;aurais occupé;;il/elle/on ;;;aurait occupé;;nous ;;;aurions occupé;;vous ;;;auriez occupé;;ils/elles ;;;auraient occupé
 Impératif Présent;impératif;;;;;;;(tu) ;;;occupe;;;;;;;(nous) ;;;occupons;;(vous) ;;;occupez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie occupé;;;;;;;(nous) ;;;ayons occupé;;(vous) ;;;ayez occupé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;occupe pas;;;;;;;(nous) ;n';;occupons pas;;(vous) ;n';;occupez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;occupe pas ;;;;;;;(nous) ;n';;occupons pas ;;(vous) ;n';;occupez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas occupé;;;;;;;(nous) ;n';;ayons pas occupé;;(vous) ;n';;ayez pas occupé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;occuper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

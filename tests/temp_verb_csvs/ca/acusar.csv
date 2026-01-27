@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;acusar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;acusant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;acusat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;acuso;;tu ;;;acuses;;ell //ella //vostè ;;;acusa;;nosaltres ;;;acusem;;vosaltres ;;;acuseu;;ells //elles //vostès ;;;acusen
+Indicatiu Imperfet;indicativo;;jo ;;;acusava;;tu ;;;acusaves;;ell //ella //vostè ;;;acusava;;nosaltres ;;;acusàvem;;vosaltres ;;;acusàveu;;ells //elles //vostès ;;;acusaven
+Indicatiu Futur;indicativo;;jo ;;;acusaré;;tu ;;;acusaràs;;ell //ella //vostè ;;;acusarà;;nosaltres ;;;acusarem;;vosaltres ;;;acusareu;;ells //elles //vostès ;;;acusaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;acusí;;tu ;;;acusares;;ell //ella //vostè ;;;acusà;;nosaltres ;;;acusàrem;;vosaltres ;;;acusàreu;;ells //elles //vostès ;;;acusaren
+Condicional;condicional;;jo ;;;acusaria;;tu ;;;acusaries;;ell //ella //vostè ;;;acusaria;;nosaltres ;;;acusaríem;;vosaltres ;;;acusaríeu;;ells //elles //vostès ;;;acusarien
+Subjuntiu Present;subjuntiu;;jo ;;;acusi;;tu ;;;acusis;;ell //ella //vostè ;;;acusi;;nosaltres ;;;acusem;;vosaltres ;;;acuseu;;ells //elles //vostès ;;;acusin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;acusés;;tu ;;;acusessis;;ell //ella //vostè ;;;acusés;;nosaltres ;;;acuséssim;;vosaltres ;;;acuséssiu;;ells //elles //vostès ;;;acusessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;acusa;;(vostè) ;;;acusi;;(nosaltres) ;;;acusem;;(vosaltres) ;;;acuseu;;(vostès) ;;;acusin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;acusis;;(vostè) ;no ;;acusi;;(nosaltres) ;no ;;acusem;;(vosaltres) ;no ;;acuseu;;(vostès) ;no ;;acusin
+Indicatiu Perfet;indicatiu;;jo ;;;he acusat;;tu ;;;has acusat;;ell //ella //vostè ;;;ha acusat;;nosaltres ;;;hem acusat;;vosaltres ;;;heu acusat;;ells //elles //vostès ;;;han acusat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig acusat;;tu ;;;vas acusat;;ell //ella //vostè ;;;va acusat;;nosaltres ;;;vam acusat;;vosaltres ;;;vau acusat;;ells //elles //vostès ;;;van acusat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia acusat;;tu ;;;havies acusat;;ell //ella //vostè ;;;havia acusat;;nosaltres ;;;havíem acusat;;vosaltres ;;;havíeu acusat;;ells //elles //vostès ;;;havien acusat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí acusat;;tu ;;;hagueres acusat;;ell //ella //vostè ;;;hagué acusat;;nosaltres ;;;haguérem acusat;;vosaltres ;;;haguéreu acusat;;ells //elles //vostès ;;;hagueren acusat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver acusat;;tu ;;;vas haver acusat;;ell //ella //vostè ;;;va haver acusat;;nosaltres ;;;vam haver acusat;;vosaltres ;;;vau haver acusat;;ells //elles //vostès ;;;van haver acusat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré acusat;;tu ;;;hauràs acusat;;ell //ella //vostè ;;;haurà acusat;;nosaltres ;;;haurem acusat;;vosaltres ;;;haureu acusat;;ells //elles //vostès ;;;hauran acusat
+Condicional Perfet;condicional;;jo ;;;hauria acusat;;tu ;;;hauries acusat;;ell //ella //vostè ;;;hauria acusat;;nosaltres ;;;hauríem acusat;;vosaltres ;;;hauríeu acusat;;ells //elles //vostès ;;;haurien acusat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi acusat;;tu ;;;vagis acusat;;ell //ella //vostè ;;;vagi acusat;;nosaltres ;;;vàgim acusat;;vosaltres ;;;vàgiu acusat;;ells //elles //vostès ;;;vagin acusat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi acusat;;tu ;;;hagis acusat;;ell //ella //vostè ;;;hagi acusat;;nosaltres ;;;hàgim acusat;;vosaltres ;;;hàgiu acusat;;ells //elles //vostès ;;;hagin acusat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes acusat;;tu ;;;haguessis acusat;;ell //ella //vostè ;;;hagués acusat;;nosaltres ;;;haguéssim acusat;;vosaltres ;;;haguéssiu acusat;;ells //elles //vostès ;;;haguessin acusat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver acusat;;tu ;;;vagis haver acusat;;ell //ella //vostè ;;;vagi haver acusat;;nosaltres ;;;vàgim haver acusat;;vosaltres ;;;vàgiu haver acusat;;ells //elles //vostès ;;;vagin haver acusat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;acusar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;acus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

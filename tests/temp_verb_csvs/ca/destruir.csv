@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;destruir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;destruint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;destruït;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;destrueixo;;tu ;;;destrueixes;;ell //ella //vostè ;;;destrueix;;nosaltres ;;;destruïm;;vosaltres ;;;destruïu;;ells //elles //vostès ;;;destrueixen
+Indicatiu Imperfet;indicativo;;jo ;;;destruïa;;tu ;;;destruïes;;ell //ella //vostè ;;;destruïa;;nosaltres ;;;destruíem;;vosaltres ;;;destruíeu;;ells //elles //vostès ;;;destruïen
+Indicatiu Futur;indicativo;;jo ;;;destruiré;;tu ;;;destruiràs;;ell //ella //vostè ;;;destruirà;;nosaltres ;;;destruirem;;vosaltres ;;;destruireu;;ells //elles //vostès ;;;destruiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;destruí;;tu ;;;destruïres;;ell //ella //vostè ;;;destruí;;nosaltres ;;;destruírem;;vosaltres ;;;destruíreu;;ells //elles //vostès ;;;destruïren
+Condicional;condicional;;jo ;;;destruiria;;tu ;;;destruiries;;ell //ella //vostè ;;;destruiria;;nosaltres ;;;destruiríem;;vosaltres ;;;destruiríeu;;ells //elles //vostès ;;;destruirien
+Subjuntiu Present;subjuntiu;;jo ;;;destrueixi;;tu ;;;destrueixis;;ell //ella //vostè ;;;destrueixi;;nosaltres ;;;destruïm;;vosaltres ;;;destruïu;;ells //elles //vostès ;;;destrueixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;destruís;;tu ;;;destruïssis;;ell //ella //vostè ;;;destruís;;nosaltres ;;;destruíssim;;vosaltres ;;;destruíssiu;;ells //elles //vostès ;;;destruïssin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;destrueix;;(vostè) ;;;destrueixi;;(nosaltres) ;;;destruïm;;(vosaltres) ;;;destruïu;;(vostès) ;;;destrueixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;destrueixis;;(vostè) ;no ;;destrueixi;;(nosaltres) ;no ;;destruïm;;(vosaltres) ;no ;;destruïu;;(vostès) ;no ;;destrueixin
+Indicatiu Perfet;indicatiu;;jo ;;;he destruït;;tu ;;;has destruït;;ell //ella //vostè ;;;ha destruït;;nosaltres ;;;hem destruït;;vosaltres ;;;heu destruït;;ells //elles //vostès ;;;han destruït
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig destruït;;tu ;;;vas destruït;;ell //ella //vostè ;;;va destruït;;nosaltres ;;;vam destruït;;vosaltres ;;;vau destruït;;ells //elles //vostès ;;;van destruït
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia destruït;;tu ;;;havies destruït;;ell //ella //vostè ;;;havia destruït;;nosaltres ;;;havíem destruït;;vosaltres ;;;havíeu destruït;;ells //elles //vostès ;;;havien destruït
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí destruït;;tu ;;;hagueres destruït;;ell //ella //vostè ;;;hagué destruït;;nosaltres ;;;haguérem destruït;;vosaltres ;;;haguéreu destruït;;ells //elles //vostès ;;;hagueren destruït
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver destruït;;tu ;;;vas haver destruït;;ell //ella //vostè ;;;va haver destruït;;nosaltres ;;;vam haver destruït;;vosaltres ;;;vau haver destruït;;ells //elles //vostès ;;;van haver destruït
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré destruït;;tu ;;;hauràs destruït;;ell //ella //vostè ;;;haurà destruït;;nosaltres ;;;haurem destruït;;vosaltres ;;;haureu destruït;;ells //elles //vostès ;;;hauran destruït
+Condicional Perfet;condicional;;jo ;;;hauria destruït;;tu ;;;hauries destruït;;ell //ella //vostè ;;;hauria destruït;;nosaltres ;;;hauríem destruït;;vosaltres ;;;hauríeu destruït;;ells //elles //vostès ;;;haurien destruït
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi destruït;;tu ;;;vagis destruït;;ell //ella //vostè ;;;vagi destruït;;nosaltres ;;;vàgim destruït;;vosaltres ;;;vàgiu destruït;;ells //elles //vostès ;;;vagin destruït
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi destruït;;tu ;;;hagis destruït;;ell //ella //vostè ;;;hagi destruït;;nosaltres ;;;hàgim destruït;;vosaltres ;;;hàgiu destruït;;ells //elles //vostès ;;;hagin destruït
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes destruït;;tu ;;;haguessis destruït;;ell //ella //vostè ;;;hagués destruït;;nosaltres ;;;haguéssim destruït;;vosaltres ;;;haguéssiu destruït;;ells //elles //vostès ;;;haguessin destruït
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver destruït;;tu ;;;vagis haver destruït;;ell //ella //vostè ;;;vagi haver destruït;;nosaltres ;;;vàgim haver destruït;;vosaltres ;;;vàgiu haver destruït;;ells //elles //vostès ;;;vagin haver destruït
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;destruir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;destru;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

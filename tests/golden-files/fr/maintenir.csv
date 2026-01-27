@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;maintiendrais;;tu ;;;maintiendrais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais maintenu;;tu ;;;aurais maintenu;;il/elle/on ;;;aurait maintenu;;nous ;;;aurions maintenu;;vous ;;;auriez maintenu;;ils/elles ;;;auraient maintenu
 Impératif Présent;impératif;;;;;;;(tu) ;;;maintiens;;;;;;;(nous) ;;;maintenons;;(vous) ;;;maintenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie maintenu;;;;;;;(nous) ;;;ayons maintenu;;(vous) ;;;ayez maintenu;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;maintiens pas;;;;;;;(nous) ;ne ;;maintenons pas;;(vous) ;ne ;;maintenez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;maintiens pas ;;;;;;;(nous) ;ne ;;maintenons pas ;;(vous) ;ne ;;maintenez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas maintenu;;;;;;;(nous) ;n';;ayons pas maintenu;;(vous) ;n';;ayez pas maintenu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;maintenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

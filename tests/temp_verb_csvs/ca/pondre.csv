@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;pondre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;ponent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;post;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;ponc;;tu ;;;pons;;ell //ella //vostè ;;;pon;;nosaltres ;;;ponem;;vosaltres ;;;poneu;;ells //elles //vostès ;;;ponen
+Indicatiu Imperfet;indicativo;;jo ;;;ponia;;tu ;;;ponies;;ell //ella //vostè ;;;ponia;;nosaltres ;;;poníem;;vosaltres ;;;poníeu;;ells //elles //vostès ;;;ponien
+Indicatiu Futur;indicativo;;jo ;;;pondré;;tu ;;;pondràs;;ell //ella //vostè ;;;pondrà;;nosaltres ;;;pondrem;;vosaltres ;;;pondreu;;ells //elles //vostès ;;;pondran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;ponguí;;tu ;;;pongueres;;ell //ella //vostè ;;;pongué;;nosaltres ;;;ponguérem;;vosaltres ;;;ponguéreu;;ells //elles //vostès ;;;pongueren
+Condicional;condicional;;jo ;;;pondria;;tu ;;;pondries;;ell //ella //vostè ;;;pondria;;nosaltres ;;;pondríem;;vosaltres ;;;pondríeu;;ells //elles //vostès ;;;pondrien
+Subjuntiu Present;subjuntiu;;jo ;;;pongui;;tu ;;;ponguis;;ell //ella //vostè ;;;pongui;;nosaltres ;;;ponguem;;vosaltres ;;;pongueu;;ells //elles //vostès ;;;ponguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;pongués;;tu ;;;ponguessis;;ell //ella //vostè ;;;pongués;;nosaltres ;;;ponguéssim;;vosaltres ;;;ponguéssiu;;ells //elles //vostès ;;;ponguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;pon;;(vostè) ;;;pongui;;(nosaltres) ;;;ponguem;;(vosaltres) ;;;poneu;;(vostès) ;;;ponguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;ponguis;;(vostè) ;no ;;pongui;;(nosaltres) ;no ;;ponguem;;(vosaltres) ;no ;;pongueu;;(vostès) ;no ;;ponguin
+Indicatiu Perfet;indicatiu;;jo ;;;he post;;tu ;;;has post;;ell //ella //vostè ;;;ha post;;nosaltres ;;;hem post;;vosaltres ;;;heu post;;ells //elles //vostès ;;;han post
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig post;;tu ;;;vas post;;ell //ella //vostè ;;;va post;;nosaltres ;;;vam post;;vosaltres ;;;vau post;;ells //elles //vostès ;;;van post
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia post;;tu ;;;havies post;;ell //ella //vostè ;;;havia post;;nosaltres ;;;havíem post;;vosaltres ;;;havíeu post;;ells //elles //vostès ;;;havien post
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí post;;tu ;;;hagueres post;;ell //ella //vostè ;;;hagué post;;nosaltres ;;;haguérem post;;vosaltres ;;;haguéreu post;;ells //elles //vostès ;;;hagueren post
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver post;;tu ;;;vas haver post;;ell //ella //vostè ;;;va haver post;;nosaltres ;;;vam haver post;;vosaltres ;;;vau haver post;;ells //elles //vostès ;;;van haver post
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré post;;tu ;;;hauràs post;;ell //ella //vostè ;;;haurà post;;nosaltres ;;;haurem post;;vosaltres ;;;haureu post;;ells //elles //vostès ;;;hauran post
+Condicional Perfet;condicional;;jo ;;;hauria post;;tu ;;;hauries post;;ell //ella //vostè ;;;hauria post;;nosaltres ;;;hauríem post;;vosaltres ;;;hauríeu post;;ells //elles //vostès ;;;haurien post
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi post;;tu ;;;vagis post;;ell //ella //vostè ;;;vagi post;;nosaltres ;;;vàgim post;;vosaltres ;;;vàgiu post;;ells //elles //vostès ;;;vagin post
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi post;;tu ;;;hagis post;;ell //ella //vostè ;;;hagi post;;nosaltres ;;;hàgim post;;vosaltres ;;;hàgiu post;;ells //elles //vostès ;;;hagin post
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes post;;tu ;;;haguessis post;;ell //ella //vostè ;;;hagués post;;nosaltres ;;;haguéssim post;;vosaltres ;;;haguéssiu post;;ells //elles //vostès ;;;haguessin post
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver post;;tu ;;;vagis haver post;;ell //ella //vostè ;;;vagi haver post;;nosaltres ;;;vàgim haver post;;vosaltres ;;;vàgiu haver post;;ells //elles //vostès ;;;vagin haver post
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;pondre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;pond;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

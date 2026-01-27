@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;punirais;;tu ;;;punirais;;il/elle/on ;;;punirai
 Conditionnel Passé;conditionnel;;j’;;;aurais puni;;tu ;;;aurais puni;;il/elle/on ;;;aurait puni;;nous ;;;aurions puni;;vous ;;;auriez puni;;ils/elles ;;;auraient puni
 Impératif Présent;impératif;;;;;;;(tu) ;;;punis;;;;;;;(nous) ;;;punissons;;(vous) ;;;punissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie puni;;;;;;;(nous) ;;;ayons puni;;(vous) ;;;ayez puni;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;punis pas;;;;;;;(nous) ;ne ;;punissons pas;;(vous) ;ne ;;punissez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;punis pas ;;;;;;;(nous) ;ne ;;punissons pas ;;(vous) ;ne ;;punissez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas puni;;;;;;;(nous) ;n';;ayons pas puni;;(vous) ;n';;ayez pas puni;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;punir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

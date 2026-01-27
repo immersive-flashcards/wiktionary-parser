@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;reposerais;;tu ;;;reposerais;;il/elle/on ;;;rep
 Conditionnel Passé;conditionnel;;j’;;;aurais reposé;;tu ;;;aurais reposé;;il/elle/on ;;;aurait reposé;;nous ;;;aurions reposé;;vous ;;;auriez reposé;;ils/elles ;;;auraient reposé
 Impératif Présent;impératif;;;;;;;(tu) ;;;repose;;;;;;;(nous) ;;;reposons;;(vous) ;;;reposez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie reposé;;;;;;;(nous) ;;;ayons reposé;;(vous) ;;;ayez reposé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;repose pas;;;;;;;(nous) ;ne ;;reposons pas;;(vous) ;ne ;;reposez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;repose pas ;;;;;;;(nous) ;ne ;;reposons pas ;;(vous) ;ne ;;reposez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas reposé;;;;;;;(nous) ;n';;ayons pas reposé;;(vous) ;n';;ayez pas reposé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;reposer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

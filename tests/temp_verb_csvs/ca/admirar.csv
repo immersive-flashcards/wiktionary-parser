@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;admirar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;admirant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;admirat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;admiro;;tu ;;;admires;;ell //ella //vostè ;;;admira;;nosaltres ;;;admirem;;vosaltres ;;;admireu;;ells //elles //vostès ;;;admiren
+Indicatiu Imperfet;indicativo;;jo ;;;admirava;;tu ;;;admiraves;;ell //ella //vostè ;;;admirava;;nosaltres ;;;admiràvem;;vosaltres ;;;admiràveu;;ells //elles //vostès ;;;admiraven
+Indicatiu Futur;indicativo;;jo ;;;admiraré;;tu ;;;admiraràs;;ell //ella //vostè ;;;admirarà;;nosaltres ;;;admirarem;;vosaltres ;;;admirareu;;ells //elles //vostès ;;;admiraran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;admirí;;tu ;;;admirares;;ell //ella //vostè ;;;admirà;;nosaltres ;;;admiràrem;;vosaltres ;;;admiràreu;;ells //elles //vostès ;;;admiraren
+Condicional;condicional;;jo ;;;admiraria;;tu ;;;admiraries;;ell //ella //vostè ;;;admiraria;;nosaltres ;;;admiraríem;;vosaltres ;;;admiraríeu;;ells //elles //vostès ;;;admirarien
+Subjuntiu Present;subjuntiu;;jo ;;;admiri;;tu ;;;admiris;;ell //ella //vostè ;;;admiri;;nosaltres ;;;admirem;;vosaltres ;;;admireu;;ells //elles //vostès ;;;admirin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;admirés;;tu ;;;admiressis;;ell //ella //vostè ;;;admirés;;nosaltres ;;;admiréssim;;vosaltres ;;;admiréssiu;;ells //elles //vostès ;;;admiressin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;admira;;(vostè) ;;;admiri;;(nosaltres) ;;;admirem;;(vosaltres) ;;;admireu;;(vostès) ;;;admirin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;admiris;;(vostè) ;no ;;admiri;;(nosaltres) ;no ;;admirem;;(vosaltres) ;no ;;admireu;;(vostès) ;no ;;admirin
+Indicatiu Perfet;indicatiu;;jo ;;;he admirat;;tu ;;;has admirat;;ell //ella //vostè ;;;ha admirat;;nosaltres ;;;hem admirat;;vosaltres ;;;heu admirat;;ells //elles //vostès ;;;han admirat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig admirat;;tu ;;;vas admirat;;ell //ella //vostè ;;;va admirat;;nosaltres ;;;vam admirat;;vosaltres ;;;vau admirat;;ells //elles //vostès ;;;van admirat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia admirat;;tu ;;;havies admirat;;ell //ella //vostè ;;;havia admirat;;nosaltres ;;;havíem admirat;;vosaltres ;;;havíeu admirat;;ells //elles //vostès ;;;havien admirat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí admirat;;tu ;;;hagueres admirat;;ell //ella //vostè ;;;hagué admirat;;nosaltres ;;;haguérem admirat;;vosaltres ;;;haguéreu admirat;;ells //elles //vostès ;;;hagueren admirat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver admirat;;tu ;;;vas haver admirat;;ell //ella //vostè ;;;va haver admirat;;nosaltres ;;;vam haver admirat;;vosaltres ;;;vau haver admirat;;ells //elles //vostès ;;;van haver admirat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré admirat;;tu ;;;hauràs admirat;;ell //ella //vostè ;;;haurà admirat;;nosaltres ;;;haurem admirat;;vosaltres ;;;haureu admirat;;ells //elles //vostès ;;;hauran admirat
+Condicional Perfet;condicional;;jo ;;;hauria admirat;;tu ;;;hauries admirat;;ell //ella //vostè ;;;hauria admirat;;nosaltres ;;;hauríem admirat;;vosaltres ;;;hauríeu admirat;;ells //elles //vostès ;;;haurien admirat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi admirat;;tu ;;;vagis admirat;;ell //ella //vostè ;;;vagi admirat;;nosaltres ;;;vàgim admirat;;vosaltres ;;;vàgiu admirat;;ells //elles //vostès ;;;vagin admirat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi admirat;;tu ;;;hagis admirat;;ell //ella //vostè ;;;hagi admirat;;nosaltres ;;;hàgim admirat;;vosaltres ;;;hàgiu admirat;;ells //elles //vostès ;;;hagin admirat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes admirat;;tu ;;;haguessis admirat;;ell //ella //vostè ;;;hagués admirat;;nosaltres ;;;haguéssim admirat;;vosaltres ;;;haguéssiu admirat;;ells //elles //vostès ;;;haguessin admirat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver admirat;;tu ;;;vagis haver admirat;;ell //ella //vostè ;;;vagi haver admirat;;nosaltres ;;;vàgim haver admirat;;vosaltres ;;;vàgiu haver admirat;;ells //elles //vostès ;;;vagin haver admirat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;admirar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;admir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

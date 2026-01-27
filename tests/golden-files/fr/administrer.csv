@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;administrerais;;tu ;;;administrerais;;il/elle/
 Conditionnel Passé;conditionnel;;j’;;;aurais administré;;tu ;;;aurais administré;;il/elle/on ;;;aurait administré;;nous ;;;aurions administré;;vous ;;;auriez administré;;ils/elles ;;;auraient administré
 Impératif Présent;impératif;;;;;;;(tu) ;;;administre;;;;;;;(nous) ;;;administrons;;(vous) ;;;administrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie administré;;;;;;;(nous) ;;;ayons administré;;(vous) ;;;ayez administré;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;administre pas;;;;;;;(nous) ;n';;administrons pas;;(vous) ;n';;administrez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;administre pas ;;;;;;;(nous) ;n';;administrons pas ;;(vous) ;n';;administrez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas administré;;;;;;;(nous) ;n';;ayons pas administré;;(vous) ;n';;ayez pas administré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;administrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

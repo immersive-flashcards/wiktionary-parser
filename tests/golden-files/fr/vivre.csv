@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;vivrais;;tu ;;;vivrais;;il/elle/on ;;;vivrait;;
 Conditionnel Passé;conditionnel;;j’;;;aurais vécu;;tu ;;;aurais vécu;;il/elle/on ;;;aurait vécu;;nous ;;;aurions vécu;;vous ;;;auriez vécu;;ils/elles ;;;auraient vécu
 Impératif Présent;impératif;;;;;;;(tu) ;;;vis;;;;;;;(nous) ;;;vivons;;(vous) ;;;vivez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie vécu;;;;;;;(nous) ;;;ayons vécu;;(vous) ;;;ayez vécu;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vis pas;;;;;;;(nous) ;ne ;;vivons pas;;(vous) ;ne ;;vivez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vis pas ;;;;;;;(nous) ;ne ;;vivons pas ;;(vous) ;ne ;;vivez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas vécu;;;;;;;(nous) ;n';;ayons pas vécu;;(vous) ;n';;ayez pas vécu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;vivre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

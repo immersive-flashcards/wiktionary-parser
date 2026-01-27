@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;emporterais;;tu ;;;emporterais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais emporté;;tu ;;;aurais emporté;;il/elle/on ;;;aurait emporté;;nous ;;;aurions emporté;;vous ;;;auriez emporté;;ils/elles ;;;auraient emporté
 Impératif Présent;impératif;;;;;;;(tu) ;;;emporte;;;;;;;(nous) ;;;emportons;;(vous) ;;;emportez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie emporté;;;;;;;(nous) ;;;ayons emporté;;(vous) ;;;ayez emporté;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;emporte pas;;;;;;;(nous) ;n';;emportons pas;;(vous) ;n';;emportez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;emporte pas ;;;;;;;(nous) ;n';;emportons pas ;;(vous) ;n';;emportez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas emporté;;;;;;;(nous) ;n';;ayons pas emporté;;(vous) ;n';;ayez pas emporté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;emporter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

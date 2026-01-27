@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;succéderais / succèderais;;tu ;;;succéderais
 Conditionnel Passé;conditionnel;;j’;;;aurais succédé;;tu ;;;aurais succédé;;il/elle/on ;;;aurait succédé;;nous ;;;aurions succédé;;vous ;;;auriez succédé;;ils/elles ;;;auraient succédé
 Impératif Présent;impératif;;;;;;;(tu) ;;;succède;;;;;;;(nous) ;;;succédons;;(vous) ;;;succédez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie succédé;;;;;;;(nous) ;;;ayons succédé;;(vous) ;;;ayez succédé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;succède pas;;;;;;;(nous) ;ne ;;succédons pas;;(vous) ;ne ;;succédez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;succède pas ;;;;;;;(nous) ;ne ;;succédons pas ;;(vous) ;ne ;;succédez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas succédé;;;;;;;(nous) ;n';;ayons pas succédé;;(vous) ;n';;ayez pas succédé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;succéder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

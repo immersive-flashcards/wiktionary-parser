@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;dirais;;tu ;;;dirais;;il/elle/on ;;;dirait;;nou
 Conditionnel Passé;conditionnel;;j’;;;aurais dit;;tu ;;;aurais dit;;il/elle/on ;;;aurait dit;;nous ;;;aurions dit;;vous ;;;auriez dit;;ils/elles ;;;auraient dit
 Impératif Présent;impératif;;;;;;;(tu) ;;;dis;;;;;;;(nous) ;;;disons;;(vous) ;;;dites;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie dit;;;;;;;(nous) ;;;ayons dit;;(vous) ;;;ayez dit;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;dis pas;;;;;;;(nous) ;ne ;;disons pas;;(vous) ;ne ;;dites pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;dis pas ;;;;;;;(nous) ;ne ;;disons pas ;;(vous) ;ne ;;dites pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas dit;;;;;;;(nous) ;n';;ayons pas dit;;(vous) ;n';;ayez pas dit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;dire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

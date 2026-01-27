@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;identifierais;;tu ;;;identifierais;;il/elle/on
 Conditionnel Passé;conditionnel;;j’;;;aurais identifié;;tu ;;;aurais identifié;;il/elle/on ;;;aurait identifié;;nous ;;;aurions identifié;;vous ;;;auriez identifié;;ils/elles ;;;auraient identifié
 Impératif Présent;impératif;;;;;;;(tu) ;;;identifie;;;;;;;(nous) ;;;identifions;;(vous) ;;;identifiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie identifié;;;;;;;(nous) ;;;ayons identifié;;(vous) ;;;ayez identifié;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;identifie pas;;;;;;;(nous) ;n';;identifions pas;;(vous) ;n';;identifiez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;identifie pas ;;;;;;;(nous) ;n';;identifions pas ;;(vous) ;n';;identifiez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas identifié;;;;;;;(nous) ;n';;ayons pas identifié;;(vous) ;n';;ayez pas identifié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;identifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

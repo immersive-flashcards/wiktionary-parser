@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;preparar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;preparant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;preparat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;preparo;;tu ;;;prepares;;ell //ella //vostè ;;;prepara;;nosaltres ;;;preparem;;vosaltres ;;;prepareu;;ells //elles //vostès ;;;preparen
+Indicatiu Imperfet;indicativo;;jo ;;;preparava;;tu ;;;preparaves;;ell //ella //vostè ;;;preparava;;nosaltres ;;;preparàvem;;vosaltres ;;;preparàveu;;ells //elles //vostès ;;;preparaven
+Indicatiu Futur;indicativo;;jo ;;;prepararé;;tu ;;;prepararàs;;ell //ella //vostè ;;;prepararà;;nosaltres ;;;prepararem;;vosaltres ;;;preparareu;;ells //elles //vostès ;;;prepararan
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;preparí;;tu ;;;preparares;;ell //ella //vostè ;;;preparà;;nosaltres ;;;preparàrem;;vosaltres ;;;preparàreu;;ells //elles //vostès ;;;prepararen
+Condicional;condicional;;jo ;;;prepararia;;tu ;;;prepararies;;ell //ella //vostè ;;;prepararia;;nosaltres ;;;prepararíem;;vosaltres ;;;prepararíeu;;ells //elles //vostès ;;;prepararien
+Subjuntiu Present;subjuntiu;;jo ;;;prepari;;tu ;;;preparis;;ell //ella //vostè ;;;prepari;;nosaltres ;;;preparem;;vosaltres ;;;prepareu;;ells //elles //vostès ;;;preparin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;preparés;;tu ;;;preparessis;;ell //ella //vostè ;;;preparés;;nosaltres ;;;preparéssim;;vosaltres ;;;preparéssiu;;ells //elles //vostès ;;;preparessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;prepara;;(vostè) ;;;prepari;;(nosaltres) ;;;preparem;;(vosaltres) ;;;prepareu;;(vostès) ;;;preparin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;preparis;;(vostè) ;no ;;prepari;;(nosaltres) ;no ;;preparem;;(vosaltres) ;no ;;prepareu;;(vostès) ;no ;;preparin
+Indicatiu Perfet;indicatiu;;jo ;;;he preparat;;tu ;;;has preparat;;ell //ella //vostè ;;;ha preparat;;nosaltres ;;;hem preparat;;vosaltres ;;;heu preparat;;ells //elles //vostès ;;;han preparat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig preparat;;tu ;;;vas preparat;;ell //ella //vostè ;;;va preparat;;nosaltres ;;;vam preparat;;vosaltres ;;;vau preparat;;ells //elles //vostès ;;;van preparat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia preparat;;tu ;;;havies preparat;;ell //ella //vostè ;;;havia preparat;;nosaltres ;;;havíem preparat;;vosaltres ;;;havíeu preparat;;ells //elles //vostès ;;;havien preparat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí preparat;;tu ;;;hagueres preparat;;ell //ella //vostè ;;;hagué preparat;;nosaltres ;;;haguérem preparat;;vosaltres ;;;haguéreu preparat;;ells //elles //vostès ;;;hagueren preparat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver preparat;;tu ;;;vas haver preparat;;ell //ella //vostè ;;;va haver preparat;;nosaltres ;;;vam haver preparat;;vosaltres ;;;vau haver preparat;;ells //elles //vostès ;;;van haver preparat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré preparat;;tu ;;;hauràs preparat;;ell //ella //vostè ;;;haurà preparat;;nosaltres ;;;haurem preparat;;vosaltres ;;;haureu preparat;;ells //elles //vostès ;;;hauran preparat
+Condicional Perfet;condicional;;jo ;;;hauria preparat;;tu ;;;hauries preparat;;ell //ella //vostè ;;;hauria preparat;;nosaltres ;;;hauríem preparat;;vosaltres ;;;hauríeu preparat;;ells //elles //vostès ;;;haurien preparat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi preparat;;tu ;;;vagis preparat;;ell //ella //vostè ;;;vagi preparat;;nosaltres ;;;vàgim preparat;;vosaltres ;;;vàgiu preparat;;ells //elles //vostès ;;;vagin preparat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi preparat;;tu ;;;hagis preparat;;ell //ella //vostè ;;;hagi preparat;;nosaltres ;;;hàgim preparat;;vosaltres ;;;hàgiu preparat;;ells //elles //vostès ;;;hagin preparat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes preparat;;tu ;;;haguessis preparat;;ell //ella //vostè ;;;hagués preparat;;nosaltres ;;;haguéssim preparat;;vosaltres ;;;haguéssiu preparat;;ells //elles //vostès ;;;haguessin preparat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver preparat;;tu ;;;vagis haver preparat;;ell //ella //vostè ;;;vagi haver preparat;;nosaltres ;;;vàgim haver preparat;;vosaltres ;;;vàgiu haver preparat;;ells //elles //vostès ;;;vagin haver preparat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;preparar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;prepar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

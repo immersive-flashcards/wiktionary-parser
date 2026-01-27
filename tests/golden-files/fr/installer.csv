@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;installerais;;tu ;;;installerais;;il/elle/on ;
 Conditionnel Passé;conditionnel;;j’;;;aurais installé;;tu ;;;aurais installé;;il/elle/on ;;;aurait installé;;nous ;;;aurions installé;;vous ;;;auriez installé;;ils/elles ;;;auraient installé
 Impératif Présent;impératif;;;;;;;(tu) ;;;installe;;;;;;;(nous) ;;;installons;;(vous) ;;;installez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie installé;;;;;;;(nous) ;;;ayons installé;;(vous) ;;;ayez installé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;installe pas;;;;;;;(nous) ;n';;installons pas;;(vous) ;n';;installez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;installe pas ;;;;;;;(nous) ;n';;installons pas ;;(vous) ;n';;installez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas installé;;;;;;;(nous) ;n';;ayons pas installé;;(vous) ;n';;ayez pas installé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;installer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

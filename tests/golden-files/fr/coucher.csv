@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;coucherais;;tu ;;;coucherais;;il/elle/on ;;;cou
 Conditionnel Passé;conditionnel;;j’;;;aurais couché;;tu ;;;aurais couché;;il/elle/on ;;;aurait couché;;nous ;;;aurions couché;;vous ;;;auriez couché;;ils/elles ;;;auraient couché
 Impératif Présent;impératif;;;;;;;(tu) ;;;couche;;;;;;;(nous) ;;;couchons;;(vous) ;;;couchez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie couché;;;;;;;(nous) ;;;ayons couché;;(vous) ;;;ayez couché;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;couche pas;;;;;;;(nous) ;ne ;;couchons pas;;(vous) ;ne ;;couchez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;couche pas ;;;;;;;(nous) ;ne ;;couchons pas ;;(vous) ;ne ;;couchez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas couché;;;;;;;(nous) ;n';;ayons pas couché;;(vous) ;n';;ayez pas couché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;coucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;connaitrais;;tu ;;;connaitrais;;il/elle/on ;;;c
 Conditionnel Passé;conditionnel;;j’;;;aurais connu;;tu ;;;aurais connu;;il/elle/on ;;;aurait connu;;nous ;;;aurions connu;;vous ;;;auriez connu;;ils/elles ;;;auraient connu
 Impératif Présent;impératif;;;;;;;(tu) ;;;connais;;;;;;;(nous) ;;;connaissons;;(vous) ;;;connaissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie connu;;;;;;;(nous) ;;;ayons connu;;(vous) ;;;ayez connu;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;connais pas;;;;;;;(nous) ;ne ;;connaissons pas;;(vous) ;ne ;;connaissez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;connais pas ;;;;;;;(nous) ;ne ;;connaissons pas ;;(vous) ;ne ;;connaissez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas connu;;;;;;;(nous) ;n';;ayons pas connu;;(vous) ;n';;ayez pas connu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;connaitre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

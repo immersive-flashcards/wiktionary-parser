@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;abellacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;abellacando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;abellacado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;abellaco;;tú ;;;abellacas;;él //ella //usted ;;;abellaca;;nosotros //nosotras ;;;abellacamos;;vosotros //vosotras ;;;abellacáis;;ellos //ellas //ustedes ;;;abellacan;;vos ;;;abellacás
+Indicativo Imperfecto;indicativo;;yo ;;;abellacaba;;tú //vos ;;;abellacabas;;él //ella //usted ;;;abellacaba;;nosotros //nosotras ;;;abellacábamos;;vosotros //vosotras ;;;abellacabais;;ellos //ellas //ustedes ;;;abellacaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;abellaqué;;tú //vos ;;;abellacaste;;él //ella //usted ;;;abellacó;;nosotros //nosotras ;;;abellacamos;;vosotros //vosotras ;;;abellacasteis;;ellos //ellas //ustedes ;;;abellacaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;abellacaré;;tú //vos ;;;abellacarás;;él //ella //usted ;;;abellacará;;nosotros //nosotras ;;;abellacaremos;;vosotros //vosotras ;;;abellacaréis;;ellos //ellas //ustedes ;;;abellacarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he abellacado;;tú //vos ;;;has abellacado;;él //ella //usted ;;;ha abellacado;;nosotros //nosotras ;;;hemos abellacado;;vosotros //vosotras ;;;habéis abellacado;;ellos //ellas //ustedes ;;;han abellacado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había abellacado;;tú //vos ;;;habías abellacado;;él //ella //usted ;;;había abellacado;;nosotros //nosotras ;;;habíamos abellacado;;vosotros //vosotras ;;;habíais abellacado;;ellos //ellas //ustedes ;;;habían abellacado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube abellacado;;tú //vos ;;;hubiste abellacado;;él //ella //usted ;;;hubo abellacado;;nosotros //nosotras ;;;hubimos abellacado;;vosotros //vosotras ;;;hubisteis abellacado;;ellos //ellas //ustedes ;;;hubieron abellacado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré abellacado;;tú //vos ;;;habrás abellacado;;él //ella //usted ;;;habrá abellacado;;nosotros //nosotras ;;;habremos abellacado;;vosotros //vosotras ;;;habréis abellacado;;ellos //ellas //ustedes ;;;habrán abellacado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;abellaque;;tú //vos ;;;abellaques;;él //ella //usted ;;;abellaque;;nosotros //nosotras ;;;abellaquemos;;vosotros //vosotras ;;;abellaquéis;;ellos //ellas //ustedes ;;;abellaquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;abellacara / abellacase;;tú //vos ;;;abellacaras / abellacases;;él //ella //usted ;;;abellacara / abellacase;;nosotros //nosotras ;;;abellacáramos / abellacásemos;;vosotros //vosotras ;;;abellacarais / abellacaseis;;ellos //ellas //ustedes ;;;abellacaran / abellacasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;abellacare;;tú //vos ;;;abellacares;;él //ella //usted ;;;abellacare;;nosotros //nosotras ;;;abellacáremos;;vosotros //vosotras ;;;abellacareis;;ellos //ellas //ustedes ;;;abellacaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya abellacado;;tú //vos ;;;hayas abellacado;;él //ella //usted ;;;haya abellacado;;nosotros //nosotras ;;;hayamos abellacado;;vosotros //vosotras ;;;hayáis abellacado;;ellos //ellas //ustedes ;;;hayan abellacado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera abellacado / hubiese abellacado;;tú //vos ;;;hubieras abellacado / hubieses abellacado;;él //ella //usted ;;;hubiera abellacado / hubiese abellacado;;nosotros //nosotras ;;;hubiéramos abellacado / hubiésemos abellacado;;vosotros //vosotras ;;;hubierais abellacado / hubieseis abellacado;;ellos //ellas //ustedes ;;;hubieran abellacado / hubiesen abellacado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere abellacado;;tú //vos ;;;hubieres abellacado;;él //ella //usted ;;;hubiere abellacado;;nosotros //nosotras ;;;hubiéremos abellacado;;vosotros //vosotras ;;;hubiereis abellacado;;ellos //ellas //ustedes ;;;hubieren abellacado;;;;;
+Condicional;condicional;;yo ;;;abellacaría;;tú //vos ;;;abellacarías;;él //ella //usted ;;;abellacaría;;nosotros //nosotras ;;;abellacaríamos;;vosotros //vosotras ;;;abellacaríais;;ellos //ellas //ustedes ;;;abellacarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría abellacado;;tú //vos ;;;habrías abellacado;;él //ella //usted ;;;habría abellacado;;nosotros //nosotras ;;;habríamos abellacado;;vosotros //vosotras ;;;habríais abellacado;;ellos //ellas //ustedes ;;;habrían abellacado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abellaca;;(usted) ;;;abellaque;;(nosotros) //(nosotras) ;;;abellaquemos;;(vosotros) //(vosotras) ;;;abellacad;;(ustedes) ;;;abellaquen;;(vos) ;;;abellacá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abellaques;;(usted) ;no ;;abellaque;;(nosotros) //(nosotras) ;no ;;abellaquemos;;(vosotros) //(vosotras) ;no ;;abellaquéis;;(ustedes) ;no ;;abellaquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;abellacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;abellac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

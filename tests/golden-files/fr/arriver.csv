@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;arriverais;;tu ;;;arriverais;;il/elle/on ;;;ar
 Conditionnel Passé;conditionnel;;je ;;;serais arrivé;;tu ;;;serais arrivé;;il/elle/on ;;;serait arrivé;;nous ;;;serions arrivés;;vous ;;;seriez arrivés;;ils/elles ;;;seraient arrivés
 Impératif Présent;impératif;;;;;;;(tu) ;;;arrive;;;;;;;(nous) ;;;arrivons;;(vous) ;;;arrivez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois arrivé;;;;;;;(nous) ;;;soyons arrivés;;(vous) ;;;soyez arrivés;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;arrive pas;;;;;;;(nous) ;n';;arrivons pas;;(vous) ;n';;arrivez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;arrive pas ;;;;;;;(nous) ;n';;arrivons pas ;;(vous) ;n';;arrivez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas arrivé;;;;;;;(nous) ;ne ;;soyons pas arrivés;;(vous) ;ne ;;soyez pas arrivés;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;arriver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

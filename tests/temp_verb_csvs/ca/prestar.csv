@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;prestar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;prestant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;prestat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;presto;;tu ;;;prestes;;ell //ella //vostè ;;;presta;;nosaltres ;;;prestem;;vosaltres ;;;presteu;;ells //elles //vostès ;;;presten
+Indicatiu Imperfet;indicativo;;jo ;;;prestava;;tu ;;;prestaves;;ell //ella //vostè ;;;prestava;;nosaltres ;;;prestàvem;;vosaltres ;;;prestàveu;;ells //elles //vostès ;;;prestaven
+Indicatiu Futur;indicativo;;jo ;;;prestaré;;tu ;;;prestaràs;;ell //ella //vostè ;;;prestarà;;nosaltres ;;;prestarem;;vosaltres ;;;prestareu;;ells //elles //vostès ;;;prestaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;prestí;;tu ;;;prestares;;ell //ella //vostè ;;;prestà;;nosaltres ;;;prestàrem;;vosaltres ;;;prestàreu;;ells //elles //vostès ;;;prestaren
+Condicional;condicional;;jo ;;;prestaria;;tu ;;;prestaries;;ell //ella //vostè ;;;prestaria;;nosaltres ;;;prestaríem;;vosaltres ;;;prestaríeu;;ells //elles //vostès ;;;prestarien
+Subjuntiu Present;subjuntiu;;jo ;;;presti;;tu ;;;prestis;;ell //ella //vostè ;;;presti;;nosaltres ;;;prestem;;vosaltres ;;;presteu;;ells //elles //vostès ;;;prestin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;prestés;;tu ;;;prestessis;;ell //ella //vostè ;;;prestés;;nosaltres ;;;prestéssim;;vosaltres ;;;prestéssiu;;ells //elles //vostès ;;;prestessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;presta;;(vostè) ;;;presti;;(nosaltres) ;;;prestem;;(vosaltres) ;;;presteu;;(vostès) ;;;prestin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;prestis;;(vostè) ;no ;;presti;;(nosaltres) ;no ;;prestem;;(vosaltres) ;no ;;presteu;;(vostès) ;no ;;prestin
+Indicatiu Perfet;indicatiu;;jo ;;;he prestat;;tu ;;;has prestat;;ell //ella //vostè ;;;ha prestat;;nosaltres ;;;hem prestat;;vosaltres ;;;heu prestat;;ells //elles //vostès ;;;han prestat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig prestat;;tu ;;;vas prestat;;ell //ella //vostè ;;;va prestat;;nosaltres ;;;vam prestat;;vosaltres ;;;vau prestat;;ells //elles //vostès ;;;van prestat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia prestat;;tu ;;;havies prestat;;ell //ella //vostè ;;;havia prestat;;nosaltres ;;;havíem prestat;;vosaltres ;;;havíeu prestat;;ells //elles //vostès ;;;havien prestat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí prestat;;tu ;;;hagueres prestat;;ell //ella //vostè ;;;hagué prestat;;nosaltres ;;;haguérem prestat;;vosaltres ;;;haguéreu prestat;;ells //elles //vostès ;;;hagueren prestat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver prestat;;tu ;;;vas haver prestat;;ell //ella //vostè ;;;va haver prestat;;nosaltres ;;;vam haver prestat;;vosaltres ;;;vau haver prestat;;ells //elles //vostès ;;;van haver prestat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré prestat;;tu ;;;hauràs prestat;;ell //ella //vostè ;;;haurà prestat;;nosaltres ;;;haurem prestat;;vosaltres ;;;haureu prestat;;ells //elles //vostès ;;;hauran prestat
+Condicional Perfet;condicional;;jo ;;;hauria prestat;;tu ;;;hauries prestat;;ell //ella //vostè ;;;hauria prestat;;nosaltres ;;;hauríem prestat;;vosaltres ;;;hauríeu prestat;;ells //elles //vostès ;;;haurien prestat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi prestat;;tu ;;;vagis prestat;;ell //ella //vostè ;;;vagi prestat;;nosaltres ;;;vàgim prestat;;vosaltres ;;;vàgiu prestat;;ells //elles //vostès ;;;vagin prestat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi prestat;;tu ;;;hagis prestat;;ell //ella //vostè ;;;hagi prestat;;nosaltres ;;;hàgim prestat;;vosaltres ;;;hàgiu prestat;;ells //elles //vostès ;;;hagin prestat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes prestat;;tu ;;;haguessis prestat;;ell //ella //vostè ;;;hagués prestat;;nosaltres ;;;haguéssim prestat;;vosaltres ;;;haguéssiu prestat;;ells //elles //vostès ;;;haguessin prestat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver prestat;;tu ;;;vagis haver prestat;;ell //ella //vostè ;;;vagi haver prestat;;nosaltres ;;;vàgim haver prestat;;vosaltres ;;;vàgiu haver prestat;;ells //elles //vostès ;;;vagin haver prestat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;prestar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;prest;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

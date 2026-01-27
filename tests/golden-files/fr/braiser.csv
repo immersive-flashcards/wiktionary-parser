@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;braiserais;;tu ;;;braiserais;;il/elle/on ;;;bra
 Conditionnel Passé;conditionnel;;j’;;;aurais braisé;;tu ;;;aurais braisé;;il/elle/on ;;;aurait braisé;;nous ;;;aurions braisé;;vous ;;;auriez braisé;;ils/elles ;;;auraient braisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;braise;;;;;;;(nous) ;;;braisons;;(vous) ;;;braisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie braisé;;;;;;;(nous) ;;;ayons braisé;;(vous) ;;;ayez braisé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;braise pas;;;;;;;(nous) ;ne ;;braisons pas;;(vous) ;ne ;;braisez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;braise pas ;;;;;;;(nous) ;ne ;;braisons pas ;;(vous) ;ne ;;braisez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas braisé;;;;;;;(nous) ;n';;ayons pas braisé;;(vous) ;n';;ayez pas braisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;braiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

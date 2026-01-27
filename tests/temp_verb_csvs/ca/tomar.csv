@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;tomar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;tomant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;tomat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;tomo;;tu ;;;tomes;;ell //ella //vostè ;;;toma;;nosaltres ;;;tomem;;vosaltres ;;;tomeu;;ells //elles //vostès ;;;tomen
+Indicatiu Imperfet;indicativo;;jo ;;;tomava;;tu ;;;tomaves;;ell //ella //vostè ;;;tomava;;nosaltres ;;;tomàvem;;vosaltres ;;;tomàveu;;ells //elles //vostès ;;;tomaven
+Indicatiu Futur;indicativo;;jo ;;;tomaré;;tu ;;;tomaràs;;ell //ella //vostè ;;;tomarà;;nosaltres ;;;tomarem;;vosaltres ;;;tomareu;;ells //elles //vostès ;;;tomaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;tomí;;tu ;;;tomares;;ell //ella //vostè ;;;tomà;;nosaltres ;;;tomàrem;;vosaltres ;;;tomàreu;;ells //elles //vostès ;;;tomaren
+Condicional;condicional;;jo ;;;tomaria;;tu ;;;tomaries;;ell //ella //vostè ;;;tomaria;;nosaltres ;;;tomaríem;;vosaltres ;;;tomaríeu;;ells //elles //vostès ;;;tomarien
+Subjuntiu Present;subjuntiu;;jo ;;;tomi;;tu ;;;tomis;;ell //ella //vostè ;;;tomi;;nosaltres ;;;tomem;;vosaltres ;;;tomeu;;ells //elles //vostès ;;;tomin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;tomés;;tu ;;;tomessis;;ell //ella //vostè ;;;tomés;;nosaltres ;;;toméssim;;vosaltres ;;;toméssiu;;ells //elles //vostès ;;;tomessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;toma;;(vostè) ;;;tomi;;(nosaltres) ;;;tomem;;(vosaltres) ;;;tomeu;;(vostès) ;;;tomin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;tomis;;(vostè) ;no ;;tomi;;(nosaltres) ;no ;;tomem;;(vosaltres) ;no ;;tomeu;;(vostès) ;no ;;tomin
+Indicatiu Perfet;indicatiu;;jo ;;;he tomat;;tu ;;;has tomat;;ell //ella //vostè ;;;ha tomat;;nosaltres ;;;hem tomat;;vosaltres ;;;heu tomat;;ells //elles //vostès ;;;han tomat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig tomat;;tu ;;;vas tomat;;ell //ella //vostè ;;;va tomat;;nosaltres ;;;vam tomat;;vosaltres ;;;vau tomat;;ells //elles //vostès ;;;van tomat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia tomat;;tu ;;;havies tomat;;ell //ella //vostè ;;;havia tomat;;nosaltres ;;;havíem tomat;;vosaltres ;;;havíeu tomat;;ells //elles //vostès ;;;havien tomat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí tomat;;tu ;;;hagueres tomat;;ell //ella //vostè ;;;hagué tomat;;nosaltres ;;;haguérem tomat;;vosaltres ;;;haguéreu tomat;;ells //elles //vostès ;;;hagueren tomat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver tomat;;tu ;;;vas haver tomat;;ell //ella //vostè ;;;va haver tomat;;nosaltres ;;;vam haver tomat;;vosaltres ;;;vau haver tomat;;ells //elles //vostès ;;;van haver tomat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré tomat;;tu ;;;hauràs tomat;;ell //ella //vostè ;;;haurà tomat;;nosaltres ;;;haurem tomat;;vosaltres ;;;haureu tomat;;ells //elles //vostès ;;;hauran tomat
+Condicional Perfet;condicional;;jo ;;;hauria tomat;;tu ;;;hauries tomat;;ell //ella //vostè ;;;hauria tomat;;nosaltres ;;;hauríem tomat;;vosaltres ;;;hauríeu tomat;;ells //elles //vostès ;;;haurien tomat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi tomat;;tu ;;;vagis tomat;;ell //ella //vostè ;;;vagi tomat;;nosaltres ;;;vàgim tomat;;vosaltres ;;;vàgiu tomat;;ells //elles //vostès ;;;vagin tomat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi tomat;;tu ;;;hagis tomat;;ell //ella //vostè ;;;hagi tomat;;nosaltres ;;;hàgim tomat;;vosaltres ;;;hàgiu tomat;;ells //elles //vostès ;;;hagin tomat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes tomat;;tu ;;;haguessis tomat;;ell //ella //vostè ;;;hagués tomat;;nosaltres ;;;haguéssim tomat;;vosaltres ;;;haguéssiu tomat;;ells //elles //vostès ;;;haguessin tomat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver tomat;;tu ;;;vagis haver tomat;;ell //ella //vostè ;;;vagi haver tomat;;nosaltres ;;;vàgim haver tomat;;vosaltres ;;;vàgiu haver tomat;;ells //elles //vostès ;;;vagin haver tomat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;tomar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;tom;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;contabilizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;contabilizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;contabilizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;contabilizo;;tú ;;;contabilizas;;él //ella //usted ;;;contabiliza;;nosotros //nosotras ;;;contabilizamos;;vosotros //vosotras ;;;contabilizáis;;ellos //ellas //ustedes ;;;contabilizan;;vos ;;;contabilizás
+Indicativo Imperfecto;indicativo;;yo ;;;contabilizaba;;tú //vos ;;;contabilizabas;;él //ella //usted ;;;contabilizaba;;nosotros //nosotras ;;;contabilizábamos;;vosotros //vosotras ;;;contabilizabais;;ellos //ellas //ustedes ;;;contabilizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;contabilicé;;tú //vos ;;;contabilizaste;;él //ella //usted ;;;contabilizó;;nosotros //nosotras ;;;contabilizamos;;vosotros //vosotras ;;;contabilizasteis;;ellos //ellas //ustedes ;;;contabilizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;contabilizaré;;tú //vos ;;;contabilizarás;;él //ella //usted ;;;contabilizará;;nosotros //nosotras ;;;contabilizaremos;;vosotros //vosotras ;;;contabilizaréis;;ellos //ellas //ustedes ;;;contabilizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he contabilizado;;tú //vos ;;;has contabilizado;;él //ella //usted ;;;ha contabilizado;;nosotros //nosotras ;;;hemos contabilizado;;vosotros //vosotras ;;;habéis contabilizado;;ellos //ellas //ustedes ;;;han contabilizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había contabilizado;;tú //vos ;;;habías contabilizado;;él //ella //usted ;;;había contabilizado;;nosotros //nosotras ;;;habíamos contabilizado;;vosotros //vosotras ;;;habíais contabilizado;;ellos //ellas //ustedes ;;;habían contabilizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube contabilizado;;tú //vos ;;;hubiste contabilizado;;él //ella //usted ;;;hubo contabilizado;;nosotros //nosotras ;;;hubimos contabilizado;;vosotros //vosotras ;;;hubisteis contabilizado;;ellos //ellas //ustedes ;;;hubieron contabilizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré contabilizado;;tú //vos ;;;habrás contabilizado;;él //ella //usted ;;;habrá contabilizado;;nosotros //nosotras ;;;habremos contabilizado;;vosotros //vosotras ;;;habréis contabilizado;;ellos //ellas //ustedes ;;;habrán contabilizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;contabilice;;tú //vos ;;;contabilices;;él //ella //usted ;;;contabilice;;nosotros //nosotras ;;;contabilicemos;;vosotros //vosotras ;;;contabilicéis;;ellos //ellas //ustedes ;;;contabilicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;contabilizara / contabilizase;;tú //vos ;;;contabilizaras / contabilizases;;él //ella //usted ;;;contabilizara / contabilizase;;nosotros //nosotras ;;;contabilizáramos / contabilizásemos;;vosotros //vosotras ;;;contabilizarais / contabilizaseis;;ellos //ellas //ustedes ;;;contabilizaran / contabilizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;contabilizare;;tú //vos ;;;contabilizares;;él //ella //usted ;;;contabilizare;;nosotros //nosotras ;;;contabilizáremos;;vosotros //vosotras ;;;contabilizareis;;ellos //ellas //ustedes ;;;contabilizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya contabilizado;;tú //vos ;;;hayas contabilizado;;él //ella //usted ;;;haya contabilizado;;nosotros //nosotras ;;;hayamos contabilizado;;vosotros //vosotras ;;;hayáis contabilizado;;ellos //ellas //ustedes ;;;hayan contabilizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera contabilizado / hubiese contabilizado;;tú //vos ;;;hubieras contabilizado / hubieses contabilizado;;él //ella //usted ;;;hubiera contabilizado / hubiese contabilizado;;nosotros //nosotras ;;;hubiéramos contabilizado / hubiésemos contabilizado;;vosotros //vosotras ;;;hubierais contabilizado / hubieseis contabilizado;;ellos //ellas //ustedes ;;;hubieran contabilizado / hubiesen contabilizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere contabilizado;;tú //vos ;;;hubieres contabilizado;;él //ella //usted ;;;hubiere contabilizado;;nosotros //nosotras ;;;hubiéremos contabilizado;;vosotros //vosotras ;;;hubiereis contabilizado;;ellos //ellas //ustedes ;;;hubieren contabilizado;;;;;
+Condicional;condicional;;yo ;;;contabilizaría;;tú //vos ;;;contabilizarías;;él //ella //usted ;;;contabilizaría;;nosotros //nosotras ;;;contabilizaríamos;;vosotros //vosotras ;;;contabilizaríais;;ellos //ellas //ustedes ;;;contabilizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría contabilizado;;tú //vos ;;;habrías contabilizado;;él //ella //usted ;;;habría contabilizado;;nosotros //nosotras ;;;habríamos contabilizado;;vosotros //vosotras ;;;habríais contabilizado;;ellos //ellas //ustedes ;;;habrían contabilizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contabiliza;;(usted) ;;;contabilice;;(nosotros) //(nosotras) ;;;contabilicemos;;(vosotros) //(vosotras) ;;;contabilizad;;(ustedes) ;;;contabilicen;;(vos) ;;;contabilizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contabilices;;(usted) ;no ;;contabilice;;(nosotros) //(nosotras) ;no ;;contabilicemos;;(vosotros) //(vosotras) ;no ;;contabilicéis;;(ustedes) ;no ;;contabilicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;contabilizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;contabiliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

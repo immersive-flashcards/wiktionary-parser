@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;mettrais;;tu ;;;mettrais;;il/elle/on ;;;mettrai
 Conditionnel Passé;conditionnel;;j’;;;aurais mis;;tu ;;;aurais mis;;il/elle/on ;;;aurait mis;;nous ;;;aurions mis;;vous ;;;auriez mis;;ils/elles ;;;auraient mis
 Impératif Présent;impératif;;;;;;;(tu) ;;;mets;;;;;;;(nous) ;;;mettons;;(vous) ;;;mettez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie mis;;;;;;;(nous) ;;;ayons mis;;(vous) ;;;ayez mis;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mets pas;;;;;;;(nous) ;ne ;;mettons pas;;(vous) ;ne ;;mettez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mets pas ;;;;;;;(nous) ;ne ;;mettons pas ;;(vous) ;ne ;;mettez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas mis;;;;;;;(nous) ;n';;ayons pas mis;;(vous) ;n';;ayez pas mis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;mettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

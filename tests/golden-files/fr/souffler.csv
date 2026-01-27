@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;soufflerais;;tu ;;;soufflerais;;il/elle/on ;;;s
 Conditionnel Passé;conditionnel;;j’;;;aurais soufflé;;tu ;;;aurais soufflé;;il/elle/on ;;;aurait soufflé;;nous ;;;aurions soufflé;;vous ;;;auriez soufflé;;ils/elles ;;;auraient soufflé
 Impératif Présent;impératif;;;;;;;(tu) ;;;souffle;;;;;;;(nous) ;;;soufflons;;(vous) ;;;soufflez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie soufflé;;;;;;;(nous) ;;;ayons soufflé;;(vous) ;;;ayez soufflé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;souffle pas;;;;;;;(nous) ;ne ;;soufflons pas;;(vous) ;ne ;;soufflez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;souffle pas ;;;;;;;(nous) ;ne ;;soufflons pas ;;(vous) ;ne ;;soufflez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas soufflé;;;;;;;(nous) ;n';;ayons pas soufflé;;(vous) ;n';;ayez pas soufflé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;souffler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;parar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;parant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;parat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;paro;;tu ;;;pares;;ell //ella //vostè ;;;para;;nosaltres ;;;parem;;vosaltres ;;;pareu;;ells //elles //vostès ;;;paren
+Indicatiu Imperfet;indicativo;;jo ;;;parava;;tu ;;;paraves;;ell //ella //vostè ;;;parava;;nosaltres ;;;paràvem;;vosaltres ;;;paràveu;;ells //elles //vostès ;;;paraven
+Indicatiu Futur;indicativo;;jo ;;;pararé;;tu ;;;pararàs;;ell //ella //vostè ;;;pararà;;nosaltres ;;;pararem;;vosaltres ;;;parareu;;ells //elles //vostès ;;;pararan
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;parí;;tu ;;;parares;;ell //ella //vostè ;;;parà;;nosaltres ;;;paràrem;;vosaltres ;;;paràreu;;ells //elles //vostès ;;;pararen
+Condicional;condicional;;jo ;;;pararia;;tu ;;;pararies;;ell //ella //vostè ;;;pararia;;nosaltres ;;;pararíem;;vosaltres ;;;pararíeu;;ells //elles //vostès ;;;pararien
+Subjuntiu Present;subjuntiu;;jo ;;;pari;;tu ;;;paris;;ell //ella //vostè ;;;pari;;nosaltres ;;;parem;;vosaltres ;;;pareu;;ells //elles //vostès ;;;parin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;parés;;tu ;;;paressis;;ell //ella //vostè ;;;parés;;nosaltres ;;;paréssim;;vosaltres ;;;paréssiu;;ells //elles //vostès ;;;paressin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;para;;(vostè) ;;;pari;;(nosaltres) ;;;parem;;(vosaltres) ;;;pareu;;(vostès) ;;;parin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;paris;;(vostè) ;no ;;pari;;(nosaltres) ;no ;;parem;;(vosaltres) ;no ;;pareu;;(vostès) ;no ;;parin
+Indicatiu Perfet;indicatiu;;jo ;;;he parat;;tu ;;;has parat;;ell //ella //vostè ;;;ha parat;;nosaltres ;;;hem parat;;vosaltres ;;;heu parat;;ells //elles //vostès ;;;han parat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig parat;;tu ;;;vas parat;;ell //ella //vostè ;;;va parat;;nosaltres ;;;vam parat;;vosaltres ;;;vau parat;;ells //elles //vostès ;;;van parat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia parat;;tu ;;;havies parat;;ell //ella //vostè ;;;havia parat;;nosaltres ;;;havíem parat;;vosaltres ;;;havíeu parat;;ells //elles //vostès ;;;havien parat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí parat;;tu ;;;hagueres parat;;ell //ella //vostè ;;;hagué parat;;nosaltres ;;;haguérem parat;;vosaltres ;;;haguéreu parat;;ells //elles //vostès ;;;hagueren parat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver parat;;tu ;;;vas haver parat;;ell //ella //vostè ;;;va haver parat;;nosaltres ;;;vam haver parat;;vosaltres ;;;vau haver parat;;ells //elles //vostès ;;;van haver parat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré parat;;tu ;;;hauràs parat;;ell //ella //vostè ;;;haurà parat;;nosaltres ;;;haurem parat;;vosaltres ;;;haureu parat;;ells //elles //vostès ;;;hauran parat
+Condicional Perfet;condicional;;jo ;;;hauria parat;;tu ;;;hauries parat;;ell //ella //vostè ;;;hauria parat;;nosaltres ;;;hauríem parat;;vosaltres ;;;hauríeu parat;;ells //elles //vostès ;;;haurien parat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi parat;;tu ;;;vagis parat;;ell //ella //vostè ;;;vagi parat;;nosaltres ;;;vàgim parat;;vosaltres ;;;vàgiu parat;;ells //elles //vostès ;;;vagin parat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi parat;;tu ;;;hagis parat;;ell //ella //vostè ;;;hagi parat;;nosaltres ;;;hàgim parat;;vosaltres ;;;hàgiu parat;;ells //elles //vostès ;;;hagin parat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes parat;;tu ;;;haguessis parat;;ell //ella //vostè ;;;hagués parat;;nosaltres ;;;haguéssim parat;;vosaltres ;;;haguéssiu parat;;ells //elles //vostès ;;;haguessin parat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver parat;;tu ;;;vagis haver parat;;ell //ella //vostè ;;;vagi haver parat;;nosaltres ;;;vàgim haver parat;;vosaltres ;;;vàgiu haver parat;;ells //elles //vostès ;;;vagin haver parat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;parar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;par;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

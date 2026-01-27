@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;carbonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;carbonizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;carbonizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;carbonizo;;tú ;;;carbonizas;;él //ella //usted ;;;carboniza;;nosotros //nosotras ;;;carbonizamos;;vosotros //vosotras ;;;carbonizáis;;ellos //ellas //ustedes ;;;carbonizan;;vos ;;;carbonizás
+Indicativo Imperfecto;indicativo;;yo ;;;carbonizaba;;tú //vos ;;;carbonizabas;;él //ella //usted ;;;carbonizaba;;nosotros //nosotras ;;;carbonizábamos;;vosotros //vosotras ;;;carbonizabais;;ellos //ellas //ustedes ;;;carbonizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;carbonicé;;tú //vos ;;;carbonizaste;;él //ella //usted ;;;carbonizó;;nosotros //nosotras ;;;carbonizamos;;vosotros //vosotras ;;;carbonizasteis;;ellos //ellas //ustedes ;;;carbonizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;carbonizaré;;tú //vos ;;;carbonizarás;;él //ella //usted ;;;carbonizará;;nosotros //nosotras ;;;carbonizaremos;;vosotros //vosotras ;;;carbonizaréis;;ellos //ellas //ustedes ;;;carbonizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he carbonizado;;tú //vos ;;;has carbonizado;;él //ella //usted ;;;ha carbonizado;;nosotros //nosotras ;;;hemos carbonizado;;vosotros //vosotras ;;;habéis carbonizado;;ellos //ellas //ustedes ;;;han carbonizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había carbonizado;;tú //vos ;;;habías carbonizado;;él //ella //usted ;;;había carbonizado;;nosotros //nosotras ;;;habíamos carbonizado;;vosotros //vosotras ;;;habíais carbonizado;;ellos //ellas //ustedes ;;;habían carbonizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube carbonizado;;tú //vos ;;;hubiste carbonizado;;él //ella //usted ;;;hubo carbonizado;;nosotros //nosotras ;;;hubimos carbonizado;;vosotros //vosotras ;;;hubisteis carbonizado;;ellos //ellas //ustedes ;;;hubieron carbonizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré carbonizado;;tú //vos ;;;habrás carbonizado;;él //ella //usted ;;;habrá carbonizado;;nosotros //nosotras ;;;habremos carbonizado;;vosotros //vosotras ;;;habréis carbonizado;;ellos //ellas //ustedes ;;;habrán carbonizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;carbonice;;tú //vos ;;;carbonices;;él //ella //usted ;;;carbonice;;nosotros //nosotras ;;;carbonicemos;;vosotros //vosotras ;;;carbonicéis;;ellos //ellas //ustedes ;;;carbonicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;carbonizara / carbonizase;;tú //vos ;;;carbonizaras / carbonizases;;él //ella //usted ;;;carbonizara / carbonizase;;nosotros //nosotras ;;;carbonizáramos / carbonizásemos;;vosotros //vosotras ;;;carbonizarais / carbonizaseis;;ellos //ellas //ustedes ;;;carbonizaran / carbonizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;carbonizare;;tú //vos ;;;carbonizares;;él //ella //usted ;;;carbonizare;;nosotros //nosotras ;;;carbonizáremos;;vosotros //vosotras ;;;carbonizareis;;ellos //ellas //ustedes ;;;carbonizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya carbonizado;;tú //vos ;;;hayas carbonizado;;él //ella //usted ;;;haya carbonizado;;nosotros //nosotras ;;;hayamos carbonizado;;vosotros //vosotras ;;;hayáis carbonizado;;ellos //ellas //ustedes ;;;hayan carbonizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera carbonizado / hubiese carbonizado;;tú //vos ;;;hubieras carbonizado / hubieses carbonizado;;él //ella //usted ;;;hubiera carbonizado / hubiese carbonizado;;nosotros //nosotras ;;;hubiéramos carbonizado / hubiésemos carbonizado;;vosotros //vosotras ;;;hubierais carbonizado / hubieseis carbonizado;;ellos //ellas //ustedes ;;;hubieran carbonizado / hubiesen carbonizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere carbonizado;;tú //vos ;;;hubieres carbonizado;;él //ella //usted ;;;hubiere carbonizado;;nosotros //nosotras ;;;hubiéremos carbonizado;;vosotros //vosotras ;;;hubiereis carbonizado;;ellos //ellas //ustedes ;;;hubieren carbonizado;;;;;
+Condicional;condicional;;yo ;;;carbonizaría;;tú //vos ;;;carbonizarías;;él //ella //usted ;;;carbonizaría;;nosotros //nosotras ;;;carbonizaríamos;;vosotros //vosotras ;;;carbonizaríais;;ellos //ellas //ustedes ;;;carbonizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría carbonizado;;tú //vos ;;;habrías carbonizado;;él //ella //usted ;;;habría carbonizado;;nosotros //nosotras ;;;habríamos carbonizado;;vosotros //vosotras ;;;habríais carbonizado;;ellos //ellas //ustedes ;;;habrían carbonizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;carboniza;;(usted) ;;;carbonice;;(nosotros) //(nosotras) ;;;carbonicemos;;(vosotros) //(vosotras) ;;;carbonizad;;(ustedes) ;;;carbonicen;;(vos) ;;;carbonizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;carbonices;;(usted) ;no ;;carbonice;;(nosotros) //(nosotras) ;no ;;carbonicemos;;(vosotros) //(vosotras) ;no ;;carbonicéis;;(ustedes) ;no ;;carbonicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;carbonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;carboniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

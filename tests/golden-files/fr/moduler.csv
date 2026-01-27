@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;modulerais;;tu ;;;modulerais;;il/elle/on ;;;mod
 Conditionnel Passé;conditionnel;;j’;;;aurais modulé;;tu ;;;aurais modulé;;il/elle/on ;;;aurait modulé;;nous ;;;aurions modulé;;vous ;;;auriez modulé;;ils/elles ;;;auraient modulé
 Impératif Présent;impératif;;;;;;;(tu) ;;;module;;;;;;;(nous) ;;;modulons;;(vous) ;;;modulez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie modulé;;;;;;;(nous) ;;;ayons modulé;;(vous) ;;;ayez modulé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;module pas;;;;;;;(nous) ;ne ;;modulons pas;;(vous) ;ne ;;modulez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;module pas ;;;;;;;(nous) ;ne ;;modulons pas ;;(vous) ;ne ;;modulez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas modulé;;;;;;;(nous) ;n';;ayons pas modulé;;(vous) ;n';;ayez pas modulé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;moduler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

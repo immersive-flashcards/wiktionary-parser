@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;filtrerais;;tu ;;;filtrerais;;il/elle/on ;;;fil
 Conditionnel Passé;conditionnel;;j’;;;aurais filtré;;tu ;;;aurais filtré;;il/elle/on ;;;aurait filtré;;nous ;;;aurions filtré;;vous ;;;auriez filtré;;ils/elles ;;;auraient filtré
 Impératif Présent;impératif;;;;;;;(tu) ;;;filtre;;;;;;;(nous) ;;;filtrons;;(vous) ;;;filtrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie filtré;;;;;;;(nous) ;;;ayons filtré;;(vous) ;;;ayez filtré;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;filtre pas;;;;;;;(nous) ;ne ;;filtrons pas;;(vous) ;ne ;;filtrez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;filtre pas ;;;;;;;(nous) ;ne ;;filtrons pas ;;(vous) ;ne ;;filtrez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas filtré;;;;;;;(nous) ;n';;ayons pas filtré;;(vous) ;n';;ayez pas filtré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;filtrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

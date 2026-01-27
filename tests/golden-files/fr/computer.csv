@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;computerais;;tu ;;;computerais;;il/elle/on ;;;c
 Conditionnel Passé;conditionnel;;j’;;;aurais computé;;tu ;;;aurais computé;;il/elle/on ;;;aurait computé;;nous ;;;aurions computé;;vous ;;;auriez computé;;ils/elles ;;;auraient computé
 Impératif Présent;impératif;;;;;;;(tu) ;;;compute;;;;;;;(nous) ;;;computons;;(vous) ;;;computez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie computé;;;;;;;(nous) ;;;ayons computé;;(vous) ;;;ayez computé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;compute pas;;;;;;;(nous) ;ne ;;computons pas;;(vous) ;ne ;;computez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;compute pas ;;;;;;;(nous) ;ne ;;computons pas ;;(vous) ;ne ;;computez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas computé;;;;;;;(nous) ;n';;ayons pas computé;;(vous) ;n';;ayez pas computé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;computer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

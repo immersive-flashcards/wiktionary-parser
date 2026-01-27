@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;augmenterais;;tu ;;;augmenterais;;il/elle/on ;
 Conditionnel Passé;conditionnel;;j’;;;aurais augmenté;;tu ;;;aurais augmenté;;il/elle/on ;;;aurait augmenté;;nous ;;;aurions augmenté;;vous ;;;auriez augmenté;;ils/elles ;;;auraient augmenté
 Impératif Présent;impératif;;;;;;;(tu) ;;;augmente;;;;;;;(nous) ;;;augmentons;;(vous) ;;;augmentez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie augmenté;;;;;;;(nous) ;;;ayons augmenté;;(vous) ;;;ayez augmenté;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;augmente pas;;;;;;;(nous) ;n';;augmentons pas;;(vous) ;n';;augmentez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;augmente pas ;;;;;;;(nous) ;n';;augmentons pas ;;(vous) ;n';;augmentez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas augmenté;;;;;;;(nous) ;n';;ayons pas augmenté;;(vous) ;n';;ayez pas augmenté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;augmenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

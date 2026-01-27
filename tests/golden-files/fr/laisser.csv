@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;laisserais;;tu ;;;laisserais;;il/elle/on ;;;lai
 Conditionnel Passé;conditionnel;;j’;;;aurais laissé;;tu ;;;aurais laissé;;il/elle/on ;;;aurait laissé;;nous ;;;aurions laissé;;vous ;;;auriez laissé;;ils/elles ;;;auraient laissé
 Impératif Présent;impératif;;;;;;;(tu) ;;;laisse;;;;;;;(nous) ;;;laissons;;(vous) ;;;laissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie laissé;;;;;;;(nous) ;;;ayons laissé;;(vous) ;;;ayez laissé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;laisse pas;;;;;;;(nous) ;ne ;;laissons pas;;(vous) ;ne ;;laissez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;laisse pas ;;;;;;;(nous) ;ne ;;laissons pas ;;(vous) ;ne ;;laissez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas laissé;;;;;;;(nous) ;n';;ayons pas laissé;;(vous) ;n';;ayez pas laissé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;laisser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

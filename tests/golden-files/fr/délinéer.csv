@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;délinéerais;;tu ;;;délinéerais;;il/elle/on 
 Conditionnel Passé;conditionnel;;j’;;;aurais délinéé;;tu ;;;aurais délinéé;;il/elle/on ;;;aurait délinéé;;nous ;;;aurions délinéé;;vous ;;;auriez délinéé;;ils/elles ;;;auraient délinéé
 Impératif Présent;impératif;;;;;;;(tu) ;;;délinée;;;;;;;(nous) ;;;délinéons;;(vous) ;;;délinéez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie délinéé;;;;;;;(nous) ;;;ayons délinéé;;(vous) ;;;ayez délinéé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;délinée pas;;;;;;;(nous) ;ne ;;délinéons pas;;(vous) ;ne ;;délinéez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;délinée pas ;;;;;;;(nous) ;ne ;;délinéons pas ;;(vous) ;ne ;;délinéez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas délinéé;;;;;;;(nous) ;n';;ayons pas délinéé;;(vous) ;n';;ayez pas délinéé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;délinéer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

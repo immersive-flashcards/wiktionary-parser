@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;pillar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;pillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;pillat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;pillo;;tu ;;;pilles;;ell //ella //vostè ;;;pilla;;nosaltres ;;;pillem;;vosaltres ;;;pilleu;;ells //elles //vostès ;;;pillen
+Indicatiu Imperfet;indicativo;;jo ;;;pillava;;tu ;;;pillaves;;ell //ella //vostè ;;;pillava;;nosaltres ;;;pillàvem;;vosaltres ;;;pillàveu;;ells //elles //vostès ;;;pillaven
+Indicatiu Futur;indicativo;;jo ;;;pillaré;;tu ;;;pillaràs;;ell //ella //vostè ;;;pillarà;;nosaltres ;;;pillarem;;vosaltres ;;;pillareu;;ells //elles //vostès ;;;pillaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;pillí;;tu ;;;pillares;;ell //ella //vostè ;;;pillà;;nosaltres ;;;pillàrem;;vosaltres ;;;pillàreu;;ells //elles //vostès ;;;pillaren
+Condicional;condicional;;jo ;;;pillaria;;tu ;;;pillaries;;ell //ella //vostè ;;;pillaria;;nosaltres ;;;pillaríem;;vosaltres ;;;pillaríeu;;ells //elles //vostès ;;;pillarien
+Subjuntiu Present;subjuntiu;;jo ;;;pilli;;tu ;;;pillis;;ell //ella //vostè ;;;pilli;;nosaltres ;;;pillem;;vosaltres ;;;pilleu;;ells //elles //vostès ;;;pillin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;pillés;;tu ;;;pillessis;;ell //ella //vostè ;;;pillés;;nosaltres ;;;pilléssim;;vosaltres ;;;pilléssiu;;ells //elles //vostès ;;;pillessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;pilla;;(vostè) ;;;pilli;;(nosaltres) ;;;pillem;;(vosaltres) ;;;pilleu;;(vostès) ;;;pillin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;pillis;;(vostè) ;no ;;pilli;;(nosaltres) ;no ;;pillem;;(vosaltres) ;no ;;pilleu;;(vostès) ;no ;;pillin
+Indicatiu Perfet;indicatiu;;jo ;;;he pillat;;tu ;;;has pillat;;ell //ella //vostè ;;;ha pillat;;nosaltres ;;;hem pillat;;vosaltres ;;;heu pillat;;ells //elles //vostès ;;;han pillat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig pillat;;tu ;;;vas pillat;;ell //ella //vostè ;;;va pillat;;nosaltres ;;;vam pillat;;vosaltres ;;;vau pillat;;ells //elles //vostès ;;;van pillat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia pillat;;tu ;;;havies pillat;;ell //ella //vostè ;;;havia pillat;;nosaltres ;;;havíem pillat;;vosaltres ;;;havíeu pillat;;ells //elles //vostès ;;;havien pillat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí pillat;;tu ;;;hagueres pillat;;ell //ella //vostè ;;;hagué pillat;;nosaltres ;;;haguérem pillat;;vosaltres ;;;haguéreu pillat;;ells //elles //vostès ;;;hagueren pillat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver pillat;;tu ;;;vas haver pillat;;ell //ella //vostè ;;;va haver pillat;;nosaltres ;;;vam haver pillat;;vosaltres ;;;vau haver pillat;;ells //elles //vostès ;;;van haver pillat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré pillat;;tu ;;;hauràs pillat;;ell //ella //vostè ;;;haurà pillat;;nosaltres ;;;haurem pillat;;vosaltres ;;;haureu pillat;;ells //elles //vostès ;;;hauran pillat
+Condicional Perfet;condicional;;jo ;;;hauria pillat;;tu ;;;hauries pillat;;ell //ella //vostè ;;;hauria pillat;;nosaltres ;;;hauríem pillat;;vosaltres ;;;hauríeu pillat;;ells //elles //vostès ;;;haurien pillat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi pillat;;tu ;;;vagis pillat;;ell //ella //vostè ;;;vagi pillat;;nosaltres ;;;vàgim pillat;;vosaltres ;;;vàgiu pillat;;ells //elles //vostès ;;;vagin pillat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi pillat;;tu ;;;hagis pillat;;ell //ella //vostè ;;;hagi pillat;;nosaltres ;;;hàgim pillat;;vosaltres ;;;hàgiu pillat;;ells //elles //vostès ;;;hagin pillat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes pillat;;tu ;;;haguessis pillat;;ell //ella //vostè ;;;hagués pillat;;nosaltres ;;;haguéssim pillat;;vosaltres ;;;haguéssiu pillat;;ells //elles //vostès ;;;haguessin pillat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver pillat;;tu ;;;vagis haver pillat;;ell //ella //vostè ;;;vagi haver pillat;;nosaltres ;;;vàgim haver pillat;;vosaltres ;;;vàgiu haver pillat;;ells //elles //vostès ;;;vagin haver pillat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;pillar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;pill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

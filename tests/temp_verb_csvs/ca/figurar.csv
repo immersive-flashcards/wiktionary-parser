@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;figurar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;figurant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;figurat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;figuro;;tu ;;;figures;;ell //ella //vostè ;;;figura;;nosaltres ;;;figurem;;vosaltres ;;;figureu;;ells //elles //vostès ;;;figuren
+Indicatiu Imperfet;indicativo;;jo ;;;figurava;;tu ;;;figuraves;;ell //ella //vostè ;;;figurava;;nosaltres ;;;figuràvem;;vosaltres ;;;figuràveu;;ells //elles //vostès ;;;figuraven
+Indicatiu Futur;indicativo;;jo ;;;figuraré;;tu ;;;figuraràs;;ell //ella //vostè ;;;figurarà;;nosaltres ;;;figurarem;;vosaltres ;;;figurareu;;ells //elles //vostès ;;;figuraran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;figurí;;tu ;;;figurares;;ell //ella //vostè ;;;figurà;;nosaltres ;;;figuràrem;;vosaltres ;;;figuràreu;;ells //elles //vostès ;;;figuraren
+Condicional;condicional;;jo ;;;figuraria;;tu ;;;figuraries;;ell //ella //vostè ;;;figuraria;;nosaltres ;;;figuraríem;;vosaltres ;;;figuraríeu;;ells //elles //vostès ;;;figurarien
+Subjuntiu Present;subjuntiu;;jo ;;;figuri;;tu ;;;figuris;;ell //ella //vostè ;;;figuri;;nosaltres ;;;figurem;;vosaltres ;;;figureu;;ells //elles //vostès ;;;figurin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;figurés;;tu ;;;figuressis;;ell //ella //vostè ;;;figurés;;nosaltres ;;;figuréssim;;vosaltres ;;;figuréssiu;;ells //elles //vostès ;;;figuressin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;figura;;(vostè) ;;;figuri;;(nosaltres) ;;;figurem;;(vosaltres) ;;;figureu;;(vostès) ;;;figurin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;figuris;;(vostè) ;no ;;figuri;;(nosaltres) ;no ;;figurem;;(vosaltres) ;no ;;figureu;;(vostès) ;no ;;figurin
+Indicatiu Perfet;indicatiu;;jo ;;;he figurat;;tu ;;;has figurat;;ell //ella //vostè ;;;ha figurat;;nosaltres ;;;hem figurat;;vosaltres ;;;heu figurat;;ells //elles //vostès ;;;han figurat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig figurat;;tu ;;;vas figurat;;ell //ella //vostè ;;;va figurat;;nosaltres ;;;vam figurat;;vosaltres ;;;vau figurat;;ells //elles //vostès ;;;van figurat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia figurat;;tu ;;;havies figurat;;ell //ella //vostè ;;;havia figurat;;nosaltres ;;;havíem figurat;;vosaltres ;;;havíeu figurat;;ells //elles //vostès ;;;havien figurat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí figurat;;tu ;;;hagueres figurat;;ell //ella //vostè ;;;hagué figurat;;nosaltres ;;;haguérem figurat;;vosaltres ;;;haguéreu figurat;;ells //elles //vostès ;;;hagueren figurat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver figurat;;tu ;;;vas haver figurat;;ell //ella //vostè ;;;va haver figurat;;nosaltres ;;;vam haver figurat;;vosaltres ;;;vau haver figurat;;ells //elles //vostès ;;;van haver figurat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré figurat;;tu ;;;hauràs figurat;;ell //ella //vostè ;;;haurà figurat;;nosaltres ;;;haurem figurat;;vosaltres ;;;haureu figurat;;ells //elles //vostès ;;;hauran figurat
+Condicional Perfet;condicional;;jo ;;;hauria figurat;;tu ;;;hauries figurat;;ell //ella //vostè ;;;hauria figurat;;nosaltres ;;;hauríem figurat;;vosaltres ;;;hauríeu figurat;;ells //elles //vostès ;;;haurien figurat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi figurat;;tu ;;;vagis figurat;;ell //ella //vostè ;;;vagi figurat;;nosaltres ;;;vàgim figurat;;vosaltres ;;;vàgiu figurat;;ells //elles //vostès ;;;vagin figurat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi figurat;;tu ;;;hagis figurat;;ell //ella //vostè ;;;hagi figurat;;nosaltres ;;;hàgim figurat;;vosaltres ;;;hàgiu figurat;;ells //elles //vostès ;;;hagin figurat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes figurat;;tu ;;;haguessis figurat;;ell //ella //vostè ;;;hagués figurat;;nosaltres ;;;haguéssim figurat;;vosaltres ;;;haguéssiu figurat;;ells //elles //vostès ;;;haguessin figurat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver figurat;;tu ;;;vagis haver figurat;;ell //ella //vostè ;;;vagi haver figurat;;nosaltres ;;;vàgim haver figurat;;vosaltres ;;;vàgiu haver figurat;;ells //elles //vostès ;;;vagin haver figurat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;figurar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;figur;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

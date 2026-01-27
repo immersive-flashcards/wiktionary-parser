@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;cuisinerais;;tu ;;;cuisinerais;;il/elle/on ;;;c
 Conditionnel Passé;conditionnel;;j’;;;aurais cuisiné;;tu ;;;aurais cuisiné;;il/elle/on ;;;aurait cuisiné;;nous ;;;aurions cuisiné;;vous ;;;auriez cuisiné;;ils/elles ;;;auraient cuisiné
 Impératif Présent;impératif;;;;;;;(tu) ;;;cuisine;;;;;;;(nous) ;;;cuisinons;;(vous) ;;;cuisinez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie cuisiné;;;;;;;(nous) ;;;ayons cuisiné;;(vous) ;;;ayez cuisiné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;cuisine pas;;;;;;;(nous) ;ne ;;cuisinons pas;;(vous) ;ne ;;cuisinez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;cuisine pas ;;;;;;;(nous) ;ne ;;cuisinons pas ;;(vous) ;ne ;;cuisinez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas cuisiné;;;;;;;(nous) ;n';;ayons pas cuisiné;;(vous) ;n';;ayez pas cuisiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;cuisiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

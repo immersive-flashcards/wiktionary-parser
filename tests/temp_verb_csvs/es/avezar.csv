@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;avezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;avezando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;avezado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;avezo;;tú ;;;avezas;;él //ella //usted ;;;aveza;;nosotros //nosotras ;;;avezamos;;vosotros //vosotras ;;;avezáis;;ellos //ellas //ustedes ;;;avezan;;vos ;;;avezás
+Indicativo Imperfecto;indicativo;;yo ;;;avezaba;;tú //vos ;;;avezabas;;él //ella //usted ;;;avezaba;;nosotros //nosotras ;;;avezábamos;;vosotros //vosotras ;;;avezabais;;ellos //ellas //ustedes ;;;avezaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;avecé;;tú //vos ;;;avezaste;;él //ella //usted ;;;avezó;;nosotros //nosotras ;;;avezamos;;vosotros //vosotras ;;;avezasteis;;ellos //ellas //ustedes ;;;avezaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;avezaré;;tú //vos ;;;avezarás;;él //ella //usted ;;;avezará;;nosotros //nosotras ;;;avezaremos;;vosotros //vosotras ;;;avezaréis;;ellos //ellas //ustedes ;;;avezarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he avezado;;tú //vos ;;;has avezado;;él //ella //usted ;;;ha avezado;;nosotros //nosotras ;;;hemos avezado;;vosotros //vosotras ;;;habéis avezado;;ellos //ellas //ustedes ;;;han avezado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había avezado;;tú //vos ;;;habías avezado;;él //ella //usted ;;;había avezado;;nosotros //nosotras ;;;habíamos avezado;;vosotros //vosotras ;;;habíais avezado;;ellos //ellas //ustedes ;;;habían avezado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube avezado;;tú //vos ;;;hubiste avezado;;él //ella //usted ;;;hubo avezado;;nosotros //nosotras ;;;hubimos avezado;;vosotros //vosotras ;;;hubisteis avezado;;ellos //ellas //ustedes ;;;hubieron avezado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré avezado;;tú //vos ;;;habrás avezado;;él //ella //usted ;;;habrá avezado;;nosotros //nosotras ;;;habremos avezado;;vosotros //vosotras ;;;habréis avezado;;ellos //ellas //ustedes ;;;habrán avezado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;avece;;tú //vos ;;;aveces;;él //ella //usted ;;;avece;;nosotros //nosotras ;;;avecemos;;vosotros //vosotras ;;;avecéis;;ellos //ellas //ustedes ;;;avecen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;avezara / avezase;;tú //vos ;;;avezaras / avezases;;él //ella //usted ;;;avezara / avezase;;nosotros //nosotras ;;;avezáramos / avezásemos;;vosotros //vosotras ;;;avezarais / avezaseis;;ellos //ellas //ustedes ;;;avezaran / avezasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;avezare;;tú //vos ;;;avezares;;él //ella //usted ;;;avezare;;nosotros //nosotras ;;;avezáremos;;vosotros //vosotras ;;;avezareis;;ellos //ellas //ustedes ;;;avezaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya avezado;;tú //vos ;;;hayas avezado;;él //ella //usted ;;;haya avezado;;nosotros //nosotras ;;;hayamos avezado;;vosotros //vosotras ;;;hayáis avezado;;ellos //ellas //ustedes ;;;hayan avezado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera avezado / hubiese avezado;;tú //vos ;;;hubieras avezado / hubieses avezado;;él //ella //usted ;;;hubiera avezado / hubiese avezado;;nosotros //nosotras ;;;hubiéramos avezado / hubiésemos avezado;;vosotros //vosotras ;;;hubierais avezado / hubieseis avezado;;ellos //ellas //ustedes ;;;hubieran avezado / hubiesen avezado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere avezado;;tú //vos ;;;hubieres avezado;;él //ella //usted ;;;hubiere avezado;;nosotros //nosotras ;;;hubiéremos avezado;;vosotros //vosotras ;;;hubiereis avezado;;ellos //ellas //ustedes ;;;hubieren avezado;;;;;
+Condicional;condicional;;yo ;;;avezaría;;tú //vos ;;;avezarías;;él //ella //usted ;;;avezaría;;nosotros //nosotras ;;;avezaríamos;;vosotros //vosotras ;;;avezaríais;;ellos //ellas //ustedes ;;;avezarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría avezado;;tú //vos ;;;habrías avezado;;él //ella //usted ;;;habría avezado;;nosotros //nosotras ;;;habríamos avezado;;vosotros //vosotras ;;;habríais avezado;;ellos //ellas //ustedes ;;;habrían avezado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aveza;;(usted) ;;;avece;;(nosotros) //(nosotras) ;;;avecemos;;(vosotros) //(vosotras) ;;;avezad;;(ustedes) ;;;avecen;;(vos) ;;;avezá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aveces;;(usted) ;no ;;avece;;(nosotros) //(nosotras) ;no ;;avecemos;;(vosotros) //(vosotras) ;no ;;avecéis;;(ustedes) ;no ;;avecen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;avezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;avez;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

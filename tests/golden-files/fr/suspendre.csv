@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;suspendrais;;tu ;;;suspendrais;;il/elle/on ;;;s
 Conditionnel Passé;conditionnel;;j’;;;aurais suspendu;;tu ;;;aurais suspendu;;il/elle/on ;;;aurait suspendu;;nous ;;;aurions suspendu;;vous ;;;auriez suspendu;;ils/elles ;;;auraient suspendu
 Impératif Présent;impératif;;;;;;;(tu) ;;;suspends;;;;;;;(nous) ;;;suspendons;;(vous) ;;;suspendez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie suspendu;;;;;;;(nous) ;;;ayons suspendu;;(vous) ;;;ayez suspendu;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;suspends pas;;;;;;;(nous) ;ne ;;suspendons pas;;(vous) ;ne ;;suspendez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;suspends pas ;;;;;;;(nous) ;ne ;;suspendons pas ;;(vous) ;ne ;;suspendez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas suspendu;;;;;;;(nous) ;n';;ayons pas suspendu;;(vous) ;n';;ayez pas suspendu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;suspendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

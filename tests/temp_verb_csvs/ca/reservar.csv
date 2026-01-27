@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;reservar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;reservant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;reservat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;reservo;;tu ;;;reserves;;ell //ella //vostè ;;;reserva;;nosaltres ;;;reservem;;vosaltres ;;;reserveu;;ells //elles //vostès ;;;reserven
+Indicatiu Imperfet;indicativo;;jo ;;;reservava;;tu ;;;reservaves;;ell //ella //vostè ;;;reservava;;nosaltres ;;;reservàvem;;vosaltres ;;;reservàveu;;ells //elles //vostès ;;;reservaven
+Indicatiu Futur;indicativo;;jo ;;;reservaré;;tu ;;;reservaràs;;ell //ella //vostè ;;;reservarà;;nosaltres ;;;reservarem;;vosaltres ;;;reservareu;;ells //elles //vostès ;;;reservaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;reserví;;tu ;;;reservares;;ell //ella //vostè ;;;reservà;;nosaltres ;;;reservàrem;;vosaltres ;;;reservàreu;;ells //elles //vostès ;;;reservaren
+Condicional;condicional;;jo ;;;reservaria;;tu ;;;reservaries;;ell //ella //vostè ;;;reservaria;;nosaltres ;;;reservaríem;;vosaltres ;;;reservaríeu;;ells //elles //vostès ;;;reservarien
+Subjuntiu Present;subjuntiu;;jo ;;;reservi;;tu ;;;reservis;;ell //ella //vostè ;;;reservi;;nosaltres ;;;reservem;;vosaltres ;;;reserveu;;ells //elles //vostès ;;;reservin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;reservés;;tu ;;;reservessis;;ell //ella //vostè ;;;reservés;;nosaltres ;;;reservéssim;;vosaltres ;;;reservéssiu;;ells //elles //vostès ;;;reservessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;reserva;;(vostè) ;;;reservi;;(nosaltres) ;;;reservem;;(vosaltres) ;;;reserveu;;(vostès) ;;;reservin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;reservis;;(vostè) ;no ;;reservi;;(nosaltres) ;no ;;reservem;;(vosaltres) ;no ;;reserveu;;(vostès) ;no ;;reservin
+Indicatiu Perfet;indicatiu;;jo ;;;he reservat;;tu ;;;has reservat;;ell //ella //vostè ;;;ha reservat;;nosaltres ;;;hem reservat;;vosaltres ;;;heu reservat;;ells //elles //vostès ;;;han reservat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig reservat;;tu ;;;vas reservat;;ell //ella //vostè ;;;va reservat;;nosaltres ;;;vam reservat;;vosaltres ;;;vau reservat;;ells //elles //vostès ;;;van reservat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia reservat;;tu ;;;havies reservat;;ell //ella //vostè ;;;havia reservat;;nosaltres ;;;havíem reservat;;vosaltres ;;;havíeu reservat;;ells //elles //vostès ;;;havien reservat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí reservat;;tu ;;;hagueres reservat;;ell //ella //vostè ;;;hagué reservat;;nosaltres ;;;haguérem reservat;;vosaltres ;;;haguéreu reservat;;ells //elles //vostès ;;;hagueren reservat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver reservat;;tu ;;;vas haver reservat;;ell //ella //vostè ;;;va haver reservat;;nosaltres ;;;vam haver reservat;;vosaltres ;;;vau haver reservat;;ells //elles //vostès ;;;van haver reservat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré reservat;;tu ;;;hauràs reservat;;ell //ella //vostè ;;;haurà reservat;;nosaltres ;;;haurem reservat;;vosaltres ;;;haureu reservat;;ells //elles //vostès ;;;hauran reservat
+Condicional Perfet;condicional;;jo ;;;hauria reservat;;tu ;;;hauries reservat;;ell //ella //vostè ;;;hauria reservat;;nosaltres ;;;hauríem reservat;;vosaltres ;;;hauríeu reservat;;ells //elles //vostès ;;;haurien reservat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi reservat;;tu ;;;vagis reservat;;ell //ella //vostè ;;;vagi reservat;;nosaltres ;;;vàgim reservat;;vosaltres ;;;vàgiu reservat;;ells //elles //vostès ;;;vagin reservat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi reservat;;tu ;;;hagis reservat;;ell //ella //vostè ;;;hagi reservat;;nosaltres ;;;hàgim reservat;;vosaltres ;;;hàgiu reservat;;ells //elles //vostès ;;;hagin reservat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes reservat;;tu ;;;haguessis reservat;;ell //ella //vostè ;;;hagués reservat;;nosaltres ;;;haguéssim reservat;;vosaltres ;;;haguéssiu reservat;;ells //elles //vostès ;;;haguessin reservat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver reservat;;tu ;;;vagis haver reservat;;ell //ella //vostè ;;;vagi haver reservat;;nosaltres ;;;vàgim haver reservat;;vosaltres ;;;vàgiu haver reservat;;ells //elles //vostès ;;;vagin haver reservat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;reservar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;reserv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;exhumerais;;tu ;;;exhumerais;;il/elle/on ;;;ex
 Conditionnel Passé;conditionnel;;j’;;;aurais exhumé;;tu ;;;aurais exhumé;;il/elle/on ;;;aurait exhumé;;nous ;;;aurions exhumé;;vous ;;;auriez exhumé;;ils/elles ;;;auraient exhumé
 Impératif Présent;impératif;;;;;;;(tu) ;;;exhume;;;;;;;(nous) ;;;exhumons;;(vous) ;;;exhumez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie exhumé;;;;;;;(nous) ;;;ayons exhumé;;(vous) ;;;ayez exhumé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;exhume pas;;;;;;;(nous) ;n';;exhumons pas;;(vous) ;n';;exhumez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;exhume pas ;;;;;;;(nous) ;n';;exhumons pas ;;(vous) ;n';;exhumez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas exhumé;;;;;;;(nous) ;n';;ayons pas exhumé;;(vous) ;n';;ayez pas exhumé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;exhumer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;donnerais;;tu ;;;donnerais;;il/elle/on ;;;donne
 Conditionnel Passé;conditionnel;;j’;;;aurais donné;;tu ;;;aurais donné;;il/elle/on ;;;aurait donné;;nous ;;;aurions donné;;vous ;;;auriez donné;;ils/elles ;;;auraient donné
 Impératif Présent;impératif;;;;;;;(tu) ;;;donne;;;;;;;(nous) ;;;donnons;;(vous) ;;;donnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie donné;;;;;;;(nous) ;;;ayons donné;;(vous) ;;;ayez donné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;donne pas;;;;;;;(nous) ;ne ;;donnons pas;;(vous) ;ne ;;donnez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;donne pas ;;;;;;;(nous) ;ne ;;donnons pas ;;(vous) ;ne ;;donnez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas donné;;;;;;;(nous) ;n';;ayons pas donné;;(vous) ;n';;ayez pas donné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;donner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

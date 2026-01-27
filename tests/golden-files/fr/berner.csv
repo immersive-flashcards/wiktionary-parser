@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;bernerais;;tu ;;;bernerais;;il/elle/on ;;;berne
 Conditionnel Passé;conditionnel;;j’;;;aurais berné;;tu ;;;aurais berné;;il/elle/on ;;;aurait berné;;nous ;;;aurions berné;;vous ;;;auriez berné;;ils/elles ;;;auraient berné
 Impératif Présent;impératif;;;;;;;(tu) ;;;berne;;;;;;;(nous) ;;;bernons;;(vous) ;;;bernez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie berné;;;;;;;(nous) ;;;ayons berné;;(vous) ;;;ayez berné;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;berne pas;;;;;;;(nous) ;ne ;;bernons pas;;(vous) ;ne ;;bernez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;berne pas ;;;;;;;(nous) ;ne ;;bernons pas ;;(vous) ;ne ;;bernez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas berné;;;;;;;(nous) ;n';;ayons pas berné;;(vous) ;n';;ayez pas berné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;berner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

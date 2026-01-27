@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;deviendrais;;tu ;;;deviendrais;;il/elle/on ;;;d
 Conditionnel Passé;conditionnel;;je ;;;serais devenu;;tu ;;;serais devenu;;il/elle/on ;;;serait devenu;;nous ;;;serions devenus;;vous ;;;seriez devenus;;ils/elles ;;;seraient devenus
 Impératif Présent;impératif;;;;;;;(tu) ;;;deviens;;;;;;;(nous) ;;;devenons;;(vous) ;;;devenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois devenu;;;;;;;(nous) ;;;soyons devenus;;(vous) ;;;soyez devenus;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;deviens pas;;;;;;;(nous) ;ne ;;devenons pas;;(vous) ;ne ;;devenez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;deviens pas ;;;;;;;(nous) ;ne ;;devenons pas ;;(vous) ;ne ;;devenez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas devenu;;;;;;;(nous) ;ne ;;soyons pas devenus;;(vous) ;ne ;;soyez pas devenus;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;devenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

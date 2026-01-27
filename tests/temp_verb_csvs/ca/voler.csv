@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;voler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;volent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;volgut;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;vull;;tu ;;;vols;;ell //ella //vostè ;;;vol;;nosaltres ;;;volem;;vosaltres ;;;voleu;;ells //elles //vostès ;;;volen
+Indicatiu Imperfet;indicativo;;jo ;;;volia;;tu ;;;volies;;ell //ella //vostè ;;;volia;;nosaltres ;;;volíem;;vosaltres ;;;volíeu;;ells //elles //vostès ;;;volien
+Indicatiu Futur;indicativo;;jo ;;;voldré;;tu ;;;voldràs;;ell //ella //vostè ;;;voldrà;;nosaltres ;;;voldrem;;vosaltres ;;;voldreu;;ells //elles //vostès ;;;voldran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;volguí;;tu ;;;volgueres;;ell //ella //vostè ;;;volgué;;nosaltres ;;;volguérem;;vosaltres ;;;volguéreu;;ells //elles //vostès ;;;volgueren
+Condicional;condicional;;jo ;;;voldria;;tu ;;;voldries;;ell //ella //vostè ;;;voldria;;nosaltres ;;;voldríem;;vosaltres ;;;voldríeu;;ells //elles //vostès ;;;voldrien
+Subjuntiu Present;subjuntiu;;jo ;;;vulgui;;tu ;;;vulguis;;ell //ella //vostè ;;;vulgui;;nosaltres ;;;vulguem;;vosaltres ;;;vulgueu;;ells //elles //vostès ;;;vulguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;volgués;;tu ;;;volguessis;;ell //ella //vostè ;;;volgués;;nosaltres ;;;volguéssim;;vosaltres ;;;volguéssiu;;ells //elles //vostès ;;;volguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;vulgues;;(vostè) ;;;vulgui;;(nosaltres) ;;;vulguem;;(vosaltres) ;;;vulgueu;;(vostès) ;;;vulguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;vulguis;;(vostè) ;no ;;vulgui;;(nosaltres) ;no ;;vulguem;;(vosaltres) ;no ;;vulgueu;;(vostès) ;no ;;vulguin
+Indicatiu Perfet;indicatiu;;jo ;;;he volgut;;tu ;;;has volgut;;ell //ella //vostè ;;;ha volgut;;nosaltres ;;;hem volgut;;vosaltres ;;;heu volgut;;ells //elles //vostès ;;;han volgut
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig volgut;;tu ;;;vas volgut;;ell //ella //vostè ;;;va volgut;;nosaltres ;;;vam volgut;;vosaltres ;;;vau volgut;;ells //elles //vostès ;;;van volgut
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia volgut;;tu ;;;havies volgut;;ell //ella //vostè ;;;havia volgut;;nosaltres ;;;havíem volgut;;vosaltres ;;;havíeu volgut;;ells //elles //vostès ;;;havien volgut
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí volgut;;tu ;;;hagueres volgut;;ell //ella //vostè ;;;hagué volgut;;nosaltres ;;;haguérem volgut;;vosaltres ;;;haguéreu volgut;;ells //elles //vostès ;;;hagueren volgut
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver volgut;;tu ;;;vas haver volgut;;ell //ella //vostè ;;;va haver volgut;;nosaltres ;;;vam haver volgut;;vosaltres ;;;vau haver volgut;;ells //elles //vostès ;;;van haver volgut
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré volgut;;tu ;;;hauràs volgut;;ell //ella //vostè ;;;haurà volgut;;nosaltres ;;;haurem volgut;;vosaltres ;;;haureu volgut;;ells //elles //vostès ;;;hauran volgut
+Condicional Perfet;condicional;;jo ;;;hauria volgut;;tu ;;;hauries volgut;;ell //ella //vostè ;;;hauria volgut;;nosaltres ;;;hauríem volgut;;vosaltres ;;;hauríeu volgut;;ells //elles //vostès ;;;haurien volgut
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi volgut;;tu ;;;vagis volgut;;ell //ella //vostè ;;;vagi volgut;;nosaltres ;;;vàgim volgut;;vosaltres ;;;vàgiu volgut;;ells //elles //vostès ;;;vagin volgut
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi volgut;;tu ;;;hagis volgut;;ell //ella //vostè ;;;hagi volgut;;nosaltres ;;;hàgim volgut;;vosaltres ;;;hàgiu volgut;;ells //elles //vostès ;;;hagin volgut
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes volgut;;tu ;;;haguessis volgut;;ell //ella //vostè ;;;hagués volgut;;nosaltres ;;;haguéssim volgut;;vosaltres ;;;haguéssiu volgut;;ells //elles //vostès ;;;haguessin volgut
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver volgut;;tu ;;;vagis haver volgut;;ell //ella //vostè ;;;vagi haver volgut;;nosaltres ;;;vàgim haver volgut;;vosaltres ;;;vàgiu haver volgut;;ells //elles //vostès ;;;vagin haver volgut
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;voler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;vol;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

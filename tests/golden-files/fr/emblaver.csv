@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;emblaverais;;tu ;;;emblaverais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais emblavé;;tu ;;;aurais emblavé;;il/elle/on ;;;aurait emblavé;;nous ;;;aurions emblavé;;vous ;;;auriez emblavé;;ils/elles ;;;auraient emblavé
 Impératif Présent;impératif;;;;;;;(tu) ;;;emblave;;;;;;;(nous) ;;;emblavons;;(vous) ;;;emblavez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie emblavé;;;;;;;(nous) ;;;ayons emblavé;;(vous) ;;;ayez emblavé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;emblave pas;;;;;;;(nous) ;n';;emblavons pas;;(vous) ;n';;emblavez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;emblave pas ;;;;;;;(nous) ;n';;emblavons pas ;;(vous) ;n';;emblavez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas emblavé;;;;;;;(nous) ;n';;ayons pas emblavé;;(vous) ;n';;ayez pas emblavé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;emblaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

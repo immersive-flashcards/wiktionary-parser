@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;abdiquerais;;tu ;;;abdiquerais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais abdiqué;;tu ;;;aurais abdiqué;;il/elle/on ;;;aurait abdiqué;;nous ;;;aurions abdiqué;;vous ;;;auriez abdiqué;;ils/elles ;;;auraient abdiqué
 Impératif Présent;impératif;;;;;;;(tu) ;;;abdique;;;;;;;(nous) ;;;abdiquons;;(vous) ;;;abdiquez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie abdiqué;;;;;;;(nous) ;;;ayons abdiqué;;(vous) ;;;ayez abdiqué;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;abdique pas;;;;;;;(nous) ;n';;abdiquons pas;;(vous) ;n';;abdiquez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;abdique pas ;;;;;;;(nous) ;n';;abdiquons pas ;;(vous) ;n';;abdiquez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas abdiqué;;;;;;;(nous) ;n';;ayons pas abdiqué;;(vous) ;n';;ayez pas abdiqué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;abdiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

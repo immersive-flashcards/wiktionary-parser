@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;abaisserais;;tu ;;;abaisserais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais abaissé;;tu ;;;aurais abaissé;;il/elle/on ;;;aurait abaissé;;nous ;;;aurions abaissé;;vous ;;;auriez abaissé;;ils/elles ;;;auraient abaissé
 Impératif Présent;impératif;;;;;;;(tu) ;;;abaisse;;;;;;;(nous) ;;;abaissons;;(vous) ;;;abaissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie abaissé;;;;;;;(nous) ;;;ayons abaissé;;(vous) ;;;ayez abaissé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;abaisse pas;;;;;;;(nous) ;n';;abaissons pas;;(vous) ;n';;abaissez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;abaisse pas ;;;;;;;(nous) ;n';;abaissons pas ;;(vous) ;n';;abaissez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas abaissé;;;;;;;(nous) ;n';;ayons pas abaissé;;(vous) ;n';;ayez pas abaissé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;abaisser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;registrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;registrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;registrat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;registro;;tu ;;;registres;;ell //ella //vostè ;;;registra;;nosaltres ;;;registrem;;vosaltres ;;;registreu;;ells //elles //vostès ;;;registren
+Indicatiu Imperfet;indicativo;;jo ;;;registrava;;tu ;;;registraves;;ell //ella //vostè ;;;registrava;;nosaltres ;;;registràvem;;vosaltres ;;;registràveu;;ells //elles //vostès ;;;registraven
+Indicatiu Futur;indicativo;;jo ;;;registraré;;tu ;;;registraràs;;ell //ella //vostè ;;;registrarà;;nosaltres ;;;registrarem;;vosaltres ;;;registrareu;;ells //elles //vostès ;;;registraran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;registrí;;tu ;;;registrares;;ell //ella //vostè ;;;registrà;;nosaltres ;;;registràrem;;vosaltres ;;;registràreu;;ells //elles //vostès ;;;registraren
+Condicional;condicional;;jo ;;;registraria;;tu ;;;registraries;;ell //ella //vostè ;;;registraria;;nosaltres ;;;registraríem;;vosaltres ;;;registraríeu;;ells //elles //vostès ;;;registrarien
+Subjuntiu Present;subjuntiu;;jo ;;;registri;;tu ;;;registris;;ell //ella //vostè ;;;registri;;nosaltres ;;;registrem;;vosaltres ;;;registreu;;ells //elles //vostès ;;;registrin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;registrés;;tu ;;;registressis;;ell //ella //vostè ;;;registrés;;nosaltres ;;;registréssim;;vosaltres ;;;registréssiu;;ells //elles //vostès ;;;registressin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;registra;;(vostè) ;;;registri;;(nosaltres) ;;;registrem;;(vosaltres) ;;;registreu;;(vostès) ;;;registrin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;registris;;(vostè) ;no ;;registri;;(nosaltres) ;no ;;registrem;;(vosaltres) ;no ;;registreu;;(vostès) ;no ;;registrin
+Indicatiu Perfet;indicatiu;;jo ;;;he registrat;;tu ;;;has registrat;;ell //ella //vostè ;;;ha registrat;;nosaltres ;;;hem registrat;;vosaltres ;;;heu registrat;;ells //elles //vostès ;;;han registrat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig registrat;;tu ;;;vas registrat;;ell //ella //vostè ;;;va registrat;;nosaltres ;;;vam registrat;;vosaltres ;;;vau registrat;;ells //elles //vostès ;;;van registrat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia registrat;;tu ;;;havies registrat;;ell //ella //vostè ;;;havia registrat;;nosaltres ;;;havíem registrat;;vosaltres ;;;havíeu registrat;;ells //elles //vostès ;;;havien registrat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí registrat;;tu ;;;hagueres registrat;;ell //ella //vostè ;;;hagué registrat;;nosaltres ;;;haguérem registrat;;vosaltres ;;;haguéreu registrat;;ells //elles //vostès ;;;hagueren registrat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver registrat;;tu ;;;vas haver registrat;;ell //ella //vostè ;;;va haver registrat;;nosaltres ;;;vam haver registrat;;vosaltres ;;;vau haver registrat;;ells //elles //vostès ;;;van haver registrat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré registrat;;tu ;;;hauràs registrat;;ell //ella //vostè ;;;haurà registrat;;nosaltres ;;;haurem registrat;;vosaltres ;;;haureu registrat;;ells //elles //vostès ;;;hauran registrat
+Condicional Perfet;condicional;;jo ;;;hauria registrat;;tu ;;;hauries registrat;;ell //ella //vostè ;;;hauria registrat;;nosaltres ;;;hauríem registrat;;vosaltres ;;;hauríeu registrat;;ells //elles //vostès ;;;haurien registrat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi registrat;;tu ;;;vagis registrat;;ell //ella //vostè ;;;vagi registrat;;nosaltres ;;;vàgim registrat;;vosaltres ;;;vàgiu registrat;;ells //elles //vostès ;;;vagin registrat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi registrat;;tu ;;;hagis registrat;;ell //ella //vostè ;;;hagi registrat;;nosaltres ;;;hàgim registrat;;vosaltres ;;;hàgiu registrat;;ells //elles //vostès ;;;hagin registrat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes registrat;;tu ;;;haguessis registrat;;ell //ella //vostè ;;;hagués registrat;;nosaltres ;;;haguéssim registrat;;vosaltres ;;;haguéssiu registrat;;ells //elles //vostès ;;;haguessin registrat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver registrat;;tu ;;;vagis haver registrat;;ell //ella //vostè ;;;vagi haver registrat;;nosaltres ;;;vàgim haver registrat;;vosaltres ;;;vàgiu haver registrat;;ells //elles //vostès ;;;vagin haver registrat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;registrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;registr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

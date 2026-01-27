@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;fer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;fent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;fet;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;faig;;tu ;;;fas;;ell //ella //vostè ;;;fa;;nosaltres ;;;fem;;vosaltres ;;;feu;;ells //elles //vostès ;;;fan
+Indicatiu Imperfet;indicativo;;jo ;;;feia;;tu ;;;feies;;ell //ella //vostè ;;;feia;;nosaltres ;;;fèiem;;vosaltres ;;;fèieu;;ells //elles //vostès ;;;feien
+Indicatiu Futur;indicativo;;jo ;;;faré;;tu ;;;faràs;;ell //ella //vostè ;;;farà;;nosaltres ;;;farem;;vosaltres ;;;fareu;;ells //elles //vostès ;;;faran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;fiu;;tu ;;;feres;;ell //ella //vostè ;;;feu;;nosaltres ;;;férem;;vosaltres ;;;féreu;;ells //elles //vostès ;;;feren
+Condicional;condicional;;jo ;;;faria;;tu ;;;faries;;ell //ella //vostè ;;;faria;;nosaltres ;;;faríem;;vosaltres ;;;faríeu;;ells //elles //vostès ;;;farien
+Subjuntiu Present;subjuntiu;;jo ;;;faci;;tu ;;;facis;;ell //ella //vostè ;;;faci;;nosaltres ;;;fem;;vosaltres ;;;feu;;ells //elles //vostès ;;;facin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;fes;;tu ;;;fessis;;ell //ella //vostè ;;;fes;;nosaltres ;;;féssim;;vosaltres ;;;féssiu;;ells //elles //vostès ;;;fessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;fes;;(vostè) ;;;faci;;(nosaltres) ;;;fem;;(vosaltres) ;;;feu;;(vostès) ;;;facin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;facis;;(vostè) ;no ;;faci;;(nosaltres) ;no ;;fem;;(vosaltres) ;no ;;feu;;(vostès) ;no ;;facin
+Indicatiu Perfet;indicatiu;;jo ;;;he fet;;tu ;;;has fet;;ell //ella //vostè ;;;ha fet;;nosaltres ;;;hem fet;;vosaltres ;;;heu fet;;ells //elles //vostès ;;;han fet
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig fet;;tu ;;;vas fet;;ell //ella //vostè ;;;va fet;;nosaltres ;;;vam fet;;vosaltres ;;;vau fet;;ells //elles //vostès ;;;van fet
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia fet;;tu ;;;havies fet;;ell //ella //vostè ;;;havia fet;;nosaltres ;;;havíem fet;;vosaltres ;;;havíeu fet;;ells //elles //vostès ;;;havien fet
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí fet;;tu ;;;hagueres fet;;ell //ella //vostè ;;;hagué fet;;nosaltres ;;;haguérem fet;;vosaltres ;;;haguéreu fet;;ells //elles //vostès ;;;hagueren fet
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver fet;;tu ;;;vas haver fet;;ell //ella //vostè ;;;va haver fet;;nosaltres ;;;vam haver fet;;vosaltres ;;;vau haver fet;;ells //elles //vostès ;;;van haver fet
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré fet;;tu ;;;hauràs fet;;ell //ella //vostè ;;;haurà fet;;nosaltres ;;;haurem fet;;vosaltres ;;;haureu fet;;ells //elles //vostès ;;;hauran fet
+Condicional Perfet;condicional;;jo ;;;hauria fet;;tu ;;;hauries fet;;ell //ella //vostè ;;;hauria fet;;nosaltres ;;;hauríem fet;;vosaltres ;;;hauríeu fet;;ells //elles //vostès ;;;haurien fet
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi fet;;tu ;;;vagis fet;;ell //ella //vostè ;;;vagi fet;;nosaltres ;;;vàgim fet;;vosaltres ;;;vàgiu fet;;ells //elles //vostès ;;;vagin fet
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi fet;;tu ;;;hagis fet;;ell //ella //vostè ;;;hagi fet;;nosaltres ;;;hàgim fet;;vosaltres ;;;hàgiu fet;;ells //elles //vostès ;;;hagin fet
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes fet;;tu ;;;haguessis fet;;ell //ella //vostè ;;;hagués fet;;nosaltres ;;;haguéssim fet;;vosaltres ;;;haguéssiu fet;;ells //elles //vostès ;;;haguessin fet
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver fet;;tu ;;;vagis haver fet;;ell //ella //vostè ;;;vagi haver fet;;nosaltres ;;;vàgim haver fet;;vosaltres ;;;vàgiu haver fet;;ells //elles //vostès ;;;vagin haver fet
+verb-group;2nd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;fer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;f;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

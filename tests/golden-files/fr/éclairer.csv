@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;éclairerais;;tu ;;;éclairerais;;il/elle/on ;
 Conditionnel Passé;conditionnel;;j’;;;aurais éclairé;;tu ;;;aurais éclairé;;il/elle/on ;;;aurait éclairé;;nous ;;;aurions éclairé;;vous ;;;auriez éclairé;;ils/elles ;;;auraient éclairé
 Impératif Présent;impératif;;;;;;;(tu) ;;;éclaire;;;;;;;(nous) ;;;éclairons;;(vous) ;;;éclairez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie éclairé;;;;;;;(nous) ;;;ayons éclairé;;(vous) ;;;ayez éclairé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;éclaire pas;;;;;;;(nous) ;n';;éclairons pas;;(vous) ;n';;éclairez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;éclaire pas ;;;;;;;(nous) ;n';;éclairons pas ;;(vous) ;n';;éclairez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas éclairé;;;;;;;(nous) ;n';;ayons pas éclairé;;(vous) ;n';;ayez pas éclairé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;éclairer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

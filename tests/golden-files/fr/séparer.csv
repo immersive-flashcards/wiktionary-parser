@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;séparerais;;tu ;;;séparerais;;il/elle/on ;;;s
 Conditionnel Passé;conditionnel;;j’;;;aurais séparé;;tu ;;;aurais séparé;;il/elle/on ;;;aurait séparé;;nous ;;;aurions séparé;;vous ;;;auriez séparé;;ils/elles ;;;auraient séparé
 Impératif Présent;impératif;;;;;;;(tu) ;;;sépare;;;;;;;(nous) ;;;séparons;;(vous) ;;;séparez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie séparé;;;;;;;(nous) ;;;ayons séparé;;(vous) ;;;ayez séparé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sépare pas;;;;;;;(nous) ;ne ;;séparons pas;;(vous) ;ne ;;séparez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sépare pas ;;;;;;;(nous) ;ne ;;séparons pas ;;(vous) ;ne ;;séparez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas séparé;;;;;;;(nous) ;n';;ayons pas séparé;;(vous) ;n';;ayez pas séparé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;séparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

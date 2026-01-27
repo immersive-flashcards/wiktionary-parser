@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;endormirais;;tu ;;;endormirais;;il/elle/on ;;;
 Conditionnel Passé;conditionnel;;j’;;;aurais endormi;;tu ;;;aurais endormi;;il/elle/on ;;;aurait endormi;;nous ;;;aurions endormi;;vous ;;;auriez endormi;;ils/elles ;;;auraient endormi
 Impératif Présent;impératif;;;;;;;(tu) ;;;endors;;;;;;;(nous) ;;;endormons;;(vous) ;;;endormez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie endormi;;;;;;;(nous) ;;;ayons endormi;;(vous) ;;;ayez endormi;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;endors pas;;;;;;;(nous) ;n';;endormons pas;;(vous) ;n';;endormez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;endors pas ;;;;;;;(nous) ;n';;endormons pas ;;(vous) ;n';;endormez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas endormi;;;;;;;(nous) ;n';;ayons pas endormi;;(vous) ;n';;ayez pas endormi;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;endormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

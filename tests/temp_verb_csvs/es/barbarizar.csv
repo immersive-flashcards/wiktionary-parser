@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;barbarizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;barbarizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;barbarizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;barbarizo;;tú ;;;barbarizas;;él //ella //usted ;;;barbariza;;nosotros //nosotras ;;;barbarizamos;;vosotros //vosotras ;;;barbarizáis;;ellos //ellas //ustedes ;;;barbarizan;;vos ;;;barbarizás
+Indicativo Imperfecto;indicativo;;yo ;;;barbarizaba;;tú //vos ;;;barbarizabas;;él //ella //usted ;;;barbarizaba;;nosotros //nosotras ;;;barbarizábamos;;vosotros //vosotras ;;;barbarizabais;;ellos //ellas //ustedes ;;;barbarizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;barbaricé;;tú //vos ;;;barbarizaste;;él //ella //usted ;;;barbarizó;;nosotros //nosotras ;;;barbarizamos;;vosotros //vosotras ;;;barbarizasteis;;ellos //ellas //ustedes ;;;barbarizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;barbarizaré;;tú //vos ;;;barbarizarás;;él //ella //usted ;;;barbarizará;;nosotros //nosotras ;;;barbarizaremos;;vosotros //vosotras ;;;barbarizaréis;;ellos //ellas //ustedes ;;;barbarizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he barbarizado;;tú //vos ;;;has barbarizado;;él //ella //usted ;;;ha barbarizado;;nosotros //nosotras ;;;hemos barbarizado;;vosotros //vosotras ;;;habéis barbarizado;;ellos //ellas //ustedes ;;;han barbarizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había barbarizado;;tú //vos ;;;habías barbarizado;;él //ella //usted ;;;había barbarizado;;nosotros //nosotras ;;;habíamos barbarizado;;vosotros //vosotras ;;;habíais barbarizado;;ellos //ellas //ustedes ;;;habían barbarizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube barbarizado;;tú //vos ;;;hubiste barbarizado;;él //ella //usted ;;;hubo barbarizado;;nosotros //nosotras ;;;hubimos barbarizado;;vosotros //vosotras ;;;hubisteis barbarizado;;ellos //ellas //ustedes ;;;hubieron barbarizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré barbarizado;;tú //vos ;;;habrás barbarizado;;él //ella //usted ;;;habrá barbarizado;;nosotros //nosotras ;;;habremos barbarizado;;vosotros //vosotras ;;;habréis barbarizado;;ellos //ellas //ustedes ;;;habrán barbarizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;barbarice;;tú //vos ;;;barbarices;;él //ella //usted ;;;barbarice;;nosotros //nosotras ;;;barbaricemos;;vosotros //vosotras ;;;barbaricéis;;ellos //ellas //ustedes ;;;barbaricen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;barbarizara / barbarizase;;tú //vos ;;;barbarizaras / barbarizases;;él //ella //usted ;;;barbarizara / barbarizase;;nosotros //nosotras ;;;barbarizáramos / barbarizásemos;;vosotros //vosotras ;;;barbarizarais / barbarizaseis;;ellos //ellas //ustedes ;;;barbarizaran / barbarizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;barbarizare;;tú //vos ;;;barbarizares;;él //ella //usted ;;;barbarizare;;nosotros //nosotras ;;;barbarizáremos;;vosotros //vosotras ;;;barbarizareis;;ellos //ellas //ustedes ;;;barbarizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya barbarizado;;tú //vos ;;;hayas barbarizado;;él //ella //usted ;;;haya barbarizado;;nosotros //nosotras ;;;hayamos barbarizado;;vosotros //vosotras ;;;hayáis barbarizado;;ellos //ellas //ustedes ;;;hayan barbarizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera barbarizado / hubiese barbarizado;;tú //vos ;;;hubieras barbarizado / hubieses barbarizado;;él //ella //usted ;;;hubiera barbarizado / hubiese barbarizado;;nosotros //nosotras ;;;hubiéramos barbarizado / hubiésemos barbarizado;;vosotros //vosotras ;;;hubierais barbarizado / hubieseis barbarizado;;ellos //ellas //ustedes ;;;hubieran barbarizado / hubiesen barbarizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere barbarizado;;tú //vos ;;;hubieres barbarizado;;él //ella //usted ;;;hubiere barbarizado;;nosotros //nosotras ;;;hubiéremos barbarizado;;vosotros //vosotras ;;;hubiereis barbarizado;;ellos //ellas //ustedes ;;;hubieren barbarizado;;;;;
+Condicional;condicional;;yo ;;;barbarizaría;;tú //vos ;;;barbarizarías;;él //ella //usted ;;;barbarizaría;;nosotros //nosotras ;;;barbarizaríamos;;vosotros //vosotras ;;;barbarizaríais;;ellos //ellas //ustedes ;;;barbarizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría barbarizado;;tú //vos ;;;habrías barbarizado;;él //ella //usted ;;;habría barbarizado;;nosotros //nosotras ;;;habríamos barbarizado;;vosotros //vosotras ;;;habríais barbarizado;;ellos //ellas //ustedes ;;;habrían barbarizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;barbariza;;(usted) ;;;barbarice;;(nosotros) //(nosotras) ;;;barbaricemos;;(vosotros) //(vosotras) ;;;barbarizad;;(ustedes) ;;;barbaricen;;(vos) ;;;barbarizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;barbarices;;(usted) ;no ;;barbarice;;(nosotros) //(nosotras) ;no ;;barbaricemos;;(vosotros) //(vosotras) ;no ;;barbaricéis;;(ustedes) ;no ;;barbaricen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;barbarizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;barbariz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

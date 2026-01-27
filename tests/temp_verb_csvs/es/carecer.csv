@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;carecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;careciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;carecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;carezco;;tú ;;;careces;;él //ella //usted ;;;carece;;nosotros //nosotras ;;;carecemos;;vosotros //vosotras ;;;carecéis;;ellos //ellas //ustedes ;;;carecen;;vos ;;;carecés
+Indicativo Imperfecto;indicativo;;yo ;;;carecía;;tú //vos ;;;carecías;;él //ella //usted ;;;carecía;;nosotros //nosotras ;;;carecíamos;;vosotros //vosotras ;;;carecíais;;ellos //ellas //ustedes ;;;carecían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;carecí;;tú //vos ;;;careciste;;él //ella //usted ;;;careció;;nosotros //nosotras ;;;carecimos;;vosotros //vosotras ;;;carecisteis;;ellos //ellas //ustedes ;;;carecieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;careceré;;tú //vos ;;;carecerás;;él //ella //usted ;;;carecerá;;nosotros //nosotras ;;;careceremos;;vosotros //vosotras ;;;careceréis;;ellos //ellas //ustedes ;;;carecerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he carecido;;tú //vos ;;;has carecido;;él //ella //usted ;;;ha carecido;;nosotros //nosotras ;;;hemos carecido;;vosotros //vosotras ;;;habéis carecido;;ellos //ellas //ustedes ;;;han carecido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había carecido;;tú //vos ;;;habías carecido;;él //ella //usted ;;;había carecido;;nosotros //nosotras ;;;habíamos carecido;;vosotros //vosotras ;;;habíais carecido;;ellos //ellas //ustedes ;;;habían carecido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube carecido;;tú //vos ;;;hubiste carecido;;él //ella //usted ;;;hubo carecido;;nosotros //nosotras ;;;hubimos carecido;;vosotros //vosotras ;;;hubisteis carecido;;ellos //ellas //ustedes ;;;hubieron carecido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré carecido;;tú //vos ;;;habrás carecido;;él //ella //usted ;;;habrá carecido;;nosotros //nosotras ;;;habremos carecido;;vosotros //vosotras ;;;habréis carecido;;ellos //ellas //ustedes ;;;habrán carecido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;carezca;;tú //vos ;;;carezcas;;él //ella //usted ;;;carezca;;nosotros //nosotras ;;;carezcamos;;vosotros //vosotras ;;;carezcáis;;ellos //ellas //ustedes ;;;carezcan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;careciera / careciese;;tú //vos ;;;carecieras / carecieses;;él //ella //usted ;;;careciera / careciese;;nosotros //nosotras ;;;careciéramos / careciésemos;;vosotros //vosotras ;;;carecierais / carecieseis;;ellos //ellas //ustedes ;;;carecieran / careciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;careciere;;tú //vos ;;;carecieres;;él //ella //usted ;;;careciere;;nosotros //nosotras ;;;careciéremos;;vosotros //vosotras ;;;careciereis;;ellos //ellas //ustedes ;;;carecieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya carecido;;tú //vos ;;;hayas carecido;;él //ella //usted ;;;haya carecido;;nosotros //nosotras ;;;hayamos carecido;;vosotros //vosotras ;;;hayáis carecido;;ellos //ellas //ustedes ;;;hayan carecido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera carecido / hubiese carecido;;tú //vos ;;;hubieras carecido / hubieses carecido;;él //ella //usted ;;;hubiera carecido / hubiese carecido;;nosotros //nosotras ;;;hubiéramos carecido / hubiésemos carecido;;vosotros //vosotras ;;;hubierais carecido / hubieseis carecido;;ellos //ellas //ustedes ;;;hubieran carecido / hubiesen carecido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere carecido;;tú //vos ;;;hubieres carecido;;él //ella //usted ;;;hubiere carecido;;nosotros //nosotras ;;;hubiéremos carecido;;vosotros //vosotras ;;;hubiereis carecido;;ellos //ellas //ustedes ;;;hubieren carecido;;;;;
+Condicional;condicional;;yo ;;;carecería;;tú //vos ;;;carecerías;;él //ella //usted ;;;carecería;;nosotros //nosotras ;;;careceríamos;;vosotros //vosotras ;;;careceríais;;ellos //ellas //ustedes ;;;carecerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría carecido;;tú //vos ;;;habrías carecido;;él //ella //usted ;;;habría carecido;;nosotros //nosotras ;;;habríamos carecido;;vosotros //vosotras ;;;habríais carecido;;ellos //ellas //ustedes ;;;habrían carecido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;carece;;(usted) ;;;carezca;;(nosotros) //(nosotras) ;;;carezcamos;;(vosotros) //(vosotras) ;;;careced;;(ustedes) ;;;carezcan;;(vos) ;;;carecé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;carezcas;;(usted) ;no ;;carezca;;(nosotros) //(nosotras) ;no ;;carezcamos;;(vosotros) //(vosotras) ;no ;;carezcáis;;(ustedes) ;no ;;carezcan;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;carecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;carec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;pellerais;;tu ;;;pellerais;;il/elle/on ;;;pelle
 Conditionnel Passé;conditionnel;;j’;;;aurais pellé;;tu ;;;aurais pellé;;il/elle/on ;;;aurait pellé;;nous ;;;aurions pellé;;vous ;;;auriez pellé;;ils/elles ;;;auraient pellé
 Impératif Présent;impératif;;;;;;;(tu) ;;;pelle;;;;;;;(nous) ;;;pellons;;(vous) ;;;pellez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie pellé;;;;;;;(nous) ;;;ayons pellé;;(vous) ;;;ayez pellé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pelle pas;;;;;;;(nous) ;ne ;;pellons pas;;(vous) ;ne ;;pellez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pelle pas ;;;;;;;(nous) ;ne ;;pellons pas ;;(vous) ;ne ;;pellez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas pellé;;;;;;;(nous) ;n';;ayons pas pellé;;(vous) ;n';;ayez pas pellé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;peller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

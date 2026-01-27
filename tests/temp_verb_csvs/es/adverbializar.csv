@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;adverbializar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;adverbializando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;adverbializado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;adverbializo;;tú ;;;adverbializas;;él //ella //usted ;;;adverbializa;;nosotros //nosotras ;;;adverbializamos;;vosotros //vosotras ;;;adverbializáis;;ellos //ellas //ustedes ;;;adverbializan;;vos ;;;adverbializás
+Indicativo Imperfecto;indicativo;;yo ;;;adverbializaba;;tú //vos ;;;adverbializabas;;él //ella //usted ;;;adverbializaba;;nosotros //nosotras ;;;adverbializábamos;;vosotros //vosotras ;;;adverbializabais;;ellos //ellas //ustedes ;;;adverbializaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;adverbialicé;;tú //vos ;;;adverbializaste;;él //ella //usted ;;;adverbializó;;nosotros //nosotras ;;;adverbializamos;;vosotros //vosotras ;;;adverbializasteis;;ellos //ellas //ustedes ;;;adverbializaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;adverbializaré;;tú //vos ;;;adverbializarás;;él //ella //usted ;;;adverbializará;;nosotros //nosotras ;;;adverbializaremos;;vosotros //vosotras ;;;adverbializaréis;;ellos //ellas //ustedes ;;;adverbializarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he adverbializado;;tú //vos ;;;has adverbializado;;él //ella //usted ;;;ha adverbializado;;nosotros //nosotras ;;;hemos adverbializado;;vosotros //vosotras ;;;habéis adverbializado;;ellos //ellas //ustedes ;;;han adverbializado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había adverbializado;;tú //vos ;;;habías adverbializado;;él //ella //usted ;;;había adverbializado;;nosotros //nosotras ;;;habíamos adverbializado;;vosotros //vosotras ;;;habíais adverbializado;;ellos //ellas //ustedes ;;;habían adverbializado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube adverbializado;;tú //vos ;;;hubiste adverbializado;;él //ella //usted ;;;hubo adverbializado;;nosotros //nosotras ;;;hubimos adverbializado;;vosotros //vosotras ;;;hubisteis adverbializado;;ellos //ellas //ustedes ;;;hubieron adverbializado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré adverbializado;;tú //vos ;;;habrás adverbializado;;él //ella //usted ;;;habrá adverbializado;;nosotros //nosotras ;;;habremos adverbializado;;vosotros //vosotras ;;;habréis adverbializado;;ellos //ellas //ustedes ;;;habrán adverbializado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;adverbialice;;tú //vos ;;;adverbialices;;él //ella //usted ;;;adverbialice;;nosotros //nosotras ;;;adverbialicemos;;vosotros //vosotras ;;;adverbialicéis;;ellos //ellas //ustedes ;;;adverbialicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;adverbializara / adverbializase;;tú //vos ;;;adverbializaras / adverbializases;;él //ella //usted ;;;adverbializara / adverbializase;;nosotros //nosotras ;;;adverbializáramos / adverbializásemos;;vosotros //vosotras ;;;adverbializarais / adverbializaseis;;ellos //ellas //ustedes ;;;adverbializaran / adverbializasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;adverbializare;;tú //vos ;;;adverbializares;;él //ella //usted ;;;adverbializare;;nosotros //nosotras ;;;adverbializáremos;;vosotros //vosotras ;;;adverbializareis;;ellos //ellas //ustedes ;;;adverbializaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya adverbializado;;tú //vos ;;;hayas adverbializado;;él //ella //usted ;;;haya adverbializado;;nosotros //nosotras ;;;hayamos adverbializado;;vosotros //vosotras ;;;hayáis adverbializado;;ellos //ellas //ustedes ;;;hayan adverbializado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera adverbializado / hubiese adverbializado;;tú //vos ;;;hubieras adverbializado / hubieses adverbializado;;él //ella //usted ;;;hubiera adverbializado / hubiese adverbializado;;nosotros //nosotras ;;;hubiéramos adverbializado / hubiésemos adverbializado;;vosotros //vosotras ;;;hubierais adverbializado / hubieseis adverbializado;;ellos //ellas //ustedes ;;;hubieran adverbializado / hubiesen adverbializado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere adverbializado;;tú //vos ;;;hubieres adverbializado;;él //ella //usted ;;;hubiere adverbializado;;nosotros //nosotras ;;;hubiéremos adverbializado;;vosotros //vosotras ;;;hubiereis adverbializado;;ellos //ellas //ustedes ;;;hubieren adverbializado;;;;;
+Condicional;condicional;;yo ;;;adverbializaría;;tú //vos ;;;adverbializarías;;él //ella //usted ;;;adverbializaría;;nosotros //nosotras ;;;adverbializaríamos;;vosotros //vosotras ;;;adverbializaríais;;ellos //ellas //ustedes ;;;adverbializarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría adverbializado;;tú //vos ;;;habrías adverbializado;;él //ella //usted ;;;habría adverbializado;;nosotros //nosotras ;;;habríamos adverbializado;;vosotros //vosotras ;;;habríais adverbializado;;ellos //ellas //ustedes ;;;habrían adverbializado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adverbializa;;(usted) ;;;adverbialice;;(nosotros) //(nosotras) ;;;adverbialicemos;;(vosotros) //(vosotras) ;;;adverbializad;;(ustedes) ;;;adverbialicen;;(vos) ;;;adverbializá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adverbialices;;(usted) ;no ;;adverbialice;;(nosotros) //(nosotras) ;no ;;adverbialicemos;;(vosotros) //(vosotras) ;no ;;adverbialicéis;;(ustedes) ;no ;;adverbialicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;adverbializar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;adverbializ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

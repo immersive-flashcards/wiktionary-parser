@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;cesserais;;tu ;;;cesserais;;il/elle/on ;;;cesse
 Conditionnel Passé;conditionnel;;j’;;;aurais cessé;;tu ;;;aurais cessé;;il/elle/on ;;;aurait cessé;;nous ;;;aurions cessé;;vous ;;;auriez cessé;;ils/elles ;;;auraient cessé
 Impératif Présent;impératif;;;;;;;(tu) ;;;cesse;;;;;;;(nous) ;;;cessons;;(vous) ;;;cessez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie cessé;;;;;;;(nous) ;;;ayons cessé;;(vous) ;;;ayez cessé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;cesse pas;;;;;;;(nous) ;ne ;;cessons pas;;(vous) ;ne ;;cessez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;cesse pas ;;;;;;;(nous) ;ne ;;cessons pas ;;(vous) ;ne ;;cessez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas cessé;;;;;;;(nous) ;n';;ayons pas cessé;;(vous) ;n';;ayez pas cessé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;cesser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

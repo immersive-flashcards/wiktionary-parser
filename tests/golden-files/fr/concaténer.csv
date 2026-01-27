@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;concaténerais / concatènerais;;tu ;;;concaté
 Conditionnel Passé;conditionnel;;j’;;;aurais concaténé;;tu ;;;aurais concaténé;;il/elle/on ;;;aurait concaténé;;nous ;;;aurions concaténé;;vous ;;;auriez concaténé;;ils/elles ;;;auraient concaténé
 Impératif Présent;impératif;;;;;;;(tu) ;;;concatène;;;;;;;(nous) ;;;concaténons;;(vous) ;;;concaténez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie concaténé;;;;;;;(nous) ;;;ayons concaténé;;(vous) ;;;ayez concaténé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;concatène pas;;;;;;;(nous) ;ne ;;concaténons pas;;(vous) ;ne ;;concaténez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;concatène pas ;;;;;;;(nous) ;ne ;;concaténons pas ;;(vous) ;ne ;;concaténez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas concaténé;;;;;;;(nous) ;n';;ayons pas concaténé;;(vous) ;n';;ayez pas concaténé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;concaténer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

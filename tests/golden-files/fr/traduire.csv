@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;je ;;;traduirais;;tu ;;;traduirais;;il/elle/on ;;;tra
 Conditionnel Passé;conditionnel;;j’;;;aurais traduit;;tu ;;;aurais traduit;;il/elle/on ;;;aurait traduit;;nous ;;;aurions traduit;;vous ;;;auriez traduit;;ils/elles ;;;auraient traduit
 Impératif Présent;impératif;;;;;;;(tu) ;;;traduis;;;;;;;(nous) ;;;traduisons;;(vous) ;;;traduisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie traduit;;;;;;;(nous) ;;;ayons traduit;;(vous) ;;;ayez traduit;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;traduis pas;;;;;;;(nous) ;ne ;;traduisons pas;;(vous) ;ne ;;traduisez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;traduis pas ;;;;;;;(nous) ;ne ;;traduisons pas ;;(vous) ;ne ;;traduisez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas traduit;;;;;;;(nous) ;n';;ayons pas traduit;;(vous) ;n';;ayez pas traduit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;traduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

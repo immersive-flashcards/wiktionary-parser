@@ -21,7 +21,8 @@ Conditionnel;conditionnel;;j’;;;agrégerais / agrègerais;;tu ;;;agrégerais /
 Conditionnel Passé;conditionnel;;j’;;;aurais agrégé;;tu ;;;aurais agrégé;;il/elle/on ;;;aurait agrégé;;nous ;;;aurions agrégé;;vous ;;;auriez agrégé;;ils/elles ;;;auraient agrégé
 Impératif Présent;impératif;;;;;;;(tu) ;;;agrège;;;;;;;(nous) ;;;agrégeons;;(vous) ;;;agrégez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie agrégé;;;;;;;(nous) ;;;ayons agrégé;;(vous) ;;;ayez agrégé;;;;;
-Impératif Négatif;impératif;;;;;;;(tu) ;n';;agrège pas;;;;;;;(nous) ;n';;agrégeons pas;;(vous) ;n';;agrégez pas;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;n';;agrège pas ;;;;;;;(nous) ;n';;agrégeons pas ;;(vous) ;n';;agrégez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas agrégé;;;;;;;(nous) ;n';;ayons pas agrégé;;(vous) ;n';;ayez pas agrégé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;agréger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

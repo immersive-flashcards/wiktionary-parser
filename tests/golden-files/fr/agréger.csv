@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;agréger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir agrégé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en agrégeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant agrégé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;agrégeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;agrégé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;agrège;;tu ;;;agrèges;;il/elle/on ;;;agrège;;nous ;;;agrégeons;;vous ;;;agrégez;;ils/elles ;;;agrègent
+Indicatif Passé Composé;indicatif;;j’;;;ai agrégé;;tu ;;;as agrégé;;il/elle/on ;;;a agrégé;;nous ;;;avons agrégé;;vous ;;;avez agrégé;;ils/elles ;;;ont agrégé
+Indicatif Imparfait;indicatif;;j’;;;agrégeais;;tu ;;;agrégeais;;il/elle/on ;;;agrégeait;;nous ;;;agrégions;;vous ;;;agrégiez;;ils/elles ;;;agrégeaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais agrégé;;tu ;;;avais agrégé;;il/elle/on ;;;avait agrégé;;nous ;;;avions agrégé;;vous ;;;aviez agrégé;;ils/elles ;;;avaient agrégé
+Indicatif Passé Simple;indicatif;;j’;;;agrégeai;;tu ;;;agrégeas;;il/elle/on ;;;agrégea;;nous ;;;agrégeâmes;;vous ;;;agrégeâtes;;ils/elles ;;;agrégèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus agrégé;;tu ;;;eus agrégé;;il/elle/on ;;;eut agrégé;;nous ;;;eûmes agrégé;;vous ;;;eûtes agrégé;;ils/elles ;;;eurent agrégé
+Indicatif Futur Simple;indicatif;;j’;;;agrégerai / agrègerai;;tu ;;;agrégeras / agrègeras;;il/elle/on ;;;agrégera / agrègera;;nous ;;;agrégerons / agrègerons;;vous ;;;agrégerez / agrègerez;;ils/elles ;;;agrégeront / agrègeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai agrégé;;tu ;;;auras agrégé;;il/elle/on ;;;aura agrégé;;nous ;;;aurons agrégé;;vous ;;;aurez agrégé;;ils/elles ;;;auront agrégé
+Subjonctif Présent;subjonctif;que ;j’;;;agrège;que ;tu ;;;agrèges;qu’;il/elle/on ;;;agrège;que ;nous ;;;agrégions;que ;vous ;;;agrégiez;qu’;ils/elles ;;;agrègent
+Subjonctif Passé;subjonctif;que ;j’;;;aie agrégé;que ;tu ;;;aies agrégé;qu’;il/elle/on ;;;ait agrégé;que ;nous ;;;ayons agrégé;que ;vous ;;;ayez agrégé;qu’;ils/elles ;;;aient agrégé
+Subjonctif Imparfait;subjonctif;que ;j’;;;agrégeasse;que ;tu ;;;agrégeasses;qu’;il/elle/on ;;;agrégeât;que ;nous ;;;agrégeassions;que ;vous ;;;agrégeassiez;qu’;ils/elles ;;;agrégeassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse agrégé;que ;tu ;;;eusses agrégé;qu’;il/elle/on ;;;eût agrégé;que ;nous ;;;eussions agrégé;que ;vous ;;;eussiez agrégé;qu’;ils/elles ;;;eussent agrégé
+Conditionnel;conditionnel;;j’;;;agrégerais / agrègerais;;tu ;;;agrégerais / agrègerais;;il/elle/on ;;;agrégerait / agrègerait;;nous ;;;agrégerions / agrègerions;;vous ;;;agrégeriez / agrègeriez;;ils/elles ;;;agrégeraient / agrègeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais agrégé;;tu ;;;aurais agrégé;;il/elle/on ;;;aurait agrégé;;nous ;;;aurions agrégé;;vous ;;;auriez agrégé;;ils/elles ;;;auraient agrégé
+Impératif Présent;impératif;;;;;;;;;;agrège;;;;;;;;;;agrégeons;;;;;agrégez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;agréger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;agrég;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

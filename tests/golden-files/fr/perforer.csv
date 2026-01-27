@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;perforer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir perforé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en perforant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant perforé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;perforant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;perforé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;perfore;;tu ;;;perfores;;il/elle/on ;;;perfore;;nous ;;;perforons;;vous ;;;perforez;;ils/elles ;;;perforent
+Indicatif Passé Composé;indicatif;;j’;;;ai perforé;;tu ;;;as perforé;;il/elle/on ;;;a perforé;;nous ;;;avons perforé;;vous ;;;avez perforé;;ils/elles ;;;ont perforé
+Indicatif Imparfait;indicatif;;je ;;;perforais;;tu ;;;perforais;;il/elle/on ;;;perforait;;nous ;;;perforions;;vous ;;;perforiez;;ils/elles ;;;perforaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais perforé;;tu ;;;avais perforé;;il/elle/on ;;;avait perforé;;nous ;;;avions perforé;;vous ;;;aviez perforé;;ils/elles ;;;avaient perforé
+Indicatif Passé Simple;indicatif;;je ;;;perforai;;tu ;;;perforas;;il/elle/on ;;;perfora;;nous ;;;perforâmes;;vous ;;;perforâtes;;ils/elles ;;;perforèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus perforé;;tu ;;;eus perforé;;il/elle/on ;;;eut perforé;;nous ;;;eûmes perforé;;vous ;;;eûtes perforé;;ils/elles ;;;eurent perforé
+Indicatif Futur Simple;indicatif;;je ;;;perforerai;;tu ;;;perforeras;;il/elle/on ;;;perforera;;nous ;;;perforerons;;vous ;;;perforerez;;ils/elles ;;;perforeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai perforé;;tu ;;;auras perforé;;il/elle/on ;;;aura perforé;;nous ;;;aurons perforé;;vous ;;;aurez perforé;;ils/elles ;;;auront perforé
+Subjonctif Présent;subjonctif;que ;je ;;;perfore;que ;tu ;;;perfores;qu’;il/elle/on ;;;perfore;que ;nous ;;;perforions;que ;vous ;;;perforiez;qu’;ils/elles ;;;perforent
+Subjonctif Passé;subjonctif;que ;j’;;;aie perforé;que ;tu ;;;aies perforé;qu’;il/elle/on ;;;ait perforé;que ;nous ;;;ayons perforé;que ;vous ;;;ayez perforé;qu’;ils/elles ;;;aient perforé
+Subjonctif Imparfait;subjonctif;que ;je ;;;perforasse;que ;tu ;;;perforasses;qu’;il/elle/on ;;;perforât;que ;nous ;;;perforassions;que ;vous ;;;perforassiez;qu’;ils/elles ;;;perforassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse perforé;que ;tu ;;;eusses perforé;qu’;il/elle/on ;;;eût perforé;que ;nous ;;;eussions perforé;que ;vous ;;;eussiez perforé;qu’;ils/elles ;;;eussent perforé
+Conditionnel;conditionnel;;je ;;;perforerais;;tu ;;;perforerais;;il/elle/on ;;;perforerait;;nous ;;;perforerions;;vous ;;;perforeriez;;ils/elles ;;;perforeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais perforé;;tu ;;;aurais perforé;;il/elle/on ;;;aurait perforé;;nous ;;;aurions perforé;;vous ;;;auriez perforé;;ils/elles ;;;auraient perforé
+Impératif Présent;impératif;;;;;;;;;;perfore;;;;;;;;;;perforons;;;;;perforez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;perforer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;perfor;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

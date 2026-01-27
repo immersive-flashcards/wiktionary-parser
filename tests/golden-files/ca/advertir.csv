@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;advertir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;advertint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;advertit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;adverteixo;;tu ;;;adverteixes;;ell //ella //vostè ;;;adverteix;;nosaltres ;;;advertim;;vosaltres ;;;advertiu;;ells //elles //vostès ;;;adverteixen
+Indicatiu Imperfet;indicativo;;jo ;;;advertia;;tu ;;;adverties;;ell //ella //vostè ;;;advertia;;nosaltres ;;;advertíem;;vosaltres ;;;advertíeu;;ells //elles //vostès ;;;advertien
+Indicatiu Futur;indicativo;;jo ;;;advertiré;;tu ;;;advertiràs;;ell //ella //vostè ;;;advertirà;;nosaltres ;;;advertirem;;vosaltres ;;;advertireu;;ells //elles //vostès ;;;advertiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;advertí;;tu ;;;advertires;;ell //ella //vostè ;;;advertí;;nosaltres ;;;advertírem;;vosaltres ;;;advertíreu;;ells //elles //vostès ;;;advertiren
+Condicional;condicional;;jo ;;;advertiria;;tu ;;;advertiries;;ell //ella //vostè ;;;advertiria;;nosaltres ;;;advertiríem;;vosaltres ;;;advertiríeu;;ells //elles //vostès ;;;advertirien
+Subjuntiu Present;subjuntiu;;jo ;;;adverteixi;;tu ;;;adverteixis;;ell //ella //vostè ;;;adverteixi;;nosaltres ;;;advertim;;vosaltres ;;;advertiu;;ells //elles //vostès ;;;adverteixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;advertís;;tu ;;;advertissis;;ell //ella //vostè ;;;advertís;;nosaltres ;;;advertíssim;;vosaltres ;;;advertíssiu;;ells //elles //vostès ;;;advertissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;adverteix;;(vostè) ;;;adverteixi;;(nosaltres) ;;;advertim;;(vosaltres) ;;;advertiu;;(vostès) ;;;adverteixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;adverteixis;;(vostè) ;no ;;adverteixi;;(nosaltres) ;no ;;advertim;;(vosaltres) ;no ;;advertiu;;(vostès) ;no ;;adverteixin
+Indicatiu Perfet;indicatiu;;jo ;;;he advertit;;tu ;;;has advertit;;ell //ella //vostè ;;;ha advertit;;nosaltres ;;;hem advertit;;vosaltres ;;;heu advertit;;ells //elles //vostès ;;;han advertit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig advertit;;tu ;;;vas advertit;;ell //ella //vostè ;;;va advertit;;nosaltres ;;;vam advertit;;vosaltres ;;;vau advertit;;ells //elles //vostès ;;;van advertit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia advertit;;tu ;;;havies advertit;;ell //ella //vostè ;;;havia advertit;;nosaltres ;;;havíem advertit;;vosaltres ;;;havíeu advertit;;ells //elles //vostès ;;;havien advertit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí advertit;;tu ;;;hagueres advertit;;ell //ella //vostè ;;;hagué advertit;;nosaltres ;;;haguérem advertit;;vosaltres ;;;haguéreu advertit;;ells //elles //vostès ;;;hagueren advertit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver advertit;;tu ;;;vas haver advertit;;ell //ella //vostè ;;;va haver advertit;;nosaltres ;;;vam haver advertit;;vosaltres ;;;vau haver advertit;;ells //elles //vostès ;;;van haver advertit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré advertit;;tu ;;;hauràs advertit;;ell //ella //vostè ;;;haurà advertit;;nosaltres ;;;haurem advertit;;vosaltres ;;;haureu advertit;;ells //elles //vostès ;;;hauran advertit
+Condicional Perfet;condicional;;jo ;;;hauria advertit;;tu ;;;hauries advertit;;ell //ella //vostè ;;;hauria advertit;;nosaltres ;;;hauríem advertit;;vosaltres ;;;hauríeu advertit;;ells //elles //vostès ;;;haurien advertit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi advertit;;tu ;;;vagis advertit;;ell //ella //vostè ;;;vagi advertit;;nosaltres ;;;vàgim advertit;;vosaltres ;;;vàgiu advertit;;ells //elles //vostès ;;;vagin advertit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi advertit;;tu ;;;hagis advertit;;ell //ella //vostè ;;;hagi advertit;;nosaltres ;;;hàgim advertit;;vosaltres ;;;hàgiu advertit;;ells //elles //vostès ;;;hagin advertit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes advertit;;tu ;;;haguessis advertit;;ell //ella //vostè ;;;hagués advertit;;nosaltres ;;;haguéssim advertit;;vosaltres ;;;haguéssiu advertit;;ells //elles //vostès ;;;haguessin advertit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver advertit;;tu ;;;vagis haver advertit;;ell //ella //vostè ;;;vagi haver advertit;;nosaltres ;;;vàgim haver advertit;;vosaltres ;;;vàgiu haver advertit;;ells //elles //vostès ;;;vagin haver advertit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;advertir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;advert;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

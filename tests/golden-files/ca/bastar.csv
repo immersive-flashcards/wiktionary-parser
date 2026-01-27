@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;bastar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;bastant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;bastat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;basto;;tu ;;;bastes;;ell //ella //vostè ;;;basta;;nosaltres ;;;bastem;;vosaltres ;;;basteu;;ells //elles //vostès ;;;basten
+Indicatiu Imperfet;indicativo;;jo ;;;bastava;;tu ;;;bastaves;;ell //ella //vostè ;;;bastava;;nosaltres ;;;bastàvem;;vosaltres ;;;bastàveu;;ells //elles //vostès ;;;bastaven
+Indicatiu Futur;indicativo;;jo ;;;bastaré;;tu ;;;bastaràs;;ell //ella //vostè ;;;bastarà;;nosaltres ;;;bastarem;;vosaltres ;;;bastareu;;ells //elles //vostès ;;;bastaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;bastí;;tu ;;;bastares;;ell //ella //vostè ;;;bastà;;nosaltres ;;;bastàrem;;vosaltres ;;;bastàreu;;ells //elles //vostès ;;;bastaren
+Condicional;condicional;;jo ;;;bastaria;;tu ;;;bastaries;;ell //ella //vostè ;;;bastaria;;nosaltres ;;;bastaríem;;vosaltres ;;;bastaríeu;;ells //elles //vostès ;;;bastarien
+Subjuntiu Present;subjuntiu;;jo ;;;basti;;tu ;;;bastis;;ell //ella //vostè ;;;basti;;nosaltres ;;;bastem;;vosaltres ;;;basteu;;ells //elles //vostès ;;;bastin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;bastés;;tu ;;;bastessis;;ell //ella //vostè ;;;bastés;;nosaltres ;;;bastéssim;;vosaltres ;;;bastéssiu;;ells //elles //vostès ;;;bastessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;basta;;(vostè) ;;;basti;;(nosaltres) ;;;bastem;;(vosaltres) ;;;basteu;;(vostès) ;;;bastin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;bastis;;(vostè) ;no ;;basti;;(nosaltres) ;no ;;bastem;;(vosaltres) ;no ;;basteu;;(vostès) ;no ;;bastin
+Indicatiu Perfet;indicatiu;;jo ;;;he bastat;;tu ;;;has bastat;;ell //ella //vostè ;;;ha bastat;;nosaltres ;;;hem bastat;;vosaltres ;;;heu bastat;;ells //elles //vostès ;;;han bastat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig bastat;;tu ;;;vas bastat;;ell //ella //vostè ;;;va bastat;;nosaltres ;;;vam bastat;;vosaltres ;;;vau bastat;;ells //elles //vostès ;;;van bastat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia bastat;;tu ;;;havies bastat;;ell //ella //vostè ;;;havia bastat;;nosaltres ;;;havíem bastat;;vosaltres ;;;havíeu bastat;;ells //elles //vostès ;;;havien bastat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí bastat;;tu ;;;hagueres bastat;;ell //ella //vostè ;;;hagué bastat;;nosaltres ;;;haguérem bastat;;vosaltres ;;;haguéreu bastat;;ells //elles //vostès ;;;hagueren bastat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver bastat;;tu ;;;vas haver bastat;;ell //ella //vostè ;;;va haver bastat;;nosaltres ;;;vam haver bastat;;vosaltres ;;;vau haver bastat;;ells //elles //vostès ;;;van haver bastat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré bastat;;tu ;;;hauràs bastat;;ell //ella //vostè ;;;haurà bastat;;nosaltres ;;;haurem bastat;;vosaltres ;;;haureu bastat;;ells //elles //vostès ;;;hauran bastat
+Condicional Perfet;condicional;;jo ;;;hauria bastat;;tu ;;;hauries bastat;;ell //ella //vostè ;;;hauria bastat;;nosaltres ;;;hauríem bastat;;vosaltres ;;;hauríeu bastat;;ells //elles //vostès ;;;haurien bastat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi bastat;;tu ;;;vagis bastat;;ell //ella //vostè ;;;vagi bastat;;nosaltres ;;;vàgim bastat;;vosaltres ;;;vàgiu bastat;;ells //elles //vostès ;;;vagin bastat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi bastat;;tu ;;;hagis bastat;;ell //ella //vostè ;;;hagi bastat;;nosaltres ;;;hàgim bastat;;vosaltres ;;;hàgiu bastat;;ells //elles //vostès ;;;hagin bastat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes bastat;;tu ;;;haguessis bastat;;ell //ella //vostè ;;;hagués bastat;;nosaltres ;;;haguéssim bastat;;vosaltres ;;;haguéssiu bastat;;ells //elles //vostès ;;;haguessin bastat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver bastat;;tu ;;;vagis haver bastat;;ell //ella //vostè ;;;vagi haver bastat;;nosaltres ;;;vàgim haver bastat;;vosaltres ;;;vàgiu haver bastat;;ells //elles //vostès ;;;vagin haver bastat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;bastar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bast;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

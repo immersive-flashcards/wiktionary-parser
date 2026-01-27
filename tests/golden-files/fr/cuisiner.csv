@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;cuisiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir cuisiné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en cuisinant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant cuisiné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;cuisinant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;cuisiné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;cuisine;;tu ;;;cuisines;;il/elle/on ;;;cuisine;;nous ;;;cuisinons;;vous ;;;cuisinez;;ils/elles ;;;cuisinent
+Indicatif Passé Composé;indicatif;;j’;;;ai cuisiné;;tu ;;;as cuisiné;;il/elle/on ;;;a cuisiné;;nous ;;;avons cuisiné;;vous ;;;avez cuisiné;;ils/elles ;;;ont cuisiné
+Indicatif Imparfait;indicatif;;je ;;;cuisinais;;tu ;;;cuisinais;;il/elle/on ;;;cuisinait;;nous ;;;cuisinions;;vous ;;;cuisiniez;;ils/elles ;;;cuisinaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais cuisiné;;tu ;;;avais cuisiné;;il/elle/on ;;;avait cuisiné;;nous ;;;avions cuisiné;;vous ;;;aviez cuisiné;;ils/elles ;;;avaient cuisiné
+Indicatif Passé Simple;indicatif;;je ;;;cuisinai;;tu ;;;cuisinas;;il/elle/on ;;;cuisina;;nous ;;;cuisinâmes;;vous ;;;cuisinâtes;;ils/elles ;;;cuisinèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus cuisiné;;tu ;;;eus cuisiné;;il/elle/on ;;;eut cuisiné;;nous ;;;eûmes cuisiné;;vous ;;;eûtes cuisiné;;ils/elles ;;;eurent cuisiné
+Indicatif Futur Simple;indicatif;;je ;;;cuisinerai;;tu ;;;cuisineras;;il/elle/on ;;;cuisinera;;nous ;;;cuisinerons;;vous ;;;cuisinerez;;ils/elles ;;;cuisineront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai cuisiné;;tu ;;;auras cuisiné;;il/elle/on ;;;aura cuisiné;;nous ;;;aurons cuisiné;;vous ;;;aurez cuisiné;;ils/elles ;;;auront cuisiné
+Subjonctif Présent;subjonctif;que ;je ;;;cuisine;que ;tu ;;;cuisines;qu’;il/elle/on ;;;cuisine;que ;nous ;;;cuisinions;que ;vous ;;;cuisiniez;qu’;ils/elles ;;;cuisinent
+Subjonctif Passé;subjonctif;que ;j’;;;aie cuisiné;que ;tu ;;;aies cuisiné;qu’;il/elle/on ;;;ait cuisiné;que ;nous ;;;ayons cuisiné;que ;vous ;;;ayez cuisiné;qu’;ils/elles ;;;aient cuisiné
+Subjonctif Imparfait;subjonctif;que ;je ;;;cuisinasse;que ;tu ;;;cuisinasses;qu’;il/elle/on ;;;cuisinât;que ;nous ;;;cuisinassions;que ;vous ;;;cuisinassiez;qu’;ils/elles ;;;cuisinassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse cuisiné;que ;tu ;;;eusses cuisiné;qu’;il/elle/on ;;;eût cuisiné;que ;nous ;;;eussions cuisiné;que ;vous ;;;eussiez cuisiné;qu’;ils/elles ;;;eussent cuisiné
+Conditionnel;conditionnel;;je ;;;cuisinerais;;tu ;;;cuisinerais;;il/elle/on ;;;cuisinerait;;nous ;;;cuisinerions;;vous ;;;cuisineriez;;ils/elles ;;;cuisineraient
+Conditionnel Passé;conditionnel;;j’;;;aurais cuisiné;;tu ;;;aurais cuisiné;;il/elle/on ;;;aurait cuisiné;;nous ;;;aurions cuisiné;;vous ;;;auriez cuisiné;;ils/elles ;;;auraient cuisiné
+Impératif Présent;impératif;;;;;;;;;;cuisine;;;;;;;;;;cuisinons;;;;;cuisinez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;cuisiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;cuisin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

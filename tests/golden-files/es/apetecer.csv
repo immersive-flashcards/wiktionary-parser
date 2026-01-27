@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;apetecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;apeteciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;apetecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;apetezco;;tú ;;;apeteces;;él //ella //usted ;;;apetece;;nosotros //nosotras ;;;apetecemos;;vosotros //vosotras ;;;apetecéis;;ellos //ellas //ustedes ;;;apetecen;;vos ;;;apetecés
+Indicativo Imperfecto;indicativo;;yo ;;;apetecía;;tú //vos ;;;apetecías;;él //ella //usted ;;;apetecía;;nosotros //nosotras ;;;apetecíamos;;vosotros //vosotras ;;;apetecíais;;ellos //ellas //ustedes ;;;apetecían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;apetecí;;tú //vos ;;;apeteciste;;él //ella //usted ;;;apeteció;;nosotros //nosotras ;;;apetecimos;;vosotros //vosotras ;;;apetecisteis;;ellos //ellas //ustedes ;;;apetecieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;apeteceré;;tú //vos ;;;apetecerás;;él //ella //usted ;;;apetecerá;;nosotros //nosotras ;;;apeteceremos;;vosotros //vosotras ;;;apeteceréis;;ellos //ellas //ustedes ;;;apetecerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he apetecido;;tú //vos ;;;has apetecido;;él //ella //usted ;;;ha apetecido;;nosotros //nosotras ;;;hemos apetecido;;vosotros //vosotras ;;;habéis apetecido;;ellos //ellas //ustedes ;;;han apetecido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había apetecido;;tú //vos ;;;habías apetecido;;él //ella //usted ;;;había apetecido;;nosotros //nosotras ;;;habíamos apetecido;;vosotros //vosotras ;;;habíais apetecido;;ellos //ellas //ustedes ;;;habían apetecido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube apetecido;;tú //vos ;;;hubiste apetecido;;él //ella //usted ;;;hubo apetecido;;nosotros //nosotras ;;;hubimos apetecido;;vosotros //vosotras ;;;hubisteis apetecido;;ellos //ellas //ustedes ;;;hubieron apetecido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré apetecido;;tú //vos ;;;habrás apetecido;;él //ella //usted ;;;habrá apetecido;;nosotros //nosotras ;;;habremos apetecido;;vosotros //vosotras ;;;habréis apetecido;;ellos //ellas //ustedes ;;;habrán apetecido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;apetezca;;tú //vos ;;;apetezcas;;él //ella //usted ;;;apetezca;;nosotros //nosotras ;;;apetezcamos;;vosotros //vosotras ;;;apetezcáis;;ellos //ellas //ustedes ;;;apetezcan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;apeteciera / apeteciese;;tú //vos ;;;apetecieras / apetecieses;;él //ella //usted ;;;apeteciera / apeteciese;;nosotros //nosotras ;;;apeteciéramos / apeteciésemos;;vosotros //vosotras ;;;apetecierais / apetecieseis;;ellos //ellas //ustedes ;;;apetecieran / apeteciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;apeteciere;;tú //vos ;;;apetecieres;;él //ella //usted ;;;apeteciere;;nosotros //nosotras ;;;apeteciéremos;;vosotros //vosotras ;;;apeteciereis;;ellos //ellas //ustedes ;;;apetecieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya apetecido;;tú //vos ;;;hayas apetecido;;él //ella //usted ;;;haya apetecido;;nosotros //nosotras ;;;hayamos apetecido;;vosotros //vosotras ;;;hayáis apetecido;;ellos //ellas //ustedes ;;;hayan apetecido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera apetecido / hubiese apetecido;;tú //vos ;;;hubieras apetecido / hubieses apetecido;;él //ella //usted ;;;hubiera apetecido / hubiese apetecido;;nosotros //nosotras ;;;hubiéramos apetecido / hubiésemos apetecido;;vosotros //vosotras ;;;hubierais apetecido / hubieseis apetecido;;ellos //ellas //ustedes ;;;hubieran apetecido / hubiesen apetecido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere apetecido;;tú //vos ;;;hubieres apetecido;;él //ella //usted ;;;hubiere apetecido;;nosotros //nosotras ;;;hubiéremos apetecido;;vosotros //vosotras ;;;hubiereis apetecido;;ellos //ellas //ustedes ;;;hubieren apetecido;;;;;
+Condicional;condicional;;yo ;;;apetecería;;tú //vos ;;;apetecerías;;él //ella //usted ;;;apetecería;;nosotros //nosotras ;;;apeteceríamos;;vosotros //vosotras ;;;apeteceríais;;ellos //ellas //ustedes ;;;apetecerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría apetecido;;tú //vos ;;;habrías apetecido;;él //ella //usted ;;;habría apetecido;;nosotros //nosotras ;;;habríamos apetecido;;vosotros //vosotras ;;;habríais apetecido;;ellos //ellas //ustedes ;;;habrían apetecido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apetece;;(usted) ;;;apetezca;;(nosotros) //(nosotras) ;;;apetezcamos;;(vosotros) //(vosotras) ;;;apeteced;;(ustedes) ;;;apetezcan;;(vos) ;;;apetecé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apetezcas;;(usted) ;no ;;apetezca;;(nosotros) //(nosotras) ;no ;;apetezcamos;;(vosotros) //(vosotras) ;no ;;apetezcáis;;(ustedes) ;no ;;apetezcan;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;apetecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;apetec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;aplacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;aplacando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;aplacado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;aplaco;;tú ;;;aplacas;;él //ella //usted ;;;aplaca;;nosotros //nosotras ;;;aplacamos;;vosotros //vosotras ;;;aplacáis;;ellos //ellas //ustedes ;;;aplacan;;vos ;;;aplacás
+Indicativo Imperfecto;indicativo;;yo ;;;aplacaba;;tú //vos ;;;aplacabas;;él //ella //usted ;;;aplacaba;;nosotros //nosotras ;;;aplacábamos;;vosotros //vosotras ;;;aplacabais;;ellos //ellas //ustedes ;;;aplacaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;aplaqué;;tú //vos ;;;aplacaste;;él //ella //usted ;;;aplacó;;nosotros //nosotras ;;;aplacamos;;vosotros //vosotras ;;;aplacasteis;;ellos //ellas //ustedes ;;;aplacaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;aplacaré;;tú //vos ;;;aplacarás;;él //ella //usted ;;;aplacará;;nosotros //nosotras ;;;aplacaremos;;vosotros //vosotras ;;;aplacaréis;;ellos //ellas //ustedes ;;;aplacarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he aplacado;;tú //vos ;;;has aplacado;;él //ella //usted ;;;ha aplacado;;nosotros //nosotras ;;;hemos aplacado;;vosotros //vosotras ;;;habéis aplacado;;ellos //ellas //ustedes ;;;han aplacado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había aplacado;;tú //vos ;;;habías aplacado;;él //ella //usted ;;;había aplacado;;nosotros //nosotras ;;;habíamos aplacado;;vosotros //vosotras ;;;habíais aplacado;;ellos //ellas //ustedes ;;;habían aplacado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube aplacado;;tú //vos ;;;hubiste aplacado;;él //ella //usted ;;;hubo aplacado;;nosotros //nosotras ;;;hubimos aplacado;;vosotros //vosotras ;;;hubisteis aplacado;;ellos //ellas //ustedes ;;;hubieron aplacado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré aplacado;;tú //vos ;;;habrás aplacado;;él //ella //usted ;;;habrá aplacado;;nosotros //nosotras ;;;habremos aplacado;;vosotros //vosotras ;;;habréis aplacado;;ellos //ellas //ustedes ;;;habrán aplacado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;aplaque;;tú //vos ;;;aplaques;;él //ella //usted ;;;aplaque;;nosotros //nosotras ;;;aplaquemos;;vosotros //vosotras ;;;aplaquéis;;ellos //ellas //ustedes ;;;aplaquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;aplacara / aplacase;;tú //vos ;;;aplacaras / aplacases;;él //ella //usted ;;;aplacara / aplacase;;nosotros //nosotras ;;;aplacáramos / aplacásemos;;vosotros //vosotras ;;;aplacarais / aplacaseis;;ellos //ellas //ustedes ;;;aplacaran / aplacasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;aplacare;;tú //vos ;;;aplacares;;él //ella //usted ;;;aplacare;;nosotros //nosotras ;;;aplacáremos;;vosotros //vosotras ;;;aplacareis;;ellos //ellas //ustedes ;;;aplacaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya aplacado;;tú //vos ;;;hayas aplacado;;él //ella //usted ;;;haya aplacado;;nosotros //nosotras ;;;hayamos aplacado;;vosotros //vosotras ;;;hayáis aplacado;;ellos //ellas //ustedes ;;;hayan aplacado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera aplacado / hubiese aplacado;;tú //vos ;;;hubieras aplacado / hubieses aplacado;;él //ella //usted ;;;hubiera aplacado / hubiese aplacado;;nosotros //nosotras ;;;hubiéramos aplacado / hubiésemos aplacado;;vosotros //vosotras ;;;hubierais aplacado / hubieseis aplacado;;ellos //ellas //ustedes ;;;hubieran aplacado / hubiesen aplacado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere aplacado;;tú //vos ;;;hubieres aplacado;;él //ella //usted ;;;hubiere aplacado;;nosotros //nosotras ;;;hubiéremos aplacado;;vosotros //vosotras ;;;hubiereis aplacado;;ellos //ellas //ustedes ;;;hubieren aplacado;;;;;
+Condicional;condicional;;yo ;;;aplacaría;;tú //vos ;;;aplacarías;;él //ella //usted ;;;aplacaría;;nosotros //nosotras ;;;aplacaríamos;;vosotros //vosotras ;;;aplacaríais;;ellos //ellas //ustedes ;;;aplacarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría aplacado;;tú //vos ;;;habrías aplacado;;él //ella //usted ;;;habría aplacado;;nosotros //nosotras ;;;habríamos aplacado;;vosotros //vosotras ;;;habríais aplacado;;ellos //ellas //ustedes ;;;habrían aplacado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aplaca;;(usted) ;;;aplaque;;(nosotros) //(nosotras) ;;;aplaquemos;;(vosotros) //(vosotras) ;;;aplacad;;(ustedes) ;;;aplaquen;;(vos) ;;;aplacá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aplaques;;(usted) ;no ;;aplaque;;(nosotros) //(nosotras) ;no ;;aplaquemos;;(vosotros) //(vosotras) ;no ;;aplaquéis;;(ustedes) ;no ;;aplaquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;aplacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;aplac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

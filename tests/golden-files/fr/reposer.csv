@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;reposer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir reposé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en reposant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant reposé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;reposant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;reposé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;repose;;tu ;;;reposes;;il/elle/on ;;;repose;;nous ;;;reposons;;vous ;;;reposez;;ils/elles ;;;reposent
+Indicatif Passé Composé;indicatif;;j’;;;ai reposé;;tu ;;;as reposé;;il/elle/on ;;;a reposé;;nous ;;;avons reposé;;vous ;;;avez reposé;;ils/elles ;;;ont reposé
+Indicatif Imparfait;indicatif;;je ;;;reposais;;tu ;;;reposais;;il/elle/on ;;;reposait;;nous ;;;reposions;;vous ;;;reposiez;;ils/elles ;;;reposaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais reposé;;tu ;;;avais reposé;;il/elle/on ;;;avait reposé;;nous ;;;avions reposé;;vous ;;;aviez reposé;;ils/elles ;;;avaient reposé
+Indicatif Passé Simple;indicatif;;je ;;;reposai;;tu ;;;reposas;;il/elle/on ;;;reposa;;nous ;;;reposâmes;;vous ;;;reposâtes;;ils/elles ;;;reposèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus reposé;;tu ;;;eus reposé;;il/elle/on ;;;eut reposé;;nous ;;;eûmes reposé;;vous ;;;eûtes reposé;;ils/elles ;;;eurent reposé
+Indicatif Futur Simple;indicatif;;je ;;;reposerai;;tu ;;;reposeras;;il/elle/on ;;;reposera;;nous ;;;reposerons;;vous ;;;reposerez;;ils/elles ;;;reposeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai reposé;;tu ;;;auras reposé;;il/elle/on ;;;aura reposé;;nous ;;;aurons reposé;;vous ;;;aurez reposé;;ils/elles ;;;auront reposé
+Subjonctif Présent;subjonctif;que ;je ;;;repose;que ;tu ;;;reposes;qu’;il/elle/on ;;;repose;que ;nous ;;;reposions;que ;vous ;;;reposiez;qu’;ils/elles ;;;reposent
+Subjonctif Passé;subjonctif;que ;j’;;;aie reposé;que ;tu ;;;aies reposé;qu’;il/elle/on ;;;ait reposé;que ;nous ;;;ayons reposé;que ;vous ;;;ayez reposé;qu’;ils/elles ;;;aient reposé
+Subjonctif Imparfait;subjonctif;que ;je ;;;reposasse;que ;tu ;;;reposasses;qu’;il/elle/on ;;;reposât;que ;nous ;;;reposassions;que ;vous ;;;reposassiez;qu’;ils/elles ;;;reposassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse reposé;que ;tu ;;;eusses reposé;qu’;il/elle/on ;;;eût reposé;que ;nous ;;;eussions reposé;que ;vous ;;;eussiez reposé;qu’;ils/elles ;;;eussent reposé
+Conditionnel;conditionnel;;je ;;;reposerais;;tu ;;;reposerais;;il/elle/on ;;;reposerait;;nous ;;;reposerions;;vous ;;;reposeriez;;ils/elles ;;;reposeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais reposé;;tu ;;;aurais reposé;;il/elle/on ;;;aurait reposé;;nous ;;;aurions reposé;;vous ;;;auriez reposé;;ils/elles ;;;auraient reposé
+Impératif Présent;impératif;;;;;;;;;;repose;;;;;;;;;;reposons;;;;;reposez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;reposer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;repos;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

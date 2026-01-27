@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;liderar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;liderant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;liderat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;lidero;;tu ;;;lideres;;ell //ella //vostè ;;;lidera;;nosaltres ;;;liderem;;vosaltres ;;;lidereu;;ells //elles //vostès ;;;lideren
+Indicatiu Imperfet;indicativo;;jo ;;;liderava;;tu ;;;lideraves;;ell //ella //vostè ;;;liderava;;nosaltres ;;;lideràvem;;vosaltres ;;;lideràveu;;ells //elles //vostès ;;;lideraven
+Indicatiu Futur;indicativo;;jo ;;;lideraré;;tu ;;;lideraràs;;ell //ella //vostè ;;;liderarà;;nosaltres ;;;liderarem;;vosaltres ;;;liderareu;;ells //elles //vostès ;;;lideraran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;liderí;;tu ;;;liderares;;ell //ella //vostè ;;;liderà;;nosaltres ;;;lideràrem;;vosaltres ;;;lideràreu;;ells //elles //vostès ;;;lideraren
+Condicional;condicional;;jo ;;;lideraria;;tu ;;;lideraries;;ell //ella //vostè ;;;lideraria;;nosaltres ;;;lideraríem;;vosaltres ;;;lideraríeu;;ells //elles //vostès ;;;liderarien
+Subjuntiu Present;subjuntiu;;jo ;;;lideri;;tu ;;;lideris;;ell //ella //vostè ;;;lideri;;nosaltres ;;;liderem;;vosaltres ;;;lidereu;;ells //elles //vostès ;;;liderin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;liderés;;tu ;;;lideressis;;ell //ella //vostè ;;;liderés;;nosaltres ;;;lideréssim;;vosaltres ;;;lideréssiu;;ells //elles //vostès ;;;lideressin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;lidera;;(vostè) ;;;lideri;;(nosaltres) ;;;liderem;;(vosaltres) ;;;lidereu;;(vostès) ;;;liderin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;lideris;;(vostè) ;no ;;lideri;;(nosaltres) ;no ;;liderem;;(vosaltres) ;no ;;lidereu;;(vostès) ;no ;;liderin
+Indicatiu Perfet;indicatiu;;jo ;;;he liderat;;tu ;;;has liderat;;ell //ella //vostè ;;;ha liderat;;nosaltres ;;;hem liderat;;vosaltres ;;;heu liderat;;ells //elles //vostès ;;;han liderat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig liderat;;tu ;;;vas liderat;;ell //ella //vostè ;;;va liderat;;nosaltres ;;;vam liderat;;vosaltres ;;;vau liderat;;ells //elles //vostès ;;;van liderat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia liderat;;tu ;;;havies liderat;;ell //ella //vostè ;;;havia liderat;;nosaltres ;;;havíem liderat;;vosaltres ;;;havíeu liderat;;ells //elles //vostès ;;;havien liderat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí liderat;;tu ;;;hagueres liderat;;ell //ella //vostè ;;;hagué liderat;;nosaltres ;;;haguérem liderat;;vosaltres ;;;haguéreu liderat;;ells //elles //vostès ;;;hagueren liderat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver liderat;;tu ;;;vas haver liderat;;ell //ella //vostè ;;;va haver liderat;;nosaltres ;;;vam haver liderat;;vosaltres ;;;vau haver liderat;;ells //elles //vostès ;;;van haver liderat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré liderat;;tu ;;;hauràs liderat;;ell //ella //vostè ;;;haurà liderat;;nosaltres ;;;haurem liderat;;vosaltres ;;;haureu liderat;;ells //elles //vostès ;;;hauran liderat
+Condicional Perfet;condicional;;jo ;;;hauria liderat;;tu ;;;hauries liderat;;ell //ella //vostè ;;;hauria liderat;;nosaltres ;;;hauríem liderat;;vosaltres ;;;hauríeu liderat;;ells //elles //vostès ;;;haurien liderat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi liderat;;tu ;;;vagis liderat;;ell //ella //vostè ;;;vagi liderat;;nosaltres ;;;vàgim liderat;;vosaltres ;;;vàgiu liderat;;ells //elles //vostès ;;;vagin liderat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi liderat;;tu ;;;hagis liderat;;ell //ella //vostè ;;;hagi liderat;;nosaltres ;;;hàgim liderat;;vosaltres ;;;hàgiu liderat;;ells //elles //vostès ;;;hagin liderat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes liderat;;tu ;;;haguessis liderat;;ell //ella //vostè ;;;hagués liderat;;nosaltres ;;;haguéssim liderat;;vosaltres ;;;haguéssiu liderat;;ells //elles //vostès ;;;haguessin liderat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver liderat;;tu ;;;vagis haver liderat;;ell //ella //vostè ;;;vagi haver liderat;;nosaltres ;;;vàgim haver liderat;;vosaltres ;;;vàgiu haver liderat;;ells //elles //vostès ;;;vagin haver liderat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;liderar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;lider;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

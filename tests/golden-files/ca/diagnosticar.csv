@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;diagnosticar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;diagnosticant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;diagnosticat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;diagnostico;;tu ;;;diagnostiques;;ell //ella //vostè ;;;diagnostica;;nosaltres ;;;diagnostiquem;;vosaltres ;;;diagnostiqueu;;ells //elles //vostès ;;;diagnostiquen
+Indicatiu Imperfet;indicativo;;jo ;;;diagnosticava;;tu ;;;diagnosticaves;;ell //ella //vostè ;;;diagnosticava;;nosaltres ;;;diagnosticàvem;;vosaltres ;;;diagnosticàveu;;ells //elles //vostès ;;;diagnosticaven
+Indicatiu Futur;indicativo;;jo ;;;diagnosticaré;;tu ;;;diagnosticaràs;;ell //ella //vostè ;;;diagnosticarà;;nosaltres ;;;diagnosticarem;;vosaltres ;;;diagnosticareu;;ells //elles //vostès ;;;diagnosticaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;diagnostiquí;;tu ;;;diagnosticares;;ell //ella //vostè ;;;diagnosticà;;nosaltres ;;;diagnosticàrem;;vosaltres ;;;diagnosticàreu;;ells //elles //vostès ;;;diagnosticaren
+Condicional;condicional;;jo ;;;diagnosticaria;;tu ;;;diagnosticaries;;ell //ella //vostè ;;;diagnosticaria;;nosaltres ;;;diagnosticaríem;;vosaltres ;;;diagnosticaríeu;;ells //elles //vostès ;;;diagnosticarien
+Subjuntiu Present;subjuntiu;;jo ;;;diagnostiqui;;tu ;;;diagnostiquis;;ell //ella //vostè ;;;diagnostiqui;;nosaltres ;;;diagnostiquem;;vosaltres ;;;diagnostiqueu;;ells //elles //vostès ;;;diagnostiquin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;diagnostiqués;;tu ;;;diagnostiquessis;;ell //ella //vostè ;;;diagnostiqués;;nosaltres ;;;diagnostiquéssim;;vosaltres ;;;diagnostiquéssiu;;ells //elles //vostès ;;;diagnostiquessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;diagnostica;;(vostè) ;;;diagnostiqui;;(nosaltres) ;;;diagnostiquem;;(vosaltres) ;;;diagnostiqueu;;(vostès) ;;;diagnostiquin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;diagnostiquis;;(vostè) ;no ;;diagnostiqui;;(nosaltres) ;no ;;diagnostiquem;;(vosaltres) ;no ;;diagnostiqueu;;(vostès) ;no ;;diagnostiquin
+Indicatiu Perfet;indicatiu;;jo ;;;he diagnosticat;;tu ;;;has diagnosticat;;ell //ella //vostè ;;;ha diagnosticat;;nosaltres ;;;hem diagnosticat;;vosaltres ;;;heu diagnosticat;;ells //elles //vostès ;;;han diagnosticat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig diagnosticat;;tu ;;;vas diagnosticat;;ell //ella //vostè ;;;va diagnosticat;;nosaltres ;;;vam diagnosticat;;vosaltres ;;;vau diagnosticat;;ells //elles //vostès ;;;van diagnosticat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia diagnosticat;;tu ;;;havies diagnosticat;;ell //ella //vostè ;;;havia diagnosticat;;nosaltres ;;;havíem diagnosticat;;vosaltres ;;;havíeu diagnosticat;;ells //elles //vostès ;;;havien diagnosticat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí diagnosticat;;tu ;;;hagueres diagnosticat;;ell //ella //vostè ;;;hagué diagnosticat;;nosaltres ;;;haguérem diagnosticat;;vosaltres ;;;haguéreu diagnosticat;;ells //elles //vostès ;;;hagueren diagnosticat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver diagnosticat;;tu ;;;vas haver diagnosticat;;ell //ella //vostè ;;;va haver diagnosticat;;nosaltres ;;;vam haver diagnosticat;;vosaltres ;;;vau haver diagnosticat;;ells //elles //vostès ;;;van haver diagnosticat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré diagnosticat;;tu ;;;hauràs diagnosticat;;ell //ella //vostè ;;;haurà diagnosticat;;nosaltres ;;;haurem diagnosticat;;vosaltres ;;;haureu diagnosticat;;ells //elles //vostès ;;;hauran diagnosticat
+Condicional Perfet;condicional;;jo ;;;hauria diagnosticat;;tu ;;;hauries diagnosticat;;ell //ella //vostè ;;;hauria diagnosticat;;nosaltres ;;;hauríem diagnosticat;;vosaltres ;;;hauríeu diagnosticat;;ells //elles //vostès ;;;haurien diagnosticat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi diagnosticat;;tu ;;;vagis diagnosticat;;ell //ella //vostè ;;;vagi diagnosticat;;nosaltres ;;;vàgim diagnosticat;;vosaltres ;;;vàgiu diagnosticat;;ells //elles //vostès ;;;vagin diagnosticat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi diagnosticat;;tu ;;;hagis diagnosticat;;ell //ella //vostè ;;;hagi diagnosticat;;nosaltres ;;;hàgim diagnosticat;;vosaltres ;;;hàgiu diagnosticat;;ells //elles //vostès ;;;hagin diagnosticat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes diagnosticat;;tu ;;;haguessis diagnosticat;;ell //ella //vostè ;;;hagués diagnosticat;;nosaltres ;;;haguéssim diagnosticat;;vosaltres ;;;haguéssiu diagnosticat;;ells //elles //vostès ;;;haguessin diagnosticat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver diagnosticat;;tu ;;;vagis haver diagnosticat;;ell //ella //vostè ;;;vagi haver diagnosticat;;nosaltres ;;;vàgim haver diagnosticat;;vosaltres ;;;vàgiu haver diagnosticat;;ells //elles //vostès ;;;vagin haver diagnosticat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;diagnosticar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;diagnostic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

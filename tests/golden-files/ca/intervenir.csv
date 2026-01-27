@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;intervenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;intervenint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;intervingut;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;intervinc;;tu ;;;intervens;;ell //ella //vostè ;;;intervé;;nosaltres ;;;intervenim;;vosaltres ;;;interveniu;;ells //elles //vostès ;;;intervenen
+Indicatiu Imperfet;indicativo;;jo ;;;intervenia;;tu ;;;intervenies;;ell //ella //vostè ;;;intervenia;;nosaltres ;;;interveníem;;vosaltres ;;;interveníeu;;ells //elles //vostès ;;;intervenien
+Indicatiu Futur;indicativo;;jo ;;;intervindré;;tu ;;;intervindràs;;ell //ella //vostè ;;;intervindrà;;nosaltres ;;;intervindrem;;vosaltres ;;;intervindreu;;ells //elles //vostès ;;;intervindran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;intervinguí;;tu ;;;intervingueres;;ell //ella //vostè ;;;intervingué;;nosaltres ;;;intervinguérem;;vosaltres ;;;intervinguéreu;;ells //elles //vostès ;;;intervingueren
+Condicional;condicional;;jo ;;;intervindria;;tu ;;;intervindries;;ell //ella //vostè ;;;intervindria;;nosaltres ;;;intervindríem;;vosaltres ;;;intervindríeu;;ells //elles //vostès ;;;intervindrien
+Subjuntiu Present;subjuntiu;;jo ;;;intervingui;;tu ;;;intervinguis;;ell //ella //vostè ;;;intervingui;;nosaltres ;;;intervinguem;;vosaltres ;;;intervingueu;;ells //elles //vostès ;;;intervinguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;intervingués;;tu ;;;intervinguessis;;ell //ella //vostè ;;;intervingués;;nosaltres ;;;intervinguéssim;;vosaltres ;;;intervinguéssiu;;ells //elles //vostès ;;;intervinguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;intervén;;(vostè) ;;;intervingui;;(nosaltres) ;;;intervinguem;;(vosaltres) ;;;interveniu;;(vostès) ;;;intervinguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;intervinguis;;(vostè) ;no ;;intervingui;;(nosaltres) ;no ;;intervinguem;;(vosaltres) ;no ;;intervingueu;;(vostès) ;no ;;intervinguin
+Indicatiu Perfet;indicatiu;;jo ;;;he intervingut;;tu ;;;has intervingut;;ell //ella //vostè ;;;ha intervingut;;nosaltres ;;;hem intervingut;;vosaltres ;;;heu intervingut;;ells //elles //vostès ;;;han intervingut
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig intervingut;;tu ;;;vas intervingut;;ell //ella //vostè ;;;va intervingut;;nosaltres ;;;vam intervingut;;vosaltres ;;;vau intervingut;;ells //elles //vostès ;;;van intervingut
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia intervingut;;tu ;;;havies intervingut;;ell //ella //vostè ;;;havia intervingut;;nosaltres ;;;havíem intervingut;;vosaltres ;;;havíeu intervingut;;ells //elles //vostès ;;;havien intervingut
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí intervingut;;tu ;;;hagueres intervingut;;ell //ella //vostè ;;;hagué intervingut;;nosaltres ;;;haguérem intervingut;;vosaltres ;;;haguéreu intervingut;;ells //elles //vostès ;;;hagueren intervingut
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver intervingut;;tu ;;;vas haver intervingut;;ell //ella //vostè ;;;va haver intervingut;;nosaltres ;;;vam haver intervingut;;vosaltres ;;;vau haver intervingut;;ells //elles //vostès ;;;van haver intervingut
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré intervingut;;tu ;;;hauràs intervingut;;ell //ella //vostè ;;;haurà intervingut;;nosaltres ;;;haurem intervingut;;vosaltres ;;;haureu intervingut;;ells //elles //vostès ;;;hauran intervingut
+Condicional Perfet;condicional;;jo ;;;hauria intervingut;;tu ;;;hauries intervingut;;ell //ella //vostè ;;;hauria intervingut;;nosaltres ;;;hauríem intervingut;;vosaltres ;;;hauríeu intervingut;;ells //elles //vostès ;;;haurien intervingut
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi intervingut;;tu ;;;vagis intervingut;;ell //ella //vostè ;;;vagi intervingut;;nosaltres ;;;vàgim intervingut;;vosaltres ;;;vàgiu intervingut;;ells //elles //vostès ;;;vagin intervingut
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi intervingut;;tu ;;;hagis intervingut;;ell //ella //vostè ;;;hagi intervingut;;nosaltres ;;;hàgim intervingut;;vosaltres ;;;hàgiu intervingut;;ells //elles //vostès ;;;hagin intervingut
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes intervingut;;tu ;;;haguessis intervingut;;ell //ella //vostè ;;;hagués intervingut;;nosaltres ;;;haguéssim intervingut;;vosaltres ;;;haguéssiu intervingut;;ells //elles //vostès ;;;haguessin intervingut
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver intervingut;;tu ;;;vagis haver intervingut;;ell //ella //vostè ;;;vagi haver intervingut;;nosaltres ;;;vàgim haver intervingut;;vosaltres ;;;vàgiu haver intervingut;;ells //elles //vostès ;;;vagin haver intervingut
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;intervenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;interven;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

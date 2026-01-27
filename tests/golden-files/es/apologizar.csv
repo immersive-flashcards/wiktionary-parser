@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;apologizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;apologizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;apologizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;apologizo;;tú ;;;apologizas;;él //ella //usted ;;;apologiza;;nosotros //nosotras ;;;apologizamos;;vosotros //vosotras ;;;apologizáis;;ellos //ellas //ustedes ;;;apologizan;;vos ;;;apologizás
+Indicativo Imperfecto;indicativo;;yo ;;;apologizaba;;tú //vos ;;;apologizabas;;él //ella //usted ;;;apologizaba;;nosotros //nosotras ;;;apologizábamos;;vosotros //vosotras ;;;apologizabais;;ellos //ellas //ustedes ;;;apologizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;apologicé;;tú //vos ;;;apologizaste;;él //ella //usted ;;;apologizó;;nosotros //nosotras ;;;apologizamos;;vosotros //vosotras ;;;apologizasteis;;ellos //ellas //ustedes ;;;apologizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;apologizaré;;tú //vos ;;;apologizarás;;él //ella //usted ;;;apologizará;;nosotros //nosotras ;;;apologizaremos;;vosotros //vosotras ;;;apologizaréis;;ellos //ellas //ustedes ;;;apologizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he apologizado;;tú //vos ;;;has apologizado;;él //ella //usted ;;;ha apologizado;;nosotros //nosotras ;;;hemos apologizado;;vosotros //vosotras ;;;habéis apologizado;;ellos //ellas //ustedes ;;;han apologizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había apologizado;;tú //vos ;;;habías apologizado;;él //ella //usted ;;;había apologizado;;nosotros //nosotras ;;;habíamos apologizado;;vosotros //vosotras ;;;habíais apologizado;;ellos //ellas //ustedes ;;;habían apologizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube apologizado;;tú //vos ;;;hubiste apologizado;;él //ella //usted ;;;hubo apologizado;;nosotros //nosotras ;;;hubimos apologizado;;vosotros //vosotras ;;;hubisteis apologizado;;ellos //ellas //ustedes ;;;hubieron apologizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré apologizado;;tú //vos ;;;habrás apologizado;;él //ella //usted ;;;habrá apologizado;;nosotros //nosotras ;;;habremos apologizado;;vosotros //vosotras ;;;habréis apologizado;;ellos //ellas //ustedes ;;;habrán apologizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;apologice;;tú //vos ;;;apologices;;él //ella //usted ;;;apologice;;nosotros //nosotras ;;;apologicemos;;vosotros //vosotras ;;;apologicéis;;ellos //ellas //ustedes ;;;apologicen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;apologizara / apologizase;;tú //vos ;;;apologizaras / apologizases;;él //ella //usted ;;;apologizara / apologizase;;nosotros //nosotras ;;;apologizáramos / apologizásemos;;vosotros //vosotras ;;;apologizarais / apologizaseis;;ellos //ellas //ustedes ;;;apologizaran / apologizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;apologizare;;tú //vos ;;;apologizares;;él //ella //usted ;;;apologizare;;nosotros //nosotras ;;;apologizáremos;;vosotros //vosotras ;;;apologizareis;;ellos //ellas //ustedes ;;;apologizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya apologizado;;tú //vos ;;;hayas apologizado;;él //ella //usted ;;;haya apologizado;;nosotros //nosotras ;;;hayamos apologizado;;vosotros //vosotras ;;;hayáis apologizado;;ellos //ellas //ustedes ;;;hayan apologizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera apologizado / hubiese apologizado;;tú //vos ;;;hubieras apologizado / hubieses apologizado;;él //ella //usted ;;;hubiera apologizado / hubiese apologizado;;nosotros //nosotras ;;;hubiéramos apologizado / hubiésemos apologizado;;vosotros //vosotras ;;;hubierais apologizado / hubieseis apologizado;;ellos //ellas //ustedes ;;;hubieran apologizado / hubiesen apologizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere apologizado;;tú //vos ;;;hubieres apologizado;;él //ella //usted ;;;hubiere apologizado;;nosotros //nosotras ;;;hubiéremos apologizado;;vosotros //vosotras ;;;hubiereis apologizado;;ellos //ellas //ustedes ;;;hubieren apologizado;;;;;
+Condicional;condicional;;yo ;;;apologizaría;;tú //vos ;;;apologizarías;;él //ella //usted ;;;apologizaría;;nosotros //nosotras ;;;apologizaríamos;;vosotros //vosotras ;;;apologizaríais;;ellos //ellas //ustedes ;;;apologizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría apologizado;;tú //vos ;;;habrías apologizado;;él //ella //usted ;;;habría apologizado;;nosotros //nosotras ;;;habríamos apologizado;;vosotros //vosotras ;;;habríais apologizado;;ellos //ellas //ustedes ;;;habrían apologizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apologiza;;(usted) ;;;apologice;;(nosotros) //(nosotras) ;;;apologicemos;;(vosotros) //(vosotras) ;;;apologizad;;(ustedes) ;;;apologicen;;(vos) ;;;apologizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apologices;;(usted) ;no ;;apologice;;(nosotros) //(nosotras) ;no ;;apologicemos;;(vosotros) //(vosotras) ;no ;;apologicéis;;(ustedes) ;no ;;apologicen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;apologizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;apologiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

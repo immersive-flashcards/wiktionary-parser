@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;adolecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;adoleciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;adolecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;adolezco;;tú ;;;adoleces;;él //ella //usted ;;;adolece;;nosotros //nosotras ;;;adolecemos;;vosotros //vosotras ;;;adolecéis;;ellos //ellas //ustedes ;;;adolecen;;vos ;;;adolecés
+Indicativo Imperfecto;indicativo;;yo ;;;adolecía;;tú //vos ;;;adolecías;;él //ella //usted ;;;adolecía;;nosotros //nosotras ;;;adolecíamos;;vosotros //vosotras ;;;adolecíais;;ellos //ellas //ustedes ;;;adolecían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;adolecí;;tú //vos ;;;adoleciste;;él //ella //usted ;;;adoleció;;nosotros //nosotras ;;;adolecimos;;vosotros //vosotras ;;;adolecisteis;;ellos //ellas //ustedes ;;;adolecieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;adoleceré;;tú //vos ;;;adolecerás;;él //ella //usted ;;;adolecerá;;nosotros //nosotras ;;;adoleceremos;;vosotros //vosotras ;;;adoleceréis;;ellos //ellas //ustedes ;;;adolecerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he adolecido;;tú //vos ;;;has adolecido;;él //ella //usted ;;;ha adolecido;;nosotros //nosotras ;;;hemos adolecido;;vosotros //vosotras ;;;habéis adolecido;;ellos //ellas //ustedes ;;;han adolecido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había adolecido;;tú //vos ;;;habías adolecido;;él //ella //usted ;;;había adolecido;;nosotros //nosotras ;;;habíamos adolecido;;vosotros //vosotras ;;;habíais adolecido;;ellos //ellas //ustedes ;;;habían adolecido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube adolecido;;tú //vos ;;;hubiste adolecido;;él //ella //usted ;;;hubo adolecido;;nosotros //nosotras ;;;hubimos adolecido;;vosotros //vosotras ;;;hubisteis adolecido;;ellos //ellas //ustedes ;;;hubieron adolecido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré adolecido;;tú //vos ;;;habrás adolecido;;él //ella //usted ;;;habrá adolecido;;nosotros //nosotras ;;;habremos adolecido;;vosotros //vosotras ;;;habréis adolecido;;ellos //ellas //ustedes ;;;habrán adolecido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;adolezca;;tú //vos ;;;adolezcas;;él //ella //usted ;;;adolezca;;nosotros //nosotras ;;;adolezcamos;;vosotros //vosotras ;;;adolezcáis;;ellos //ellas //ustedes ;;;adolezcan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;adoleciera / adoleciese;;tú //vos ;;;adolecieras / adolecieses;;él //ella //usted ;;;adoleciera / adoleciese;;nosotros //nosotras ;;;adoleciéramos / adoleciésemos;;vosotros //vosotras ;;;adolecierais / adolecieseis;;ellos //ellas //ustedes ;;;adolecieran / adoleciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;adoleciere;;tú //vos ;;;adolecieres;;él //ella //usted ;;;adoleciere;;nosotros //nosotras ;;;adoleciéremos;;vosotros //vosotras ;;;adoleciereis;;ellos //ellas //ustedes ;;;adolecieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya adolecido;;tú //vos ;;;hayas adolecido;;él //ella //usted ;;;haya adolecido;;nosotros //nosotras ;;;hayamos adolecido;;vosotros //vosotras ;;;hayáis adolecido;;ellos //ellas //ustedes ;;;hayan adolecido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera adolecido / hubiese adolecido;;tú //vos ;;;hubieras adolecido / hubieses adolecido;;él //ella //usted ;;;hubiera adolecido / hubiese adolecido;;nosotros //nosotras ;;;hubiéramos adolecido / hubiésemos adolecido;;vosotros //vosotras ;;;hubierais adolecido / hubieseis adolecido;;ellos //ellas //ustedes ;;;hubieran adolecido / hubiesen adolecido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere adolecido;;tú //vos ;;;hubieres adolecido;;él //ella //usted ;;;hubiere adolecido;;nosotros //nosotras ;;;hubiéremos adolecido;;vosotros //vosotras ;;;hubiereis adolecido;;ellos //ellas //ustedes ;;;hubieren adolecido;;;;;
+Condicional;condicional;;yo ;;;adolecería;;tú //vos ;;;adolecerías;;él //ella //usted ;;;adolecería;;nosotros //nosotras ;;;adoleceríamos;;vosotros //vosotras ;;;adoleceríais;;ellos //ellas //ustedes ;;;adolecerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría adolecido;;tú //vos ;;;habrías adolecido;;él //ella //usted ;;;habría adolecido;;nosotros //nosotras ;;;habríamos adolecido;;vosotros //vosotras ;;;habríais adolecido;;ellos //ellas //ustedes ;;;habrían adolecido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adolece;;(usted) ;;;adolezca;;(nosotros) //(nosotras) ;;;adolezcamos;;(vosotros) //(vosotras) ;;;adoleced;;(ustedes) ;;;adolezcan;;(vos) ;;;adolecé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adolezcas;;(usted) ;no ;;adolezca;;(nosotros) //(nosotras) ;no ;;adolezcamos;;(vosotros) //(vosotras) ;no ;;adolezcáis;;(ustedes) ;no ;;adolezcan;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;adolecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;adolec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

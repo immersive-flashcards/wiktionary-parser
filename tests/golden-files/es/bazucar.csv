@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;bazucar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;bazucando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;bazucado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;bazuco;;tú ;;;bazucas;;él //ella //usted ;;;bazuca;;nosotros //nosotras ;;;bazucamos;;vosotros //vosotras ;;;bazucáis;;ellos //ellas //ustedes ;;;bazucan;;vos ;;;bazucás
+Indicativo Imperfecto;indicativo;;yo ;;;bazucaba;;tú //vos ;;;bazucabas;;él //ella //usted ;;;bazucaba;;nosotros //nosotras ;;;bazucábamos;;vosotros //vosotras ;;;bazucabais;;ellos //ellas //ustedes ;;;bazucaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;bazuqué;;tú //vos ;;;bazucaste;;él //ella //usted ;;;bazucó;;nosotros //nosotras ;;;bazucamos;;vosotros //vosotras ;;;bazucasteis;;ellos //ellas //ustedes ;;;bazucaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;bazucaré;;tú //vos ;;;bazucarás;;él //ella //usted ;;;bazucará;;nosotros //nosotras ;;;bazucaremos;;vosotros //vosotras ;;;bazucaréis;;ellos //ellas //ustedes ;;;bazucarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he bazucado;;tú //vos ;;;has bazucado;;él //ella //usted ;;;ha bazucado;;nosotros //nosotras ;;;hemos bazucado;;vosotros //vosotras ;;;habéis bazucado;;ellos //ellas //ustedes ;;;han bazucado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había bazucado;;tú //vos ;;;habías bazucado;;él //ella //usted ;;;había bazucado;;nosotros //nosotras ;;;habíamos bazucado;;vosotros //vosotras ;;;habíais bazucado;;ellos //ellas //ustedes ;;;habían bazucado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube bazucado;;tú //vos ;;;hubiste bazucado;;él //ella //usted ;;;hubo bazucado;;nosotros //nosotras ;;;hubimos bazucado;;vosotros //vosotras ;;;hubisteis bazucado;;ellos //ellas //ustedes ;;;hubieron bazucado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré bazucado;;tú //vos ;;;habrás bazucado;;él //ella //usted ;;;habrá bazucado;;nosotros //nosotras ;;;habremos bazucado;;vosotros //vosotras ;;;habréis bazucado;;ellos //ellas //ustedes ;;;habrán bazucado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;bazuque;;tú //vos ;;;bazuques;;él //ella //usted ;;;bazuque;;nosotros //nosotras ;;;bazuquemos;;vosotros //vosotras ;;;bazuquéis;;ellos //ellas //ustedes ;;;bazuquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;bazucara / bazucase;;tú //vos ;;;bazucaras / bazucases;;él //ella //usted ;;;bazucara / bazucase;;nosotros //nosotras ;;;bazucáramos / bazucásemos;;vosotros //vosotras ;;;bazucarais / bazucaseis;;ellos //ellas //ustedes ;;;bazucaran / bazucasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;bazucare;;tú //vos ;;;bazucares;;él //ella //usted ;;;bazucare;;nosotros //nosotras ;;;bazucáremos;;vosotros //vosotras ;;;bazucareis;;ellos //ellas //ustedes ;;;bazucaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya bazucado;;tú //vos ;;;hayas bazucado;;él //ella //usted ;;;haya bazucado;;nosotros //nosotras ;;;hayamos bazucado;;vosotros //vosotras ;;;hayáis bazucado;;ellos //ellas //ustedes ;;;hayan bazucado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera bazucado / hubiese bazucado;;tú //vos ;;;hubieras bazucado / hubieses bazucado;;él //ella //usted ;;;hubiera bazucado / hubiese bazucado;;nosotros //nosotras ;;;hubiéramos bazucado / hubiésemos bazucado;;vosotros //vosotras ;;;hubierais bazucado / hubieseis bazucado;;ellos //ellas //ustedes ;;;hubieran bazucado / hubiesen bazucado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere bazucado;;tú //vos ;;;hubieres bazucado;;él //ella //usted ;;;hubiere bazucado;;nosotros //nosotras ;;;hubiéremos bazucado;;vosotros //vosotras ;;;hubiereis bazucado;;ellos //ellas //ustedes ;;;hubieren bazucado;;;;;
+Condicional;condicional;;yo ;;;bazucaría;;tú //vos ;;;bazucarías;;él //ella //usted ;;;bazucaría;;nosotros //nosotras ;;;bazucaríamos;;vosotros //vosotras ;;;bazucaríais;;ellos //ellas //ustedes ;;;bazucarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría bazucado;;tú //vos ;;;habrías bazucado;;él //ella //usted ;;;habría bazucado;;nosotros //nosotras ;;;habríamos bazucado;;vosotros //vosotras ;;;habríais bazucado;;ellos //ellas //ustedes ;;;habrían bazucado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bazuca;;(usted) ;;;bazuque;;(nosotros) //(nosotras) ;;;bazuquemos;;(vosotros) //(vosotras) ;;;bazucad;;(ustedes) ;;;bazuquen;;(vos) ;;;bazucá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bazuques;;(usted) ;no ;;bazuque;;(nosotros) //(nosotras) ;no ;;bazuquemos;;(vosotros) //(vosotras) ;no ;;bazuquéis;;(ustedes) ;no ;;bazuquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;bazucar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bazuc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

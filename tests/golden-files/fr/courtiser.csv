@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;courtiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir courtisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en courtisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant courtisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;courtisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;courtisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;courtise;;tu ;;;courtises;;il/elle/on ;;;courtise;;nous ;;;courtisons;;vous ;;;courtisez;;ils/elles ;;;courtisent
+Indicatif Passé Composé;indicatif;;j’;;;ai courtisé;;tu ;;;as courtisé;;il/elle/on ;;;a courtisé;;nous ;;;avons courtisé;;vous ;;;avez courtisé;;ils/elles ;;;ont courtisé
+Indicatif Imparfait;indicatif;;je ;;;courtisais;;tu ;;;courtisais;;il/elle/on ;;;courtisait;;nous ;;;courtisions;;vous ;;;courtisiez;;ils/elles ;;;courtisaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais courtisé;;tu ;;;avais courtisé;;il/elle/on ;;;avait courtisé;;nous ;;;avions courtisé;;vous ;;;aviez courtisé;;ils/elles ;;;avaient courtisé
+Indicatif Passé Simple;indicatif;;je ;;;courtisai;;tu ;;;courtisas;;il/elle/on ;;;courtisa;;nous ;;;courtisâmes;;vous ;;;courtisâtes;;ils/elles ;;;courtisèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus courtisé;;tu ;;;eus courtisé;;il/elle/on ;;;eut courtisé;;nous ;;;eûmes courtisé;;vous ;;;eûtes courtisé;;ils/elles ;;;eurent courtisé
+Indicatif Futur Simple;indicatif;;je ;;;courtiserai;;tu ;;;courtiseras;;il/elle/on ;;;courtisera;;nous ;;;courtiserons;;vous ;;;courtiserez;;ils/elles ;;;courtiseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai courtisé;;tu ;;;auras courtisé;;il/elle/on ;;;aura courtisé;;nous ;;;aurons courtisé;;vous ;;;aurez courtisé;;ils/elles ;;;auront courtisé
+Subjonctif Présent;subjonctif;que ;je ;;;courtise;que ;tu ;;;courtises;qu’;il/elle/on ;;;courtise;que ;nous ;;;courtisions;que ;vous ;;;courtisiez;qu’;ils/elles ;;;courtisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie courtisé;que ;tu ;;;aies courtisé;qu’;il/elle/on ;;;ait courtisé;que ;nous ;;;ayons courtisé;que ;vous ;;;ayez courtisé;qu’;ils/elles ;;;aient courtisé
+Subjonctif Imparfait;subjonctif;que ;je ;;;courtisasse;que ;tu ;;;courtisasses;qu’;il/elle/on ;;;courtisât;que ;nous ;;;courtisassions;que ;vous ;;;courtisassiez;qu’;ils/elles ;;;courtisassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse courtisé;que ;tu ;;;eusses courtisé;qu’;il/elle/on ;;;eût courtisé;que ;nous ;;;eussions courtisé;que ;vous ;;;eussiez courtisé;qu’;ils/elles ;;;eussent courtisé
+Conditionnel;conditionnel;;je ;;;courtiserais;;tu ;;;courtiserais;;il/elle/on ;;;courtiserait;;nous ;;;courtiserions;;vous ;;;courtiseriez;;ils/elles ;;;courtiseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais courtisé;;tu ;;;aurais courtisé;;il/elle/on ;;;aurait courtisé;;nous ;;;aurions courtisé;;vous ;;;auriez courtisé;;ils/elles ;;;auraient courtisé
+Impératif Présent;impératif;;;;;;;;;;courtise;;;;;;;;;;courtisons;;;;;courtisez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;courtiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;courtis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

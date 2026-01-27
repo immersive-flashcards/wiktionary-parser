@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;assoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir assis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en asseyant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant assis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;asseyant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;assis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;assieds;;tu ;;;assieds;;il/elle/on ;;;assied;;nous ;;;asseyons;;vous ;;;asseyez;;ils/elles ;;;asseyent
+Indicatif Passé Composé;indicatif;;j’;;;ai assis;;tu ;;;as assis;;il/elle/on ;;;a assis;;nous ;;;avons assis;;vous ;;;avez assis;;ils/elles ;;;ont assis
+Indicatif Imparfait;indicatif;;j’;;;asseyais;;tu ;;;asseyais;;il/elle/on ;;;asseyait;;nous ;;;asseyions;;vous ;;;asseyiez;;ils/elles ;;;asseyaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais assis;;tu ;;;avais assis;;il/elle/on ;;;avait assis;;nous ;;;avions assis;;vous ;;;aviez assis;;ils/elles ;;;avaient assis
+Indicatif Passé Simple;indicatif;;j’;;;assis;;tu ;;;assis;;il/elle/on ;;;assit;;nous ;;;assîmes;;vous ;;;assîtes;;ils/elles ;;;assirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus assis;;tu ;;;eus assis;;il/elle/on ;;;eut assis;;nous ;;;eûmes assis;;vous ;;;eûtes assis;;ils/elles ;;;eurent assis
+Indicatif Futur Simple;indicatif;;j’;;;assiérai;;tu ;;;assiéras;;il/elle/on ;;;assiéra;;nous ;;;assiérons;;vous ;;;assiérez;;ils/elles ;;;assiéront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai assis;;tu ;;;auras assis;;il/elle/on ;;;aura assis;;nous ;;;aurons assis;;vous ;;;aurez assis;;ils/elles ;;;auront assis
+Subjonctif Présent;subjonctif;que ;j’;;;asseye;que ;tu ;;;asseyes;qu’;il/elle/on ;;;asseye;que ;nous ;;;asseyions;que ;vous ;;;asseyiez;qu’;ils/elles ;;;asseyent
+Subjonctif Passé;subjonctif;que ;j’;;;aie assis;que ;tu ;;;aies assis;qu’;il/elle/on ;;;ait assis;que ;nous ;;;ayons assis;que ;vous ;;;ayez assis;qu’;ils/elles ;;;aient assis
+Subjonctif Imparfait;subjonctif;que ;j’;;;assisse;que ;tu ;;;assisses;qu’;il/elle/on ;;;assît;que ;nous ;;;assissions;que ;vous ;;;assissiez;qu’;ils/elles ;;;assissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse assis;que ;tu ;;;eusses assis;qu’;il/elle/on ;;;eût assis;que ;nous ;;;eussions assis;que ;vous ;;;eussiez assis;qu’;ils/elles ;;;eussent assis
+Conditionnel;conditionnel;;j’;;;assiérais;;tu ;;;assiérais;;il/elle/on ;;;assiérait;;nous ;;;assiérions;;vous ;;;assiériez;;ils/elles ;;;assiéraient
+Conditionnel Passé;conditionnel;;j’;;;aurais assis;;tu ;;;aurais assis;;il/elle/on ;;;aurait assis;;nous ;;;aurions assis;;vous ;;;auriez assis;;ils/elles ;;;auraient assis
+Impératif Présent;impératif;;;;;;;;;;assieds;;;;;;;;;;asseyons;;;;;asseyez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;assoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;ass;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;oir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

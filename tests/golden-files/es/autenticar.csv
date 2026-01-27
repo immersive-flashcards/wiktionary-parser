@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;autenticar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;autenticando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;autenticado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;autentico;;tú ;;;autenticas;;él //ella //usted ;;;autentica;;nosotros //nosotras ;;;autenticamos;;vosotros //vosotras ;;;autenticáis;;ellos //ellas //ustedes ;;;autentican;;vos ;;;autenticás
+Indicativo Imperfecto;indicativo;;yo ;;;autenticaba;;tú //vos ;;;autenticabas;;él //ella //usted ;;;autenticaba;;nosotros //nosotras ;;;autenticábamos;;vosotros //vosotras ;;;autenticabais;;ellos //ellas //ustedes ;;;autenticaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;autentiqué;;tú //vos ;;;autenticaste;;él //ella //usted ;;;autenticó;;nosotros //nosotras ;;;autenticamos;;vosotros //vosotras ;;;autenticasteis;;ellos //ellas //ustedes ;;;autenticaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;autenticaré;;tú //vos ;;;autenticarás;;él //ella //usted ;;;autenticará;;nosotros //nosotras ;;;autenticaremos;;vosotros //vosotras ;;;autenticaréis;;ellos //ellas //ustedes ;;;autenticarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he autenticado;;tú //vos ;;;has autenticado;;él //ella //usted ;;;ha autenticado;;nosotros //nosotras ;;;hemos autenticado;;vosotros //vosotras ;;;habéis autenticado;;ellos //ellas //ustedes ;;;han autenticado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había autenticado;;tú //vos ;;;habías autenticado;;él //ella //usted ;;;había autenticado;;nosotros //nosotras ;;;habíamos autenticado;;vosotros //vosotras ;;;habíais autenticado;;ellos //ellas //ustedes ;;;habían autenticado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube autenticado;;tú //vos ;;;hubiste autenticado;;él //ella //usted ;;;hubo autenticado;;nosotros //nosotras ;;;hubimos autenticado;;vosotros //vosotras ;;;hubisteis autenticado;;ellos //ellas //ustedes ;;;hubieron autenticado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré autenticado;;tú //vos ;;;habrás autenticado;;él //ella //usted ;;;habrá autenticado;;nosotros //nosotras ;;;habremos autenticado;;vosotros //vosotras ;;;habréis autenticado;;ellos //ellas //ustedes ;;;habrán autenticado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;autentique;;tú //vos ;;;autentiques;;él //ella //usted ;;;autentique;;nosotros //nosotras ;;;autentiquemos;;vosotros //vosotras ;;;autentiquéis;;ellos //ellas //ustedes ;;;autentiquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;autenticara / autenticase;;tú //vos ;;;autenticaras / autenticases;;él //ella //usted ;;;autenticara / autenticase;;nosotros //nosotras ;;;autenticáramos / autenticásemos;;vosotros //vosotras ;;;autenticarais / autenticaseis;;ellos //ellas //ustedes ;;;autenticaran / autenticasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;autenticare;;tú //vos ;;;autenticares;;él //ella //usted ;;;autenticare;;nosotros //nosotras ;;;autenticáremos;;vosotros //vosotras ;;;autenticareis;;ellos //ellas //ustedes ;;;autenticaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya autenticado;;tú //vos ;;;hayas autenticado;;él //ella //usted ;;;haya autenticado;;nosotros //nosotras ;;;hayamos autenticado;;vosotros //vosotras ;;;hayáis autenticado;;ellos //ellas //ustedes ;;;hayan autenticado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera autenticado / hubiese autenticado;;tú //vos ;;;hubieras autenticado / hubieses autenticado;;él //ella //usted ;;;hubiera autenticado / hubiese autenticado;;nosotros //nosotras ;;;hubiéramos autenticado / hubiésemos autenticado;;vosotros //vosotras ;;;hubierais autenticado / hubieseis autenticado;;ellos //ellas //ustedes ;;;hubieran autenticado / hubiesen autenticado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere autenticado;;tú //vos ;;;hubieres autenticado;;él //ella //usted ;;;hubiere autenticado;;nosotros //nosotras ;;;hubiéremos autenticado;;vosotros //vosotras ;;;hubiereis autenticado;;ellos //ellas //ustedes ;;;hubieren autenticado;;;;;
+Condicional;condicional;;yo ;;;autenticaría;;tú //vos ;;;autenticarías;;él //ella //usted ;;;autenticaría;;nosotros //nosotras ;;;autenticaríamos;;vosotros //vosotras ;;;autenticaríais;;ellos //ellas //ustedes ;;;autenticarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría autenticado;;tú //vos ;;;habrías autenticado;;él //ella //usted ;;;habría autenticado;;nosotros //nosotras ;;;habríamos autenticado;;vosotros //vosotras ;;;habríais autenticado;;ellos //ellas //ustedes ;;;habrían autenticado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;autentica;;(usted) ;;;autentique;;(nosotros) //(nosotras) ;;;autentiquemos;;(vosotros) //(vosotras) ;;;autenticad;;(ustedes) ;;;autentiquen;;(vos) ;;;autenticá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;autentiques;;(usted) ;no ;;autentique;;(nosotros) //(nosotras) ;no ;;autentiquemos;;(vosotros) //(vosotras) ;no ;;autentiquéis;;(ustedes) ;no ;;autentiquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;autenticar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;autentic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

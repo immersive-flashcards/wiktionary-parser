@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;gustar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;gustant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;gustat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;gusto;;tu ;;;gustes;;ell //ella //vostè ;;;gusta;;nosaltres ;;;gustem;;vosaltres ;;;gusteu;;ells //elles //vostès ;;;gusten
+Indicatiu Imperfet;indicativo;;jo ;;;gustava;;tu ;;;gustaves;;ell //ella //vostè ;;;gustava;;nosaltres ;;;gustàvem;;vosaltres ;;;gustàveu;;ells //elles //vostès ;;;gustaven
+Indicatiu Futur;indicativo;;jo ;;;gustaré;;tu ;;;gustaràs;;ell //ella //vostè ;;;gustarà;;nosaltres ;;;gustarem;;vosaltres ;;;gustareu;;ells //elles //vostès ;;;gustaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;gustí;;tu ;;;gustares;;ell //ella //vostè ;;;gustà;;nosaltres ;;;gustàrem;;vosaltres ;;;gustàreu;;ells //elles //vostès ;;;gustaren
+Condicional;condicional;;jo ;;;gustaria;;tu ;;;gustaries;;ell //ella //vostè ;;;gustaria;;nosaltres ;;;gustaríem;;vosaltres ;;;gustaríeu;;ells //elles //vostès ;;;gustarien
+Subjuntiu Present;subjuntiu;;jo ;;;gusti;;tu ;;;gustis;;ell //ella //vostè ;;;gusti;;nosaltres ;;;gustem;;vosaltres ;;;gusteu;;ells //elles //vostès ;;;gustin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;gustés;;tu ;;;gustessis;;ell //ella //vostè ;;;gustés;;nosaltres ;;;gustéssim;;vosaltres ;;;gustéssiu;;ells //elles //vostès ;;;gustessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;gusta;;(vostè) ;;;gusti;;(nosaltres) ;;;gustem;;(vosaltres) ;;;gusteu;;(vostès) ;;;gustin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;gustis;;(vostè) ;no ;;gusti;;(nosaltres) ;no ;;gustem;;(vosaltres) ;no ;;gusteu;;(vostès) ;no ;;gustin
+Indicatiu Perfet;indicatiu;;jo ;;;he gustat;;tu ;;;has gustat;;ell //ella //vostè ;;;ha gustat;;nosaltres ;;;hem gustat;;vosaltres ;;;heu gustat;;ells //elles //vostès ;;;han gustat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig gustat;;tu ;;;vas gustat;;ell //ella //vostè ;;;va gustat;;nosaltres ;;;vam gustat;;vosaltres ;;;vau gustat;;ells //elles //vostès ;;;van gustat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia gustat;;tu ;;;havies gustat;;ell //ella //vostè ;;;havia gustat;;nosaltres ;;;havíem gustat;;vosaltres ;;;havíeu gustat;;ells //elles //vostès ;;;havien gustat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí gustat;;tu ;;;hagueres gustat;;ell //ella //vostè ;;;hagué gustat;;nosaltres ;;;haguérem gustat;;vosaltres ;;;haguéreu gustat;;ells //elles //vostès ;;;hagueren gustat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver gustat;;tu ;;;vas haver gustat;;ell //ella //vostè ;;;va haver gustat;;nosaltres ;;;vam haver gustat;;vosaltres ;;;vau haver gustat;;ells //elles //vostès ;;;van haver gustat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré gustat;;tu ;;;hauràs gustat;;ell //ella //vostè ;;;haurà gustat;;nosaltres ;;;haurem gustat;;vosaltres ;;;haureu gustat;;ells //elles //vostès ;;;hauran gustat
+Condicional Perfet;condicional;;jo ;;;hauria gustat;;tu ;;;hauries gustat;;ell //ella //vostè ;;;hauria gustat;;nosaltres ;;;hauríem gustat;;vosaltres ;;;hauríeu gustat;;ells //elles //vostès ;;;haurien gustat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi gustat;;tu ;;;vagis gustat;;ell //ella //vostè ;;;vagi gustat;;nosaltres ;;;vàgim gustat;;vosaltres ;;;vàgiu gustat;;ells //elles //vostès ;;;vagin gustat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi gustat;;tu ;;;hagis gustat;;ell //ella //vostè ;;;hagi gustat;;nosaltres ;;;hàgim gustat;;vosaltres ;;;hàgiu gustat;;ells //elles //vostès ;;;hagin gustat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes gustat;;tu ;;;haguessis gustat;;ell //ella //vostè ;;;hagués gustat;;nosaltres ;;;haguéssim gustat;;vosaltres ;;;haguéssiu gustat;;ells //elles //vostès ;;;haguessin gustat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver gustat;;tu ;;;vagis haver gustat;;ell //ella //vostè ;;;vagi haver gustat;;nosaltres ;;;vàgim haver gustat;;vosaltres ;;;vàgiu haver gustat;;ells //elles //vostès ;;;vagin haver gustat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;gustar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;gust;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

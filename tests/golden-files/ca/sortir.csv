@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;sortir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;sortint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;sortit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;surto;;tu ;;;surts;;ell //ella //vostè ;;;surt;;nosaltres ;;;sortim;;vosaltres ;;;sortiu;;ells //elles //vostès ;;;surten
+Indicatiu Imperfet;indicativo;;jo ;;;sortia;;tu ;;;sorties;;ell //ella //vostè ;;;sortia;;nosaltres ;;;sortíem;;vosaltres ;;;sortíeu;;ells //elles //vostès ;;;sortien
+Indicatiu Futur;indicativo;;jo ;;;sortiré;;tu ;;;sortiràs;;ell //ella //vostè ;;;sortirà;;nosaltres ;;;sortirem;;vosaltres ;;;sortireu;;ells //elles //vostès ;;;sortiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;sortí;;tu ;;;sortires;;ell //ella //vostè ;;;sortí;;nosaltres ;;;sortírem;;vosaltres ;;;sortíreu;;ells //elles //vostès ;;;sortiren
+Condicional;condicional;;jo ;;;sortiria;;tu ;;;sortiries;;ell //ella //vostè ;;;sortiria;;nosaltres ;;;sortiríem;;vosaltres ;;;sortiríeu;;ells //elles //vostès ;;;sortirien
+Subjuntiu Present;subjuntiu;;jo ;;;surti;;tu ;;;surtis;;ell //ella //vostè ;;;surti;;nosaltres ;;;sortim;;vosaltres ;;;sortiu;;ells //elles //vostès ;;;surtin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;sortís;;tu ;;;sortissis;;ell //ella //vostè ;;;sortís;;nosaltres ;;;sortíssim;;vosaltres ;;;sortíssiu;;ells //elles //vostès ;;;sortissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;surt;;(vostè) ;;;surti;;(nosaltres) ;;;sortim;;(vosaltres) ;;;sortiu;;(vostès) ;;;surtin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;surtis;;(vostè) ;no ;;surti;;(nosaltres) ;no ;;sortim;;(vosaltres) ;no ;;sortiu;;(vostès) ;no ;;surtin
+Indicatiu Perfet;indicatiu;;jo ;;;he sortit;;tu ;;;has sortit;;ell //ella //vostè ;;;ha sortit;;nosaltres ;;;hem sortit;;vosaltres ;;;heu sortit;;ells //elles //vostès ;;;han sortit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig sortit;;tu ;;;vas sortit;;ell //ella //vostè ;;;va sortit;;nosaltres ;;;vam sortit;;vosaltres ;;;vau sortit;;ells //elles //vostès ;;;van sortit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia sortit;;tu ;;;havies sortit;;ell //ella //vostè ;;;havia sortit;;nosaltres ;;;havíem sortit;;vosaltres ;;;havíeu sortit;;ells //elles //vostès ;;;havien sortit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí sortit;;tu ;;;hagueres sortit;;ell //ella //vostè ;;;hagué sortit;;nosaltres ;;;haguérem sortit;;vosaltres ;;;haguéreu sortit;;ells //elles //vostès ;;;hagueren sortit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver sortit;;tu ;;;vas haver sortit;;ell //ella //vostè ;;;va haver sortit;;nosaltres ;;;vam haver sortit;;vosaltres ;;;vau haver sortit;;ells //elles //vostès ;;;van haver sortit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré sortit;;tu ;;;hauràs sortit;;ell //ella //vostè ;;;haurà sortit;;nosaltres ;;;haurem sortit;;vosaltres ;;;haureu sortit;;ells //elles //vostès ;;;hauran sortit
+Condicional Perfet;condicional;;jo ;;;hauria sortit;;tu ;;;hauries sortit;;ell //ella //vostè ;;;hauria sortit;;nosaltres ;;;hauríem sortit;;vosaltres ;;;hauríeu sortit;;ells //elles //vostès ;;;haurien sortit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi sortit;;tu ;;;vagis sortit;;ell //ella //vostè ;;;vagi sortit;;nosaltres ;;;vàgim sortit;;vosaltres ;;;vàgiu sortit;;ells //elles //vostès ;;;vagin sortit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi sortit;;tu ;;;hagis sortit;;ell //ella //vostè ;;;hagi sortit;;nosaltres ;;;hàgim sortit;;vosaltres ;;;hàgiu sortit;;ells //elles //vostès ;;;hagin sortit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes sortit;;tu ;;;haguessis sortit;;ell //ella //vostè ;;;hagués sortit;;nosaltres ;;;haguéssim sortit;;vosaltres ;;;haguéssiu sortit;;ells //elles //vostès ;;;haguessin sortit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver sortit;;tu ;;;vagis haver sortit;;ell //ella //vostè ;;;vagi haver sortit;;nosaltres ;;;vàgim haver sortit;;vosaltres ;;;vàgiu haver sortit;;ells //elles //vostès ;;;vagin haver sortit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;irregular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;sortir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;sort;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

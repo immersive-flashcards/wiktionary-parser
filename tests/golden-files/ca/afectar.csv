@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;afectar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;afectant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;afectat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;afecto;;tu ;;;afectes;;ell //ella //vostè ;;;afecta;;nosaltres ;;;afectem;;vosaltres ;;;afecteu;;ells //elles //vostès ;;;afecten
+Indicatiu Imperfet;indicativo;;jo ;;;afectava;;tu ;;;afectaves;;ell //ella //vostè ;;;afectava;;nosaltres ;;;afectàvem;;vosaltres ;;;afectàveu;;ells //elles //vostès ;;;afectaven
+Indicatiu Futur;indicativo;;jo ;;;afectaré;;tu ;;;afectaràs;;ell //ella //vostè ;;;afectarà;;nosaltres ;;;afectarem;;vosaltres ;;;afectareu;;ells //elles //vostès ;;;afectaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;afectí;;tu ;;;afectares;;ell //ella //vostè ;;;afectà;;nosaltres ;;;afectàrem;;vosaltres ;;;afectàreu;;ells //elles //vostès ;;;afectaren
+Condicional;condicional;;jo ;;;afectaria;;tu ;;;afectaries;;ell //ella //vostè ;;;afectaria;;nosaltres ;;;afectaríem;;vosaltres ;;;afectaríeu;;ells //elles //vostès ;;;afectarien
+Subjuntiu Present;subjuntiu;;jo ;;;afecti;;tu ;;;afectis;;ell //ella //vostè ;;;afecti;;nosaltres ;;;afectem;;vosaltres ;;;afecteu;;ells //elles //vostès ;;;afectin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;afectés;;tu ;;;afectessis;;ell //ella //vostè ;;;afectés;;nosaltres ;;;afectéssim;;vosaltres ;;;afectéssiu;;ells //elles //vostès ;;;afectessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;afecta;;(vostè) ;;;afecti;;(nosaltres) ;;;afectem;;(vosaltres) ;;;afecteu;;(vostès) ;;;afectin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;afectis;;(vostè) ;no ;;afecti;;(nosaltres) ;no ;;afectem;;(vosaltres) ;no ;;afecteu;;(vostès) ;no ;;afectin
+Indicatiu Perfet;indicatiu;;jo ;;;he afectat;;tu ;;;has afectat;;ell //ella //vostè ;;;ha afectat;;nosaltres ;;;hem afectat;;vosaltres ;;;heu afectat;;ells //elles //vostès ;;;han afectat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig afectat;;tu ;;;vas afectat;;ell //ella //vostè ;;;va afectat;;nosaltres ;;;vam afectat;;vosaltres ;;;vau afectat;;ells //elles //vostès ;;;van afectat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia afectat;;tu ;;;havies afectat;;ell //ella //vostè ;;;havia afectat;;nosaltres ;;;havíem afectat;;vosaltres ;;;havíeu afectat;;ells //elles //vostès ;;;havien afectat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí afectat;;tu ;;;hagueres afectat;;ell //ella //vostè ;;;hagué afectat;;nosaltres ;;;haguérem afectat;;vosaltres ;;;haguéreu afectat;;ells //elles //vostès ;;;hagueren afectat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver afectat;;tu ;;;vas haver afectat;;ell //ella //vostè ;;;va haver afectat;;nosaltres ;;;vam haver afectat;;vosaltres ;;;vau haver afectat;;ells //elles //vostès ;;;van haver afectat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré afectat;;tu ;;;hauràs afectat;;ell //ella //vostè ;;;haurà afectat;;nosaltres ;;;haurem afectat;;vosaltres ;;;haureu afectat;;ells //elles //vostès ;;;hauran afectat
+Condicional Perfet;condicional;;jo ;;;hauria afectat;;tu ;;;hauries afectat;;ell //ella //vostè ;;;hauria afectat;;nosaltres ;;;hauríem afectat;;vosaltres ;;;hauríeu afectat;;ells //elles //vostès ;;;haurien afectat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi afectat;;tu ;;;vagis afectat;;ell //ella //vostè ;;;vagi afectat;;nosaltres ;;;vàgim afectat;;vosaltres ;;;vàgiu afectat;;ells //elles //vostès ;;;vagin afectat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi afectat;;tu ;;;hagis afectat;;ell //ella //vostè ;;;hagi afectat;;nosaltres ;;;hàgim afectat;;vosaltres ;;;hàgiu afectat;;ells //elles //vostès ;;;hagin afectat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes afectat;;tu ;;;haguessis afectat;;ell //ella //vostè ;;;hagués afectat;;nosaltres ;;;haguéssim afectat;;vosaltres ;;;haguéssiu afectat;;ells //elles //vostès ;;;haguessin afectat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver afectat;;tu ;;;vagis haver afectat;;ell //ella //vostè ;;;vagi haver afectat;;nosaltres ;;;vàgim haver afectat;;vosaltres ;;;vàgiu haver afectat;;ells //elles //vostès ;;;vagin haver afectat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;afectar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;afect;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

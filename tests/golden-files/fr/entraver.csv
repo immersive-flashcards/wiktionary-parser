@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;entraver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir entravé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en entravant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant entravé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;entravant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;entravé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;entrave;;tu ;;;entraves;;il/elle/on ;;;entrave;;nous ;;;entravons;;vous ;;;entravez;;ils/elles ;;;entravent
+Indicatif Passé Composé;indicatif;;j’;;;ai entravé;;tu ;;;as entravé;;il/elle/on ;;;a entravé;;nous ;;;avons entravé;;vous ;;;avez entravé;;ils/elles ;;;ont entravé
+Indicatif Imparfait;indicatif;;j’;;;entravais;;tu ;;;entravais;;il/elle/on ;;;entravait;;nous ;;;entravions;;vous ;;;entraviez;;ils/elles ;;;entravaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais entravé;;tu ;;;avais entravé;;il/elle/on ;;;avait entravé;;nous ;;;avions entravé;;vous ;;;aviez entravé;;ils/elles ;;;avaient entravé
+Indicatif Passé Simple;indicatif;;j’;;;entravai;;tu ;;;entravas;;il/elle/on ;;;entrava;;nous ;;;entravâmes;;vous ;;;entravâtes;;ils/elles ;;;entravèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus entravé;;tu ;;;eus entravé;;il/elle/on ;;;eut entravé;;nous ;;;eûmes entravé;;vous ;;;eûtes entravé;;ils/elles ;;;eurent entravé
+Indicatif Futur Simple;indicatif;;j’;;;entraverai;;tu ;;;entraveras;;il/elle/on ;;;entravera;;nous ;;;entraverons;;vous ;;;entraverez;;ils/elles ;;;entraveront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai entravé;;tu ;;;auras entravé;;il/elle/on ;;;aura entravé;;nous ;;;aurons entravé;;vous ;;;aurez entravé;;ils/elles ;;;auront entravé
+Subjonctif Présent;subjonctif;que ;j’;;;entrave;que ;tu ;;;entraves;qu’;il/elle/on ;;;entrave;que ;nous ;;;entravions;que ;vous ;;;entraviez;qu’;ils/elles ;;;entravent
+Subjonctif Passé;subjonctif;que ;j’;;;aie entravé;que ;tu ;;;aies entravé;qu’;il/elle/on ;;;ait entravé;que ;nous ;;;ayons entravé;que ;vous ;;;ayez entravé;qu’;ils/elles ;;;aient entravé
+Subjonctif Imparfait;subjonctif;que ;j’;;;entravasse;que ;tu ;;;entravasses;qu’;il/elle/on ;;;entravât;que ;nous ;;;entravassions;que ;vous ;;;entravassiez;qu’;ils/elles ;;;entravassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse entravé;que ;tu ;;;eusses entravé;qu’;il/elle/on ;;;eût entravé;que ;nous ;;;eussions entravé;que ;vous ;;;eussiez entravé;qu’;ils/elles ;;;eussent entravé
+Conditionnel;conditionnel;;j’;;;entraverais;;tu ;;;entraverais;;il/elle/on ;;;entraverait;;nous ;;;entraverions;;vous ;;;entraveriez;;ils/elles ;;;entraveraient
+Conditionnel Passé;conditionnel;;j’;;;aurais entravé;;tu ;;;aurais entravé;;il/elle/on ;;;aurait entravé;;nous ;;;aurions entravé;;vous ;;;auriez entravé;;ils/elles ;;;auraient entravé
+Impératif Présent;impératif;;;;;;;;;;entrave;;;;;;;;;;entravons;;;;;entravez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;entraver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;entrav;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

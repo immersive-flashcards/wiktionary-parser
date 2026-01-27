@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;amener;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir amené;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en amenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant amené;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;amenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;amené;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;amène;;tu ;;;amènes;;il/elle/on ;;;amène;;nous ;;;amenons;;vous ;;;amenez;;ils/elles ;;;amènent
+Indicatif Passé Composé;indicatif;;j’;;;ai amené;;tu ;;;as amené;;il/elle/on ;;;a amené;;nous ;;;avons amené;;vous ;;;avez amené;;ils/elles ;;;ont amené
+Indicatif Imparfait;indicatif;;j’;;;amenais;;tu ;;;amenais;;il/elle/on ;;;amenait;;nous ;;;amenions;;vous ;;;ameniez;;ils/elles ;;;amenaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais amené;;tu ;;;avais amené;;il/elle/on ;;;avait amené;;nous ;;;avions amené;;vous ;;;aviez amené;;ils/elles ;;;avaient amené
+Indicatif Passé Simple;indicatif;;j’;;;amenai;;tu ;;;amenas;;il/elle/on ;;;amena;;nous ;;;amenâmes;;vous ;;;amenâtes;;ils/elles ;;;amenèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus amené;;tu ;;;eus amené;;il/elle/on ;;;eut amené;;nous ;;;eûmes amené;;vous ;;;eûtes amené;;ils/elles ;;;eurent amené
+Indicatif Futur Simple;indicatif;;j’;;;amènerai;;tu ;;;amèneras;;il/elle/on ;;;amènera;;nous ;;;amènerons;;vous ;;;amènerez;;ils/elles ;;;amèneront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai amené;;tu ;;;auras amené;;il/elle/on ;;;aura amené;;nous ;;;aurons amené;;vous ;;;aurez amené;;ils/elles ;;;auront amené
+Subjonctif Présent;subjonctif;que ;j’;;;amène;que ;tu ;;;amènes;qu’;il/elle/on ;;;amène;que ;nous ;;;amenions;que ;vous ;;;ameniez;qu’;ils/elles ;;;amènent
+Subjonctif Passé;subjonctif;que ;j’;;;aie amené;que ;tu ;;;aies amené;qu’;il/elle/on ;;;ait amené;que ;nous ;;;ayons amené;que ;vous ;;;ayez amené;qu’;ils/elles ;;;aient amené
+Subjonctif Imparfait;subjonctif;que ;j’;;;amenasse;que ;tu ;;;amenasses;qu’;il/elle/on ;;;amenât;que ;nous ;;;amenassions;que ;vous ;;;amenassiez;qu’;ils/elles ;;;amenassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse amené;que ;tu ;;;eusses amené;qu’;il/elle/on ;;;eût amené;que ;nous ;;;eussions amené;que ;vous ;;;eussiez amené;qu’;ils/elles ;;;eussent amené
+Conditionnel;conditionnel;;j’;;;amènerais;;tu ;;;amènerais;;il/elle/on ;;;amènerait;;nous ;;;amènerions;;vous ;;;amèneriez;;ils/elles ;;;amèneraient
+Conditionnel Passé;conditionnel;;j’;;;aurais amené;;tu ;;;aurais amené;;il/elle/on ;;;aurait amené;;nous ;;;aurions amené;;vous ;;;auriez amené;;ils/elles ;;;auraient amené
+Impératif Présent;impératif;;;;;;;;;;amène;;;;;;;;;;amenons;;;;;amenez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;amener;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;amen;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

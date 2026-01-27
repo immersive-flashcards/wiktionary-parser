@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;opinar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;opinant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;opinat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;opino;;tu ;;;opines;;ell //ella //vostè ;;;opina;;nosaltres ;;;opinem;;vosaltres ;;;opineu;;ells //elles //vostès ;;;opinen
+Indicatiu Imperfet;indicativo;;jo ;;;opinava;;tu ;;;opinaves;;ell //ella //vostè ;;;opinava;;nosaltres ;;;opinàvem;;vosaltres ;;;opinàveu;;ells //elles //vostès ;;;opinaven
+Indicatiu Futur;indicativo;;jo ;;;opinaré;;tu ;;;opinaràs;;ell //ella //vostè ;;;opinarà;;nosaltres ;;;opinarem;;vosaltres ;;;opinareu;;ells //elles //vostès ;;;opinaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;opiní;;tu ;;;opinares;;ell //ella //vostè ;;;opinà;;nosaltres ;;;opinàrem;;vosaltres ;;;opinàreu;;ells //elles //vostès ;;;opinaren
+Condicional;condicional;;jo ;;;opinaria;;tu ;;;opinaries;;ell //ella //vostè ;;;opinaria;;nosaltres ;;;opinaríem;;vosaltres ;;;opinaríeu;;ells //elles //vostès ;;;opinarien
+Subjuntiu Present;subjuntiu;;jo ;;;opini;;tu ;;;opinis;;ell //ella //vostè ;;;opini;;nosaltres ;;;opinem;;vosaltres ;;;opineu;;ells //elles //vostès ;;;opinin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;opinés;;tu ;;;opinessis;;ell //ella //vostè ;;;opinés;;nosaltres ;;;opinéssim;;vosaltres ;;;opinéssiu;;ells //elles //vostès ;;;opinessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;opina;;(vostè) ;;;opini;;(nosaltres) ;;;opinem;;(vosaltres) ;;;opineu;;(vostès) ;;;opinin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;opinis;;(vostè) ;no ;;opini;;(nosaltres) ;no ;;opinem;;(vosaltres) ;no ;;opineu;;(vostès) ;no ;;opinin
+Indicatiu Perfet;indicatiu;;jo ;;;he opinat;;tu ;;;has opinat;;ell //ella //vostè ;;;ha opinat;;nosaltres ;;;hem opinat;;vosaltres ;;;heu opinat;;ells //elles //vostès ;;;han opinat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig opinat;;tu ;;;vas opinat;;ell //ella //vostè ;;;va opinat;;nosaltres ;;;vam opinat;;vosaltres ;;;vau opinat;;ells //elles //vostès ;;;van opinat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia opinat;;tu ;;;havies opinat;;ell //ella //vostè ;;;havia opinat;;nosaltres ;;;havíem opinat;;vosaltres ;;;havíeu opinat;;ells //elles //vostès ;;;havien opinat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí opinat;;tu ;;;hagueres opinat;;ell //ella //vostè ;;;hagué opinat;;nosaltres ;;;haguérem opinat;;vosaltres ;;;haguéreu opinat;;ells //elles //vostès ;;;hagueren opinat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver opinat;;tu ;;;vas haver opinat;;ell //ella //vostè ;;;va haver opinat;;nosaltres ;;;vam haver opinat;;vosaltres ;;;vau haver opinat;;ells //elles //vostès ;;;van haver opinat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré opinat;;tu ;;;hauràs opinat;;ell //ella //vostè ;;;haurà opinat;;nosaltres ;;;haurem opinat;;vosaltres ;;;haureu opinat;;ells //elles //vostès ;;;hauran opinat
+Condicional Perfet;condicional;;jo ;;;hauria opinat;;tu ;;;hauries opinat;;ell //ella //vostè ;;;hauria opinat;;nosaltres ;;;hauríem opinat;;vosaltres ;;;hauríeu opinat;;ells //elles //vostès ;;;haurien opinat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi opinat;;tu ;;;vagis opinat;;ell //ella //vostè ;;;vagi opinat;;nosaltres ;;;vàgim opinat;;vosaltres ;;;vàgiu opinat;;ells //elles //vostès ;;;vagin opinat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi opinat;;tu ;;;hagis opinat;;ell //ella //vostè ;;;hagi opinat;;nosaltres ;;;hàgim opinat;;vosaltres ;;;hàgiu opinat;;ells //elles //vostès ;;;hagin opinat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes opinat;;tu ;;;haguessis opinat;;ell //ella //vostè ;;;hagués opinat;;nosaltres ;;;haguéssim opinat;;vosaltres ;;;haguéssiu opinat;;ells //elles //vostès ;;;haguessin opinat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver opinat;;tu ;;;vagis haver opinat;;ell //ella //vostè ;;;vagi haver opinat;;nosaltres ;;;vàgim haver opinat;;vosaltres ;;;vàgiu haver opinat;;ells //elles //vostès ;;;vagin haver opinat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;opinar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;opin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

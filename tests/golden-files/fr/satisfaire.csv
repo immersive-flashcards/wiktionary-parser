@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;satisfaire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir satisfait;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en satisfaisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant satisfait;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;satisfaisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;satisfait;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;satisfais;;tu ;;;satisfais;;il/elle/on ;;;satisfait;;nous ;;;satisfaisons;;vous ;;;satisfaites;;ils/elles ;;;satisfont
+Indicatif Passé Composé;indicatif;;j’;;;ai satisfait;;tu ;;;as satisfait;;il/elle/on ;;;a satisfait;;nous ;;;avons satisfait;;vous ;;;avez satisfait;;ils/elles ;;;ont satisfait
+Indicatif Imparfait;indicatif;;je ;;;satisfaisais;;tu ;;;satisfaisais;;il/elle/on ;;;satisfaisait;;nous ;;;satisfaisions;;vous ;;;satisfaisiez;;ils/elles ;;;satisfaisaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais satisfait;;tu ;;;avais satisfait;;il/elle/on ;;;avait satisfait;;nous ;;;avions satisfait;;vous ;;;aviez satisfait;;ils/elles ;;;avaient satisfait
+Indicatif Passé Simple;indicatif;;je ;;;satisfis;;tu ;;;satisfis;;il/elle/on ;;;satisfit;;nous ;;;satisfîmes;;vous ;;;satisfîtes;;ils/elles ;;;satisfirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus satisfait;;tu ;;;eus satisfait;;il/elle/on ;;;eut satisfait;;nous ;;;eûmes satisfait;;vous ;;;eûtes satisfait;;ils/elles ;;;eurent satisfait
+Indicatif Futur Simple;indicatif;;je ;;;satisferai;;tu ;;;satisferas;;il/elle/on ;;;satisfera;;nous ;;;satisferons;;vous ;;;satisferez;;ils/elles ;;;satisferont
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai satisfait;;tu ;;;auras satisfait;;il/elle/on ;;;aura satisfait;;nous ;;;aurons satisfait;;vous ;;;aurez satisfait;;ils/elles ;;;auront satisfait
+Subjonctif Présent;subjonctif;que ;je ;;;satisfasse;que ;tu ;;;satisfasses;qu’;il/elle/on ;;;satisfasse;que ;nous ;;;satisfassions;que ;vous ;;;satisfassiez;qu’;ils/elles ;;;satisfassent
+Subjonctif Passé;subjonctif;que ;j’;;;aie satisfait;que ;tu ;;;aies satisfait;qu’;il/elle/on ;;;ait satisfait;que ;nous ;;;ayons satisfait;que ;vous ;;;ayez satisfait;qu’;ils/elles ;;;aient satisfait
+Subjonctif Imparfait;subjonctif;que ;je ;;;satisfisse;que ;tu ;;;satisfisses;qu’;il/elle/on ;;;satisfît;que ;nous ;;;satisfissions;que ;vous ;;;satisfissiez;qu’;ils/elles ;;;satisfissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse satisfait;que ;tu ;;;eusses satisfait;qu’;il/elle/on ;;;eût satisfait;que ;nous ;;;eussions satisfait;que ;vous ;;;eussiez satisfait;qu’;ils/elles ;;;eussent satisfait
+Conditionnel;conditionnel;;je ;;;satisferais;;tu ;;;satisferais;;il/elle/on ;;;satisferait;;nous ;;;satisferions;;vous ;;;satisferiez;;ils/elles ;;;satisferaient
+Conditionnel Passé;conditionnel;;j’;;;aurais satisfait;;tu ;;;aurais satisfait;;il/elle/on ;;;aurait satisfait;;nous ;;;aurions satisfait;;vous ;;;auriez satisfait;;ils/elles ;;;auraient satisfait
+Impératif Présent;impératif;;;;;;;;;;satisfais;;;;;;;;;;satisfaisons;;;;;satisfaites;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;satisfaire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;satisfai;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

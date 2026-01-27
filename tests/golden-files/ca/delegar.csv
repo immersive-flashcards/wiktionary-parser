@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;delegar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;delegant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;delegat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;delego;;tu ;;;delegues;;ell //ella //vostè ;;;delega;;nosaltres ;;;deleguem;;vosaltres ;;;delegueu;;ells //elles //vostès ;;;deleguen
+Indicatiu Imperfet;indicativo;;jo ;;;delegava;;tu ;;;delegaves;;ell //ella //vostè ;;;delegava;;nosaltres ;;;delegàvem;;vosaltres ;;;delegàveu;;ells //elles //vostès ;;;delegaven
+Indicatiu Futur;indicativo;;jo ;;;delegaré;;tu ;;;delegaràs;;ell //ella //vostè ;;;delegarà;;nosaltres ;;;delegarem;;vosaltres ;;;delegareu;;ells //elles //vostès ;;;delegaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;deleguí;;tu ;;;delegares;;ell //ella //vostè ;;;delegà;;nosaltres ;;;delegàrem;;vosaltres ;;;delegàreu;;ells //elles //vostès ;;;delegaren
+Condicional;condicional;;jo ;;;delegaria;;tu ;;;delegaries;;ell //ella //vostè ;;;delegaria;;nosaltres ;;;delegaríem;;vosaltres ;;;delegaríeu;;ells //elles //vostès ;;;delegarien
+Subjuntiu Present;subjuntiu;;jo ;;;delegui;;tu ;;;deleguis;;ell //ella //vostè ;;;delegui;;nosaltres ;;;deleguem;;vosaltres ;;;delegueu;;ells //elles //vostès ;;;deleguin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;delegués;;tu ;;;deleguessis;;ell //ella //vostè ;;;delegués;;nosaltres ;;;deleguéssim;;vosaltres ;;;deleguéssiu;;ells //elles //vostès ;;;deleguessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;delega;;(vostè) ;;;delegui;;(nosaltres) ;;;deleguem;;(vosaltres) ;;;delegueu;;(vostès) ;;;deleguin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;deleguis;;(vostè) ;no ;;delegui;;(nosaltres) ;no ;;deleguem;;(vosaltres) ;no ;;delegueu;;(vostès) ;no ;;deleguin
+Indicatiu Perfet;indicatiu;;jo ;;;he delegat;;tu ;;;has delegat;;ell //ella //vostè ;;;ha delegat;;nosaltres ;;;hem delegat;;vosaltres ;;;heu delegat;;ells //elles //vostès ;;;han delegat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig delegat;;tu ;;;vas delegat;;ell //ella //vostè ;;;va delegat;;nosaltres ;;;vam delegat;;vosaltres ;;;vau delegat;;ells //elles //vostès ;;;van delegat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia delegat;;tu ;;;havies delegat;;ell //ella //vostè ;;;havia delegat;;nosaltres ;;;havíem delegat;;vosaltres ;;;havíeu delegat;;ells //elles //vostès ;;;havien delegat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí delegat;;tu ;;;hagueres delegat;;ell //ella //vostè ;;;hagué delegat;;nosaltres ;;;haguérem delegat;;vosaltres ;;;haguéreu delegat;;ells //elles //vostès ;;;hagueren delegat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver delegat;;tu ;;;vas haver delegat;;ell //ella //vostè ;;;va haver delegat;;nosaltres ;;;vam haver delegat;;vosaltres ;;;vau haver delegat;;ells //elles //vostès ;;;van haver delegat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré delegat;;tu ;;;hauràs delegat;;ell //ella //vostè ;;;haurà delegat;;nosaltres ;;;haurem delegat;;vosaltres ;;;haureu delegat;;ells //elles //vostès ;;;hauran delegat
+Condicional Perfet;condicional;;jo ;;;hauria delegat;;tu ;;;hauries delegat;;ell //ella //vostè ;;;hauria delegat;;nosaltres ;;;hauríem delegat;;vosaltres ;;;hauríeu delegat;;ells //elles //vostès ;;;haurien delegat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi delegat;;tu ;;;vagis delegat;;ell //ella //vostè ;;;vagi delegat;;nosaltres ;;;vàgim delegat;;vosaltres ;;;vàgiu delegat;;ells //elles //vostès ;;;vagin delegat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi delegat;;tu ;;;hagis delegat;;ell //ella //vostè ;;;hagi delegat;;nosaltres ;;;hàgim delegat;;vosaltres ;;;hàgiu delegat;;ells //elles //vostès ;;;hagin delegat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes delegat;;tu ;;;haguessis delegat;;ell //ella //vostè ;;;hagués delegat;;nosaltres ;;;haguéssim delegat;;vosaltres ;;;haguéssiu delegat;;ells //elles //vostès ;;;haguessin delegat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver delegat;;tu ;;;vagis haver delegat;;ell //ella //vostè ;;;vagi haver delegat;;nosaltres ;;;vàgim haver delegat;;vosaltres ;;;vàgiu haver delegat;;ells //elles //vostès ;;;vagin haver delegat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;delegar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;deleg;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

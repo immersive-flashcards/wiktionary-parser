@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;matter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir matté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en mattant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant matté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;mattant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;matté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;matte;;tu ;;;mattes;;il/elle/on ;;;matte;;nous ;;;mattons;;vous ;;;mattez;;ils/elles ;;;mattent
+Indicatif Passé Composé;indicatif;;j’;;;ai matté;;tu ;;;as matté;;il/elle/on ;;;a matté;;nous ;;;avons matté;;vous ;;;avez matté;;ils/elles ;;;ont matté
+Indicatif Imparfait;indicatif;;je ;;;mattais;;tu ;;;mattais;;il/elle/on ;;;mattait;;nous ;;;mattions;;vous ;;;mattiez;;ils/elles ;;;mattaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais matté;;tu ;;;avais matté;;il/elle/on ;;;avait matté;;nous ;;;avions matté;;vous ;;;aviez matté;;ils/elles ;;;avaient matté
+Indicatif Passé Simple;indicatif;;je ;;;mattai;;tu ;;;mattas;;il/elle/on ;;;matta;;nous ;;;mattâmes;;vous ;;;mattâtes;;ils/elles ;;;mattèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus matté;;tu ;;;eus matté;;il/elle/on ;;;eut matté;;nous ;;;eûmes matté;;vous ;;;eûtes matté;;ils/elles ;;;eurent matté
+Indicatif Futur Simple;indicatif;;je ;;;matterai;;tu ;;;matteras;;il/elle/on ;;;mattera;;nous ;;;matterons;;vous ;;;matterez;;ils/elles ;;;matteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai matté;;tu ;;;auras matté;;il/elle/on ;;;aura matté;;nous ;;;aurons matté;;vous ;;;aurez matté;;ils/elles ;;;auront matté
+Subjonctif Présent;subjonctif;que ;je ;;;matte;que ;tu ;;;mattes;qu’;il/elle/on ;;;matte;que ;nous ;;;mattions;que ;vous ;;;mattiez;qu’;ils/elles ;;;mattent
+Subjonctif Passé;subjonctif;que ;j’;;;aie matté;que ;tu ;;;aies matté;qu’;il/elle/on ;;;ait matté;que ;nous ;;;ayons matté;que ;vous ;;;ayez matté;qu’;ils/elles ;;;aient matté
+Subjonctif Imparfait;subjonctif;que ;je ;;;mattasse;que ;tu ;;;mattasses;qu’;il/elle/on ;;;mattât;que ;nous ;;;mattassions;que ;vous ;;;mattassiez;qu’;ils/elles ;;;mattassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse matté;que ;tu ;;;eusses matté;qu’;il/elle/on ;;;eût matté;que ;nous ;;;eussions matté;que ;vous ;;;eussiez matté;qu’;ils/elles ;;;eussent matté
+Conditionnel;conditionnel;;je ;;;matterais;;tu ;;;matterais;;il/elle/on ;;;matterait;;nous ;;;matterions;;vous ;;;matteriez;;ils/elles ;;;matteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais matté;;tu ;;;aurais matté;;il/elle/on ;;;aurait matté;;nous ;;;aurions matté;;vous ;;;auriez matté;;ils/elles ;;;auraient matté
+Impératif Présent;impératif;;;;;;;;;;matte;;;;;;;;;;mattons;;;;;mattez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;matter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;matt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

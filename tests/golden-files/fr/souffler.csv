@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;souffler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir soufflé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en soufflant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant soufflé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;soufflant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;soufflé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;souffle;;tu ;;;souffles;;il/elle/on ;;;souffle;;nous ;;;soufflons;;vous ;;;soufflez;;ils/elles ;;;soufflent
+Indicatif Passé Composé;indicatif;;j’;;;ai soufflé;;tu ;;;as soufflé;;il/elle/on ;;;a soufflé;;nous ;;;avons soufflé;;vous ;;;avez soufflé;;ils/elles ;;;ont soufflé
+Indicatif Imparfait;indicatif;;je ;;;soufflais;;tu ;;;soufflais;;il/elle/on ;;;soufflait;;nous ;;;soufflions;;vous ;;;souffliez;;ils/elles ;;;soufflaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais soufflé;;tu ;;;avais soufflé;;il/elle/on ;;;avait soufflé;;nous ;;;avions soufflé;;vous ;;;aviez soufflé;;ils/elles ;;;avaient soufflé
+Indicatif Passé Simple;indicatif;;je ;;;soufflai;;tu ;;;soufflas;;il/elle/on ;;;souffla;;nous ;;;soufflâmes;;vous ;;;soufflâtes;;ils/elles ;;;soufflèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus soufflé;;tu ;;;eus soufflé;;il/elle/on ;;;eut soufflé;;nous ;;;eûmes soufflé;;vous ;;;eûtes soufflé;;ils/elles ;;;eurent soufflé
+Indicatif Futur Simple;indicatif;;je ;;;soufflerai;;tu ;;;souffleras;;il/elle/on ;;;soufflera;;nous ;;;soufflerons;;vous ;;;soufflerez;;ils/elles ;;;souffleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai soufflé;;tu ;;;auras soufflé;;il/elle/on ;;;aura soufflé;;nous ;;;aurons soufflé;;vous ;;;aurez soufflé;;ils/elles ;;;auront soufflé
+Subjonctif Présent;subjonctif;que ;je ;;;souffle;que ;tu ;;;souffles;qu’;il/elle/on ;;;souffle;que ;nous ;;;soufflions;que ;vous ;;;souffliez;qu’;ils/elles ;;;soufflent
+Subjonctif Passé;subjonctif;que ;j’;;;aie soufflé;que ;tu ;;;aies soufflé;qu’;il/elle/on ;;;ait soufflé;que ;nous ;;;ayons soufflé;que ;vous ;;;ayez soufflé;qu’;ils/elles ;;;aient soufflé
+Subjonctif Imparfait;subjonctif;que ;je ;;;soufflasse;que ;tu ;;;soufflasses;qu’;il/elle/on ;;;soufflât;que ;nous ;;;soufflassions;que ;vous ;;;soufflassiez;qu’;ils/elles ;;;soufflassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse soufflé;que ;tu ;;;eusses soufflé;qu’;il/elle/on ;;;eût soufflé;que ;nous ;;;eussions soufflé;que ;vous ;;;eussiez soufflé;qu’;ils/elles ;;;eussent soufflé
+Conditionnel;conditionnel;;je ;;;soufflerais;;tu ;;;soufflerais;;il/elle/on ;;;soufflerait;;nous ;;;soufflerions;;vous ;;;souffleriez;;ils/elles ;;;souffleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais soufflé;;tu ;;;aurais soufflé;;il/elle/on ;;;aurait soufflé;;nous ;;;aurions soufflé;;vous ;;;auriez soufflé;;ils/elles ;;;auraient soufflé
+Impératif Présent;impératif;;;;;;;;;;souffle;;;;;;;;;;soufflons;;;;;soufflez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;souffler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;souffl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

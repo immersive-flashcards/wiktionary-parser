@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;monder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir mondé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en mondant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant mondé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;mondant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;mondé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;monde;;tu ;;;mondes;;il/elle/on ;;;monde;;nous ;;;mondons;;vous ;;;mondez;;ils/elles ;;;mondent
+Indicatif Passé Composé;indicatif;;j’;;;ai mondé;;tu ;;;as mondé;;il/elle/on ;;;a mondé;;nous ;;;avons mondé;;vous ;;;avez mondé;;ils/elles ;;;ont mondé
+Indicatif Imparfait;indicatif;;je ;;;mondais;;tu ;;;mondais;;il/elle/on ;;;mondait;;nous ;;;mondions;;vous ;;;mondiez;;ils/elles ;;;mondaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais mondé;;tu ;;;avais mondé;;il/elle/on ;;;avait mondé;;nous ;;;avions mondé;;vous ;;;aviez mondé;;ils/elles ;;;avaient mondé
+Indicatif Passé Simple;indicatif;;je ;;;mondai;;tu ;;;mondas;;il/elle/on ;;;monda;;nous ;;;mondâmes;;vous ;;;mondâtes;;ils/elles ;;;mondèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus mondé;;tu ;;;eus mondé;;il/elle/on ;;;eut mondé;;nous ;;;eûmes mondé;;vous ;;;eûtes mondé;;ils/elles ;;;eurent mondé
+Indicatif Futur Simple;indicatif;;je ;;;monderai;;tu ;;;monderas;;il/elle/on ;;;mondera;;nous ;;;monderons;;vous ;;;monderez;;ils/elles ;;;monderont
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai mondé;;tu ;;;auras mondé;;il/elle/on ;;;aura mondé;;nous ;;;aurons mondé;;vous ;;;aurez mondé;;ils/elles ;;;auront mondé
+Subjonctif Présent;subjonctif;que ;je ;;;monde;que ;tu ;;;mondes;qu’;il/elle/on ;;;monde;que ;nous ;;;mondions;que ;vous ;;;mondiez;qu’;ils/elles ;;;mondent
+Subjonctif Passé;subjonctif;que ;j’;;;aie mondé;que ;tu ;;;aies mondé;qu’;il/elle/on ;;;ait mondé;que ;nous ;;;ayons mondé;que ;vous ;;;ayez mondé;qu’;ils/elles ;;;aient mondé
+Subjonctif Imparfait;subjonctif;que ;je ;;;mondasse;que ;tu ;;;mondasses;qu’;il/elle/on ;;;mondât;que ;nous ;;;mondassions;que ;vous ;;;mondassiez;qu’;ils/elles ;;;mondassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse mondé;que ;tu ;;;eusses mondé;qu’;il/elle/on ;;;eût mondé;que ;nous ;;;eussions mondé;que ;vous ;;;eussiez mondé;qu’;ils/elles ;;;eussent mondé
+Conditionnel;conditionnel;;je ;;;monderais;;tu ;;;monderais;;il/elle/on ;;;monderait;;nous ;;;monderions;;vous ;;;monderiez;;ils/elles ;;;monderaient
+Conditionnel Passé;conditionnel;;j’;;;aurais mondé;;tu ;;;aurais mondé;;il/elle/on ;;;aurait mondé;;nous ;;;aurions mondé;;vous ;;;auriez mondé;;ils/elles ;;;auraient mondé
+Impératif Présent;impératif;;;;;;;;;;monde;;;;;;;;;;mondons;;;;;mondez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;monder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;mond;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

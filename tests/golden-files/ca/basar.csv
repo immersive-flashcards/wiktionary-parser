@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;basar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;basant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;basat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;baso;;tu ;;;bases;;ell //ella //vostè ;;;basa;;nosaltres ;;;basem;;vosaltres ;;;baseu;;ells //elles //vostès ;;;basen
+Indicatiu Imperfet;indicativo;;jo ;;;basava;;tu ;;;basaves;;ell //ella //vostè ;;;basava;;nosaltres ;;;basàvem;;vosaltres ;;;basàveu;;ells //elles //vostès ;;;basaven
+Indicatiu Futur;indicativo;;jo ;;;basaré;;tu ;;;basaràs;;ell //ella //vostè ;;;basarà;;nosaltres ;;;basarem;;vosaltres ;;;basareu;;ells //elles //vostès ;;;basaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;basí;;tu ;;;basares;;ell //ella //vostè ;;;basà;;nosaltres ;;;basàrem;;vosaltres ;;;basàreu;;ells //elles //vostès ;;;basaren
+Condicional;condicional;;jo ;;;basaria;;tu ;;;basaries;;ell //ella //vostè ;;;basaria;;nosaltres ;;;basaríem;;vosaltres ;;;basaríeu;;ells //elles //vostès ;;;basarien
+Subjuntiu Present;subjuntiu;;jo ;;;basi;;tu ;;;basis;;ell //ella //vostè ;;;basi;;nosaltres ;;;basem;;vosaltres ;;;baseu;;ells //elles //vostès ;;;basin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;basés;;tu ;;;basessis;;ell //ella //vostè ;;;basés;;nosaltres ;;;baséssim;;vosaltres ;;;baséssiu;;ells //elles //vostès ;;;basessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;basa;;(vostè) ;;;basi;;(nosaltres) ;;;basem;;(vosaltres) ;;;baseu;;(vostès) ;;;basin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;basis;;(vostè) ;no ;;basi;;(nosaltres) ;no ;;basem;;(vosaltres) ;no ;;baseu;;(vostès) ;no ;;basin
+Indicatiu Perfet;indicatiu;;jo ;;;he basat;;tu ;;;has basat;;ell //ella //vostè ;;;ha basat;;nosaltres ;;;hem basat;;vosaltres ;;;heu basat;;ells //elles //vostès ;;;han basat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig basat;;tu ;;;vas basat;;ell //ella //vostè ;;;va basat;;nosaltres ;;;vam basat;;vosaltres ;;;vau basat;;ells //elles //vostès ;;;van basat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia basat;;tu ;;;havies basat;;ell //ella //vostè ;;;havia basat;;nosaltres ;;;havíem basat;;vosaltres ;;;havíeu basat;;ells //elles //vostès ;;;havien basat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí basat;;tu ;;;hagueres basat;;ell //ella //vostè ;;;hagué basat;;nosaltres ;;;haguérem basat;;vosaltres ;;;haguéreu basat;;ells //elles //vostès ;;;hagueren basat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver basat;;tu ;;;vas haver basat;;ell //ella //vostè ;;;va haver basat;;nosaltres ;;;vam haver basat;;vosaltres ;;;vau haver basat;;ells //elles //vostès ;;;van haver basat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré basat;;tu ;;;hauràs basat;;ell //ella //vostè ;;;haurà basat;;nosaltres ;;;haurem basat;;vosaltres ;;;haureu basat;;ells //elles //vostès ;;;hauran basat
+Condicional Perfet;condicional;;jo ;;;hauria basat;;tu ;;;hauries basat;;ell //ella //vostè ;;;hauria basat;;nosaltres ;;;hauríem basat;;vosaltres ;;;hauríeu basat;;ells //elles //vostès ;;;haurien basat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi basat;;tu ;;;vagis basat;;ell //ella //vostè ;;;vagi basat;;nosaltres ;;;vàgim basat;;vosaltres ;;;vàgiu basat;;ells //elles //vostès ;;;vagin basat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi basat;;tu ;;;hagis basat;;ell //ella //vostè ;;;hagi basat;;nosaltres ;;;hàgim basat;;vosaltres ;;;hàgiu basat;;ells //elles //vostès ;;;hagin basat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes basat;;tu ;;;haguessis basat;;ell //ella //vostè ;;;hagués basat;;nosaltres ;;;haguéssim basat;;vosaltres ;;;haguéssiu basat;;ells //elles //vostès ;;;haguessin basat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver basat;;tu ;;;vagis haver basat;;ell //ella //vostè ;;;vagi haver basat;;nosaltres ;;;vàgim haver basat;;vosaltres ;;;vàgiu haver basat;;ells //elles //vostès ;;;vagin haver basat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;basar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bas;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

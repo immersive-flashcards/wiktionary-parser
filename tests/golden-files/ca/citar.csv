@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;citar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;citant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;citat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;cito;;tu ;;;cites;;ell //ella //vostè ;;;cita;;nosaltres ;;;citem;;vosaltres ;;;citeu;;ells //elles //vostès ;;;citen
+Indicatiu Imperfet;indicativo;;jo ;;;citava;;tu ;;;citaves;;ell //ella //vostè ;;;citava;;nosaltres ;;;citàvem;;vosaltres ;;;citàveu;;ells //elles //vostès ;;;citaven
+Indicatiu Futur;indicativo;;jo ;;;citaré;;tu ;;;citaràs;;ell //ella //vostè ;;;citarà;;nosaltres ;;;citarem;;vosaltres ;;;citareu;;ells //elles //vostès ;;;citaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;cití;;tu ;;;citares;;ell //ella //vostè ;;;cità;;nosaltres ;;;citàrem;;vosaltres ;;;citàreu;;ells //elles //vostès ;;;citaren
+Condicional;condicional;;jo ;;;citaria;;tu ;;;citaries;;ell //ella //vostè ;;;citaria;;nosaltres ;;;citaríem;;vosaltres ;;;citaríeu;;ells //elles //vostès ;;;citarien
+Subjuntiu Present;subjuntiu;;jo ;;;citi;;tu ;;;citis;;ell //ella //vostè ;;;citi;;nosaltres ;;;citem;;vosaltres ;;;citeu;;ells //elles //vostès ;;;citin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;cités;;tu ;;;citessis;;ell //ella //vostè ;;;cités;;nosaltres ;;;citéssim;;vosaltres ;;;citéssiu;;ells //elles //vostès ;;;citessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;cita;;(vostè) ;;;citi;;(nosaltres) ;;;citem;;(vosaltres) ;;;citeu;;(vostès) ;;;citin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;citis;;(vostè) ;no ;;citi;;(nosaltres) ;no ;;citem;;(vosaltres) ;no ;;citeu;;(vostès) ;no ;;citin
+Indicatiu Perfet;indicatiu;;jo ;;;he citat;;tu ;;;has citat;;ell //ella //vostè ;;;ha citat;;nosaltres ;;;hem citat;;vosaltres ;;;heu citat;;ells //elles //vostès ;;;han citat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig citat;;tu ;;;vas citat;;ell //ella //vostè ;;;va citat;;nosaltres ;;;vam citat;;vosaltres ;;;vau citat;;ells //elles //vostès ;;;van citat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia citat;;tu ;;;havies citat;;ell //ella //vostè ;;;havia citat;;nosaltres ;;;havíem citat;;vosaltres ;;;havíeu citat;;ells //elles //vostès ;;;havien citat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí citat;;tu ;;;hagueres citat;;ell //ella //vostè ;;;hagué citat;;nosaltres ;;;haguérem citat;;vosaltres ;;;haguéreu citat;;ells //elles //vostès ;;;hagueren citat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver citat;;tu ;;;vas haver citat;;ell //ella //vostè ;;;va haver citat;;nosaltres ;;;vam haver citat;;vosaltres ;;;vau haver citat;;ells //elles //vostès ;;;van haver citat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré citat;;tu ;;;hauràs citat;;ell //ella //vostè ;;;haurà citat;;nosaltres ;;;haurem citat;;vosaltres ;;;haureu citat;;ells //elles //vostès ;;;hauran citat
+Condicional Perfet;condicional;;jo ;;;hauria citat;;tu ;;;hauries citat;;ell //ella //vostè ;;;hauria citat;;nosaltres ;;;hauríem citat;;vosaltres ;;;hauríeu citat;;ells //elles //vostès ;;;haurien citat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi citat;;tu ;;;vagis citat;;ell //ella //vostè ;;;vagi citat;;nosaltres ;;;vàgim citat;;vosaltres ;;;vàgiu citat;;ells //elles //vostès ;;;vagin citat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi citat;;tu ;;;hagis citat;;ell //ella //vostè ;;;hagi citat;;nosaltres ;;;hàgim citat;;vosaltres ;;;hàgiu citat;;ells //elles //vostès ;;;hagin citat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes citat;;tu ;;;haguessis citat;;ell //ella //vostè ;;;hagués citat;;nosaltres ;;;haguéssim citat;;vosaltres ;;;haguéssiu citat;;ells //elles //vostès ;;;haguessin citat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver citat;;tu ;;;vagis haver citat;;ell //ella //vostè ;;;vagi haver citat;;nosaltres ;;;vàgim haver citat;;vosaltres ;;;vàgiu haver citat;;ells //elles //vostès ;;;vagin haver citat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;citar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;cit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;punir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir puni;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en punissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant puni;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;punissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;puni;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;punis;;tu ;;;punis;;il/elle/on ;;;punit;;nous ;;;punissons;;vous ;;;punissez;;ils/elles ;;;punissent
+Indicatif Passé Composé;indicatif;;j’;;;ai puni;;tu ;;;as puni;;il/elle/on ;;;a puni;;nous ;;;avons puni;;vous ;;;avez puni;;ils/elles ;;;ont puni
+Indicatif Imparfait;indicatif;;je ;;;punissais;;tu ;;;punissais;;il/elle/on ;;;punissait;;nous ;;;punissions;;vous ;;;punissiez;;ils/elles ;;;punissaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais puni;;tu ;;;avais puni;;il/elle/on ;;;avait puni;;nous ;;;avions puni;;vous ;;;aviez puni;;ils/elles ;;;avaient puni
+Indicatif Passé Simple;indicatif;;je ;;;punis;;tu ;;;punis;;il/elle/on ;;;punit;;nous ;;;punîmes;;vous ;;;punîtes;;ils/elles ;;;punirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus puni;;tu ;;;eus puni;;il/elle/on ;;;eut puni;;nous ;;;eûmes puni;;vous ;;;eûtes puni;;ils/elles ;;;eurent puni
+Indicatif Futur Simple;indicatif;;je ;;;punirai;;tu ;;;puniras;;il/elle/on ;;;punira;;nous ;;;punirons;;vous ;;;punirez;;ils/elles ;;;puniront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai puni;;tu ;;;auras puni;;il/elle/on ;;;aura puni;;nous ;;;aurons puni;;vous ;;;aurez puni;;ils/elles ;;;auront puni
+Subjonctif Présent;subjonctif;que ;je ;;;punisse;que ;tu ;;;punisses;qu’;il/elle/on ;;;punisse;que ;nous ;;;punissions;que ;vous ;;;punissiez;qu’;ils/elles ;;;punissent
+Subjonctif Passé;subjonctif;que ;j’;;;aie puni;que ;tu ;;;aies puni;qu’;il/elle/on ;;;ait puni;que ;nous ;;;ayons puni;que ;vous ;;;ayez puni;qu’;ils/elles ;;;aient puni
+Subjonctif Imparfait;subjonctif;que ;je ;;;punisse;que ;tu ;;;punisses;qu’;il/elle/on ;;;punît;que ;nous ;;;punissions;que ;vous ;;;punissiez;qu’;ils/elles ;;;punissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse puni;que ;tu ;;;eusses puni;qu’;il/elle/on ;;;eût puni;que ;nous ;;;eussions puni;que ;vous ;;;eussiez puni;qu’;ils/elles ;;;eussent puni
+Conditionnel;conditionnel;;je ;;;punirais;;tu ;;;punirais;;il/elle/on ;;;punirait;;nous ;;;punirions;;vous ;;;puniriez;;ils/elles ;;;puniraient
+Conditionnel Passé;conditionnel;;j’;;;aurais puni;;tu ;;;aurais puni;;il/elle/on ;;;aurait puni;;nous ;;;aurions puni;;vous ;;;auriez puni;;ils/elles ;;;auraient puni
+Impératif Présent;impératif;;;;;;;;;;punis;;;;;;;;;;punissons;;;;;punissez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;punir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;pun;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

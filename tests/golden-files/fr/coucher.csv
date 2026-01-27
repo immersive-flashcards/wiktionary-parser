@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;coucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir couché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en couchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant couché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;couchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;couché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;couche;;tu ;;;couches;;il/elle/on ;;;couche;;nous ;;;couchons;;vous ;;;couchez;;ils/elles ;;;couchent
+Indicatif Passé Composé;indicatif;;j’;;;ai couché;;tu ;;;as couché;;il/elle/on ;;;a couché;;nous ;;;avons couché;;vous ;;;avez couché;;ils/elles ;;;ont couché
+Indicatif Imparfait;indicatif;;je ;;;couchais;;tu ;;;couchais;;il/elle/on ;;;couchait;;nous ;;;couchions;;vous ;;;couchiez;;ils/elles ;;;couchaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais couché;;tu ;;;avais couché;;il/elle/on ;;;avait couché;;nous ;;;avions couché;;vous ;;;aviez couché;;ils/elles ;;;avaient couché
+Indicatif Passé Simple;indicatif;;je ;;;couchai;;tu ;;;couchas;;il/elle/on ;;;coucha;;nous ;;;couchâmes;;vous ;;;couchâtes;;ils/elles ;;;couchèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus couché;;tu ;;;eus couché;;il/elle/on ;;;eut couché;;nous ;;;eûmes couché;;vous ;;;eûtes couché;;ils/elles ;;;eurent couché
+Indicatif Futur Simple;indicatif;;je ;;;coucherai;;tu ;;;coucheras;;il/elle/on ;;;couchera;;nous ;;;coucherons;;vous ;;;coucherez;;ils/elles ;;;coucheront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai couché;;tu ;;;auras couché;;il/elle/on ;;;aura couché;;nous ;;;aurons couché;;vous ;;;aurez couché;;ils/elles ;;;auront couché
+Subjonctif Présent;subjonctif;que ;je ;;;couche;que ;tu ;;;couches;qu’;il/elle/on ;;;couche;que ;nous ;;;couchions;que ;vous ;;;couchiez;qu’;ils/elles ;;;couchent
+Subjonctif Passé;subjonctif;que ;j’;;;aie couché;que ;tu ;;;aies couché;qu’;il/elle/on ;;;ait couché;que ;nous ;;;ayons couché;que ;vous ;;;ayez couché;qu’;ils/elles ;;;aient couché
+Subjonctif Imparfait;subjonctif;que ;je ;;;couchasse;que ;tu ;;;couchasses;qu’;il/elle/on ;;;couchât;que ;nous ;;;couchassions;que ;vous ;;;couchassiez;qu’;ils/elles ;;;couchassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse couché;que ;tu ;;;eusses couché;qu’;il/elle/on ;;;eût couché;que ;nous ;;;eussions couché;que ;vous ;;;eussiez couché;qu’;ils/elles ;;;eussent couché
+Conditionnel;conditionnel;;je ;;;coucherais;;tu ;;;coucherais;;il/elle/on ;;;coucherait;;nous ;;;coucherions;;vous ;;;coucheriez;;ils/elles ;;;coucheraient
+Conditionnel Passé;conditionnel;;j’;;;aurais couché;;tu ;;;aurais couché;;il/elle/on ;;;aurait couché;;nous ;;;aurions couché;;vous ;;;auriez couché;;ils/elles ;;;auraient couché
+Impératif Présent;impératif;;;;;;;;;;couche;;;;;;;;;;couchons;;;;;couchez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;coucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;couch;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

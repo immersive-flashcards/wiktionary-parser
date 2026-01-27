@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;acezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;acezando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;acezado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;acezo;;tú ;;;acezas;;él //ella //usted ;;;aceza;;nosotros //nosotras ;;;acezamos;;vosotros //vosotras ;;;acezáis;;ellos //ellas //ustedes ;;;acezan;;vos ;;;acezás
+Indicativo Imperfecto;indicativo;;yo ;;;acezaba;;tú //vos ;;;acezabas;;él //ella //usted ;;;acezaba;;nosotros //nosotras ;;;acezábamos;;vosotros //vosotras ;;;acezabais;;ellos //ellas //ustedes ;;;acezaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;acecé;;tú //vos ;;;acezaste;;él //ella //usted ;;;acezó;;nosotros //nosotras ;;;acezamos;;vosotros //vosotras ;;;acezasteis;;ellos //ellas //ustedes ;;;acezaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;acezaré;;tú //vos ;;;acezarás;;él //ella //usted ;;;acezará;;nosotros //nosotras ;;;acezaremos;;vosotros //vosotras ;;;acezaréis;;ellos //ellas //ustedes ;;;acezarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he acezado;;tú //vos ;;;has acezado;;él //ella //usted ;;;ha acezado;;nosotros //nosotras ;;;hemos acezado;;vosotros //vosotras ;;;habéis acezado;;ellos //ellas //ustedes ;;;han acezado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había acezado;;tú //vos ;;;habías acezado;;él //ella //usted ;;;había acezado;;nosotros //nosotras ;;;habíamos acezado;;vosotros //vosotras ;;;habíais acezado;;ellos //ellas //ustedes ;;;habían acezado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube acezado;;tú //vos ;;;hubiste acezado;;él //ella //usted ;;;hubo acezado;;nosotros //nosotras ;;;hubimos acezado;;vosotros //vosotras ;;;hubisteis acezado;;ellos //ellas //ustedes ;;;hubieron acezado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré acezado;;tú //vos ;;;habrás acezado;;él //ella //usted ;;;habrá acezado;;nosotros //nosotras ;;;habremos acezado;;vosotros //vosotras ;;;habréis acezado;;ellos //ellas //ustedes ;;;habrán acezado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;acece;;tú //vos ;;;aceces;;él //ella //usted ;;;acece;;nosotros //nosotras ;;;acecemos;;vosotros //vosotras ;;;acecéis;;ellos //ellas //ustedes ;;;acecen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;acezara / acezase;;tú //vos ;;;acezaras / acezases;;él //ella //usted ;;;acezara / acezase;;nosotros //nosotras ;;;acezáramos / acezásemos;;vosotros //vosotras ;;;acezarais / acezaseis;;ellos //ellas //ustedes ;;;acezaran / acezasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;acezare;;tú //vos ;;;acezares;;él //ella //usted ;;;acezare;;nosotros //nosotras ;;;acezáremos;;vosotros //vosotras ;;;acezareis;;ellos //ellas //ustedes ;;;acezaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya acezado;;tú //vos ;;;hayas acezado;;él //ella //usted ;;;haya acezado;;nosotros //nosotras ;;;hayamos acezado;;vosotros //vosotras ;;;hayáis acezado;;ellos //ellas //ustedes ;;;hayan acezado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera acezado / hubiese acezado;;tú //vos ;;;hubieras acezado / hubieses acezado;;él //ella //usted ;;;hubiera acezado / hubiese acezado;;nosotros //nosotras ;;;hubiéramos acezado / hubiésemos acezado;;vosotros //vosotras ;;;hubierais acezado / hubieseis acezado;;ellos //ellas //ustedes ;;;hubieran acezado / hubiesen acezado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere acezado;;tú //vos ;;;hubieres acezado;;él //ella //usted ;;;hubiere acezado;;nosotros //nosotras ;;;hubiéremos acezado;;vosotros //vosotras ;;;hubiereis acezado;;ellos //ellas //ustedes ;;;hubieren acezado;;;;;
+Condicional;condicional;;yo ;;;acezaría;;tú //vos ;;;acezarías;;él //ella //usted ;;;acezaría;;nosotros //nosotras ;;;acezaríamos;;vosotros //vosotras ;;;acezaríais;;ellos //ellas //ustedes ;;;acezarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría acezado;;tú //vos ;;;habrías acezado;;él //ella //usted ;;;habría acezado;;nosotros //nosotras ;;;habríamos acezado;;vosotros //vosotras ;;;habríais acezado;;ellos //ellas //ustedes ;;;habrían acezado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aceza;;(usted) ;;;acece;;(nosotros) //(nosotras) ;;;acecemos;;(vosotros) //(vosotras) ;;;acezad;;(ustedes) ;;;acecen;;(vos) ;;;acezá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aceces;;(usted) ;no ;;acece;;(nosotros) //(nosotras) ;no ;;acecemos;;(vosotros) //(vosotras) ;no ;;acecéis;;(ustedes) ;no ;;acecen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;acezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;acez;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

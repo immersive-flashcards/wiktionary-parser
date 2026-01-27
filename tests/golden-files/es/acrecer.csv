@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;acrecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;acreciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;acrecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;acrezco;;tú ;;;acreces;;él //ella //usted ;;;acrece;;nosotros //nosotras ;;;acrecemos;;vosotros //vosotras ;;;acrecéis;;ellos //ellas //ustedes ;;;acrecen;;vos ;;;acrecés
+Indicativo Imperfecto;indicativo;;yo ;;;acrecía;;tú //vos ;;;acrecías;;él //ella //usted ;;;acrecía;;nosotros //nosotras ;;;acrecíamos;;vosotros //vosotras ;;;acrecíais;;ellos //ellas //ustedes ;;;acrecían;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;acrecí;;tú //vos ;;;acreciste;;él //ella //usted ;;;acreció;;nosotros //nosotras ;;;acrecimos;;vosotros //vosotras ;;;acrecisteis;;ellos //ellas //ustedes ;;;acrecieron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;acreceré;;tú //vos ;;;acrecerás;;él //ella //usted ;;;acrecerá;;nosotros //nosotras ;;;acreceremos;;vosotros //vosotras ;;;acreceréis;;ellos //ellas //ustedes ;;;acrecerán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he acrecido;;tú //vos ;;;has acrecido;;él //ella //usted ;;;ha acrecido;;nosotros //nosotras ;;;hemos acrecido;;vosotros //vosotras ;;;habéis acrecido;;ellos //ellas //ustedes ;;;han acrecido;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había acrecido;;tú //vos ;;;habías acrecido;;él //ella //usted ;;;había acrecido;;nosotros //nosotras ;;;habíamos acrecido;;vosotros //vosotras ;;;habíais acrecido;;ellos //ellas //ustedes ;;;habían acrecido;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube acrecido;;tú //vos ;;;hubiste acrecido;;él //ella //usted ;;;hubo acrecido;;nosotros //nosotras ;;;hubimos acrecido;;vosotros //vosotras ;;;hubisteis acrecido;;ellos //ellas //ustedes ;;;hubieron acrecido;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré acrecido;;tú //vos ;;;habrás acrecido;;él //ella //usted ;;;habrá acrecido;;nosotros //nosotras ;;;habremos acrecido;;vosotros //vosotras ;;;habréis acrecido;;ellos //ellas //ustedes ;;;habrán acrecido;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;acrezca;;tú //vos ;;;acrezcas;;él //ella //usted ;;;acrezca;;nosotros //nosotras ;;;acrezcamos;;vosotros //vosotras ;;;acrezcáis;;ellos //ellas //ustedes ;;;acrezcan;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;acreciera / acreciese;;tú //vos ;;;acrecieras / acrecieses;;él //ella //usted ;;;acreciera / acreciese;;nosotros //nosotras ;;;acreciéramos / acreciésemos;;vosotros //vosotras ;;;acrecierais / acrecieseis;;ellos //ellas //ustedes ;;;acrecieran / acreciesen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;acreciere;;tú //vos ;;;acrecieres;;él //ella //usted ;;;acreciere;;nosotros //nosotras ;;;acreciéremos;;vosotros //vosotras ;;;acreciereis;;ellos //ellas //ustedes ;;;acrecieren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya acrecido;;tú //vos ;;;hayas acrecido;;él //ella //usted ;;;haya acrecido;;nosotros //nosotras ;;;hayamos acrecido;;vosotros //vosotras ;;;hayáis acrecido;;ellos //ellas //ustedes ;;;hayan acrecido;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera acrecido / hubiese acrecido;;tú //vos ;;;hubieras acrecido / hubieses acrecido;;él //ella //usted ;;;hubiera acrecido / hubiese acrecido;;nosotros //nosotras ;;;hubiéramos acrecido / hubiésemos acrecido;;vosotros //vosotras ;;;hubierais acrecido / hubieseis acrecido;;ellos //ellas //ustedes ;;;hubieran acrecido / hubiesen acrecido;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere acrecido;;tú //vos ;;;hubieres acrecido;;él //ella //usted ;;;hubiere acrecido;;nosotros //nosotras ;;;hubiéremos acrecido;;vosotros //vosotras ;;;hubiereis acrecido;;ellos //ellas //ustedes ;;;hubieren acrecido;;;;;
+Condicional;condicional;;yo ;;;acrecería;;tú //vos ;;;acrecerías;;él //ella //usted ;;;acrecería;;nosotros //nosotras ;;;acreceríamos;;vosotros //vosotras ;;;acreceríais;;ellos //ellas //ustedes ;;;acrecerían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría acrecido;;tú //vos ;;;habrías acrecido;;él //ella //usted ;;;habría acrecido;;nosotros //nosotras ;;;habríamos acrecido;;vosotros //vosotras ;;;habríais acrecido;;ellos //ellas //ustedes ;;;habrían acrecido;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;acrece;;(usted) ;;;acrezca;;(nosotros) //(nosotras) ;;;acrezcamos;;(vosotros) //(vosotras) ;;;acreced;;(ustedes) ;;;acrezcan;;(vos) ;;;acrecé
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;acrezcas;;(usted) ;no ;;acrezca;;(nosotros) //(nosotras) ;no ;;acrezcamos;;(vosotros) //(vosotras) ;no ;;acrezcáis;;(ustedes) ;no ;;acrezcan;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;acrecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;acrec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

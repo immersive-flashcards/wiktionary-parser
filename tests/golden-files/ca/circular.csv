@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;circular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;circulant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;circulat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;circulo;;tu ;;;circules;;ell //ella //vostè ;;;circula;;nosaltres ;;;circulem;;vosaltres ;;;circuleu;;ells //elles //vostès ;;;circulen
+Indicatiu Imperfet;indicativo;;jo ;;;circulava;;tu ;;;circulaves;;ell //ella //vostè ;;;circulava;;nosaltres ;;;circulàvem;;vosaltres ;;;circulàveu;;ells //elles //vostès ;;;circulaven
+Indicatiu Futur;indicativo;;jo ;;;circularé;;tu ;;;circularàs;;ell //ella //vostè ;;;circularà;;nosaltres ;;;circularem;;vosaltres ;;;circulareu;;ells //elles //vostès ;;;circularan
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;circulí;;tu ;;;circulares;;ell //ella //vostè ;;;circulà;;nosaltres ;;;circulàrem;;vosaltres ;;;circulàreu;;ells //elles //vostès ;;;circularen
+Condicional;condicional;;jo ;;;circularia;;tu ;;;circularies;;ell //ella //vostè ;;;circularia;;nosaltres ;;;circularíem;;vosaltres ;;;circularíeu;;ells //elles //vostès ;;;circularien
+Subjuntiu Present;subjuntiu;;jo ;;;circuli;;tu ;;;circulis;;ell //ella //vostè ;;;circuli;;nosaltres ;;;circulem;;vosaltres ;;;circuleu;;ells //elles //vostès ;;;circulin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;circulés;;tu ;;;circulessis;;ell //ella //vostè ;;;circulés;;nosaltres ;;;circuléssim;;vosaltres ;;;circuléssiu;;ells //elles //vostès ;;;circulessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;circula;;(vostè) ;;;circuli;;(nosaltres) ;;;circulem;;(vosaltres) ;;;circuleu;;(vostès) ;;;circulin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;circulis;;(vostè) ;no ;;circuli;;(nosaltres) ;no ;;circulem;;(vosaltres) ;no ;;circuleu;;(vostès) ;no ;;circulin
+Indicatiu Perfet;indicatiu;;jo ;;;he circulat;;tu ;;;has circulat;;ell //ella //vostè ;;;ha circulat;;nosaltres ;;;hem circulat;;vosaltres ;;;heu circulat;;ells //elles //vostès ;;;han circulat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig circulat;;tu ;;;vas circulat;;ell //ella //vostè ;;;va circulat;;nosaltres ;;;vam circulat;;vosaltres ;;;vau circulat;;ells //elles //vostès ;;;van circulat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia circulat;;tu ;;;havies circulat;;ell //ella //vostè ;;;havia circulat;;nosaltres ;;;havíem circulat;;vosaltres ;;;havíeu circulat;;ells //elles //vostès ;;;havien circulat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí circulat;;tu ;;;hagueres circulat;;ell //ella //vostè ;;;hagué circulat;;nosaltres ;;;haguérem circulat;;vosaltres ;;;haguéreu circulat;;ells //elles //vostès ;;;hagueren circulat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver circulat;;tu ;;;vas haver circulat;;ell //ella //vostè ;;;va haver circulat;;nosaltres ;;;vam haver circulat;;vosaltres ;;;vau haver circulat;;ells //elles //vostès ;;;van haver circulat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré circulat;;tu ;;;hauràs circulat;;ell //ella //vostè ;;;haurà circulat;;nosaltres ;;;haurem circulat;;vosaltres ;;;haureu circulat;;ells //elles //vostès ;;;hauran circulat
+Condicional Perfet;condicional;;jo ;;;hauria circulat;;tu ;;;hauries circulat;;ell //ella //vostè ;;;hauria circulat;;nosaltres ;;;hauríem circulat;;vosaltres ;;;hauríeu circulat;;ells //elles //vostès ;;;haurien circulat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi circulat;;tu ;;;vagis circulat;;ell //ella //vostè ;;;vagi circulat;;nosaltres ;;;vàgim circulat;;vosaltres ;;;vàgiu circulat;;ells //elles //vostès ;;;vagin circulat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi circulat;;tu ;;;hagis circulat;;ell //ella //vostè ;;;hagi circulat;;nosaltres ;;;hàgim circulat;;vosaltres ;;;hàgiu circulat;;ells //elles //vostès ;;;hagin circulat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes circulat;;tu ;;;haguessis circulat;;ell //ella //vostè ;;;hagués circulat;;nosaltres ;;;haguéssim circulat;;vosaltres ;;;haguéssiu circulat;;ells //elles //vostès ;;;haguessin circulat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver circulat;;tu ;;;vagis haver circulat;;ell //ella //vostè ;;;vagi haver circulat;;nosaltres ;;;vàgim haver circulat;;vosaltres ;;;vàgiu haver circulat;;ells //elles //vostès ;;;vagin haver circulat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;circular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;circul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;insultar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;insultant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;insultat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;insulto;;tu ;;;insultes;;ell //ella //vostè ;;;insulta;;nosaltres ;;;insultem;;vosaltres ;;;insulteu;;ells //elles //vostès ;;;insulten
+Indicatiu Imperfet;indicativo;;jo ;;;insultava;;tu ;;;insultaves;;ell //ella //vostè ;;;insultava;;nosaltres ;;;insultàvem;;vosaltres ;;;insultàveu;;ells //elles //vostès ;;;insultaven
+Indicatiu Futur;indicativo;;jo ;;;insultaré;;tu ;;;insultaràs;;ell //ella //vostè ;;;insultarà;;nosaltres ;;;insultarem;;vosaltres ;;;insultareu;;ells //elles //vostès ;;;insultaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;insultí;;tu ;;;insultares;;ell //ella //vostè ;;;insultà;;nosaltres ;;;insultàrem;;vosaltres ;;;insultàreu;;ells //elles //vostès ;;;insultaren
+Condicional;condicional;;jo ;;;insultaria;;tu ;;;insultaries;;ell //ella //vostè ;;;insultaria;;nosaltres ;;;insultaríem;;vosaltres ;;;insultaríeu;;ells //elles //vostès ;;;insultarien
+Subjuntiu Present;subjuntiu;;jo ;;;insulti;;tu ;;;insultis;;ell //ella //vostè ;;;insulti;;nosaltres ;;;insultem;;vosaltres ;;;insulteu;;ells //elles //vostès ;;;insultin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;insultés;;tu ;;;insultessis;;ell //ella //vostè ;;;insultés;;nosaltres ;;;insultéssim;;vosaltres ;;;insultéssiu;;ells //elles //vostès ;;;insultessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;insulta;;(vostè) ;;;insulti;;(nosaltres) ;;;insultem;;(vosaltres) ;;;insulteu;;(vostès) ;;;insultin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;insultis;;(vostè) ;no ;;insulti;;(nosaltres) ;no ;;insultem;;(vosaltres) ;no ;;insulteu;;(vostès) ;no ;;insultin
+Indicatiu Perfet;indicatiu;;jo ;;;he insultat;;tu ;;;has insultat;;ell //ella //vostè ;;;ha insultat;;nosaltres ;;;hem insultat;;vosaltres ;;;heu insultat;;ells //elles //vostès ;;;han insultat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig insultat;;tu ;;;vas insultat;;ell //ella //vostè ;;;va insultat;;nosaltres ;;;vam insultat;;vosaltres ;;;vau insultat;;ells //elles //vostès ;;;van insultat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia insultat;;tu ;;;havies insultat;;ell //ella //vostè ;;;havia insultat;;nosaltres ;;;havíem insultat;;vosaltres ;;;havíeu insultat;;ells //elles //vostès ;;;havien insultat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí insultat;;tu ;;;hagueres insultat;;ell //ella //vostè ;;;hagué insultat;;nosaltres ;;;haguérem insultat;;vosaltres ;;;haguéreu insultat;;ells //elles //vostès ;;;hagueren insultat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver insultat;;tu ;;;vas haver insultat;;ell //ella //vostè ;;;va haver insultat;;nosaltres ;;;vam haver insultat;;vosaltres ;;;vau haver insultat;;ells //elles //vostès ;;;van haver insultat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré insultat;;tu ;;;hauràs insultat;;ell //ella //vostè ;;;haurà insultat;;nosaltres ;;;haurem insultat;;vosaltres ;;;haureu insultat;;ells //elles //vostès ;;;hauran insultat
+Condicional Perfet;condicional;;jo ;;;hauria insultat;;tu ;;;hauries insultat;;ell //ella //vostè ;;;hauria insultat;;nosaltres ;;;hauríem insultat;;vosaltres ;;;hauríeu insultat;;ells //elles //vostès ;;;haurien insultat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi insultat;;tu ;;;vagis insultat;;ell //ella //vostè ;;;vagi insultat;;nosaltres ;;;vàgim insultat;;vosaltres ;;;vàgiu insultat;;ells //elles //vostès ;;;vagin insultat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi insultat;;tu ;;;hagis insultat;;ell //ella //vostè ;;;hagi insultat;;nosaltres ;;;hàgim insultat;;vosaltres ;;;hàgiu insultat;;ells //elles //vostès ;;;hagin insultat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes insultat;;tu ;;;haguessis insultat;;ell //ella //vostè ;;;hagués insultat;;nosaltres ;;;haguéssim insultat;;vosaltres ;;;haguéssiu insultat;;ells //elles //vostès ;;;haguessin insultat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver insultat;;tu ;;;vagis haver insultat;;ell //ella //vostè ;;;vagi haver insultat;;nosaltres ;;;vàgim haver insultat;;vosaltres ;;;vàgiu haver insultat;;ells //elles //vostès ;;;vagin haver insultat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;insultar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;insult;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

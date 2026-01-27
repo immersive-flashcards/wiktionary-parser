@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;prêter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir prêté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en prêtant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant prêté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;prêtant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;prêté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;prête;;tu ;;;prêtes;;il/elle/on ;;;prête;;nous ;;;prêtons;;vous ;;;prêtez;;ils/elles ;;;prêtent
+Indicatif Passé Composé;indicatif;;j’;;;ai prêté;;tu ;;;as prêté;;il/elle/on ;;;a prêté;;nous ;;;avons prêté;;vous ;;;avez prêté;;ils/elles ;;;ont prêté
+Indicatif Imparfait;indicatif;;je ;;;prêtais;;tu ;;;prêtais;;il/elle/on ;;;prêtait;;nous ;;;prêtions;;vous ;;;prêtiez;;ils/elles ;;;prêtaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais prêté;;tu ;;;avais prêté;;il/elle/on ;;;avait prêté;;nous ;;;avions prêté;;vous ;;;aviez prêté;;ils/elles ;;;avaient prêté
+Indicatif Passé Simple;indicatif;;je ;;;prêtai;;tu ;;;prêtas;;il/elle/on ;;;prêta;;nous ;;;prêtâmes;;vous ;;;prêtâtes;;ils/elles ;;;prêtèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus prêté;;tu ;;;eus prêté;;il/elle/on ;;;eut prêté;;nous ;;;eûmes prêté;;vous ;;;eûtes prêté;;ils/elles ;;;eurent prêté
+Indicatif Futur Simple;indicatif;;je ;;;prêterai;;tu ;;;prêteras;;il/elle/on ;;;prêtera;;nous ;;;prêterons;;vous ;;;prêterez;;ils/elles ;;;prêteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai prêté;;tu ;;;auras prêté;;il/elle/on ;;;aura prêté;;nous ;;;aurons prêté;;vous ;;;aurez prêté;;ils/elles ;;;auront prêté
+Subjonctif Présent;subjonctif;que ;je ;;;prête;que ;tu ;;;prêtes;qu’;il/elle/on ;;;prête;que ;nous ;;;prêtions;que ;vous ;;;prêtiez;qu’;ils/elles ;;;prêtent
+Subjonctif Passé;subjonctif;que ;j’;;;aie prêté;que ;tu ;;;aies prêté;qu’;il/elle/on ;;;ait prêté;que ;nous ;;;ayons prêté;que ;vous ;;;ayez prêté;qu’;ils/elles ;;;aient prêté
+Subjonctif Imparfait;subjonctif;que ;je ;;;prêtasse;que ;tu ;;;prêtasses;qu’;il/elle/on ;;;prêtât;que ;nous ;;;prêtassions;que ;vous ;;;prêtassiez;qu’;ils/elles ;;;prêtassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse prêté;que ;tu ;;;eusses prêté;qu’;il/elle/on ;;;eût prêté;que ;nous ;;;eussions prêté;que ;vous ;;;eussiez prêté;qu’;ils/elles ;;;eussent prêté
+Conditionnel;conditionnel;;je ;;;prêterais;;tu ;;;prêterais;;il/elle/on ;;;prêterait;;nous ;;;prêterions;;vous ;;;prêteriez;;ils/elles ;;;prêteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais prêté;;tu ;;;aurais prêté;;il/elle/on ;;;aurait prêté;;nous ;;;aurions prêté;;vous ;;;auriez prêté;;ils/elles ;;;auraient prêté
+Impératif Présent;impératif;;;;;;;;;;prête;;;;;;;;;;prêtons;;;;;prêtez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;prêter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;prêt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

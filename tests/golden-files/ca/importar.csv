@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;importar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;important;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;importat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;importo;;tu ;;;importes;;ell //ella //vostè ;;;importa;;nosaltres ;;;importem;;vosaltres ;;;importeu;;ells //elles //vostès ;;;importen
+Indicatiu Imperfet;indicativo;;jo ;;;importava;;tu ;;;importaves;;ell //ella //vostè ;;;importava;;nosaltres ;;;importàvem;;vosaltres ;;;importàveu;;ells //elles //vostès ;;;importaven
+Indicatiu Futur;indicativo;;jo ;;;importaré;;tu ;;;importaràs;;ell //ella //vostè ;;;importarà;;nosaltres ;;;importarem;;vosaltres ;;;importareu;;ells //elles //vostès ;;;importaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;importí;;tu ;;;importares;;ell //ella //vostè ;;;importà;;nosaltres ;;;importàrem;;vosaltres ;;;importàreu;;ells //elles //vostès ;;;importaren
+Condicional;condicional;;jo ;;;importaria;;tu ;;;importaries;;ell //ella //vostè ;;;importaria;;nosaltres ;;;importaríem;;vosaltres ;;;importaríeu;;ells //elles //vostès ;;;importarien
+Subjuntiu Present;subjuntiu;;jo ;;;importi;;tu ;;;importis;;ell //ella //vostè ;;;importi;;nosaltres ;;;importem;;vosaltres ;;;importeu;;ells //elles //vostès ;;;importin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;importés;;tu ;;;importessis;;ell //ella //vostè ;;;importés;;nosaltres ;;;importéssim;;vosaltres ;;;importéssiu;;ells //elles //vostès ;;;importessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;importa;;(vostè) ;;;importi;;(nosaltres) ;;;importem;;(vosaltres) ;;;importeu;;(vostès) ;;;importin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;importis;;(vostè) ;no ;;importi;;(nosaltres) ;no ;;importem;;(vosaltres) ;no ;;importeu;;(vostès) ;no ;;importin
+Indicatiu Perfet;indicatiu;;jo ;;;he importat;;tu ;;;has importat;;ell //ella //vostè ;;;ha importat;;nosaltres ;;;hem importat;;vosaltres ;;;heu importat;;ells //elles //vostès ;;;han importat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig importat;;tu ;;;vas importat;;ell //ella //vostè ;;;va importat;;nosaltres ;;;vam importat;;vosaltres ;;;vau importat;;ells //elles //vostès ;;;van importat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia importat;;tu ;;;havies importat;;ell //ella //vostè ;;;havia importat;;nosaltres ;;;havíem importat;;vosaltres ;;;havíeu importat;;ells //elles //vostès ;;;havien importat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí importat;;tu ;;;hagueres importat;;ell //ella //vostè ;;;hagué importat;;nosaltres ;;;haguérem importat;;vosaltres ;;;haguéreu importat;;ells //elles //vostès ;;;hagueren importat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver importat;;tu ;;;vas haver importat;;ell //ella //vostè ;;;va haver importat;;nosaltres ;;;vam haver importat;;vosaltres ;;;vau haver importat;;ells //elles //vostès ;;;van haver importat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré importat;;tu ;;;hauràs importat;;ell //ella //vostè ;;;haurà importat;;nosaltres ;;;haurem importat;;vosaltres ;;;haureu importat;;ells //elles //vostès ;;;hauran importat
+Condicional Perfet;condicional;;jo ;;;hauria importat;;tu ;;;hauries importat;;ell //ella //vostè ;;;hauria importat;;nosaltres ;;;hauríem importat;;vosaltres ;;;hauríeu importat;;ells //elles //vostès ;;;haurien importat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi importat;;tu ;;;vagis importat;;ell //ella //vostè ;;;vagi importat;;nosaltres ;;;vàgim importat;;vosaltres ;;;vàgiu importat;;ells //elles //vostès ;;;vagin importat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi importat;;tu ;;;hagis importat;;ell //ella //vostè ;;;hagi importat;;nosaltres ;;;hàgim importat;;vosaltres ;;;hàgiu importat;;ells //elles //vostès ;;;hagin importat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes importat;;tu ;;;haguessis importat;;ell //ella //vostè ;;;hagués importat;;nosaltres ;;;haguéssim importat;;vosaltres ;;;haguéssiu importat;;ells //elles //vostès ;;;haguessin importat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver importat;;tu ;;;vagis haver importat;;ell //ella //vostè ;;;vagi haver importat;;nosaltres ;;;vàgim haver importat;;vosaltres ;;;vàgiu haver importat;;ells //elles //vostès ;;;vagin haver importat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;importar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;import;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

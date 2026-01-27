@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;amordazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;"";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;"";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Imperfecto;indicativo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Pretérito Indefinido;indicativo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Futuro;indicativo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Pretérito Perfecto;indicativo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Pretérito Anterior;indicativo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Futuro Perfecto;indicativo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Presente;subjuntivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Futuro;subjuntivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Condicional;condicional;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Condicional Perfecto;condicional;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;amordazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;amordaz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

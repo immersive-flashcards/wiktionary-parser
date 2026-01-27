@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;bayer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir bayé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en bayant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant bayé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;bayant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;bayé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;baye;;tu ;;;bayes;;il/elle/on ;;;baye;;nous ;;;bayons;;vous ;;;bayez;;ils/elles ;;;bayent
+Indicatif Passé Composé;indicatif;;j’;;;ai bayé;;tu ;;;as bayé;;il/elle/on ;;;a bayé;;nous ;;;avons bayé;;vous ;;;avez bayé;;ils/elles ;;;ont bayé
+Indicatif Imparfait;indicatif;;je ;;;bayais;;tu ;;;bayais;;il/elle/on ;;;bayait;;nous ;;;bayions;;vous ;;;bayiez;;ils/elles ;;;bayaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais bayé;;tu ;;;avais bayé;;il/elle/on ;;;avait bayé;;nous ;;;avions bayé;;vous ;;;aviez bayé;;ils/elles ;;;avaient bayé
+Indicatif Passé Simple;indicatif;;je ;;;bayai;;tu ;;;bayas;;il/elle/on ;;;baya;;nous ;;;bayâmes;;vous ;;;bayâtes;;ils/elles ;;;bayèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus bayé;;tu ;;;eus bayé;;il/elle/on ;;;eut bayé;;nous ;;;eûmes bayé;;vous ;;;eûtes bayé;;ils/elles ;;;eurent bayé
+Indicatif Futur Simple;indicatif;;je ;;;bayerai;;tu ;;;bayeras;;il/elle/on ;;;bayera;;nous ;;;bayerons;;vous ;;;bayerez;;ils/elles ;;;bayeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai bayé;;tu ;;;auras bayé;;il/elle/on ;;;aura bayé;;nous ;;;aurons bayé;;vous ;;;aurez bayé;;ils/elles ;;;auront bayé
+Subjonctif Présent;subjonctif;que ;je ;;;baye;que ;tu ;;;bayes;qu’;il/elle/on ;;;baye;que ;nous ;;;bayions;que ;vous ;;;bayiez;qu’;ils/elles ;;;bayent
+Subjonctif Passé;subjonctif;que ;j’;;;aie bayé;que ;tu ;;;aies bayé;qu’;il/elle/on ;;;ait bayé;que ;nous ;;;ayons bayé;que ;vous ;;;ayez bayé;qu’;ils/elles ;;;aient bayé
+Subjonctif Imparfait;subjonctif;que ;je ;;;bayasse;que ;tu ;;;bayasses;qu’;il/elle/on ;;;bayât;que ;nous ;;;bayassions;que ;vous ;;;bayassiez;qu’;ils/elles ;;;bayassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse bayé;que ;tu ;;;eusses bayé;qu’;il/elle/on ;;;eût bayé;que ;nous ;;;eussions bayé;que ;vous ;;;eussiez bayé;qu’;ils/elles ;;;eussent bayé
+Conditionnel;conditionnel;;je ;;;bayerais;;tu ;;;bayerais;;il/elle/on ;;;bayerait;;nous ;;;bayerions;;vous ;;;bayeriez;;ils/elles ;;;bayeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais bayé;;tu ;;;aurais bayé;;il/elle/on ;;;aurait bayé;;nous ;;;aurions bayé;;vous ;;;auriez bayé;;ils/elles ;;;auraient bayé
+Impératif Présent;impératif;;;;;;;;;;baye;;;;;;;;;;bayons;;;;;bayez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;bayer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bay;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;partir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;être parti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en partant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en étant parti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;partant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;parti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;pars;;tu ;;;pars;;il/elle/on ;;;part;;nous ;;;partons;;vous ;;;partez;;ils/elles ;;;partent
+Indicatif Passé Composé;indicatif;;je ;;;suis parti;;tu ;;;es parti;;il/elle/on ;;;est parti;;nous ;;;sommes partis;;vous ;;;êtes partis;;ils/elles ;;;sont partis
+Indicatif Imparfait;indicatif;;je ;;;partais;;tu ;;;partais;;il/elle/on ;;;partait;;nous ;;;partions;;vous ;;;partiez;;ils/elles ;;;partaient
+Indicatif Plusqueparfait;indicatif;;j’;;;étais parti;;tu ;;;étais parti;;il/elle/on ;;;était parti;;nous ;;;étions partis;;vous ;;;étiez partis;;ils/elles ;;;étaient partis
+Indicatif Passé Simple;indicatif;;je ;;;partis;;tu ;;;partis;;il/elle/on ;;;partit;;nous ;;;partîmes;;vous ;;;partîtes;;ils/elles ;;;partirent
+Indicatif Passé Antérieur;indicatif;;je ;;;fus parti;;tu ;;;fus parti;;il/elle/on ;;;fut parti;;nous ;;;fûmes partis;;vous ;;;fûtes partis;;ils/elles ;;;furent partis
+Indicatif Futur Simple;indicatif;;je ;;;partirai;;tu ;;;partiras;;il/elle/on ;;;partira;;nous ;;;partirons;;vous ;;;partirez;;ils/elles ;;;partiront
+Indicatif Futur Antérieur;indicatif;;je ;;;serai parti;;tu ;;;seras parti;;il/elle/on ;;;sera parti;;nous ;;;serons partis;;vous ;;;serez partis;;ils/elles ;;;seront partis
+Subjonctif Présent;subjonctif;que ;je ;;;parte;que ;tu ;;;partes;qu’;il/elle/on ;;;parte;que ;nous ;;;partions;que ;vous ;;;partiez;qu’;ils/elles ;;;partent
+Subjonctif Passé;subjonctif;que ;je ;;;sois parti;que ;tu ;;;sois parti;qu’;il/elle/on ;;;soit parti;que ;nous ;;;soyons partis;que ;vous ;;;soyez partis;qu’;ils/elles ;;;soient partis
+Subjonctif Imparfait;subjonctif;que ;je ;;;partisse;que ;tu ;;;partisses;qu’;il/elle/on ;;;partît;que ;nous ;;;partissions;que ;vous ;;;partissiez;qu’;ils/elles ;;;partissent
+Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse parti;que ;tu ;;;fusses parti;qu’;il/elle/on ;;;fût parti;que ;nous ;;;fussions partis;que ;vous ;;;fussiez partis;qu’;ils/elles ;;;fussent partis
+Conditionnel;conditionnel;;je ;;;partirais;;tu ;;;partirais;;il/elle/on ;;;partirait;;nous ;;;partirions;;vous ;;;partiriez;;ils/elles ;;;partiraient
+Conditionnel Passé;conditionnel;;je ;;;serais parti;;tu ;;;serais parti;;il/elle/on ;;;serait parti;;nous ;;;serions partis;;vous ;;;seriez partis;;ils/elles ;;;seraient partis
+Impératif Présent;impératif;;;;;;;;;;pars;;;;;;;;;;partons;;;;;partez;;;;;
+auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;partir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;part;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

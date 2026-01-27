@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;chercher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir cherché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en cherchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant cherché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;cherchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;cherché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;cherche;;tu ;;;cherches;;il/elle/on ;;;cherche;;nous ;;;cherchons;;vous ;;;cherchez;;ils/elles ;;;cherchent
+Indicatif Passé Composé;indicatif;;j’;;;ai cherché;;tu ;;;as cherché;;il/elle/on ;;;a cherché;;nous ;;;avons cherché;;vous ;;;avez cherché;;ils/elles ;;;ont cherché
+Indicatif Imparfait;indicatif;;je ;;;cherchais;;tu ;;;cherchais;;il/elle/on ;;;cherchait;;nous ;;;cherchions;;vous ;;;cherchiez;;ils/elles ;;;cherchaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais cherché;;tu ;;;avais cherché;;il/elle/on ;;;avait cherché;;nous ;;;avions cherché;;vous ;;;aviez cherché;;ils/elles ;;;avaient cherché
+Indicatif Passé Simple;indicatif;;je ;;;cherchai;;tu ;;;cherchas;;il/elle/on ;;;chercha;;nous ;;;cherchâmes;;vous ;;;cherchâtes;;ils/elles ;;;cherchèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus cherché;;tu ;;;eus cherché;;il/elle/on ;;;eut cherché;;nous ;;;eûmes cherché;;vous ;;;eûtes cherché;;ils/elles ;;;eurent cherché
+Indicatif Futur Simple;indicatif;;je ;;;chercherai;;tu ;;;chercheras;;il/elle/on ;;;cherchera;;nous ;;;chercherons;;vous ;;;chercherez;;ils/elles ;;;chercheront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai cherché;;tu ;;;auras cherché;;il/elle/on ;;;aura cherché;;nous ;;;aurons cherché;;vous ;;;aurez cherché;;ils/elles ;;;auront cherché
+Subjonctif Présent;subjonctif;que ;je ;;;cherche;que ;tu ;;;cherches;qu’;il/elle/on ;;;cherche;que ;nous ;;;cherchions;que ;vous ;;;cherchiez;qu’;ils/elles ;;;cherchent
+Subjonctif Passé;subjonctif;que ;j’;;;aie cherché;que ;tu ;;;aies cherché;qu’;il/elle/on ;;;ait cherché;que ;nous ;;;ayons cherché;que ;vous ;;;ayez cherché;qu’;ils/elles ;;;aient cherché
+Subjonctif Imparfait;subjonctif;que ;je ;;;cherchasse;que ;tu ;;;cherchasses;qu’;il/elle/on ;;;cherchât;que ;nous ;;;cherchassions;que ;vous ;;;cherchassiez;qu’;ils/elles ;;;cherchassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse cherché;que ;tu ;;;eusses cherché;qu’;il/elle/on ;;;eût cherché;que ;nous ;;;eussions cherché;que ;vous ;;;eussiez cherché;qu’;ils/elles ;;;eussent cherché
+Conditionnel;conditionnel;;je ;;;chercherais;;tu ;;;chercherais;;il/elle/on ;;;chercherait;;nous ;;;chercherions;;vous ;;;chercheriez;;ils/elles ;;;chercheraient
+Conditionnel Passé;conditionnel;;j’;;;aurais cherché;;tu ;;;aurais cherché;;il/elle/on ;;;aurait cherché;;nous ;;;aurions cherché;;vous ;;;auriez cherché;;ils/elles ;;;auraient cherché
+Impératif Présent;impératif;;;;;;;;;;cherche;;;;;;;;;;cherchons;;;;;cherchez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;chercher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;cherch;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

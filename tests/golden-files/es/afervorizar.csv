@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;afervorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;afervorizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;afervorizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;afervorizo;;tú ;;;afervorizas;;él //ella //usted ;;;afervoriza;;nosotros //nosotras ;;;afervorizamos;;vosotros //vosotras ;;;afervorizáis;;ellos //ellas //ustedes ;;;afervorizan;;vos ;;;afervorizás
+Indicativo Imperfecto;indicativo;;yo ;;;afervorizaba;;tú //vos ;;;afervorizabas;;él //ella //usted ;;;afervorizaba;;nosotros //nosotras ;;;afervorizábamos;;vosotros //vosotras ;;;afervorizabais;;ellos //ellas //ustedes ;;;afervorizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;afervoricé;;tú //vos ;;;afervorizaste;;él //ella //usted ;;;afervorizó;;nosotros //nosotras ;;;afervorizamos;;vosotros //vosotras ;;;afervorizasteis;;ellos //ellas //ustedes ;;;afervorizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;afervorizaré;;tú //vos ;;;afervorizarás;;él //ella //usted ;;;afervorizará;;nosotros //nosotras ;;;afervorizaremos;;vosotros //vosotras ;;;afervorizaréis;;ellos //ellas //ustedes ;;;afervorizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he afervorizado;;tú //vos ;;;has afervorizado;;él //ella //usted ;;;ha afervorizado;;nosotros //nosotras ;;;hemos afervorizado;;vosotros //vosotras ;;;habéis afervorizado;;ellos //ellas //ustedes ;;;han afervorizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había afervorizado;;tú //vos ;;;habías afervorizado;;él //ella //usted ;;;había afervorizado;;nosotros //nosotras ;;;habíamos afervorizado;;vosotros //vosotras ;;;habíais afervorizado;;ellos //ellas //ustedes ;;;habían afervorizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube afervorizado;;tú //vos ;;;hubiste afervorizado;;él //ella //usted ;;;hubo afervorizado;;nosotros //nosotras ;;;hubimos afervorizado;;vosotros //vosotras ;;;hubisteis afervorizado;;ellos //ellas //ustedes ;;;hubieron afervorizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré afervorizado;;tú //vos ;;;habrás afervorizado;;él //ella //usted ;;;habrá afervorizado;;nosotros //nosotras ;;;habremos afervorizado;;vosotros //vosotras ;;;habréis afervorizado;;ellos //ellas //ustedes ;;;habrán afervorizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;afervorice;;tú //vos ;;;afervorices;;él //ella //usted ;;;afervorice;;nosotros //nosotras ;;;afervoricemos;;vosotros //vosotras ;;;afervoricéis;;ellos //ellas //ustedes ;;;afervoricen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;afervorizara / afervorizase;;tú //vos ;;;afervorizaras / afervorizases;;él //ella //usted ;;;afervorizara / afervorizase;;nosotros //nosotras ;;;afervorizáramos / afervorizásemos;;vosotros //vosotras ;;;afervorizarais / afervorizaseis;;ellos //ellas //ustedes ;;;afervorizaran / afervorizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;afervorizare;;tú //vos ;;;afervorizares;;él //ella //usted ;;;afervorizare;;nosotros //nosotras ;;;afervorizáremos;;vosotros //vosotras ;;;afervorizareis;;ellos //ellas //ustedes ;;;afervorizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya afervorizado;;tú //vos ;;;hayas afervorizado;;él //ella //usted ;;;haya afervorizado;;nosotros //nosotras ;;;hayamos afervorizado;;vosotros //vosotras ;;;hayáis afervorizado;;ellos //ellas //ustedes ;;;hayan afervorizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera afervorizado / hubiese afervorizado;;tú //vos ;;;hubieras afervorizado / hubieses afervorizado;;él //ella //usted ;;;hubiera afervorizado / hubiese afervorizado;;nosotros //nosotras ;;;hubiéramos afervorizado / hubiésemos afervorizado;;vosotros //vosotras ;;;hubierais afervorizado / hubieseis afervorizado;;ellos //ellas //ustedes ;;;hubieran afervorizado / hubiesen afervorizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere afervorizado;;tú //vos ;;;hubieres afervorizado;;él //ella //usted ;;;hubiere afervorizado;;nosotros //nosotras ;;;hubiéremos afervorizado;;vosotros //vosotras ;;;hubiereis afervorizado;;ellos //ellas //ustedes ;;;hubieren afervorizado;;;;;
+Condicional;condicional;;yo ;;;afervorizaría;;tú //vos ;;;afervorizarías;;él //ella //usted ;;;afervorizaría;;nosotros //nosotras ;;;afervorizaríamos;;vosotros //vosotras ;;;afervorizaríais;;ellos //ellas //ustedes ;;;afervorizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría afervorizado;;tú //vos ;;;habrías afervorizado;;él //ella //usted ;;;habría afervorizado;;nosotros //nosotras ;;;habríamos afervorizado;;vosotros //vosotras ;;;habríais afervorizado;;ellos //ellas //ustedes ;;;habrían afervorizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;afervoriza;;(usted) ;;;afervorice;;(nosotros) //(nosotras) ;;;afervoricemos;;(vosotros) //(vosotras) ;;;afervorizad;;(ustedes) ;;;afervoricen;;(vos) ;;;afervorizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;afervorices;;(usted) ;no ;;afervorice;;(nosotros) //(nosotras) ;no ;;afervoricemos;;(vosotros) //(vosotras) ;no ;;afervoricéis;;(ustedes) ;no ;;afervoricen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;afervorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;afervoriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

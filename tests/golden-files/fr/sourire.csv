@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;sourire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir souri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en souriant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant souri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;souriant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;souri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;souris;;tu ;;;souris;;il/elle/on ;;;sourit;;nous ;;;sourions;;vous ;;;souriez;;ils/elles ;;;sourient
+Indicatif Passé Composé;indicatif;;j’;;;ai souri;;tu ;;;as souri;;il/elle/on ;;;a souri;;nous ;;;avons souri;;vous ;;;avez souri;;ils/elles ;;;ont souri
+Indicatif Imparfait;indicatif;;je ;;;souriais;;tu ;;;souriais;;il/elle/on ;;;souriait;;nous ;;;souriions;;vous ;;;souriiez;;ils/elles ;;;souriaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais souri;;tu ;;;avais souri;;il/elle/on ;;;avait souri;;nous ;;;avions souri;;vous ;;;aviez souri;;ils/elles ;;;avaient souri
+Indicatif Passé Simple;indicatif;;je ;;;souris;;tu ;;;souris;;il/elle/on ;;;sourit;;nous ;;;sourîmes;;vous ;;;sourîtes;;ils/elles ;;;sourirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus souri;;tu ;;;eus souri;;il/elle/on ;;;eut souri;;nous ;;;eûmes souri;;vous ;;;eûtes souri;;ils/elles ;;;eurent souri
+Indicatif Futur Simple;indicatif;;je ;;;sourirai;;tu ;;;souriras;;il/elle/on ;;;sourira;;nous ;;;sourirons;;vous ;;;sourirez;;ils/elles ;;;souriront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai souri;;tu ;;;auras souri;;il/elle/on ;;;aura souri;;nous ;;;aurons souri;;vous ;;;aurez souri;;ils/elles ;;;auront souri
+Subjonctif Présent;subjonctif;que ;je ;;;sourie;que ;tu ;;;souries;qu’;il/elle/on ;;;sourie;que ;nous ;;;souriions;que ;vous ;;;souriiez;qu’;ils/elles ;;;sourient
+Subjonctif Passé;subjonctif;que ;j’;;;aie souri;que ;tu ;;;aies souri;qu’;il/elle/on ;;;ait souri;que ;nous ;;;ayons souri;que ;vous ;;;ayez souri;qu’;ils/elles ;;;aient souri
+Subjonctif Imparfait;subjonctif;que ;je ;;;sourisse;que ;tu ;;;sourisses;qu’;il/elle/on ;;;sourît;que ;nous ;;;sourissions;que ;vous ;;;sourissiez;qu’;ils/elles ;;;sourissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse souri;que ;tu ;;;eusses souri;qu’;il/elle/on ;;;eût souri;que ;nous ;;;eussions souri;que ;vous ;;;eussiez souri;qu’;ils/elles ;;;eussent souri
+Conditionnel;conditionnel;;je ;;;sourirais;;tu ;;;sourirais;;il/elle/on ;;;sourirait;;nous ;;;souririons;;vous ;;;souririez;;ils/elles ;;;souriraient
+Conditionnel Passé;conditionnel;;j’;;;aurais souri;;tu ;;;aurais souri;;il/elle/on ;;;aurait souri;;nous ;;;aurions souri;;vous ;;;auriez souri;;ils/elles ;;;auraient souri
+Impératif Présent;impératif;;;;;;;;;;souris;;;;;;;;;;sourions;;;;;souriez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;sourire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;souri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

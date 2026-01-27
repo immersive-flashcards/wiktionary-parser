@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;dire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir dit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en disant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant dit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;disant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;dit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;dis;;tu ;;;dis;;il/elle/on ;;;dit;;nous ;;;disons;;vous ;;;dites;;ils/elles ;;;disent
+Indicatif Passé Composé;indicatif;;j’;;;ai dit;;tu ;;;as dit;;il/elle/on ;;;a dit;;nous ;;;avons dit;;vous ;;;avez dit;;ils/elles ;;;ont dit
+Indicatif Imparfait;indicatif;;je ;;;disais;;tu ;;;disais;;il/elle/on ;;;disait;;nous ;;;disions;;vous ;;;disiez;;ils/elles ;;;disaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais dit;;tu ;;;avais dit;;il/elle/on ;;;avait dit;;nous ;;;avions dit;;vous ;;;aviez dit;;ils/elles ;;;avaient dit
+Indicatif Passé Simple;indicatif;;je ;;;dis;;tu ;;;dis;;il/elle/on ;;;dit;;nous ;;;dîmes;;vous ;;;dîtes;;ils/elles ;;;dirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus dit;;tu ;;;eus dit;;il/elle/on ;;;eut dit;;nous ;;;eûmes dit;;vous ;;;eûtes dit;;ils/elles ;;;eurent dit
+Indicatif Futur Simple;indicatif;;je ;;;dirai;;tu ;;;diras;;il/elle/on ;;;dira;;nous ;;;dirons;;vous ;;;direz;;ils/elles ;;;diront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai dit;;tu ;;;auras dit;;il/elle/on ;;;aura dit;;nous ;;;aurons dit;;vous ;;;aurez dit;;ils/elles ;;;auront dit
+Subjonctif Présent;subjonctif;que ;je ;;;dise;que ;tu ;;;dises;qu’;il/elle/on ;;;dise;que ;nous ;;;disions;que ;vous ;;;disiez;qu’;ils/elles ;;;disent
+Subjonctif Passé;subjonctif;que ;j’;;;aie dit;que ;tu ;;;aies dit;qu’;il/elle/on ;;;ait dit;que ;nous ;;;ayons dit;que ;vous ;;;ayez dit;qu’;ils/elles ;;;aient dit
+Subjonctif Imparfait;subjonctif;que ;je ;;;disse;que ;tu ;;;disses;qu’;il/elle/on ;;;dît;que ;nous ;;;dissions;que ;vous ;;;dissiez;qu’;ils/elles ;;;dissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse dit;que ;tu ;;;eusses dit;qu’;il/elle/on ;;;eût dit;que ;nous ;;;eussions dit;que ;vous ;;;eussiez dit;qu’;ils/elles ;;;eussent dit
+Conditionnel;conditionnel;;je ;;;dirais;;tu ;;;dirais;;il/elle/on ;;;dirait;;nous ;;;dirions;;vous ;;;diriez;;ils/elles ;;;diraient
+Conditionnel Passé;conditionnel;;j’;;;aurais dit;;tu ;;;aurais dit;;il/elle/on ;;;aurait dit;;nous ;;;aurions dit;;vous ;;;auriez dit;;ils/elles ;;;auraient dit
+Impératif Présent;impératif;;;;;;;;;;dis;;;;;;;;;;disons;;;;;dites;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;dire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;di;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

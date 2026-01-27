@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;classifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir classifié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en classifiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant classifié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;classifiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;classifié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;classifie;;tu ;;;classifies;;il/elle/on ;;;classifie;;nous ;;;classifions;;vous ;;;classifiez;;ils/elles ;;;classifient
+Indicatif Passé Composé;indicatif;;j’;;;ai classifié;;tu ;;;as classifié;;il/elle/on ;;;a classifié;;nous ;;;avons classifié;;vous ;;;avez classifié;;ils/elles ;;;ont classifié
+Indicatif Imparfait;indicatif;;je ;;;classifiais;;tu ;;;classifiais;;il/elle/on ;;;classifiait;;nous ;;;classifiions;;vous ;;;classifiiez;;ils/elles ;;;classifiaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais classifié;;tu ;;;avais classifié;;il/elle/on ;;;avait classifié;;nous ;;;avions classifié;;vous ;;;aviez classifié;;ils/elles ;;;avaient classifié
+Indicatif Passé Simple;indicatif;;je ;;;classifiai;;tu ;;;classifias;;il/elle/on ;;;classifia;;nous ;;;classifiâmes;;vous ;;;classifiâtes;;ils/elles ;;;classifièrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus classifié;;tu ;;;eus classifié;;il/elle/on ;;;eut classifié;;nous ;;;eûmes classifié;;vous ;;;eûtes classifié;;ils/elles ;;;eurent classifié
+Indicatif Futur Simple;indicatif;;je ;;;classifierai;;tu ;;;classifieras;;il/elle/on ;;;classifiera;;nous ;;;classifierons;;vous ;;;classifierez;;ils/elles ;;;classifieront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai classifié;;tu ;;;auras classifié;;il/elle/on ;;;aura classifié;;nous ;;;aurons classifié;;vous ;;;aurez classifié;;ils/elles ;;;auront classifié
+Subjonctif Présent;subjonctif;que ;je ;;;classifie;que ;tu ;;;classifies;qu’;il/elle/on ;;;classifie;que ;nous ;;;classifiions;que ;vous ;;;classifiiez;qu’;ils/elles ;;;classifient
+Subjonctif Passé;subjonctif;que ;j’;;;aie classifié;que ;tu ;;;aies classifié;qu’;il/elle/on ;;;ait classifié;que ;nous ;;;ayons classifié;que ;vous ;;;ayez classifié;qu’;ils/elles ;;;aient classifié
+Subjonctif Imparfait;subjonctif;que ;je ;;;classifiasse;que ;tu ;;;classifiasses;qu’;il/elle/on ;;;classifiât;que ;nous ;;;classifiassions;que ;vous ;;;classifiassiez;qu’;ils/elles ;;;classifiassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse classifié;que ;tu ;;;eusses classifié;qu’;il/elle/on ;;;eût classifié;que ;nous ;;;eussions classifié;que ;vous ;;;eussiez classifié;qu’;ils/elles ;;;eussent classifié
+Conditionnel;conditionnel;;je ;;;classifierais;;tu ;;;classifierais;;il/elle/on ;;;classifierait;;nous ;;;classifierions;;vous ;;;classifieriez;;ils/elles ;;;classifieraient
+Conditionnel Passé;conditionnel;;j’;;;aurais classifié;;tu ;;;aurais classifié;;il/elle/on ;;;aurait classifié;;nous ;;;aurions classifié;;vous ;;;auriez classifié;;ils/elles ;;;auraient classifié
+Impératif Présent;impératif;;;;;;;;;;classifie;;;;;;;;;;classifions;;;;;classifiez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;classifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;classifi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

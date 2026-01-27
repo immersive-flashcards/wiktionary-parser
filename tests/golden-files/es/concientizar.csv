@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;concientizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;concientizando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;concientizado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;concientizo;;tú ;;;concientizas;;él //ella //usted ;;;concientiza;;nosotros //nosotras ;;;concientizamos;;vosotros //vosotras ;;;concientizáis;;ellos //ellas //ustedes ;;;concientizan;;vos ;;;concientizás
+Indicativo Imperfecto;indicativo;;yo ;;;concientizaba;;tú //vos ;;;concientizabas;;él //ella //usted ;;;concientizaba;;nosotros //nosotras ;;;concientizábamos;;vosotros //vosotras ;;;concientizabais;;ellos //ellas //ustedes ;;;concientizaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;concienticé;;tú //vos ;;;concientizaste;;él //ella //usted ;;;concientizó;;nosotros //nosotras ;;;concientizamos;;vosotros //vosotras ;;;concientizasteis;;ellos //ellas //ustedes ;;;concientizaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;concientizaré;;tú //vos ;;;concientizarás;;él //ella //usted ;;;concientizará;;nosotros //nosotras ;;;concientizaremos;;vosotros //vosotras ;;;concientizaréis;;ellos //ellas //ustedes ;;;concientizarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he concientizado;;tú //vos ;;;has concientizado;;él //ella //usted ;;;ha concientizado;;nosotros //nosotras ;;;hemos concientizado;;vosotros //vosotras ;;;habéis concientizado;;ellos //ellas //ustedes ;;;han concientizado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había concientizado;;tú //vos ;;;habías concientizado;;él //ella //usted ;;;había concientizado;;nosotros //nosotras ;;;habíamos concientizado;;vosotros //vosotras ;;;habíais concientizado;;ellos //ellas //ustedes ;;;habían concientizado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube concientizado;;tú //vos ;;;hubiste concientizado;;él //ella //usted ;;;hubo concientizado;;nosotros //nosotras ;;;hubimos concientizado;;vosotros //vosotras ;;;hubisteis concientizado;;ellos //ellas //ustedes ;;;hubieron concientizado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré concientizado;;tú //vos ;;;habrás concientizado;;él //ella //usted ;;;habrá concientizado;;nosotros //nosotras ;;;habremos concientizado;;vosotros //vosotras ;;;habréis concientizado;;ellos //ellas //ustedes ;;;habrán concientizado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;concientice;;tú //vos ;;;concientices;;él //ella //usted ;;;concientice;;nosotros //nosotras ;;;concienticemos;;vosotros //vosotras ;;;concienticéis;;ellos //ellas //ustedes ;;;concienticen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;concientizara / concientizase;;tú //vos ;;;concientizaras / concientizases;;él //ella //usted ;;;concientizara / concientizase;;nosotros //nosotras ;;;concientizáramos / concientizásemos;;vosotros //vosotras ;;;concientizarais / concientizaseis;;ellos //ellas //ustedes ;;;concientizaran / concientizasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;concientizare;;tú //vos ;;;concientizares;;él //ella //usted ;;;concientizare;;nosotros //nosotras ;;;concientizáremos;;vosotros //vosotras ;;;concientizareis;;ellos //ellas //ustedes ;;;concientizaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya concientizado;;tú //vos ;;;hayas concientizado;;él //ella //usted ;;;haya concientizado;;nosotros //nosotras ;;;hayamos concientizado;;vosotros //vosotras ;;;hayáis concientizado;;ellos //ellas //ustedes ;;;hayan concientizado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera concientizado / hubiese concientizado;;tú //vos ;;;hubieras concientizado / hubieses concientizado;;él //ella //usted ;;;hubiera concientizado / hubiese concientizado;;nosotros //nosotras ;;;hubiéramos concientizado / hubiésemos concientizado;;vosotros //vosotras ;;;hubierais concientizado / hubieseis concientizado;;ellos //ellas //ustedes ;;;hubieran concientizado / hubiesen concientizado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere concientizado;;tú //vos ;;;hubieres concientizado;;él //ella //usted ;;;hubiere concientizado;;nosotros //nosotras ;;;hubiéremos concientizado;;vosotros //vosotras ;;;hubiereis concientizado;;ellos //ellas //ustedes ;;;hubieren concientizado;;;;;
+Condicional;condicional;;yo ;;;concientizaría;;tú //vos ;;;concientizarías;;él //ella //usted ;;;concientizaría;;nosotros //nosotras ;;;concientizaríamos;;vosotros //vosotras ;;;concientizaríais;;ellos //ellas //ustedes ;;;concientizarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría concientizado;;tú //vos ;;;habrías concientizado;;él //ella //usted ;;;habría concientizado;;nosotros //nosotras ;;;habríamos concientizado;;vosotros //vosotras ;;;habríais concientizado;;ellos //ellas //ustedes ;;;habrían concientizado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;concientiza;;(usted) ;;;concientice;;(nosotros) //(nosotras) ;;;concienticemos;;(vosotros) //(vosotras) ;;;concientizad;;(ustedes) ;;;concienticen;;(vos) ;;;concientizá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;concientices;;(usted) ;no ;;concientice;;(nosotros) //(nosotras) ;no ;;concienticemos;;(vosotros) //(vosotras) ;no ;;concienticéis;;(ustedes) ;no ;;concienticen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;concientizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;concientiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;realizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

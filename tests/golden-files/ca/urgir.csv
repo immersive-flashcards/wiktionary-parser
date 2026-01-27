@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;urgir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;urgint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;urgit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;urgeixo;;tu ;;;urgeixes;;ell //ella //vostè ;;;urgeix;;nosaltres ;;;urgim;;vosaltres ;;;urgiu;;ells //elles //vostès ;;;urgeixen
+Indicatiu Imperfet;indicativo;;jo ;;;urgia;;tu ;;;urgies;;ell //ella //vostè ;;;urgia;;nosaltres ;;;urgíem;;vosaltres ;;;urgíeu;;ells //elles //vostès ;;;urgien
+Indicatiu Futur;indicativo;;jo ;;;urgiré;;tu ;;;urgiràs;;ell //ella //vostè ;;;urgirà;;nosaltres ;;;urgirem;;vosaltres ;;;urgireu;;ells //elles //vostès ;;;urgiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;urgí;;tu ;;;urgires;;ell //ella //vostè ;;;urgí;;nosaltres ;;;urgírem;;vosaltres ;;;urgíreu;;ells //elles //vostès ;;;urgiren
+Condicional;condicional;;jo ;;;urgiria;;tu ;;;urgiries;;ell //ella //vostè ;;;urgiria;;nosaltres ;;;urgiríem;;vosaltres ;;;urgiríeu;;ells //elles //vostès ;;;urgirien
+Subjuntiu Present;subjuntiu;;jo ;;;urgeixi;;tu ;;;urgeixis;;ell //ella //vostè ;;;urgeixi;;nosaltres ;;;urgim;;vosaltres ;;;urgiu;;ells //elles //vostès ;;;urgeixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;urgís;;tu ;;;urgissis;;ell //ella //vostè ;;;urgís;;nosaltres ;;;urgíssim;;vosaltres ;;;urgíssiu;;ells //elles //vostès ;;;urgissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;urgeix;;(vostè) ;;;urgeixi;;(nosaltres) ;;;urgim;;(vosaltres) ;;;urgiu;;(vostès) ;;;urgeixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;urgeixis;;(vostè) ;no ;;urgeixi;;(nosaltres) ;no ;;urgim;;(vosaltres) ;no ;;urgiu;;(vostès) ;no ;;urgeixin
+Indicatiu Perfet;indicatiu;;jo ;;;he urgit;;tu ;;;has urgit;;ell //ella //vostè ;;;ha urgit;;nosaltres ;;;hem urgit;;vosaltres ;;;heu urgit;;ells //elles //vostès ;;;han urgit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig urgit;;tu ;;;vas urgit;;ell //ella //vostè ;;;va urgit;;nosaltres ;;;vam urgit;;vosaltres ;;;vau urgit;;ells //elles //vostès ;;;van urgit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia urgit;;tu ;;;havies urgit;;ell //ella //vostè ;;;havia urgit;;nosaltres ;;;havíem urgit;;vosaltres ;;;havíeu urgit;;ells //elles //vostès ;;;havien urgit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí urgit;;tu ;;;hagueres urgit;;ell //ella //vostè ;;;hagué urgit;;nosaltres ;;;haguérem urgit;;vosaltres ;;;haguéreu urgit;;ells //elles //vostès ;;;hagueren urgit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver urgit;;tu ;;;vas haver urgit;;ell //ella //vostè ;;;va haver urgit;;nosaltres ;;;vam haver urgit;;vosaltres ;;;vau haver urgit;;ells //elles //vostès ;;;van haver urgit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré urgit;;tu ;;;hauràs urgit;;ell //ella //vostè ;;;haurà urgit;;nosaltres ;;;haurem urgit;;vosaltres ;;;haureu urgit;;ells //elles //vostès ;;;hauran urgit
+Condicional Perfet;condicional;;jo ;;;hauria urgit;;tu ;;;hauries urgit;;ell //ella //vostè ;;;hauria urgit;;nosaltres ;;;hauríem urgit;;vosaltres ;;;hauríeu urgit;;ells //elles //vostès ;;;haurien urgit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi urgit;;tu ;;;vagis urgit;;ell //ella //vostè ;;;vagi urgit;;nosaltres ;;;vàgim urgit;;vosaltres ;;;vàgiu urgit;;ells //elles //vostès ;;;vagin urgit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi urgit;;tu ;;;hagis urgit;;ell //ella //vostè ;;;hagi urgit;;nosaltres ;;;hàgim urgit;;vosaltres ;;;hàgiu urgit;;ells //elles //vostès ;;;hagin urgit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes urgit;;tu ;;;haguessis urgit;;ell //ella //vostè ;;;hagués urgit;;nosaltres ;;;haguéssim urgit;;vosaltres ;;;haguéssiu urgit;;ells //elles //vostès ;;;haguessin urgit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver urgit;;tu ;;;vagis haver urgit;;ell //ella //vostè ;;;vagi haver urgit;;nosaltres ;;;vàgim haver urgit;;vosaltres ;;;vàgiu haver urgit;;ells //elles //vostès ;;;vagin haver urgit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;urgir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;urg;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

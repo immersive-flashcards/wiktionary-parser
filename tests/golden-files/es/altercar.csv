@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;altercar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;altercando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;altercado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;alterco;;tú ;;;altercas;;él //ella //usted ;;;alterca;;nosotros //nosotras ;;;altercamos;;vosotros //vosotras ;;;altercáis;;ellos //ellas //ustedes ;;;altercan;;vos ;;;altercás
+Indicativo Imperfecto;indicativo;;yo ;;;altercaba;;tú //vos ;;;altercabas;;él //ella //usted ;;;altercaba;;nosotros //nosotras ;;;altercábamos;;vosotros //vosotras ;;;altercabais;;ellos //ellas //ustedes ;;;altercaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;alterqué;;tú //vos ;;;altercaste;;él //ella //usted ;;;altercó;;nosotros //nosotras ;;;altercamos;;vosotros //vosotras ;;;altercasteis;;ellos //ellas //ustedes ;;;altercaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;altercaré;;tú //vos ;;;altercarás;;él //ella //usted ;;;altercará;;nosotros //nosotras ;;;altercaremos;;vosotros //vosotras ;;;altercaréis;;ellos //ellas //ustedes ;;;altercarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he altercado;;tú //vos ;;;has altercado;;él //ella //usted ;;;ha altercado;;nosotros //nosotras ;;;hemos altercado;;vosotros //vosotras ;;;habéis altercado;;ellos //ellas //ustedes ;;;han altercado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había altercado;;tú //vos ;;;habías altercado;;él //ella //usted ;;;había altercado;;nosotros //nosotras ;;;habíamos altercado;;vosotros //vosotras ;;;habíais altercado;;ellos //ellas //ustedes ;;;habían altercado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube altercado;;tú //vos ;;;hubiste altercado;;él //ella //usted ;;;hubo altercado;;nosotros //nosotras ;;;hubimos altercado;;vosotros //vosotras ;;;hubisteis altercado;;ellos //ellas //ustedes ;;;hubieron altercado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré altercado;;tú //vos ;;;habrás altercado;;él //ella //usted ;;;habrá altercado;;nosotros //nosotras ;;;habremos altercado;;vosotros //vosotras ;;;habréis altercado;;ellos //ellas //ustedes ;;;habrán altercado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;alterque;;tú //vos ;;;alterques;;él //ella //usted ;;;alterque;;nosotros //nosotras ;;;alterquemos;;vosotros //vosotras ;;;alterquéis;;ellos //ellas //ustedes ;;;alterquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;altercara / altercase;;tú //vos ;;;altercaras / altercases;;él //ella //usted ;;;altercara / altercase;;nosotros //nosotras ;;;altercáramos / altercásemos;;vosotros //vosotras ;;;altercarais / altercaseis;;ellos //ellas //ustedes ;;;altercaran / altercasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;altercare;;tú //vos ;;;altercares;;él //ella //usted ;;;altercare;;nosotros //nosotras ;;;altercáremos;;vosotros //vosotras ;;;altercareis;;ellos //ellas //ustedes ;;;altercaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya altercado;;tú //vos ;;;hayas altercado;;él //ella //usted ;;;haya altercado;;nosotros //nosotras ;;;hayamos altercado;;vosotros //vosotras ;;;hayáis altercado;;ellos //ellas //ustedes ;;;hayan altercado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera altercado / hubiese altercado;;tú //vos ;;;hubieras altercado / hubieses altercado;;él //ella //usted ;;;hubiera altercado / hubiese altercado;;nosotros //nosotras ;;;hubiéramos altercado / hubiésemos altercado;;vosotros //vosotras ;;;hubierais altercado / hubieseis altercado;;ellos //ellas //ustedes ;;;hubieran altercado / hubiesen altercado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere altercado;;tú //vos ;;;hubieres altercado;;él //ella //usted ;;;hubiere altercado;;nosotros //nosotras ;;;hubiéremos altercado;;vosotros //vosotras ;;;hubiereis altercado;;ellos //ellas //ustedes ;;;hubieren altercado;;;;;
+Condicional;condicional;;yo ;;;altercaría;;tú //vos ;;;altercarías;;él //ella //usted ;;;altercaría;;nosotros //nosotras ;;;altercaríamos;;vosotros //vosotras ;;;altercaríais;;ellos //ellas //ustedes ;;;altercarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría altercado;;tú //vos ;;;habrías altercado;;él //ella //usted ;;;habría altercado;;nosotros //nosotras ;;;habríamos altercado;;vosotros //vosotras ;;;habríais altercado;;ellos //ellas //ustedes ;;;habrían altercado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;alterca;;(usted) ;;;alterque;;(nosotros) //(nosotras) ;;;alterquemos;;(vosotros) //(vosotras) ;;;altercad;;(ustedes) ;;;alterquen;;(vos) ;;;altercá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;alterques;;(usted) ;no ;;alterque;;(nosotros) //(nosotras) ;no ;;alterquemos;;(vosotros) //(vosotras) ;no ;;alterquéis;;(ustedes) ;no ;;alterquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;altercar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;alterc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

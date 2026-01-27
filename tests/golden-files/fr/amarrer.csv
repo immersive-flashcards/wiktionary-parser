@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;amarrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir amarré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en amarrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant amarré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;amarrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;amarré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;j’;;;amarre;;tu ;;;amarres;;il/elle/on ;;;amarre;;nous ;;;amarrons;;vous ;;;amarrez;;ils/elles ;;;amarrent
+Indicatif Passé Composé;indicatif;;j’;;;ai amarré;;tu ;;;as amarré;;il/elle/on ;;;a amarré;;nous ;;;avons amarré;;vous ;;;avez amarré;;ils/elles ;;;ont amarré
+Indicatif Imparfait;indicatif;;j’;;;amarrais;;tu ;;;amarrais;;il/elle/on ;;;amarrait;;nous ;;;amarrions;;vous ;;;amarriez;;ils/elles ;;;amarraient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais amarré;;tu ;;;avais amarré;;il/elle/on ;;;avait amarré;;nous ;;;avions amarré;;vous ;;;aviez amarré;;ils/elles ;;;avaient amarré
+Indicatif Passé Simple;indicatif;;j’;;;amarrai;;tu ;;;amarras;;il/elle/on ;;;amarra;;nous ;;;amarrâmes;;vous ;;;amarrâtes;;ils/elles ;;;amarrèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus amarré;;tu ;;;eus amarré;;il/elle/on ;;;eut amarré;;nous ;;;eûmes amarré;;vous ;;;eûtes amarré;;ils/elles ;;;eurent amarré
+Indicatif Futur Simple;indicatif;;j’;;;amarrerai;;tu ;;;amarreras;;il/elle/on ;;;amarrera;;nous ;;;amarrerons;;vous ;;;amarrerez;;ils/elles ;;;amarreront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai amarré;;tu ;;;auras amarré;;il/elle/on ;;;aura amarré;;nous ;;;aurons amarré;;vous ;;;aurez amarré;;ils/elles ;;;auront amarré
+Subjonctif Présent;subjonctif;que ;j’;;;amarre;que ;tu ;;;amarres;qu’;il/elle/on ;;;amarre;que ;nous ;;;amarrions;que ;vous ;;;amarriez;qu’;ils/elles ;;;amarrent
+Subjonctif Passé;subjonctif;que ;j’;;;aie amarré;que ;tu ;;;aies amarré;qu’;il/elle/on ;;;ait amarré;que ;nous ;;;ayons amarré;que ;vous ;;;ayez amarré;qu’;ils/elles ;;;aient amarré
+Subjonctif Imparfait;subjonctif;que ;j’;;;amarrasse;que ;tu ;;;amarrasses;qu’;il/elle/on ;;;amarrât;que ;nous ;;;amarrassions;que ;vous ;;;amarrassiez;qu’;ils/elles ;;;amarrassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse amarré;que ;tu ;;;eusses amarré;qu’;il/elle/on ;;;eût amarré;que ;nous ;;;eussions amarré;que ;vous ;;;eussiez amarré;qu’;ils/elles ;;;eussent amarré
+Conditionnel;conditionnel;;j’;;;amarrerais;;tu ;;;amarrerais;;il/elle/on ;;;amarrerait;;nous ;;;amarrerions;;vous ;;;amarreriez;;ils/elles ;;;amarreraient
+Conditionnel Passé;conditionnel;;j’;;;aurais amarré;;tu ;;;aurais amarré;;il/elle/on ;;;aurait amarré;;nous ;;;aurions amarré;;vous ;;;auriez amarré;;ils/elles ;;;auraient amarré
+Impératif Présent;impératif;;;;;;;;;;amarre;;;;;;;;;;amarrons;;;;;amarrez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;amarrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;amarr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

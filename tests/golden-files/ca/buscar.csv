@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;buscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;buscant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;buscat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;busco;;tu ;;;busques;;ell //ella //vostè ;;;busca;;nosaltres ;;;busquem;;vosaltres ;;;busqueu;;ells //elles //vostès ;;;busquen
+Indicatiu Imperfet;indicativo;;jo ;;;buscava;;tu ;;;buscaves;;ell //ella //vostè ;;;buscava;;nosaltres ;;;buscàvem;;vosaltres ;;;buscàveu;;ells //elles //vostès ;;;buscaven
+Indicatiu Futur;indicativo;;jo ;;;buscaré;;tu ;;;buscaràs;;ell //ella //vostè ;;;buscarà;;nosaltres ;;;buscarem;;vosaltres ;;;buscareu;;ells //elles //vostès ;;;buscaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;busquí;;tu ;;;buscares;;ell //ella //vostè ;;;buscà;;nosaltres ;;;buscàrem;;vosaltres ;;;buscàreu;;ells //elles //vostès ;;;buscaren
+Condicional;condicional;;jo ;;;buscaria;;tu ;;;buscaries;;ell //ella //vostè ;;;buscaria;;nosaltres ;;;buscaríem;;vosaltres ;;;buscaríeu;;ells //elles //vostès ;;;buscarien
+Subjuntiu Present;subjuntiu;;jo ;;;busqui;;tu ;;;busquis;;ell //ella //vostè ;;;busqui;;nosaltres ;;;busquem;;vosaltres ;;;busqueu;;ells //elles //vostès ;;;busquin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;busqués;;tu ;;;busquessis;;ell //ella //vostè ;;;busqués;;nosaltres ;;;busquéssim;;vosaltres ;;;busquéssiu;;ells //elles //vostès ;;;busquessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;busca;;(vostè) ;;;busqui;;(nosaltres) ;;;busquem;;(vosaltres) ;;;busqueu;;(vostès) ;;;busquin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;busquis;;(vostè) ;no ;;busqui;;(nosaltres) ;no ;;busquem;;(vosaltres) ;no ;;busqueu;;(vostès) ;no ;;busquin
+Indicatiu Perfet;indicatiu;;jo ;;;he buscat;;tu ;;;has buscat;;ell //ella //vostè ;;;ha buscat;;nosaltres ;;;hem buscat;;vosaltres ;;;heu buscat;;ells //elles //vostès ;;;han buscat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig buscat;;tu ;;;vas buscat;;ell //ella //vostè ;;;va buscat;;nosaltres ;;;vam buscat;;vosaltres ;;;vau buscat;;ells //elles //vostès ;;;van buscat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia buscat;;tu ;;;havies buscat;;ell //ella //vostè ;;;havia buscat;;nosaltres ;;;havíem buscat;;vosaltres ;;;havíeu buscat;;ells //elles //vostès ;;;havien buscat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí buscat;;tu ;;;hagueres buscat;;ell //ella //vostè ;;;hagué buscat;;nosaltres ;;;haguérem buscat;;vosaltres ;;;haguéreu buscat;;ells //elles //vostès ;;;hagueren buscat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver buscat;;tu ;;;vas haver buscat;;ell //ella //vostè ;;;va haver buscat;;nosaltres ;;;vam haver buscat;;vosaltres ;;;vau haver buscat;;ells //elles //vostès ;;;van haver buscat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré buscat;;tu ;;;hauràs buscat;;ell //ella //vostè ;;;haurà buscat;;nosaltres ;;;haurem buscat;;vosaltres ;;;haureu buscat;;ells //elles //vostès ;;;hauran buscat
+Condicional Perfet;condicional;;jo ;;;hauria buscat;;tu ;;;hauries buscat;;ell //ella //vostè ;;;hauria buscat;;nosaltres ;;;hauríem buscat;;vosaltres ;;;hauríeu buscat;;ells //elles //vostès ;;;haurien buscat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi buscat;;tu ;;;vagis buscat;;ell //ella //vostè ;;;vagi buscat;;nosaltres ;;;vàgim buscat;;vosaltres ;;;vàgiu buscat;;ells //elles //vostès ;;;vagin buscat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi buscat;;tu ;;;hagis buscat;;ell //ella //vostè ;;;hagi buscat;;nosaltres ;;;hàgim buscat;;vosaltres ;;;hàgiu buscat;;ells //elles //vostès ;;;hagin buscat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes buscat;;tu ;;;haguessis buscat;;ell //ella //vostè ;;;hagués buscat;;nosaltres ;;;haguéssim buscat;;vosaltres ;;;haguéssiu buscat;;ells //elles //vostès ;;;haguessin buscat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver buscat;;tu ;;;vagis haver buscat;;ell //ella //vostè ;;;vagi haver buscat;;nosaltres ;;;vàgim haver buscat;;vosaltres ;;;vàgiu haver buscat;;ells //elles //vostès ;;;vagin haver buscat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;buscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;busc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

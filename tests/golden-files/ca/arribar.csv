@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;arribar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;arribant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;arribat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;arribo;;tu ;;;arribes;;ell //ella //vostè ;;;arriba;;nosaltres ;;;arribem;;vosaltres ;;;arribeu;;ells //elles //vostès ;;;arriben
+Indicatiu Imperfet;indicativo;;jo ;;;arribava;;tu ;;;arribaves;;ell //ella //vostè ;;;arribava;;nosaltres ;;;arribàvem;;vosaltres ;;;arribàveu;;ells //elles //vostès ;;;arribaven
+Indicatiu Futur;indicativo;;jo ;;;arribaré;;tu ;;;arribaràs;;ell //ella //vostè ;;;arribarà;;nosaltres ;;;arribarem;;vosaltres ;;;arribareu;;ells //elles //vostès ;;;arribaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;arribí;;tu ;;;arribares;;ell //ella //vostè ;;;arribà;;nosaltres ;;;arribàrem;;vosaltres ;;;arribàreu;;ells //elles //vostès ;;;arribaren
+Condicional;condicional;;jo ;;;arribaria;;tu ;;;arribaries;;ell //ella //vostè ;;;arribaria;;nosaltres ;;;arribaríem;;vosaltres ;;;arribaríeu;;ells //elles //vostès ;;;arribarien
+Subjuntiu Present;subjuntiu;;jo ;;;arribi;;tu ;;;arribis;;ell //ella //vostè ;;;arribi;;nosaltres ;;;arribem;;vosaltres ;;;arribeu;;ells //elles //vostès ;;;arribin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;arribés;;tu ;;;arribessis;;ell //ella //vostè ;;;arribés;;nosaltres ;;;arribéssim;;vosaltres ;;;arribéssiu;;ells //elles //vostès ;;;arribessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;arriba;;(vostè) ;;;arribi;;(nosaltres) ;;;arribem;;(vosaltres) ;;;arribeu;;(vostès) ;;;arribin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;arribis;;(vostè) ;no ;;arribi;;(nosaltres) ;no ;;arribem;;(vosaltres) ;no ;;arribeu;;(vostès) ;no ;;arribin
+Indicatiu Perfet;indicatiu;;jo ;;;he arribat;;tu ;;;has arribat;;ell //ella //vostè ;;;ha arribat;;nosaltres ;;;hem arribat;;vosaltres ;;;heu arribat;;ells //elles //vostès ;;;han arribat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig arribat;;tu ;;;vas arribat;;ell //ella //vostè ;;;va arribat;;nosaltres ;;;vam arribat;;vosaltres ;;;vau arribat;;ells //elles //vostès ;;;van arribat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia arribat;;tu ;;;havies arribat;;ell //ella //vostè ;;;havia arribat;;nosaltres ;;;havíem arribat;;vosaltres ;;;havíeu arribat;;ells //elles //vostès ;;;havien arribat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí arribat;;tu ;;;hagueres arribat;;ell //ella //vostè ;;;hagué arribat;;nosaltres ;;;haguérem arribat;;vosaltres ;;;haguéreu arribat;;ells //elles //vostès ;;;hagueren arribat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver arribat;;tu ;;;vas haver arribat;;ell //ella //vostè ;;;va haver arribat;;nosaltres ;;;vam haver arribat;;vosaltres ;;;vau haver arribat;;ells //elles //vostès ;;;van haver arribat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré arribat;;tu ;;;hauràs arribat;;ell //ella //vostè ;;;haurà arribat;;nosaltres ;;;haurem arribat;;vosaltres ;;;haureu arribat;;ells //elles //vostès ;;;hauran arribat
+Condicional Perfet;condicional;;jo ;;;hauria arribat;;tu ;;;hauries arribat;;ell //ella //vostè ;;;hauria arribat;;nosaltres ;;;hauríem arribat;;vosaltres ;;;hauríeu arribat;;ells //elles //vostès ;;;haurien arribat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi arribat;;tu ;;;vagis arribat;;ell //ella //vostè ;;;vagi arribat;;nosaltres ;;;vàgim arribat;;vosaltres ;;;vàgiu arribat;;ells //elles //vostès ;;;vagin arribat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi arribat;;tu ;;;hagis arribat;;ell //ella //vostè ;;;hagi arribat;;nosaltres ;;;hàgim arribat;;vosaltres ;;;hàgiu arribat;;ells //elles //vostès ;;;hagin arribat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes arribat;;tu ;;;haguessis arribat;;ell //ella //vostè ;;;hagués arribat;;nosaltres ;;;haguéssim arribat;;vosaltres ;;;haguéssiu arribat;;ells //elles //vostès ;;;haguessin arribat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver arribat;;tu ;;;vagis haver arribat;;ell //ella //vostè ;;;vagi haver arribat;;nosaltres ;;;vàgim haver arribat;;vosaltres ;;;vàgiu haver arribat;;ells //elles //vostès ;;;vagin haver arribat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;arribar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;arrib;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

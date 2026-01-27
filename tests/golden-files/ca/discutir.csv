@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;discutir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;discutint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;discutit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;discuteixo;;tu ;;;discuteixes;;ell //ella //vostè ;;;discuteix;;nosaltres ;;;discutim;;vosaltres ;;;discutiu;;ells //elles //vostès ;;;discuteixen
+Indicatiu Imperfet;indicativo;;jo ;;;discutia;;tu ;;;discuties;;ell //ella //vostè ;;;discutia;;nosaltres ;;;discutíem;;vosaltres ;;;discutíeu;;ells //elles //vostès ;;;discutien
+Indicatiu Futur;indicativo;;jo ;;;discutiré;;tu ;;;discutiràs;;ell //ella //vostè ;;;discutirà;;nosaltres ;;;discutirem;;vosaltres ;;;discutireu;;ells //elles //vostès ;;;discutiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;discutí;;tu ;;;discutires;;ell //ella //vostè ;;;discutí;;nosaltres ;;;discutírem;;vosaltres ;;;discutíreu;;ells //elles //vostès ;;;discutiren
+Condicional;condicional;;jo ;;;discutiria;;tu ;;;discutiries;;ell //ella //vostè ;;;discutiria;;nosaltres ;;;discutiríem;;vosaltres ;;;discutiríeu;;ells //elles //vostès ;;;discutirien
+Subjuntiu Present;subjuntiu;;jo ;;;discuteixi;;tu ;;;discuteixis;;ell //ella //vostè ;;;discuteixi;;nosaltres ;;;discutim;;vosaltres ;;;discutiu;;ells //elles //vostès ;;;discuteixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;discutís;;tu ;;;discutissis;;ell //ella //vostè ;;;discutís;;nosaltres ;;;discutíssim;;vosaltres ;;;discutíssiu;;ells //elles //vostès ;;;discutissin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;discuteix;;(vostè) ;;;discuteixi;;(nosaltres) ;;;discutim;;(vosaltres) ;;;discutiu;;(vostès) ;;;discuteixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;discuteixis;;(vostè) ;no ;;discuteixi;;(nosaltres) ;no ;;discutim;;(vosaltres) ;no ;;discutiu;;(vostès) ;no ;;discuteixin
+Indicatiu Perfet;indicatiu;;jo ;;;he discutit;;tu ;;;has discutit;;ell //ella //vostè ;;;ha discutit;;nosaltres ;;;hem discutit;;vosaltres ;;;heu discutit;;ells //elles //vostès ;;;han discutit
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig discutit;;tu ;;;vas discutit;;ell //ella //vostè ;;;va discutit;;nosaltres ;;;vam discutit;;vosaltres ;;;vau discutit;;ells //elles //vostès ;;;van discutit
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia discutit;;tu ;;;havies discutit;;ell //ella //vostè ;;;havia discutit;;nosaltres ;;;havíem discutit;;vosaltres ;;;havíeu discutit;;ells //elles //vostès ;;;havien discutit
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí discutit;;tu ;;;hagueres discutit;;ell //ella //vostè ;;;hagué discutit;;nosaltres ;;;haguérem discutit;;vosaltres ;;;haguéreu discutit;;ells //elles //vostès ;;;hagueren discutit
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver discutit;;tu ;;;vas haver discutit;;ell //ella //vostè ;;;va haver discutit;;nosaltres ;;;vam haver discutit;;vosaltres ;;;vau haver discutit;;ells //elles //vostès ;;;van haver discutit
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré discutit;;tu ;;;hauràs discutit;;ell //ella //vostè ;;;haurà discutit;;nosaltres ;;;haurem discutit;;vosaltres ;;;haureu discutit;;ells //elles //vostès ;;;hauran discutit
+Condicional Perfet;condicional;;jo ;;;hauria discutit;;tu ;;;hauries discutit;;ell //ella //vostè ;;;hauria discutit;;nosaltres ;;;hauríem discutit;;vosaltres ;;;hauríeu discutit;;ells //elles //vostès ;;;haurien discutit
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi discutit;;tu ;;;vagis discutit;;ell //ella //vostè ;;;vagi discutit;;nosaltres ;;;vàgim discutit;;vosaltres ;;;vàgiu discutit;;ells //elles //vostès ;;;vagin discutit
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi discutit;;tu ;;;hagis discutit;;ell //ella //vostè ;;;hagi discutit;;nosaltres ;;;hàgim discutit;;vosaltres ;;;hàgiu discutit;;ells //elles //vostès ;;;hagin discutit
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes discutit;;tu ;;;haguessis discutit;;ell //ella //vostè ;;;hagués discutit;;nosaltres ;;;haguéssim discutit;;vosaltres ;;;haguéssiu discutit;;ells //elles //vostès ;;;haguessin discutit
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver discutit;;tu ;;;vagis haver discutit;;ell //ella //vostè ;;;vagi haver discutit;;nosaltres ;;;vàgim haver discutit;;vosaltres ;;;vàgiu haver discutit;;ells //elles //vostès ;;;vagin haver discutit
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;discutir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;discut;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

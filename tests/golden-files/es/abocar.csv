@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;abocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;abocando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;abocado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;aboco;;tú ;;;abocas;;él //ella //usted ;;;aboca;;nosotros //nosotras ;;;abocamos;;vosotros //vosotras ;;;abocáis;;ellos //ellas //ustedes ;;;abocan;;vos ;;;abocás
+Indicativo Imperfecto;indicativo;;yo ;;;abocaba;;tú //vos ;;;abocabas;;él //ella //usted ;;;abocaba;;nosotros //nosotras ;;;abocábamos;;vosotros //vosotras ;;;abocabais;;ellos //ellas //ustedes ;;;abocaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;aboqué;;tú //vos ;;;abocaste;;él //ella //usted ;;;abocó;;nosotros //nosotras ;;;abocamos;;vosotros //vosotras ;;;abocasteis;;ellos //ellas //ustedes ;;;abocaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;abocaré;;tú //vos ;;;abocarás;;él //ella //usted ;;;abocará;;nosotros //nosotras ;;;abocaremos;;vosotros //vosotras ;;;abocaréis;;ellos //ellas //ustedes ;;;abocarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he abocado;;tú //vos ;;;has abocado;;él //ella //usted ;;;ha abocado;;nosotros //nosotras ;;;hemos abocado;;vosotros //vosotras ;;;habéis abocado;;ellos //ellas //ustedes ;;;han abocado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había abocado;;tú //vos ;;;habías abocado;;él //ella //usted ;;;había abocado;;nosotros //nosotras ;;;habíamos abocado;;vosotros //vosotras ;;;habíais abocado;;ellos //ellas //ustedes ;;;habían abocado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube abocado;;tú //vos ;;;hubiste abocado;;él //ella //usted ;;;hubo abocado;;nosotros //nosotras ;;;hubimos abocado;;vosotros //vosotras ;;;hubisteis abocado;;ellos //ellas //ustedes ;;;hubieron abocado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré abocado;;tú //vos ;;;habrás abocado;;él //ella //usted ;;;habrá abocado;;nosotros //nosotras ;;;habremos abocado;;vosotros //vosotras ;;;habréis abocado;;ellos //ellas //ustedes ;;;habrán abocado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;aboque;;tú //vos ;;;aboques;;él //ella //usted ;;;aboque;;nosotros //nosotras ;;;aboquemos;;vosotros //vosotras ;;;aboquéis;;ellos //ellas //ustedes ;;;aboquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;abocara / abocase;;tú //vos ;;;abocaras / abocases;;él //ella //usted ;;;abocara / abocase;;nosotros //nosotras ;;;abocáramos / abocásemos;;vosotros //vosotras ;;;abocarais / abocaseis;;ellos //ellas //ustedes ;;;abocaran / abocasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;abocare;;tú //vos ;;;abocares;;él //ella //usted ;;;abocare;;nosotros //nosotras ;;;abocáremos;;vosotros //vosotras ;;;abocareis;;ellos //ellas //ustedes ;;;abocaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya abocado;;tú //vos ;;;hayas abocado;;él //ella //usted ;;;haya abocado;;nosotros //nosotras ;;;hayamos abocado;;vosotros //vosotras ;;;hayáis abocado;;ellos //ellas //ustedes ;;;hayan abocado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera abocado / hubiese abocado;;tú //vos ;;;hubieras abocado / hubieses abocado;;él //ella //usted ;;;hubiera abocado / hubiese abocado;;nosotros //nosotras ;;;hubiéramos abocado / hubiésemos abocado;;vosotros //vosotras ;;;hubierais abocado / hubieseis abocado;;ellos //ellas //ustedes ;;;hubieran abocado / hubiesen abocado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere abocado;;tú //vos ;;;hubieres abocado;;él //ella //usted ;;;hubiere abocado;;nosotros //nosotras ;;;hubiéremos abocado;;vosotros //vosotras ;;;hubiereis abocado;;ellos //ellas //ustedes ;;;hubieren abocado;;;;;
+Condicional;condicional;;yo ;;;abocaría;;tú //vos ;;;abocarías;;él //ella //usted ;;;abocaría;;nosotros //nosotras ;;;abocaríamos;;vosotros //vosotras ;;;abocaríais;;ellos //ellas //ustedes ;;;abocarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría abocado;;tú //vos ;;;habrías abocado;;él //ella //usted ;;;habría abocado;;nosotros //nosotras ;;;habríamos abocado;;vosotros //vosotras ;;;habríais abocado;;ellos //ellas //ustedes ;;;habrían abocado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aboca;;(usted) ;;;aboque;;(nosotros) //(nosotras) ;;;aboquemos;;(vosotros) //(vosotras) ;;;abocad;;(ustedes) ;;;aboquen;;(vos) ;;;abocá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aboques;;(usted) ;no ;;aboque;;(nosotros) //(nosotras) ;no ;;aboquemos;;(vosotros) //(vosotras) ;no ;;aboquéis;;(ustedes) ;no ;;aboquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;abocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;aboc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

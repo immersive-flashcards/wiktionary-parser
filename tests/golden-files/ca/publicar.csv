@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;publicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;publicant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;publicat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;publico;;tu ;;;publiques;;ell //ella //vostè ;;;publica;;nosaltres ;;;publiquem;;vosaltres ;;;publiqueu;;ells //elles //vostès ;;;publiquen
+Indicatiu Imperfet;indicativo;;jo ;;;publicava;;tu ;;;publicaves;;ell //ella //vostè ;;;publicava;;nosaltres ;;;publicàvem;;vosaltres ;;;publicàveu;;ells //elles //vostès ;;;publicaven
+Indicatiu Futur;indicativo;;jo ;;;publicaré;;tu ;;;publicaràs;;ell //ella //vostè ;;;publicarà;;nosaltres ;;;publicarem;;vosaltres ;;;publicareu;;ells //elles //vostès ;;;publicaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;publiquí;;tu ;;;publicares;;ell //ella //vostè ;;;publicà;;nosaltres ;;;publicàrem;;vosaltres ;;;publicàreu;;ells //elles //vostès ;;;publicaren
+Condicional;condicional;;jo ;;;publicaria;;tu ;;;publicaries;;ell //ella //vostè ;;;publicaria;;nosaltres ;;;publicaríem;;vosaltres ;;;publicaríeu;;ells //elles //vostès ;;;publicarien
+Subjuntiu Present;subjuntiu;;jo ;;;publiqui;;tu ;;;publiquis;;ell //ella //vostè ;;;publiqui;;nosaltres ;;;publiquem;;vosaltres ;;;publiqueu;;ells //elles //vostès ;;;publiquin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;publiqués;;tu ;;;publiquessis;;ell //ella //vostè ;;;publiqués;;nosaltres ;;;publiquéssim;;vosaltres ;;;publiquéssiu;;ells //elles //vostès ;;;publiquessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;publica;;(vostè) ;;;publiqui;;(nosaltres) ;;;publiquem;;(vosaltres) ;;;publiqueu;;(vostès) ;;;publiquin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;publiquis;;(vostè) ;no ;;publiqui;;(nosaltres) ;no ;;publiquem;;(vosaltres) ;no ;;publiqueu;;(vostès) ;no ;;publiquin
+Indicatiu Perfet;indicatiu;;jo ;;;he publicat;;tu ;;;has publicat;;ell //ella //vostè ;;;ha publicat;;nosaltres ;;;hem publicat;;vosaltres ;;;heu publicat;;ells //elles //vostès ;;;han publicat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig publicat;;tu ;;;vas publicat;;ell //ella //vostè ;;;va publicat;;nosaltres ;;;vam publicat;;vosaltres ;;;vau publicat;;ells //elles //vostès ;;;van publicat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia publicat;;tu ;;;havies publicat;;ell //ella //vostè ;;;havia publicat;;nosaltres ;;;havíem publicat;;vosaltres ;;;havíeu publicat;;ells //elles //vostès ;;;havien publicat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí publicat;;tu ;;;hagueres publicat;;ell //ella //vostè ;;;hagué publicat;;nosaltres ;;;haguérem publicat;;vosaltres ;;;haguéreu publicat;;ells //elles //vostès ;;;hagueren publicat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver publicat;;tu ;;;vas haver publicat;;ell //ella //vostè ;;;va haver publicat;;nosaltres ;;;vam haver publicat;;vosaltres ;;;vau haver publicat;;ells //elles //vostès ;;;van haver publicat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré publicat;;tu ;;;hauràs publicat;;ell //ella //vostè ;;;haurà publicat;;nosaltres ;;;haurem publicat;;vosaltres ;;;haureu publicat;;ells //elles //vostès ;;;hauran publicat
+Condicional Perfet;condicional;;jo ;;;hauria publicat;;tu ;;;hauries publicat;;ell //ella //vostè ;;;hauria publicat;;nosaltres ;;;hauríem publicat;;vosaltres ;;;hauríeu publicat;;ells //elles //vostès ;;;haurien publicat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi publicat;;tu ;;;vagis publicat;;ell //ella //vostè ;;;vagi publicat;;nosaltres ;;;vàgim publicat;;vosaltres ;;;vàgiu publicat;;ells //elles //vostès ;;;vagin publicat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi publicat;;tu ;;;hagis publicat;;ell //ella //vostè ;;;hagi publicat;;nosaltres ;;;hàgim publicat;;vosaltres ;;;hàgiu publicat;;ells //elles //vostès ;;;hagin publicat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes publicat;;tu ;;;haguessis publicat;;ell //ella //vostè ;;;hagués publicat;;nosaltres ;;;haguéssim publicat;;vosaltres ;;;haguéssiu publicat;;ells //elles //vostès ;;;haguessin publicat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver publicat;;tu ;;;vagis haver publicat;;ell //ella //vostè ;;;vagi haver publicat;;nosaltres ;;;vàgim haver publicat;;vosaltres ;;;vàgiu haver publicat;;ells //elles //vostès ;;;vagin haver publicat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;publicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;public;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

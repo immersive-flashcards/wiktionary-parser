@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;désigner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir désigné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en désignant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant désigné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;désignant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;désigné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;désigne;;tu ;;;désignes;;il/elle/on ;;;désigne;;nous ;;;désignons;;vous ;;;désignez;;ils/elles ;;;désignent
+Indicatif Passé Composé;indicatif;;j’;;;ai désigné;;tu ;;;as désigné;;il/elle/on ;;;a désigné;;nous ;;;avons désigné;;vous ;;;avez désigné;;ils/elles ;;;ont désigné
+Indicatif Imparfait;indicatif;;je ;;;désignais;;tu ;;;désignais;;il/elle/on ;;;désignait;;nous ;;;désignions;;vous ;;;désigniez;;ils/elles ;;;désignaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais désigné;;tu ;;;avais désigné;;il/elle/on ;;;avait désigné;;nous ;;;avions désigné;;vous ;;;aviez désigné;;ils/elles ;;;avaient désigné
+Indicatif Passé Simple;indicatif;;je ;;;désignai;;tu ;;;désignas;;il/elle/on ;;;désigna;;nous ;;;désignâmes;;vous ;;;désignâtes;;ils/elles ;;;désignèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus désigné;;tu ;;;eus désigné;;il/elle/on ;;;eut désigné;;nous ;;;eûmes désigné;;vous ;;;eûtes désigné;;ils/elles ;;;eurent désigné
+Indicatif Futur Simple;indicatif;;je ;;;désignerai;;tu ;;;désigneras;;il/elle/on ;;;désignera;;nous ;;;désignerons;;vous ;;;désignerez;;ils/elles ;;;désigneront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai désigné;;tu ;;;auras désigné;;il/elle/on ;;;aura désigné;;nous ;;;aurons désigné;;vous ;;;aurez désigné;;ils/elles ;;;auront désigné
+Subjonctif Présent;subjonctif;que ;je ;;;désigne;que ;tu ;;;désignes;qu’;il/elle/on ;;;désigne;que ;nous ;;;désignions;que ;vous ;;;désigniez;qu’;ils/elles ;;;désignent
+Subjonctif Passé;subjonctif;que ;j’;;;aie désigné;que ;tu ;;;aies désigné;qu’;il/elle/on ;;;ait désigné;que ;nous ;;;ayons désigné;que ;vous ;;;ayez désigné;qu’;ils/elles ;;;aient désigné
+Subjonctif Imparfait;subjonctif;que ;je ;;;désignasse;que ;tu ;;;désignasses;qu’;il/elle/on ;;;désignât;que ;nous ;;;désignassions;que ;vous ;;;désignassiez;qu’;ils/elles ;;;désignassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse désigné;que ;tu ;;;eusses désigné;qu’;il/elle/on ;;;eût désigné;que ;nous ;;;eussions désigné;que ;vous ;;;eussiez désigné;qu’;ils/elles ;;;eussent désigné
+Conditionnel;conditionnel;;je ;;;désignerais;;tu ;;;désignerais;;il/elle/on ;;;désignerait;;nous ;;;désignerions;;vous ;;;désigneriez;;ils/elles ;;;désigneraient
+Conditionnel Passé;conditionnel;;j’;;;aurais désigné;;tu ;;;aurais désigné;;il/elle/on ;;;aurait désigné;;nous ;;;aurions désigné;;vous ;;;auriez désigné;;ils/elles ;;;auraient désigné
+Impératif Présent;impératif;;;;;;;;;;désigne;;;;;;;;;;désignons;;;;;désignez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;désigner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;désign;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

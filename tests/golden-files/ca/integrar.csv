@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;integrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;integrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;integrat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;integro;;tu ;;;integres;;ell //ella //vostè ;;;integra;;nosaltres ;;;integrem;;vosaltres ;;;integreu;;ells //elles //vostès ;;;integren
+Indicatiu Imperfet;indicativo;;jo ;;;integrava;;tu ;;;integraves;;ell //ella //vostè ;;;integrava;;nosaltres ;;;integràvem;;vosaltres ;;;integràveu;;ells //elles //vostès ;;;integraven
+Indicatiu Futur;indicativo;;jo ;;;integraré;;tu ;;;integraràs;;ell //ella //vostè ;;;integrarà;;nosaltres ;;;integrarem;;vosaltres ;;;integrareu;;ells //elles //vostès ;;;integraran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;integrí;;tu ;;;integrares;;ell //ella //vostè ;;;integrà;;nosaltres ;;;integràrem;;vosaltres ;;;integràreu;;ells //elles //vostès ;;;integraren
+Condicional;condicional;;jo ;;;integraria;;tu ;;;integraries;;ell //ella //vostè ;;;integraria;;nosaltres ;;;integraríem;;vosaltres ;;;integraríeu;;ells //elles //vostès ;;;integrarien
+Subjuntiu Present;subjuntiu;;jo ;;;integri;;tu ;;;integris;;ell //ella //vostè ;;;integri;;nosaltres ;;;integrem;;vosaltres ;;;integreu;;ells //elles //vostès ;;;integrin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;integrés;;tu ;;;integressis;;ell //ella //vostè ;;;integrés;;nosaltres ;;;integréssim;;vosaltres ;;;integréssiu;;ells //elles //vostès ;;;integressin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;integra;;(vostè) ;;;integri;;(nosaltres) ;;;integrem;;(vosaltres) ;;;integreu;;(vostès) ;;;integrin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;integris;;(vostè) ;no ;;integri;;(nosaltres) ;no ;;integrem;;(vosaltres) ;no ;;integreu;;(vostès) ;no ;;integrin
+Indicatiu Perfet;indicatiu;;jo ;;;he integrat;;tu ;;;has integrat;;ell //ella //vostè ;;;ha integrat;;nosaltres ;;;hem integrat;;vosaltres ;;;heu integrat;;ells //elles //vostès ;;;han integrat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig integrat;;tu ;;;vas integrat;;ell //ella //vostè ;;;va integrat;;nosaltres ;;;vam integrat;;vosaltres ;;;vau integrat;;ells //elles //vostès ;;;van integrat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia integrat;;tu ;;;havies integrat;;ell //ella //vostè ;;;havia integrat;;nosaltres ;;;havíem integrat;;vosaltres ;;;havíeu integrat;;ells //elles //vostès ;;;havien integrat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí integrat;;tu ;;;hagueres integrat;;ell //ella //vostè ;;;hagué integrat;;nosaltres ;;;haguérem integrat;;vosaltres ;;;haguéreu integrat;;ells //elles //vostès ;;;hagueren integrat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver integrat;;tu ;;;vas haver integrat;;ell //ella //vostè ;;;va haver integrat;;nosaltres ;;;vam haver integrat;;vosaltres ;;;vau haver integrat;;ells //elles //vostès ;;;van haver integrat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré integrat;;tu ;;;hauràs integrat;;ell //ella //vostè ;;;haurà integrat;;nosaltres ;;;haurem integrat;;vosaltres ;;;haureu integrat;;ells //elles //vostès ;;;hauran integrat
+Condicional Perfet;condicional;;jo ;;;hauria integrat;;tu ;;;hauries integrat;;ell //ella //vostè ;;;hauria integrat;;nosaltres ;;;hauríem integrat;;vosaltres ;;;hauríeu integrat;;ells //elles //vostès ;;;haurien integrat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi integrat;;tu ;;;vagis integrat;;ell //ella //vostè ;;;vagi integrat;;nosaltres ;;;vàgim integrat;;vosaltres ;;;vàgiu integrat;;ells //elles //vostès ;;;vagin integrat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi integrat;;tu ;;;hagis integrat;;ell //ella //vostè ;;;hagi integrat;;nosaltres ;;;hàgim integrat;;vosaltres ;;;hàgiu integrat;;ells //elles //vostès ;;;hagin integrat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes integrat;;tu ;;;haguessis integrat;;ell //ella //vostè ;;;hagués integrat;;nosaltres ;;;haguéssim integrat;;vosaltres ;;;haguéssiu integrat;;ells //elles //vostès ;;;haguessin integrat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver integrat;;tu ;;;vagis haver integrat;;ell //ella //vostè ;;;vagi haver integrat;;nosaltres ;;;vàgim haver integrat;;vosaltres ;;;vàgiu haver integrat;;ells //elles //vostès ;;;vagin haver integrat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;integrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;integr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

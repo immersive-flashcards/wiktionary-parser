@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;diner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir diné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en dinant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant diné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;dinant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;diné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;dine;;tu ;;;dines;;il/elle/on ;;;dine;;nous ;;;dinons;;vous ;;;dinez;;ils/elles ;;;dinent
+Indicatif Passé Composé;indicatif;;j’;;;ai diné;;tu ;;;as diné;;il/elle/on ;;;a diné;;nous ;;;avons diné;;vous ;;;avez diné;;ils/elles ;;;ont diné
+Indicatif Imparfait;indicatif;;je ;;;dinais;;tu ;;;dinais;;il/elle/on ;;;dinait;;nous ;;;dinions;;vous ;;;diniez;;ils/elles ;;;dinaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais diné;;tu ;;;avais diné;;il/elle/on ;;;avait diné;;nous ;;;avions diné;;vous ;;;aviez diné;;ils/elles ;;;avaient diné
+Indicatif Passé Simple;indicatif;;je ;;;dinai;;tu ;;;dinas;;il/elle/on ;;;dina;;nous ;;;dinâmes;;vous ;;;dinâtes;;ils/elles ;;;dinèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus diné;;tu ;;;eus diné;;il/elle/on ;;;eut diné;;nous ;;;eûmes diné;;vous ;;;eûtes diné;;ils/elles ;;;eurent diné
+Indicatif Futur Simple;indicatif;;je ;;;dinerai;;tu ;;;dineras;;il/elle/on ;;;dinera;;nous ;;;dinerons;;vous ;;;dinerez;;ils/elles ;;;dineront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai diné;;tu ;;;auras diné;;il/elle/on ;;;aura diné;;nous ;;;aurons diné;;vous ;;;aurez diné;;ils/elles ;;;auront diné
+Subjonctif Présent;subjonctif;que ;je ;;;dine;que ;tu ;;;dines;qu’;il/elle/on ;;;dine;que ;nous ;;;dinions;que ;vous ;;;diniez;qu’;ils/elles ;;;dinent
+Subjonctif Passé;subjonctif;que ;j’;;;aie diné;que ;tu ;;;aies diné;qu’;il/elle/on ;;;ait diné;que ;nous ;;;ayons diné;que ;vous ;;;ayez diné;qu’;ils/elles ;;;aient diné
+Subjonctif Imparfait;subjonctif;que ;je ;;;dinasse;que ;tu ;;;dinasses;qu’;il/elle/on ;;;dinât;que ;nous ;;;dinassions;que ;vous ;;;dinassiez;qu’;ils/elles ;;;dinassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse diné;que ;tu ;;;eusses diné;qu’;il/elle/on ;;;eût diné;que ;nous ;;;eussions diné;que ;vous ;;;eussiez diné;qu’;ils/elles ;;;eussent diné
+Conditionnel;conditionnel;;je ;;;dinerais;;tu ;;;dinerais;;il/elle/on ;;;dinerait;;nous ;;;dinerions;;vous ;;;dineriez;;ils/elles ;;;dineraient
+Conditionnel Passé;conditionnel;;j’;;;aurais diné;;tu ;;;aurais diné;;il/elle/on ;;;aurait diné;;nous ;;;aurions diné;;vous ;;;auriez diné;;ils/elles ;;;auraient diné
+Impératif Présent;impératif;;;;;;;;;;dine;;;;;;;;;;dinons;;;;;dinez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;diner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;din;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

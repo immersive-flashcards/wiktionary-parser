@@ -1,5 +1,5 @@
 profile: "test"
-max_verbs: 50
+max_verbs: 250
 
 output_dir: "tests/temp_verb_csvs"
 

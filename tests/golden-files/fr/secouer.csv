@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;secouer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir secoué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en secouant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant secoué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;secouant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;secoué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;secoue;;tu ;;;secoues;;il/elle/on ;;;secoue;;nous ;;;secouons;;vous ;;;secouez;;ils/elles ;;;secouent
+Indicatif Passé Composé;indicatif;;j’;;;ai secoué;;tu ;;;as secoué;;il/elle/on ;;;a secoué;;nous ;;;avons secoué;;vous ;;;avez secoué;;ils/elles ;;;ont secoué
+Indicatif Imparfait;indicatif;;je ;;;secouais;;tu ;;;secouais;;il/elle/on ;;;secouait;;nous ;;;secouions;;vous ;;;secouiez;;ils/elles ;;;secouaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais secoué;;tu ;;;avais secoué;;il/elle/on ;;;avait secoué;;nous ;;;avions secoué;;vous ;;;aviez secoué;;ils/elles ;;;avaient secoué
+Indicatif Passé Simple;indicatif;;je ;;;secouai;;tu ;;;secouas;;il/elle/on ;;;secoua;;nous ;;;secouâmes;;vous ;;;secouâtes;;ils/elles ;;;secouèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus secoué;;tu ;;;eus secoué;;il/elle/on ;;;eut secoué;;nous ;;;eûmes secoué;;vous ;;;eûtes secoué;;ils/elles ;;;eurent secoué
+Indicatif Futur Simple;indicatif;;je ;;;secouerai;;tu ;;;secoueras;;il/elle/on ;;;secouera;;nous ;;;secouerons;;vous ;;;secouerez;;ils/elles ;;;secoueront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai secoué;;tu ;;;auras secoué;;il/elle/on ;;;aura secoué;;nous ;;;aurons secoué;;vous ;;;aurez secoué;;ils/elles ;;;auront secoué
+Subjonctif Présent;subjonctif;que ;je ;;;secoue;que ;tu ;;;secoues;qu’;il/elle/on ;;;secoue;que ;nous ;;;secouions;que ;vous ;;;secouiez;qu’;ils/elles ;;;secouent
+Subjonctif Passé;subjonctif;que ;j’;;;aie secoué;que ;tu ;;;aies secoué;qu’;il/elle/on ;;;ait secoué;que ;nous ;;;ayons secoué;que ;vous ;;;ayez secoué;qu’;ils/elles ;;;aient secoué
+Subjonctif Imparfait;subjonctif;que ;je ;;;secouasse;que ;tu ;;;secouasses;qu’;il/elle/on ;;;secouât;que ;nous ;;;secouassions;que ;vous ;;;secouassiez;qu’;ils/elles ;;;secouassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse secoué;que ;tu ;;;eusses secoué;qu’;il/elle/on ;;;eût secoué;que ;nous ;;;eussions secoué;que ;vous ;;;eussiez secoué;qu’;ils/elles ;;;eussent secoué
+Conditionnel;conditionnel;;je ;;;secouerais;;tu ;;;secouerais;;il/elle/on ;;;secouerait;;nous ;;;secouerions;;vous ;;;secoueriez;;ils/elles ;;;secoueraient
+Conditionnel Passé;conditionnel;;j’;;;aurais secoué;;tu ;;;aurais secoué;;il/elle/on ;;;aurait secoué;;nous ;;;aurions secoué;;vous ;;;auriez secoué;;ils/elles ;;;auraient secoué
+Impératif Présent;impératif;;;;;;;;;;secoue;;;;;;;;;;secouons;;;;;secouez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;secouer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;secou;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

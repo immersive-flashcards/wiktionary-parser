@@ -1,0 +1,27 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;vouloir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir voulu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en voulant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant voulu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;voulant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;voulu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;veux;;tu ;;;veux;;il/elle/on ;;;veut;;nous ;;;voulons;;vous ;;;voulez;;ils/elles ;;;veulent
+Indicatif Passé Composé;indicatif;;j’;;;ai voulu;;tu ;;;as voulu;;il/elle/on ;;;a voulu;;nous ;;;avons voulu;;vous ;;;avez voulu;;ils/elles ;;;ont voulu
+Indicatif Imparfait;indicatif;;je ;;;voulais;;tu ;;;voulais;;il/elle/on ;;;voulait;;nous ;;;voulions;;vous ;;;vouliez;;ils/elles ;;;voulaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais voulu;;tu ;;;avais voulu;;il/elle/on ;;;avait voulu;;nous ;;;avions voulu;;vous ;;;aviez voulu;;ils/elles ;;;avaient voulu
+Indicatif Passé Simple;indicatif;;je ;;;voulus;;tu ;;;voulus;;il/elle/on ;;;voulut;;nous ;;;voulûmes;;vous ;;;voulûtes;;ils/elles ;;;voulurent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus voulu;;tu ;;;eus voulu;;il/elle/on ;;;eut voulu;;nous ;;;eûmes voulu;;vous ;;;eûtes voulu;;ils/elles ;;;eurent voulu
+Indicatif Futur Simple;indicatif;;je ;;;voudrai;;tu ;;;voudras;;il/elle/on ;;;voudra;;nous ;;;voudrons;;vous ;;;voudrez;;ils/elles ;;;voudront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai voulu;;tu ;;;auras voulu;;il/elle/on ;;;aura voulu;;nous ;;;aurons voulu;;vous ;;;aurez voulu;;ils/elles ;;;auront voulu
+Subjonctif Présent;subjonctif;que ;je ;;;veuille;que ;tu ;;;veuilles;qu’;il/elle/on ;;;veuille;que ;nous ;;;voulions / veuillions;que ;vous ;;;vouliez / veuilliez;qu’;ils/elles ;;;veuillent
+Subjonctif Passé;subjonctif;que ;j’;;;aie voulu;que ;tu ;;;aies voulu;qu’;il/elle/on ;;;ait voulu;que ;nous ;;;ayons voulu;que ;vous ;;;ayez voulu;qu’;ils/elles ;;;aient voulu
+Subjonctif Imparfait;subjonctif;que ;je ;;;voulusse;que ;tu ;;;voulusses;qu’;il/elle/on ;;;voulût;que ;nous ;;;voulussions;que ;vous ;;;voulussiez;qu’;ils/elles ;;;voulussent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse voulu;que ;tu ;;;eusses voulu;qu’;il/elle/on ;;;eût voulu;que ;nous ;;;eussions voulu;que ;vous ;;;eussiez voulu;qu’;ils/elles ;;;eussent voulu
+Conditionnel;conditionnel;;je ;;;voudrais;;tu ;;;voudrais;;il/elle/on ;;;voudrait;;nous ;;;voudrions;;vous ;;;voudriez;;ils/elles ;;;voudraient
+Conditionnel Passé;conditionnel;;j’;;;aurais voulu;;tu ;;;aurais voulu;;il/elle/on ;;;aurait voulu;;nous ;;;aurions voulu;;vous ;;;auriez voulu;;ils/elles ;;;auraient voulu
+Impératif Présent;impératif;;;;;;;veux ;;;ou veuille;;;;;;;voulons ;;;ou veuillons;;voulez ;;;ou veuillez;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;vouloir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;voul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;oir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

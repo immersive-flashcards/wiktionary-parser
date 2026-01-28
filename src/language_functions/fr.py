@@ -3,7 +3,7 @@
 from typing import Any
 
 
-def causes_elision(s: str, rows: list[dict[str, Any]]) -> bool:
+def _causes_elision(s: str, rows: list[dict[str, Any]]) -> bool:
     """Check if a conjugation causes elision (shortening of the preceeding word)"""
 
     # if s starts with vowel
@@ -31,7 +31,7 @@ def create_french_negative_imperative(lang_config, rows: list[dict[str, Any]], r
             c = row.get(f"conjugation-{idx}")
             if not c:
                 continue
-            if causes_elision(row[f"conjugation-{idx}"], rows):
+            if _causes_elision(row[f"conjugation-{idx}"], rows):
                 if reflexive:
                     row[f"negation-{idx}"] = neg["long"]
                     row[f"refl_pronoun-{idx}"] = lang_config.person_data.get("reflexive-pronouns").get(idx)[-1]
@@ -52,7 +52,7 @@ def create_french_negative_imperative(lang_config, rows: list[dict[str, Any]], r
         row["key"] = "Impératif Passé Négatif"
 
         for idx in lang_config.person_data.get("imperative-pronouns").keys():
-            if causes_elision(row[f"conjugation-{idx}"], rows):
+            if _causes_elision(row[f"conjugation-{idx}"], rows):
                 row[f"negation-{idx}"] = neg["short"]
             else:
                 row[f"negation-{idx}"] = neg["long"]
@@ -66,3 +66,22 @@ def create_french_negative_imperative(lang_config, rows: list[dict[str, Any]], r
         rows.append(row)
     except StopIteration:
         pass
+
+
+def postprocess_french_impersonal_forms(rows: list[dict[str, Any]], entry: dict[str, Any]) -> None:
+    """Limit impersonal forms to only 3rd person singular 'il'"""
+
+    IMPERSONAL_ONLY = {"pleuvoir", "neiger", "falloir", "s’agir"}
+
+    if entry.get("word") not in IMPERSONAL_ONLY:
+        return
+
+    for row in rows:
+        # remove all other forms
+        for idx in [1, 2, 4, 5, 6]:
+            for k in [f"conjunction-{idx}", f"pronoun-{idx}", f"negation-{idx}", f"refl_pronoun-{idx}", f"conjugation-{idx}"]:
+                row.pop(k, None)
+
+        # adjust pronoun for 3rd person singular
+        if row.get("pronoun-3"):
+            row["pronoun-3"] = "il"

@@ -15,7 +15,7 @@ import zstandard as zstd
 from src.helpers.extract_from_spec import extract_from_spec
 from src.language_functions.ca import add_catalan_category_tags, create_catalan_compound_tenses
 from src.language_functions.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
-from src.language_functions.fr import create_french_negative_imperative
+from src.language_functions.fr import create_french_negative_imperative, postprocess_french_impersonal_forms
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -152,6 +152,7 @@ def _add_missing_forms(lang_config: LanguageConfig, entry: dict[str, Any], rows:
         add_catalan_category_tags(entry, rows)
     if lang_config.lang_code == "fr":  # French
         create_french_negative_imperative(lang_config, rows, reflexive)
+        postprocess_french_impersonal_forms(rows, entry)
 
 
 # Helper to get category list from entry - can be nested

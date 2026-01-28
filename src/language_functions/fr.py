@@ -66,22 +66,3 @@ def create_french_negative_imperative(lang_config, rows: list[dict[str, Any]], r
         rows.append(row)
     except StopIteration:
         pass
-
-
-def postprocess_french_impersonal_forms(rows: list[dict[str, Any]], entry: dict[str, Any]) -> None:
-    """Limit impersonal forms to only 3rd person singular 'il'"""
-
-    IMPERSONAL_ONLY = {"pleuvoir", "neiger", "falloir", "s’agir"}
-
-    if entry.get("word") not in IMPERSONAL_ONLY:
-        return
-
-    for row in rows:
-        # remove all other forms
-        for idx in [1, 2, 4, 5, 6]:
-            for k in [f"conjunction-{idx}", f"pronoun-{idx}", f"negation-{idx}", f"refl_pronoun-{idx}", f"conjugation-{idx}"]:
-                row.pop(k, None)
-
-        # adjust pronoun for 3rd person singular
-        if row.get("pronoun-3"):
-            row["pronoun-3"] = "il"

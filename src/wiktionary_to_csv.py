@@ -13,9 +13,10 @@ import yaml
 import zstandard as zstd
 
 from src.helpers.extract_from_spec import extract_from_spec
+from src.helpers.postprocess_impersonal_forms import postprocess_impersonal_forms
 from src.language_functions.ca import add_catalan_category_tags, create_catalan_compound_tenses
 from src.language_functions.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
-from src.language_functions.fr import create_french_negative_imperative, postprocess_french_impersonal_forms
+from src.language_functions.fr import create_french_negative_imperative
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -147,12 +148,14 @@ def _add_missing_forms(lang_config: LanguageConfig, entry: dict[str, Any], rows:
     """Add missing verb forms that are not in the JSONL. Example: Spanish negative imperative."""
     if lang_config.lang_code == "es":  # Spanish
         create_spanish_negative_imperative(rows)
+        postprocess_impersonal_forms(lang_config, rows, entry)
     if lang_config.lang_code == "ca":  # Catalan
         create_catalan_compound_tenses(rows, reflexive)
         add_catalan_category_tags(entry, rows)
+        postprocess_impersonal_forms(lang_config, rows, entry)
     if lang_config.lang_code == "fr":  # French
         create_french_negative_imperative(lang_config, rows, reflexive)
-        postprocess_french_impersonal_forms(rows, entry)
+        postprocess_impersonal_forms(lang_config, rows, entry)
 
 
 # Helper to get category list from entry - can be nested

@@ -1,25 +1,25 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
-Infinitivo;infinitivo;anochecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Gerundio;gerundio;anocheciendo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Participio;participio;anochecido;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicativo Presente;indicativo;;yo ;;;anochezco;;tú ;;;anocheces;;él //ella //usted ;;;anochece;;nosotros //nosotras ;;;anochecemos;;vosotros //vosotras ;;;anochecéis;;ellos //ellas //ustedes ;;;anochecen;;vos ;;;anochecés
-Indicativo Imperfecto;indicativo;;yo ;;;anochecía;;tú //vos ;;;anochecías;;él //ella //usted ;;;anochecía;;nosotros //nosotras ;;;anochecíamos;;vosotros //vosotras ;;;anochecíais;;ellos //ellas //ustedes ;;;anochecían;;;;;
-Indicativo Pretérito Indefinido;indicativo;;yo ;;;anochecí;;tú //vos ;;;anocheciste;;él //ella //usted ;;;anocheció;;nosotros //nosotras ;;;anochecimos;;vosotros //vosotras ;;;anochecisteis;;ellos //ellas //ustedes ;;;anochecieron;;;;;
-Indicativo Futuro;indicativo;;yo ;;;anocheceré;;tú //vos ;;;anochecerás;;él //ella //usted ;;;anochecerá;;nosotros //nosotras ;;;anocheceremos;;vosotros //vosotras ;;;anocheceréis;;ellos //ellas //ustedes ;;;anochecerán;;;;;
-Indicativo Pretérito Perfecto;indicativo;;yo ;;;he anochecido;;tú //vos ;;;has anochecido;;él //ella //usted ;;;ha anochecido;;nosotros //nosotras ;;;hemos anochecido;;vosotros //vosotras ;;;habéis anochecido;;ellos //ellas //ustedes ;;;han anochecido;;;;;
-Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había anochecido;;tú //vos ;;;habías anochecido;;él //ella //usted ;;;había anochecido;;nosotros //nosotras ;;;habíamos anochecido;;vosotros //vosotras ;;;habíais anochecido;;ellos //ellas //ustedes ;;;habían anochecido;;;;;
-Indicativo Pretérito Anterior;indicativo;;yo ;;;hube anochecido;;tú //vos ;;;hubiste anochecido;;él //ella //usted ;;;hubo anochecido;;nosotros //nosotras ;;;hubimos anochecido;;vosotros //vosotras ;;;hubisteis anochecido;;ellos //ellas //ustedes ;;;hubieron anochecido;;;;;
-Indicativo Futuro Perfecto;indicativo;;yo ;;;habré anochecido;;tú //vos ;;;habrás anochecido;;él //ella //usted ;;;habrá anochecido;;nosotros //nosotras ;;;habremos anochecido;;vosotros //vosotras ;;;habréis anochecido;;ellos //ellas //ustedes ;;;habrán anochecido;;;;;
-Subjuntivo Presente;subjuntivo;;yo ;;;anochezca;;tú //vos ;;;anochezcas;;él //ella //usted ;;;anochezca;;nosotros //nosotras ;;;anochezcamos;;vosotros //vosotras ;;;anochezcáis;;ellos //ellas //ustedes ;;;anochezcan;;;;;
-Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;anocheciera / anocheciese;;tú //vos ;;;anochecieras / anochecieses;;él //ella //usted ;;;anocheciera / anocheciese;;nosotros //nosotras ;;;anocheciéramos / anocheciésemos;;vosotros //vosotras ;;;anochecierais / anochecieseis;;ellos //ellas //ustedes ;;;anochecieran / anocheciesen;;;;;
-Subjuntivo Futuro;subjuntivo;;yo ;;;anocheciere;;tú //vos ;;;anochecieres;;él //ella //usted ;;;anocheciere;;nosotros //nosotras ;;;anocheciéremos;;vosotros //vosotras ;;;anocheciereis;;ellos //ellas //ustedes ;;;anochecieren;;;;;
-Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya anochecido;;tú //vos ;;;hayas anochecido;;él //ella //usted ;;;haya anochecido;;nosotros //nosotras ;;;hayamos anochecido;;vosotros //vosotras ;;;hayáis anochecido;;ellos //ellas //ustedes ;;;hayan anochecido;;;;;
-Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera anochecido / hubiese anochecido;;tú //vos ;;;hubieras anochecido / hubieses anochecido;;él //ella //usted ;;;hubiera anochecido / hubiese anochecido;;nosotros //nosotras ;;;hubiéramos anochecido / hubiésemos anochecido;;vosotros //vosotras ;;;hubierais anochecido / hubieseis anochecido;;ellos //ellas //ustedes ;;;hubieran anochecido / hubiesen anochecido;;;;;
-Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere anochecido;;tú //vos ;;;hubieres anochecido;;él //ella //usted ;;;hubiere anochecido;;nosotros //nosotras ;;;hubiéremos anochecido;;vosotros //vosotras ;;;hubiereis anochecido;;ellos //ellas //ustedes ;;;hubieren anochecido;;;;;
-Condicional;condicional;;yo ;;;anochecería;;tú //vos ;;;anochecerías;;él //ella //usted ;;;anochecería;;nosotros //nosotras ;;;anocheceríamos;;vosotros //vosotras ;;;anocheceríais;;ellos //ellas //ustedes ;;;anochecerían;;;;;
-Condicional Perfecto;condicional;;yo ;;;habría anochecido;;tú //vos ;;;habrías anochecido;;él //ella //usted ;;;habría anochecido;;nosotros //nosotras ;;;habríamos anochecido;;vosotros //vosotras ;;;habríais anochecido;;ellos //ellas //ustedes ;;;habrían anochecido;;;;;
-Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anochece;;(usted) ;;;anochezca;;(nosotros) //(nosotras) ;;;anochezcamos;;(vosotros) //(vosotras) ;;;anocheced;;(ustedes) ;;;anochezcan;;(vos) ;;;anochecé
-Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;anochezcas;;(usted) ;no ;;anochezca;;(nosotros) //(nosotras) ;no ;;anochezcamos;;(vosotros) //(vosotras) ;no ;;anochezcáis;;(ustedes) ;no ;;anochezcan;;;;;
+Infinitivo;infinitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;;;;;;;;;;;;;;anochece;;;;;;;;;;;;;;;;;;;;
+Indicativo Imperfecto;indicativo;;;;;;;;;;;;;;;anochecía;;;;;;;;;;;;;;;;;;;;
+Indicativo Pretérito Indefinido;indicativo;;;;;;;;;;;;;;;anocheció;;;;;;;;;;;;;;;;;;;;
+Indicativo Futuro;indicativo;;;;;;;;;;;;;;;anochecerá;;;;;;;;;;;;;;;;;;;;
+Indicativo Pretérito Perfecto;indicativo;;;;;;;;;;;;;;;ha anochecido;;;;;;;;;;;;;;;;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;;;;;;;;;;;;;;había anochecido;;;;;;;;;;;;;;;;;;;;
+Indicativo Pretérito Anterior;indicativo;;;;;;;;;;;;;;;hubo anochecido;;;;;;;;;;;;;;;;;;;;
+Indicativo Futuro Perfecto;indicativo;;;;;;;;;;;;;;;habrá anochecido;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Presente;subjuntivo;;;;;;;;;;;;;;;anochezca;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;;;;;;;;;;;;;;anocheciera / anocheciese;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Futuro;subjuntivo;;;;;;;;;;;;;;;anocheciere;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;;;;;;;;;;;;;;haya anochecido;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;;;;;;;;;;;;;;hubiera anochecido / hubiese anochecido;;;;;;;;;;;;;;;;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;;;;;;;;;;;;;;hubiere anochecido;;;;;;;;;;;;;;;;;;;;
+Condicional;condicional;;;;;;;;;;;;;;;anochecería;;;;;;;;;;;;;;;;;;;;
+Condicional Perfecto;condicional;;;;;;;;;;;;;;;habría anochecido;;;;;;;;;;;;;;;;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;;;;;;;;;anochezca;;;;;;;;;;;;;;;;;;;;
+Imperativo Negativo;imperativo;;;;;;;;;;;;;no ;;anochezca;;;;;;;;;;;;;;;;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;anochecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

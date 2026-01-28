@@ -12,6 +12,8 @@ meta-data:
 
   reflexive-suffixes: [ "se" ]
 
+  impersonal-verbs: ["llover", "nevar", "granizar", "tronar", "relampaguear", "amanecer", "anochecer", "atardecer", "helar"]
+  impersonal-pronoun: ""  # empty since Spanish impersonal verbs do not use a pronoun --> "llueve"
 
 person-data:
   person_map:

@@ -13,6 +13,10 @@ meta-data:
 
   reflexive-suffixes: [ "-se", "'s" ]
 
+  impersonal-verbs: ["ploure", "nevar", "caldre"]
+  impersonal-pronoun: ""  # empty since Catalan impersonal verbs do not use a pronoun --> "plou"
+
+
 
 person-data:
   person_map:

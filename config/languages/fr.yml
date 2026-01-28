@@ -15,6 +15,10 @@ meta-data:
 
   conjunctions: [ "que ", "qu’" ]
 
+  impersonal-verbs: ["pleuvoir", "neiger", "falloir", "s’agir"]
+  impersonal-pronoun: "il "
+
+
 person-data:
 
   pronouns:

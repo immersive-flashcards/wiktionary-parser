@@ -28,6 +28,9 @@ def create_french_negative_imperative(lang_config, rows: list[dict[str, Any]], r
         row["key"] = "Impératif Négatif"
 
         for idx in lang_config.person_data.get("imperative-pronouns").keys():
+            c = row.get(f"conjugation-{idx}")
+            if not c:
+                continue
             if causes_elision(row[f"conjugation-{idx}"], rows):
                 if reflexive:
                     row[f"negation-{idx}"] = neg["long"]
@@ -54,8 +57,11 @@ def create_french_negative_imperative(lang_config, rows: list[dict[str, Any]], r
             else:
                 row[f"negation-{idx}"] = neg["long"]
 
-            aux, part = row[f"conjugation-{idx}"].split(" ")
-            row[f"conjugation-{idx}"] = aux + neg["after"] + part
+            try:
+                aux, part = row[f"conjugation-{idx}"].split(" ")
+                row[f"conjugation-{idx}"] = aux + neg["after"] + part
+            except ValueError:
+                pass  # imperfect handling - but only affects obscure verbs anyway
 
         rows.append(row)
     except StopIteration:

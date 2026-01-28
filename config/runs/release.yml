@@ -6,3 +6,4 @@ output_dir: "data/release_verb_csvs"
 languages:
   - "es"
   - "ca"
+  - "fr"

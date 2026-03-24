@@ -144,18 +144,18 @@ def _merge_identical_verb_forms(lang_cfg: LanguageConfig, row: dict[str, Any]) -
         merge_tu_vos_if_equal(row)
 
 
-def _add_missing_forms(lang_config: LanguageConfig, entry: dict[str, Any], rows: list[dict[str, Any]], reflexive: bool) -> None:
+def _add_missing_forms(lang_cfg: LanguageConfig, entry: dict[str, Any], rows: list[dict[str, Any]], reflexive: bool) -> None:
     """Add missing verb forms that are not in the JSONL. Example: Spanish negative imperative."""
-    if lang_config.lang_code == "es":  # Spanish
+    if lang_cfg.lang_code == "es":  # Spanish
         create_spanish_negative_imperative(rows)
-        postprocess_impersonal_forms(lang_config, rows, entry)
-    if lang_config.lang_code == "ca":  # Catalan
+        postprocess_impersonal_forms(lang_cfg, rows, entry)
+    if lang_cfg.lang_code == "ca":  # Catalan
         create_catalan_compound_tenses(rows, reflexive)
         add_catalan_category_tags(entry, rows)
-        postprocess_impersonal_forms(lang_config, rows, entry)
-    if lang_config.lang_code == "fr":  # French
-        create_french_negative_imperative(lang_config, rows, reflexive)
-        postprocess_impersonal_forms(lang_config, rows, entry)
+        postprocess_impersonal_forms(lang_cfg, rows, entry)
+    if lang_cfg.lang_code == "fr":  # French
+        create_french_negative_imperative(lang_cfg, rows, reflexive)
+        postprocess_impersonal_forms(lang_cfg, rows, entry)
 
 
 # Helper to get category list from entry - can be nested

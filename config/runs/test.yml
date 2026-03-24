@@ -1,7 +1,11 @@
 profile: "test"
 max_verbs: 250
 
-output_dir: "tests/temp_verb_csvs"
+csv_output_dir: "tests/temp_verb_csvs"
+json_output_dir: "tests/temp_verb_jsons"
+
+output_jsonl: true
+output_csv: true
 
 languages:
   - "es"

@@ -32,10 +32,11 @@ jobs:
 
       - name: Run wiktionary parser
         run: |
-          uv run python -m src.wiktionary_to_csv release
+          uv run python -m src.wiktionary_parser release
           ls -R data/release_verb_csvs
+          ls -R data/release_verb_jsons
 
-      - name: Package CSV outputs per language
+      - name: Package outputs per language
         run: |
           mkdir -p dist
           for dir in data/release_verb_csvs/*/; do
@@ -43,6 +44,12 @@ jobs:
             archive="dist/${lang}-verb-csvs.tar.gz"
             echo "Packaging $dir into $archive"
             tar -czf "$archive" -C "$dir" .
+          done
+          for f in data/release_verb_jsons/*.jsonl; do
+            lang=$(basename "$f" .jsonl)
+            archive="dist/${lang}-verbs.jsonl.tar.gz"
+            echo "Packaging $f into $archive"
+            tar -czf "$archive" -C "$(dirname "$f")" "$(basename "$f")"
           done
           ls -R dist
 

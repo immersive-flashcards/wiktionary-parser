@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;besucar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;besucando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;besucado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;besuco;;tú ;;;besucas;;él //ella //usted ;;;besuca;;nosotros //nosotras ;;;besucamos;;vosotros //vosotras ;;;besucáis;;ellos //ellas //ustedes ;;;besucan;;vos ;;;besucás
+Indicativo Imperfecto;indicativo;;yo ;;;besucaba;;tú //vos ;;;besucabas;;él //ella //usted ;;;besucaba;;nosotros //nosotras ;;;besucábamos;;vosotros //vosotras ;;;besucabais;;ellos //ellas //ustedes ;;;besucaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;besuqué;;tú //vos ;;;besucaste;;él //ella //usted ;;;besucó;;nosotros //nosotras ;;;besucamos;;vosotros //vosotras ;;;besucasteis;;ellos //ellas //ustedes ;;;besucaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;besucaré;;tú //vos ;;;besucarás;;él //ella //usted ;;;besucará;;nosotros //nosotras ;;;besucaremos;;vosotros //vosotras ;;;besucaréis;;ellos //ellas //ustedes ;;;besucarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he besucado;;tú //vos ;;;has besucado;;él //ella //usted ;;;ha besucado;;nosotros //nosotras ;;;hemos besucado;;vosotros //vosotras ;;;habéis besucado;;ellos //ellas //ustedes ;;;han besucado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había besucado;;tú //vos ;;;habías besucado;;él //ella //usted ;;;había besucado;;nosotros //nosotras ;;;habíamos besucado;;vosotros //vosotras ;;;habíais besucado;;ellos //ellas //ustedes ;;;habían besucado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube besucado;;tú //vos ;;;hubiste besucado;;él //ella //usted ;;;hubo besucado;;nosotros //nosotras ;;;hubimos besucado;;vosotros //vosotras ;;;hubisteis besucado;;ellos //ellas //ustedes ;;;hubieron besucado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré besucado;;tú //vos ;;;habrás besucado;;él //ella //usted ;;;habrá besucado;;nosotros //nosotras ;;;habremos besucado;;vosotros //vosotras ;;;habréis besucado;;ellos //ellas //ustedes ;;;habrán besucado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;besuque;;tú //vos ;;;besuques;;él //ella //usted ;;;besuque;;nosotros //nosotras ;;;besuquemos;;vosotros //vosotras ;;;besuquéis;;ellos //ellas //ustedes ;;;besuquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;besucara / besucase;;tú //vos ;;;besucaras / besucases;;él //ella //usted ;;;besucara / besucase;;nosotros //nosotras ;;;besucáramos / besucásemos;;vosotros //vosotras ;;;besucarais / besucaseis;;ellos //ellas //ustedes ;;;besucaran / besucasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;besucare;;tú //vos ;;;besucares;;él //ella //usted ;;;besucare;;nosotros //nosotras ;;;besucáremos;;vosotros //vosotras ;;;besucareis;;ellos //ellas //ustedes ;;;besucaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya besucado;;tú //vos ;;;hayas besucado;;él //ella //usted ;;;haya besucado;;nosotros //nosotras ;;;hayamos besucado;;vosotros //vosotras ;;;hayáis besucado;;ellos //ellas //ustedes ;;;hayan besucado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera besucado / hubiese besucado;;tú //vos ;;;hubieras besucado / hubieses besucado;;él //ella //usted ;;;hubiera besucado / hubiese besucado;;nosotros //nosotras ;;;hubiéramos besucado / hubiésemos besucado;;vosotros //vosotras ;;;hubierais besucado / hubieseis besucado;;ellos //ellas //ustedes ;;;hubieran besucado / hubiesen besucado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere besucado;;tú //vos ;;;hubieres besucado;;él //ella //usted ;;;hubiere besucado;;nosotros //nosotras ;;;hubiéremos besucado;;vosotros //vosotras ;;;hubiereis besucado;;ellos //ellas //ustedes ;;;hubieren besucado;;;;;
+Condicional;condicional;;yo ;;;besucaría;;tú //vos ;;;besucarías;;él //ella //usted ;;;besucaría;;nosotros //nosotras ;;;besucaríamos;;vosotros //vosotras ;;;besucaríais;;ellos //ellas //ustedes ;;;besucarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría besucado;;tú //vos ;;;habrías besucado;;él //ella //usted ;;;habría besucado;;nosotros //nosotras ;;;habríamos besucado;;vosotros //vosotras ;;;habríais besucado;;ellos //ellas //ustedes ;;;habrían besucado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;besuca;;(usted) ;;;besuque;;(nosotros) //(nosotras) ;;;besuquemos;;(vosotros) //(vosotras) ;;;besucad;;(ustedes) ;;;besuquen;;(vos) ;;;besucá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;besuques;;(usted) ;no ;;besuque;;(nosotros) //(nosotras) ;no ;;besuquemos;;(vosotros) //(vosotras) ;no ;;besuquéis;;(ustedes) ;no ;;besuquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;besucar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;besuc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

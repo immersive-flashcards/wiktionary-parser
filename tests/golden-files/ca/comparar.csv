@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;comparar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;comparant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;comparat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;comparo;;tu ;;;compares;;ell //ella //vostè ;;;compara;;nosaltres ;;;comparem;;vosaltres ;;;compareu;;ells //elles //vostès ;;;comparen
+Indicatiu Imperfet;indicativo;;jo ;;;comparava;;tu ;;;comparaves;;ell //ella //vostè ;;;comparava;;nosaltres ;;;comparàvem;;vosaltres ;;;comparàveu;;ells //elles //vostès ;;;comparaven
+Indicatiu Futur;indicativo;;jo ;;;compararé;;tu ;;;compararàs;;ell //ella //vostè ;;;compararà;;nosaltres ;;;compararem;;vosaltres ;;;comparareu;;ells //elles //vostès ;;;compararan
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;comparí;;tu ;;;comparares;;ell //ella //vostè ;;;comparà;;nosaltres ;;;comparàrem;;vosaltres ;;;comparàreu;;ells //elles //vostès ;;;compararen
+Condicional;condicional;;jo ;;;compararia;;tu ;;;compararies;;ell //ella //vostè ;;;compararia;;nosaltres ;;;compararíem;;vosaltres ;;;compararíeu;;ells //elles //vostès ;;;compararien
+Subjuntiu Present;subjuntiu;;jo ;;;compari;;tu ;;;comparis;;ell //ella //vostè ;;;compari;;nosaltres ;;;comparem;;vosaltres ;;;compareu;;ells //elles //vostès ;;;comparin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;comparés;;tu ;;;comparessis;;ell //ella //vostè ;;;comparés;;nosaltres ;;;comparéssim;;vosaltres ;;;comparéssiu;;ells //elles //vostès ;;;comparessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;compara;;(vostè) ;;;compari;;(nosaltres) ;;;comparem;;(vosaltres) ;;;compareu;;(vostès) ;;;comparin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;comparis;;(vostè) ;no ;;compari;;(nosaltres) ;no ;;comparem;;(vosaltres) ;no ;;compareu;;(vostès) ;no ;;comparin
+Indicatiu Perfet;indicatiu;;jo ;;;he comparat;;tu ;;;has comparat;;ell //ella //vostè ;;;ha comparat;;nosaltres ;;;hem comparat;;vosaltres ;;;heu comparat;;ells //elles //vostès ;;;han comparat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig comparat;;tu ;;;vas comparat;;ell //ella //vostè ;;;va comparat;;nosaltres ;;;vam comparat;;vosaltres ;;;vau comparat;;ells //elles //vostès ;;;van comparat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia comparat;;tu ;;;havies comparat;;ell //ella //vostè ;;;havia comparat;;nosaltres ;;;havíem comparat;;vosaltres ;;;havíeu comparat;;ells //elles //vostès ;;;havien comparat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí comparat;;tu ;;;hagueres comparat;;ell //ella //vostè ;;;hagué comparat;;nosaltres ;;;haguérem comparat;;vosaltres ;;;haguéreu comparat;;ells //elles //vostès ;;;hagueren comparat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver comparat;;tu ;;;vas haver comparat;;ell //ella //vostè ;;;va haver comparat;;nosaltres ;;;vam haver comparat;;vosaltres ;;;vau haver comparat;;ells //elles //vostès ;;;van haver comparat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré comparat;;tu ;;;hauràs comparat;;ell //ella //vostè ;;;haurà comparat;;nosaltres ;;;haurem comparat;;vosaltres ;;;haureu comparat;;ells //elles //vostès ;;;hauran comparat
+Condicional Perfet;condicional;;jo ;;;hauria comparat;;tu ;;;hauries comparat;;ell //ella //vostè ;;;hauria comparat;;nosaltres ;;;hauríem comparat;;vosaltres ;;;hauríeu comparat;;ells //elles //vostès ;;;haurien comparat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi comparat;;tu ;;;vagis comparat;;ell //ella //vostè ;;;vagi comparat;;nosaltres ;;;vàgim comparat;;vosaltres ;;;vàgiu comparat;;ells //elles //vostès ;;;vagin comparat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi comparat;;tu ;;;hagis comparat;;ell //ella //vostè ;;;hagi comparat;;nosaltres ;;;hàgim comparat;;vosaltres ;;;hàgiu comparat;;ells //elles //vostès ;;;hagin comparat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes comparat;;tu ;;;haguessis comparat;;ell //ella //vostè ;;;hagués comparat;;nosaltres ;;;haguéssim comparat;;vosaltres ;;;haguéssiu comparat;;ells //elles //vostès ;;;haguessin comparat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver comparat;;tu ;;;vagis haver comparat;;ell //ella //vostè ;;;vagi haver comparat;;nosaltres ;;;vàgim haver comparat;;vosaltres ;;;vàgiu haver comparat;;ells //elles //vostès ;;;vagin haver comparat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;comparar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;compar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

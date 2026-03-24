@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;estacionar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;estacionant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;estacionat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;estaciono;;tu ;;;estaciones;;ell //ella //vostè ;;;estaciona;;nosaltres ;;;estacionem;;vosaltres ;;;estacioneu;;ells //elles //vostès ;;;estacionen
+Indicatiu Imperfet;indicativo;;jo ;;;estacionava;;tu ;;;estacionaves;;ell //ella //vostè ;;;estacionava;;nosaltres ;;;estacionàvem;;vosaltres ;;;estacionàveu;;ells //elles //vostès ;;;estacionaven
+Indicatiu Futur;indicativo;;jo ;;;estacionaré;;tu ;;;estacionaràs;;ell //ella //vostè ;;;estacionarà;;nosaltres ;;;estacionarem;;vosaltres ;;;estacionareu;;ells //elles //vostès ;;;estacionaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;estacioní;;tu ;;;estacionares;;ell //ella //vostè ;;;estacionà;;nosaltres ;;;estacionàrem;;vosaltres ;;;estacionàreu;;ells //elles //vostès ;;;estacionaren
+Condicional;condicional;;jo ;;;estacionaria;;tu ;;;estacionaries;;ell //ella //vostè ;;;estacionaria;;nosaltres ;;;estacionaríem;;vosaltres ;;;estacionaríeu;;ells //elles //vostès ;;;estacionarien
+Subjuntiu Present;subjuntiu;;jo ;;;estacioni;;tu ;;;estacionis;;ell //ella //vostè ;;;estacioni;;nosaltres ;;;estacionem;;vosaltres ;;;estacioneu;;ells //elles //vostès ;;;estacionin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;estacionés;;tu ;;;estacionessis;;ell //ella //vostè ;;;estacionés;;nosaltres ;;;estacionéssim;;vosaltres ;;;estacionéssiu;;ells //elles //vostès ;;;estacionessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;estaciona;;(vostè) ;;;estacioni;;(nosaltres) ;;;estacionem;;(vosaltres) ;;;estacioneu;;(vostès) ;;;estacionin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;estacionis;;(vostè) ;no ;;estacioni;;(nosaltres) ;no ;;estacionem;;(vosaltres) ;no ;;estacioneu;;(vostès) ;no ;;estacionin
+Indicatiu Perfet;indicatiu;;jo ;;;he estacionat;;tu ;;;has estacionat;;ell //ella //vostè ;;;ha estacionat;;nosaltres ;;;hem estacionat;;vosaltres ;;;heu estacionat;;ells //elles //vostès ;;;han estacionat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig estacionat;;tu ;;;vas estacionat;;ell //ella //vostè ;;;va estacionat;;nosaltres ;;;vam estacionat;;vosaltres ;;;vau estacionat;;ells //elles //vostès ;;;van estacionat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia estacionat;;tu ;;;havies estacionat;;ell //ella //vostè ;;;havia estacionat;;nosaltres ;;;havíem estacionat;;vosaltres ;;;havíeu estacionat;;ells //elles //vostès ;;;havien estacionat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí estacionat;;tu ;;;hagueres estacionat;;ell //ella //vostè ;;;hagué estacionat;;nosaltres ;;;haguérem estacionat;;vosaltres ;;;haguéreu estacionat;;ells //elles //vostès ;;;hagueren estacionat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver estacionat;;tu ;;;vas haver estacionat;;ell //ella //vostè ;;;va haver estacionat;;nosaltres ;;;vam haver estacionat;;vosaltres ;;;vau haver estacionat;;ells //elles //vostès ;;;van haver estacionat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré estacionat;;tu ;;;hauràs estacionat;;ell //ella //vostè ;;;haurà estacionat;;nosaltres ;;;haurem estacionat;;vosaltres ;;;haureu estacionat;;ells //elles //vostès ;;;hauran estacionat
+Condicional Perfet;condicional;;jo ;;;hauria estacionat;;tu ;;;hauries estacionat;;ell //ella //vostè ;;;hauria estacionat;;nosaltres ;;;hauríem estacionat;;vosaltres ;;;hauríeu estacionat;;ells //elles //vostès ;;;haurien estacionat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi estacionat;;tu ;;;vagis estacionat;;ell //ella //vostè ;;;vagi estacionat;;nosaltres ;;;vàgim estacionat;;vosaltres ;;;vàgiu estacionat;;ells //elles //vostès ;;;vagin estacionat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi estacionat;;tu ;;;hagis estacionat;;ell //ella //vostè ;;;hagi estacionat;;nosaltres ;;;hàgim estacionat;;vosaltres ;;;hàgiu estacionat;;ells //elles //vostès ;;;hagin estacionat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes estacionat;;tu ;;;haguessis estacionat;;ell //ella //vostè ;;;hagués estacionat;;nosaltres ;;;haguéssim estacionat;;vosaltres ;;;haguéssiu estacionat;;ells //elles //vostès ;;;haguessin estacionat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver estacionat;;tu ;;;vagis haver estacionat;;ell //ella //vostè ;;;vagi haver estacionat;;nosaltres ;;;vàgim haver estacionat;;vosaltres ;;;vàgiu haver estacionat;;ells //elles //vostès ;;;vagin haver estacionat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;estacionar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;estacion;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

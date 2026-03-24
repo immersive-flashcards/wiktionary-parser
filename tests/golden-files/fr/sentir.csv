@@ -1,0 +1,30 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;sentir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir senti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en sentant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant senti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;sentant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;senti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;sens;;tu ;;;sens;;il/elle/on ;;;sent;;nous ;;;sentons;;vous ;;;sentez;;ils/elles ;;;sentent
+Indicatif Passé Composé;indicatif;;j’;;;ai senti;;tu ;;;as senti;;il/elle/on ;;;a senti;;nous ;;;avons senti;;vous ;;;avez senti;;ils/elles ;;;ont senti
+Indicatif Imparfait;indicatif;;je ;;;sentais;;tu ;;;sentais;;il/elle/on ;;;sentait;;nous ;;;sentions;;vous ;;;sentiez;;ils/elles ;;;sentaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais senti;;tu ;;;avais senti;;il/elle/on ;;;avait senti;;nous ;;;avions senti;;vous ;;;aviez senti;;ils/elles ;;;avaient senti
+Indicatif Passé Simple;indicatif;;je ;;;sentis;;tu ;;;sentis;;il/elle/on ;;;sentit;;nous ;;;sentîmes;;vous ;;;sentîtes;;ils/elles ;;;sentirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus senti;;tu ;;;eus senti;;il/elle/on ;;;eut senti;;nous ;;;eûmes senti;;vous ;;;eûtes senti;;ils/elles ;;;eurent senti
+Indicatif Futur Simple;indicatif;;je ;;;sentirai;;tu ;;;sentiras;;il/elle/on ;;;sentira;;nous ;;;sentirons;;vous ;;;sentirez;;ils/elles ;;;sentiront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai senti;;tu ;;;auras senti;;il/elle/on ;;;aura senti;;nous ;;;aurons senti;;vous ;;;aurez senti;;ils/elles ;;;auront senti
+Subjonctif Présent;subjonctif;que ;je ;;;sente;que ;tu ;;;sentes;qu’;il/elle/on ;;;sente;que ;nous ;;;sentions;que ;vous ;;;sentiez;qu’;ils/elles ;;;sentent
+Subjonctif Passé;subjonctif;que ;j’;;;aie senti;que ;tu ;;;aies senti;qu’;il/elle/on ;;;ait senti;que ;nous ;;;ayons senti;que ;vous ;;;ayez senti;qu’;ils/elles ;;;aient senti
+Subjonctif Imparfait;subjonctif;que ;je ;;;sentisse;que ;tu ;;;sentisses;qu’;il/elle/on ;;;sentît;que ;nous ;;;sentissions;que ;vous ;;;sentissiez;qu’;ils/elles ;;;sentissent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse senti;que ;tu ;;;eusses senti;qu’;il/elle/on ;;;eût senti;que ;nous ;;;eussions senti;que ;vous ;;;eussiez senti;qu’;ils/elles ;;;eussent senti
+Conditionnel;conditionnel;;je ;;;sentirais;;tu ;;;sentirais;;il/elle/on ;;;sentirait;;nous ;;;sentirions;;vous ;;;sentiriez;;ils/elles ;;;sentiraient
+Conditionnel Passé;conditionnel;;j’;;;aurais senti;;tu ;;;aurais senti;;il/elle/on ;;;aurait senti;;nous ;;;aurions senti;;vous ;;;auriez senti;;ils/elles ;;;auraient senti
+Impératif Présent;impératif;;;;;;;(tu) ;;;sens;;;;;;;(nous) ;;;sentons;;(vous) ;;;sentez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie senti;;;;;;;(nous) ;;;ayons senti;;(vous) ;;;ayez senti;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sens pas ;;;;;;;(nous) ;ne ;;sentons pas ;;(vous) ;ne ;;sentez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas senti;;;;;;;(nous) ;n';;ayons pas senti;;(vous) ;n';;ayez pas senti;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;sentir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;sent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

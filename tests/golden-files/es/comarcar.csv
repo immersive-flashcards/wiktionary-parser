@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;comarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;comarcando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;comarcado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;comarco;;tú ;;;comarcas;;él //ella //usted ;;;comarca;;nosotros //nosotras ;;;comarcamos;;vosotros //vosotras ;;;comarcáis;;ellos //ellas //ustedes ;;;comarcan;;vos ;;;comarcás
+Indicativo Imperfecto;indicativo;;yo ;;;comarcaba;;tú //vos ;;;comarcabas;;él //ella //usted ;;;comarcaba;;nosotros //nosotras ;;;comarcábamos;;vosotros //vosotras ;;;comarcabais;;ellos //ellas //ustedes ;;;comarcaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;comarqué;;tú //vos ;;;comarcaste;;él //ella //usted ;;;comarcó;;nosotros //nosotras ;;;comarcamos;;vosotros //vosotras ;;;comarcasteis;;ellos //ellas //ustedes ;;;comarcaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;comarcaré;;tú //vos ;;;comarcarás;;él //ella //usted ;;;comarcará;;nosotros //nosotras ;;;comarcaremos;;vosotros //vosotras ;;;comarcaréis;;ellos //ellas //ustedes ;;;comarcarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he comarcado;;tú //vos ;;;has comarcado;;él //ella //usted ;;;ha comarcado;;nosotros //nosotras ;;;hemos comarcado;;vosotros //vosotras ;;;habéis comarcado;;ellos //ellas //ustedes ;;;han comarcado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había comarcado;;tú //vos ;;;habías comarcado;;él //ella //usted ;;;había comarcado;;nosotros //nosotras ;;;habíamos comarcado;;vosotros //vosotras ;;;habíais comarcado;;ellos //ellas //ustedes ;;;habían comarcado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube comarcado;;tú //vos ;;;hubiste comarcado;;él //ella //usted ;;;hubo comarcado;;nosotros //nosotras ;;;hubimos comarcado;;vosotros //vosotras ;;;hubisteis comarcado;;ellos //ellas //ustedes ;;;hubieron comarcado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré comarcado;;tú //vos ;;;habrás comarcado;;él //ella //usted ;;;habrá comarcado;;nosotros //nosotras ;;;habremos comarcado;;vosotros //vosotras ;;;habréis comarcado;;ellos //ellas //ustedes ;;;habrán comarcado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;comarque;;tú //vos ;;;comarques;;él //ella //usted ;;;comarque;;nosotros //nosotras ;;;comarquemos;;vosotros //vosotras ;;;comarquéis;;ellos //ellas //ustedes ;;;comarquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;comarcara / comarcase;;tú //vos ;;;comarcaras / comarcases;;él //ella //usted ;;;comarcara / comarcase;;nosotros //nosotras ;;;comarcáramos / comarcásemos;;vosotros //vosotras ;;;comarcarais / comarcaseis;;ellos //ellas //ustedes ;;;comarcaran / comarcasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;comarcare;;tú //vos ;;;comarcares;;él //ella //usted ;;;comarcare;;nosotros //nosotras ;;;comarcáremos;;vosotros //vosotras ;;;comarcareis;;ellos //ellas //ustedes ;;;comarcaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya comarcado;;tú //vos ;;;hayas comarcado;;él //ella //usted ;;;haya comarcado;;nosotros //nosotras ;;;hayamos comarcado;;vosotros //vosotras ;;;hayáis comarcado;;ellos //ellas //ustedes ;;;hayan comarcado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera comarcado / hubiese comarcado;;tú //vos ;;;hubieras comarcado / hubieses comarcado;;él //ella //usted ;;;hubiera comarcado / hubiese comarcado;;nosotros //nosotras ;;;hubiéramos comarcado / hubiésemos comarcado;;vosotros //vosotras ;;;hubierais comarcado / hubieseis comarcado;;ellos //ellas //ustedes ;;;hubieran comarcado / hubiesen comarcado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere comarcado;;tú //vos ;;;hubieres comarcado;;él //ella //usted ;;;hubiere comarcado;;nosotros //nosotras ;;;hubiéremos comarcado;;vosotros //vosotras ;;;hubiereis comarcado;;ellos //ellas //ustedes ;;;hubieren comarcado;;;;;
+Condicional;condicional;;yo ;;;comarcaría;;tú //vos ;;;comarcarías;;él //ella //usted ;;;comarcaría;;nosotros //nosotras ;;;comarcaríamos;;vosotros //vosotras ;;;comarcaríais;;ellos //ellas //ustedes ;;;comarcarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría comarcado;;tú //vos ;;;habrías comarcado;;él //ella //usted ;;;habría comarcado;;nosotros //nosotras ;;;habríamos comarcado;;vosotros //vosotras ;;;habríais comarcado;;ellos //ellas //ustedes ;;;habrían comarcado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;comarca;;(usted) ;;;comarque;;(nosotros) //(nosotras) ;;;comarquemos;;(vosotros) //(vosotras) ;;;comarcad;;(ustedes) ;;;comarquen;;(vos) ;;;comarcá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;comarques;;(usted) ;no ;;comarque;;(nosotros) //(nosotras) ;no ;;comarquemos;;(vosotros) //(vosotras) ;no ;;comarquéis;;(ustedes) ;no ;;comarquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;comarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;comarc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

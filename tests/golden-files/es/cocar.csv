@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;cocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;cocando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;cocado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;coco;;tú ;;;cocas;;él //ella //usted ;;;coca;;nosotros //nosotras ;;;cocamos;;vosotros //vosotras ;;;cocáis;;ellos //ellas //ustedes ;;;cocan;;vos ;;;cocás
+Indicativo Imperfecto;indicativo;;yo ;;;cocaba;;tú //vos ;;;cocabas;;él //ella //usted ;;;cocaba;;nosotros //nosotras ;;;cocábamos;;vosotros //vosotras ;;;cocabais;;ellos //ellas //ustedes ;;;cocaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;coqué;;tú //vos ;;;cocaste;;él //ella //usted ;;;cocó;;nosotros //nosotras ;;;cocamos;;vosotros //vosotras ;;;cocasteis;;ellos //ellas //ustedes ;;;cocaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;cocaré;;tú //vos ;;;cocarás;;él //ella //usted ;;;cocará;;nosotros //nosotras ;;;cocaremos;;vosotros //vosotras ;;;cocaréis;;ellos //ellas //ustedes ;;;cocarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he cocado;;tú //vos ;;;has cocado;;él //ella //usted ;;;ha cocado;;nosotros //nosotras ;;;hemos cocado;;vosotros //vosotras ;;;habéis cocado;;ellos //ellas //ustedes ;;;han cocado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había cocado;;tú //vos ;;;habías cocado;;él //ella //usted ;;;había cocado;;nosotros //nosotras ;;;habíamos cocado;;vosotros //vosotras ;;;habíais cocado;;ellos //ellas //ustedes ;;;habían cocado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube cocado;;tú //vos ;;;hubiste cocado;;él //ella //usted ;;;hubo cocado;;nosotros //nosotras ;;;hubimos cocado;;vosotros //vosotras ;;;hubisteis cocado;;ellos //ellas //ustedes ;;;hubieron cocado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré cocado;;tú //vos ;;;habrás cocado;;él //ella //usted ;;;habrá cocado;;nosotros //nosotras ;;;habremos cocado;;vosotros //vosotras ;;;habréis cocado;;ellos //ellas //ustedes ;;;habrán cocado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;coque;;tú //vos ;;;coques;;él //ella //usted ;;;coque;;nosotros //nosotras ;;;coquemos;;vosotros //vosotras ;;;coquéis;;ellos //ellas //ustedes ;;;coquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;cocara / cocase;;tú //vos ;;;cocaras / cocases;;él //ella //usted ;;;cocara / cocase;;nosotros //nosotras ;;;cocáramos / cocásemos;;vosotros //vosotras ;;;cocarais / cocaseis;;ellos //ellas //ustedes ;;;cocaran / cocasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;cocare;;tú //vos ;;;cocares;;él //ella //usted ;;;cocare;;nosotros //nosotras ;;;cocáremos;;vosotros //vosotras ;;;cocareis;;ellos //ellas //ustedes ;;;cocaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya cocado;;tú //vos ;;;hayas cocado;;él //ella //usted ;;;haya cocado;;nosotros //nosotras ;;;hayamos cocado;;vosotros //vosotras ;;;hayáis cocado;;ellos //ellas //ustedes ;;;hayan cocado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera cocado / hubiese cocado;;tú //vos ;;;hubieras cocado / hubieses cocado;;él //ella //usted ;;;hubiera cocado / hubiese cocado;;nosotros //nosotras ;;;hubiéramos cocado / hubiésemos cocado;;vosotros //vosotras ;;;hubierais cocado / hubieseis cocado;;ellos //ellas //ustedes ;;;hubieran cocado / hubiesen cocado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere cocado;;tú //vos ;;;hubieres cocado;;él //ella //usted ;;;hubiere cocado;;nosotros //nosotras ;;;hubiéremos cocado;;vosotros //vosotras ;;;hubiereis cocado;;ellos //ellas //ustedes ;;;hubieren cocado;;;;;
+Condicional;condicional;;yo ;;;cocaría;;tú //vos ;;;cocarías;;él //ella //usted ;;;cocaría;;nosotros //nosotras ;;;cocaríamos;;vosotros //vosotras ;;;cocaríais;;ellos //ellas //ustedes ;;;cocarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría cocado;;tú //vos ;;;habrías cocado;;él //ella //usted ;;;habría cocado;;nosotros //nosotras ;;;habríamos cocado;;vosotros //vosotras ;;;habríais cocado;;ellos //ellas //ustedes ;;;habrían cocado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;coca;;(usted) ;;;coque;;(nosotros) //(nosotras) ;;;coquemos;;(vosotros) //(vosotras) ;;;cocad;;(ustedes) ;;;coquen;;(vos) ;;;cocá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;coques;;(usted) ;no ;;coque;;(nosotros) //(nosotras) ;no ;;coquemos;;(vosotros) //(vosotras) ;no ;;coquéis;;(ustedes) ;no ;;coquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;cocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;coc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

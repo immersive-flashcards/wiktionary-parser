@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;clarificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;clarificando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;clarificado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;clarifico;;tú ;;;clarificas;;él //ella //usted ;;;clarifica;;nosotros //nosotras ;;;clarificamos;;vosotros //vosotras ;;;clarificáis;;ellos //ellas //ustedes ;;;clarifican;;vos ;;;clarificás
+Indicativo Imperfecto;indicativo;;yo ;;;clarificaba;;tú //vos ;;;clarificabas;;él //ella //usted ;;;clarificaba;;nosotros //nosotras ;;;clarificábamos;;vosotros //vosotras ;;;clarificabais;;ellos //ellas //ustedes ;;;clarificaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;clarifiqué;;tú //vos ;;;clarificaste;;él //ella //usted ;;;clarificó;;nosotros //nosotras ;;;clarificamos;;vosotros //vosotras ;;;clarificasteis;;ellos //ellas //ustedes ;;;clarificaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;clarificaré;;tú //vos ;;;clarificarás;;él //ella //usted ;;;clarificará;;nosotros //nosotras ;;;clarificaremos;;vosotros //vosotras ;;;clarificaréis;;ellos //ellas //ustedes ;;;clarificarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he clarificado;;tú //vos ;;;has clarificado;;él //ella //usted ;;;ha clarificado;;nosotros //nosotras ;;;hemos clarificado;;vosotros //vosotras ;;;habéis clarificado;;ellos //ellas //ustedes ;;;han clarificado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había clarificado;;tú //vos ;;;habías clarificado;;él //ella //usted ;;;había clarificado;;nosotros //nosotras ;;;habíamos clarificado;;vosotros //vosotras ;;;habíais clarificado;;ellos //ellas //ustedes ;;;habían clarificado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube clarificado;;tú //vos ;;;hubiste clarificado;;él //ella //usted ;;;hubo clarificado;;nosotros //nosotras ;;;hubimos clarificado;;vosotros //vosotras ;;;hubisteis clarificado;;ellos //ellas //ustedes ;;;hubieron clarificado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré clarificado;;tú //vos ;;;habrás clarificado;;él //ella //usted ;;;habrá clarificado;;nosotros //nosotras ;;;habremos clarificado;;vosotros //vosotras ;;;habréis clarificado;;ellos //ellas //ustedes ;;;habrán clarificado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;clarifique;;tú //vos ;;;clarifiques;;él //ella //usted ;;;clarifique;;nosotros //nosotras ;;;clarifiquemos;;vosotros //vosotras ;;;clarifiquéis;;ellos //ellas //ustedes ;;;clarifiquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;clarificara / clarificase;;tú //vos ;;;clarificaras / clarificases;;él //ella //usted ;;;clarificara / clarificase;;nosotros //nosotras ;;;clarificáramos / clarificásemos;;vosotros //vosotras ;;;clarificarais / clarificaseis;;ellos //ellas //ustedes ;;;clarificaran / clarificasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;clarificare;;tú //vos ;;;clarificares;;él //ella //usted ;;;clarificare;;nosotros //nosotras ;;;clarificáremos;;vosotros //vosotras ;;;clarificareis;;ellos //ellas //ustedes ;;;clarificaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya clarificado;;tú //vos ;;;hayas clarificado;;él //ella //usted ;;;haya clarificado;;nosotros //nosotras ;;;hayamos clarificado;;vosotros //vosotras ;;;hayáis clarificado;;ellos //ellas //ustedes ;;;hayan clarificado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera clarificado / hubiese clarificado;;tú //vos ;;;hubieras clarificado / hubieses clarificado;;él //ella //usted ;;;hubiera clarificado / hubiese clarificado;;nosotros //nosotras ;;;hubiéramos clarificado / hubiésemos clarificado;;vosotros //vosotras ;;;hubierais clarificado / hubieseis clarificado;;ellos //ellas //ustedes ;;;hubieran clarificado / hubiesen clarificado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere clarificado;;tú //vos ;;;hubieres clarificado;;él //ella //usted ;;;hubiere clarificado;;nosotros //nosotras ;;;hubiéremos clarificado;;vosotros //vosotras ;;;hubiereis clarificado;;ellos //ellas //ustedes ;;;hubieren clarificado;;;;;
+Condicional;condicional;;yo ;;;clarificaría;;tú //vos ;;;clarificarías;;él //ella //usted ;;;clarificaría;;nosotros //nosotras ;;;clarificaríamos;;vosotros //vosotras ;;;clarificaríais;;ellos //ellas //ustedes ;;;clarificarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría clarificado;;tú //vos ;;;habrías clarificado;;él //ella //usted ;;;habría clarificado;;nosotros //nosotras ;;;habríamos clarificado;;vosotros //vosotras ;;;habríais clarificado;;ellos //ellas //ustedes ;;;habrían clarificado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;clarifica;;(usted) ;;;clarifique;;(nosotros) //(nosotras) ;;;clarifiquemos;;(vosotros) //(vosotras) ;;;clarificad;;(ustedes) ;;;clarifiquen;;(vos) ;;;clarificá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;clarifiques;;(usted) ;no ;;clarifique;;(nosotros) //(nosotras) ;no ;;clarifiquemos;;(vosotros) //(vosotras) ;no ;;clarifiquéis;;(ustedes) ;no ;;clarifiquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;clarificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;clarific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

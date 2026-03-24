@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;contraindicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;contraindicando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;contraindicado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;contraindico;;tú ;;;contraindicas;;él //ella //usted ;;;contraindica;;nosotros //nosotras ;;;contraindicamos;;vosotros //vosotras ;;;contraindicáis;;ellos //ellas //ustedes ;;;contraindican;;vos ;;;contraindicás
+Indicativo Imperfecto;indicativo;;yo ;;;contraindicaba;;tú //vos ;;;contraindicabas;;él //ella //usted ;;;contraindicaba;;nosotros //nosotras ;;;contraindicábamos;;vosotros //vosotras ;;;contraindicabais;;ellos //ellas //ustedes ;;;contraindicaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;contraindiqué;;tú //vos ;;;contraindicaste;;él //ella //usted ;;;contraindicó;;nosotros //nosotras ;;;contraindicamos;;vosotros //vosotras ;;;contraindicasteis;;ellos //ellas //ustedes ;;;contraindicaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;contraindicaré;;tú //vos ;;;contraindicarás;;él //ella //usted ;;;contraindicará;;nosotros //nosotras ;;;contraindicaremos;;vosotros //vosotras ;;;contraindicaréis;;ellos //ellas //ustedes ;;;contraindicarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he contraindicado;;tú //vos ;;;has contraindicado;;él //ella //usted ;;;ha contraindicado;;nosotros //nosotras ;;;hemos contraindicado;;vosotros //vosotras ;;;habéis contraindicado;;ellos //ellas //ustedes ;;;han contraindicado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había contraindicado;;tú //vos ;;;habías contraindicado;;él //ella //usted ;;;había contraindicado;;nosotros //nosotras ;;;habíamos contraindicado;;vosotros //vosotras ;;;habíais contraindicado;;ellos //ellas //ustedes ;;;habían contraindicado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube contraindicado;;tú //vos ;;;hubiste contraindicado;;él //ella //usted ;;;hubo contraindicado;;nosotros //nosotras ;;;hubimos contraindicado;;vosotros //vosotras ;;;hubisteis contraindicado;;ellos //ellas //ustedes ;;;hubieron contraindicado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré contraindicado;;tú //vos ;;;habrás contraindicado;;él //ella //usted ;;;habrá contraindicado;;nosotros //nosotras ;;;habremos contraindicado;;vosotros //vosotras ;;;habréis contraindicado;;ellos //ellas //ustedes ;;;habrán contraindicado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;contraindique;;tú //vos ;;;contraindiques;;él //ella //usted ;;;contraindique;;nosotros //nosotras ;;;contraindiquemos;;vosotros //vosotras ;;;contraindiquéis;;ellos //ellas //ustedes ;;;contraindiquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;contraindicara / contraindicase;;tú //vos ;;;contraindicaras / contraindicases;;él //ella //usted ;;;contraindicara / contraindicase;;nosotros //nosotras ;;;contraindicáramos / contraindicásemos;;vosotros //vosotras ;;;contraindicarais / contraindicaseis;;ellos //ellas //ustedes ;;;contraindicaran / contraindicasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;contraindicare;;tú //vos ;;;contraindicares;;él //ella //usted ;;;contraindicare;;nosotros //nosotras ;;;contraindicáremos;;vosotros //vosotras ;;;contraindicareis;;ellos //ellas //ustedes ;;;contraindicaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya contraindicado;;tú //vos ;;;hayas contraindicado;;él //ella //usted ;;;haya contraindicado;;nosotros //nosotras ;;;hayamos contraindicado;;vosotros //vosotras ;;;hayáis contraindicado;;ellos //ellas //ustedes ;;;hayan contraindicado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera contraindicado / hubiese contraindicado;;tú //vos ;;;hubieras contraindicado / hubieses contraindicado;;él //ella //usted ;;;hubiera contraindicado / hubiese contraindicado;;nosotros //nosotras ;;;hubiéramos contraindicado / hubiésemos contraindicado;;vosotros //vosotras ;;;hubierais contraindicado / hubieseis contraindicado;;ellos //ellas //ustedes ;;;hubieran contraindicado / hubiesen contraindicado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere contraindicado;;tú //vos ;;;hubieres contraindicado;;él //ella //usted ;;;hubiere contraindicado;;nosotros //nosotras ;;;hubiéremos contraindicado;;vosotros //vosotras ;;;hubiereis contraindicado;;ellos //ellas //ustedes ;;;hubieren contraindicado;;;;;
+Condicional;condicional;;yo ;;;contraindicaría;;tú //vos ;;;contraindicarías;;él //ella //usted ;;;contraindicaría;;nosotros //nosotras ;;;contraindicaríamos;;vosotros //vosotras ;;;contraindicaríais;;ellos //ellas //ustedes ;;;contraindicarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría contraindicado;;tú //vos ;;;habrías contraindicado;;él //ella //usted ;;;habría contraindicado;;nosotros //nosotras ;;;habríamos contraindicado;;vosotros //vosotras ;;;habríais contraindicado;;ellos //ellas //ustedes ;;;habrían contraindicado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contraindica;;(usted) ;;;contraindique;;(nosotros) //(nosotras) ;;;contraindiquemos;;(vosotros) //(vosotras) ;;;contraindicad;;(ustedes) ;;;contraindiquen;;(vos) ;;;contraindicá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contraindiques;;(usted) ;no ;;contraindique;;(nosotros) //(nosotras) ;no ;;contraindiquemos;;(vosotros) //(vosotras) ;no ;;contraindiquéis;;(ustedes) ;no ;;contraindiquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;contraindicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;contraindic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

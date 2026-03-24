@@ -1,0 +1,30 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;ranger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir rangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en rangeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant rangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;rangeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;rangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;range;;tu ;;;ranges;;il/elle/on ;;;range;;nous ;;;rangeons;;vous ;;;rangez;;ils/elles ;;;rangent
+Indicatif Passé Composé;indicatif;;j’;;;ai rangé;;tu ;;;as rangé;;il/elle/on ;;;a rangé;;nous ;;;avons rangé;;vous ;;;avez rangé;;ils/elles ;;;ont rangé
+Indicatif Imparfait;indicatif;;je ;;;rangeais;;tu ;;;rangeais;;il/elle/on ;;;rangeait;;nous ;;;rangions;;vous ;;;rangiez;;ils/elles ;;;rangeaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais rangé;;tu ;;;avais rangé;;il/elle/on ;;;avait rangé;;nous ;;;avions rangé;;vous ;;;aviez rangé;;ils/elles ;;;avaient rangé
+Indicatif Passé Simple;indicatif;;je ;;;rangeai;;tu ;;;rangeas;;il/elle/on ;;;rangea;;nous ;;;rangeâmes;;vous ;;;rangeâtes;;ils/elles ;;;rangèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus rangé;;tu ;;;eus rangé;;il/elle/on ;;;eut rangé;;nous ;;;eûmes rangé;;vous ;;;eûtes rangé;;ils/elles ;;;eurent rangé
+Indicatif Futur Simple;indicatif;;je ;;;rangerai;;tu ;;;rangeras;;il/elle/on ;;;rangera;;nous ;;;rangerons;;vous ;;;rangerez;;ils/elles ;;;rangeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai rangé;;tu ;;;auras rangé;;il/elle/on ;;;aura rangé;;nous ;;;aurons rangé;;vous ;;;aurez rangé;;ils/elles ;;;auront rangé
+Subjonctif Présent;subjonctif;que ;je ;;;range;que ;tu ;;;ranges;qu’;il/elle/on ;;;range;que ;nous ;;;rangions;que ;vous ;;;rangiez;qu’;ils/elles ;;;rangent
+Subjonctif Passé;subjonctif;que ;j’;;;aie rangé;que ;tu ;;;aies rangé;qu’;il/elle/on ;;;ait rangé;que ;nous ;;;ayons rangé;que ;vous ;;;ayez rangé;qu’;ils/elles ;;;aient rangé
+Subjonctif Imparfait;subjonctif;que ;je ;;;rangeasse;que ;tu ;;;rangeasses;qu’;il/elle/on ;;;rangeât;que ;nous ;;;rangeassions;que ;vous ;;;rangeassiez;qu’;ils/elles ;;;rangeassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse rangé;que ;tu ;;;eusses rangé;qu’;il/elle/on ;;;eût rangé;que ;nous ;;;eussions rangé;que ;vous ;;;eussiez rangé;qu’;ils/elles ;;;eussent rangé
+Conditionnel;conditionnel;;je ;;;rangerais;;tu ;;;rangerais;;il/elle/on ;;;rangerait;;nous ;;;rangerions;;vous ;;;rangeriez;;ils/elles ;;;rangeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais rangé;;tu ;;;aurais rangé;;il/elle/on ;;;aurait rangé;;nous ;;;aurions rangé;;vous ;;;auriez rangé;;ils/elles ;;;auraient rangé
+Impératif Présent;impératif;;;;;;;(tu) ;;;range;;;;;;;(nous) ;;;rangeons;;(vous) ;;;rangez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie rangé;;;;;;;(nous) ;;;ayons rangé;;(vous) ;;;ayez rangé;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;range pas ;;;;;;;(nous) ;ne ;;rangeons pas ;;(vous) ;ne ;;rangez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas rangé;;;;;;;(nous) ;n';;ayons pas rangé;;(vous) ;n';;ayez pas rangé;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;ranger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;rang;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

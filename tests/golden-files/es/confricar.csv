@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;confricar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;confricando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;confricado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;confrico;;tú ;;;confricas;;él //ella //usted ;;;confrica;;nosotros //nosotras ;;;confricamos;;vosotros //vosotras ;;;confricáis;;ellos //ellas //ustedes ;;;confrican;;vos ;;;confricás
+Indicativo Imperfecto;indicativo;;yo ;;;confricaba;;tú //vos ;;;confricabas;;él //ella //usted ;;;confricaba;;nosotros //nosotras ;;;confricábamos;;vosotros //vosotras ;;;confricabais;;ellos //ellas //ustedes ;;;confricaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;confriqué;;tú //vos ;;;confricaste;;él //ella //usted ;;;confricó;;nosotros //nosotras ;;;confricamos;;vosotros //vosotras ;;;confricasteis;;ellos //ellas //ustedes ;;;confricaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;confricaré;;tú //vos ;;;confricarás;;él //ella //usted ;;;confricará;;nosotros //nosotras ;;;confricaremos;;vosotros //vosotras ;;;confricaréis;;ellos //ellas //ustedes ;;;confricarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he confricado;;tú //vos ;;;has confricado;;él //ella //usted ;;;ha confricado;;nosotros //nosotras ;;;hemos confricado;;vosotros //vosotras ;;;habéis confricado;;ellos //ellas //ustedes ;;;han confricado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había confricado;;tú //vos ;;;habías confricado;;él //ella //usted ;;;había confricado;;nosotros //nosotras ;;;habíamos confricado;;vosotros //vosotras ;;;habíais confricado;;ellos //ellas //ustedes ;;;habían confricado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube confricado;;tú //vos ;;;hubiste confricado;;él //ella //usted ;;;hubo confricado;;nosotros //nosotras ;;;hubimos confricado;;vosotros //vosotras ;;;hubisteis confricado;;ellos //ellas //ustedes ;;;hubieron confricado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré confricado;;tú //vos ;;;habrás confricado;;él //ella //usted ;;;habrá confricado;;nosotros //nosotras ;;;habremos confricado;;vosotros //vosotras ;;;habréis confricado;;ellos //ellas //ustedes ;;;habrán confricado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;confrique;;tú //vos ;;;confriques;;él //ella //usted ;;;confrique;;nosotros //nosotras ;;;confriquemos;;vosotros //vosotras ;;;confriquéis;;ellos //ellas //ustedes ;;;confriquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;confricara / confricase;;tú //vos ;;;confricaras / confricases;;él //ella //usted ;;;confricara / confricase;;nosotros //nosotras ;;;confricáramos / confricásemos;;vosotros //vosotras ;;;confricarais / confricaseis;;ellos //ellas //ustedes ;;;confricaran / confricasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;confricare;;tú //vos ;;;confricares;;él //ella //usted ;;;confricare;;nosotros //nosotras ;;;confricáremos;;vosotros //vosotras ;;;confricareis;;ellos //ellas //ustedes ;;;confricaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya confricado;;tú //vos ;;;hayas confricado;;él //ella //usted ;;;haya confricado;;nosotros //nosotras ;;;hayamos confricado;;vosotros //vosotras ;;;hayáis confricado;;ellos //ellas //ustedes ;;;hayan confricado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera confricado / hubiese confricado;;tú //vos ;;;hubieras confricado / hubieses confricado;;él //ella //usted ;;;hubiera confricado / hubiese confricado;;nosotros //nosotras ;;;hubiéramos confricado / hubiésemos confricado;;vosotros //vosotras ;;;hubierais confricado / hubieseis confricado;;ellos //ellas //ustedes ;;;hubieran confricado / hubiesen confricado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere confricado;;tú //vos ;;;hubieres confricado;;él //ella //usted ;;;hubiere confricado;;nosotros //nosotras ;;;hubiéremos confricado;;vosotros //vosotras ;;;hubiereis confricado;;ellos //ellas //ustedes ;;;hubieren confricado;;;;;
+Condicional;condicional;;yo ;;;confricaría;;tú //vos ;;;confricarías;;él //ella //usted ;;;confricaría;;nosotros //nosotras ;;;confricaríamos;;vosotros //vosotras ;;;confricaríais;;ellos //ellas //ustedes ;;;confricarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría confricado;;tú //vos ;;;habrías confricado;;él //ella //usted ;;;habría confricado;;nosotros //nosotras ;;;habríamos confricado;;vosotros //vosotras ;;;habríais confricado;;ellos //ellas //ustedes ;;;habrían confricado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;confrica;;(usted) ;;;confrique;;(nosotros) //(nosotras) ;;;confriquemos;;(vosotros) //(vosotras) ;;;confricad;;(ustedes) ;;;confriquen;;(vos) ;;;confricá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;confriques;;(usted) ;no ;;confrique;;(nosotros) //(nosotras) ;no ;;confriquemos;;(vosotros) //(vosotras) ;no ;;confriquéis;;(ustedes) ;no ;;confriquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;confricar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;confric;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

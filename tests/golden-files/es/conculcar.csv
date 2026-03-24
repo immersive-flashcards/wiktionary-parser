@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;conculcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;conculcando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;conculcado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;conculco;;tú ;;;conculcas;;él //ella //usted ;;;conculca;;nosotros //nosotras ;;;conculcamos;;vosotros //vosotras ;;;conculcáis;;ellos //ellas //ustedes ;;;conculcan;;vos ;;;conculcás
+Indicativo Imperfecto;indicativo;;yo ;;;conculcaba;;tú //vos ;;;conculcabas;;él //ella //usted ;;;conculcaba;;nosotros //nosotras ;;;conculcábamos;;vosotros //vosotras ;;;conculcabais;;ellos //ellas //ustedes ;;;conculcaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;conculqué;;tú //vos ;;;conculcaste;;él //ella //usted ;;;conculcó;;nosotros //nosotras ;;;conculcamos;;vosotros //vosotras ;;;conculcasteis;;ellos //ellas //ustedes ;;;conculcaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;conculcaré;;tú //vos ;;;conculcarás;;él //ella //usted ;;;conculcará;;nosotros //nosotras ;;;conculcaremos;;vosotros //vosotras ;;;conculcaréis;;ellos //ellas //ustedes ;;;conculcarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he conculcado;;tú //vos ;;;has conculcado;;él //ella //usted ;;;ha conculcado;;nosotros //nosotras ;;;hemos conculcado;;vosotros //vosotras ;;;habéis conculcado;;ellos //ellas //ustedes ;;;han conculcado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había conculcado;;tú //vos ;;;habías conculcado;;él //ella //usted ;;;había conculcado;;nosotros //nosotras ;;;habíamos conculcado;;vosotros //vosotras ;;;habíais conculcado;;ellos //ellas //ustedes ;;;habían conculcado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube conculcado;;tú //vos ;;;hubiste conculcado;;él //ella //usted ;;;hubo conculcado;;nosotros //nosotras ;;;hubimos conculcado;;vosotros //vosotras ;;;hubisteis conculcado;;ellos //ellas //ustedes ;;;hubieron conculcado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré conculcado;;tú //vos ;;;habrás conculcado;;él //ella //usted ;;;habrá conculcado;;nosotros //nosotras ;;;habremos conculcado;;vosotros //vosotras ;;;habréis conculcado;;ellos //ellas //ustedes ;;;habrán conculcado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;conculque;;tú //vos ;;;conculques;;él //ella //usted ;;;conculque;;nosotros //nosotras ;;;conculquemos;;vosotros //vosotras ;;;conculquéis;;ellos //ellas //ustedes ;;;conculquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;conculcara / conculcase;;tú //vos ;;;conculcaras / conculcases;;él //ella //usted ;;;conculcara / conculcase;;nosotros //nosotras ;;;conculcáramos / conculcásemos;;vosotros //vosotras ;;;conculcarais / conculcaseis;;ellos //ellas //ustedes ;;;conculcaran / conculcasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;conculcare;;tú //vos ;;;conculcares;;él //ella //usted ;;;conculcare;;nosotros //nosotras ;;;conculcáremos;;vosotros //vosotras ;;;conculcareis;;ellos //ellas //ustedes ;;;conculcaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya conculcado;;tú //vos ;;;hayas conculcado;;él //ella //usted ;;;haya conculcado;;nosotros //nosotras ;;;hayamos conculcado;;vosotros //vosotras ;;;hayáis conculcado;;ellos //ellas //ustedes ;;;hayan conculcado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera conculcado / hubiese conculcado;;tú //vos ;;;hubieras conculcado / hubieses conculcado;;él //ella //usted ;;;hubiera conculcado / hubiese conculcado;;nosotros //nosotras ;;;hubiéramos conculcado / hubiésemos conculcado;;vosotros //vosotras ;;;hubierais conculcado / hubieseis conculcado;;ellos //ellas //ustedes ;;;hubieran conculcado / hubiesen conculcado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere conculcado;;tú //vos ;;;hubieres conculcado;;él //ella //usted ;;;hubiere conculcado;;nosotros //nosotras ;;;hubiéremos conculcado;;vosotros //vosotras ;;;hubiereis conculcado;;ellos //ellas //ustedes ;;;hubieren conculcado;;;;;
+Condicional;condicional;;yo ;;;conculcaría;;tú //vos ;;;conculcarías;;él //ella //usted ;;;conculcaría;;nosotros //nosotras ;;;conculcaríamos;;vosotros //vosotras ;;;conculcaríais;;ellos //ellas //ustedes ;;;conculcarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría conculcado;;tú //vos ;;;habrías conculcado;;él //ella //usted ;;;habría conculcado;;nosotros //nosotras ;;;habríamos conculcado;;vosotros //vosotras ;;;habríais conculcado;;ellos //ellas //ustedes ;;;habrían conculcado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;conculca;;(usted) ;;;conculque;;(nosotros) //(nosotras) ;;;conculquemos;;(vosotros) //(vosotras) ;;;conculcad;;(ustedes) ;;;conculquen;;(vos) ;;;conculcá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;conculques;;(usted) ;no ;;conculque;;(nosotros) //(nosotras) ;no ;;conculquemos;;(vosotros) //(vosotras) ;no ;;conculquéis;;(ustedes) ;no ;;conculquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;conculcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;conculc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

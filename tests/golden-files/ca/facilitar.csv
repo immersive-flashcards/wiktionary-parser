@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;facilitar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;facilitant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;facilitat;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;facilito;;tu ;;;facilites;;ell //ella //vostè ;;;facilita;;nosaltres ;;;facilitem;;vosaltres ;;;faciliteu;;ells //elles //vostès ;;;faciliten
+Indicatiu Imperfet;indicativo;;jo ;;;facilitava;;tu ;;;facilitaves;;ell //ella //vostè ;;;facilitava;;nosaltres ;;;facilitàvem;;vosaltres ;;;facilitàveu;;ells //elles //vostès ;;;facilitaven
+Indicatiu Futur;indicativo;;jo ;;;facilitaré;;tu ;;;facilitaràs;;ell //ella //vostè ;;;facilitarà;;nosaltres ;;;facilitarem;;vosaltres ;;;facilitareu;;ells //elles //vostès ;;;facilitaran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;facilití;;tu ;;;facilitares;;ell //ella //vostè ;;;facilità;;nosaltres ;;;facilitàrem;;vosaltres ;;;facilitàreu;;ells //elles //vostès ;;;facilitaren
+Condicional;condicional;;jo ;;;facilitaria;;tu ;;;facilitaries;;ell //ella //vostè ;;;facilitaria;;nosaltres ;;;facilitaríem;;vosaltres ;;;facilitaríeu;;ells //elles //vostès ;;;facilitarien
+Subjuntiu Present;subjuntiu;;jo ;;;faciliti;;tu ;;;facilitis;;ell //ella //vostè ;;;faciliti;;nosaltres ;;;facilitem;;vosaltres ;;;faciliteu;;ells //elles //vostès ;;;facilitin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;facilités;;tu ;;;facilitessis;;ell //ella //vostè ;;;facilités;;nosaltres ;;;facilitéssim;;vosaltres ;;;facilitéssiu;;ells //elles //vostès ;;;facilitessin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;facilita;;(vostè) ;;;faciliti;;(nosaltres) ;;;facilitem;;(vosaltres) ;;;faciliteu;;(vostès) ;;;facilitin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;facilitis;;(vostè) ;no ;;faciliti;;(nosaltres) ;no ;;facilitem;;(vosaltres) ;no ;;faciliteu;;(vostès) ;no ;;facilitin
+Indicatiu Perfet;indicatiu;;jo ;;;he facilitat;;tu ;;;has facilitat;;ell //ella //vostè ;;;ha facilitat;;nosaltres ;;;hem facilitat;;vosaltres ;;;heu facilitat;;ells //elles //vostès ;;;han facilitat
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig facilitat;;tu ;;;vas facilitat;;ell //ella //vostè ;;;va facilitat;;nosaltres ;;;vam facilitat;;vosaltres ;;;vau facilitat;;ells //elles //vostès ;;;van facilitat
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia facilitat;;tu ;;;havies facilitat;;ell //ella //vostè ;;;havia facilitat;;nosaltres ;;;havíem facilitat;;vosaltres ;;;havíeu facilitat;;ells //elles //vostès ;;;havien facilitat
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí facilitat;;tu ;;;hagueres facilitat;;ell //ella //vostè ;;;hagué facilitat;;nosaltres ;;;haguérem facilitat;;vosaltres ;;;haguéreu facilitat;;ells //elles //vostès ;;;hagueren facilitat
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver facilitat;;tu ;;;vas haver facilitat;;ell //ella //vostè ;;;va haver facilitat;;nosaltres ;;;vam haver facilitat;;vosaltres ;;;vau haver facilitat;;ells //elles //vostès ;;;van haver facilitat
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré facilitat;;tu ;;;hauràs facilitat;;ell //ella //vostè ;;;haurà facilitat;;nosaltres ;;;haurem facilitat;;vosaltres ;;;haureu facilitat;;ells //elles //vostès ;;;hauran facilitat
+Condicional Perfet;condicional;;jo ;;;hauria facilitat;;tu ;;;hauries facilitat;;ell //ella //vostè ;;;hauria facilitat;;nosaltres ;;;hauríem facilitat;;vosaltres ;;;hauríeu facilitat;;ells //elles //vostès ;;;haurien facilitat
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi facilitat;;tu ;;;vagis facilitat;;ell //ella //vostè ;;;vagi facilitat;;nosaltres ;;;vàgim facilitat;;vosaltres ;;;vàgiu facilitat;;ells //elles //vostès ;;;vagin facilitat
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi facilitat;;tu ;;;hagis facilitat;;ell //ella //vostè ;;;hagi facilitat;;nosaltres ;;;hàgim facilitat;;vosaltres ;;;hàgiu facilitat;;ells //elles //vostès ;;;hagin facilitat
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes facilitat;;tu ;;;haguessis facilitat;;ell //ella //vostè ;;;hagués facilitat;;nosaltres ;;;haguéssim facilitat;;vosaltres ;;;haguéssiu facilitat;;ells //elles //vostès ;;;haguessin facilitat
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver facilitat;;tu ;;;vagis haver facilitat;;ell //ella //vostè ;;;vagi haver facilitat;;nosaltres ;;;vàgim haver facilitat;;vosaltres ;;;vàgiu haver facilitat;;ells //elles //vostès ;;;vagin haver facilitat
+verb-group;1st conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;facilitar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;facilit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;bifurcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;bifurcando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;bifurcado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;bifurco;;tú ;;;bifurcas;;él //ella //usted ;;;bifurca;;nosotros //nosotras ;;;bifurcamos;;vosotros //vosotras ;;;bifurcáis;;ellos //ellas //ustedes ;;;bifurcan;;vos ;;;bifurcás
+Indicativo Imperfecto;indicativo;;yo ;;;bifurcaba;;tú //vos ;;;bifurcabas;;él //ella //usted ;;;bifurcaba;;nosotros //nosotras ;;;bifurcábamos;;vosotros //vosotras ;;;bifurcabais;;ellos //ellas //ustedes ;;;bifurcaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;bifurqué;;tú //vos ;;;bifurcaste;;él //ella //usted ;;;bifurcó;;nosotros //nosotras ;;;bifurcamos;;vosotros //vosotras ;;;bifurcasteis;;ellos //ellas //ustedes ;;;bifurcaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;bifurcaré;;tú //vos ;;;bifurcarás;;él //ella //usted ;;;bifurcará;;nosotros //nosotras ;;;bifurcaremos;;vosotros //vosotras ;;;bifurcaréis;;ellos //ellas //ustedes ;;;bifurcarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he bifurcado;;tú //vos ;;;has bifurcado;;él //ella //usted ;;;ha bifurcado;;nosotros //nosotras ;;;hemos bifurcado;;vosotros //vosotras ;;;habéis bifurcado;;ellos //ellas //ustedes ;;;han bifurcado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había bifurcado;;tú //vos ;;;habías bifurcado;;él //ella //usted ;;;había bifurcado;;nosotros //nosotras ;;;habíamos bifurcado;;vosotros //vosotras ;;;habíais bifurcado;;ellos //ellas //ustedes ;;;habían bifurcado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube bifurcado;;tú //vos ;;;hubiste bifurcado;;él //ella //usted ;;;hubo bifurcado;;nosotros //nosotras ;;;hubimos bifurcado;;vosotros //vosotras ;;;hubisteis bifurcado;;ellos //ellas //ustedes ;;;hubieron bifurcado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré bifurcado;;tú //vos ;;;habrás bifurcado;;él //ella //usted ;;;habrá bifurcado;;nosotros //nosotras ;;;habremos bifurcado;;vosotros //vosotras ;;;habréis bifurcado;;ellos //ellas //ustedes ;;;habrán bifurcado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;bifurque;;tú //vos ;;;bifurques;;él //ella //usted ;;;bifurque;;nosotros //nosotras ;;;bifurquemos;;vosotros //vosotras ;;;bifurquéis;;ellos //ellas //ustedes ;;;bifurquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;bifurcara / bifurcase;;tú //vos ;;;bifurcaras / bifurcases;;él //ella //usted ;;;bifurcara / bifurcase;;nosotros //nosotras ;;;bifurcáramos / bifurcásemos;;vosotros //vosotras ;;;bifurcarais / bifurcaseis;;ellos //ellas //ustedes ;;;bifurcaran / bifurcasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;bifurcare;;tú //vos ;;;bifurcares;;él //ella //usted ;;;bifurcare;;nosotros //nosotras ;;;bifurcáremos;;vosotros //vosotras ;;;bifurcareis;;ellos //ellas //ustedes ;;;bifurcaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya bifurcado;;tú //vos ;;;hayas bifurcado;;él //ella //usted ;;;haya bifurcado;;nosotros //nosotras ;;;hayamos bifurcado;;vosotros //vosotras ;;;hayáis bifurcado;;ellos //ellas //ustedes ;;;hayan bifurcado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera bifurcado / hubiese bifurcado;;tú //vos ;;;hubieras bifurcado / hubieses bifurcado;;él //ella //usted ;;;hubiera bifurcado / hubiese bifurcado;;nosotros //nosotras ;;;hubiéramos bifurcado / hubiésemos bifurcado;;vosotros //vosotras ;;;hubierais bifurcado / hubieseis bifurcado;;ellos //ellas //ustedes ;;;hubieran bifurcado / hubiesen bifurcado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere bifurcado;;tú //vos ;;;hubieres bifurcado;;él //ella //usted ;;;hubiere bifurcado;;nosotros //nosotras ;;;hubiéremos bifurcado;;vosotros //vosotras ;;;hubiereis bifurcado;;ellos //ellas //ustedes ;;;hubieren bifurcado;;;;;
+Condicional;condicional;;yo ;;;bifurcaría;;tú //vos ;;;bifurcarías;;él //ella //usted ;;;bifurcaría;;nosotros //nosotras ;;;bifurcaríamos;;vosotros //vosotras ;;;bifurcaríais;;ellos //ellas //ustedes ;;;bifurcarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría bifurcado;;tú //vos ;;;habrías bifurcado;;él //ella //usted ;;;habría bifurcado;;nosotros //nosotras ;;;habríamos bifurcado;;vosotros //vosotras ;;;habríais bifurcado;;ellos //ellas //ustedes ;;;habrían bifurcado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bifurca;;(usted) ;;;bifurque;;(nosotros) //(nosotras) ;;;bifurquemos;;(vosotros) //(vosotras) ;;;bifurcad;;(ustedes) ;;;bifurquen;;(vos) ;;;bifurcá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bifurques;;(usted) ;no ;;bifurque;;(nosotros) //(nosotras) ;no ;;bifurquemos;;(vosotros) //(vosotras) ;no ;;bifurquéis;;(ustedes) ;no ;;bifurquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;bifurcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bifurc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

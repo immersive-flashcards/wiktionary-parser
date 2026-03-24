@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;brincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;brincando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;brincado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;brinco;;tú ;;;brincas;;él //ella //usted ;;;brinca;;nosotros //nosotras ;;;brincamos;;vosotros //vosotras ;;;brincáis;;ellos //ellas //ustedes ;;;brincan;;vos ;;;brincás
+Indicativo Imperfecto;indicativo;;yo ;;;brincaba;;tú //vos ;;;brincabas;;él //ella //usted ;;;brincaba;;nosotros //nosotras ;;;brincábamos;;vosotros //vosotras ;;;brincabais;;ellos //ellas //ustedes ;;;brincaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;brinqué;;tú //vos ;;;brincaste;;él //ella //usted ;;;brincó;;nosotros //nosotras ;;;brincamos;;vosotros //vosotras ;;;brincasteis;;ellos //ellas //ustedes ;;;brincaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;brincaré;;tú //vos ;;;brincarás;;él //ella //usted ;;;brincará;;nosotros //nosotras ;;;brincaremos;;vosotros //vosotras ;;;brincaréis;;ellos //ellas //ustedes ;;;brincarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he brincado;;tú //vos ;;;has brincado;;él //ella //usted ;;;ha brincado;;nosotros //nosotras ;;;hemos brincado;;vosotros //vosotras ;;;habéis brincado;;ellos //ellas //ustedes ;;;han brincado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había brincado;;tú //vos ;;;habías brincado;;él //ella //usted ;;;había brincado;;nosotros //nosotras ;;;habíamos brincado;;vosotros //vosotras ;;;habíais brincado;;ellos //ellas //ustedes ;;;habían brincado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube brincado;;tú //vos ;;;hubiste brincado;;él //ella //usted ;;;hubo brincado;;nosotros //nosotras ;;;hubimos brincado;;vosotros //vosotras ;;;hubisteis brincado;;ellos //ellas //ustedes ;;;hubieron brincado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré brincado;;tú //vos ;;;habrás brincado;;él //ella //usted ;;;habrá brincado;;nosotros //nosotras ;;;habremos brincado;;vosotros //vosotras ;;;habréis brincado;;ellos //ellas //ustedes ;;;habrán brincado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;brinque;;tú //vos ;;;brinques;;él //ella //usted ;;;brinque;;nosotros //nosotras ;;;brinquemos;;vosotros //vosotras ;;;brinquéis;;ellos //ellas //ustedes ;;;brinquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;brincara / brincase;;tú //vos ;;;brincaras / brincases;;él //ella //usted ;;;brincara / brincase;;nosotros //nosotras ;;;brincáramos / brincásemos;;vosotros //vosotras ;;;brincarais / brincaseis;;ellos //ellas //ustedes ;;;brincaran / brincasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;brincare;;tú //vos ;;;brincares;;él //ella //usted ;;;brincare;;nosotros //nosotras ;;;brincáremos;;vosotros //vosotras ;;;brincareis;;ellos //ellas //ustedes ;;;brincaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya brincado;;tú //vos ;;;hayas brincado;;él //ella //usted ;;;haya brincado;;nosotros //nosotras ;;;hayamos brincado;;vosotros //vosotras ;;;hayáis brincado;;ellos //ellas //ustedes ;;;hayan brincado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera brincado / hubiese brincado;;tú //vos ;;;hubieras brincado / hubieses brincado;;él //ella //usted ;;;hubiera brincado / hubiese brincado;;nosotros //nosotras ;;;hubiéramos brincado / hubiésemos brincado;;vosotros //vosotras ;;;hubierais brincado / hubieseis brincado;;ellos //ellas //ustedes ;;;hubieran brincado / hubiesen brincado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere brincado;;tú //vos ;;;hubieres brincado;;él //ella //usted ;;;hubiere brincado;;nosotros //nosotras ;;;hubiéremos brincado;;vosotros //vosotras ;;;hubiereis brincado;;ellos //ellas //ustedes ;;;hubieren brincado;;;;;
+Condicional;condicional;;yo ;;;brincaría;;tú //vos ;;;brincarías;;él //ella //usted ;;;brincaría;;nosotros //nosotras ;;;brincaríamos;;vosotros //vosotras ;;;brincaríais;;ellos //ellas //ustedes ;;;brincarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría brincado;;tú //vos ;;;habrías brincado;;él //ella //usted ;;;habría brincado;;nosotros //nosotras ;;;habríamos brincado;;vosotros //vosotras ;;;habríais brincado;;ellos //ellas //ustedes ;;;habrían brincado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;brinca;;(usted) ;;;brinque;;(nosotros) //(nosotras) ;;;brinquemos;;(vosotros) //(vosotras) ;;;brincad;;(ustedes) ;;;brinquen;;(vos) ;;;brincá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;brinques;;(usted) ;no ;;brinque;;(nosotros) //(nosotras) ;no ;;brinquemos;;(vosotros) //(vosotras) ;no ;;brinquéis;;(ustedes) ;no ;;brinquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;brincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;brinc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

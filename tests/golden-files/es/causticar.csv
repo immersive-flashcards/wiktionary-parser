@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;causticar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;causticando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;causticado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;caustico;;tú ;;;causticas;;él //ella //usted ;;;caustica;;nosotros //nosotras ;;;causticamos;;vosotros //vosotras ;;;causticáis;;ellos //ellas //ustedes ;;;caustican;;vos ;;;causticás
+Indicativo Imperfecto;indicativo;;yo ;;;causticaba;;tú //vos ;;;causticabas;;él //ella //usted ;;;causticaba;;nosotros //nosotras ;;;causticábamos;;vosotros //vosotras ;;;causticabais;;ellos //ellas //ustedes ;;;causticaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;caustiqué;;tú //vos ;;;causticaste;;él //ella //usted ;;;causticó;;nosotros //nosotras ;;;causticamos;;vosotros //vosotras ;;;causticasteis;;ellos //ellas //ustedes ;;;causticaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;causticaré;;tú //vos ;;;causticarás;;él //ella //usted ;;;causticará;;nosotros //nosotras ;;;causticaremos;;vosotros //vosotras ;;;causticaréis;;ellos //ellas //ustedes ;;;causticarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he causticado;;tú //vos ;;;has causticado;;él //ella //usted ;;;ha causticado;;nosotros //nosotras ;;;hemos causticado;;vosotros //vosotras ;;;habéis causticado;;ellos //ellas //ustedes ;;;han causticado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había causticado;;tú //vos ;;;habías causticado;;él //ella //usted ;;;había causticado;;nosotros //nosotras ;;;habíamos causticado;;vosotros //vosotras ;;;habíais causticado;;ellos //ellas //ustedes ;;;habían causticado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube causticado;;tú //vos ;;;hubiste causticado;;él //ella //usted ;;;hubo causticado;;nosotros //nosotras ;;;hubimos causticado;;vosotros //vosotras ;;;hubisteis causticado;;ellos //ellas //ustedes ;;;hubieron causticado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré causticado;;tú //vos ;;;habrás causticado;;él //ella //usted ;;;habrá causticado;;nosotros //nosotras ;;;habremos causticado;;vosotros //vosotras ;;;habréis causticado;;ellos //ellas //ustedes ;;;habrán causticado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;caustique;;tú //vos ;;;caustiques;;él //ella //usted ;;;caustique;;nosotros //nosotras ;;;caustiquemos;;vosotros //vosotras ;;;caustiquéis;;ellos //ellas //ustedes ;;;caustiquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;causticara / causticase;;tú //vos ;;;causticaras / causticases;;él //ella //usted ;;;causticara / causticase;;nosotros //nosotras ;;;causticáramos / causticásemos;;vosotros //vosotras ;;;causticarais / causticaseis;;ellos //ellas //ustedes ;;;causticaran / causticasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;causticare;;tú //vos ;;;causticares;;él //ella //usted ;;;causticare;;nosotros //nosotras ;;;causticáremos;;vosotros //vosotras ;;;causticareis;;ellos //ellas //ustedes ;;;causticaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya causticado;;tú //vos ;;;hayas causticado;;él //ella //usted ;;;haya causticado;;nosotros //nosotras ;;;hayamos causticado;;vosotros //vosotras ;;;hayáis causticado;;ellos //ellas //ustedes ;;;hayan causticado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera causticado / hubiese causticado;;tú //vos ;;;hubieras causticado / hubieses causticado;;él //ella //usted ;;;hubiera causticado / hubiese causticado;;nosotros //nosotras ;;;hubiéramos causticado / hubiésemos causticado;;vosotros //vosotras ;;;hubierais causticado / hubieseis causticado;;ellos //ellas //ustedes ;;;hubieran causticado / hubiesen causticado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere causticado;;tú //vos ;;;hubieres causticado;;él //ella //usted ;;;hubiere causticado;;nosotros //nosotras ;;;hubiéremos causticado;;vosotros //vosotras ;;;hubiereis causticado;;ellos //ellas //ustedes ;;;hubieren causticado;;;;;
+Condicional;condicional;;yo ;;;causticaría;;tú //vos ;;;causticarías;;él //ella //usted ;;;causticaría;;nosotros //nosotras ;;;causticaríamos;;vosotros //vosotras ;;;causticaríais;;ellos //ellas //ustedes ;;;causticarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría causticado;;tú //vos ;;;habrías causticado;;él //ella //usted ;;;habría causticado;;nosotros //nosotras ;;;habríamos causticado;;vosotros //vosotras ;;;habríais causticado;;ellos //ellas //ustedes ;;;habrían causticado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;caustica;;(usted) ;;;caustique;;(nosotros) //(nosotras) ;;;caustiquemos;;(vosotros) //(vosotras) ;;;causticad;;(ustedes) ;;;caustiquen;;(vos) ;;;causticá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;caustiques;;(usted) ;no ;;caustique;;(nosotros) //(nosotras) ;no ;;caustiquemos;;(vosotros) //(vosotras) ;no ;;caustiquéis;;(ustedes) ;no ;;caustiquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;causticar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;caustic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

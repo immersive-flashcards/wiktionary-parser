@@ -1,0 +1,30 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;buscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;buscando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;buscado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;busco;;tú ;;;buscas;;él //ella //usted ;;;busca;;nosotros //nosotras ;;;buscamos;;vosotros //vosotras ;;;buscáis;;ellos //ellas //ustedes ;;;buscan;;vos ;;;buscás
+Indicativo Imperfecto;indicativo;;yo ;;;buscaba;;tú //vos ;;;buscabas;;él //ella //usted ;;;buscaba;;nosotros //nosotras ;;;buscábamos;;vosotros //vosotras ;;;buscabais;;ellos //ellas //ustedes ;;;buscaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;busqué;;tú //vos ;;;buscaste;;él //ella //usted ;;;buscó;;nosotros //nosotras ;;;buscamos;;vosotros //vosotras ;;;buscasteis;;ellos //ellas //ustedes ;;;buscaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;buscaré;;tú //vos ;;;buscarás;;él //ella //usted ;;;buscará;;nosotros //nosotras ;;;buscaremos;;vosotros //vosotras ;;;buscaréis;;ellos //ellas //ustedes ;;;buscarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he buscado;;tú //vos ;;;has buscado;;él //ella //usted ;;;ha buscado;;nosotros //nosotras ;;;hemos buscado;;vosotros //vosotras ;;;habéis buscado;;ellos //ellas //ustedes ;;;han buscado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había buscado;;tú //vos ;;;habías buscado;;él //ella //usted ;;;había buscado;;nosotros //nosotras ;;;habíamos buscado;;vosotros //vosotras ;;;habíais buscado;;ellos //ellas //ustedes ;;;habían buscado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube buscado;;tú //vos ;;;hubiste buscado;;él //ella //usted ;;;hubo buscado;;nosotros //nosotras ;;;hubimos buscado;;vosotros //vosotras ;;;hubisteis buscado;;ellos //ellas //ustedes ;;;hubieron buscado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré buscado;;tú //vos ;;;habrás buscado;;él //ella //usted ;;;habrá buscado;;nosotros //nosotras ;;;habremos buscado;;vosotros //vosotras ;;;habréis buscado;;ellos //ellas //ustedes ;;;habrán buscado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;busque;;tú //vos ;;;busques;;él //ella //usted ;;;busque;;nosotros //nosotras ;;;busquemos;;vosotros //vosotras ;;;busquéis;;ellos //ellas //ustedes ;;;busquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;buscara / buscase;;tú //vos ;;;buscaras / buscases;;él //ella //usted ;;;buscara / buscase;;nosotros //nosotras ;;;buscáramos / buscásemos;;vosotros //vosotras ;;;buscarais / buscaseis;;ellos //ellas //ustedes ;;;buscaran / buscasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;buscare;;tú //vos ;;;buscares;;él //ella //usted ;;;buscare;;nosotros //nosotras ;;;buscáremos;;vosotros //vosotras ;;;buscareis;;ellos //ellas //ustedes ;;;buscaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya buscado;;tú //vos ;;;hayas buscado;;él //ella //usted ;;;haya buscado;;nosotros //nosotras ;;;hayamos buscado;;vosotros //vosotras ;;;hayáis buscado;;ellos //ellas //ustedes ;;;hayan buscado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera buscado / hubiese buscado;;tú //vos ;;;hubieras buscado / hubieses buscado;;él //ella //usted ;;;hubiera buscado / hubiese buscado;;nosotros //nosotras ;;;hubiéramos buscado / hubiésemos buscado;;vosotros //vosotras ;;;hubierais buscado / hubieseis buscado;;ellos //ellas //ustedes ;;;hubieran buscado / hubiesen buscado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere buscado;;tú //vos ;;;hubieres buscado;;él //ella //usted ;;;hubiere buscado;;nosotros //nosotras ;;;hubiéremos buscado;;vosotros //vosotras ;;;hubiereis buscado;;ellos //ellas //ustedes ;;;hubieren buscado;;;;;
+Condicional;condicional;;yo ;;;buscaría;;tú //vos ;;;buscarías;;él //ella //usted ;;;buscaría;;nosotros //nosotras ;;;buscaríamos;;vosotros //vosotras ;;;buscaríais;;ellos //ellas //ustedes ;;;buscarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría buscado;;tú //vos ;;;habrías buscado;;él //ella //usted ;;;habría buscado;;nosotros //nosotras ;;;habríamos buscado;;vosotros //vosotras ;;;habríais buscado;;ellos //ellas //ustedes ;;;habrían buscado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;busca;;(usted) ;;;busque;;(nosotros) //(nosotras) ;;;busquemos;;(vosotros) //(vosotras) ;;;buscad;;(ustedes) ;;;busquen;;(vos) ;;;buscá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;busques;;(usted) ;no ;;busque;;(nosotros) //(nosotras) ;no ;;busquemos;;(vosotros) //(vosotras) ;no ;;busquéis;;(ustedes) ;no ;;busquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;buscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;busc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

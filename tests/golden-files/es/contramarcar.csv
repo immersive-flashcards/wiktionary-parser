@@ -1,0 +1,30 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;contramarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;contramarcando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;contramarcado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;contramarco;;tú ;;;contramarcas;;él //ella //usted ;;;contramarca;;nosotros //nosotras ;;;contramarcamos;;vosotros //vosotras ;;;contramarcáis;;ellos //ellas //ustedes ;;;contramarcan;;vos ;;;contramarcás
+Indicativo Imperfecto;indicativo;;yo ;;;contramarcaba;;tú //vos ;;;contramarcabas;;él //ella //usted ;;;contramarcaba;;nosotros //nosotras ;;;contramarcábamos;;vosotros //vosotras ;;;contramarcabais;;ellos //ellas //ustedes ;;;contramarcaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;contramarqué;;tú //vos ;;;contramarcaste;;él //ella //usted ;;;contramarcó;;nosotros //nosotras ;;;contramarcamos;;vosotros //vosotras ;;;contramarcasteis;;ellos //ellas //ustedes ;;;contramarcaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;contramarcaré;;tú //vos ;;;contramarcarás;;él //ella //usted ;;;contramarcará;;nosotros //nosotras ;;;contramarcaremos;;vosotros //vosotras ;;;contramarcaréis;;ellos //ellas //ustedes ;;;contramarcarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he contramarcado;;tú //vos ;;;has contramarcado;;él //ella //usted ;;;ha contramarcado;;nosotros //nosotras ;;;hemos contramarcado;;vosotros //vosotras ;;;habéis contramarcado;;ellos //ellas //ustedes ;;;han contramarcado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había contramarcado;;tú //vos ;;;habías contramarcado;;él //ella //usted ;;;había contramarcado;;nosotros //nosotras ;;;habíamos contramarcado;;vosotros //vosotras ;;;habíais contramarcado;;ellos //ellas //ustedes ;;;habían contramarcado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube contramarcado;;tú //vos ;;;hubiste contramarcado;;él //ella //usted ;;;hubo contramarcado;;nosotros //nosotras ;;;hubimos contramarcado;;vosotros //vosotras ;;;hubisteis contramarcado;;ellos //ellas //ustedes ;;;hubieron contramarcado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré contramarcado;;tú //vos ;;;habrás contramarcado;;él //ella //usted ;;;habrá contramarcado;;nosotros //nosotras ;;;habremos contramarcado;;vosotros //vosotras ;;;habréis contramarcado;;ellos //ellas //ustedes ;;;habrán contramarcado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;contramarque;;tú //vos ;;;contramarques;;él //ella //usted ;;;contramarque;;nosotros //nosotras ;;;contramarquemos;;vosotros //vosotras ;;;contramarquéis;;ellos //ellas //ustedes ;;;contramarquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;contramarcara / contramarcase;;tú //vos ;;;contramarcaras / contramarcases;;él //ella //usted ;;;contramarcara / contramarcase;;nosotros //nosotras ;;;contramarcáramos / contramarcásemos;;vosotros //vosotras ;;;contramarcarais / contramarcaseis;;ellos //ellas //ustedes ;;;contramarcaran / contramarcasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;contramarcare;;tú //vos ;;;contramarcares;;él //ella //usted ;;;contramarcare;;nosotros //nosotras ;;;contramarcáremos;;vosotros //vosotras ;;;contramarcareis;;ellos //ellas //ustedes ;;;contramarcaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya contramarcado;;tú //vos ;;;hayas contramarcado;;él //ella //usted ;;;haya contramarcado;;nosotros //nosotras ;;;hayamos contramarcado;;vosotros //vosotras ;;;hayáis contramarcado;;ellos //ellas //ustedes ;;;hayan contramarcado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera contramarcado / hubiese contramarcado;;tú //vos ;;;hubieras contramarcado / hubieses contramarcado;;él //ella //usted ;;;hubiera contramarcado / hubiese contramarcado;;nosotros //nosotras ;;;hubiéramos contramarcado / hubiésemos contramarcado;;vosotros //vosotras ;;;hubierais contramarcado / hubieseis contramarcado;;ellos //ellas //ustedes ;;;hubieran contramarcado / hubiesen contramarcado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere contramarcado;;tú //vos ;;;hubieres contramarcado;;él //ella //usted ;;;hubiere contramarcado;;nosotros //nosotras ;;;hubiéremos contramarcado;;vosotros //vosotras ;;;hubiereis contramarcado;;ellos //ellas //ustedes ;;;hubieren contramarcado;;;;;
+Condicional;condicional;;yo ;;;contramarcaría;;tú //vos ;;;contramarcarías;;él //ella //usted ;;;contramarcaría;;nosotros //nosotras ;;;contramarcaríamos;;vosotros //vosotras ;;;contramarcaríais;;ellos //ellas //ustedes ;;;contramarcarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría contramarcado;;tú //vos ;;;habrías contramarcado;;él //ella //usted ;;;habría contramarcado;;nosotros //nosotras ;;;habríamos contramarcado;;vosotros //vosotras ;;;habríais contramarcado;;ellos //ellas //ustedes ;;;habrían contramarcado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contramarca;;(usted) ;;;contramarque;;(nosotros) //(nosotras) ;;;contramarquemos;;(vosotros) //(vosotras) ;;;contramarcad;;(ustedes) ;;;contramarquen;;(vos) ;;;contramarcá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contramarques;;(usted) ;no ;;contramarque;;(nosotros) //(nosotras) ;no ;;contramarquemos;;(vosotros) //(vosotras) ;no ;;contramarquéis;;(ustedes) ;no ;;contramarquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;contramarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;contramarc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

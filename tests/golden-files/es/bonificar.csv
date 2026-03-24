@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;bonificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;bonificando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;bonificado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;bonifico;;tú ;;;bonificas;;él //ella //usted ;;;bonifica;;nosotros //nosotras ;;;bonificamos;;vosotros //vosotras ;;;bonificáis;;ellos //ellas //ustedes ;;;bonifican;;vos ;;;bonificás
+Indicativo Imperfecto;indicativo;;yo ;;;bonificaba;;tú //vos ;;;bonificabas;;él //ella //usted ;;;bonificaba;;nosotros //nosotras ;;;bonificábamos;;vosotros //vosotras ;;;bonificabais;;ellos //ellas //ustedes ;;;bonificaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;bonifiqué;;tú //vos ;;;bonificaste;;él //ella //usted ;;;bonificó;;nosotros //nosotras ;;;bonificamos;;vosotros //vosotras ;;;bonificasteis;;ellos //ellas //ustedes ;;;bonificaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;bonificaré;;tú //vos ;;;bonificarás;;él //ella //usted ;;;bonificará;;nosotros //nosotras ;;;bonificaremos;;vosotros //vosotras ;;;bonificaréis;;ellos //ellas //ustedes ;;;bonificarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he bonificado;;tú //vos ;;;has bonificado;;él //ella //usted ;;;ha bonificado;;nosotros //nosotras ;;;hemos bonificado;;vosotros //vosotras ;;;habéis bonificado;;ellos //ellas //ustedes ;;;han bonificado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había bonificado;;tú //vos ;;;habías bonificado;;él //ella //usted ;;;había bonificado;;nosotros //nosotras ;;;habíamos bonificado;;vosotros //vosotras ;;;habíais bonificado;;ellos //ellas //ustedes ;;;habían bonificado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube bonificado;;tú //vos ;;;hubiste bonificado;;él //ella //usted ;;;hubo bonificado;;nosotros //nosotras ;;;hubimos bonificado;;vosotros //vosotras ;;;hubisteis bonificado;;ellos //ellas //ustedes ;;;hubieron bonificado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré bonificado;;tú //vos ;;;habrás bonificado;;él //ella //usted ;;;habrá bonificado;;nosotros //nosotras ;;;habremos bonificado;;vosotros //vosotras ;;;habréis bonificado;;ellos //ellas //ustedes ;;;habrán bonificado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;bonifique;;tú //vos ;;;bonifiques;;él //ella //usted ;;;bonifique;;nosotros //nosotras ;;;bonifiquemos;;vosotros //vosotras ;;;bonifiquéis;;ellos //ellas //ustedes ;;;bonifiquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;bonificara / bonificase;;tú //vos ;;;bonificaras / bonificases;;él //ella //usted ;;;bonificara / bonificase;;nosotros //nosotras ;;;bonificáramos / bonificásemos;;vosotros //vosotras ;;;bonificarais / bonificaseis;;ellos //ellas //ustedes ;;;bonificaran / bonificasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;bonificare;;tú //vos ;;;bonificares;;él //ella //usted ;;;bonificare;;nosotros //nosotras ;;;bonificáremos;;vosotros //vosotras ;;;bonificareis;;ellos //ellas //ustedes ;;;bonificaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya bonificado;;tú //vos ;;;hayas bonificado;;él //ella //usted ;;;haya bonificado;;nosotros //nosotras ;;;hayamos bonificado;;vosotros //vosotras ;;;hayáis bonificado;;ellos //ellas //ustedes ;;;hayan bonificado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera bonificado / hubiese bonificado;;tú //vos ;;;hubieras bonificado / hubieses bonificado;;él //ella //usted ;;;hubiera bonificado / hubiese bonificado;;nosotros //nosotras ;;;hubiéramos bonificado / hubiésemos bonificado;;vosotros //vosotras ;;;hubierais bonificado / hubieseis bonificado;;ellos //ellas //ustedes ;;;hubieran bonificado / hubiesen bonificado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere bonificado;;tú //vos ;;;hubieres bonificado;;él //ella //usted ;;;hubiere bonificado;;nosotros //nosotras ;;;hubiéremos bonificado;;vosotros //vosotras ;;;hubiereis bonificado;;ellos //ellas //ustedes ;;;hubieren bonificado;;;;;
+Condicional;condicional;;yo ;;;bonificaría;;tú //vos ;;;bonificarías;;él //ella //usted ;;;bonificaría;;nosotros //nosotras ;;;bonificaríamos;;vosotros //vosotras ;;;bonificaríais;;ellos //ellas //ustedes ;;;bonificarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría bonificado;;tú //vos ;;;habrías bonificado;;él //ella //usted ;;;habría bonificado;;nosotros //nosotras ;;;habríamos bonificado;;vosotros //vosotras ;;;habríais bonificado;;ellos //ellas //ustedes ;;;habrían bonificado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bonifica;;(usted) ;;;bonifique;;(nosotros) //(nosotras) ;;;bonifiquemos;;(vosotros) //(vosotras) ;;;bonificad;;(ustedes) ;;;bonifiquen;;(vos) ;;;bonificá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bonifiques;;(usted) ;no ;;bonifique;;(nosotros) //(nosotras) ;no ;;bonifiquemos;;(vosotros) //(vosotras) ;no ;;bonifiquéis;;(ustedes) ;no ;;bonifiquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;bonificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bonific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;contracalcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;contracalcando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;contracalcado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;contracalco;;tú ;;;contracalcas;;él //ella //usted ;;;contracalca;;nosotros //nosotras ;;;contracalcamos;;vosotros //vosotras ;;;contracalcáis;;ellos //ellas //ustedes ;;;contracalcan;;vos ;;;contracalcás
+Indicativo Imperfecto;indicativo;;yo ;;;contracalcaba;;tú //vos ;;;contracalcabas;;él //ella //usted ;;;contracalcaba;;nosotros //nosotras ;;;contracalcábamos;;vosotros //vosotras ;;;contracalcabais;;ellos //ellas //ustedes ;;;contracalcaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;contracalqué;;tú //vos ;;;contracalcaste;;él //ella //usted ;;;contracalcó;;nosotros //nosotras ;;;contracalcamos;;vosotros //vosotras ;;;contracalcasteis;;ellos //ellas //ustedes ;;;contracalcaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;contracalcaré;;tú //vos ;;;contracalcarás;;él //ella //usted ;;;contracalcará;;nosotros //nosotras ;;;contracalcaremos;;vosotros //vosotras ;;;contracalcaréis;;ellos //ellas //ustedes ;;;contracalcarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he contracalcado;;tú //vos ;;;has contracalcado;;él //ella //usted ;;;ha contracalcado;;nosotros //nosotras ;;;hemos contracalcado;;vosotros //vosotras ;;;habéis contracalcado;;ellos //ellas //ustedes ;;;han contracalcado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había contracalcado;;tú //vos ;;;habías contracalcado;;él //ella //usted ;;;había contracalcado;;nosotros //nosotras ;;;habíamos contracalcado;;vosotros //vosotras ;;;habíais contracalcado;;ellos //ellas //ustedes ;;;habían contracalcado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube contracalcado;;tú //vos ;;;hubiste contracalcado;;él //ella //usted ;;;hubo contracalcado;;nosotros //nosotras ;;;hubimos contracalcado;;vosotros //vosotras ;;;hubisteis contracalcado;;ellos //ellas //ustedes ;;;hubieron contracalcado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré contracalcado;;tú //vos ;;;habrás contracalcado;;él //ella //usted ;;;habrá contracalcado;;nosotros //nosotras ;;;habremos contracalcado;;vosotros //vosotras ;;;habréis contracalcado;;ellos //ellas //ustedes ;;;habrán contracalcado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;contracalque;;tú //vos ;;;contracalques;;él //ella //usted ;;;contracalque;;nosotros //nosotras ;;;contracalquemos;;vosotros //vosotras ;;;contracalquéis;;ellos //ellas //ustedes ;;;contracalquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;contracalcara / contracalcase;;tú //vos ;;;contracalcaras / contracalcases;;él //ella //usted ;;;contracalcara / contracalcase;;nosotros //nosotras ;;;contracalcáramos / contracalcásemos;;vosotros //vosotras ;;;contracalcarais / contracalcaseis;;ellos //ellas //ustedes ;;;contracalcaran / contracalcasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;contracalcare;;tú //vos ;;;contracalcares;;él //ella //usted ;;;contracalcare;;nosotros //nosotras ;;;contracalcáremos;;vosotros //vosotras ;;;contracalcareis;;ellos //ellas //ustedes ;;;contracalcaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya contracalcado;;tú //vos ;;;hayas contracalcado;;él //ella //usted ;;;haya contracalcado;;nosotros //nosotras ;;;hayamos contracalcado;;vosotros //vosotras ;;;hayáis contracalcado;;ellos //ellas //ustedes ;;;hayan contracalcado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera contracalcado / hubiese contracalcado;;tú //vos ;;;hubieras contracalcado / hubieses contracalcado;;él //ella //usted ;;;hubiera contracalcado / hubiese contracalcado;;nosotros //nosotras ;;;hubiéramos contracalcado / hubiésemos contracalcado;;vosotros //vosotras ;;;hubierais contracalcado / hubieseis contracalcado;;ellos //ellas //ustedes ;;;hubieran contracalcado / hubiesen contracalcado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere contracalcado;;tú //vos ;;;hubieres contracalcado;;él //ella //usted ;;;hubiere contracalcado;;nosotros //nosotras ;;;hubiéremos contracalcado;;vosotros //vosotras ;;;hubiereis contracalcado;;ellos //ellas //ustedes ;;;hubieren contracalcado;;;;;
+Condicional;condicional;;yo ;;;contracalcaría;;tú //vos ;;;contracalcarías;;él //ella //usted ;;;contracalcaría;;nosotros //nosotras ;;;contracalcaríamos;;vosotros //vosotras ;;;contracalcaríais;;ellos //ellas //ustedes ;;;contracalcarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría contracalcado;;tú //vos ;;;habrías contracalcado;;él //ella //usted ;;;habría contracalcado;;nosotros //nosotras ;;;habríamos contracalcado;;vosotros //vosotras ;;;habríais contracalcado;;ellos //ellas //ustedes ;;;habrían contracalcado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contracalca;;(usted) ;;;contracalque;;(nosotros) //(nosotras) ;;;contracalquemos;;(vosotros) //(vosotras) ;;;contracalcad;;(ustedes) ;;;contracalquen;;(vos) ;;;contracalcá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contracalques;;(usted) ;no ;;contracalque;;(nosotros) //(nosotras) ;no ;;contracalquemos;;(vosotros) //(vosotras) ;no ;;contracalquéis;;(ustedes) ;no ;;contracalquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;contracalcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;contracalc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

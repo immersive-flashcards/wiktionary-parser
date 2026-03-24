@@ -1,0 +1,30 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitive Présent;infinitif;poster;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitive Passé;infinitif;avoir posté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Présent;gérondif;en postant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gérondif Passé;gérondif;en ayant posté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Présent;participe;postant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participe Passé;participe;posté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Présent;indicatif;;je ;;;poste;;tu ;;;postes;;il/elle/on ;;;poste;;nous ;;;postons;;vous ;;;postez;;ils/elles ;;;postent
+Indicatif Passé Composé;indicatif;;j’;;;ai posté;;tu ;;;as posté;;il/elle/on ;;;a posté;;nous ;;;avons posté;;vous ;;;avez posté;;ils/elles ;;;ont posté
+Indicatif Imparfait;indicatif;;je ;;;postais;;tu ;;;postais;;il/elle/on ;;;postait;;nous ;;;postions;;vous ;;;postiez;;ils/elles ;;;postaient
+Indicatif Plusqueparfait;indicatif;;j’;;;avais posté;;tu ;;;avais posté;;il/elle/on ;;;avait posté;;nous ;;;avions posté;;vous ;;;aviez posté;;ils/elles ;;;avaient posté
+Indicatif Passé Simple;indicatif;;je ;;;postai;;tu ;;;postas;;il/elle/on ;;;posta;;nous ;;;postâmes;;vous ;;;postâtes;;ils/elles ;;;postèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus posté;;tu ;;;eus posté;;il/elle/on ;;;eut posté;;nous ;;;eûmes posté;;vous ;;;eûtes posté;;ils/elles ;;;eurent posté
+Indicatif Futur Simple;indicatif;;je ;;;posterai;;tu ;;;posteras;;il/elle/on ;;;postera;;nous ;;;posterons;;vous ;;;posterez;;ils/elles ;;;posteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai posté;;tu ;;;auras posté;;il/elle/on ;;;aura posté;;nous ;;;aurons posté;;vous ;;;aurez posté;;ils/elles ;;;auront posté
+Subjonctif Présent;subjonctif;que ;je ;;;poste;que ;tu ;;;postes;qu’;il/elle/on ;;;poste;que ;nous ;;;postions;que ;vous ;;;postiez;qu’;ils/elles ;;;postent
+Subjonctif Passé;subjonctif;que ;j’;;;aie posté;que ;tu ;;;aies posté;qu’;il/elle/on ;;;ait posté;que ;nous ;;;ayons posté;que ;vous ;;;ayez posté;qu’;ils/elles ;;;aient posté
+Subjonctif Imparfait;subjonctif;que ;je ;;;postasse;que ;tu ;;;postasses;qu’;il/elle/on ;;;postât;que ;nous ;;;postassions;que ;vous ;;;postassiez;qu’;ils/elles ;;;postassent
+Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse posté;que ;tu ;;;eusses posté;qu’;il/elle/on ;;;eût posté;que ;nous ;;;eussions posté;que ;vous ;;;eussiez posté;qu’;ils/elles ;;;eussent posté
+Conditionnel;conditionnel;;je ;;;posterais;;tu ;;;posterais;;il/elle/on ;;;posterait;;nous ;;;posterions;;vous ;;;posteriez;;ils/elles ;;;posteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais posté;;tu ;;;aurais posté;;il/elle/on ;;;aurait posté;;nous ;;;aurions posté;;vous ;;;auriez posté;;ils/elles ;;;auraient posté
+Impératif Présent;impératif;;;;;;;(tu) ;;;poste;;;;;;;(nous) ;;;postons;;(vous) ;;;postez;;;;;
+Impératif Passé;impératif;;;;;;;(tu) ;;;aie posté;;;;;;;(nous) ;;;ayons posté;;(vous) ;;;ayez posté;;;;;
+Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;poste pas ;;;;;;;(nous) ;ne ;;postons pas ;;(vous) ;ne ;;postez pas ;;;;;
+Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas posté;;;;;;;(nous) ;n';;ayons pas posté;;(vous) ;n';;ayez pas posté;;;;;
+auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;poster;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;post;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

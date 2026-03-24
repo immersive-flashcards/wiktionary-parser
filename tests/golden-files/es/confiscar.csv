@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;confiscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;confiscando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;confiscado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;confisco;;tú ;;;confiscas;;él //ella //usted ;;;confisca;;nosotros //nosotras ;;;confiscamos;;vosotros //vosotras ;;;confiscáis;;ellos //ellas //ustedes ;;;confiscan;;vos ;;;confiscás
+Indicativo Imperfecto;indicativo;;yo ;;;confiscaba;;tú //vos ;;;confiscabas;;él //ella //usted ;;;confiscaba;;nosotros //nosotras ;;;confiscábamos;;vosotros //vosotras ;;;confiscabais;;ellos //ellas //ustedes ;;;confiscaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;confisqué;;tú //vos ;;;confiscaste;;él //ella //usted ;;;confiscó;;nosotros //nosotras ;;;confiscamos;;vosotros //vosotras ;;;confiscasteis;;ellos //ellas //ustedes ;;;confiscaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;confiscaré;;tú //vos ;;;confiscarás;;él //ella //usted ;;;confiscará;;nosotros //nosotras ;;;confiscaremos;;vosotros //vosotras ;;;confiscaréis;;ellos //ellas //ustedes ;;;confiscarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he confiscado;;tú //vos ;;;has confiscado;;él //ella //usted ;;;ha confiscado;;nosotros //nosotras ;;;hemos confiscado;;vosotros //vosotras ;;;habéis confiscado;;ellos //ellas //ustedes ;;;han confiscado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había confiscado;;tú //vos ;;;habías confiscado;;él //ella //usted ;;;había confiscado;;nosotros //nosotras ;;;habíamos confiscado;;vosotros //vosotras ;;;habíais confiscado;;ellos //ellas //ustedes ;;;habían confiscado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube confiscado;;tú //vos ;;;hubiste confiscado;;él //ella //usted ;;;hubo confiscado;;nosotros //nosotras ;;;hubimos confiscado;;vosotros //vosotras ;;;hubisteis confiscado;;ellos //ellas //ustedes ;;;hubieron confiscado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré confiscado;;tú //vos ;;;habrás confiscado;;él //ella //usted ;;;habrá confiscado;;nosotros //nosotras ;;;habremos confiscado;;vosotros //vosotras ;;;habréis confiscado;;ellos //ellas //ustedes ;;;habrán confiscado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;confisque;;tú //vos ;;;confisques;;él //ella //usted ;;;confisque;;nosotros //nosotras ;;;confisquemos;;vosotros //vosotras ;;;confisquéis;;ellos //ellas //ustedes ;;;confisquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;confiscara / confiscase;;tú //vos ;;;confiscaras / confiscases;;él //ella //usted ;;;confiscara / confiscase;;nosotros //nosotras ;;;confiscáramos / confiscásemos;;vosotros //vosotras ;;;confiscarais / confiscaseis;;ellos //ellas //ustedes ;;;confiscaran / confiscasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;confiscare;;tú //vos ;;;confiscares;;él //ella //usted ;;;confiscare;;nosotros //nosotras ;;;confiscáremos;;vosotros //vosotras ;;;confiscareis;;ellos //ellas //ustedes ;;;confiscaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya confiscado;;tú //vos ;;;hayas confiscado;;él //ella //usted ;;;haya confiscado;;nosotros //nosotras ;;;hayamos confiscado;;vosotros //vosotras ;;;hayáis confiscado;;ellos //ellas //ustedes ;;;hayan confiscado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera confiscado / hubiese confiscado;;tú //vos ;;;hubieras confiscado / hubieses confiscado;;él //ella //usted ;;;hubiera confiscado / hubiese confiscado;;nosotros //nosotras ;;;hubiéramos confiscado / hubiésemos confiscado;;vosotros //vosotras ;;;hubierais confiscado / hubieseis confiscado;;ellos //ellas //ustedes ;;;hubieran confiscado / hubiesen confiscado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere confiscado;;tú //vos ;;;hubieres confiscado;;él //ella //usted ;;;hubiere confiscado;;nosotros //nosotras ;;;hubiéremos confiscado;;vosotros //vosotras ;;;hubiereis confiscado;;ellos //ellas //ustedes ;;;hubieren confiscado;;;;;
+Condicional;condicional;;yo ;;;confiscaría;;tú //vos ;;;confiscarías;;él //ella //usted ;;;confiscaría;;nosotros //nosotras ;;;confiscaríamos;;vosotros //vosotras ;;;confiscaríais;;ellos //ellas //ustedes ;;;confiscarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría confiscado;;tú //vos ;;;habrías confiscado;;él //ella //usted ;;;habría confiscado;;nosotros //nosotras ;;;habríamos confiscado;;vosotros //vosotras ;;;habríais confiscado;;ellos //ellas //ustedes ;;;habrían confiscado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;confisca;;(usted) ;;;confisque;;(nosotros) //(nosotras) ;;;confisquemos;;(vosotros) //(vosotras) ;;;confiscad;;(ustedes) ;;;confisquen;;(vos) ;;;confiscá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;confisques;;(usted) ;no ;;confisque;;(nosotros) //(nosotras) ;no ;;confisquemos;;(vosotros) //(vosotras) ;no ;;confisquéis;;(ustedes) ;no ;;confisquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;confiscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;confisc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

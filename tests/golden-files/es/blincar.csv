@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;blincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;blincando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;blincado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;blinco;;tú ;;;blincas;;él //ella //usted ;;;blinca;;nosotros //nosotras ;;;blincamos;;vosotros //vosotras ;;;blincáis;;ellos //ellas //ustedes ;;;blincan;;vos ;;;blincás
+Indicativo Imperfecto;indicativo;;yo ;;;blincaba;;tú //vos ;;;blincabas;;él //ella //usted ;;;blincaba;;nosotros //nosotras ;;;blincábamos;;vosotros //vosotras ;;;blincabais;;ellos //ellas //ustedes ;;;blincaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;blinqué;;tú //vos ;;;blincaste;;él //ella //usted ;;;blincó;;nosotros //nosotras ;;;blincamos;;vosotros //vosotras ;;;blincasteis;;ellos //ellas //ustedes ;;;blincaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;blincaré;;tú //vos ;;;blincarás;;él //ella //usted ;;;blincará;;nosotros //nosotras ;;;blincaremos;;vosotros //vosotras ;;;blincaréis;;ellos //ellas //ustedes ;;;blincarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he blincado;;tú //vos ;;;has blincado;;él //ella //usted ;;;ha blincado;;nosotros //nosotras ;;;hemos blincado;;vosotros //vosotras ;;;habéis blincado;;ellos //ellas //ustedes ;;;han blincado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había blincado;;tú //vos ;;;habías blincado;;él //ella //usted ;;;había blincado;;nosotros //nosotras ;;;habíamos blincado;;vosotros //vosotras ;;;habíais blincado;;ellos //ellas //ustedes ;;;habían blincado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube blincado;;tú //vos ;;;hubiste blincado;;él //ella //usted ;;;hubo blincado;;nosotros //nosotras ;;;hubimos blincado;;vosotros //vosotras ;;;hubisteis blincado;;ellos //ellas //ustedes ;;;hubieron blincado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré blincado;;tú //vos ;;;habrás blincado;;él //ella //usted ;;;habrá blincado;;nosotros //nosotras ;;;habremos blincado;;vosotros //vosotras ;;;habréis blincado;;ellos //ellas //ustedes ;;;habrán blincado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;blinque;;tú //vos ;;;blinques;;él //ella //usted ;;;blinque;;nosotros //nosotras ;;;blinquemos;;vosotros //vosotras ;;;blinquéis;;ellos //ellas //ustedes ;;;blinquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;blincara / blincase;;tú //vos ;;;blincaras / blincases;;él //ella //usted ;;;blincara / blincase;;nosotros //nosotras ;;;blincáramos / blincásemos;;vosotros //vosotras ;;;blincarais / blincaseis;;ellos //ellas //ustedes ;;;blincaran / blincasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;blincare;;tú //vos ;;;blincares;;él //ella //usted ;;;blincare;;nosotros //nosotras ;;;blincáremos;;vosotros //vosotras ;;;blincareis;;ellos //ellas //ustedes ;;;blincaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya blincado;;tú //vos ;;;hayas blincado;;él //ella //usted ;;;haya blincado;;nosotros //nosotras ;;;hayamos blincado;;vosotros //vosotras ;;;hayáis blincado;;ellos //ellas //ustedes ;;;hayan blincado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera blincado / hubiese blincado;;tú //vos ;;;hubieras blincado / hubieses blincado;;él //ella //usted ;;;hubiera blincado / hubiese blincado;;nosotros //nosotras ;;;hubiéramos blincado / hubiésemos blincado;;vosotros //vosotras ;;;hubierais blincado / hubieseis blincado;;ellos //ellas //ustedes ;;;hubieran blincado / hubiesen blincado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere blincado;;tú //vos ;;;hubieres blincado;;él //ella //usted ;;;hubiere blincado;;nosotros //nosotras ;;;hubiéremos blincado;;vosotros //vosotras ;;;hubiereis blincado;;ellos //ellas //ustedes ;;;hubieren blincado;;;;;
+Condicional;condicional;;yo ;;;blincaría;;tú //vos ;;;blincarías;;él //ella //usted ;;;blincaría;;nosotros //nosotras ;;;blincaríamos;;vosotros //vosotras ;;;blincaríais;;ellos //ellas //ustedes ;;;blincarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría blincado;;tú //vos ;;;habrías blincado;;él //ella //usted ;;;habría blincado;;nosotros //nosotras ;;;habríamos blincado;;vosotros //vosotras ;;;habríais blincado;;ellos //ellas //ustedes ;;;habrían blincado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;blinca;;(usted) ;;;blinque;;(nosotros) //(nosotras) ;;;blinquemos;;(vosotros) //(vosotras) ;;;blincad;;(ustedes) ;;;blinquen;;(vos) ;;;blincá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;blinques;;(usted) ;no ;;blinque;;(nosotros) //(nosotras) ;no ;;blinquemos;;(vosotros) //(vosotras) ;no ;;blinquéis;;(ustedes) ;no ;;blinquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;blincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;blinc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

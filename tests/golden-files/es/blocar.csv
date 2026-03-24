@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;blocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;blocando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;blocado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;bloco;;tú ;;;blocas;;él //ella //usted ;;;bloca;;nosotros //nosotras ;;;blocamos;;vosotros //vosotras ;;;blocáis;;ellos //ellas //ustedes ;;;blocan;;vos ;;;blocás
+Indicativo Imperfecto;indicativo;;yo ;;;blocaba;;tú //vos ;;;blocabas;;él //ella //usted ;;;blocaba;;nosotros //nosotras ;;;blocábamos;;vosotros //vosotras ;;;blocabais;;ellos //ellas //ustedes ;;;blocaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;bloqué;;tú //vos ;;;blocaste;;él //ella //usted ;;;blocó;;nosotros //nosotras ;;;blocamos;;vosotros //vosotras ;;;blocasteis;;ellos //ellas //ustedes ;;;blocaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;blocaré;;tú //vos ;;;blocarás;;él //ella //usted ;;;blocará;;nosotros //nosotras ;;;blocaremos;;vosotros //vosotras ;;;blocaréis;;ellos //ellas //ustedes ;;;blocarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he blocado;;tú //vos ;;;has blocado;;él //ella //usted ;;;ha blocado;;nosotros //nosotras ;;;hemos blocado;;vosotros //vosotras ;;;habéis blocado;;ellos //ellas //ustedes ;;;han blocado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había blocado;;tú //vos ;;;habías blocado;;él //ella //usted ;;;había blocado;;nosotros //nosotras ;;;habíamos blocado;;vosotros //vosotras ;;;habíais blocado;;ellos //ellas //ustedes ;;;habían blocado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube blocado;;tú //vos ;;;hubiste blocado;;él //ella //usted ;;;hubo blocado;;nosotros //nosotras ;;;hubimos blocado;;vosotros //vosotras ;;;hubisteis blocado;;ellos //ellas //ustedes ;;;hubieron blocado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré blocado;;tú //vos ;;;habrás blocado;;él //ella //usted ;;;habrá blocado;;nosotros //nosotras ;;;habremos blocado;;vosotros //vosotras ;;;habréis blocado;;ellos //ellas //ustedes ;;;habrán blocado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;bloque;;tú //vos ;;;bloques;;él //ella //usted ;;;bloque;;nosotros //nosotras ;;;bloquemos;;vosotros //vosotras ;;;bloquéis;;ellos //ellas //ustedes ;;;bloquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;blocara / blocase;;tú //vos ;;;blocaras / blocases;;él //ella //usted ;;;blocara / blocase;;nosotros //nosotras ;;;blocáramos / blocásemos;;vosotros //vosotras ;;;blocarais / blocaseis;;ellos //ellas //ustedes ;;;blocaran / blocasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;blocare;;tú //vos ;;;blocares;;él //ella //usted ;;;blocare;;nosotros //nosotras ;;;blocáremos;;vosotros //vosotras ;;;blocareis;;ellos //ellas //ustedes ;;;blocaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya blocado;;tú //vos ;;;hayas blocado;;él //ella //usted ;;;haya blocado;;nosotros //nosotras ;;;hayamos blocado;;vosotros //vosotras ;;;hayáis blocado;;ellos //ellas //ustedes ;;;hayan blocado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera blocado / hubiese blocado;;tú //vos ;;;hubieras blocado / hubieses blocado;;él //ella //usted ;;;hubiera blocado / hubiese blocado;;nosotros //nosotras ;;;hubiéramos blocado / hubiésemos blocado;;vosotros //vosotras ;;;hubierais blocado / hubieseis blocado;;ellos //ellas //ustedes ;;;hubieran blocado / hubiesen blocado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere blocado;;tú //vos ;;;hubieres blocado;;él //ella //usted ;;;hubiere blocado;;nosotros //nosotras ;;;hubiéremos blocado;;vosotros //vosotras ;;;hubiereis blocado;;ellos //ellas //ustedes ;;;hubieren blocado;;;;;
+Condicional;condicional;;yo ;;;blocaría;;tú //vos ;;;blocarías;;él //ella //usted ;;;blocaría;;nosotros //nosotras ;;;blocaríamos;;vosotros //vosotras ;;;blocaríais;;ellos //ellas //ustedes ;;;blocarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría blocado;;tú //vos ;;;habrías blocado;;él //ella //usted ;;;habría blocado;;nosotros //nosotras ;;;habríamos blocado;;vosotros //vosotras ;;;habríais blocado;;ellos //ellas //ustedes ;;;habrían blocado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bloca;;(usted) ;;;bloque;;(nosotros) //(nosotras) ;;;bloquemos;;(vosotros) //(vosotras) ;;;blocad;;(ustedes) ;;;bloquen;;(vos) ;;;blocá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bloques;;(usted) ;no ;;bloque;;(nosotros) //(nosotras) ;no ;;bloquemos;;(vosotros) //(vosotras) ;no ;;bloquéis;;(ustedes) ;no ;;bloquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;blocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bloc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

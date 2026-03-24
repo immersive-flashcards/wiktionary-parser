@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;clasificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;clasificando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;clasificado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;clasifico;;tú ;;;clasificas;;él //ella //usted ;;;clasifica;;nosotros //nosotras ;;;clasificamos;;vosotros //vosotras ;;;clasificáis;;ellos //ellas //ustedes ;;;clasifican;;vos ;;;clasificás
+Indicativo Imperfecto;indicativo;;yo ;;;clasificaba;;tú //vos ;;;clasificabas;;él //ella //usted ;;;clasificaba;;nosotros //nosotras ;;;clasificábamos;;vosotros //vosotras ;;;clasificabais;;ellos //ellas //ustedes ;;;clasificaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;clasifiqué;;tú //vos ;;;clasificaste;;él //ella //usted ;;;clasificó;;nosotros //nosotras ;;;clasificamos;;vosotros //vosotras ;;;clasificasteis;;ellos //ellas //ustedes ;;;clasificaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;clasificaré;;tú //vos ;;;clasificarás;;él //ella //usted ;;;clasificará;;nosotros //nosotras ;;;clasificaremos;;vosotros //vosotras ;;;clasificaréis;;ellos //ellas //ustedes ;;;clasificarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he clasificado;;tú //vos ;;;has clasificado;;él //ella //usted ;;;ha clasificado;;nosotros //nosotras ;;;hemos clasificado;;vosotros //vosotras ;;;habéis clasificado;;ellos //ellas //ustedes ;;;han clasificado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había clasificado;;tú //vos ;;;habías clasificado;;él //ella //usted ;;;había clasificado;;nosotros //nosotras ;;;habíamos clasificado;;vosotros //vosotras ;;;habíais clasificado;;ellos //ellas //ustedes ;;;habían clasificado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube clasificado;;tú //vos ;;;hubiste clasificado;;él //ella //usted ;;;hubo clasificado;;nosotros //nosotras ;;;hubimos clasificado;;vosotros //vosotras ;;;hubisteis clasificado;;ellos //ellas //ustedes ;;;hubieron clasificado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré clasificado;;tú //vos ;;;habrás clasificado;;él //ella //usted ;;;habrá clasificado;;nosotros //nosotras ;;;habremos clasificado;;vosotros //vosotras ;;;habréis clasificado;;ellos //ellas //ustedes ;;;habrán clasificado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;clasifique;;tú //vos ;;;clasifiques;;él //ella //usted ;;;clasifique;;nosotros //nosotras ;;;clasifiquemos;;vosotros //vosotras ;;;clasifiquéis;;ellos //ellas //ustedes ;;;clasifiquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;clasificara / clasificase;;tú //vos ;;;clasificaras / clasificases;;él //ella //usted ;;;clasificara / clasificase;;nosotros //nosotras ;;;clasificáramos / clasificásemos;;vosotros //vosotras ;;;clasificarais / clasificaseis;;ellos //ellas //ustedes ;;;clasificaran / clasificasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;clasificare;;tú //vos ;;;clasificares;;él //ella //usted ;;;clasificare;;nosotros //nosotras ;;;clasificáremos;;vosotros //vosotras ;;;clasificareis;;ellos //ellas //ustedes ;;;clasificaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya clasificado;;tú //vos ;;;hayas clasificado;;él //ella //usted ;;;haya clasificado;;nosotros //nosotras ;;;hayamos clasificado;;vosotros //vosotras ;;;hayáis clasificado;;ellos //ellas //ustedes ;;;hayan clasificado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera clasificado / hubiese clasificado;;tú //vos ;;;hubieras clasificado / hubieses clasificado;;él //ella //usted ;;;hubiera clasificado / hubiese clasificado;;nosotros //nosotras ;;;hubiéramos clasificado / hubiésemos clasificado;;vosotros //vosotras ;;;hubierais clasificado / hubieseis clasificado;;ellos //ellas //ustedes ;;;hubieran clasificado / hubiesen clasificado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere clasificado;;tú //vos ;;;hubieres clasificado;;él //ella //usted ;;;hubiere clasificado;;nosotros //nosotras ;;;hubiéremos clasificado;;vosotros //vosotras ;;;hubiereis clasificado;;ellos //ellas //ustedes ;;;hubieren clasificado;;;;;
+Condicional;condicional;;yo ;;;clasificaría;;tú //vos ;;;clasificarías;;él //ella //usted ;;;clasificaría;;nosotros //nosotras ;;;clasificaríamos;;vosotros //vosotras ;;;clasificaríais;;ellos //ellas //ustedes ;;;clasificarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría clasificado;;tú //vos ;;;habrías clasificado;;él //ella //usted ;;;habría clasificado;;nosotros //nosotras ;;;habríamos clasificado;;vosotros //vosotras ;;;habríais clasificado;;ellos //ellas //ustedes ;;;habrían clasificado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;clasifica;;(usted) ;;;clasifique;;(nosotros) //(nosotras) ;;;clasifiquemos;;(vosotros) //(vosotras) ;;;clasificad;;(ustedes) ;;;clasifiquen;;(vos) ;;;clasificá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;clasifiques;;(usted) ;no ;;clasifique;;(nosotros) //(nosotras) ;no ;;clasifiquemos;;(vosotros) //(vosotras) ;no ;;clasifiquéis;;(ustedes) ;no ;;clasifiquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;clasificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;clasific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

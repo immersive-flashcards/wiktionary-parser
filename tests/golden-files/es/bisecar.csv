@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;bisecar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;bisecando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;bisecado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;biseco;;tú ;;;bisecas;;él //ella //usted ;;;biseca;;nosotros //nosotras ;;;bisecamos;;vosotros //vosotras ;;;bisecáis;;ellos //ellas //ustedes ;;;bisecan;;vos ;;;bisecás
+Indicativo Imperfecto;indicativo;;yo ;;;bisecaba;;tú //vos ;;;bisecabas;;él //ella //usted ;;;bisecaba;;nosotros //nosotras ;;;bisecábamos;;vosotros //vosotras ;;;bisecabais;;ellos //ellas //ustedes ;;;bisecaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;bisequé;;tú //vos ;;;bisecaste;;él //ella //usted ;;;bisecó;;nosotros //nosotras ;;;bisecamos;;vosotros //vosotras ;;;bisecasteis;;ellos //ellas //ustedes ;;;bisecaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;bisecaré;;tú //vos ;;;bisecarás;;él //ella //usted ;;;bisecará;;nosotros //nosotras ;;;bisecaremos;;vosotros //vosotras ;;;bisecaréis;;ellos //ellas //ustedes ;;;bisecarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he bisecado;;tú //vos ;;;has bisecado;;él //ella //usted ;;;ha bisecado;;nosotros //nosotras ;;;hemos bisecado;;vosotros //vosotras ;;;habéis bisecado;;ellos //ellas //ustedes ;;;han bisecado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había bisecado;;tú //vos ;;;habías bisecado;;él //ella //usted ;;;había bisecado;;nosotros //nosotras ;;;habíamos bisecado;;vosotros //vosotras ;;;habíais bisecado;;ellos //ellas //ustedes ;;;habían bisecado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube bisecado;;tú //vos ;;;hubiste bisecado;;él //ella //usted ;;;hubo bisecado;;nosotros //nosotras ;;;hubimos bisecado;;vosotros //vosotras ;;;hubisteis bisecado;;ellos //ellas //ustedes ;;;hubieron bisecado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré bisecado;;tú //vos ;;;habrás bisecado;;él //ella //usted ;;;habrá bisecado;;nosotros //nosotras ;;;habremos bisecado;;vosotros //vosotras ;;;habréis bisecado;;ellos //ellas //ustedes ;;;habrán bisecado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;biseque;;tú //vos ;;;biseques;;él //ella //usted ;;;biseque;;nosotros //nosotras ;;;bisequemos;;vosotros //vosotras ;;;bisequéis;;ellos //ellas //ustedes ;;;bisequen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;bisecara / bisecase;;tú //vos ;;;bisecaras / bisecases;;él //ella //usted ;;;bisecara / bisecase;;nosotros //nosotras ;;;bisecáramos / bisecásemos;;vosotros //vosotras ;;;bisecarais / bisecaseis;;ellos //ellas //ustedes ;;;bisecaran / bisecasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;bisecare;;tú //vos ;;;bisecares;;él //ella //usted ;;;bisecare;;nosotros //nosotras ;;;bisecáremos;;vosotros //vosotras ;;;bisecareis;;ellos //ellas //ustedes ;;;bisecaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya bisecado;;tú //vos ;;;hayas bisecado;;él //ella //usted ;;;haya bisecado;;nosotros //nosotras ;;;hayamos bisecado;;vosotros //vosotras ;;;hayáis bisecado;;ellos //ellas //ustedes ;;;hayan bisecado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera bisecado / hubiese bisecado;;tú //vos ;;;hubieras bisecado / hubieses bisecado;;él //ella //usted ;;;hubiera bisecado / hubiese bisecado;;nosotros //nosotras ;;;hubiéramos bisecado / hubiésemos bisecado;;vosotros //vosotras ;;;hubierais bisecado / hubieseis bisecado;;ellos //ellas //ustedes ;;;hubieran bisecado / hubiesen bisecado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere bisecado;;tú //vos ;;;hubieres bisecado;;él //ella //usted ;;;hubiere bisecado;;nosotros //nosotras ;;;hubiéremos bisecado;;vosotros //vosotras ;;;hubiereis bisecado;;ellos //ellas //ustedes ;;;hubieren bisecado;;;;;
+Condicional;condicional;;yo ;;;bisecaría;;tú //vos ;;;bisecarías;;él //ella //usted ;;;bisecaría;;nosotros //nosotras ;;;bisecaríamos;;vosotros //vosotras ;;;bisecaríais;;ellos //ellas //ustedes ;;;bisecarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría bisecado;;tú //vos ;;;habrías bisecado;;él //ella //usted ;;;habría bisecado;;nosotros //nosotras ;;;habríamos bisecado;;vosotros //vosotras ;;;habríais bisecado;;ellos //ellas //ustedes ;;;habrían bisecado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;biseca;;(usted) ;;;biseque;;(nosotros) //(nosotras) ;;;bisequemos;;(vosotros) //(vosotras) ;;;bisecad;;(ustedes) ;;;bisequen;;(vos) ;;;bisecá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;biseques;;(usted) ;no ;;biseque;;(nosotros) //(nosotras) ;no ;;bisequemos;;(vosotros) //(vosotras) ;no ;;bisequéis;;(ustedes) ;no ;;bisequen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;bisecar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bisec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

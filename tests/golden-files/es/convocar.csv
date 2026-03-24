@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;convocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;convocando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;convocado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;convoco;;tú ;;;convocas;;él //ella //usted ;;;convoca;;nosotros //nosotras ;;;convocamos;;vosotros //vosotras ;;;convocáis;;ellos //ellas //ustedes ;;;convocan;;vos ;;;convocás
+Indicativo Imperfecto;indicativo;;yo ;;;convocaba;;tú //vos ;;;convocabas;;él //ella //usted ;;;convocaba;;nosotros //nosotras ;;;convocábamos;;vosotros //vosotras ;;;convocabais;;ellos //ellas //ustedes ;;;convocaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;convoqué;;tú //vos ;;;convocaste;;él //ella //usted ;;;convocó;;nosotros //nosotras ;;;convocamos;;vosotros //vosotras ;;;convocasteis;;ellos //ellas //ustedes ;;;convocaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;convocaré;;tú //vos ;;;convocarás;;él //ella //usted ;;;convocará;;nosotros //nosotras ;;;convocaremos;;vosotros //vosotras ;;;convocaréis;;ellos //ellas //ustedes ;;;convocarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he convocado;;tú //vos ;;;has convocado;;él //ella //usted ;;;ha convocado;;nosotros //nosotras ;;;hemos convocado;;vosotros //vosotras ;;;habéis convocado;;ellos //ellas //ustedes ;;;han convocado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había convocado;;tú //vos ;;;habías convocado;;él //ella //usted ;;;había convocado;;nosotros //nosotras ;;;habíamos convocado;;vosotros //vosotras ;;;habíais convocado;;ellos //ellas //ustedes ;;;habían convocado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube convocado;;tú //vos ;;;hubiste convocado;;él //ella //usted ;;;hubo convocado;;nosotros //nosotras ;;;hubimos convocado;;vosotros //vosotras ;;;hubisteis convocado;;ellos //ellas //ustedes ;;;hubieron convocado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré convocado;;tú //vos ;;;habrás convocado;;él //ella //usted ;;;habrá convocado;;nosotros //nosotras ;;;habremos convocado;;vosotros //vosotras ;;;habréis convocado;;ellos //ellas //ustedes ;;;habrán convocado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;convoque;;tú //vos ;;;convoques;;él //ella //usted ;;;convoque;;nosotros //nosotras ;;;convoquemos;;vosotros //vosotras ;;;convoquéis;;ellos //ellas //ustedes ;;;convoquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;convocara / convocase;;tú //vos ;;;convocaras / convocases;;él //ella //usted ;;;convocara / convocase;;nosotros //nosotras ;;;convocáramos / convocásemos;;vosotros //vosotras ;;;convocarais / convocaseis;;ellos //ellas //ustedes ;;;convocaran / convocasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;convocare;;tú //vos ;;;convocares;;él //ella //usted ;;;convocare;;nosotros //nosotras ;;;convocáremos;;vosotros //vosotras ;;;convocareis;;ellos //ellas //ustedes ;;;convocaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya convocado;;tú //vos ;;;hayas convocado;;él //ella //usted ;;;haya convocado;;nosotros //nosotras ;;;hayamos convocado;;vosotros //vosotras ;;;hayáis convocado;;ellos //ellas //ustedes ;;;hayan convocado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera convocado / hubiese convocado;;tú //vos ;;;hubieras convocado / hubieses convocado;;él //ella //usted ;;;hubiera convocado / hubiese convocado;;nosotros //nosotras ;;;hubiéramos convocado / hubiésemos convocado;;vosotros //vosotras ;;;hubierais convocado / hubieseis convocado;;ellos //ellas //ustedes ;;;hubieran convocado / hubiesen convocado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere convocado;;tú //vos ;;;hubieres convocado;;él //ella //usted ;;;hubiere convocado;;nosotros //nosotras ;;;hubiéremos convocado;;vosotros //vosotras ;;;hubiereis convocado;;ellos //ellas //ustedes ;;;hubieren convocado;;;;;
+Condicional;condicional;;yo ;;;convocaría;;tú //vos ;;;convocarías;;él //ella //usted ;;;convocaría;;nosotros //nosotras ;;;convocaríamos;;vosotros //vosotras ;;;convocaríais;;ellos //ellas //ustedes ;;;convocarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría convocado;;tú //vos ;;;habrías convocado;;él //ella //usted ;;;habría convocado;;nosotros //nosotras ;;;habríamos convocado;;vosotros //vosotras ;;;habríais convocado;;ellos //ellas //ustedes ;;;habrían convocado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;convoca;;(usted) ;;;convoque;;(nosotros) //(nosotras) ;;;convoquemos;;(vosotros) //(vosotras) ;;;convocad;;(ustedes) ;;;convoquen;;(vos) ;;;convocá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;convoques;;(usted) ;no ;;convoque;;(nosotros) //(nosotras) ;no ;;convoquemos;;(vosotros) //(vosotras) ;no ;;convoquéis;;(ustedes) ;no ;;convoquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;convocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;convoc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

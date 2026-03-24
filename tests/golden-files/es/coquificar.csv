@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;coquificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;coquificando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;coquificado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;coquifico;;tú ;;;coquificas;;él //ella //usted ;;;coquifica;;nosotros //nosotras ;;;coquificamos;;vosotros //vosotras ;;;coquificáis;;ellos //ellas //ustedes ;;;coquifican;;vos ;;;coquificás
+Indicativo Imperfecto;indicativo;;yo ;;;coquificaba;;tú //vos ;;;coquificabas;;él //ella //usted ;;;coquificaba;;nosotros //nosotras ;;;coquificábamos;;vosotros //vosotras ;;;coquificabais;;ellos //ellas //ustedes ;;;coquificaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;coquifiqué;;tú //vos ;;;coquificaste;;él //ella //usted ;;;coquificó;;nosotros //nosotras ;;;coquificamos;;vosotros //vosotras ;;;coquificasteis;;ellos //ellas //ustedes ;;;coquificaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;coquificaré;;tú //vos ;;;coquificarás;;él //ella //usted ;;;coquificará;;nosotros //nosotras ;;;coquificaremos;;vosotros //vosotras ;;;coquificaréis;;ellos //ellas //ustedes ;;;coquificarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he coquificado;;tú //vos ;;;has coquificado;;él //ella //usted ;;;ha coquificado;;nosotros //nosotras ;;;hemos coquificado;;vosotros //vosotras ;;;habéis coquificado;;ellos //ellas //ustedes ;;;han coquificado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había coquificado;;tú //vos ;;;habías coquificado;;él //ella //usted ;;;había coquificado;;nosotros //nosotras ;;;habíamos coquificado;;vosotros //vosotras ;;;habíais coquificado;;ellos //ellas //ustedes ;;;habían coquificado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube coquificado;;tú //vos ;;;hubiste coquificado;;él //ella //usted ;;;hubo coquificado;;nosotros //nosotras ;;;hubimos coquificado;;vosotros //vosotras ;;;hubisteis coquificado;;ellos //ellas //ustedes ;;;hubieron coquificado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré coquificado;;tú //vos ;;;habrás coquificado;;él //ella //usted ;;;habrá coquificado;;nosotros //nosotras ;;;habremos coquificado;;vosotros //vosotras ;;;habréis coquificado;;ellos //ellas //ustedes ;;;habrán coquificado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;coquifique;;tú //vos ;;;coquifiques;;él //ella //usted ;;;coquifique;;nosotros //nosotras ;;;coquifiquemos;;vosotros //vosotras ;;;coquifiquéis;;ellos //ellas //ustedes ;;;coquifiquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;coquificara / coquificase;;tú //vos ;;;coquificaras / coquificases;;él //ella //usted ;;;coquificara / coquificase;;nosotros //nosotras ;;;coquificáramos / coquificásemos;;vosotros //vosotras ;;;coquificarais / coquificaseis;;ellos //ellas //ustedes ;;;coquificaran / coquificasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;coquificare;;tú //vos ;;;coquificares;;él //ella //usted ;;;coquificare;;nosotros //nosotras ;;;coquificáremos;;vosotros //vosotras ;;;coquificareis;;ellos //ellas //ustedes ;;;coquificaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya coquificado;;tú //vos ;;;hayas coquificado;;él //ella //usted ;;;haya coquificado;;nosotros //nosotras ;;;hayamos coquificado;;vosotros //vosotras ;;;hayáis coquificado;;ellos //ellas //ustedes ;;;hayan coquificado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera coquificado / hubiese coquificado;;tú //vos ;;;hubieras coquificado / hubieses coquificado;;él //ella //usted ;;;hubiera coquificado / hubiese coquificado;;nosotros //nosotras ;;;hubiéramos coquificado / hubiésemos coquificado;;vosotros //vosotras ;;;hubierais coquificado / hubieseis coquificado;;ellos //ellas //ustedes ;;;hubieran coquificado / hubiesen coquificado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere coquificado;;tú //vos ;;;hubieres coquificado;;él //ella //usted ;;;hubiere coquificado;;nosotros //nosotras ;;;hubiéremos coquificado;;vosotros //vosotras ;;;hubiereis coquificado;;ellos //ellas //ustedes ;;;hubieren coquificado;;;;;
+Condicional;condicional;;yo ;;;coquificaría;;tú //vos ;;;coquificarías;;él //ella //usted ;;;coquificaría;;nosotros //nosotras ;;;coquificaríamos;;vosotros //vosotras ;;;coquificaríais;;ellos //ellas //ustedes ;;;coquificarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría coquificado;;tú //vos ;;;habrías coquificado;;él //ella //usted ;;;habría coquificado;;nosotros //nosotras ;;;habríamos coquificado;;vosotros //vosotras ;;;habríais coquificado;;ellos //ellas //ustedes ;;;habrían coquificado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;coquifica;;(usted) ;;;coquifique;;(nosotros) //(nosotras) ;;;coquifiquemos;;(vosotros) //(vosotras) ;;;coquificad;;(ustedes) ;;;coquifiquen;;(vos) ;;;coquificá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;coquifiques;;(usted) ;no ;;coquifique;;(nosotros) //(nosotras) ;no ;;coquifiquemos;;(vosotros) //(vosotras) ;no ;;coquifiquéis;;(ustedes) ;no ;;coquifiquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;coquificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;coquific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;becar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;becando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;becado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;beco;;tú ;;;becas;;él //ella //usted ;;;beca;;nosotros //nosotras ;;;becamos;;vosotros //vosotras ;;;becáis;;ellos //ellas //ustedes ;;;becan;;vos ;;;becás
+Indicativo Imperfecto;indicativo;;yo ;;;becaba;;tú //vos ;;;becabas;;él //ella //usted ;;;becaba;;nosotros //nosotras ;;;becábamos;;vosotros //vosotras ;;;becabais;;ellos //ellas //ustedes ;;;becaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;bequé;;tú //vos ;;;becaste;;él //ella //usted ;;;becó;;nosotros //nosotras ;;;becamos;;vosotros //vosotras ;;;becasteis;;ellos //ellas //ustedes ;;;becaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;becaré;;tú //vos ;;;becarás;;él //ella //usted ;;;becará;;nosotros //nosotras ;;;becaremos;;vosotros //vosotras ;;;becaréis;;ellos //ellas //ustedes ;;;becarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he becado;;tú //vos ;;;has becado;;él //ella //usted ;;;ha becado;;nosotros //nosotras ;;;hemos becado;;vosotros //vosotras ;;;habéis becado;;ellos //ellas //ustedes ;;;han becado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había becado;;tú //vos ;;;habías becado;;él //ella //usted ;;;había becado;;nosotros //nosotras ;;;habíamos becado;;vosotros //vosotras ;;;habíais becado;;ellos //ellas //ustedes ;;;habían becado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube becado;;tú //vos ;;;hubiste becado;;él //ella //usted ;;;hubo becado;;nosotros //nosotras ;;;hubimos becado;;vosotros //vosotras ;;;hubisteis becado;;ellos //ellas //ustedes ;;;hubieron becado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré becado;;tú //vos ;;;habrás becado;;él //ella //usted ;;;habrá becado;;nosotros //nosotras ;;;habremos becado;;vosotros //vosotras ;;;habréis becado;;ellos //ellas //ustedes ;;;habrán becado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;beque;;tú //vos ;;;beques;;él //ella //usted ;;;beque;;nosotros //nosotras ;;;bequemos;;vosotros //vosotras ;;;bequéis;;ellos //ellas //ustedes ;;;bequen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;becara / becase;;tú //vos ;;;becaras / becases;;él //ella //usted ;;;becara / becase;;nosotros //nosotras ;;;becáramos / becásemos;;vosotros //vosotras ;;;becarais / becaseis;;ellos //ellas //ustedes ;;;becaran / becasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;becare;;tú //vos ;;;becares;;él //ella //usted ;;;becare;;nosotros //nosotras ;;;becáremos;;vosotros //vosotras ;;;becareis;;ellos //ellas //ustedes ;;;becaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya becado;;tú //vos ;;;hayas becado;;él //ella //usted ;;;haya becado;;nosotros //nosotras ;;;hayamos becado;;vosotros //vosotras ;;;hayáis becado;;ellos //ellas //ustedes ;;;hayan becado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera becado / hubiese becado;;tú //vos ;;;hubieras becado / hubieses becado;;él //ella //usted ;;;hubiera becado / hubiese becado;;nosotros //nosotras ;;;hubiéramos becado / hubiésemos becado;;vosotros //vosotras ;;;hubierais becado / hubieseis becado;;ellos //ellas //ustedes ;;;hubieran becado / hubiesen becado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere becado;;tú //vos ;;;hubieres becado;;él //ella //usted ;;;hubiere becado;;nosotros //nosotras ;;;hubiéremos becado;;vosotros //vosotras ;;;hubiereis becado;;ellos //ellas //ustedes ;;;hubieren becado;;;;;
+Condicional;condicional;;yo ;;;becaría;;tú //vos ;;;becarías;;él //ella //usted ;;;becaría;;nosotros //nosotras ;;;becaríamos;;vosotros //vosotras ;;;becaríais;;ellos //ellas //ustedes ;;;becarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría becado;;tú //vos ;;;habrías becado;;él //ella //usted ;;;habría becado;;nosotros //nosotras ;;;habríamos becado;;vosotros //vosotras ;;;habríais becado;;ellos //ellas //ustedes ;;;habrían becado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;beca;;(usted) ;;;beque;;(nosotros) //(nosotras) ;;;bequemos;;(vosotros) //(vosotras) ;;;becad;;(ustedes) ;;;bequen;;(vos) ;;;becá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;beques;;(usted) ;no ;;beque;;(nosotros) //(nosotras) ;no ;;bequemos;;(vosotros) //(vosotras) ;no ;;bequéis;;(ustedes) ;no ;;bequen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;becar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;bec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

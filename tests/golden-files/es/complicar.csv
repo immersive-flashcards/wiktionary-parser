@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;complicando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;complicado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;complico;;tú ;;;complicas;;él //ella //usted ;;;complica;;nosotros //nosotras ;;;complicamos;;vosotros //vosotras ;;;complicáis;;ellos //ellas //ustedes ;;;complican;;vos ;;;complicás
+Indicativo Imperfecto;indicativo;;yo ;;;complicaba;;tú //vos ;;;complicabas;;él //ella //usted ;;;complicaba;;nosotros //nosotras ;;;complicábamos;;vosotros //vosotras ;;;complicabais;;ellos //ellas //ustedes ;;;complicaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;compliqué;;tú //vos ;;;complicaste;;él //ella //usted ;;;complicó;;nosotros //nosotras ;;;complicamos;;vosotros //vosotras ;;;complicasteis;;ellos //ellas //ustedes ;;;complicaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;complicaré;;tú //vos ;;;complicarás;;él //ella //usted ;;;complicará;;nosotros //nosotras ;;;complicaremos;;vosotros //vosotras ;;;complicaréis;;ellos //ellas //ustedes ;;;complicarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he complicado;;tú //vos ;;;has complicado;;él //ella //usted ;;;ha complicado;;nosotros //nosotras ;;;hemos complicado;;vosotros //vosotras ;;;habéis complicado;;ellos //ellas //ustedes ;;;han complicado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había complicado;;tú //vos ;;;habías complicado;;él //ella //usted ;;;había complicado;;nosotros //nosotras ;;;habíamos complicado;;vosotros //vosotras ;;;habíais complicado;;ellos //ellas //ustedes ;;;habían complicado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube complicado;;tú //vos ;;;hubiste complicado;;él //ella //usted ;;;hubo complicado;;nosotros //nosotras ;;;hubimos complicado;;vosotros //vosotras ;;;hubisteis complicado;;ellos //ellas //ustedes ;;;hubieron complicado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré complicado;;tú //vos ;;;habrás complicado;;él //ella //usted ;;;habrá complicado;;nosotros //nosotras ;;;habremos complicado;;vosotros //vosotras ;;;habréis complicado;;ellos //ellas //ustedes ;;;habrán complicado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;complique;;tú //vos ;;;compliques;;él //ella //usted ;;;complique;;nosotros //nosotras ;;;compliquemos;;vosotros //vosotras ;;;compliquéis;;ellos //ellas //ustedes ;;;compliquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;complicara / complicase;;tú //vos ;;;complicaras / complicases;;él //ella //usted ;;;complicara / complicase;;nosotros //nosotras ;;;complicáramos / complicásemos;;vosotros //vosotras ;;;complicarais / complicaseis;;ellos //ellas //ustedes ;;;complicaran / complicasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;complicare;;tú //vos ;;;complicares;;él //ella //usted ;;;complicare;;nosotros //nosotras ;;;complicáremos;;vosotros //vosotras ;;;complicareis;;ellos //ellas //ustedes ;;;complicaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya complicado;;tú //vos ;;;hayas complicado;;él //ella //usted ;;;haya complicado;;nosotros //nosotras ;;;hayamos complicado;;vosotros //vosotras ;;;hayáis complicado;;ellos //ellas //ustedes ;;;hayan complicado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera complicado / hubiese complicado;;tú //vos ;;;hubieras complicado / hubieses complicado;;él //ella //usted ;;;hubiera complicado / hubiese complicado;;nosotros //nosotras ;;;hubiéramos complicado / hubiésemos complicado;;vosotros //vosotras ;;;hubierais complicado / hubieseis complicado;;ellos //ellas //ustedes ;;;hubieran complicado / hubiesen complicado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere complicado;;tú //vos ;;;hubieres complicado;;él //ella //usted ;;;hubiere complicado;;nosotros //nosotras ;;;hubiéremos complicado;;vosotros //vosotras ;;;hubiereis complicado;;ellos //ellas //ustedes ;;;hubieren complicado;;;;;
+Condicional;condicional;;yo ;;;complicaría;;tú //vos ;;;complicarías;;él //ella //usted ;;;complicaría;;nosotros //nosotras ;;;complicaríamos;;vosotros //vosotras ;;;complicaríais;;ellos //ellas //ustedes ;;;complicarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría complicado;;tú //vos ;;;habrías complicado;;él //ella //usted ;;;habría complicado;;nosotros //nosotras ;;;habríamos complicado;;vosotros //vosotras ;;;habríais complicado;;ellos //ellas //ustedes ;;;habrían complicado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;complica;;(usted) ;;;complique;;(nosotros) //(nosotras) ;;;compliquemos;;(vosotros) //(vosotras) ;;;complicad;;(ustedes) ;;;compliquen;;(vos) ;;;complicá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;compliques;;(usted) ;no ;;complique;;(nosotros) //(nosotras) ;no ;;compliquemos;;(vosotros) //(vosotras) ;no ;;compliquéis;;(ustedes) ;no ;;compliquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;complic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

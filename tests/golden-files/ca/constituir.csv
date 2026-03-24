@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
+Infinitiu;infinitivo;constituir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundi;gerundio;constituint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participi;participio;constituït;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatiu Present;indicativo;;jo ;;;constitueixo;;tu ;;;constitueixes;;ell //ella //vostè ;;;constitueix;;nosaltres ;;;constituïm;;vosaltres ;;;constituïu;;ells //elles //vostès ;;;constitueixen
+Indicatiu Imperfet;indicativo;;jo ;;;constituïa;;tu ;;;constituïes;;ell //ella //vostè ;;;constituïa;;nosaltres ;;;constituíem;;vosaltres ;;;constituíeu;;ells //elles //vostès ;;;constituïen
+Indicatiu Futur;indicativo;;jo ;;;constituiré;;tu ;;;constituiràs;;ell //ella //vostè ;;;constituirà;;nosaltres ;;;constituirem;;vosaltres ;;;constituireu;;ells //elles //vostès ;;;constituiran
+Indicatiu Pretèrit Perfet Simple;indicativo;;jo ;;;constituí;;tu ;;;constituïres;;ell //ella //vostè ;;;constituí;;nosaltres ;;;constituírem;;vosaltres ;;;constituíreu;;ells //elles //vostès ;;;constituïren
+Condicional;condicional;;jo ;;;constituiria;;tu ;;;constituiries;;ell //ella //vostè ;;;constituiria;;nosaltres ;;;constituiríem;;vosaltres ;;;constituiríeu;;ells //elles //vostès ;;;constituirien
+Subjuntiu Present;subjuntiu;;jo ;;;constitueixi;;tu ;;;constitueixis;;ell //ella //vostè ;;;constitueixi;;nosaltres ;;;constituïm;;vosaltres ;;;constituïu;;ells //elles //vostès ;;;constitueixin
+Subjuntiu Imperfet;subjuntiu;;jo ;;;constituís;;tu ;;;constituïssis;;ell //ella //vostè ;;;constituís;;nosaltres ;;;constituíssim;;vosaltres ;;;constituíssiu;;ells //elles //vostès ;;;constituïssin
+Imperatiu Afirmatiu;imperatiu;;;;;;;(tu) ;;;constitueix;;(vostè) ;;;constitueixi;;(nosaltres) ;;;constituïm;;(vosaltres) ;;;constituïu;;(vostès) ;;;constitueixin
+Imperatiu Negatiu;imperatiu;;;;;;;(tu) ;no ;;constitueixis;;(vostè) ;no ;;constitueixi;;(nosaltres) ;no ;;constituïm;;(vosaltres) ;no ;;constituïu;;(vostès) ;no ;;constitueixin
+Indicatiu Perfet;indicatiu;;jo ;;;he constituït;;tu ;;;has constituït;;ell //ella //vostè ;;;ha constituït;;nosaltres ;;;hem constituït;;vosaltres ;;;heu constituït;;ells //elles //vostès ;;;han constituït
+Indicatiu Passat Perifràstic;indicatiu;;jo ;;;vaig constituït;;tu ;;;vas constituït;;ell //ella //vostè ;;;va constituït;;nosaltres ;;;vam constituït;;vosaltres ;;;vau constituït;;ells //elles //vostès ;;;van constituït
+Indicatiu Plusquamperfet;indicatiu;;jo ;;;havia constituït;;tu ;;;havies constituït;;ell //ella //vostè ;;;havia constituït;;nosaltres ;;;havíem constituït;;vosaltres ;;;havíeu constituït;;ells //elles //vostès ;;;havien constituït
+Indicatiu Passat Anterior;indicatiu;;jo ;;;haguí constituït;;tu ;;;hagueres constituït;;ell //ella //vostè ;;;hagué constituït;;nosaltres ;;;haguérem constituït;;vosaltres ;;;haguéreu constituït;;ells //elles //vostès ;;;hagueren constituït
+Indicatiu Passat Anterior Perifràstic;indicatiu;;jo ;;;vaig haver constituït;;tu ;;;vas haver constituït;;ell //ella //vostè ;;;va haver constituït;;nosaltres ;;;vam haver constituït;;vosaltres ;;;vau haver constituït;;ells //elles //vostès ;;;van haver constituït
+Indicatiu Futur Perfet;indicatiu;;jo ;;;hauré constituït;;tu ;;;hauràs constituït;;ell //ella //vostè ;;;haurà constituït;;nosaltres ;;;haurem constituït;;vosaltres ;;;haureu constituït;;ells //elles //vostès ;;;hauran constituït
+Condicional Perfet;condicional;;jo ;;;hauria constituït;;tu ;;;hauries constituït;;ell //ella //vostè ;;;hauria constituït;;nosaltres ;;;hauríem constituït;;vosaltres ;;;hauríeu constituït;;ells //elles //vostès ;;;haurien constituït
+Subjuntiu Passat Perifràstic;subjuntiu;;jo ;;;vagi constituït;;tu ;;;vagis constituït;;ell //ella //vostè ;;;vagi constituït;;nosaltres ;;;vàgim constituït;;vosaltres ;;;vàgiu constituït;;ells //elles //vostès ;;;vagin constituït
+Subjuntiu Perfet;subjuntiu;;jo ;;;hagi constituït;;tu ;;;hagis constituït;;ell //ella //vostè ;;;hagi constituït;;nosaltres ;;;hàgim constituït;;vosaltres ;;;hàgiu constituït;;ells //elles //vostès ;;;hagin constituït
+Subjuntiu Plusquamperfet;subjuntiu;;jo ;;;hagúes constituït;;tu ;;;haguessis constituït;;ell //ella //vostè ;;;hagués constituït;;nosaltres ;;;haguéssim constituït;;vosaltres ;;;haguéssiu constituït;;ells //elles //vostès ;;;haguessin constituït
+Subjuntiu Passat Anterior Perifràstic;subjuntiu;;jo ;;;vagi haver constituït;;tu ;;;vagis haver constituït;;ell //ella //vostè ;;;vagi haver constituït;;nosaltres ;;;vàgim haver constituït;;vosaltres ;;;vàgiu haver constituït;;ells //elles //vostès ;;;vagin haver constituït
+verb-group;3rd conjugation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+auxiliary;haver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;constituir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;constitu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

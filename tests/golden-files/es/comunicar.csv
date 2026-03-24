@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;comunicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;comunicando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;comunicado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;comunico;;tú ;;;comunicas;;él //ella //usted ;;;comunica;;nosotros //nosotras ;;;comunicamos;;vosotros //vosotras ;;;comunicáis;;ellos //ellas //ustedes ;;;comunican;;vos ;;;comunicás
+Indicativo Imperfecto;indicativo;;yo ;;;comunicaba;;tú //vos ;;;comunicabas;;él //ella //usted ;;;comunicaba;;nosotros //nosotras ;;;comunicábamos;;vosotros //vosotras ;;;comunicabais;;ellos //ellas //ustedes ;;;comunicaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;comuniqué;;tú //vos ;;;comunicaste;;él //ella //usted ;;;comunicó;;nosotros //nosotras ;;;comunicamos;;vosotros //vosotras ;;;comunicasteis;;ellos //ellas //ustedes ;;;comunicaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;comunicaré;;tú //vos ;;;comunicarás;;él //ella //usted ;;;comunicará;;nosotros //nosotras ;;;comunicaremos;;vosotros //vosotras ;;;comunicaréis;;ellos //ellas //ustedes ;;;comunicarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he comunicado;;tú //vos ;;;has comunicado;;él //ella //usted ;;;ha comunicado;;nosotros //nosotras ;;;hemos comunicado;;vosotros //vosotras ;;;habéis comunicado;;ellos //ellas //ustedes ;;;han comunicado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había comunicado;;tú //vos ;;;habías comunicado;;él //ella //usted ;;;había comunicado;;nosotros //nosotras ;;;habíamos comunicado;;vosotros //vosotras ;;;habíais comunicado;;ellos //ellas //ustedes ;;;habían comunicado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube comunicado;;tú //vos ;;;hubiste comunicado;;él //ella //usted ;;;hubo comunicado;;nosotros //nosotras ;;;hubimos comunicado;;vosotros //vosotras ;;;hubisteis comunicado;;ellos //ellas //ustedes ;;;hubieron comunicado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré comunicado;;tú //vos ;;;habrás comunicado;;él //ella //usted ;;;habrá comunicado;;nosotros //nosotras ;;;habremos comunicado;;vosotros //vosotras ;;;habréis comunicado;;ellos //ellas //ustedes ;;;habrán comunicado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;comunique;;tú //vos ;;;comuniques;;él //ella //usted ;;;comunique;;nosotros //nosotras ;;;comuniquemos;;vosotros //vosotras ;;;comuniquéis;;ellos //ellas //ustedes ;;;comuniquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;comunicara / comunicase;;tú //vos ;;;comunicaras / comunicases;;él //ella //usted ;;;comunicara / comunicase;;nosotros //nosotras ;;;comunicáramos / comunicásemos;;vosotros //vosotras ;;;comunicarais / comunicaseis;;ellos //ellas //ustedes ;;;comunicaran / comunicasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;comunicare;;tú //vos ;;;comunicares;;él //ella //usted ;;;comunicare;;nosotros //nosotras ;;;comunicáremos;;vosotros //vosotras ;;;comunicareis;;ellos //ellas //ustedes ;;;comunicaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya comunicado;;tú //vos ;;;hayas comunicado;;él //ella //usted ;;;haya comunicado;;nosotros //nosotras ;;;hayamos comunicado;;vosotros //vosotras ;;;hayáis comunicado;;ellos //ellas //ustedes ;;;hayan comunicado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera comunicado / hubiese comunicado;;tú //vos ;;;hubieras comunicado / hubieses comunicado;;él //ella //usted ;;;hubiera comunicado / hubiese comunicado;;nosotros //nosotras ;;;hubiéramos comunicado / hubiésemos comunicado;;vosotros //vosotras ;;;hubierais comunicado / hubieseis comunicado;;ellos //ellas //ustedes ;;;hubieran comunicado / hubiesen comunicado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere comunicado;;tú //vos ;;;hubieres comunicado;;él //ella //usted ;;;hubiere comunicado;;nosotros //nosotras ;;;hubiéremos comunicado;;vosotros //vosotras ;;;hubiereis comunicado;;ellos //ellas //ustedes ;;;hubieren comunicado;;;;;
+Condicional;condicional;;yo ;;;comunicaría;;tú //vos ;;;comunicarías;;él //ella //usted ;;;comunicaría;;nosotros //nosotras ;;;comunicaríamos;;vosotros //vosotras ;;;comunicaríais;;ellos //ellas //ustedes ;;;comunicarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría comunicado;;tú //vos ;;;habrías comunicado;;él //ella //usted ;;;habría comunicado;;nosotros //nosotras ;;;habríamos comunicado;;vosotros //vosotras ;;;habríais comunicado;;ellos //ellas //ustedes ;;;habrían comunicado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;comunica;;(usted) ;;;comunique;;(nosotros) //(nosotras) ;;;comuniquemos;;(vosotros) //(vosotras) ;;;comunicad;;(ustedes) ;;;comuniquen;;(vos) ;;;comunicá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;comuniques;;(usted) ;no ;;comunique;;(nosotros) //(nosotras) ;no ;;comuniquemos;;(vosotros) //(vosotras) ;no ;;comuniquéis;;(ustedes) ;no ;;comuniquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;comunicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;comunic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

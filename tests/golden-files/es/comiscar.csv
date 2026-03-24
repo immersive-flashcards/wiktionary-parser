@@ -1,0 +1,31 @@
+key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6;conjunction-7;pronoun-7;negation-7;refl_pronoun-7;conjugation-7
+Infinitivo;infinitivo;comiscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gerundio;gerundio;comiscando;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Participio;participio;comiscado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicativo Presente;indicativo;;yo ;;;comisco;;tú ;;;comiscas;;él //ella //usted ;;;comisca;;nosotros //nosotras ;;;comiscamos;;vosotros //vosotras ;;;comiscáis;;ellos //ellas //ustedes ;;;comiscan;;vos ;;;comiscás
+Indicativo Imperfecto;indicativo;;yo ;;;comiscaba;;tú //vos ;;;comiscabas;;él //ella //usted ;;;comiscaba;;nosotros //nosotras ;;;comiscábamos;;vosotros //vosotras ;;;comiscabais;;ellos //ellas //ustedes ;;;comiscaban;;;;;
+Indicativo Pretérito Indefinido;indicativo;;yo ;;;comisqué;;tú //vos ;;;comiscaste;;él //ella //usted ;;;comiscó;;nosotros //nosotras ;;;comiscamos;;vosotros //vosotras ;;;comiscasteis;;ellos //ellas //ustedes ;;;comiscaron;;;;;
+Indicativo Futuro;indicativo;;yo ;;;comiscaré;;tú //vos ;;;comiscarás;;él //ella //usted ;;;comiscará;;nosotros //nosotras ;;;comiscaremos;;vosotros //vosotras ;;;comiscaréis;;ellos //ellas //ustedes ;;;comiscarán;;;;;
+Indicativo Pretérito Perfecto;indicativo;;yo ;;;he comiscado;;tú //vos ;;;has comiscado;;él //ella //usted ;;;ha comiscado;;nosotros //nosotras ;;;hemos comiscado;;vosotros //vosotras ;;;habéis comiscado;;ellos //ellas //ustedes ;;;han comiscado;;;;;
+Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había comiscado;;tú //vos ;;;habías comiscado;;él //ella //usted ;;;había comiscado;;nosotros //nosotras ;;;habíamos comiscado;;vosotros //vosotras ;;;habíais comiscado;;ellos //ellas //ustedes ;;;habían comiscado;;;;;
+Indicativo Pretérito Anterior;indicativo;;yo ;;;hube comiscado;;tú //vos ;;;hubiste comiscado;;él //ella //usted ;;;hubo comiscado;;nosotros //nosotras ;;;hubimos comiscado;;vosotros //vosotras ;;;hubisteis comiscado;;ellos //ellas //ustedes ;;;hubieron comiscado;;;;;
+Indicativo Futuro Perfecto;indicativo;;yo ;;;habré comiscado;;tú //vos ;;;habrás comiscado;;él //ella //usted ;;;habrá comiscado;;nosotros //nosotras ;;;habremos comiscado;;vosotros //vosotras ;;;habréis comiscado;;ellos //ellas //ustedes ;;;habrán comiscado;;;;;
+Subjuntivo Presente;subjuntivo;;yo ;;;comisque;;tú //vos ;;;comisques;;él //ella //usted ;;;comisque;;nosotros //nosotras ;;;comisquemos;;vosotros //vosotras ;;;comisquéis;;ellos //ellas //ustedes ;;;comisquen;;;;;
+Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;comiscara / comiscase;;tú //vos ;;;comiscaras / comiscases;;él //ella //usted ;;;comiscara / comiscase;;nosotros //nosotras ;;;comiscáramos / comiscásemos;;vosotros //vosotras ;;;comiscarais / comiscaseis;;ellos //ellas //ustedes ;;;comiscaran / comiscasen;;;;;
+Subjuntivo Futuro;subjuntivo;;yo ;;;comiscare;;tú //vos ;;;comiscares;;él //ella //usted ;;;comiscare;;nosotros //nosotras ;;;comiscáremos;;vosotros //vosotras ;;;comiscareis;;ellos //ellas //ustedes ;;;comiscaren;;;;;
+Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya comiscado;;tú //vos ;;;hayas comiscado;;él //ella //usted ;;;haya comiscado;;nosotros //nosotras ;;;hayamos comiscado;;vosotros //vosotras ;;;hayáis comiscado;;ellos //ellas //ustedes ;;;hayan comiscado;;;;;
+Subjuntivo Pretérito Pluscuamperfecto;subjuntivo;;yo ;;;hubiera comiscado / hubiese comiscado;;tú //vos ;;;hubieras comiscado / hubieses comiscado;;él //ella //usted ;;;hubiera comiscado / hubiese comiscado;;nosotros //nosotras ;;;hubiéramos comiscado / hubiésemos comiscado;;vosotros //vosotras ;;;hubierais comiscado / hubieseis comiscado;;ellos //ellas //ustedes ;;;hubieran comiscado / hubiesen comiscado;;;;;
+Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere comiscado;;tú //vos ;;;hubieres comiscado;;él //ella //usted ;;;hubiere comiscado;;nosotros //nosotras ;;;hubiéremos comiscado;;vosotros //vosotras ;;;hubiereis comiscado;;ellos //ellas //ustedes ;;;hubieren comiscado;;;;;
+Condicional;condicional;;yo ;;;comiscaría;;tú //vos ;;;comiscarías;;él //ella //usted ;;;comiscaría;;nosotros //nosotras ;;;comiscaríamos;;vosotros //vosotras ;;;comiscaríais;;ellos //ellas //ustedes ;;;comiscarían;;;;;
+Condicional Perfecto;condicional;;yo ;;;habría comiscado;;tú //vos ;;;habrías comiscado;;él //ella //usted ;;;habría comiscado;;nosotros //nosotras ;;;habríamos comiscado;;vosotros //vosotras ;;;habríais comiscado;;ellos //ellas //ustedes ;;;habrían comiscado;;;;;
+Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;comisca;;(usted) ;;;comisque;;(nosotros) //(nosotras) ;;;comisquemos;;(vosotros) //(vosotras) ;;;comiscad;;(ustedes) ;;;comisquen;;(vos) ;;;comiscá
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;comisques;;(usted) ;no ;;comisque;;(nosotros) //(nosotras) ;no ;;comisquemos;;(vosotros) //(vosotras) ;no ;;comisquéis;;(ustedes) ;no ;;comisquen;;;;;
+auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base_infinitive;comiscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stem;comisc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+regularity;regular;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+paradigma;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

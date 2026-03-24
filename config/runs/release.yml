@@ -1,7 +1,11 @@
 profile: "release"
 max_verbs: None
 
-output_dir: "data/release_verb_csvs"
+csv_output_dir: "data/release_verb_csvs"
+json_output_dir: "data/release_verb_jsons"
+
+output_jsonl: true
+output_csv: true
 
 languages:
   - "es"

@@ -1,9 +1,10 @@
-"""Script to convert verb data from Wiktionary JSONL dumps into CSV files."""
+"""Script to convert verb data from Wiktionary JSONL dumps into filtered JSONL and/or zipped CSV files."""
 
 import json
 import sys
 import time
 import unicodedata
+from contextlib import ExitStack
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Mapping, Sequence
@@ -42,7 +43,10 @@ class RunConfig:
     profile: str
     max_verbs: int | None
     languages: list[str]
-    output_dir: Path
+    csv_output_dir: Path
+    json_output_dir: Path | None = None
+    output_jsonl: bool = True
+    output_csv: bool = False
 
 
 def _load_language_config(lang_code: str) -> LanguageConfig:
@@ -65,11 +69,15 @@ def _load_run_config(profile: str) -> RunConfig:
     cfg_path = BASE_DIR / "config" / "runs" / f"{profile}.yml"
     data = yaml.safe_load(cfg_path.read_text(encoding="utf-8"))
 
+    json_dir = data.get("json_output_dir")
     return RunConfig(
         profile=data["profile"],
         max_verbs=None if data["max_verbs"] == "None" else data["max_verbs"],
         languages=data["languages"],
-        output_dir=(BASE_DIR / data["output_dir"]).resolve(),
+        csv_output_dir=(BASE_DIR / data["csv_output_dir"]).resolve(),
+        json_output_dir=(BASE_DIR / json_dir).resolve() if json_dir else None,
+        output_jsonl=data.get("output_jsonl", True),
+        output_csv=data.get("output_csv", False),
     )
 
 
@@ -297,8 +305,8 @@ def parse_and_store_form(lang_cfg: LanguageConfig, row: dict[str, Any], person_i
     row[f"conjugation-{person_idx_1}"] = form
 
 
-def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: LanguageConfig, run_cfg: RunConfig) -> None:
-    """Write the config-selected values into a per-verb CSV"""
+def build_verb_data(entry: dict[str, Any], lang_cfg: LanguageConfig) -> tuple[str, list[dict[str, Any]]]:
+    """Build the config-selected values for a single verb entry into (lemma, rows)."""
     lemma = entry.get("word")
     rows_out: list[dict[str, Any]] = []
 
@@ -419,38 +427,69 @@ def build_csv_for_entry(entry: dict[str, Any], header: list[str], lang_cfg: Lang
                 )
     # fmt: on
 
-    # Write out CSV
-    out_dir = (run_cfg.output_dir / lang_cfg.lang_code).resolve()
-    out_dir.mkdir(parents=True, exist_ok=True)
-
-    out_path = out_dir / f"{lemma.replace('/', '---')}.csv"  # normalize some pesky entries
-    df = pl.DataFrame(rows_out, schema=header)
-    df.write_csv(out_path, separator=";")
+    # Return for writer
+    return lemma, rows_out
 
 
-def run_for_language(lang_cfg: LanguageConfig, run_cfg: RunConfig):
-    """Run CSV generation for a single language."""
-    header = build_header(lang_cfg)
+def run_for_language(lang_cfg: LanguageConfig, run_cfg: RunConfig) -> None:
+    """Run parsing for a single language and write the configured outputs."""
+    header = build_header(lang_cfg) if run_cfg.output_csv else []
     count = 0
+    seen_lemmas: set[str] = set()
 
-    with _open_jsonl(lang_cfg.infinitives_jsonl) as f:
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
+    with ExitStack() as stack:  # allows both output handles to share cleanup without try/finally
+        jsonl_file = None
 
-            entry = json.loads(line)
-            build_csv_for_entry(entry, header, lang_cfg, run_cfg)
+        if run_cfg.output_jsonl:
+            if run_cfg.json_output_dir is None:
+                raise ValueError(f"output_jsonl is true but json_output_dir is not set in profile '{run_cfg.profile}'")
+            run_cfg.json_output_dir.mkdir(parents=True, exist_ok=True)
+            jsonl_path = run_cfg.json_output_dir / f"{lang_cfg.lang_code}.jsonl"
+            jsonl_file = stack.enter_context(jsonl_path.open("w", encoding="utf-8"))
 
-            count += 1
-            if run_cfg.max_verbs is not None and count >= run_cfg.max_verbs:
-                print(f"[{lang_cfg.lang_code}] Stopped after {run_cfg.max_verbs} verbs.")
-                break
+        if run_cfg.output_csv:
+            csv_out_dir = (run_cfg.csv_output_dir / lang_cfg.lang_code).resolve()
+            csv_out_dir.mkdir(parents=True, exist_ok=True)
+
+        with _open_jsonl(lang_cfg.infinitives_jsonl) as f_in:
+            for line in f_in:
+                line = line.strip()
+                if not line:
+                    continue
+
+                entry = json.loads(line)
+                lemma, rows = build_verb_data(entry, lang_cfg)
+
+                if lemma in seen_lemmas:
+                    continue
+                seen_lemmas.add(lemma)
+
+                if jsonl_file is not None:
+                    jsonl_file.write(json.dumps({"lemma": lemma, "rows": rows}, ensure_ascii=False) + "\n")
+
+                if run_cfg.output_csv:
+                    out_path = csv_out_dir / f"{lemma.replace('/', '---')}.csv"  # normalize some pesky entries
+                    pl.DataFrame(rows, schema=header).write_csv(out_path, separator=";")
+
+                count += 1
+                if run_cfg.max_verbs is not None and count >= run_cfg.max_verbs:
+                    print(f"[{lang_cfg.lang_code}] Stopped after {run_cfg.max_verbs} verbs.")
+                    break
+
+    if run_cfg.output_jsonl:
+        print(f"[{lang_cfg.lang_code}] Wrote {count} verbs to {run_cfg.json_output_dir / f'{lang_cfg.lang_code}.jsonl'}")
+    if run_cfg.output_csv:
+        print(f"[{lang_cfg.lang_code}] Wrote {count} verbs to {csv_out_dir}")
 
 
 def main(profile: str = "dev"):
-    """Main function to convert infinitive verbs JSONL into per-verb CSV files."""
+    """Main function to convert infinitive verbs JSONL into per-verb CSV files and/or a per-language JSONL."""
     run_cfg = _load_run_config(profile)
+
+    if not run_cfg.output_jsonl and not run_cfg.output_csv:
+        print("No output format selected in the config.")
+        return
+
     start = time.time()
 
     for lang_code in run_cfg.languages:

@@ -1,7 +1,11 @@
 profile: "dev"
 max_verbs: 25
 
-output_dir: "data/verb-csvs"
+csv_output_dir: "data/verb-csvs"
+json_output_dir: "data/verb-jsons"
+
+output_jsonl: true
+output_csv: false
 
 languages:
   - "es"

@@ -1,0 +1,13 @@
+profile: "update-test-files"
+max_verbs: 250
+
+output_dir: "tests/temp_verb_csvs"
+
+languages:
+  - "es"
+  - "ca"
+  - "fr"
+
+# new fields
+update_golden: true
+golden_dir: "tests/golden-files"

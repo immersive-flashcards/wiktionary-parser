@@ -2,6 +2,8 @@
 /.idea/
 data/verb-csvs/
 data/release_verb_csvs/
+data/verb-jsons/
+data/release_verb_jsons/
 data/infinitive-dumps/*.jsonl
 data/verb-dumps/*.jsonl
 __pycache__/

@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;fermer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir fermé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;fermer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir fermé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en fermant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant fermé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;fermant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;fermé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;ferme;;tu ;;;fermes;;il/elle/on ;;;ferme;;nous ;;;fermons;;vous ;;;fermez;;ils/elles ;;;ferment
 Indicatif Passé Composé;indicatif;;j’;;;ai fermé;;tu ;;;as fermé;;il/elle/on ;;;a fermé;;nous ;;;avons fermé;;vous ;;;avez fermé;;ils/elles ;;;ont fermé
 Indicatif Imparfait;indicatif;;je ;;;fermais;;tu ;;;fermais;;il/elle/on ;;;fermait;;nous ;;;fermions;;vous ;;;fermiez;;ils/elles ;;;fermaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais fermé;;tu ;;;avais fermé;;il/elle/on ;;;avait fermé;;nous ;;;avions fermé;;vous ;;;aviez fermé;;ils/elles ;;;avaient fermé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais fermé;;tu ;;;avais fermé;;il/elle/on ;;;avait fermé;;nous ;;;avions fermé;;vous ;;;aviez fermé;;ils/elles ;;;avaient fermé
 Indicatif Passé Simple;indicatif;;je ;;;fermai;;tu ;;;fermas;;il/elle/on ;;;ferma;;nous ;;;fermâmes;;vous ;;;fermâtes;;ils/elles ;;;fermèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus fermé;;tu ;;;eus fermé;;il/elle/on ;;;eut fermé;;nous ;;;eûmes fermé;;vous ;;;eûtes fermé;;ils/elles ;;;eurent fermé
 Indicatif Futur Simple;indicatif;;je ;;;fermerai;;tu ;;;fermeras;;il/elle/on ;;;fermera;;nous ;;;fermerons;;vous ;;;fermerez;;ils/elles ;;;fermeront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai fermé;;tu ;;;auras fermé;;i
 Subjonctif Présent;subjonctif;que ;je ;;;ferme;que ;tu ;;;fermes;qu’;il/elle/on ;;;ferme;que ;nous ;;;fermions;que ;vous ;;;fermiez;qu’;ils/elles ;;;ferment
 Subjonctif Passé;subjonctif;que ;j’;;;aie fermé;que ;tu ;;;aies fermé;qu’;il/elle/on ;;;ait fermé;que ;nous ;;;ayons fermé;que ;vous ;;;ayez fermé;qu’;ils/elles ;;;aient fermé
 Subjonctif Imparfait;subjonctif;que ;je ;;;fermasse;que ;tu ;;;fermasses;qu’;il/elle/on ;;;fermât;que ;nous ;;;fermassions;que ;vous ;;;fermassiez;qu’;ils/elles ;;;fermassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fermé;que ;tu ;;;eusses fermé;qu’;il/elle/on ;;;eût fermé;que ;nous ;;;eussions fermé;que ;vous ;;;eussiez fermé;qu’;ils/elles ;;;eussent fermé
-Conditionnel;conditionnel;;je ;;;fermerais;;tu ;;;fermerais;;il/elle/on ;;;fermerait;;nous ;;;fermerions;;vous ;;;fermeriez;;ils/elles ;;;fermeraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse fermé;que ;tu ;;;eusses fermé;qu’;il/elle/on ;;;eût fermé;que ;nous ;;;eussions fermé;que ;vous ;;;eussiez fermé;qu’;ils/elles ;;;eussent fermé
+Conditionnel Présent;conditionnel;;je ;;;fermerais;;tu ;;;fermerais;;il/elle/on ;;;fermerait;;nous ;;;fermerions;;vous ;;;fermeriez;;ils/elles ;;;fermeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fermé;;tu ;;;aurais fermé;;il/elle/on ;;;aurait fermé;;nous ;;;aurions fermé;;vous ;;;auriez fermé;;ils/elles ;;;auraient fermé
 Impératif Présent;impératif;;;;;;;(tu) ;;;ferme;;;;;;;(nous) ;;;fermons;;(vous) ;;;fermez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fermé;;;;;;;(nous) ;;;ayons fermé;;(vous) ;;;ayez fermé;;;;;

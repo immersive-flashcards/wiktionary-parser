@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;pleurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir pleuré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;pleurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir pleuré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en pleurant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant pleuré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;pleurant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;pleuré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;pleure;;tu ;;;pleures;;il/elle/on ;;;pleure;;nous ;;;pleurons;;vous ;;;pleurez;;ils/elles ;;;pleurent
 Indicatif Passé Composé;indicatif;;j’;;;ai pleuré;;tu ;;;as pleuré;;il/elle/on ;;;a pleuré;;nous ;;;avons pleuré;;vous ;;;avez pleuré;;ils/elles ;;;ont pleuré
 Indicatif Imparfait;indicatif;;je ;;;pleurais;;tu ;;;pleurais;;il/elle/on ;;;pleurait;;nous ;;;pleurions;;vous ;;;pleuriez;;ils/elles ;;;pleuraient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais pleuré;;tu ;;;avais pleuré;;il/elle/on ;;;avait pleuré;;nous ;;;avions pleuré;;vous ;;;aviez pleuré;;ils/elles ;;;avaient pleuré
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais pleuré;;tu ;;;avais pleuré;;il/elle/on ;;;avait pleuré;;nous ;;;avions pleuré;;vous ;;;aviez pleuré;;ils/elles ;;;avaient pleuré
 Indicatif Passé Simple;indicatif;;je ;;;pleurai;;tu ;;;pleuras;;il/elle/on ;;;pleura;;nous ;;;pleurâmes;;vous ;;;pleurâtes;;ils/elles ;;;pleurèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus pleuré;;tu ;;;eus pleuré;;il/elle/on ;;;eut pleuré;;nous ;;;eûmes pleuré;;vous ;;;eûtes pleuré;;ils/elles ;;;eurent pleuré
 Indicatif Futur Simple;indicatif;;je ;;;pleurerai;;tu ;;;pleureras;;il/elle/on ;;;pleurera;;nous ;;;pleurerons;;vous ;;;pleurerez;;ils/elles ;;;pleureront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai pleuré;;tu ;;;auras pleuré;
 Subjonctif Présent;subjonctif;que ;je ;;;pleure;que ;tu ;;;pleures;qu’;il/elle/on ;;;pleure;que ;nous ;;;pleurions;que ;vous ;;;pleuriez;qu’;ils/elles ;;;pleurent
 Subjonctif Passé;subjonctif;que ;j’;;;aie pleuré;que ;tu ;;;aies pleuré;qu’;il/elle/on ;;;ait pleuré;que ;nous ;;;ayons pleuré;que ;vous ;;;ayez pleuré;qu’;ils/elles ;;;aient pleuré
 Subjonctif Imparfait;subjonctif;que ;je ;;;pleurasse;que ;tu ;;;pleurasses;qu’;il/elle/on ;;;pleurât;que ;nous ;;;pleurassions;que ;vous ;;;pleurassiez;qu’;ils/elles ;;;pleurassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse pleuré;que ;tu ;;;eusses pleuré;qu’;il/elle/on ;;;eût pleuré;que ;nous ;;;eussions pleuré;que ;vous ;;;eussiez pleuré;qu’;ils/elles ;;;eussent pleuré
-Conditionnel;conditionnel;;je ;;;pleurerais;;tu ;;;pleurerais;;il/elle/on ;;;pleurerait;;nous ;;;pleurerions;;vous ;;;pleureriez;;ils/elles ;;;pleureraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse pleuré;que ;tu ;;;eusses pleuré;qu’;il/elle/on ;;;eût pleuré;que ;nous ;;;eussions pleuré;que ;vous ;;;eussiez pleuré;qu’;ils/elles ;;;eussent pleuré
+Conditionnel Présent;conditionnel;;je ;;;pleurerais;;tu ;;;pleurerais;;il/elle/on ;;;pleurerait;;nous ;;;pleurerions;;vous ;;;pleureriez;;ils/elles ;;;pleureraient
 Conditionnel Passé;conditionnel;;j’;;;aurais pleuré;;tu ;;;aurais pleuré;;il/elle/on ;;;aurait pleuré;;nous ;;;aurions pleuré;;vous ;;;auriez pleuré;;ils/elles ;;;auraient pleuré
 Impératif Présent;impératif;;;;;;;(tu) ;;;pleure;;;;;;;(nous) ;;;pleurons;;(vous) ;;;pleurez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie pleuré;;;;;;;(nous) ;;;ayons pleuré;;(vous) ;;;ayez pleuré;;;;;

@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;anglaiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir anglaisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;anglaiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir anglaisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en anglaisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant anglaisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;anglaisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;anglaisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;anglaise;;tu ;;;anglaises;;il/elle/on ;;;anglaise;;nous ;;;anglaisons;;vous ;;;anglaisez;;ils/elles ;;;anglaisent
 Indicatif Passé Composé;indicatif;;j’;;;ai anglaisé;;tu ;;;as anglaisé;;il/elle/on ;;;a anglaisé;;nous ;;;avons anglaisé;;vous ;;;avez anglaisé;;ils/elles ;;;ont anglaisé
 Indicatif Imparfait;indicatif;;j’;;;anglaisais;;tu ;;;anglaisais;;il/elle/on ;;;anglaisait;;nous ;;;anglaisions;;vous ;;;anglaisiez;;ils/elles ;;;anglaisaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais anglaisé;;tu ;;;avais anglaisé;;il/elle/on ;;;avait anglaisé;;nous ;;;avions anglaisé;;vous ;;;aviez anglaisé;;ils/elles ;;;avaient anglaisé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais anglaisé;;tu ;;;avais anglaisé;;il/elle/on ;;;avait anglaisé;;nous ;;;avions anglaisé;;vous ;;;aviez anglaisé;;ils/elles ;;;avaient anglaisé
 Indicatif Passé Simple;indicatif;;j’;;;anglaisai;;tu ;;;anglaisas;;il/elle/on ;;;anglaisa;;nous ;;;anglaisâmes;;vous ;;;anglaisâtes;;ils/elles ;;;anglaisèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus anglaisé;;tu ;;;eus anglaisé;;il/elle/on ;;;eut anglaisé;;nous ;;;eûmes anglaisé;;vous ;;;eûtes anglaisé;;ils/elles ;;;eurent anglaisé
 Indicatif Futur Simple;indicatif;;j’;;;anglaiserai;;tu ;;;anglaiseras;;il/elle/on ;;;anglaisera;;nous ;;;anglaiserons;;vous ;;;anglaiserez;;ils/elles ;;;anglaiseront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai anglaisé;;tu ;;;auras anglai
 Subjonctif Présent;subjonctif;que ;j’;;;anglaise;que ;tu ;;;anglaises;qu’;il/elle/on ;;;anglaise;que ;nous ;;;anglaisions;que ;vous ;;;anglaisiez;qu’;ils/elles ;;;anglaisent
 Subjonctif Passé;subjonctif;que ;j’;;;aie anglaisé;que ;tu ;;;aies anglaisé;qu’;il/elle/on ;;;ait anglaisé;que ;nous ;;;ayons anglaisé;que ;vous ;;;ayez anglaisé;qu’;ils/elles ;;;aient anglaisé
 Subjonctif Imparfait;subjonctif;que ;j’;;;anglaisasse;que ;tu ;;;anglaisasses;qu’;il/elle/on ;;;anglaisât;que ;nous ;;;anglaisassions;que ;vous ;;;anglaisassiez;qu’;ils/elles ;;;anglaisassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse anglaisé;que ;tu ;;;eusses anglaisé;qu’;il/elle/on ;;;eût anglaisé;que ;nous ;;;eussions anglaisé;que ;vous ;;;eussiez anglaisé;qu’;ils/elles ;;;eussent anglaisé
-Conditionnel;conditionnel;;j’;;;anglaiserais;;tu ;;;anglaiserais;;il/elle/on ;;;anglaiserait;;nous ;;;anglaiserions;;vous ;;;anglaiseriez;;ils/elles ;;;anglaiseraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse anglaisé;que ;tu ;;;eusses anglaisé;qu’;il/elle/on ;;;eût anglaisé;que ;nous ;;;eussions anglaisé;que ;vous ;;;eussiez anglaisé;qu’;ils/elles ;;;eussent anglaisé
+Conditionnel Présent;conditionnel;;j’;;;anglaiserais;;tu ;;;anglaiserais;;il/elle/on ;;;anglaiserait;;nous ;;;anglaiserions;;vous ;;;anglaiseriez;;ils/elles ;;;anglaiseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais anglaisé;;tu ;;;aurais anglaisé;;il/elle/on ;;;aurait anglaisé;;nous ;;;aurions anglaisé;;vous ;;;auriez anglaisé;;ils/elles ;;;auraient anglaisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;anglaise;;;;;;;(nous) ;;;anglaisons;;(vous) ;;;anglaisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie anglaisé;;;;;;;(nous) ;;;ayons anglaisé;;(vous) ;;;ayez anglaisé;;;;;

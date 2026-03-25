@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;parvenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;être parvenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;parvenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;être parvenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en parvenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en étant parvenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;parvenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;parvenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;parviens;;tu ;;;parviens;;il/elle/on ;;;parvient;;nous ;;;parvenons;;vous ;;;parvenez;;ils/elles ;;;parviennent
 Indicatif Passé Composé;indicatif;;je ;;;suis parvenu;;tu ;;;es parvenu;;il/elle/on ;;;est parvenu;;nous ;;;sommes parvenus;;vous ;;;êtes parvenus;;ils/elles ;;;sont parvenus
 Indicatif Imparfait;indicatif;;je ;;;parvenais;;tu ;;;parvenais;;il/elle/on ;;;parvenait;;nous ;;;parvenions;;vous ;;;parveniez;;ils/elles ;;;parvenaient
-Indicatif Plusqueparfait;indicatif;;j’;;;étais parvenu;;tu ;;;étais parvenu;;il/elle/on ;;;était parvenu;;nous ;;;étions parvenus;;vous ;;;étiez parvenus;;ils/elles ;;;étaient parvenus
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais parvenu;;tu ;;;étais parvenu;;il/elle/on ;;;était parvenu;;nous ;;;étions parvenus;;vous ;;;étiez parvenus;;ils/elles ;;;étaient parvenus
 Indicatif Passé Simple;indicatif;;je ;;;parvins;;tu ;;;parvins;;il/elle/on ;;;parvint;;nous ;;;parvînmes;;vous ;;;parvîntes;;ils/elles ;;;parvinrent
 Indicatif Passé Antérieur;indicatif;;je ;;;fus parvenu;;tu ;;;fus parvenu;;il/elle/on ;;;fut parvenu;;nous ;;;fûmes parvenus;;vous ;;;fûtes parvenus;;ils/elles ;;;furent parvenus
 Indicatif Futur Simple;indicatif;;je ;;;parviendrai;;tu ;;;parviendras;;il/elle/on ;;;parviendra;;nous ;;;parviendrons;;vous ;;;parviendrez;;ils/elles ;;;parviendront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;je ;;;serai parvenu;;tu ;;;seras parvenu;;
 Subjonctif Présent;subjonctif;que ;je ;;;parvienne;que ;tu ;;;parviennes;qu’;il/elle/on ;;;parvienne;que ;nous ;;;parvenions;que ;vous ;;;parveniez;qu’;ils/elles ;;;parviennent
 Subjonctif Passé;subjonctif;que ;je ;;;sois parvenu;que ;tu ;;;sois parvenu;qu’;il/elle/on ;;;soit parvenu;que ;nous ;;;soyons parvenus;que ;vous ;;;soyez parvenus;qu’;ils/elles ;;;soient parvenus
 Subjonctif Imparfait;subjonctif;que ;je ;;;parvinsse;que ;tu ;;;parvinsses;qu’;il/elle/on ;;;parvînt;que ;nous ;;;parvinssions;que ;vous ;;;parvinssiez;qu’;ils/elles ;;;parvinssent
-Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse parvenu;que ;tu ;;;fusses parvenu;qu’;il/elle/on ;;;fût parvenu;que ;nous ;;;fussions parvenus;que ;vous ;;;fussiez parvenus;qu’;ils/elles ;;;fussent parvenus
-Conditionnel;conditionnel;;je ;;;parviendrais;;tu ;;;parviendrais;;il/elle/on ;;;parviendrait;;nous ;;;parviendrions;;vous ;;;parviendriez;;ils/elles ;;;parviendraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse parvenu;que ;tu ;;;fusses parvenu;qu’;il/elle/on ;;;fût parvenu;que ;nous ;;;fussions parvenus;que ;vous ;;;fussiez parvenus;qu’;ils/elles ;;;fussent parvenus
+Conditionnel Présent;conditionnel;;je ;;;parviendrais;;tu ;;;parviendrais;;il/elle/on ;;;parviendrait;;nous ;;;parviendrions;;vous ;;;parviendriez;;ils/elles ;;;parviendraient
 Conditionnel Passé;conditionnel;;je ;;;serais parvenu;;tu ;;;serais parvenu;;il/elle/on ;;;serait parvenu;;nous ;;;serions parvenus;;vous ;;;seriez parvenus;;ils/elles ;;;seraient parvenus
 Impératif Présent;impératif;;;;;;;(tu) ;;;parviens;;;;;;;(nous) ;;;parvenons;;(vous) ;;;parvenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois parvenu;;;;;;;(nous) ;;;soyons parvenus;;(vous) ;;;soyez parvenus;;;;;

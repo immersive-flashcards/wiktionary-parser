@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;absterger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir abstergé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;absterger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir abstergé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en abstergeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant abstergé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;abstergeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;abstergé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;absterge;;tu ;;;absterges;;il/elle/on ;;;absterge;;nous ;;;abstergeons;;vous ;;;abstergez;;ils/elles ;;;abstergent
 Indicatif Passé Composé;indicatif;;j’;;;ai abstergé;;tu ;;;as abstergé;;il/elle/on ;;;a abstergé;;nous ;;;avons abstergé;;vous ;;;avez abstergé;;ils/elles ;;;ont abstergé
 Indicatif Imparfait;indicatif;;j’;;;abstergeais;;tu ;;;abstergeais;;il/elle/on ;;;abstergeait;;nous ;;;abstergions;;vous ;;;abstergiez;;ils/elles ;;;abstergeaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais abstergé;;tu ;;;avais abstergé;;il/elle/on ;;;avait abstergé;;nous ;;;avions abstergé;;vous ;;;aviez abstergé;;ils/elles ;;;avaient abstergé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais abstergé;;tu ;;;avais abstergé;;il/elle/on ;;;avait abstergé;;nous ;;;avions abstergé;;vous ;;;aviez abstergé;;ils/elles ;;;avaient abstergé
 Indicatif Passé Simple;indicatif;;j’;;;abstergeai;;tu ;;;abstergeas;;il/elle/on ;;;abstergea;;nous ;;;abstergeâmes;;vous ;;;abstergeâtes;;ils/elles ;;;abstergèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus abstergé;;tu ;;;eus abstergé;;il/elle/on ;;;eut abstergé;;nous ;;;eûmes abstergé;;vous ;;;eûtes abstergé;;ils/elles ;;;eurent abstergé
 Indicatif Futur Simple;indicatif;;j’;;;abstergerai;;tu ;;;abstergeras;;il/elle/on ;;;abstergera;;nous ;;;abstergerons;;vous ;;;abstergerez;;ils/elles ;;;abstergeront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai abstergé;;tu ;;;auras abster
 Subjonctif Présent;subjonctif;que ;j’;;;absterge;que ;tu ;;;absterges;qu’;il/elle/on ;;;absterge;que ;nous ;;;abstergions;que ;vous ;;;abstergiez;qu’;ils/elles ;;;abstergent
 Subjonctif Passé;subjonctif;que ;j’;;;aie abstergé;que ;tu ;;;aies abstergé;qu’;il/elle/on ;;;ait abstergé;que ;nous ;;;ayons abstergé;que ;vous ;;;ayez abstergé;qu’;ils/elles ;;;aient abstergé
 Subjonctif Imparfait;subjonctif;que ;j’;;;abstergeasse;que ;tu ;;;abstergeasses;qu’;il/elle/on ;;;abstergeât;que ;nous ;;;abstergeassions;que ;vous ;;;abstergeassiez;qu’;ils/elles ;;;abstergeassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse abstergé;que ;tu ;;;eusses abstergé;qu’;il/elle/on ;;;eût abstergé;que ;nous ;;;eussions abstergé;que ;vous ;;;eussiez abstergé;qu’;ils/elles ;;;eussent abstergé
-Conditionnel;conditionnel;;j’;;;abstergerais;;tu ;;;abstergerais;;il/elle/on ;;;abstergerait;;nous ;;;abstergerions;;vous ;;;abstergeriez;;ils/elles ;;;abstergeraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse abstergé;que ;tu ;;;eusses abstergé;qu’;il/elle/on ;;;eût abstergé;que ;nous ;;;eussions abstergé;que ;vous ;;;eussiez abstergé;qu’;ils/elles ;;;eussent abstergé
+Conditionnel Présent;conditionnel;;j’;;;abstergerais;;tu ;;;abstergerais;;il/elle/on ;;;abstergerait;;nous ;;;abstergerions;;vous ;;;abstergeriez;;ils/elles ;;;abstergeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais abstergé;;tu ;;;aurais abstergé;;il/elle/on ;;;aurait abstergé;;nous ;;;aurions abstergé;;vous ;;;auriez abstergé;;ils/elles ;;;auraient abstergé
 Impératif Présent;impératif;;;;;;;(tu) ;;;absterge;;;;;;;(nous) ;;;abstergeons;;(vous) ;;;abstergez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie abstergé;;;;;;;(nous) ;;;ayons abstergé;;(vous) ;;;ayez abstergé;;;;;

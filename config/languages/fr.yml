@@ -47,14 +47,14 @@ category_source:
   item: {key: "name"}  # items are dicts, take c["name"]
 
 forms:
-    "Infinitive Présent":
+    "Infinitif Présent":
       mode: "infinitif"
       type: "base_form"
       path:
         - "forms"
       tags: ["infinitive", "present"]
 
-    "Infinitive Passé":
+    "Infinitif Passé":
       mode: "infinitif"
       type: "base_form"
       path:
@@ -107,7 +107,7 @@ forms:
         - "forms"
       tags: ["indicative", "imperfect"]
 
-    "Indicatif Plusqueparfait":
+    "Indicatif Plus-Que-Parfait":
       mode: "indicatif"
       path:
         - "forms"
@@ -155,13 +155,13 @@ forms:
         - "forms"
       tags: ["subjunctive", "imperfect"]
 
-    "Subjonctif Plusqueparfait":
+    "Subjonctif Plus-Que-Parfait":
       mode: "subjonctif"
       path:
         - "forms"
       tags: ["subjunctive", "pluperfect"]
 
-    "Conditionnel":
+    "Conditionnel Présent":
       mode: "conditionnel"
       path:
         - "forms"

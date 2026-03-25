@@ -137,7 +137,7 @@ def _get_auxiliary(lang_cfg: LanguageConfig, rows: list[dict[str, Any]]) -> str:
     aux_config = lang_cfg.meta_data.get("auxiliary")
 
     if aux_config == "french":  # can be either 'avoir' or 'être'
-        inf_passe = next(r for r in rows if r.get("key") == "Infinitive Passé").get("conjunction-1")
+        inf_passe = next(r for r in rows if r.get("key") == "Infinitif Passé").get("conjunction-1")
         return inf_passe.split(" ")[0].split("’")[-1]
 
     if isinstance(aux_config, str):  # Spanish, Catalan, etc.

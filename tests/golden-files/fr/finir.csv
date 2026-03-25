@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;finir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir fini;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;finir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir fini;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en finissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant fini;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;finissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;fini;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;finis;;tu ;;;finis;;il/elle/on ;;;finit;;nous ;;;finissons;;vous ;;;finissez;;ils/elles ;;;finissent
 Indicatif Passé Composé;indicatif;;j’;;;ai fini;;tu ;;;as fini;;il/elle/on ;;;a fini;;nous ;;;avons fini;;vous ;;;avez fini;;ils/elles ;;;ont fini
 Indicatif Imparfait;indicatif;;je ;;;finissais;;tu ;;;finissais;;il/elle/on ;;;finissait;;nous ;;;finissions;;vous ;;;finissiez;;ils/elles ;;;finissaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais fini;;tu ;;;avais fini;;il/elle/on ;;;avait fini;;nous ;;;avions fini;;vous ;;;aviez fini;;ils/elles ;;;avaient fini
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais fini;;tu ;;;avais fini;;il/elle/on ;;;avait fini;;nous ;;;avions fini;;vous ;;;aviez fini;;ils/elles ;;;avaient fini
 Indicatif Passé Simple;indicatif;;je ;;;finis;;tu ;;;finis;;il/elle/on ;;;finit;;nous ;;;finîmes;;vous ;;;finîtes;;ils/elles ;;;finirent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus fini;;tu ;;;eus fini;;il/elle/on ;;;eut fini;;nous ;;;eûmes fini;;vous ;;;eûtes fini;;ils/elles ;;;eurent fini
 Indicatif Futur Simple;indicatif;;je ;;;finirai;;tu ;;;finiras;;il/elle/on ;;;finira;;nous ;;;finirons;;vous ;;;finirez;;ils/elles ;;;finiront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai fini;;tu ;;;auras fini;;il/el
 Subjonctif Présent;subjonctif;que ;je ;;;finisse;que ;tu ;;;finisses;qu’;il/elle/on ;;;finisse;que ;nous ;;;finissions;que ;vous ;;;finissiez;qu’;ils/elles ;;;finissent
 Subjonctif Passé;subjonctif;que ;j’;;;aie fini;que ;tu ;;;aies fini;qu’;il/elle/on ;;;ait fini;que ;nous ;;;ayons fini;que ;vous ;;;ayez fini;qu’;ils/elles ;;;aient fini
 Subjonctif Imparfait;subjonctif;que ;je ;;;finisse;que ;tu ;;;finisses;qu’;il/elle/on ;;;finît;que ;nous ;;;finissions;que ;vous ;;;finissiez;qu’;ils/elles ;;;finissent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fini;que ;tu ;;;eusses fini;qu’;il/elle/on ;;;eût fini;que ;nous ;;;eussions fini;que ;vous ;;;eussiez fini;qu’;ils/elles ;;;eussent fini
-Conditionnel;conditionnel;;je ;;;finirais;;tu ;;;finirais;;il/elle/on ;;;finirait;;nous ;;;finirions;;vous ;;;finiriez;;ils/elles ;;;finiraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse fini;que ;tu ;;;eusses fini;qu’;il/elle/on ;;;eût fini;que ;nous ;;;eussions fini;que ;vous ;;;eussiez fini;qu’;ils/elles ;;;eussent fini
+Conditionnel Présent;conditionnel;;je ;;;finirais;;tu ;;;finirais;;il/elle/on ;;;finirait;;nous ;;;finirions;;vous ;;;finiriez;;ils/elles ;;;finiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fini;;tu ;;;aurais fini;;il/elle/on ;;;aurait fini;;nous ;;;aurions fini;;vous ;;;auriez fini;;ils/elles ;;;auraient fini
 Impératif Présent;impératif;;;;;;;(tu) ;;;finis;;;;;;;(nous) ;;;finissons;;(vous) ;;;finissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fini;;;;;;;(nous) ;;;ayons fini;;(vous) ;;;ayez fini;;;;;

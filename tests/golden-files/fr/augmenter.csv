@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;augmenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir augmenté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;augmenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir augmenté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en augmentant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant augmenté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;augmentant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;augmenté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;augmente;;tu ;;;augmentes;;il/elle/on ;;;augmente;;nous ;;;augmentons;;vous ;;;augmentez;;ils/elles ;;;augmentent
 Indicatif Passé Composé;indicatif;;j’;;;ai augmenté;;tu ;;;as augmenté;;il/elle/on ;;;a augmenté;;nous ;;;avons augmenté;;vous ;;;avez augmenté;;ils/elles ;;;ont augmenté
 Indicatif Imparfait;indicatif;;j’;;;augmentais;;tu ;;;augmentais;;il/elle/on ;;;augmentait;;nous ;;;augmentions;;vous ;;;augmentiez;;ils/elles ;;;augmentaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais augmenté;;tu ;;;avais augmenté;;il/elle/on ;;;avait augmenté;;nous ;;;avions augmenté;;vous ;;;aviez augmenté;;ils/elles ;;;avaient augmenté
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais augmenté;;tu ;;;avais augmenté;;il/elle/on ;;;avait augmenté;;nous ;;;avions augmenté;;vous ;;;aviez augmenté;;ils/elles ;;;avaient augmenté
 Indicatif Passé Simple;indicatif;;j’;;;augmentai;;tu ;;;augmentas;;il/elle/on ;;;augmenta;;nous ;;;augmentâmes;;vous ;;;augmentâtes;;ils/elles ;;;augmentèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus augmenté;;tu ;;;eus augmenté;;il/elle/on ;;;eut augmenté;;nous ;;;eûmes augmenté;;vous ;;;eûtes augmenté;;ils/elles ;;;eurent augmenté
 Indicatif Futur Simple;indicatif;;j’;;;augmenterai;;tu ;;;augmenteras;;il/elle/on ;;;augmentera;;nous ;;;augmenterons;;vous ;;;augmenterez;;ils/elles ;;;augmenteront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai augmenté;;tu ;;;auras augmen
 Subjonctif Présent;subjonctif;que ;j’;;;augmente;que ;tu ;;;augmentes;qu’;il/elle/on ;;;augmente;que ;nous ;;;augmentions;que ;vous ;;;augmentiez;qu’;ils/elles ;;;augmentent
 Subjonctif Passé;subjonctif;que ;j’;;;aie augmenté;que ;tu ;;;aies augmenté;qu’;il/elle/on ;;;ait augmenté;que ;nous ;;;ayons augmenté;que ;vous ;;;ayez augmenté;qu’;ils/elles ;;;aient augmenté
 Subjonctif Imparfait;subjonctif;que ;j’;;;augmentasse;que ;tu ;;;augmentasses;qu’;il/elle/on ;;;augmentât;que ;nous ;;;augmentassions;que ;vous ;;;augmentassiez;qu’;ils/elles ;;;augmentassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse augmenté;que ;tu ;;;eusses augmenté;qu’;il/elle/on ;;;eût augmenté;que ;nous ;;;eussions augmenté;que ;vous ;;;eussiez augmenté;qu’;ils/elles ;;;eussent augmenté
-Conditionnel;conditionnel;;j’;;;augmenterais;;tu ;;;augmenterais;;il/elle/on ;;;augmenterait;;nous ;;;augmenterions;;vous ;;;augmenteriez;;ils/elles ;;;augmenteraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse augmenté;que ;tu ;;;eusses augmenté;qu’;il/elle/on ;;;eût augmenté;que ;nous ;;;eussions augmenté;que ;vous ;;;eussiez augmenté;qu’;ils/elles ;;;eussent augmenté
+Conditionnel Présent;conditionnel;;j’;;;augmenterais;;tu ;;;augmenterais;;il/elle/on ;;;augmenterait;;nous ;;;augmenterions;;vous ;;;augmenteriez;;ils/elles ;;;augmenteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais augmenté;;tu ;;;aurais augmenté;;il/elle/on ;;;aurait augmenté;;nous ;;;aurions augmenté;;vous ;;;auriez augmenté;;ils/elles ;;;auraient augmenté
 Impératif Présent;impératif;;;;;;;(tu) ;;;augmente;;;;;;;(nous) ;;;augmentons;;(vous) ;;;augmentez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie augmenté;;;;;;;(nous) ;;;ayons augmenté;;(vous) ;;;ayez augmenté;;;;;

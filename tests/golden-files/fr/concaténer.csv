@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;concaténer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir concaténé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;concaténer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir concaténé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en concaténant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant concaténé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;concaténant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;concaténé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;concatène;;tu ;;;concatènes;;il/elle/on ;;;concatène;;nous ;;;concaténons;;vous ;;;concaténez;;ils/elles ;;;concatènent
 Indicatif Passé Composé;indicatif;;j’;;;ai concaténé;;tu ;;;as concaténé;;il/elle/on ;;;a concaténé;;nous ;;;avons concaténé;;vous ;;;avez concaténé;;ils/elles ;;;ont concaténé
 Indicatif Imparfait;indicatif;;je ;;;concaténais;;tu ;;;concaténais;;il/elle/on ;;;concaténait;;nous ;;;concaténions;;vous ;;;concaténiez;;ils/elles ;;;concaténaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais concaténé;;tu ;;;avais concaténé;;il/elle/on ;;;avait concaténé;;nous ;;;avions concaténé;;vous ;;;aviez concaténé;;ils/elles ;;;avaient concaténé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais concaténé;;tu ;;;avais concaténé;;il/elle/on ;;;avait concaténé;;nous ;;;avions concaténé;;vous ;;;aviez concaténé;;ils/elles ;;;avaient concaténé
 Indicatif Passé Simple;indicatif;;je ;;;concaténai;;tu ;;;concaténas;;il/elle/on ;;;concaténa;;nous ;;;concaténâmes;;vous ;;;concaténâtes;;ils/elles ;;;concaténèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus concaténé;;tu ;;;eus concaténé;;il/elle/on ;;;eut concaténé;;nous ;;;eûmes concaténé;;vous ;;;eûtes concaténé;;ils/elles ;;;eurent concaténé
 Indicatif Futur Simple;indicatif;;je ;;;concaténerai / concatènerai;;tu ;;;concaténeras / concatèneras;;il/elle/on ;;;concaténera / concatènera;;nous ;;;concaténerons / concatènerons;;vous ;;;concaténerez / concatènerez;;ils/elles ;;;concaténeront / concatèneront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai concaténé;;tu ;;;auras conc
 Subjonctif Présent;subjonctif;que ;je ;;;concatène;que ;tu ;;;concatènes;qu’;il/elle/on ;;;concatène;que ;nous ;;;concaténions;que ;vous ;;;concaténiez;qu’;ils/elles ;;;concatènent
 Subjonctif Passé;subjonctif;que ;j’;;;aie concaténé;que ;tu ;;;aies concaténé;qu’;il/elle/on ;;;ait concaténé;que ;nous ;;;ayons concaténé;que ;vous ;;;ayez concaténé;qu’;ils/elles ;;;aient concaténé
 Subjonctif Imparfait;subjonctif;que ;je ;;;concaténasse;que ;tu ;;;concaténasses;qu’;il/elle/on ;;;concaténât;que ;nous ;;;concaténassions;que ;vous ;;;concaténassiez;qu’;ils/elles ;;;concaténassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse concaténé;que ;tu ;;;eusses concaténé;qu’;il/elle/on ;;;eût concaténé;que ;nous ;;;eussions concaténé;que ;vous ;;;eussiez concaténé;qu’;ils/elles ;;;eussent concaténé
-Conditionnel;conditionnel;;je ;;;concaténerais / concatènerais;;tu ;;;concaténerais / concatènerais;;il/elle/on ;;;concaténerait / concatènerait;;nous ;;;concaténerions / concatènerions;;vous ;;;concaténeriez / concatèneriez;;ils/elles ;;;concaténeraient / concatèneraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse concaténé;que ;tu ;;;eusses concaténé;qu’;il/elle/on ;;;eût concaténé;que ;nous ;;;eussions concaténé;que ;vous ;;;eussiez concaténé;qu’;ils/elles ;;;eussent concaténé
+Conditionnel Présent;conditionnel;;je ;;;concaténerais / concatènerais;;tu ;;;concaténerais / concatènerais;;il/elle/on ;;;concaténerait / concatènerait;;nous ;;;concaténerions / concatènerions;;vous ;;;concaténeriez / concatèneriez;;ils/elles ;;;concaténeraient / concatèneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais concaténé;;tu ;;;aurais concaténé;;il/elle/on ;;;aurait concaténé;;nous ;;;aurions concaténé;;vous ;;;auriez concaténé;;ils/elles ;;;auraient concaténé
 Impératif Présent;impératif;;;;;;;(tu) ;;;concatène;;;;;;;(nous) ;;;concaténons;;(vous) ;;;concaténez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie concaténé;;;;;;;(nous) ;;;ayons concaténé;;(vous) ;;;ayez concaténé;;;;;

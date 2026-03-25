@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;gronder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir grondé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;gronder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir grondé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en grondant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant grondé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;grondant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;grondé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;gronde;;tu ;;;grondes;;il/elle/on ;;;gronde;;nous ;;;grondons;;vous ;;;grondez;;ils/elles ;;;grondent
 Indicatif Passé Composé;indicatif;;j’;;;ai grondé;;tu ;;;as grondé;;il/elle/on ;;;a grondé;;nous ;;;avons grondé;;vous ;;;avez grondé;;ils/elles ;;;ont grondé
 Indicatif Imparfait;indicatif;;je ;;;grondais;;tu ;;;grondais;;il/elle/on ;;;grondait;;nous ;;;grondions;;vous ;;;grondiez;;ils/elles ;;;grondaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais grondé;;tu ;;;avais grondé;;il/elle/on ;;;avait grondé;;nous ;;;avions grondé;;vous ;;;aviez grondé;;ils/elles ;;;avaient grondé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais grondé;;tu ;;;avais grondé;;il/elle/on ;;;avait grondé;;nous ;;;avions grondé;;vous ;;;aviez grondé;;ils/elles ;;;avaient grondé
 Indicatif Passé Simple;indicatif;;je ;;;grondai;;tu ;;;grondas;;il/elle/on ;;;gronda;;nous ;;;grondâmes;;vous ;;;grondâtes;;ils/elles ;;;grondèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus grondé;;tu ;;;eus grondé;;il/elle/on ;;;eut grondé;;nous ;;;eûmes grondé;;vous ;;;eûtes grondé;;ils/elles ;;;eurent grondé
 Indicatif Futur Simple;indicatif;;je ;;;gronderai;;tu ;;;gronderas;;il/elle/on ;;;grondera;;nous ;;;gronderons;;vous ;;;gronderez;;ils/elles ;;;gronderont
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai grondé;;tu ;;;auras grondé;
 Subjonctif Présent;subjonctif;que ;je ;;;gronde;que ;tu ;;;grondes;qu’;il/elle/on ;;;gronde;que ;nous ;;;grondions;que ;vous ;;;grondiez;qu’;ils/elles ;;;grondent
 Subjonctif Passé;subjonctif;que ;j’;;;aie grondé;que ;tu ;;;aies grondé;qu’;il/elle/on ;;;ait grondé;que ;nous ;;;ayons grondé;que ;vous ;;;ayez grondé;qu’;ils/elles ;;;aient grondé
 Subjonctif Imparfait;subjonctif;que ;je ;;;grondasse;que ;tu ;;;grondasses;qu’;il/elle/on ;;;grondât;que ;nous ;;;grondassions;que ;vous ;;;grondassiez;qu’;ils/elles ;;;grondassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse grondé;que ;tu ;;;eusses grondé;qu’;il/elle/on ;;;eût grondé;que ;nous ;;;eussions grondé;que ;vous ;;;eussiez grondé;qu’;ils/elles ;;;eussent grondé
-Conditionnel;conditionnel;;je ;;;gronderais;;tu ;;;gronderais;;il/elle/on ;;;gronderait;;nous ;;;gronderions;;vous ;;;gronderiez;;ils/elles ;;;gronderaient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse grondé;que ;tu ;;;eusses grondé;qu’;il/elle/on ;;;eût grondé;que ;nous ;;;eussions grondé;que ;vous ;;;eussiez grondé;qu’;ils/elles ;;;eussent grondé
+Conditionnel Présent;conditionnel;;je ;;;gronderais;;tu ;;;gronderais;;il/elle/on ;;;gronderait;;nous ;;;gronderions;;vous ;;;gronderiez;;ils/elles ;;;gronderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais grondé;;tu ;;;aurais grondé;;il/elle/on ;;;aurait grondé;;nous ;;;aurions grondé;;vous ;;;auriez grondé;;ils/elles ;;;auraient grondé
 Impératif Présent;impératif;;;;;;;(tu) ;;;gronde;;;;;;;(nous) ;;;grondons;;(vous) ;;;grondez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie grondé;;;;;;;(nous) ;;;ayons grondé;;(vous) ;;;ayez grondé;;;;;

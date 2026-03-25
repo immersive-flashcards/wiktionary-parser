@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;désobéir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir désobéi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;désobéir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir désobéi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en désobéissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant désobéi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;désobéissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;désobéi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;désobéis;;tu ;;;désobéis;;il/elle/on ;;;désobéit;;nous ;;;désobéissons;;vous ;;;désobéissez;;ils/elles ;;;désobéissent
 Indicatif Passé Composé;indicatif;;j’;;;ai désobéi;;tu ;;;as désobéi;;il/elle/on ;;;a désobéi;;nous ;;;avons désobéi;;vous ;;;avez désobéi;;ils/elles ;;;ont désobéi
 Indicatif Imparfait;indicatif;;je ;;;désobéissais;;tu ;;;désobéissais;;il/elle/on ;;;désobéissait;;nous ;;;désobéissions;;vous ;;;désobéissiez;;ils/elles ;;;désobéissaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais désobéi;;tu ;;;avais désobéi;;il/elle/on ;;;avait désobéi;;nous ;;;avions désobéi;;vous ;;;aviez désobéi;;ils/elles ;;;avaient désobéi
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais désobéi;;tu ;;;avais désobéi;;il/elle/on ;;;avait désobéi;;nous ;;;avions désobéi;;vous ;;;aviez désobéi;;ils/elles ;;;avaient désobéi
 Indicatif Passé Simple;indicatif;;je ;;;désobéis;;tu ;;;désobéis;;il/elle/on ;;;désobéit;;nous ;;;désobéîmes;;vous ;;;désobéîtes;;ils/elles ;;;désobéirent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus désobéi;;tu ;;;eus désobéi;;il/elle/on ;;;eut désobéi;;nous ;;;eûmes désobéi;;vous ;;;eûtes désobéi;;ils/elles ;;;eurent désobéi
 Indicatif Futur Simple;indicatif;;je ;;;désobéirai;;tu ;;;désobéiras;;il/elle/on ;;;désobéira;;nous ;;;désobéirons;;vous ;;;désobéirez;;ils/elles ;;;désobéiront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai désobéi;;tu ;;;auras désob
 Subjonctif Présent;subjonctif;que ;je ;;;désobéisse;que ;tu ;;;désobéisses;qu’;il/elle/on ;;;désobéisse;que ;nous ;;;désobéissions;que ;vous ;;;désobéissiez;qu’;ils/elles ;;;désobéissent
 Subjonctif Passé;subjonctif;que ;j’;;;aie désobéi;que ;tu ;;;aies désobéi;qu’;il/elle/on ;;;ait désobéi;que ;nous ;;;ayons désobéi;que ;vous ;;;ayez désobéi;qu’;ils/elles ;;;aient désobéi
 Subjonctif Imparfait;subjonctif;que ;je ;;;désobéisse;que ;tu ;;;désobéisses;qu’;il/elle/on ;;;désobéît;que ;nous ;;;désobéissions;que ;vous ;;;désobéissiez;qu’;ils/elles ;;;désobéissent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse désobéi;que ;tu ;;;eusses désobéi;qu’;il/elle/on ;;;eût désobéi;que ;nous ;;;eussions désobéi;que ;vous ;;;eussiez désobéi;qu’;ils/elles ;;;eussent désobéi
-Conditionnel;conditionnel;;je ;;;désobéirais;;tu ;;;désobéirais;;il/elle/on ;;;désobéirait;;nous ;;;désobéirions;;vous ;;;désobéiriez;;ils/elles ;;;désobéiraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse désobéi;que ;tu ;;;eusses désobéi;qu’;il/elle/on ;;;eût désobéi;que ;nous ;;;eussions désobéi;que ;vous ;;;eussiez désobéi;qu’;ils/elles ;;;eussent désobéi
+Conditionnel Présent;conditionnel;;je ;;;désobéirais;;tu ;;;désobéirais;;il/elle/on ;;;désobéirait;;nous ;;;désobéirions;;vous ;;;désobéiriez;;ils/elles ;;;désobéiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais désobéi;;tu ;;;aurais désobéi;;il/elle/on ;;;aurait désobéi;;nous ;;;aurions désobéi;;vous ;;;auriez désobéi;;ils/elles ;;;auraient désobéi
 Impératif Présent;impératif;;;;;;;(tu) ;;;désobéis;;;;;;;(nous) ;;;désobéissons;;(vous) ;;;désobéissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie désobéi;;;;;;;(nous) ;;;ayons désobéi;;(vous) ;;;ayez désobéi;;;;;

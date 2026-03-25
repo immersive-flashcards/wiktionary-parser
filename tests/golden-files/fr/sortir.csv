@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;sortir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;être sorti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;sortir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;être sorti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en sortant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en étant sorti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;sortant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;sorti;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;sors;;tu ;;;sors;;il/elle/on ;;;sort;;nous ;;;sortons;;vous ;;;sortez;;ils/elles ;;;sortent
 Indicatif Passé Composé;indicatif;;je ;;;suis sorti;;tu ;;;es sorti;;il/elle/on ;;;est sorti;;nous ;;;sommes sortis;;vous ;;;êtes sortis;;ils/elles ;;;sont sortis
 Indicatif Imparfait;indicatif;;je ;;;sortais;;tu ;;;sortais;;il/elle/on ;;;sortait;;nous ;;;sortions;;vous ;;;sortiez;;ils/elles ;;;sortaient
-Indicatif Plusqueparfait;indicatif;;j’;;;étais sorti;;tu ;;;étais sorti;;il/elle/on ;;;était sorti;;nous ;;;étions sortis;;vous ;;;étiez sortis;;ils/elles ;;;étaient sortis
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais sorti;;tu ;;;étais sorti;;il/elle/on ;;;était sorti;;nous ;;;étions sortis;;vous ;;;étiez sortis;;ils/elles ;;;étaient sortis
 Indicatif Passé Simple;indicatif;;je ;;;sortis;;tu ;;;sortis;;il/elle/on ;;;sortit;;nous ;;;sortîmes;;vous ;;;sortîtes;;ils/elles ;;;sortirent
 Indicatif Passé Antérieur;indicatif;;je ;;;fus sorti;;tu ;;;fus sorti;;il/elle/on ;;;fut sorti;;nous ;;;fûmes sortis;;vous ;;;fûtes sortis;;ils/elles ;;;furent sortis
 Indicatif Futur Simple;indicatif;;je ;;;sortirai;;tu ;;;sortiras;;il/elle/on ;;;sortira;;nous ;;;sortirons;;vous ;;;sortirez;;ils/elles ;;;sortiront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;je ;;;serai sorti;;tu ;;;seras sorti;;il/e
 Subjonctif Présent;subjonctif;que ;je ;;;sorte;que ;tu ;;;sortes;qu’;il/elle/on ;;;sorte;que ;nous ;;;sortions;que ;vous ;;;sortiez;qu’;ils/elles ;;;sortent
 Subjonctif Passé;subjonctif;que ;je ;;;sois sorti;que ;tu ;;;sois sorti;qu’;il/elle/on ;;;soit sorti;que ;nous ;;;soyons sortis;que ;vous ;;;soyez sortis;qu’;ils/elles ;;;soient sortis
 Subjonctif Imparfait;subjonctif;que ;je ;;;sortisse;que ;tu ;;;sortisses;qu’;il/elle/on ;;;sortît;que ;nous ;;;sortissions;que ;vous ;;;sortissiez;qu’;ils/elles ;;;sortissent
-Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse sorti;que ;tu ;;;fusses sorti;qu’;il/elle/on ;;;fût sorti;que ;nous ;;;fussions sortis;que ;vous ;;;fussiez sortis;qu’;ils/elles ;;;fussent sortis
-Conditionnel;conditionnel;;je ;;;sortirais;;tu ;;;sortirais;;il/elle/on ;;;sortirait;;nous ;;;sortirions;;vous ;;;sortiriez;;ils/elles ;;;sortiraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse sorti;que ;tu ;;;fusses sorti;qu’;il/elle/on ;;;fût sorti;que ;nous ;;;fussions sortis;que ;vous ;;;fussiez sortis;qu’;ils/elles ;;;fussent sortis
+Conditionnel Présent;conditionnel;;je ;;;sortirais;;tu ;;;sortirais;;il/elle/on ;;;sortirait;;nous ;;;sortirions;;vous ;;;sortiriez;;ils/elles ;;;sortiraient
 Conditionnel Passé;conditionnel;;je ;;;serais sorti;;tu ;;;serais sorti;;il/elle/on ;;;serait sorti;;nous ;;;serions sortis;;vous ;;;seriez sortis;;ils/elles ;;;seraient sortis
 Impératif Présent;impératif;;;;;;;(tu) ;;;sors;;;;;;;(nous) ;;;sortons;;(vous) ;;;sortez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois sorti;;;;;;;(nous) ;;;soyons sortis;;(vous) ;;;soyez sortis;;;;;

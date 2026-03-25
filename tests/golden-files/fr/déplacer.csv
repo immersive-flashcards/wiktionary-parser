@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;déplacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir déplacé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;déplacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir déplacé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en déplaçant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant déplacé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;déplaçant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;déplacé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;déplace;;tu ;;;déplaces;;il/elle/on ;;;déplace;;nous ;;;déplaçons;;vous ;;;déplacez;;ils/elles ;;;déplacent
 Indicatif Passé Composé;indicatif;;j’;;;ai déplacé;;tu ;;;as déplacé;;il/elle/on ;;;a déplacé;;nous ;;;avons déplacé;;vous ;;;avez déplacé;;ils/elles ;;;ont déplacé
 Indicatif Imparfait;indicatif;;je ;;;déplaçais;;tu ;;;déplaçais;;il/elle/on ;;;déplaçait;;nous ;;;déplacions;;vous ;;;déplaciez;;ils/elles ;;;déplaçaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais déplacé;;tu ;;;avais déplacé;;il/elle/on ;;;avait déplacé;;nous ;;;avions déplacé;;vous ;;;aviez déplacé;;ils/elles ;;;avaient déplacé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais déplacé;;tu ;;;avais déplacé;;il/elle/on ;;;avait déplacé;;nous ;;;avions déplacé;;vous ;;;aviez déplacé;;ils/elles ;;;avaient déplacé
 Indicatif Passé Simple;indicatif;;je ;;;déplaçai;;tu ;;;déplaças;;il/elle/on ;;;déplaça;;nous ;;;déplaçâmes;;vous ;;;déplaçâtes;;ils/elles ;;;déplacèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus déplacé;;tu ;;;eus déplacé;;il/elle/on ;;;eut déplacé;;nous ;;;eûmes déplacé;;vous ;;;eûtes déplacé;;ils/elles ;;;eurent déplacé
 Indicatif Futur Simple;indicatif;;je ;;;déplacerai;;tu ;;;déplaceras;;il/elle/on ;;;déplacera;;nous ;;;déplacerons;;vous ;;;déplacerez;;ils/elles ;;;déplaceront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai déplacé;;tu ;;;auras dépla
 Subjonctif Présent;subjonctif;que ;je ;;;déplace;que ;tu ;;;déplaces;qu’;il/elle/on ;;;déplace;que ;nous ;;;déplacions;que ;vous ;;;déplaciez;qu’;ils/elles ;;;déplacent
 Subjonctif Passé;subjonctif;que ;j’;;;aie déplacé;que ;tu ;;;aies déplacé;qu’;il/elle/on ;;;ait déplacé;que ;nous ;;;ayons déplacé;que ;vous ;;;ayez déplacé;qu’;ils/elles ;;;aient déplacé
 Subjonctif Imparfait;subjonctif;que ;je ;;;déplaçasse;que ;tu ;;;déplaçasses;qu’;il/elle/on ;;;déplaçât;que ;nous ;;;déplaçassions;que ;vous ;;;déplaçassiez;qu’;ils/elles ;;;déplaçassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse déplacé;que ;tu ;;;eusses déplacé;qu’;il/elle/on ;;;eût déplacé;que ;nous ;;;eussions déplacé;que ;vous ;;;eussiez déplacé;qu’;ils/elles ;;;eussent déplacé
-Conditionnel;conditionnel;;je ;;;déplacerais;;tu ;;;déplacerais;;il/elle/on ;;;déplacerait;;nous ;;;déplacerions;;vous ;;;déplaceriez;;ils/elles ;;;déplaceraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse déplacé;que ;tu ;;;eusses déplacé;qu’;il/elle/on ;;;eût déplacé;que ;nous ;;;eussions déplacé;que ;vous ;;;eussiez déplacé;qu’;ils/elles ;;;eussent déplacé
+Conditionnel Présent;conditionnel;;je ;;;déplacerais;;tu ;;;déplacerais;;il/elle/on ;;;déplacerait;;nous ;;;déplacerions;;vous ;;;déplaceriez;;ils/elles ;;;déplaceraient
 Conditionnel Passé;conditionnel;;j’;;;aurais déplacé;;tu ;;;aurais déplacé;;il/elle/on ;;;aurait déplacé;;nous ;;;aurions déplacé;;vous ;;;auriez déplacé;;ils/elles ;;;auraient déplacé
 Impératif Présent;impératif;;;;;;;(tu) ;;;déplace;;;;;;;(nous) ;;;déplaçons;;(vous) ;;;déplacez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie déplacé;;;;;;;(nous) ;;;ayons déplacé;;(vous) ;;;ayez déplacé;;;;;

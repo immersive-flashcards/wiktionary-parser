@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;aimer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir aimé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;aimer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir aimé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en aimant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant aimé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;aimant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;aimé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;aime;;tu ;;;aimes;;il/elle/on ;;;aime;;nous ;;;aimons;;vous ;;;aimez;;ils/elles ;;;aiment
 Indicatif Passé Composé;indicatif;;j’;;;ai aimé;;tu ;;;as aimé;;il/elle/on ;;;a aimé;;nous ;;;avons aimé;;vous ;;;avez aimé;;ils/elles ;;;ont aimé
 Indicatif Imparfait;indicatif;;j’;;;aimais;;tu ;;;aimais;;il/elle/on ;;;aimait;;nous ;;;aimions;;vous ;;;aimiez;;ils/elles ;;;aimaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais aimé;;tu ;;;avais aimé;;il/elle/on ;;;avait aimé;;nous ;;;avions aimé;;vous ;;;aviez aimé;;ils/elles ;;;avaient aimé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais aimé;;tu ;;;avais aimé;;il/elle/on ;;;avait aimé;;nous ;;;avions aimé;;vous ;;;aviez aimé;;ils/elles ;;;avaient aimé
 Indicatif Passé Simple;indicatif;;j’;;;aimai;;tu ;;;aimas;;il/elle/on ;;;aima;;nous ;;;aimâmes;;vous ;;;aimâtes;;ils/elles ;;;aimèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus aimé;;tu ;;;eus aimé;;il/elle/on ;;;eut aimé;;nous ;;;eûmes aimé;;vous ;;;eûtes aimé;;ils/elles ;;;eurent aimé
 Indicatif Futur Simple;indicatif;;j’;;;aimerai;;tu ;;;aimeras;;il/elle/on ;;;aimera;;nous ;;;aimerons;;vous ;;;aimerez;;ils/elles ;;;aimeront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai aimé;;tu ;;;auras aimé;;il/
 Subjonctif Présent;subjonctif;que ;j’;;;aime;que ;tu ;;;aimes;qu’;il/elle/on ;;;aime;que ;nous ;;;aimions;que ;vous ;;;aimiez;qu’;ils/elles ;;;aiment
 Subjonctif Passé;subjonctif;que ;j’;;;aie aimé;que ;tu ;;;aies aimé;qu’;il/elle/on ;;;ait aimé;que ;nous ;;;ayons aimé;que ;vous ;;;ayez aimé;qu’;ils/elles ;;;aient aimé
 Subjonctif Imparfait;subjonctif;que ;j’;;;aimasse;que ;tu ;;;aimasses;qu’;il/elle/on ;;;aimât;que ;nous ;;;aimassions;que ;vous ;;;aimassiez;qu’;ils/elles ;;;aimassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse aimé;que ;tu ;;;eusses aimé;qu’;il/elle/on ;;;eût aimé;que ;nous ;;;eussions aimé;que ;vous ;;;eussiez aimé;qu’;ils/elles ;;;eussent aimé
-Conditionnel;conditionnel;;j’;;;aimerais;;tu ;;;aimerais;;il/elle/on ;;;aimerait;;nous ;;;aimerions;;vous ;;;aimeriez;;ils/elles ;;;aimeraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse aimé;que ;tu ;;;eusses aimé;qu’;il/elle/on ;;;eût aimé;que ;nous ;;;eussions aimé;que ;vous ;;;eussiez aimé;qu’;ils/elles ;;;eussent aimé
+Conditionnel Présent;conditionnel;;j’;;;aimerais;;tu ;;;aimerais;;il/elle/on ;;;aimerait;;nous ;;;aimerions;;vous ;;;aimeriez;;ils/elles ;;;aimeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais aimé;;tu ;;;aurais aimé;;il/elle/on ;;;aurait aimé;;nous ;;;aurions aimé;;vous ;;;auriez aimé;;ils/elles ;;;auraient aimé
 Impératif Présent;impératif;;;;;;;(tu) ;;;aime;;;;;;;(nous) ;;;aimons;;(vous) ;;;aimez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie aimé;;;;;;;(nous) ;;;ayons aimé;;(vous) ;;;ayez aimé;;;;;

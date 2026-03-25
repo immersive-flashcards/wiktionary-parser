@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;rendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir rendu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;rendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir rendu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en rendant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant rendu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;rendant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;rendu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;rends;;tu ;;;rends;;il/elle/on ;;;rend;;nous ;;;rendons;;vous ;;;rendez;;ils/elles ;;;rendent
 Indicatif Passé Composé;indicatif;;j’;;;ai rendu;;tu ;;;as rendu;;il/elle/on ;;;a rendu;;nous ;;;avons rendu;;vous ;;;avez rendu;;ils/elles ;;;ont rendu
 Indicatif Imparfait;indicatif;;je ;;;rendais;;tu ;;;rendais;;il/elle/on ;;;rendait;;nous ;;;rendions;;vous ;;;rendiez;;ils/elles ;;;rendaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais rendu;;tu ;;;avais rendu;;il/elle/on ;;;avait rendu;;nous ;;;avions rendu;;vous ;;;aviez rendu;;ils/elles ;;;avaient rendu
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais rendu;;tu ;;;avais rendu;;il/elle/on ;;;avait rendu;;nous ;;;avions rendu;;vous ;;;aviez rendu;;ils/elles ;;;avaient rendu
 Indicatif Passé Simple;indicatif;;je ;;;rendis;;tu ;;;rendis;;il/elle/on ;;;rendit;;nous ;;;rendîmes;;vous ;;;rendîtes;;ils/elles ;;;rendirent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus rendu;;tu ;;;eus rendu;;il/elle/on ;;;eut rendu;;nous ;;;eûmes rendu;;vous ;;;eûtes rendu;;ils/elles ;;;eurent rendu
 Indicatif Futur Simple;indicatif;;je ;;;rendrai;;tu ;;;rendras;;il/elle/on ;;;rendra;;nous ;;;rendrons;;vous ;;;rendrez;;ils/elles ;;;rendront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai rendu;;tu ;;;auras rendu;;il/
 Subjonctif Présent;subjonctif;que ;je ;;;rende;que ;tu ;;;rendes;qu’;il/elle/on ;;;rende;que ;nous ;;;rendions;que ;vous ;;;rendiez;qu’;ils/elles ;;;rendent
 Subjonctif Passé;subjonctif;que ;j’;;;aie rendu;que ;tu ;;;aies rendu;qu’;il/elle/on ;;;ait rendu;que ;nous ;;;ayons rendu;que ;vous ;;;ayez rendu;qu’;ils/elles ;;;aient rendu
 Subjonctif Imparfait;subjonctif;que ;je ;;;rendisse;que ;tu ;;;rendisses;qu’;il/elle/on ;;;rendît;que ;nous ;;;rendissions;que ;vous ;;;rendissiez;qu’;ils/elles ;;;rendissent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse rendu;que ;tu ;;;eusses rendu;qu’;il/elle/on ;;;eût rendu;que ;nous ;;;eussions rendu;que ;vous ;;;eussiez rendu;qu’;ils/elles ;;;eussent rendu
-Conditionnel;conditionnel;;je ;;;rendrais;;tu ;;;rendrais;;il/elle/on ;;;rendrait;;nous ;;;rendrions;;vous ;;;rendriez;;ils/elles ;;;rendraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse rendu;que ;tu ;;;eusses rendu;qu’;il/elle/on ;;;eût rendu;que ;nous ;;;eussions rendu;que ;vous ;;;eussiez rendu;qu’;ils/elles ;;;eussent rendu
+Conditionnel Présent;conditionnel;;je ;;;rendrais;;tu ;;;rendrais;;il/elle/on ;;;rendrait;;nous ;;;rendrions;;vous ;;;rendriez;;ils/elles ;;;rendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais rendu;;tu ;;;aurais rendu;;il/elle/on ;;;aurait rendu;;nous ;;;aurions rendu;;vous ;;;auriez rendu;;ils/elles ;;;auraient rendu
 Impératif Présent;impératif;;;;;;;(tu) ;;;rends;;;;;;;(nous) ;;;rendons;;(vous) ;;;rendez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie rendu;;;;;;;(nous) ;;;ayons rendu;;(vous) ;;;ayez rendu;;;;;

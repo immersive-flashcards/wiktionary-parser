@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;fournir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir fourni;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;fournir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir fourni;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en fournissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant fourni;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;fournissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;fourni;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;fournis;;tu ;;;fournis;;il/elle/on ;;;fournit;;nous ;;;fournissons;;vous ;;;fournissez;;ils/elles ;;;fournissent
 Indicatif Passé Composé;indicatif;;j’;;;ai fourni;;tu ;;;as fourni;;il/elle/on ;;;a fourni;;nous ;;;avons fourni;;vous ;;;avez fourni;;ils/elles ;;;ont fourni
 Indicatif Imparfait;indicatif;;je ;;;fournissais;;tu ;;;fournissais;;il/elle/on ;;;fournissait;;nous ;;;fournissions;;vous ;;;fournissiez;;ils/elles ;;;fournissaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais fourni;;tu ;;;avais fourni;;il/elle/on ;;;avait fourni;;nous ;;;avions fourni;;vous ;;;aviez fourni;;ils/elles ;;;avaient fourni
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais fourni;;tu ;;;avais fourni;;il/elle/on ;;;avait fourni;;nous ;;;avions fourni;;vous ;;;aviez fourni;;ils/elles ;;;avaient fourni
 Indicatif Passé Simple;indicatif;;je ;;;fournis;;tu ;;;fournis;;il/elle/on ;;;fournit;;nous ;;;fournîmes;;vous ;;;fournîtes;;ils/elles ;;;fournirent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus fourni;;tu ;;;eus fourni;;il/elle/on ;;;eut fourni;;nous ;;;eûmes fourni;;vous ;;;eûtes fourni;;ils/elles ;;;eurent fourni
 Indicatif Futur Simple;indicatif;;je ;;;fournirai;;tu ;;;fourniras;;il/elle/on ;;;fournira;;nous ;;;fournirons;;vous ;;;fournirez;;ils/elles ;;;fourniront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai fourni;;tu ;;;auras fourni;;i
 Subjonctif Présent;subjonctif;que ;je ;;;fournisse;que ;tu ;;;fournisses;qu’;il/elle/on ;;;fournisse;que ;nous ;;;fournissions;que ;vous ;;;fournissiez;qu’;ils/elles ;;;fournissent
 Subjonctif Passé;subjonctif;que ;j’;;;aie fourni;que ;tu ;;;aies fourni;qu’;il/elle/on ;;;ait fourni;que ;nous ;;;ayons fourni;que ;vous ;;;ayez fourni;qu’;ils/elles ;;;aient fourni
 Subjonctif Imparfait;subjonctif;que ;je ;;;fournisse;que ;tu ;;;fournisses;qu’;il/elle/on ;;;fournît;que ;nous ;;;fournissions;que ;vous ;;;fournissiez;qu’;ils/elles ;;;fournissent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fourni;que ;tu ;;;eusses fourni;qu’;il/elle/on ;;;eût fourni;que ;nous ;;;eussions fourni;que ;vous ;;;eussiez fourni;qu’;ils/elles ;;;eussent fourni
-Conditionnel;conditionnel;;je ;;;fournirais;;tu ;;;fournirais;;il/elle/on ;;;fournirait;;nous ;;;fournirions;;vous ;;;fourniriez;;ils/elles ;;;fourniraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse fourni;que ;tu ;;;eusses fourni;qu’;il/elle/on ;;;eût fourni;que ;nous ;;;eussions fourni;que ;vous ;;;eussiez fourni;qu’;ils/elles ;;;eussent fourni
+Conditionnel Présent;conditionnel;;je ;;;fournirais;;tu ;;;fournirais;;il/elle/on ;;;fournirait;;nous ;;;fournirions;;vous ;;;fourniriez;;ils/elles ;;;fourniraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fourni;;tu ;;;aurais fourni;;il/elle/on ;;;aurait fourni;;nous ;;;aurions fourni;;vous ;;;auriez fourni;;ils/elles ;;;auraient fourni
 Impératif Présent;impératif;;;;;;;(tu) ;;;fournis;;;;;;;(nous) ;;;fournissons;;(vous) ;;;fournissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fourni;;;;;;;(nous) ;;;ayons fourni;;(vous) ;;;ayez fourni;;;;;

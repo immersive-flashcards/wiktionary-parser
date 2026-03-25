@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;quitter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir quitté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;quitter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir quitté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en quittant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant quitté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;quittant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;quitté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;quitte;;tu ;;;quittes;;il/elle/on ;;;quitte;;nous ;;;quittons;;vous ;;;quittez;;ils/elles ;;;quittent
 Indicatif Passé Composé;indicatif;;j’;;;ai quitté;;tu ;;;as quitté;;il/elle/on ;;;a quitté;;nous ;;;avons quitté;;vous ;;;avez quitté;;ils/elles ;;;ont quitté
 Indicatif Imparfait;indicatif;;je ;;;quittais;;tu ;;;quittais;;il/elle/on ;;;quittait;;nous ;;;quittions;;vous ;;;quittiez;;ils/elles ;;;quittaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais quitté;;tu ;;;avais quitté;;il/elle/on ;;;avait quitté;;nous ;;;avions quitté;;vous ;;;aviez quitté;;ils/elles ;;;avaient quitté
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais quitté;;tu ;;;avais quitté;;il/elle/on ;;;avait quitté;;nous ;;;avions quitté;;vous ;;;aviez quitté;;ils/elles ;;;avaient quitté
 Indicatif Passé Simple;indicatif;;je ;;;quittai;;tu ;;;quittas;;il/elle/on ;;;quitta;;nous ;;;quittâmes;;vous ;;;quittâtes;;ils/elles ;;;quittèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus quitté;;tu ;;;eus quitté;;il/elle/on ;;;eut quitté;;nous ;;;eûmes quitté;;vous ;;;eûtes quitté;;ils/elles ;;;eurent quitté
 Indicatif Futur Simple;indicatif;;je ;;;quitterai;;tu ;;;quitteras;;il/elle/on ;;;quittera;;nous ;;;quitterons;;vous ;;;quitterez;;ils/elles ;;;quitteront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai quitté;;tu ;;;auras quitté;
 Subjonctif Présent;subjonctif;que ;je ;;;quitte;que ;tu ;;;quittes;qu’;il/elle/on ;;;quitte;que ;nous ;;;quittions;que ;vous ;;;quittiez;qu’;ils/elles ;;;quittent
 Subjonctif Passé;subjonctif;que ;j’;;;aie quitté;que ;tu ;;;aies quitté;qu’;il/elle/on ;;;ait quitté;que ;nous ;;;ayons quitté;que ;vous ;;;ayez quitté;qu’;ils/elles ;;;aient quitté
 Subjonctif Imparfait;subjonctif;que ;je ;;;quittasse;que ;tu ;;;quittasses;qu’;il/elle/on ;;;quittât;que ;nous ;;;quittassions;que ;vous ;;;quittassiez;qu’;ils/elles ;;;quittassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse quitté;que ;tu ;;;eusses quitté;qu’;il/elle/on ;;;eût quitté;que ;nous ;;;eussions quitté;que ;vous ;;;eussiez quitté;qu’;ils/elles ;;;eussent quitté
-Conditionnel;conditionnel;;je ;;;quitterais;;tu ;;;quitterais;;il/elle/on ;;;quitterait;;nous ;;;quitterions;;vous ;;;quitteriez;;ils/elles ;;;quitteraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse quitté;que ;tu ;;;eusses quitté;qu’;il/elle/on ;;;eût quitté;que ;nous ;;;eussions quitté;que ;vous ;;;eussiez quitté;qu’;ils/elles ;;;eussent quitté
+Conditionnel Présent;conditionnel;;je ;;;quitterais;;tu ;;;quitterais;;il/elle/on ;;;quitterait;;nous ;;;quitterions;;vous ;;;quitteriez;;ils/elles ;;;quitteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais quitté;;tu ;;;aurais quitté;;il/elle/on ;;;aurait quitté;;nous ;;;aurions quitté;;vous ;;;auriez quitté;;ils/elles ;;;auraient quitté
 Impératif Présent;impératif;;;;;;;(tu) ;;;quitte;;;;;;;(nous) ;;;quittons;;(vous) ;;;quittez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie quitté;;;;;;;(nous) ;;;ayons quitté;;(vous) ;;;ayez quitté;;;;;

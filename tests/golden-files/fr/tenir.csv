@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;tenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir tenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;tenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir tenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en tenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant tenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;tenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;tenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;tiens;;tu ;;;tiens;;il/elle/on ;;;tient;;nous ;;;tenons;;vous ;;;tenez;;ils/elles ;;;tiennent
 Indicatif Passé Composé;indicatif;;j’;;;ai tenu;;tu ;;;as tenu;;il/elle/on ;;;a tenu;;nous ;;;avons tenu;;vous ;;;avez tenu;;ils/elles ;;;ont tenu
 Indicatif Imparfait;indicatif;;je ;;;tenais;;tu ;;;tenais;;il/elle/on ;;;tenait;;nous ;;;tenions;;vous ;;;teniez;;ils/elles ;;;tenaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais tenu;;tu ;;;avais tenu;;il/elle/on ;;;avait tenu;;nous ;;;avions tenu;;vous ;;;aviez tenu;;ils/elles ;;;avaient tenu
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais tenu;;tu ;;;avais tenu;;il/elle/on ;;;avait tenu;;nous ;;;avions tenu;;vous ;;;aviez tenu;;ils/elles ;;;avaient tenu
 Indicatif Passé Simple;indicatif;;je ;;;tins;;tu ;;;tins;;il/elle/on ;;;tint;;nous ;;;tînmes;;vous ;;;tîntes;;ils/elles ;;;tinrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus tenu;;tu ;;;eus tenu;;il/elle/on ;;;eut tenu;;nous ;;;eûmes tenu;;vous ;;;eûtes tenu;;ils/elles ;;;eurent tenu
 Indicatif Futur Simple;indicatif;;je ;;;tiendrai;;tu ;;;tiendras;;il/elle/on ;;;tiendra;;nous ;;;tiendrons;;vous ;;;tiendrez;;ils/elles ;;;tiendront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai tenu;;tu ;;;auras tenu;;il/el
 Subjonctif Présent;subjonctif;que ;je ;;;tienne;que ;tu ;;;tiennes;qu’;il/elle/on ;;;tienne;que ;nous ;;;tenions;que ;vous ;;;teniez;qu’;ils/elles ;;;tiennent
 Subjonctif Passé;subjonctif;que ;j’;;;aie tenu;que ;tu ;;;aies tenu;qu’;il/elle/on ;;;ait tenu;que ;nous ;;;ayons tenu;que ;vous ;;;ayez tenu;qu’;ils/elles ;;;aient tenu
 Subjonctif Imparfait;subjonctif;que ;je ;;;tinsse;que ;tu ;;;tinsses;qu’;il/elle/on ;;;tînt;que ;nous ;;;tinssions;que ;vous ;;;tinssiez;qu’;ils/elles ;;;tinssent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse tenu;que ;tu ;;;eusses tenu;qu’;il/elle/on ;;;eût tenu;que ;nous ;;;eussions tenu;que ;vous ;;;eussiez tenu;qu’;ils/elles ;;;eussent tenu
-Conditionnel;conditionnel;;je ;;;tiendrais;;tu ;;;tiendrais;;il/elle/on ;;;tiendrait;;nous ;;;tiendrions;;vous ;;;tiendriez;;ils/elles ;;;tiendraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse tenu;que ;tu ;;;eusses tenu;qu’;il/elle/on ;;;eût tenu;que ;nous ;;;eussions tenu;que ;vous ;;;eussiez tenu;qu’;ils/elles ;;;eussent tenu
+Conditionnel Présent;conditionnel;;je ;;;tiendrais;;tu ;;;tiendrais;;il/elle/on ;;;tiendrait;;nous ;;;tiendrions;;vous ;;;tiendriez;;ils/elles ;;;tiendraient
 Conditionnel Passé;conditionnel;;j’;;;aurais tenu;;tu ;;;aurais tenu;;il/elle/on ;;;aurait tenu;;nous ;;;aurions tenu;;vous ;;;auriez tenu;;ils/elles ;;;auraient tenu
 Impératif Présent;impératif;;;;;;;(tu) ;;;tiens;;;;;;;(nous) ;;;tenons;;(vous) ;;;tenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie tenu;;;;;;;(nous) ;;;ayons tenu;;(vous) ;;;ayez tenu;;;;;

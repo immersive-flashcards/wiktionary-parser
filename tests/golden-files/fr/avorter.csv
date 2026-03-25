@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;avorter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir avorté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;avorter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir avorté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en avortant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant avorté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;avortant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;avorté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;avorte;;tu ;;;avortes;;il/elle/on ;;;avorte;;nous ;;;avortons;;vous ;;;avortez;;ils/elles ;;;avortent
 Indicatif Passé Composé;indicatif;;j’;;;ai avorté;;tu ;;;as avorté;;il/elle/on ;;;a avorté;;nous ;;;avons avorté;;vous ;;;avez avorté;;ils/elles ;;;ont avorté
 Indicatif Imparfait;indicatif;;j’;;;avortais;;tu ;;;avortais;;il/elle/on ;;;avortait;;nous ;;;avortions;;vous ;;;avortiez;;ils/elles ;;;avortaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais avorté;;tu ;;;avais avorté;;il/elle/on ;;;avait avorté;;nous ;;;avions avorté;;vous ;;;aviez avorté;;ils/elles ;;;avaient avorté
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais avorté;;tu ;;;avais avorté;;il/elle/on ;;;avait avorté;;nous ;;;avions avorté;;vous ;;;aviez avorté;;ils/elles ;;;avaient avorté
 Indicatif Passé Simple;indicatif;;j’;;;avortai;;tu ;;;avortas;;il/elle/on ;;;avorta;;nous ;;;avortâmes;;vous ;;;avortâtes;;ils/elles ;;;avortèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus avorté;;tu ;;;eus avorté;;il/elle/on ;;;eut avorté;;nous ;;;eûmes avorté;;vous ;;;eûtes avorté;;ils/elles ;;;eurent avorté
 Indicatif Futur Simple;indicatif;;j’;;;avorterai;;tu ;;;avorteras;;il/elle/on ;;;avortera;;nous ;;;avorterons;;vous ;;;avorterez;;ils/elles ;;;avorteront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai avorté;;tu ;;;auras avorté;
 Subjonctif Présent;subjonctif;que ;j’;;;avorte;que ;tu ;;;avortes;qu’;il/elle/on ;;;avorte;que ;nous ;;;avortions;que ;vous ;;;avortiez;qu’;ils/elles ;;;avortent
 Subjonctif Passé;subjonctif;que ;j’;;;aie avorté;que ;tu ;;;aies avorté;qu’;il/elle/on ;;;ait avorté;que ;nous ;;;ayons avorté;que ;vous ;;;ayez avorté;qu’;ils/elles ;;;aient avorté
 Subjonctif Imparfait;subjonctif;que ;j’;;;avortasse;que ;tu ;;;avortasses;qu’;il/elle/on ;;;avortât;que ;nous ;;;avortassions;que ;vous ;;;avortassiez;qu’;ils/elles ;;;avortassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse avorté;que ;tu ;;;eusses avorté;qu’;il/elle/on ;;;eût avorté;que ;nous ;;;eussions avorté;que ;vous ;;;eussiez avorté;qu’;ils/elles ;;;eussent avorté
-Conditionnel;conditionnel;;j’;;;avorterais;;tu ;;;avorterais;;il/elle/on ;;;avorterait;;nous ;;;avorterions;;vous ;;;avorteriez;;ils/elles ;;;avorteraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse avorté;que ;tu ;;;eusses avorté;qu’;il/elle/on ;;;eût avorté;que ;nous ;;;eussions avorté;que ;vous ;;;eussiez avorté;qu’;ils/elles ;;;eussent avorté
+Conditionnel Présent;conditionnel;;j’;;;avorterais;;tu ;;;avorterais;;il/elle/on ;;;avorterait;;nous ;;;avorterions;;vous ;;;avorteriez;;ils/elles ;;;avorteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais avorté;;tu ;;;aurais avorté;;il/elle/on ;;;aurait avorté;;nous ;;;aurions avorté;;vous ;;;auriez avorté;;ils/elles ;;;auraient avorté
 Impératif Présent;impératif;;;;;;;(tu) ;;;avorte;;;;;;;(nous) ;;;avortons;;(vous) ;;;avortez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie avorté;;;;;;;(nous) ;;;ayons avorté;;(vous) ;;;ayez avorté;;;;;

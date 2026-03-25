@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;chuchoter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir chuchoté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;chuchoter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir chuchoté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en chuchotant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant chuchoté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;chuchotant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;chuchoté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;chuchote;;tu ;;;chuchotes;;il/elle/on ;;;chuchote;;nous ;;;chuchotons;;vous ;;;chuchotez;;ils/elles ;;;chuchotent
 Indicatif Passé Composé;indicatif;;j’;;;ai chuchoté;;tu ;;;as chuchoté;;il/elle/on ;;;a chuchoté;;nous ;;;avons chuchoté;;vous ;;;avez chuchoté;;ils/elles ;;;ont chuchoté
 Indicatif Imparfait;indicatif;;je ;;;chuchotais;;tu ;;;chuchotais;;il/elle/on ;;;chuchotait;;nous ;;;chuchotions;;vous ;;;chuchotiez;;ils/elles ;;;chuchotaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais chuchoté;;tu ;;;avais chuchoté;;il/elle/on ;;;avait chuchoté;;nous ;;;avions chuchoté;;vous ;;;aviez chuchoté;;ils/elles ;;;avaient chuchoté
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais chuchoté;;tu ;;;avais chuchoté;;il/elle/on ;;;avait chuchoté;;nous ;;;avions chuchoté;;vous ;;;aviez chuchoté;;ils/elles ;;;avaient chuchoté
 Indicatif Passé Simple;indicatif;;je ;;;chuchotai;;tu ;;;chuchotas;;il/elle/on ;;;chuchota;;nous ;;;chuchotâmes;;vous ;;;chuchotâtes;;ils/elles ;;;chuchotèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus chuchoté;;tu ;;;eus chuchoté;;il/elle/on ;;;eut chuchoté;;nous ;;;eûmes chuchoté;;vous ;;;eûtes chuchoté;;ils/elles ;;;eurent chuchoté
 Indicatif Futur Simple;indicatif;;je ;;;chuchoterai;;tu ;;;chuchoteras;;il/elle/on ;;;chuchotera;;nous ;;;chuchoterons;;vous ;;;chuchoterez;;ils/elles ;;;chuchoteront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai chuchoté;;tu ;;;auras chucho
 Subjonctif Présent;subjonctif;que ;je ;;;chuchote;que ;tu ;;;chuchotes;qu’;il/elle/on ;;;chuchote;que ;nous ;;;chuchotions;que ;vous ;;;chuchotiez;qu’;ils/elles ;;;chuchotent
 Subjonctif Passé;subjonctif;que ;j’;;;aie chuchoté;que ;tu ;;;aies chuchoté;qu’;il/elle/on ;;;ait chuchoté;que ;nous ;;;ayons chuchoté;que ;vous ;;;ayez chuchoté;qu’;ils/elles ;;;aient chuchoté
 Subjonctif Imparfait;subjonctif;que ;je ;;;chuchotasse;que ;tu ;;;chuchotasses;qu’;il/elle/on ;;;chuchotât;que ;nous ;;;chuchotassions;que ;vous ;;;chuchotassiez;qu’;ils/elles ;;;chuchotassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse chuchoté;que ;tu ;;;eusses chuchoté;qu’;il/elle/on ;;;eût chuchoté;que ;nous ;;;eussions chuchoté;que ;vous ;;;eussiez chuchoté;qu’;ils/elles ;;;eussent chuchoté
-Conditionnel;conditionnel;;je ;;;chuchoterais;;tu ;;;chuchoterais;;il/elle/on ;;;chuchoterait;;nous ;;;chuchoterions;;vous ;;;chuchoteriez;;ils/elles ;;;chuchoteraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse chuchoté;que ;tu ;;;eusses chuchoté;qu’;il/elle/on ;;;eût chuchoté;que ;nous ;;;eussions chuchoté;que ;vous ;;;eussiez chuchoté;qu’;ils/elles ;;;eussent chuchoté
+Conditionnel Présent;conditionnel;;je ;;;chuchoterais;;tu ;;;chuchoterais;;il/elle/on ;;;chuchoterait;;nous ;;;chuchoterions;;vous ;;;chuchoteriez;;ils/elles ;;;chuchoteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais chuchoté;;tu ;;;aurais chuchoté;;il/elle/on ;;;aurait chuchoté;;nous ;;;aurions chuchoté;;vous ;;;auriez chuchoté;;ils/elles ;;;auraient chuchoté
 Impératif Présent;impératif;;;;;;;(tu) ;;;chuchote;;;;;;;(nous) ;;;chuchotons;;(vous) ;;;chuchotez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie chuchoté;;;;;;;(nous) ;;;ayons chuchoté;;(vous) ;;;ayez chuchoté;;;;;

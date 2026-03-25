@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;traduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir traduit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;traduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir traduit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en traduisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant traduit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;traduisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;traduit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;traduis;;tu ;;;traduis;;il/elle/on ;;;traduit;;nous ;;;traduisons;;vous ;;;traduisez;;ils/elles ;;;traduisent
 Indicatif Passé Composé;indicatif;;j’;;;ai traduit;;tu ;;;as traduit;;il/elle/on ;;;a traduit;;nous ;;;avons traduit;;vous ;;;avez traduit;;ils/elles ;;;ont traduit
 Indicatif Imparfait;indicatif;;je ;;;traduisais;;tu ;;;traduisais;;il/elle/on ;;;traduisait;;nous ;;;traduisions;;vous ;;;traduisiez;;ils/elles ;;;traduisaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais traduit;;tu ;;;avais traduit;;il/elle/on ;;;avait traduit;;nous ;;;avions traduit;;vous ;;;aviez traduit;;ils/elles ;;;avaient traduit
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais traduit;;tu ;;;avais traduit;;il/elle/on ;;;avait traduit;;nous ;;;avions traduit;;vous ;;;aviez traduit;;ils/elles ;;;avaient traduit
 Indicatif Passé Simple;indicatif;;je ;;;traduisis;;tu ;;;traduisis;;il/elle/on ;;;traduisit;;nous ;;;traduisîmes;;vous ;;;traduisîtes;;ils/elles ;;;traduisirent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus traduit;;tu ;;;eus traduit;;il/elle/on ;;;eut traduit;;nous ;;;eûmes traduit;;vous ;;;eûtes traduit;;ils/elles ;;;eurent traduit
 Indicatif Futur Simple;indicatif;;je ;;;traduirai;;tu ;;;traduiras;;il/elle/on ;;;traduira;;nous ;;;traduirons;;vous ;;;traduirez;;ils/elles ;;;traduiront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai traduit;;tu ;;;auras traduit;
 Subjonctif Présent;subjonctif;que ;je ;;;traduise;que ;tu ;;;traduises;qu’;il/elle/on ;;;traduise;que ;nous ;;;traduisions;que ;vous ;;;traduisiez;qu’;ils/elles ;;;traduisent
 Subjonctif Passé;subjonctif;que ;j’;;;aie traduit;que ;tu ;;;aies traduit;qu’;il/elle/on ;;;ait traduit;que ;nous ;;;ayons traduit;que ;vous ;;;ayez traduit;qu’;ils/elles ;;;aient traduit
 Subjonctif Imparfait;subjonctif;que ;je ;;;traduisisse;que ;tu ;;;traduisisses;qu’;il/elle/on ;;;traduisît;que ;nous ;;;traduisissions;que ;vous ;;;traduisissiez;qu’;ils/elles ;;;traduisissent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse traduit;que ;tu ;;;eusses traduit;qu’;il/elle/on ;;;eût traduit;que ;nous ;;;eussions traduit;que ;vous ;;;eussiez traduit;qu’;ils/elles ;;;eussent traduit
-Conditionnel;conditionnel;;je ;;;traduirais;;tu ;;;traduirais;;il/elle/on ;;;traduirait;;nous ;;;traduirions;;vous ;;;traduiriez;;ils/elles ;;;traduiraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse traduit;que ;tu ;;;eusses traduit;qu’;il/elle/on ;;;eût traduit;que ;nous ;;;eussions traduit;que ;vous ;;;eussiez traduit;qu’;ils/elles ;;;eussent traduit
+Conditionnel Présent;conditionnel;;je ;;;traduirais;;tu ;;;traduirais;;il/elle/on ;;;traduirait;;nous ;;;traduirions;;vous ;;;traduiriez;;ils/elles ;;;traduiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais traduit;;tu ;;;aurais traduit;;il/elle/on ;;;aurait traduit;;nous ;;;aurions traduit;;vous ;;;auriez traduit;;ils/elles ;;;auraient traduit
 Impératif Présent;impératif;;;;;;;(tu) ;;;traduis;;;;;;;(nous) ;;;traduisons;;(vous) ;;;traduisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie traduit;;;;;;;(nous) ;;;ayons traduit;;(vous) ;;;ayez traduit;;;;;

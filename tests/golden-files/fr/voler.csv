@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;voler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir volé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;voler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir volé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en volant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant volé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;volant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;volé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;vole;;tu ;;;voles;;il/elle/on ;;;vole;;nous ;;;volons;;vous ;;;volez;;ils/elles ;;;volent
 Indicatif Passé Composé;indicatif;;j’;;;ai volé;;tu ;;;as volé;;il/elle/on ;;;a volé;;nous ;;;avons volé;;vous ;;;avez volé;;ils/elles ;;;ont volé
 Indicatif Imparfait;indicatif;;je ;;;volais;;tu ;;;volais;;il/elle/on ;;;volait;;nous ;;;volions;;vous ;;;voliez;;ils/elles ;;;volaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais volé;;tu ;;;avais volé;;il/elle/on ;;;avait volé;;nous ;;;avions volé;;vous ;;;aviez volé;;ils/elles ;;;avaient volé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais volé;;tu ;;;avais volé;;il/elle/on ;;;avait volé;;nous ;;;avions volé;;vous ;;;aviez volé;;ils/elles ;;;avaient volé
 Indicatif Passé Simple;indicatif;;je ;;;volai;;tu ;;;volas;;il/elle/on ;;;vola;;nous ;;;volâmes;;vous ;;;volâtes;;ils/elles ;;;volèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus volé;;tu ;;;eus volé;;il/elle/on ;;;eut volé;;nous ;;;eûmes volé;;vous ;;;eûtes volé;;ils/elles ;;;eurent volé
 Indicatif Futur Simple;indicatif;;je ;;;volerai;;tu ;;;voleras;;il/elle/on ;;;volera;;nous ;;;volerons;;vous ;;;volerez;;ils/elles ;;;voleront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai volé;;tu ;;;auras volé;;il/
 Subjonctif Présent;subjonctif;que ;je ;;;vole;que ;tu ;;;voles;qu’;il/elle/on ;;;vole;que ;nous ;;;volions;que ;vous ;;;voliez;qu’;ils/elles ;;;volent
 Subjonctif Passé;subjonctif;que ;j’;;;aie volé;que ;tu ;;;aies volé;qu’;il/elle/on ;;;ait volé;que ;nous ;;;ayons volé;que ;vous ;;;ayez volé;qu’;ils/elles ;;;aient volé
 Subjonctif Imparfait;subjonctif;que ;je ;;;volasse;que ;tu ;;;volasses;qu’;il/elle/on ;;;volât;que ;nous ;;;volassions;que ;vous ;;;volassiez;qu’;ils/elles ;;;volassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse volé;que ;tu ;;;eusses volé;qu’;il/elle/on ;;;eût volé;que ;nous ;;;eussions volé;que ;vous ;;;eussiez volé;qu’;ils/elles ;;;eussent volé
-Conditionnel;conditionnel;;je ;;;volerais;;tu ;;;volerais;;il/elle/on ;;;volerait;;nous ;;;volerions;;vous ;;;voleriez;;ils/elles ;;;voleraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse volé;que ;tu ;;;eusses volé;qu’;il/elle/on ;;;eût volé;que ;nous ;;;eussions volé;que ;vous ;;;eussiez volé;qu’;ils/elles ;;;eussent volé
+Conditionnel Présent;conditionnel;;je ;;;volerais;;tu ;;;volerais;;il/elle/on ;;;volerait;;nous ;;;volerions;;vous ;;;voleriez;;ils/elles ;;;voleraient
 Conditionnel Passé;conditionnel;;j’;;;aurais volé;;tu ;;;aurais volé;;il/elle/on ;;;aurait volé;;nous ;;;aurions volé;;vous ;;;auriez volé;;ils/elles ;;;auraient volé
 Impératif Présent;impératif;;;;;;;(tu) ;;;vole;;;;;;;(nous) ;;;volons;;(vous) ;;;volez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie volé;;;;;;;(nous) ;;;ayons volé;;(vous) ;;;ayez volé;;;;;

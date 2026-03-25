@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;mélanger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir mélangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;mélanger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir mélangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en mélangeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant mélangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;mélangeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;mélangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;mélange;;tu ;;;mélanges;;il/elle/on ;;;mélange;;nous ;;;mélangeons;;vous ;;;mélangez;;ils/elles ;;;mélangent
 Indicatif Passé Composé;indicatif;;j’;;;ai mélangé;;tu ;;;as mélangé;;il/elle/on ;;;a mélangé;;nous ;;;avons mélangé;;vous ;;;avez mélangé;;ils/elles ;;;ont mélangé
 Indicatif Imparfait;indicatif;;je ;;;mélangeais;;tu ;;;mélangeais;;il/elle/on ;;;mélangeait;;nous ;;;mélangions;;vous ;;;mélangiez;;ils/elles ;;;mélangeaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais mélangé;;tu ;;;avais mélangé;;il/elle/on ;;;avait mélangé;;nous ;;;avions mélangé;;vous ;;;aviez mélangé;;ils/elles ;;;avaient mélangé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais mélangé;;tu ;;;avais mélangé;;il/elle/on ;;;avait mélangé;;nous ;;;avions mélangé;;vous ;;;aviez mélangé;;ils/elles ;;;avaient mélangé
 Indicatif Passé Simple;indicatif;;je ;;;mélangeai;;tu ;;;mélangeas;;il/elle/on ;;;mélangea;;nous ;;;mélangeâmes;;vous ;;;mélangeâtes;;ils/elles ;;;mélangèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus mélangé;;tu ;;;eus mélangé;;il/elle/on ;;;eut mélangé;;nous ;;;eûmes mélangé;;vous ;;;eûtes mélangé;;ils/elles ;;;eurent mélangé
 Indicatif Futur Simple;indicatif;;je ;;;mélangerai;;tu ;;;mélangeras;;il/elle/on ;;;mélangera;;nous ;;;mélangerons;;vous ;;;mélangerez;;ils/elles ;;;mélangeront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai mélangé;;tu ;;;auras mélan
 Subjonctif Présent;subjonctif;que ;je ;;;mélange;que ;tu ;;;mélanges;qu’;il/elle/on ;;;mélange;que ;nous ;;;mélangions;que ;vous ;;;mélangiez;qu’;ils/elles ;;;mélangent
 Subjonctif Passé;subjonctif;que ;j’;;;aie mélangé;que ;tu ;;;aies mélangé;qu’;il/elle/on ;;;ait mélangé;que ;nous ;;;ayons mélangé;que ;vous ;;;ayez mélangé;qu’;ils/elles ;;;aient mélangé
 Subjonctif Imparfait;subjonctif;que ;je ;;;mélangeasse;que ;tu ;;;mélangeasses;qu’;il/elle/on ;;;mélangeât;que ;nous ;;;mélangeassions;que ;vous ;;;mélangeassiez;qu’;ils/elles ;;;mélangeassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse mélangé;que ;tu ;;;eusses mélangé;qu’;il/elle/on ;;;eût mélangé;que ;nous ;;;eussions mélangé;que ;vous ;;;eussiez mélangé;qu’;ils/elles ;;;eussent mélangé
-Conditionnel;conditionnel;;je ;;;mélangerais;;tu ;;;mélangerais;;il/elle/on ;;;mélangerait;;nous ;;;mélangerions;;vous ;;;mélangeriez;;ils/elles ;;;mélangeraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse mélangé;que ;tu ;;;eusses mélangé;qu’;il/elle/on ;;;eût mélangé;que ;nous ;;;eussions mélangé;que ;vous ;;;eussiez mélangé;qu’;ils/elles ;;;eussent mélangé
+Conditionnel Présent;conditionnel;;je ;;;mélangerais;;tu ;;;mélangerais;;il/elle/on ;;;mélangerait;;nous ;;;mélangerions;;vous ;;;mélangeriez;;ils/elles ;;;mélangeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais mélangé;;tu ;;;aurais mélangé;;il/elle/on ;;;aurait mélangé;;nous ;;;aurions mélangé;;vous ;;;auriez mélangé;;ils/elles ;;;auraient mélangé
 Impératif Présent;impératif;;;;;;;(tu) ;;;mélange;;;;;;;(nous) ;;;mélangeons;;(vous) ;;;mélangez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie mélangé;;;;;;;(nous) ;;;ayons mélangé;;(vous) ;;;ayez mélangé;;;;;

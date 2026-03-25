@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;offrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir offert;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;offrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir offert;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en offrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant offert;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;offrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;offert;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;offre;;tu ;;;offres;;il/elle/on ;;;offre;;nous ;;;offrons;;vous ;;;offrez;;ils/elles ;;;offrent
 Indicatif Passé Composé;indicatif;;j’;;;ai offert;;tu ;;;as offert;;il/elle/on ;;;a offert;;nous ;;;avons offert;;vous ;;;avez offert;;ils/elles ;;;ont offert
 Indicatif Imparfait;indicatif;;j’;;;offrais;;tu ;;;offrais;;il/elle/on ;;;offrait;;nous ;;;offrions;;vous ;;;offriez;;ils/elles ;;;offraient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais offert;;tu ;;;avais offert;;il/elle/on ;;;avait offert;;nous ;;;avions offert;;vous ;;;aviez offert;;ils/elles ;;;avaient offert
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais offert;;tu ;;;avais offert;;il/elle/on ;;;avait offert;;nous ;;;avions offert;;vous ;;;aviez offert;;ils/elles ;;;avaient offert
 Indicatif Passé Simple;indicatif;;j’;;;offris;;tu ;;;offris;;il/elle/on ;;;offrit;;nous ;;;offrîmes;;vous ;;;offrîtes;;ils/elles ;;;offrirent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus offert;;tu ;;;eus offert;;il/elle/on ;;;eut offert;;nous ;;;eûmes offert;;vous ;;;eûtes offert;;ils/elles ;;;eurent offert
 Indicatif Futur Simple;indicatif;;j’;;;offrirai;;tu ;;;offriras;;il/elle/on ;;;offrira;;nous ;;;offrirons;;vous ;;;offrirez;;ils/elles ;;;offriront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai offert;;tu ;;;auras offert;;i
 Subjonctif Présent;subjonctif;que ;j’;;;offre;que ;tu ;;;offres;qu’;il/elle/on ;;;offre;que ;nous ;;;offrions;que ;vous ;;;offriez;qu’;ils/elles ;;;offrent
 Subjonctif Passé;subjonctif;que ;j’;;;aie offert;que ;tu ;;;aies offert;qu’;il/elle/on ;;;ait offert;que ;nous ;;;ayons offert;que ;vous ;;;ayez offert;qu’;ils/elles ;;;aient offert
 Subjonctif Imparfait;subjonctif;que ;j’;;;offrisse;que ;tu ;;;offrisses;qu’;il/elle/on ;;;offrît;que ;nous ;;;offrissions;que ;vous ;;;offrissiez;qu’;ils/elles ;;;offrissent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse offert;que ;tu ;;;eusses offert;qu’;il/elle/on ;;;eût offert;que ;nous ;;;eussions offert;que ;vous ;;;eussiez offert;qu’;ils/elles ;;;eussent offert
-Conditionnel;conditionnel;;j’;;;offrirais;;tu ;;;offrirais;;il/elle/on ;;;offrirait;;nous ;;;offririons;;vous ;;;offririez;;ils/elles ;;;offriraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse offert;que ;tu ;;;eusses offert;qu’;il/elle/on ;;;eût offert;que ;nous ;;;eussions offert;que ;vous ;;;eussiez offert;qu’;ils/elles ;;;eussent offert
+Conditionnel Présent;conditionnel;;j’;;;offrirais;;tu ;;;offrirais;;il/elle/on ;;;offrirait;;nous ;;;offririons;;vous ;;;offririez;;ils/elles ;;;offriraient
 Conditionnel Passé;conditionnel;;j’;;;aurais offert;;tu ;;;aurais offert;;il/elle/on ;;;aurait offert;;nous ;;;aurions offert;;vous ;;;auriez offert;;ils/elles ;;;auraient offert
 Impératif Présent;impératif;;;;;;;(tu) ;;;offre;;;;;;;(nous) ;;;offrons;;(vous) ;;;offrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie offert;;;;;;;(nous) ;;;ayons offert;;(vous) ;;;ayez offert;;;;;

@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;douter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir douté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;douter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir douté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en doutant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant douté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;doutant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;douté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;doute;;tu ;;;doutes;;il/elle/on ;;;doute;;nous ;;;doutons;;vous ;;;doutez;;ils/elles ;;;doutent
 Indicatif Passé Composé;indicatif;;j’;;;ai douté;;tu ;;;as douté;;il/elle/on ;;;a douté;;nous ;;;avons douté;;vous ;;;avez douté;;ils/elles ;;;ont douté
 Indicatif Imparfait;indicatif;;je ;;;doutais;;tu ;;;doutais;;il/elle/on ;;;doutait;;nous ;;;doutions;;vous ;;;doutiez;;ils/elles ;;;doutaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais douté;;tu ;;;avais douté;;il/elle/on ;;;avait douté;;nous ;;;avions douté;;vous ;;;aviez douté;;ils/elles ;;;avaient douté
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais douté;;tu ;;;avais douté;;il/elle/on ;;;avait douté;;nous ;;;avions douté;;vous ;;;aviez douté;;ils/elles ;;;avaient douté
 Indicatif Passé Simple;indicatif;;je ;;;doutai;;tu ;;;doutas;;il/elle/on ;;;douta;;nous ;;;doutâmes;;vous ;;;doutâtes;;ils/elles ;;;doutèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus douté;;tu ;;;eus douté;;il/elle/on ;;;eut douté;;nous ;;;eûmes douté;;vous ;;;eûtes douté;;ils/elles ;;;eurent douté
 Indicatif Futur Simple;indicatif;;je ;;;douterai;;tu ;;;douteras;;il/elle/on ;;;doutera;;nous ;;;douterons;;vous ;;;douterez;;ils/elles ;;;douteront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai douté;;tu ;;;auras douté;;i
 Subjonctif Présent;subjonctif;que ;je ;;;doute;que ;tu ;;;doutes;qu’;il/elle/on ;;;doute;que ;nous ;;;doutions;que ;vous ;;;doutiez;qu’;ils/elles ;;;doutent
 Subjonctif Passé;subjonctif;que ;j’;;;aie douté;que ;tu ;;;aies douté;qu’;il/elle/on ;;;ait douté;que ;nous ;;;ayons douté;que ;vous ;;;ayez douté;qu’;ils/elles ;;;aient douté
 Subjonctif Imparfait;subjonctif;que ;je ;;;doutasse;que ;tu ;;;doutasses;qu’;il/elle/on ;;;doutât;que ;nous ;;;doutassions;que ;vous ;;;doutassiez;qu’;ils/elles ;;;doutassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse douté;que ;tu ;;;eusses douté;qu’;il/elle/on ;;;eût douté;que ;nous ;;;eussions douté;que ;vous ;;;eussiez douté;qu’;ils/elles ;;;eussent douté
-Conditionnel;conditionnel;;je ;;;douterais;;tu ;;;douterais;;il/elle/on ;;;douterait;;nous ;;;douterions;;vous ;;;douteriez;;ils/elles ;;;douteraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse douté;que ;tu ;;;eusses douté;qu’;il/elle/on ;;;eût douté;que ;nous ;;;eussions douté;que ;vous ;;;eussiez douté;qu’;ils/elles ;;;eussent douté
+Conditionnel Présent;conditionnel;;je ;;;douterais;;tu ;;;douterais;;il/elle/on ;;;douterait;;nous ;;;douterions;;vous ;;;douteriez;;ils/elles ;;;douteraient
 Conditionnel Passé;conditionnel;;j’;;;aurais douté;;tu ;;;aurais douté;;il/elle/on ;;;aurait douté;;nous ;;;aurions douté;;vous ;;;auriez douté;;ils/elles ;;;auraient douté
 Impératif Présent;impératif;;;;;;;(tu) ;;;doute;;;;;;;(nous) ;;;doutons;;(vous) ;;;doutez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie douté;;;;;;;(nous) ;;;ayons douté;;(vous) ;;;ayez douté;;;;;

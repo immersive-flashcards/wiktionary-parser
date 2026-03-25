@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;fier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir fié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;fier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir fié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en fiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant fié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;fiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;fié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;fie;;tu ;;;fies;;il/elle/on ;;;fie;;nous ;;;fions;;vous ;;;fiez;;ils/elles ;;;fient
 Indicatif Passé Composé;indicatif;;j’;;;ai fié;;tu ;;;as fié;;il/elle/on ;;;a fié;;nous ;;;avons fié;;vous ;;;avez fié;;ils/elles ;;;ont fié
 Indicatif Imparfait;indicatif;;je ;;;fiais;;tu ;;;fiais;;il/elle/on ;;;fiait;;nous ;;;fiions;;vous ;;;fiiez;;ils/elles ;;;fiaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais fié;;tu ;;;avais fié;;il/elle/on ;;;avait fié;;nous ;;;avions fié;;vous ;;;aviez fié;;ils/elles ;;;avaient fié
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais fié;;tu ;;;avais fié;;il/elle/on ;;;avait fié;;nous ;;;avions fié;;vous ;;;aviez fié;;ils/elles ;;;avaient fié
 Indicatif Passé Simple;indicatif;;je ;;;fiai;;tu ;;;fias;;il/elle/on ;;;fia;;nous ;;;fiâmes;;vous ;;;fiâtes;;ils/elles ;;;fièrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus fié;;tu ;;;eus fié;;il/elle/on ;;;eut fié;;nous ;;;eûmes fié;;vous ;;;eûtes fié;;ils/elles ;;;eurent fié
 Indicatif Futur Simple;indicatif;;je ;;;fierai;;tu ;;;fieras;;il/elle/on ;;;fiera;;nous ;;;fierons;;vous ;;;fierez;;ils/elles ;;;fieront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai fié;;tu ;;;auras fié;;il/el
 Subjonctif Présent;subjonctif;que ;je ;;;fie;que ;tu ;;;fies;qu’;il/elle/on ;;;fie;que ;nous ;;;fiions;que ;vous ;;;fiiez;qu’;ils/elles ;;;fient
 Subjonctif Passé;subjonctif;que ;j’;;;aie fié;que ;tu ;;;aies fié;qu’;il/elle/on ;;;ait fié;que ;nous ;;;ayons fié;que ;vous ;;;ayez fié;qu’;ils/elles ;;;aient fié
 Subjonctif Imparfait;subjonctif;que ;je ;;;fiasse;que ;tu ;;;fiasses;qu’;il/elle/on ;;;fiât;que ;nous ;;;fiassions;que ;vous ;;;fiassiez;qu’;ils/elles ;;;fiassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse fié;que ;tu ;;;eusses fié;qu’;il/elle/on ;;;eût fié;que ;nous ;;;eussions fié;que ;vous ;;;eussiez fié;qu’;ils/elles ;;;eussent fié
-Conditionnel;conditionnel;;je ;;;fierais;;tu ;;;fierais;;il/elle/on ;;;fierait;;nous ;;;fierions;;vous ;;;fieriez;;ils/elles ;;;fieraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse fié;que ;tu ;;;eusses fié;qu’;il/elle/on ;;;eût fié;que ;nous ;;;eussions fié;que ;vous ;;;eussiez fié;qu’;ils/elles ;;;eussent fié
+Conditionnel Présent;conditionnel;;je ;;;fierais;;tu ;;;fierais;;il/elle/on ;;;fierait;;nous ;;;fierions;;vous ;;;fieriez;;ils/elles ;;;fieraient
 Conditionnel Passé;conditionnel;;j’;;;aurais fié;;tu ;;;aurais fié;;il/elle/on ;;;aurait fié;;nous ;;;aurions fié;;vous ;;;auriez fié;;ils/elles ;;;auraient fié
 Impératif Présent;impératif;;;;;;;(tu) ;;;fie;;;;;;;(nous) ;;;fions;;(vous) ;;;fiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fié;;;;;;;(nous) ;;;ayons fié;;(vous) ;;;ayez fié;;;;;

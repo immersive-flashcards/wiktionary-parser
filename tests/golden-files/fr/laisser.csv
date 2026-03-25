@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;laisser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir laissé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;laisser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir laissé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en laissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant laissé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;laissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;laissé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;laisse;;tu ;;;laisses;;il/elle/on ;;;laisse;;nous ;;;laissons;;vous ;;;laissez;;ils/elles ;;;laissent
 Indicatif Passé Composé;indicatif;;j’;;;ai laissé;;tu ;;;as laissé;;il/elle/on ;;;a laissé;;nous ;;;avons laissé;;vous ;;;avez laissé;;ils/elles ;;;ont laissé
 Indicatif Imparfait;indicatif;;je ;;;laissais;;tu ;;;laissais;;il/elle/on ;;;laissait;;nous ;;;laissions;;vous ;;;laissiez;;ils/elles ;;;laissaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais laissé;;tu ;;;avais laissé;;il/elle/on ;;;avait laissé;;nous ;;;avions laissé;;vous ;;;aviez laissé;;ils/elles ;;;avaient laissé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais laissé;;tu ;;;avais laissé;;il/elle/on ;;;avait laissé;;nous ;;;avions laissé;;vous ;;;aviez laissé;;ils/elles ;;;avaient laissé
 Indicatif Passé Simple;indicatif;;je ;;;laissai;;tu ;;;laissas;;il/elle/on ;;;laissa;;nous ;;;laissâmes;;vous ;;;laissâtes;;ils/elles ;;;laissèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus laissé;;tu ;;;eus laissé;;il/elle/on ;;;eut laissé;;nous ;;;eûmes laissé;;vous ;;;eûtes laissé;;ils/elles ;;;eurent laissé
 Indicatif Futur Simple;indicatif;;je ;;;laisserai;;tu ;;;laisseras;;il/elle/on ;;;laissera;;nous ;;;laisserons;;vous ;;;laisserez;;ils/elles ;;;laisseront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai laissé;;tu ;;;auras laissé;
 Subjonctif Présent;subjonctif;que ;je ;;;laisse;que ;tu ;;;laisses;qu’;il/elle/on ;;;laisse;que ;nous ;;;laissions;que ;vous ;;;laissiez;qu’;ils/elles ;;;laissent
 Subjonctif Passé;subjonctif;que ;j’;;;aie laissé;que ;tu ;;;aies laissé;qu’;il/elle/on ;;;ait laissé;que ;nous ;;;ayons laissé;que ;vous ;;;ayez laissé;qu’;ils/elles ;;;aient laissé
 Subjonctif Imparfait;subjonctif;que ;je ;;;laissasse;que ;tu ;;;laissasses;qu’;il/elle/on ;;;laissât;que ;nous ;;;laissassions;que ;vous ;;;laissassiez;qu’;ils/elles ;;;laissassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse laissé;que ;tu ;;;eusses laissé;qu’;il/elle/on ;;;eût laissé;que ;nous ;;;eussions laissé;que ;vous ;;;eussiez laissé;qu’;ils/elles ;;;eussent laissé
-Conditionnel;conditionnel;;je ;;;laisserais;;tu ;;;laisserais;;il/elle/on ;;;laisserait;;nous ;;;laisserions;;vous ;;;laisseriez;;ils/elles ;;;laisseraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse laissé;que ;tu ;;;eusses laissé;qu’;il/elle/on ;;;eût laissé;que ;nous ;;;eussions laissé;que ;vous ;;;eussiez laissé;qu’;ils/elles ;;;eussent laissé
+Conditionnel Présent;conditionnel;;je ;;;laisserais;;tu ;;;laisserais;;il/elle/on ;;;laisserait;;nous ;;;laisserions;;vous ;;;laisseriez;;ils/elles ;;;laisseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais laissé;;tu ;;;aurais laissé;;il/elle/on ;;;aurait laissé;;nous ;;;aurions laissé;;vous ;;;auriez laissé;;ils/elles ;;;auraient laissé
 Impératif Présent;impératif;;;;;;;(tu) ;;;laisse;;;;;;;(nous) ;;;laissons;;(vous) ;;;laissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie laissé;;;;;;;(nous) ;;;ayons laissé;;(vous) ;;;ayez laissé;;;;;

@@ -1,20 +1,20 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;forclore;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir forclos;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;forclore;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir forclos;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en forclosant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant forclos;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;forclosant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;forclos;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;forclos;;tu ;;;forclos;;il/elle/on ;;;forclot / forclôt;;nous ;;;forclosons;;vous ;;;forclosez;;ils/elles ;;;forclosent
 Indicatif Passé Composé;indicatif;;j’;;;ai forclos;;tu ;;;as forclos;;il/elle/on ;;;a forclos;;nous ;;;avons forclos;;vous ;;;avez forclos;;ils/elles ;;;ont forclos
-Indicatif Plusqueparfait;indicatif;;j’;;;avais forclos;;tu ;;;avais forclos;;il/elle/on ;;;avait forclos;;nous ;;;avions forclos;;vous ;;;aviez forclos;;ils/elles ;;;avaient forclos
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais forclos;;tu ;;;avais forclos;;il/elle/on ;;;avait forclos;;nous ;;;avions forclos;;vous ;;;aviez forclos;;ils/elles ;;;avaient forclos
 Indicatif Passé Antérieur;indicatif;;j’;;;eus forclos;;tu ;;;eus forclos;;il/elle/on ;;;eut forclos;;nous ;;;eûmes forclos;;vous ;;;eûtes forclos;;ils/elles ;;;eurent forclos
 Indicatif Futur Simple;indicatif;;je ;;;forclorai;;tu ;;;forcloras;;il/elle/on ;;;forclora;;nous ;;;forclorons;;vous ;;;forclorez;;ils/elles ;;;forcloront
 Indicatif Futur Antérieur;indicatif;;j’;;;aurai forclos;;tu ;;;auras forclos;;il/elle/on ;;;aura forclos;;nous ;;;aurons forclos;;vous ;;;aurez forclos;;ils/elles ;;;auront forclos
 Subjonctif Présent;subjonctif;que ;je ;;;forclose;que ;tu ;;;forcloses;qu’;il/elle/on ;;;forclose;que ;nous ;;;forclosions;que ;vous ;;;forclosiez;qu’;ils/elles ;;;forclosent
 Subjonctif Passé;subjonctif;que ;j’;;;aie forclos;que ;tu ;;;aies forclos;qu’;il/elle/on ;;;ait forclos;que ;nous ;;;ayons forclos;que ;vous ;;;ayez forclos;qu’;ils/elles ;;;aient forclos
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse forclos;que ;tu ;;;eusses forclos;qu’;il/elle/on ;;;eût forclos;que ;nous ;;;eussions forclos;que ;vous ;;;eussiez forclos;qu’;ils/elles ;;;eussent forclos
-Conditionnel;conditionnel;;je ;;;forclorais;;tu ;;;forclorais;;il/elle/on ;;;forclorait;;nous ;;;forclorions;;vous ;;;forcloriez;;ils/elles ;;;forcloraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse forclos;que ;tu ;;;eusses forclos;qu’;il/elle/on ;;;eût forclos;que ;nous ;;;eussions forclos;que ;vous ;;;eussiez forclos;qu’;ils/elles ;;;eussent forclos
+Conditionnel Présent;conditionnel;;je ;;;forclorais;;tu ;;;forclorais;;il/elle/on ;;;forclorait;;nous ;;;forclorions;;vous ;;;forcloriez;;ils/elles ;;;forcloraient
 Conditionnel Passé;conditionnel;;j’;;;aurais forclos;;tu ;;;aurais forclos;;il/elle/on ;;;aurait forclos;;nous ;;;aurions forclos;;vous ;;;auriez forclos;;ils/elles ;;;auraient forclos
 Impératif Présent;impératif;;;;;;;(tu) ;;;forclos;;;;;;;(nous) ;;;forclosons;;(vous) ;;;forclosez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie forclos;;;;;;;(nous) ;;;ayons forclos;;(vous) ;;;ayez forclos;;;;;

@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;liver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir livé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;liver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir livé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en livant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant livé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;livant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;livé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;live;;tu ;;;lives;;il/elle/on ;;;live;;nous ;;;livons;;vous ;;;livez;;ils/elles ;;;livent
 Indicatif Passé Composé;indicatif;;j’;;;ai livé;;tu ;;;as livé;;il/elle/on ;;;a livé;;nous ;;;avons livé;;vous ;;;avez livé;;ils/elles ;;;ont livé
 Indicatif Imparfait;indicatif;;je ;;;livais;;tu ;;;livais;;il/elle/on ;;;livait;;nous ;;;livions;;vous ;;;liviez;;ils/elles ;;;livaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais livé;;tu ;;;avais livé;;il/elle/on ;;;avait livé;;nous ;;;avions livé;;vous ;;;aviez livé;;ils/elles ;;;avaient livé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais livé;;tu ;;;avais livé;;il/elle/on ;;;avait livé;;nous ;;;avions livé;;vous ;;;aviez livé;;ils/elles ;;;avaient livé
 Indicatif Passé Simple;indicatif;;je ;;;livai;;tu ;;;livas;;il/elle/on ;;;liva;;nous ;;;livâmes;;vous ;;;livâtes;;ils/elles ;;;livèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus livé;;tu ;;;eus livé;;il/elle/on ;;;eut livé;;nous ;;;eûmes livé;;vous ;;;eûtes livé;;ils/elles ;;;eurent livé
 Indicatif Futur Simple;indicatif;;je ;;;liverai;;tu ;;;liveras;;il/elle/on ;;;livera;;nous ;;;liverons;;vous ;;;liverez;;ils/elles ;;;liveront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai livé;;tu ;;;auras livé;;il/
 Subjonctif Présent;subjonctif;que ;je ;;;live;que ;tu ;;;lives;qu’;il/elle/on ;;;live;que ;nous ;;;livions;que ;vous ;;;liviez;qu’;ils/elles ;;;livent
 Subjonctif Passé;subjonctif;que ;j’;;;aie livé;que ;tu ;;;aies livé;qu’;il/elle/on ;;;ait livé;que ;nous ;;;ayons livé;que ;vous ;;;ayez livé;qu’;ils/elles ;;;aient livé
 Subjonctif Imparfait;subjonctif;que ;je ;;;livasse;que ;tu ;;;livasses;qu’;il/elle/on ;;;livât;que ;nous ;;;livassions;que ;vous ;;;livassiez;qu’;ils/elles ;;;livassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse livé;que ;tu ;;;eusses livé;qu’;il/elle/on ;;;eût livé;que ;nous ;;;eussions livé;que ;vous ;;;eussiez livé;qu’;ils/elles ;;;eussent livé
-Conditionnel;conditionnel;;je ;;;liverais;;tu ;;;liverais;;il/elle/on ;;;liverait;;nous ;;;liverions;;vous ;;;liveriez;;ils/elles ;;;liveraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse livé;que ;tu ;;;eusses livé;qu’;il/elle/on ;;;eût livé;que ;nous ;;;eussions livé;que ;vous ;;;eussiez livé;qu’;ils/elles ;;;eussent livé
+Conditionnel Présent;conditionnel;;je ;;;liverais;;tu ;;;liverais;;il/elle/on ;;;liverait;;nous ;;;liverions;;vous ;;;liveriez;;ils/elles ;;;liveraient
 Conditionnel Passé;conditionnel;;j’;;;aurais livé;;tu ;;;aurais livé;;il/elle/on ;;;aurait livé;;nous ;;;aurions livé;;vous ;;;auriez livé;;ils/elles ;;;auraient livé
 Impératif Présent;impératif;;;;;;;(tu) ;;;live;;;;;;;(nous) ;;;livons;;(vous) ;;;livez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie livé;;;;;;;(nous) ;;;ayons livé;;(vous) ;;;ayez livé;;;;;

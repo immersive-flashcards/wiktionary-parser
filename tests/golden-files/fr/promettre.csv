@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;promettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir promis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;promettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir promis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en promettant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant promis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;promettant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;promis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;promets;;tu ;;;promets;;il/elle/on ;;;promet;;nous ;;;promettons;;vous ;;;promettez;;ils/elles ;;;promettent
 Indicatif Passé Composé;indicatif;;j’;;;ai promis;;tu ;;;as promis;;il/elle/on ;;;a promis;;nous ;;;avons promis;;vous ;;;avez promis;;ils/elles ;;;ont promis
 Indicatif Imparfait;indicatif;;je ;;;promettais;;tu ;;;promettais;;il/elle/on ;;;promettait;;nous ;;;promettions;;vous ;;;promettiez;;ils/elles ;;;promettaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais promis;;tu ;;;avais promis;;il/elle/on ;;;avait promis;;nous ;;;avions promis;;vous ;;;aviez promis;;ils/elles ;;;avaient promis
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais promis;;tu ;;;avais promis;;il/elle/on ;;;avait promis;;nous ;;;avions promis;;vous ;;;aviez promis;;ils/elles ;;;avaient promis
 Indicatif Passé Simple;indicatif;;je ;;;promis;;tu ;;;promis;;il/elle/on ;;;promit;;nous ;;;promîmes;;vous ;;;promîtes;;ils/elles ;;;promirent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus promis;;tu ;;;eus promis;;il/elle/on ;;;eut promis;;nous ;;;eûmes promis;;vous ;;;eûtes promis;;ils/elles ;;;eurent promis
 Indicatif Futur Simple;indicatif;;je ;;;promettrai;;tu ;;;promettras;;il/elle/on ;;;promettra;;nous ;;;promettrons;;vous ;;;promettrez;;ils/elles ;;;promettront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai promis;;tu ;;;auras promis;;i
 Subjonctif Présent;subjonctif;que ;je ;;;promette;que ;tu ;;;promettes;qu’;il/elle/on ;;;promette;que ;nous ;;;promettions;que ;vous ;;;promettiez;qu’;ils/elles ;;;promettent
 Subjonctif Passé;subjonctif;que ;j’;;;aie promis;que ;tu ;;;aies promis;qu’;il/elle/on ;;;ait promis;que ;nous ;;;ayons promis;que ;vous ;;;ayez promis;qu’;ils/elles ;;;aient promis
 Subjonctif Imparfait;subjonctif;que ;je ;;;promisse;que ;tu ;;;promisses;qu’;il/elle/on ;;;promît;que ;nous ;;;promissions;que ;vous ;;;promissiez;qu’;ils/elles ;;;promissent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse promis;que ;tu ;;;eusses promis;qu’;il/elle/on ;;;eût promis;que ;nous ;;;eussions promis;que ;vous ;;;eussiez promis;qu’;ils/elles ;;;eussent promis
-Conditionnel;conditionnel;;je ;;;promettrais;;tu ;;;promettrais;;il/elle/on ;;;promettrait;;nous ;;;promettrions;;vous ;;;promettriez;;ils/elles ;;;promettraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse promis;que ;tu ;;;eusses promis;qu’;il/elle/on ;;;eût promis;que ;nous ;;;eussions promis;que ;vous ;;;eussiez promis;qu’;ils/elles ;;;eussent promis
+Conditionnel Présent;conditionnel;;je ;;;promettrais;;tu ;;;promettrais;;il/elle/on ;;;promettrait;;nous ;;;promettrions;;vous ;;;promettriez;;ils/elles ;;;promettraient
 Conditionnel Passé;conditionnel;;j’;;;aurais promis;;tu ;;;aurais promis;;il/elle/on ;;;aurait promis;;nous ;;;aurions promis;;vous ;;;auriez promis;;ils/elles ;;;auraient promis
 Impératif Présent;impératif;;;;;;;(tu) ;;;promets;;;;;;;(nous) ;;;promettons;;(vous) ;;;promettez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie promis;;;;;;;(nous) ;;;ayons promis;;(vous) ;;;ayez promis;;;;;

@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;user;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir usé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;user;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir usé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en usant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant usé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;usant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;usé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;use;;tu ;;;uses;;il/elle/on ;;;use;;nous ;;;usons;;vous ;;;usez;;ils/elles ;;;usent
 Indicatif Passé Composé;indicatif;;j’;;;ai usé;;tu ;;;as usé;;il/elle/on ;;;a usé;;nous ;;;avons usé;;vous ;;;avez usé;;ils/elles ;;;ont usé
 Indicatif Imparfait;indicatif;;j’;;;usais;;tu ;;;usais;;il/elle/on ;;;usait;;nous ;;;usions;;vous ;;;usiez;;ils/elles ;;;usaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais usé;;tu ;;;avais usé;;il/elle/on ;;;avait usé;;nous ;;;avions usé;;vous ;;;aviez usé;;ils/elles ;;;avaient usé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais usé;;tu ;;;avais usé;;il/elle/on ;;;avait usé;;nous ;;;avions usé;;vous ;;;aviez usé;;ils/elles ;;;avaient usé
 Indicatif Passé Simple;indicatif;;j’;;;usai;;tu ;;;usas;;il/elle/on ;;;usa;;nous ;;;usâmes;;vous ;;;usâtes;;ils/elles ;;;usèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus usé;;tu ;;;eus usé;;il/elle/on ;;;eut usé;;nous ;;;eûmes usé;;vous ;;;eûtes usé;;ils/elles ;;;eurent usé
 Indicatif Futur Simple;indicatif;;j’;;;userai;;tu ;;;useras;;il/elle/on ;;;usera;;nous ;;;userons;;vous ;;;userez;;ils/elles ;;;useront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai usé;;tu ;;;auras usé;;il/el
 Subjonctif Présent;subjonctif;que ;j’;;;use;que ;tu ;;;uses;qu’;il/elle/on ;;;use;que ;nous ;;;usions;que ;vous ;;;usiez;qu’;ils/elles ;;;usent
 Subjonctif Passé;subjonctif;que ;j’;;;aie usé;que ;tu ;;;aies usé;qu’;il/elle/on ;;;ait usé;que ;nous ;;;ayons usé;que ;vous ;;;ayez usé;qu’;ils/elles ;;;aient usé
 Subjonctif Imparfait;subjonctif;que ;j’;;;usasse;que ;tu ;;;usasses;qu’;il/elle/on ;;;usât;que ;nous ;;;usassions;que ;vous ;;;usassiez;qu’;ils/elles ;;;usassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse usé;que ;tu ;;;eusses usé;qu’;il/elle/on ;;;eût usé;que ;nous ;;;eussions usé;que ;vous ;;;eussiez usé;qu’;ils/elles ;;;eussent usé
-Conditionnel;conditionnel;;j’;;;userais;;tu ;;;userais;;il/elle/on ;;;userait;;nous ;;;userions;;vous ;;;useriez;;ils/elles ;;;useraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse usé;que ;tu ;;;eusses usé;qu’;il/elle/on ;;;eût usé;que ;nous ;;;eussions usé;que ;vous ;;;eussiez usé;qu’;ils/elles ;;;eussent usé
+Conditionnel Présent;conditionnel;;j’;;;userais;;tu ;;;userais;;il/elle/on ;;;userait;;nous ;;;userions;;vous ;;;useriez;;ils/elles ;;;useraient
 Conditionnel Passé;conditionnel;;j’;;;aurais usé;;tu ;;;aurais usé;;il/elle/on ;;;aurait usé;;nous ;;;aurions usé;;vous ;;;auriez usé;;ils/elles ;;;auraient usé
 Impératif Présent;impératif;;;;;;;(tu) ;;;use;;;;;;;(nous) ;;;usons;;(vous) ;;;usez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie usé;;;;;;;(nous) ;;;ayons usé;;(vous) ;;;ayez usé;;;;;

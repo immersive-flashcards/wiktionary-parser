@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;administrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir administré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;administrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir administré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en administrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant administré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;administrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;administré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;administre;;tu ;;;administres;;il/elle/on ;;;administre;;nous ;;;administrons;;vous ;;;administrez;;ils/elles ;;;administrent
 Indicatif Passé Composé;indicatif;;j’;;;ai administré;;tu ;;;as administré;;il/elle/on ;;;a administré;;nous ;;;avons administré;;vous ;;;avez administré;;ils/elles ;;;ont administré
 Indicatif Imparfait;indicatif;;j’;;;administrais;;tu ;;;administrais;;il/elle/on ;;;administrait;;nous ;;;administrions;;vous ;;;administriez;;ils/elles ;;;administraient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais administré;;tu ;;;avais administré;;il/elle/on ;;;avait administré;;nous ;;;avions administré;;vous ;;;aviez administré;;ils/elles ;;;avaient administré
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais administré;;tu ;;;avais administré;;il/elle/on ;;;avait administré;;nous ;;;avions administré;;vous ;;;aviez administré;;ils/elles ;;;avaient administré
 Indicatif Passé Simple;indicatif;;j’;;;administrai;;tu ;;;administras;;il/elle/on ;;;administra;;nous ;;;administrâmes;;vous ;;;administrâtes;;ils/elles ;;;administrèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus administré;;tu ;;;eus administré;;il/elle/on ;;;eut administré;;nous ;;;eûmes administré;;vous ;;;eûtes administré;;ils/elles ;;;eurent administré
 Indicatif Futur Simple;indicatif;;j’;;;administrerai;;tu ;;;administreras;;il/elle/on ;;;administrera;;nous ;;;administrerons;;vous ;;;administrerez;;ils/elles ;;;administreront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai administré;;tu ;;;auras admi
 Subjonctif Présent;subjonctif;que ;j’;;;administre;que ;tu ;;;administres;qu’;il/elle/on ;;;administre;que ;nous ;;;administrions;que ;vous ;;;administriez;qu’;ils/elles ;;;administrent
 Subjonctif Passé;subjonctif;que ;j’;;;aie administré;que ;tu ;;;aies administré;qu’;il/elle/on ;;;ait administré;que ;nous ;;;ayons administré;que ;vous ;;;ayez administré;qu’;ils/elles ;;;aient administré
 Subjonctif Imparfait;subjonctif;que ;j’;;;administrasse;que ;tu ;;;administrasses;qu’;il/elle/on ;;;administrât;que ;nous ;;;administrassions;que ;vous ;;;administrassiez;qu’;ils/elles ;;;administrassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse administré;que ;tu ;;;eusses administré;qu’;il/elle/on ;;;eût administré;que ;nous ;;;eussions administré;que ;vous ;;;eussiez administré;qu’;ils/elles ;;;eussent administré
-Conditionnel;conditionnel;;j’;;;administrerais;;tu ;;;administrerais;;il/elle/on ;;;administrerait;;nous ;;;administrerions;;vous ;;;administreriez;;ils/elles ;;;administreraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse administré;que ;tu ;;;eusses administré;qu’;il/elle/on ;;;eût administré;que ;nous ;;;eussions administré;que ;vous ;;;eussiez administré;qu’;ils/elles ;;;eussent administré
+Conditionnel Présent;conditionnel;;j’;;;administrerais;;tu ;;;administrerais;;il/elle/on ;;;administrerait;;nous ;;;administrerions;;vous ;;;administreriez;;ils/elles ;;;administreraient
 Conditionnel Passé;conditionnel;;j’;;;aurais administré;;tu ;;;aurais administré;;il/elle/on ;;;aurait administré;;nous ;;;aurions administré;;vous ;;;auriez administré;;ils/elles ;;;auraient administré
 Impératif Présent;impératif;;;;;;;(tu) ;;;administre;;;;;;;(nous) ;;;administrons;;(vous) ;;;administrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie administré;;;;;;;(nous) ;;;ayons administré;;(vous) ;;;ayez administré;;;;;

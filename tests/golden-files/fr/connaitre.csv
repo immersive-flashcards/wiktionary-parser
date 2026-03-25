@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;connaitre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir connu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;connaitre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir connu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en connaissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant connu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;connaissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;connu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;connais;;tu ;;;connais;;il/elle/on ;;;connait;;nous ;;;connaissons;;vous ;;;connaissez;;ils/elles ;;;connaissent
 Indicatif Passé Composé;indicatif;;j’;;;ai connu;;tu ;;;as connu;;il/elle/on ;;;a connu;;nous ;;;avons connu;;vous ;;;avez connu;;ils/elles ;;;ont connu
 Indicatif Imparfait;indicatif;;je ;;;connaissais;;tu ;;;connaissais;;il/elle/on ;;;connaissait;;nous ;;;connaissions;;vous ;;;connaissiez;;ils/elles ;;;connaissaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais connu;;tu ;;;avais connu;;il/elle/on ;;;avait connu;;nous ;;;avions connu;;vous ;;;aviez connu;;ils/elles ;;;avaient connu
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais connu;;tu ;;;avais connu;;il/elle/on ;;;avait connu;;nous ;;;avions connu;;vous ;;;aviez connu;;ils/elles ;;;avaient connu
 Indicatif Passé Simple;indicatif;;je ;;;connus;;tu ;;;connus;;il/elle/on ;;;connut;;nous ;;;connûmes;;vous ;;;connûtes;;ils/elles ;;;connurent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus connu;;tu ;;;eus connu;;il/elle/on ;;;eut connu;;nous ;;;eûmes connu;;vous ;;;eûtes connu;;ils/elles ;;;eurent connu
 Indicatif Futur Simple;indicatif;;je ;;;connaitrai;;tu ;;;connaitras;;il/elle/on ;;;connaitra;;nous ;;;connaitrons;;vous ;;;connaitrez;;ils/elles ;;;connaitront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai connu;;tu ;;;auras connu;;il/
 Subjonctif Présent;subjonctif;que ;je ;;;connaisse;que ;tu ;;;connaisses;qu’;il/elle/on ;;;connaisse;que ;nous ;;;connaissions;que ;vous ;;;connaissiez;qu’;ils/elles ;;;connaissent
 Subjonctif Passé;subjonctif;que ;j’;;;aie connu;que ;tu ;;;aies connu;qu’;il/elle/on ;;;ait connu;que ;nous ;;;ayons connu;que ;vous ;;;ayez connu;qu’;ils/elles ;;;aient connu
 Subjonctif Imparfait;subjonctif;que ;je ;;;connusse;que ;tu ;;;connusses;qu’;il/elle/on ;;;connût;que ;nous ;;;connussions;que ;vous ;;;connussiez;qu’;ils/elles ;;;connussent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse connu;que ;tu ;;;eusses connu;qu’;il/elle/on ;;;eût connu;que ;nous ;;;eussions connu;que ;vous ;;;eussiez connu;qu’;ils/elles ;;;eussent connu
-Conditionnel;conditionnel;;je ;;;connaitrais;;tu ;;;connaitrais;;il/elle/on ;;;connaitrait;;nous ;;;connaitrions;;vous ;;;connaitriez;;ils/elles ;;;connaitraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse connu;que ;tu ;;;eusses connu;qu’;il/elle/on ;;;eût connu;que ;nous ;;;eussions connu;que ;vous ;;;eussiez connu;qu’;ils/elles ;;;eussent connu
+Conditionnel Présent;conditionnel;;je ;;;connaitrais;;tu ;;;connaitrais;;il/elle/on ;;;connaitrait;;nous ;;;connaitrions;;vous ;;;connaitriez;;ils/elles ;;;connaitraient
 Conditionnel Passé;conditionnel;;j’;;;aurais connu;;tu ;;;aurais connu;;il/elle/on ;;;aurait connu;;nous ;;;aurions connu;;vous ;;;auriez connu;;ils/elles ;;;auraient connu
 Impératif Présent;impératif;;;;;;;(tu) ;;;connais;;;;;;;(nous) ;;;connaissons;;(vous) ;;;connaissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie connu;;;;;;;(nous) ;;;ayons connu;;(vous) ;;;ayez connu;;;;;

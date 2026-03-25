@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;obvier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir obvié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;obvier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir obvié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en obviant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant obvié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;obviant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;obvié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;obvie;;tu ;;;obvies;;il/elle/on ;;;obvie;;nous ;;;obvions;;vous ;;;obviez;;ils/elles ;;;obvient
 Indicatif Passé Composé;indicatif;;j’;;;ai obvié;;tu ;;;as obvié;;il/elle/on ;;;a obvié;;nous ;;;avons obvié;;vous ;;;avez obvié;;ils/elles ;;;ont obvié
 Indicatif Imparfait;indicatif;;j’;;;obviais;;tu ;;;obviais;;il/elle/on ;;;obviait;;nous ;;;obviions;;vous ;;;obviiez;;ils/elles ;;;obviaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais obvié;;tu ;;;avais obvié;;il/elle/on ;;;avait obvié;;nous ;;;avions obvié;;vous ;;;aviez obvié;;ils/elles ;;;avaient obvié
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais obvié;;tu ;;;avais obvié;;il/elle/on ;;;avait obvié;;nous ;;;avions obvié;;vous ;;;aviez obvié;;ils/elles ;;;avaient obvié
 Indicatif Passé Simple;indicatif;;j’;;;obviai;;tu ;;;obvias;;il/elle/on ;;;obvia;;nous ;;;obviâmes;;vous ;;;obviâtes;;ils/elles ;;;obvièrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus obvié;;tu ;;;eus obvié;;il/elle/on ;;;eut obvié;;nous ;;;eûmes obvié;;vous ;;;eûtes obvié;;ils/elles ;;;eurent obvié
 Indicatif Futur Simple;indicatif;;j’;;;obvierai;;tu ;;;obvieras;;il/elle/on ;;;obviera;;nous ;;;obvierons;;vous ;;;obvierez;;ils/elles ;;;obvieront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai obvié;;tu ;;;auras obvié;;i
 Subjonctif Présent;subjonctif;que ;j’;;;obvie;que ;tu ;;;obvies;qu’;il/elle/on ;;;obvie;que ;nous ;;;obviions;que ;vous ;;;obviiez;qu’;ils/elles ;;;obvient
 Subjonctif Passé;subjonctif;que ;j’;;;aie obvié;que ;tu ;;;aies obvié;qu’;il/elle/on ;;;ait obvié;que ;nous ;;;ayons obvié;que ;vous ;;;ayez obvié;qu’;ils/elles ;;;aient obvié
 Subjonctif Imparfait;subjonctif;que ;j’;;;obviasse;que ;tu ;;;obviasses;qu’;il/elle/on ;;;obviât;que ;nous ;;;obviassions;que ;vous ;;;obviassiez;qu’;ils/elles ;;;obviassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse obvié;que ;tu ;;;eusses obvié;qu’;il/elle/on ;;;eût obvié;que ;nous ;;;eussions obvié;que ;vous ;;;eussiez obvié;qu’;ils/elles ;;;eussent obvié
-Conditionnel;conditionnel;;j’;;;obvierais;;tu ;;;obvierais;;il/elle/on ;;;obvierait;;nous ;;;obvierions;;vous ;;;obvieriez;;ils/elles ;;;obvieraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse obvié;que ;tu ;;;eusses obvié;qu’;il/elle/on ;;;eût obvié;que ;nous ;;;eussions obvié;que ;vous ;;;eussiez obvié;qu’;ils/elles ;;;eussent obvié
+Conditionnel Présent;conditionnel;;j’;;;obvierais;;tu ;;;obvierais;;il/elle/on ;;;obvierait;;nous ;;;obvierions;;vous ;;;obvieriez;;ils/elles ;;;obvieraient
 Conditionnel Passé;conditionnel;;j’;;;aurais obvié;;tu ;;;aurais obvié;;il/elle/on ;;;aurait obvié;;nous ;;;aurions obvié;;vous ;;;auriez obvié;;ils/elles ;;;auraient obvié
 Impératif Présent;impératif;;;;;;;(tu) ;;;obvie;;;;;;;(nous) ;;;obvions;;(vous) ;;;obviez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie obvié;;;;;;;(nous) ;;;ayons obvié;;(vous) ;;;ayez obvié;;;;;

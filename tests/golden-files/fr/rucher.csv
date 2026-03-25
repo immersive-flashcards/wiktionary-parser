@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;rucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir ruché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;rucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir ruché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en ruchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant ruché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;ruchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;ruché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;ruche;;tu ;;;ruches;;il/elle/on ;;;ruche;;nous ;;;ruchons;;vous ;;;ruchez;;ils/elles ;;;ruchent
 Indicatif Passé Composé;indicatif;;j’;;;ai ruché;;tu ;;;as ruché;;il/elle/on ;;;a ruché;;nous ;;;avons ruché;;vous ;;;avez ruché;;ils/elles ;;;ont ruché
 Indicatif Imparfait;indicatif;;je ;;;ruchais;;tu ;;;ruchais;;il/elle/on ;;;ruchait;;nous ;;;ruchions;;vous ;;;ruchiez;;ils/elles ;;;ruchaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais ruché;;tu ;;;avais ruché;;il/elle/on ;;;avait ruché;;nous ;;;avions ruché;;vous ;;;aviez ruché;;ils/elles ;;;avaient ruché
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais ruché;;tu ;;;avais ruché;;il/elle/on ;;;avait ruché;;nous ;;;avions ruché;;vous ;;;aviez ruché;;ils/elles ;;;avaient ruché
 Indicatif Passé Simple;indicatif;;je ;;;ruchai;;tu ;;;ruchas;;il/elle/on ;;;rucha;;nous ;;;ruchâmes;;vous ;;;ruchâtes;;ils/elles ;;;ruchèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus ruché;;tu ;;;eus ruché;;il/elle/on ;;;eut ruché;;nous ;;;eûmes ruché;;vous ;;;eûtes ruché;;ils/elles ;;;eurent ruché
 Indicatif Futur Simple;indicatif;;je ;;;rucherai;;tu ;;;rucheras;;il/elle/on ;;;ruchera;;nous ;;;rucherons;;vous ;;;rucherez;;ils/elles ;;;rucheront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai ruché;;tu ;;;auras ruché;;i
 Subjonctif Présent;subjonctif;que ;je ;;;ruche;que ;tu ;;;ruches;qu’;il/elle/on ;;;ruche;que ;nous ;;;ruchions;que ;vous ;;;ruchiez;qu’;ils/elles ;;;ruchent
 Subjonctif Passé;subjonctif;que ;j’;;;aie ruché;que ;tu ;;;aies ruché;qu’;il/elle/on ;;;ait ruché;que ;nous ;;;ayons ruché;que ;vous ;;;ayez ruché;qu’;ils/elles ;;;aient ruché
 Subjonctif Imparfait;subjonctif;que ;je ;;;ruchasse;que ;tu ;;;ruchasses;qu’;il/elle/on ;;;ruchât;que ;nous ;;;ruchassions;que ;vous ;;;ruchassiez;qu’;ils/elles ;;;ruchassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse ruché;que ;tu ;;;eusses ruché;qu’;il/elle/on ;;;eût ruché;que ;nous ;;;eussions ruché;que ;vous ;;;eussiez ruché;qu’;ils/elles ;;;eussent ruché
-Conditionnel;conditionnel;;je ;;;rucherais;;tu ;;;rucherais;;il/elle/on ;;;rucherait;;nous ;;;rucherions;;vous ;;;rucheriez;;ils/elles ;;;rucheraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse ruché;que ;tu ;;;eusses ruché;qu’;il/elle/on ;;;eût ruché;que ;nous ;;;eussions ruché;que ;vous ;;;eussiez ruché;qu’;ils/elles ;;;eussent ruché
+Conditionnel Présent;conditionnel;;je ;;;rucherais;;tu ;;;rucherais;;il/elle/on ;;;rucherait;;nous ;;;rucherions;;vous ;;;rucheriez;;ils/elles ;;;rucheraient
 Conditionnel Passé;conditionnel;;j’;;;aurais ruché;;tu ;;;aurais ruché;;il/elle/on ;;;aurait ruché;;nous ;;;aurions ruché;;vous ;;;auriez ruché;;ils/elles ;;;auraient ruché
 Impératif Présent;impératif;;;;;;;(tu) ;;;ruche;;;;;;;(nous) ;;;ruchons;;(vous) ;;;ruchez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie ruché;;;;;;;(nous) ;;;ayons ruché;;(vous) ;;;ayez ruché;;;;;

@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;aller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;être allé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;aller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;être allé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en allant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en étant allé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;allant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;allé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;vais;;tu ;;;vas;;il/elle/on ;;;va;;nous ;;;allons;;vous ;;;allez;;ils/elles ;;;vont
 Indicatif Passé Composé;indicatif;;je ;;;suis allé;;tu ;;;es allé;;il/elle/on ;;;est allé;;nous ;;;sommes allés;;vous ;;;êtes allés;;ils/elles ;;;sont allés
 Indicatif Imparfait;indicatif;;j’;;;allais;;tu ;;;allais;;il/elle/on ;;;allait;;nous ;;;allions;;vous ;;;alliez;;ils/elles ;;;allaient
-Indicatif Plusqueparfait;indicatif;;j’;;;étais allé;;tu ;;;étais allé;;il/elle/on ;;;était allé;;nous ;;;étions allés;;vous ;;;étiez allés;;ils/elles ;;;étaient allés
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais allé;;tu ;;;étais allé;;il/elle/on ;;;était allé;;nous ;;;étions allés;;vous ;;;étiez allés;;ils/elles ;;;étaient allés
 Indicatif Passé Simple;indicatif;;j’;;;allai;;tu ;;;allas;;il/elle/on ;;;alla;;nous ;;;allâmes;;vous ;;;allâtes;;ils/elles ;;;allèrent
 Indicatif Passé Antérieur;indicatif;;je ;;;fus allé;;tu ;;;fus allé;;il/elle/on ;;;fut allé;;nous ;;;fûmes allés;;vous ;;;fûtes allés;;ils/elles ;;;furent allés
 Indicatif Futur Simple;indicatif;;j’;;;irai;;tu ;;;iras;;il/elle/on ;;;ira;;nous ;;;irons;;vous ;;;irez;;ils/elles ;;;iront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;je ;;;serai allé;;tu ;;;seras allé;;il/e
 Subjonctif Présent;subjonctif;que ;j’;;;aille;que ;tu ;;;ailles;qu’;il/elle/on ;;;aille;que ;nous ;;;allions;que ;vous ;;;alliez;qu’;ils/elles ;;;aillent
 Subjonctif Passé;subjonctif;que ;je ;;;sois allé;que ;tu ;;;sois allé;qu’;il/elle/on ;;;soit allé;que ;nous ;;;soyons allés;que ;vous ;;;soyez allés;qu’;ils/elles ;;;soient allés
 Subjonctif Imparfait;subjonctif;que ;j’;;;allasse;que ;tu ;;;allasses;qu’;il/elle/on ;;;allât;que ;nous ;;;allassions;que ;vous ;;;allassiez;qu’;ils/elles ;;;allassent
-Subjonctif Plusqueparfait;subjonctif;que ;je ;;;fusse allé;que ;tu ;;;fusses allé;qu’;il/elle/on ;;;fût allé;que ;nous ;;;fussions allés;que ;vous ;;;fussiez allés;qu’;ils/elles ;;;fussent allés
-Conditionnel;conditionnel;;j’;;;irais;;tu ;;;irais;;il/elle/on ;;;irait;;nous ;;;irions;;vous ;;;iriez;;ils/elles ;;;iraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse allé;que ;tu ;;;fusses allé;qu’;il/elle/on ;;;fût allé;que ;nous ;;;fussions allés;que ;vous ;;;fussiez allés;qu’;ils/elles ;;;fussent allés
+Conditionnel Présent;conditionnel;;j’;;;irais;;tu ;;;irais;;il/elle/on ;;;irait;;nous ;;;irions;;vous ;;;iriez;;ils/elles ;;;iraient
 Conditionnel Passé;conditionnel;;je ;;;serais allé;;tu ;;;serais allé;;il/elle/on ;;;serait allé;;nous ;;;serions allés;;vous ;;;seriez allés;;ils/elles ;;;seraient allés
 Impératif Présent;impératif;;;;;;;(tu) ;;;va;;;;;;;(nous) ;;;allons;;(vous) ;;;allez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois allé;;;;;;;(nous) ;;;soyons allés;;(vous) ;;;soyez allés;;;;;

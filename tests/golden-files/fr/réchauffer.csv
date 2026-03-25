@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;réchauffer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir réchauffé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;réchauffer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir réchauffé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en réchauffant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant réchauffé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;réchauffant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;réchauffé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;réchauffe;;tu ;;;réchauffes;;il/elle/on ;;;réchauffe;;nous ;;;réchauffons;;vous ;;;réchauffez;;ils/elles ;;;réchauffent
 Indicatif Passé Composé;indicatif;;j’;;;ai réchauffé;;tu ;;;as réchauffé;;il/elle/on ;;;a réchauffé;;nous ;;;avons réchauffé;;vous ;;;avez réchauffé;;ils/elles ;;;ont réchauffé
 Indicatif Imparfait;indicatif;;je ;;;réchauffais;;tu ;;;réchauffais;;il/elle/on ;;;réchauffait;;nous ;;;réchauffions;;vous ;;;réchauffiez;;ils/elles ;;;réchauffaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais réchauffé;;tu ;;;avais réchauffé;;il/elle/on ;;;avait réchauffé;;nous ;;;avions réchauffé;;vous ;;;aviez réchauffé;;ils/elles ;;;avaient réchauffé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais réchauffé;;tu ;;;avais réchauffé;;il/elle/on ;;;avait réchauffé;;nous ;;;avions réchauffé;;vous ;;;aviez réchauffé;;ils/elles ;;;avaient réchauffé
 Indicatif Passé Simple;indicatif;;je ;;;réchauffai;;tu ;;;réchauffas;;il/elle/on ;;;réchauffa;;nous ;;;réchauffâmes;;vous ;;;réchauffâtes;;ils/elles ;;;réchauffèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus réchauffé;;tu ;;;eus réchauffé;;il/elle/on ;;;eut réchauffé;;nous ;;;eûmes réchauffé;;vous ;;;eûtes réchauffé;;ils/elles ;;;eurent réchauffé
 Indicatif Futur Simple;indicatif;;je ;;;réchaufferai;;tu ;;;réchaufferas;;il/elle/on ;;;réchauffera;;nous ;;;réchaufferons;;vous ;;;réchaufferez;;ils/elles ;;;réchaufferont
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai réchauffé;;tu ;;;auras réc
 Subjonctif Présent;subjonctif;que ;je ;;;réchauffe;que ;tu ;;;réchauffes;qu’;il/elle/on ;;;réchauffe;que ;nous ;;;réchauffions;que ;vous ;;;réchauffiez;qu’;ils/elles ;;;réchauffent
 Subjonctif Passé;subjonctif;que ;j’;;;aie réchauffé;que ;tu ;;;aies réchauffé;qu’;il/elle/on ;;;ait réchauffé;que ;nous ;;;ayons réchauffé;que ;vous ;;;ayez réchauffé;qu’;ils/elles ;;;aient réchauffé
 Subjonctif Imparfait;subjonctif;que ;je ;;;réchauffasse;que ;tu ;;;réchauffasses;qu’;il/elle/on ;;;réchauffât;que ;nous ;;;réchauffassions;que ;vous ;;;réchauffassiez;qu’;ils/elles ;;;réchauffassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse réchauffé;que ;tu ;;;eusses réchauffé;qu’;il/elle/on ;;;eût réchauffé;que ;nous ;;;eussions réchauffé;que ;vous ;;;eussiez réchauffé;qu’;ils/elles ;;;eussent réchauffé
-Conditionnel;conditionnel;;je ;;;réchaufferais;;tu ;;;réchaufferais;;il/elle/on ;;;réchaufferait;;nous ;;;réchaufferions;;vous ;;;réchaufferiez;;ils/elles ;;;réchaufferaient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse réchauffé;que ;tu ;;;eusses réchauffé;qu’;il/elle/on ;;;eût réchauffé;que ;nous ;;;eussions réchauffé;que ;vous ;;;eussiez réchauffé;qu’;ils/elles ;;;eussent réchauffé
+Conditionnel Présent;conditionnel;;je ;;;réchaufferais;;tu ;;;réchaufferais;;il/elle/on ;;;réchaufferait;;nous ;;;réchaufferions;;vous ;;;réchaufferiez;;ils/elles ;;;réchaufferaient
 Conditionnel Passé;conditionnel;;j’;;;aurais réchauffé;;tu ;;;aurais réchauffé;;il/elle/on ;;;aurait réchauffé;;nous ;;;aurions réchauffé;;vous ;;;auriez réchauffé;;ils/elles ;;;auraient réchauffé
 Impératif Présent;impératif;;;;;;;(tu) ;;;réchauffe;;;;;;;(nous) ;;;réchauffons;;(vous) ;;;réchauffez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie réchauffé;;;;;;;(nous) ;;;ayons réchauffé;;(vous) ;;;ayez réchauffé;;;;;

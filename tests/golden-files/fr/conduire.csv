@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;conduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir conduit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;conduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir conduit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en conduisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant conduit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;conduisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;conduit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;conduis;;tu ;;;conduis;;il/elle/on ;;;conduit;;nous ;;;conduisons;;vous ;;;conduisez;;ils/elles ;;;conduisent
 Indicatif Passé Composé;indicatif;;j’;;;ai conduit;;tu ;;;as conduit;;il/elle/on ;;;a conduit;;nous ;;;avons conduit;;vous ;;;avez conduit;;ils/elles ;;;ont conduit
 Indicatif Imparfait;indicatif;;je ;;;conduisais;;tu ;;;conduisais;;il/elle/on ;;;conduisait;;nous ;;;conduisions;;vous ;;;conduisiez;;ils/elles ;;;conduisaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais conduit;;tu ;;;avais conduit;;il/elle/on ;;;avait conduit;;nous ;;;avions conduit;;vous ;;;aviez conduit;;ils/elles ;;;avaient conduit
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais conduit;;tu ;;;avais conduit;;il/elle/on ;;;avait conduit;;nous ;;;avions conduit;;vous ;;;aviez conduit;;ils/elles ;;;avaient conduit
 Indicatif Passé Simple;indicatif;;je ;;;conduisis;;tu ;;;conduisis;;il/elle/on ;;;conduisit;;nous ;;;conduisîmes;;vous ;;;conduisîtes;;ils/elles ;;;conduisirent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus conduit;;tu ;;;eus conduit;;il/elle/on ;;;eut conduit;;nous ;;;eûmes conduit;;vous ;;;eûtes conduit;;ils/elles ;;;eurent conduit
 Indicatif Futur Simple;indicatif;;je ;;;conduirai;;tu ;;;conduiras;;il/elle/on ;;;conduira;;nous ;;;conduirons;;vous ;;;conduirez;;ils/elles ;;;conduiront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai conduit;;tu ;;;auras conduit;
 Subjonctif Présent;subjonctif;que ;je ;;;conduise;que ;tu ;;;conduises;qu’;il/elle/on ;;;conduise;que ;nous ;;;conduisions;que ;vous ;;;conduisiez;qu’;ils/elles ;;;conduisent
 Subjonctif Passé;subjonctif;que ;j’;;;aie conduit;que ;tu ;;;aies conduit;qu’;il/elle/on ;;;ait conduit;que ;nous ;;;ayons conduit;que ;vous ;;;ayez conduit;qu’;ils/elles ;;;aient conduit
 Subjonctif Imparfait;subjonctif;que ;je ;;;conduisisse;que ;tu ;;;conduisisses;qu’;il/elle/on ;;;conduisît;que ;nous ;;;conduisissions;que ;vous ;;;conduisissiez;qu’;ils/elles ;;;conduisissent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse conduit;que ;tu ;;;eusses conduit;qu’;il/elle/on ;;;eût conduit;que ;nous ;;;eussions conduit;que ;vous ;;;eussiez conduit;qu’;ils/elles ;;;eussent conduit
-Conditionnel;conditionnel;;je ;;;conduirais;;tu ;;;conduirais;;il/elle/on ;;;conduirait;;nous ;;;conduirions;;vous ;;;conduiriez;;ils/elles ;;;conduiraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse conduit;que ;tu ;;;eusses conduit;qu’;il/elle/on ;;;eût conduit;que ;nous ;;;eussions conduit;que ;vous ;;;eussiez conduit;qu’;ils/elles ;;;eussent conduit
+Conditionnel Présent;conditionnel;;je ;;;conduirais;;tu ;;;conduirais;;il/elle/on ;;;conduirait;;nous ;;;conduirions;;vous ;;;conduiriez;;ils/elles ;;;conduiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais conduit;;tu ;;;aurais conduit;;il/elle/on ;;;aurait conduit;;nous ;;;aurions conduit;;vous ;;;auriez conduit;;ils/elles ;;;auraient conduit
 Impératif Présent;impératif;;;;;;;(tu) ;;;conduis;;;;;;;(nous) ;;;conduisons;;(vous) ;;;conduisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie conduit;;;;;;;(nous) ;;;ayons conduit;;(vous) ;;;ayez conduit;;;;;

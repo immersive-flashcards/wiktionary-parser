@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;manger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir mangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;manger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir mangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en mangeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant mangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;mangeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;mangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;mange;;tu ;;;manges;;il/elle/on ;;;mange;;nous ;;;mangeons;;vous ;;;mangez;;ils/elles ;;;mangent
 Indicatif Passé Composé;indicatif;;j’;;;ai mangé;;tu ;;;as mangé;;il/elle/on ;;;a mangé;;nous ;;;avons mangé;;vous ;;;avez mangé;;ils/elles ;;;ont mangé
 Indicatif Imparfait;indicatif;;je ;;;mangeais;;tu ;;;mangeais;;il/elle/on ;;;mangeait;;nous ;;;mangions;;vous ;;;mangiez;;ils/elles ;;;mangeaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais mangé;;tu ;;;avais mangé;;il/elle/on ;;;avait mangé;;nous ;;;avions mangé;;vous ;;;aviez mangé;;ils/elles ;;;avaient mangé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais mangé;;tu ;;;avais mangé;;il/elle/on ;;;avait mangé;;nous ;;;avions mangé;;vous ;;;aviez mangé;;ils/elles ;;;avaient mangé
 Indicatif Passé Simple;indicatif;;je ;;;mangeai;;tu ;;;mangeas;;il/elle/on ;;;mangea;;nous ;;;mangeâmes;;vous ;;;mangeâtes;;ils/elles ;;;mangèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus mangé;;tu ;;;eus mangé;;il/elle/on ;;;eut mangé;;nous ;;;eûmes mangé;;vous ;;;eûtes mangé;;ils/elles ;;;eurent mangé
 Indicatif Futur Simple;indicatif;;je ;;;mangerai;;tu ;;;mangeras;;il/elle/on ;;;mangera;;nous ;;;mangerons;;vous ;;;mangerez;;ils/elles ;;;mangeront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai mangé;;tu ;;;auras mangé;;i
 Subjonctif Présent;subjonctif;que ;je ;;;mange;que ;tu ;;;manges;qu’;il/elle/on ;;;mange;que ;nous ;;;mangions;que ;vous ;;;mangiez;qu’;ils/elles ;;;mangent
 Subjonctif Passé;subjonctif;que ;j’;;;aie mangé;que ;tu ;;;aies mangé;qu’;il/elle/on ;;;ait mangé;que ;nous ;;;ayons mangé;que ;vous ;;;ayez mangé;qu’;ils/elles ;;;aient mangé
 Subjonctif Imparfait;subjonctif;que ;je ;;;mangeasse;que ;tu ;;;mangeasses;qu’;il/elle/on ;;;mangeât;que ;nous ;;;mangeassions;que ;vous ;;;mangeassiez;qu’;ils/elles ;;;mangeassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse mangé;que ;tu ;;;eusses mangé;qu’;il/elle/on ;;;eût mangé;que ;nous ;;;eussions mangé;que ;vous ;;;eussiez mangé;qu’;ils/elles ;;;eussent mangé
-Conditionnel;conditionnel;;je ;;;mangerais;;tu ;;;mangerais;;il/elle/on ;;;mangerait;;nous ;;;mangerions;;vous ;;;mangeriez;;ils/elles ;;;mangeraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse mangé;que ;tu ;;;eusses mangé;qu’;il/elle/on ;;;eût mangé;que ;nous ;;;eussions mangé;que ;vous ;;;eussiez mangé;qu’;ils/elles ;;;eussent mangé
+Conditionnel Présent;conditionnel;;je ;;;mangerais;;tu ;;;mangerais;;il/elle/on ;;;mangerait;;nous ;;;mangerions;;vous ;;;mangeriez;;ils/elles ;;;mangeraient
 Conditionnel Passé;conditionnel;;j’;;;aurais mangé;;tu ;;;aurais mangé;;il/elle/on ;;;aurait mangé;;nous ;;;aurions mangé;;vous ;;;auriez mangé;;ils/elles ;;;auraient mangé
 Impératif Présent;impératif;;;;;;;(tu) ;;;mange;;;;;;;(nous) ;;;mangeons;;(vous) ;;;mangez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie mangé;;;;;;;(nous) ;;;ayons mangé;;(vous) ;;;ayez mangé;;;;;

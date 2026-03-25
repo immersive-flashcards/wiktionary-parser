@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;disséminer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir disséminé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;disséminer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir disséminé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en disséminant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant disséminé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;disséminant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;disséminé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;dissémine;;tu ;;;dissémines;;il/elle/on ;;;dissémine;;nous ;;;disséminons;;vous ;;;disséminez;;ils/elles ;;;disséminent
 Indicatif Passé Composé;indicatif;;j’;;;ai disséminé;;tu ;;;as disséminé;;il/elle/on ;;;a disséminé;;nous ;;;avons disséminé;;vous ;;;avez disséminé;;ils/elles ;;;ont disséminé
 Indicatif Imparfait;indicatif;;je ;;;disséminais;;tu ;;;disséminais;;il/elle/on ;;;disséminait;;nous ;;;disséminions;;vous ;;;disséminiez;;ils/elles ;;;disséminaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais disséminé;;tu ;;;avais disséminé;;il/elle/on ;;;avait disséminé;;nous ;;;avions disséminé;;vous ;;;aviez disséminé;;ils/elles ;;;avaient disséminé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais disséminé;;tu ;;;avais disséminé;;il/elle/on ;;;avait disséminé;;nous ;;;avions disséminé;;vous ;;;aviez disséminé;;ils/elles ;;;avaient disséminé
 Indicatif Passé Simple;indicatif;;je ;;;disséminai;;tu ;;;disséminas;;il/elle/on ;;;dissémina;;nous ;;;disséminâmes;;vous ;;;disséminâtes;;ils/elles ;;;disséminèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus disséminé;;tu ;;;eus disséminé;;il/elle/on ;;;eut disséminé;;nous ;;;eûmes disséminé;;vous ;;;eûtes disséminé;;ils/elles ;;;eurent disséminé
 Indicatif Futur Simple;indicatif;;je ;;;disséminerai;;tu ;;;dissémineras;;il/elle/on ;;;disséminera;;nous ;;;disséminerons;;vous ;;;disséminerez;;ils/elles ;;;dissémineront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai disséminé;;tu ;;;auras diss
 Subjonctif Présent;subjonctif;que ;je ;;;dissémine;que ;tu ;;;dissémines;qu’;il/elle/on ;;;dissémine;que ;nous ;;;disséminions;que ;vous ;;;disséminiez;qu’;ils/elles ;;;disséminent
 Subjonctif Passé;subjonctif;que ;j’;;;aie disséminé;que ;tu ;;;aies disséminé;qu’;il/elle/on ;;;ait disséminé;que ;nous ;;;ayons disséminé;que ;vous ;;;ayez disséminé;qu’;ils/elles ;;;aient disséminé
 Subjonctif Imparfait;subjonctif;que ;je ;;;disséminasse;que ;tu ;;;disséminasses;qu’;il/elle/on ;;;disséminât;que ;nous ;;;disséminassions;que ;vous ;;;disséminassiez;qu’;ils/elles ;;;disséminassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse disséminé;que ;tu ;;;eusses disséminé;qu’;il/elle/on ;;;eût disséminé;que ;nous ;;;eussions disséminé;que ;vous ;;;eussiez disséminé;qu’;ils/elles ;;;eussent disséminé
-Conditionnel;conditionnel;;je ;;;disséminerais;;tu ;;;disséminerais;;il/elle/on ;;;disséminerait;;nous ;;;disséminerions;;vous ;;;dissémineriez;;ils/elles ;;;dissémineraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse disséminé;que ;tu ;;;eusses disséminé;qu’;il/elle/on ;;;eût disséminé;que ;nous ;;;eussions disséminé;que ;vous ;;;eussiez disséminé;qu’;ils/elles ;;;eussent disséminé
+Conditionnel Présent;conditionnel;;je ;;;disséminerais;;tu ;;;disséminerais;;il/elle/on ;;;disséminerait;;nous ;;;disséminerions;;vous ;;;dissémineriez;;ils/elles ;;;dissémineraient
 Conditionnel Passé;conditionnel;;j’;;;aurais disséminé;;tu ;;;aurais disséminé;;il/elle/on ;;;aurait disséminé;;nous ;;;aurions disséminé;;vous ;;;auriez disséminé;;ils/elles ;;;auraient disséminé
 Impératif Présent;impératif;;;;;;;(tu) ;;;dissémine;;;;;;;(nous) ;;;disséminons;;(vous) ;;;disséminez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie disséminé;;;;;;;(nous) ;;;ayons disséminé;;(vous) ;;;ayez disséminé;;;;;

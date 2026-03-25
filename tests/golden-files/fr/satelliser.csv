@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;satelliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir satellisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;satelliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir satellisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en satellisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant satellisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;satellisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;satellisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;satellise;;tu ;;;satellises;;il/elle/on ;;;satellise;;nous ;;;satellisons;;vous ;;;satellisez;;ils/elles ;;;satellisent
 Indicatif Passé Composé;indicatif;;j’;;;ai satellisé;;tu ;;;as satellisé;;il/elle/on ;;;a satellisé;;nous ;;;avons satellisé;;vous ;;;avez satellisé;;ils/elles ;;;ont satellisé
 Indicatif Imparfait;indicatif;;je ;;;satellisais;;tu ;;;satellisais;;il/elle/on ;;;satellisait;;nous ;;;satellisions;;vous ;;;satellisiez;;ils/elles ;;;satellisaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais satellisé;;tu ;;;avais satellisé;;il/elle/on ;;;avait satellisé;;nous ;;;avions satellisé;;vous ;;;aviez satellisé;;ils/elles ;;;avaient satellisé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais satellisé;;tu ;;;avais satellisé;;il/elle/on ;;;avait satellisé;;nous ;;;avions satellisé;;vous ;;;aviez satellisé;;ils/elles ;;;avaient satellisé
 Indicatif Passé Simple;indicatif;;je ;;;satellisai;;tu ;;;satellisas;;il/elle/on ;;;satellisa;;nous ;;;satellisâmes;;vous ;;;satellisâtes;;ils/elles ;;;satellisèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus satellisé;;tu ;;;eus satellisé;;il/elle/on ;;;eut satellisé;;nous ;;;eûmes satellisé;;vous ;;;eûtes satellisé;;ils/elles ;;;eurent satellisé
 Indicatif Futur Simple;indicatif;;je ;;;satelliserai;;tu ;;;satelliseras;;il/elle/on ;;;satellisera;;nous ;;;satelliserons;;vous ;;;satelliserez;;ils/elles ;;;satelliseront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai satellisé;;tu ;;;auras satel
 Subjonctif Présent;subjonctif;que ;je ;;;satellise;que ;tu ;;;satellises;qu’;il/elle/on ;;;satellise;que ;nous ;;;satellisions;que ;vous ;;;satellisiez;qu’;ils/elles ;;;satellisent
 Subjonctif Passé;subjonctif;que ;j’;;;aie satellisé;que ;tu ;;;aies satellisé;qu’;il/elle/on ;;;ait satellisé;que ;nous ;;;ayons satellisé;que ;vous ;;;ayez satellisé;qu’;ils/elles ;;;aient satellisé
 Subjonctif Imparfait;subjonctif;que ;je ;;;satellisasse;que ;tu ;;;satellisasses;qu’;il/elle/on ;;;satellisât;que ;nous ;;;satellisassions;que ;vous ;;;satellisassiez;qu’;ils/elles ;;;satellisassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse satellisé;que ;tu ;;;eusses satellisé;qu’;il/elle/on ;;;eût satellisé;que ;nous ;;;eussions satellisé;que ;vous ;;;eussiez satellisé;qu’;ils/elles ;;;eussent satellisé
-Conditionnel;conditionnel;;je ;;;satelliserais;;tu ;;;satelliserais;;il/elle/on ;;;satelliserait;;nous ;;;satelliserions;;vous ;;;satelliseriez;;ils/elles ;;;satelliseraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse satellisé;que ;tu ;;;eusses satellisé;qu’;il/elle/on ;;;eût satellisé;que ;nous ;;;eussions satellisé;que ;vous ;;;eussiez satellisé;qu’;ils/elles ;;;eussent satellisé
+Conditionnel Présent;conditionnel;;je ;;;satelliserais;;tu ;;;satelliserais;;il/elle/on ;;;satelliserait;;nous ;;;satelliserions;;vous ;;;satelliseriez;;ils/elles ;;;satelliseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais satellisé;;tu ;;;aurais satellisé;;il/elle/on ;;;aurait satellisé;;nous ;;;aurions satellisé;;vous ;;;auriez satellisé;;ils/elles ;;;auraient satellisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;satellise;;;;;;;(nous) ;;;satellisons;;(vous) ;;;satellisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie satellisé;;;;;;;(nous) ;;;ayons satellisé;;(vous) ;;;ayez satellisé;;;;;

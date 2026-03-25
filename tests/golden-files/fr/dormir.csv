@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;dormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir dormi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;dormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir dormi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en dormant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant dormi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;dormant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;dormi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;dors;;tu ;;;dors;;il/elle/on ;;;dort;;nous ;;;dormons;;vous ;;;dormez;;ils/elles ;;;dorment
 Indicatif Passé Composé;indicatif;;j’;;;ai dormi;;tu ;;;as dormi;;il/elle/on ;;;a dormi;;nous ;;;avons dormi;;vous ;;;avez dormi;;ils/elles ;;;ont dormi
 Indicatif Imparfait;indicatif;;je ;;;dormais;;tu ;;;dormais;;il/elle/on ;;;dormait;;nous ;;;dormions;;vous ;;;dormiez;;ils/elles ;;;dormaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais dormi;;tu ;;;avais dormi;;il/elle/on ;;;avait dormi;;nous ;;;avions dormi;;vous ;;;aviez dormi;;ils/elles ;;;avaient dormi
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais dormi;;tu ;;;avais dormi;;il/elle/on ;;;avait dormi;;nous ;;;avions dormi;;vous ;;;aviez dormi;;ils/elles ;;;avaient dormi
 Indicatif Passé Simple;indicatif;;je ;;;dormis;;tu ;;;dormis;;il/elle/on ;;;dormit;;nous ;;;dormîmes;;vous ;;;dormîtes;;ils/elles ;;;dormirent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus dormi;;tu ;;;eus dormi;;il/elle/on ;;;eut dormi;;nous ;;;eûmes dormi;;vous ;;;eûtes dormi;;ils/elles ;;;eurent dormi
 Indicatif Futur Simple;indicatif;;je ;;;dormirai;;tu ;;;dormiras;;il/elle/on ;;;dormira;;nous ;;;dormirons;;vous ;;;dormirez;;ils/elles ;;;dormiront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai dormi;;tu ;;;auras dormi;;il/
 Subjonctif Présent;subjonctif;que ;je ;;;dorme;que ;tu ;;;dormes;qu’;il/elle/on ;;;dorme;que ;nous ;;;dormions;que ;vous ;;;dormiez;qu’;ils/elles ;;;dorment
 Subjonctif Passé;subjonctif;que ;j’;;;aie dormi;que ;tu ;;;aies dormi;qu’;il/elle/on ;;;ait dormi;que ;nous ;;;ayons dormi;que ;vous ;;;ayez dormi;qu’;ils/elles ;;;aient dormi
 Subjonctif Imparfait;subjonctif;que ;je ;;;dormisse;que ;tu ;;;dormisses;qu’;il/elle/on ;;;dormît;que ;nous ;;;dormissions;que ;vous ;;;dormissiez;qu’;ils/elles ;;;dormissent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse dormi;que ;tu ;;;eusses dormi;qu’;il/elle/on ;;;eût dormi;que ;nous ;;;eussions dormi;que ;vous ;;;eussiez dormi;qu’;ils/elles ;;;eussent dormi
-Conditionnel;conditionnel;;je ;;;dormirais;;tu ;;;dormirais;;il/elle/on ;;;dormirait;;nous ;;;dormirions;;vous ;;;dormiriez;;ils/elles ;;;dormiraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse dormi;que ;tu ;;;eusses dormi;qu’;il/elle/on ;;;eût dormi;que ;nous ;;;eussions dormi;que ;vous ;;;eussiez dormi;qu’;ils/elles ;;;eussent dormi
+Conditionnel Présent;conditionnel;;je ;;;dormirais;;tu ;;;dormirais;;il/elle/on ;;;dormirait;;nous ;;;dormirions;;vous ;;;dormiriez;;ils/elles ;;;dormiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais dormi;;tu ;;;aurais dormi;;il/elle/on ;;;aurait dormi;;nous ;;;aurions dormi;;vous ;;;auriez dormi;;ils/elles ;;;auraient dormi
 Impératif Présent;impératif;;;;;;;(tu) ;;;dors;;;;;;;(nous) ;;;dormons;;(vous) ;;;dormez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie dormi;;;;;;;(nous) ;;;ayons dormi;;(vous) ;;;ayez dormi;;;;;

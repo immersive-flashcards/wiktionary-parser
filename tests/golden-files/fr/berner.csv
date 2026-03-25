@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;berner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir berné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;berner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir berné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en bernant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant berné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;bernant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;berné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;berne;;tu ;;;bernes;;il/elle/on ;;;berne;;nous ;;;bernons;;vous ;;;bernez;;ils/elles ;;;bernent
 Indicatif Passé Composé;indicatif;;j’;;;ai berné;;tu ;;;as berné;;il/elle/on ;;;a berné;;nous ;;;avons berné;;vous ;;;avez berné;;ils/elles ;;;ont berné
 Indicatif Imparfait;indicatif;;je ;;;bernais;;tu ;;;bernais;;il/elle/on ;;;bernait;;nous ;;;bernions;;vous ;;;berniez;;ils/elles ;;;bernaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais berné;;tu ;;;avais berné;;il/elle/on ;;;avait berné;;nous ;;;avions berné;;vous ;;;aviez berné;;ils/elles ;;;avaient berné
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais berné;;tu ;;;avais berné;;il/elle/on ;;;avait berné;;nous ;;;avions berné;;vous ;;;aviez berné;;ils/elles ;;;avaient berné
 Indicatif Passé Simple;indicatif;;je ;;;bernai;;tu ;;;bernas;;il/elle/on ;;;berna;;nous ;;;bernâmes;;vous ;;;bernâtes;;ils/elles ;;;bernèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus berné;;tu ;;;eus berné;;il/elle/on ;;;eut berné;;nous ;;;eûmes berné;;vous ;;;eûtes berné;;ils/elles ;;;eurent berné
 Indicatif Futur Simple;indicatif;;je ;;;bernerai;;tu ;;;berneras;;il/elle/on ;;;bernera;;nous ;;;bernerons;;vous ;;;bernerez;;ils/elles ;;;berneront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai berné;;tu ;;;auras berné;;i
 Subjonctif Présent;subjonctif;que ;je ;;;berne;que ;tu ;;;bernes;qu’;il/elle/on ;;;berne;que ;nous ;;;bernions;que ;vous ;;;berniez;qu’;ils/elles ;;;bernent
 Subjonctif Passé;subjonctif;que ;j’;;;aie berné;que ;tu ;;;aies berné;qu’;il/elle/on ;;;ait berné;que ;nous ;;;ayons berné;que ;vous ;;;ayez berné;qu’;ils/elles ;;;aient berné
 Subjonctif Imparfait;subjonctif;que ;je ;;;bernasse;que ;tu ;;;bernasses;qu’;il/elle/on ;;;bernât;que ;nous ;;;bernassions;que ;vous ;;;bernassiez;qu’;ils/elles ;;;bernassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse berné;que ;tu ;;;eusses berné;qu’;il/elle/on ;;;eût berné;que ;nous ;;;eussions berné;que ;vous ;;;eussiez berné;qu’;ils/elles ;;;eussent berné
-Conditionnel;conditionnel;;je ;;;bernerais;;tu ;;;bernerais;;il/elle/on ;;;bernerait;;nous ;;;bernerions;;vous ;;;berneriez;;ils/elles ;;;berneraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse berné;que ;tu ;;;eusses berné;qu’;il/elle/on ;;;eût berné;que ;nous ;;;eussions berné;que ;vous ;;;eussiez berné;qu’;ils/elles ;;;eussent berné
+Conditionnel Présent;conditionnel;;je ;;;bernerais;;tu ;;;bernerais;;il/elle/on ;;;bernerait;;nous ;;;bernerions;;vous ;;;berneriez;;ils/elles ;;;berneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais berné;;tu ;;;aurais berné;;il/elle/on ;;;aurait berné;;nous ;;;aurions berné;;vous ;;;auriez berné;;ils/elles ;;;auraient berné
 Impératif Présent;impératif;;;;;;;(tu) ;;;berne;;;;;;;(nous) ;;;bernons;;(vous) ;;;bernez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie berné;;;;;;;(nous) ;;;ayons berné;;(vous) ;;;ayez berné;;;;;

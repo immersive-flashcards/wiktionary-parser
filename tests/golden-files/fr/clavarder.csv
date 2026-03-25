@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;clavarder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir clavardé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;clavarder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir clavardé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en clavardant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant clavardé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;clavardant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;clavardé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;clavarde;;tu ;;;clavardes;;il/elle/on ;;;clavarde;;nous ;;;clavardons;;vous ;;;clavardez;;ils/elles ;;;clavardent
 Indicatif Passé Composé;indicatif;;j’;;;ai clavardé;;tu ;;;as clavardé;;il/elle/on ;;;a clavardé;;nous ;;;avons clavardé;;vous ;;;avez clavardé;;ils/elles ;;;ont clavardé
 Indicatif Imparfait;indicatif;;je ;;;clavardais;;tu ;;;clavardais;;il/elle/on ;;;clavardait;;nous ;;;clavardions;;vous ;;;clavardiez;;ils/elles ;;;clavardaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais clavardé;;tu ;;;avais clavardé;;il/elle/on ;;;avait clavardé;;nous ;;;avions clavardé;;vous ;;;aviez clavardé;;ils/elles ;;;avaient clavardé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais clavardé;;tu ;;;avais clavardé;;il/elle/on ;;;avait clavardé;;nous ;;;avions clavardé;;vous ;;;aviez clavardé;;ils/elles ;;;avaient clavardé
 Indicatif Passé Simple;indicatif;;je ;;;clavardai;;tu ;;;clavardas;;il/elle/on ;;;clavarda;;nous ;;;clavardâmes;;vous ;;;clavardâtes;;ils/elles ;;;clavardèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus clavardé;;tu ;;;eus clavardé;;il/elle/on ;;;eut clavardé;;nous ;;;eûmes clavardé;;vous ;;;eûtes clavardé;;ils/elles ;;;eurent clavardé
 Indicatif Futur Simple;indicatif;;je ;;;clavarderai;;tu ;;;clavarderas;;il/elle/on ;;;clavardera;;nous ;;;clavarderons;;vous ;;;clavarderez;;ils/elles ;;;clavarderont
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai clavardé;;tu ;;;auras clavar
 Subjonctif Présent;subjonctif;que ;je ;;;clavarde;que ;tu ;;;clavardes;qu’;il/elle/on ;;;clavarde;que ;nous ;;;clavardions;que ;vous ;;;clavardiez;qu’;ils/elles ;;;clavardent
 Subjonctif Passé;subjonctif;que ;j’;;;aie clavardé;que ;tu ;;;aies clavardé;qu’;il/elle/on ;;;ait clavardé;que ;nous ;;;ayons clavardé;que ;vous ;;;ayez clavardé;qu’;ils/elles ;;;aient clavardé
 Subjonctif Imparfait;subjonctif;que ;je ;;;clavardasse;que ;tu ;;;clavardasses;qu’;il/elle/on ;;;clavardât;que ;nous ;;;clavardassions;que ;vous ;;;clavardassiez;qu’;ils/elles ;;;clavardassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse clavardé;que ;tu ;;;eusses clavardé;qu’;il/elle/on ;;;eût clavardé;que ;nous ;;;eussions clavardé;que ;vous ;;;eussiez clavardé;qu’;ils/elles ;;;eussent clavardé
-Conditionnel;conditionnel;;je ;;;clavarderais;;tu ;;;clavarderais;;il/elle/on ;;;clavarderait;;nous ;;;clavarderions;;vous ;;;clavarderiez;;ils/elles ;;;clavarderaient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse clavardé;que ;tu ;;;eusses clavardé;qu’;il/elle/on ;;;eût clavardé;que ;nous ;;;eussions clavardé;que ;vous ;;;eussiez clavardé;qu’;ils/elles ;;;eussent clavardé
+Conditionnel Présent;conditionnel;;je ;;;clavarderais;;tu ;;;clavarderais;;il/elle/on ;;;clavarderait;;nous ;;;clavarderions;;vous ;;;clavarderiez;;ils/elles ;;;clavarderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais clavardé;;tu ;;;aurais clavardé;;il/elle/on ;;;aurait clavardé;;nous ;;;aurions clavardé;;vous ;;;auriez clavardé;;ils/elles ;;;auraient clavardé
 Impératif Présent;impératif;;;;;;;(tu) ;;;clavarde;;;;;;;(nous) ;;;clavardons;;(vous) ;;;clavardez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie clavardé;;;;;;;(nous) ;;;ayons clavardé;;(vous) ;;;ayez clavardé;;;;;

@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;gagner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir gagné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;gagner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir gagné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en gagnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant gagné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;gagnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;gagné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;gagne;;tu ;;;gagnes;;il/elle/on ;;;gagne;;nous ;;;gagnons;;vous ;;;gagnez;;ils/elles ;;;gagnent
 Indicatif Passé Composé;indicatif;;j’;;;ai gagné;;tu ;;;as gagné;;il/elle/on ;;;a gagné;;nous ;;;avons gagné;;vous ;;;avez gagné;;ils/elles ;;;ont gagné
 Indicatif Imparfait;indicatif;;je ;;;gagnais;;tu ;;;gagnais;;il/elle/on ;;;gagnait;;nous ;;;gagnions;;vous ;;;gagniez;;ils/elles ;;;gagnaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais gagné;;tu ;;;avais gagné;;il/elle/on ;;;avait gagné;;nous ;;;avions gagné;;vous ;;;aviez gagné;;ils/elles ;;;avaient gagné
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais gagné;;tu ;;;avais gagné;;il/elle/on ;;;avait gagné;;nous ;;;avions gagné;;vous ;;;aviez gagné;;ils/elles ;;;avaient gagné
 Indicatif Passé Simple;indicatif;;je ;;;gagnai;;tu ;;;gagnas;;il/elle/on ;;;gagna;;nous ;;;gagnâmes;;vous ;;;gagnâtes;;ils/elles ;;;gagnèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus gagné;;tu ;;;eus gagné;;il/elle/on ;;;eut gagné;;nous ;;;eûmes gagné;;vous ;;;eûtes gagné;;ils/elles ;;;eurent gagné
 Indicatif Futur Simple;indicatif;;je ;;;gagnerai;;tu ;;;gagneras;;il/elle/on ;;;gagnera;;nous ;;;gagnerons;;vous ;;;gagnerez;;ils/elles ;;;gagneront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai gagné;;tu ;;;auras gagné;;i
 Subjonctif Présent;subjonctif;que ;je ;;;gagne;que ;tu ;;;gagnes;qu’;il/elle/on ;;;gagne;que ;nous ;;;gagnions;que ;vous ;;;gagniez;qu’;ils/elles ;;;gagnent
 Subjonctif Passé;subjonctif;que ;j’;;;aie gagné;que ;tu ;;;aies gagné;qu’;il/elle/on ;;;ait gagné;que ;nous ;;;ayons gagné;que ;vous ;;;ayez gagné;qu’;ils/elles ;;;aient gagné
 Subjonctif Imparfait;subjonctif;que ;je ;;;gagnasse;que ;tu ;;;gagnasses;qu’;il/elle/on ;;;gagnât;que ;nous ;;;gagnassions;que ;vous ;;;gagnassiez;qu’;ils/elles ;;;gagnassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse gagné;que ;tu ;;;eusses gagné;qu’;il/elle/on ;;;eût gagné;que ;nous ;;;eussions gagné;que ;vous ;;;eussiez gagné;qu’;ils/elles ;;;eussent gagné
-Conditionnel;conditionnel;;je ;;;gagnerais;;tu ;;;gagnerais;;il/elle/on ;;;gagnerait;;nous ;;;gagnerions;;vous ;;;gagneriez;;ils/elles ;;;gagneraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse gagné;que ;tu ;;;eusses gagné;qu’;il/elle/on ;;;eût gagné;que ;nous ;;;eussions gagné;que ;vous ;;;eussiez gagné;qu’;ils/elles ;;;eussent gagné
+Conditionnel Présent;conditionnel;;je ;;;gagnerais;;tu ;;;gagnerais;;il/elle/on ;;;gagnerait;;nous ;;;gagnerions;;vous ;;;gagneriez;;ils/elles ;;;gagneraient
 Conditionnel Passé;conditionnel;;j’;;;aurais gagné;;tu ;;;aurais gagné;;il/elle/on ;;;aurait gagné;;nous ;;;aurions gagné;;vous ;;;auriez gagné;;ils/elles ;;;auraient gagné
 Impératif Présent;impératif;;;;;;;(tu) ;;;gagne;;;;;;;(nous) ;;;gagnons;;(vous) ;;;gagnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie gagné;;;;;;;(nous) ;;;ayons gagné;;(vous) ;;;ayez gagné;;;;;

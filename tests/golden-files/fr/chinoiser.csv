@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;chinoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir chinoisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;chinoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir chinoisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en chinoisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant chinoisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;chinoisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;chinoisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;chinoise;;tu ;;;chinoises;;il/elle/on ;;;chinoise;;nous ;;;chinoisons;;vous ;;;chinoisez;;ils/elles ;;;chinoisent
 Indicatif Passé Composé;indicatif;;j’;;;ai chinoisé;;tu ;;;as chinoisé;;il/elle/on ;;;a chinoisé;;nous ;;;avons chinoisé;;vous ;;;avez chinoisé;;ils/elles ;;;ont chinoisé
 Indicatif Imparfait;indicatif;;je ;;;chinoisais;;tu ;;;chinoisais;;il/elle/on ;;;chinoisait;;nous ;;;chinoisions;;vous ;;;chinoisiez;;ils/elles ;;;chinoisaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais chinoisé;;tu ;;;avais chinoisé;;il/elle/on ;;;avait chinoisé;;nous ;;;avions chinoisé;;vous ;;;aviez chinoisé;;ils/elles ;;;avaient chinoisé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais chinoisé;;tu ;;;avais chinoisé;;il/elle/on ;;;avait chinoisé;;nous ;;;avions chinoisé;;vous ;;;aviez chinoisé;;ils/elles ;;;avaient chinoisé
 Indicatif Passé Simple;indicatif;;je ;;;chinoisai;;tu ;;;chinoisas;;il/elle/on ;;;chinoisa;;nous ;;;chinoisâmes;;vous ;;;chinoisâtes;;ils/elles ;;;chinoisèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus chinoisé;;tu ;;;eus chinoisé;;il/elle/on ;;;eut chinoisé;;nous ;;;eûmes chinoisé;;vous ;;;eûtes chinoisé;;ils/elles ;;;eurent chinoisé
 Indicatif Futur Simple;indicatif;;je ;;;chinoiserai;;tu ;;;chinoiseras;;il/elle/on ;;;chinoisera;;nous ;;;chinoiserons;;vous ;;;chinoiserez;;ils/elles ;;;chinoiseront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai chinoisé;;tu ;;;auras chinoi
 Subjonctif Présent;subjonctif;que ;je ;;;chinoise;que ;tu ;;;chinoises;qu’;il/elle/on ;;;chinoise;que ;nous ;;;chinoisions;que ;vous ;;;chinoisiez;qu’;ils/elles ;;;chinoisent
 Subjonctif Passé;subjonctif;que ;j’;;;aie chinoisé;que ;tu ;;;aies chinoisé;qu’;il/elle/on ;;;ait chinoisé;que ;nous ;;;ayons chinoisé;que ;vous ;;;ayez chinoisé;qu’;ils/elles ;;;aient chinoisé
 Subjonctif Imparfait;subjonctif;que ;je ;;;chinoisasse;que ;tu ;;;chinoisasses;qu’;il/elle/on ;;;chinoisât;que ;nous ;;;chinoisassions;que ;vous ;;;chinoisassiez;qu’;ils/elles ;;;chinoisassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse chinoisé;que ;tu ;;;eusses chinoisé;qu’;il/elle/on ;;;eût chinoisé;que ;nous ;;;eussions chinoisé;que ;vous ;;;eussiez chinoisé;qu’;ils/elles ;;;eussent chinoisé
-Conditionnel;conditionnel;;je ;;;chinoiserais;;tu ;;;chinoiserais;;il/elle/on ;;;chinoiserait;;nous ;;;chinoiserions;;vous ;;;chinoiseriez;;ils/elles ;;;chinoiseraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse chinoisé;que ;tu ;;;eusses chinoisé;qu’;il/elle/on ;;;eût chinoisé;que ;nous ;;;eussions chinoisé;que ;vous ;;;eussiez chinoisé;qu’;ils/elles ;;;eussent chinoisé
+Conditionnel Présent;conditionnel;;je ;;;chinoiserais;;tu ;;;chinoiserais;;il/elle/on ;;;chinoiserait;;nous ;;;chinoiserions;;vous ;;;chinoiseriez;;ils/elles ;;;chinoiseraient
 Conditionnel Passé;conditionnel;;j’;;;aurais chinoisé;;tu ;;;aurais chinoisé;;il/elle/on ;;;aurait chinoisé;;nous ;;;aurions chinoisé;;vous ;;;auriez chinoisé;;ils/elles ;;;auraient chinoisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;chinoise;;;;;;;(nous) ;;;chinoisons;;(vous) ;;;chinoisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie chinoisé;;;;;;;(nous) ;;;ayons chinoisé;;(vous) ;;;ayez chinoisé;;;;;

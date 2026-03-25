@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;éclairer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir éclairé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;éclairer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir éclairé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en éclairant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant éclairé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;éclairant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;éclairé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;éclaire;;tu ;;;éclaires;;il/elle/on ;;;éclaire;;nous ;;;éclairons;;vous ;;;éclairez;;ils/elles ;;;éclairent
 Indicatif Passé Composé;indicatif;;j’;;;ai éclairé;;tu ;;;as éclairé;;il/elle/on ;;;a éclairé;;nous ;;;avons éclairé;;vous ;;;avez éclairé;;ils/elles ;;;ont éclairé
 Indicatif Imparfait;indicatif;;j’;;;éclairais;;tu ;;;éclairais;;il/elle/on ;;;éclairait;;nous ;;;éclairions;;vous ;;;éclairiez;;ils/elles ;;;éclairaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais éclairé;;tu ;;;avais éclairé;;il/elle/on ;;;avait éclairé;;nous ;;;avions éclairé;;vous ;;;aviez éclairé;;ils/elles ;;;avaient éclairé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais éclairé;;tu ;;;avais éclairé;;il/elle/on ;;;avait éclairé;;nous ;;;avions éclairé;;vous ;;;aviez éclairé;;ils/elles ;;;avaient éclairé
 Indicatif Passé Simple;indicatif;;j’;;;éclairai;;tu ;;;éclairas;;il/elle/on ;;;éclaira;;nous ;;;éclairâmes;;vous ;;;éclairâtes;;ils/elles ;;;éclairèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus éclairé;;tu ;;;eus éclairé;;il/elle/on ;;;eut éclairé;;nous ;;;eûmes éclairé;;vous ;;;eûtes éclairé;;ils/elles ;;;eurent éclairé
 Indicatif Futur Simple;indicatif;;j’;;;éclairerai;;tu ;;;éclaireras;;il/elle/on ;;;éclairera;;nous ;;;éclairerons;;vous ;;;éclairerez;;ils/elles ;;;éclaireront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai éclairé;;tu ;;;auras éclai
 Subjonctif Présent;subjonctif;que ;j’;;;éclaire;que ;tu ;;;éclaires;qu’;il/elle/on ;;;éclaire;que ;nous ;;;éclairions;que ;vous ;;;éclairiez;qu’;ils/elles ;;;éclairent
 Subjonctif Passé;subjonctif;que ;j’;;;aie éclairé;que ;tu ;;;aies éclairé;qu’;il/elle/on ;;;ait éclairé;que ;nous ;;;ayons éclairé;que ;vous ;;;ayez éclairé;qu’;ils/elles ;;;aient éclairé
 Subjonctif Imparfait;subjonctif;que ;j’;;;éclairasse;que ;tu ;;;éclairasses;qu’;il/elle/on ;;;éclairât;que ;nous ;;;éclairassions;que ;vous ;;;éclairassiez;qu’;ils/elles ;;;éclairassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse éclairé;que ;tu ;;;eusses éclairé;qu’;il/elle/on ;;;eût éclairé;que ;nous ;;;eussions éclairé;que ;vous ;;;eussiez éclairé;qu’;ils/elles ;;;eussent éclairé
-Conditionnel;conditionnel;;j’;;;éclairerais;;tu ;;;éclairerais;;il/elle/on ;;;éclairerait;;nous ;;;éclairerions;;vous ;;;éclaireriez;;ils/elles ;;;éclaireraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse éclairé;que ;tu ;;;eusses éclairé;qu’;il/elle/on ;;;eût éclairé;que ;nous ;;;eussions éclairé;que ;vous ;;;eussiez éclairé;qu’;ils/elles ;;;eussent éclairé
+Conditionnel Présent;conditionnel;;j’;;;éclairerais;;tu ;;;éclairerais;;il/elle/on ;;;éclairerait;;nous ;;;éclairerions;;vous ;;;éclaireriez;;ils/elles ;;;éclaireraient
 Conditionnel Passé;conditionnel;;j’;;;aurais éclairé;;tu ;;;aurais éclairé;;il/elle/on ;;;aurait éclairé;;nous ;;;aurions éclairé;;vous ;;;auriez éclairé;;ils/elles ;;;auraient éclairé
 Impératif Présent;impératif;;;;;;;(tu) ;;;éclaire;;;;;;;(nous) ;;;éclairons;;(vous) ;;;éclairez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie éclairé;;;;;;;(nous) ;;;ayons éclairé;;(vous) ;;;ayez éclairé;;;;;

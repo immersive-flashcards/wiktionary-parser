@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;endormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir endormi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;endormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir endormi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en endormant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant endormi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;endormant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;endormi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;j’;;;endors;;tu ;;;endors;;il/elle/on ;;;endort;;nous ;;;endormons;;vous ;;;endormez;;ils/elles ;;;endorment
 Indicatif Passé Composé;indicatif;;j’;;;ai endormi;;tu ;;;as endormi;;il/elle/on ;;;a endormi;;nous ;;;avons endormi;;vous ;;;avez endormi;;ils/elles ;;;ont endormi
 Indicatif Imparfait;indicatif;;j’;;;endormais;;tu ;;;endormais;;il/elle/on ;;;endormait;;nous ;;;endormions;;vous ;;;endormiez;;ils/elles ;;;endormaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais endormi;;tu ;;;avais endormi;;il/elle/on ;;;avait endormi;;nous ;;;avions endormi;;vous ;;;aviez endormi;;ils/elles ;;;avaient endormi
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais endormi;;tu ;;;avais endormi;;il/elle/on ;;;avait endormi;;nous ;;;avions endormi;;vous ;;;aviez endormi;;ils/elles ;;;avaient endormi
 Indicatif Passé Simple;indicatif;;j’;;;endormis;;tu ;;;endormis;;il/elle/on ;;;endormit;;nous ;;;endormîmes;;vous ;;;endormîtes;;ils/elles ;;;endormirent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus endormi;;tu ;;;eus endormi;;il/elle/on ;;;eut endormi;;nous ;;;eûmes endormi;;vous ;;;eûtes endormi;;ils/elles ;;;eurent endormi
 Indicatif Futur Simple;indicatif;;j’;;;endormirai;;tu ;;;endormiras;;il/elle/on ;;;endormira;;nous ;;;endormirons;;vous ;;;endormirez;;ils/elles ;;;endormiront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai endormi;;tu ;;;auras endormi;
 Subjonctif Présent;subjonctif;que ;j’;;;endorme;que ;tu ;;;endormes;qu’;il/elle/on ;;;endorme;que ;nous ;;;endormions;que ;vous ;;;endormiez;qu’;ils/elles ;;;endorment
 Subjonctif Passé;subjonctif;que ;j’;;;aie endormi;que ;tu ;;;aies endormi;qu’;il/elle/on ;;;ait endormi;que ;nous ;;;ayons endormi;que ;vous ;;;ayez endormi;qu’;ils/elles ;;;aient endormi
 Subjonctif Imparfait;subjonctif;que ;j’;;;endormisse;que ;tu ;;;endormisses;qu’;il/elle/on ;;;endormît;que ;nous ;;;endormissions;que ;vous ;;;endormissiez;qu’;ils/elles ;;;endormissent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse endormi;que ;tu ;;;eusses endormi;qu’;il/elle/on ;;;eût endormi;que ;nous ;;;eussions endormi;que ;vous ;;;eussiez endormi;qu’;ils/elles ;;;eussent endormi
-Conditionnel;conditionnel;;j’;;;endormirais;;tu ;;;endormirais;;il/elle/on ;;;endormirait;;nous ;;;endormirions;;vous ;;;endormiriez;;ils/elles ;;;endormiraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse endormi;que ;tu ;;;eusses endormi;qu’;il/elle/on ;;;eût endormi;que ;nous ;;;eussions endormi;que ;vous ;;;eussiez endormi;qu’;ils/elles ;;;eussent endormi
+Conditionnel Présent;conditionnel;;j’;;;endormirais;;tu ;;;endormirais;;il/elle/on ;;;endormirait;;nous ;;;endormirions;;vous ;;;endormiriez;;ils/elles ;;;endormiraient
 Conditionnel Passé;conditionnel;;j’;;;aurais endormi;;tu ;;;aurais endormi;;il/elle/on ;;;aurait endormi;;nous ;;;aurions endormi;;vous ;;;auriez endormi;;ils/elles ;;;auraient endormi
 Impératif Présent;impératif;;;;;;;(tu) ;;;endors;;;;;;;(nous) ;;;endormons;;(vous) ;;;endormez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie endormi;;;;;;;(nous) ;;;ayons endormi;;(vous) ;;;ayez endormi;;;;;

@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;frapper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir frappé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;frapper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir frappé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en frappant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant frappé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;frappant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;frappé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;frappe;;tu ;;;frappes;;il/elle/on ;;;frappe;;nous ;;;frappons;;vous ;;;frappez;;ils/elles ;;;frappent
 Indicatif Passé Composé;indicatif;;j’;;;ai frappé;;tu ;;;as frappé;;il/elle/on ;;;a frappé;;nous ;;;avons frappé;;vous ;;;avez frappé;;ils/elles ;;;ont frappé
 Indicatif Imparfait;indicatif;;je ;;;frappais;;tu ;;;frappais;;il/elle/on ;;;frappait;;nous ;;;frappions;;vous ;;;frappiez;;ils/elles ;;;frappaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais frappé;;tu ;;;avais frappé;;il/elle/on ;;;avait frappé;;nous ;;;avions frappé;;vous ;;;aviez frappé;;ils/elles ;;;avaient frappé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais frappé;;tu ;;;avais frappé;;il/elle/on ;;;avait frappé;;nous ;;;avions frappé;;vous ;;;aviez frappé;;ils/elles ;;;avaient frappé
 Indicatif Passé Simple;indicatif;;je ;;;frappai;;tu ;;;frappas;;il/elle/on ;;;frappa;;nous ;;;frappâmes;;vous ;;;frappâtes;;ils/elles ;;;frappèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus frappé;;tu ;;;eus frappé;;il/elle/on ;;;eut frappé;;nous ;;;eûmes frappé;;vous ;;;eûtes frappé;;ils/elles ;;;eurent frappé
 Indicatif Futur Simple;indicatif;;je ;;;frapperai;;tu ;;;frapperas;;il/elle/on ;;;frappera;;nous ;;;frapperons;;vous ;;;frapperez;;ils/elles ;;;frapperont
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai frappé;;tu ;;;auras frappé;
 Subjonctif Présent;subjonctif;que ;je ;;;frappe;que ;tu ;;;frappes;qu’;il/elle/on ;;;frappe;que ;nous ;;;frappions;que ;vous ;;;frappiez;qu’;ils/elles ;;;frappent
 Subjonctif Passé;subjonctif;que ;j’;;;aie frappé;que ;tu ;;;aies frappé;qu’;il/elle/on ;;;ait frappé;que ;nous ;;;ayons frappé;que ;vous ;;;ayez frappé;qu’;ils/elles ;;;aient frappé
 Subjonctif Imparfait;subjonctif;que ;je ;;;frappasse;que ;tu ;;;frappasses;qu’;il/elle/on ;;;frappât;que ;nous ;;;frappassions;que ;vous ;;;frappassiez;qu’;ils/elles ;;;frappassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse frappé;que ;tu ;;;eusses frappé;qu’;il/elle/on ;;;eût frappé;que ;nous ;;;eussions frappé;que ;vous ;;;eussiez frappé;qu’;ils/elles ;;;eussent frappé
-Conditionnel;conditionnel;;je ;;;frapperais;;tu ;;;frapperais;;il/elle/on ;;;frapperait;;nous ;;;frapperions;;vous ;;;frapperiez;;ils/elles ;;;frapperaient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse frappé;que ;tu ;;;eusses frappé;qu’;il/elle/on ;;;eût frappé;que ;nous ;;;eussions frappé;que ;vous ;;;eussiez frappé;qu’;ils/elles ;;;eussent frappé
+Conditionnel Présent;conditionnel;;je ;;;frapperais;;tu ;;;frapperais;;il/elle/on ;;;frapperait;;nous ;;;frapperions;;vous ;;;frapperiez;;ils/elles ;;;frapperaient
 Conditionnel Passé;conditionnel;;j’;;;aurais frappé;;tu ;;;aurais frappé;;il/elle/on ;;;aurait frappé;;nous ;;;aurions frappé;;vous ;;;auriez frappé;;ils/elles ;;;auraient frappé
 Impératif Présent;impératif;;;;;;;(tu) ;;;frappe;;;;;;;(nous) ;;;frappons;;(vous) ;;;frappez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie frappé;;;;;;;(nous) ;;;ayons frappé;;(vous) ;;;ayez frappé;;;;;

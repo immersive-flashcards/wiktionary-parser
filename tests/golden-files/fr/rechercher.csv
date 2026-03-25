@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;rechercher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir recherché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;rechercher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir recherché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en recherchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant recherché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;recherchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;recherché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;recherche;;tu ;;;recherches;;il/elle/on ;;;recherche;;nous ;;;recherchons;;vous ;;;recherchez;;ils/elles ;;;recherchent
 Indicatif Passé Composé;indicatif;;j’;;;ai recherché;;tu ;;;as recherché;;il/elle/on ;;;a recherché;;nous ;;;avons recherché;;vous ;;;avez recherché;;ils/elles ;;;ont recherché
 Indicatif Imparfait;indicatif;;je ;;;recherchais;;tu ;;;recherchais;;il/elle/on ;;;recherchait;;nous ;;;recherchions;;vous ;;;recherchiez;;ils/elles ;;;recherchaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais recherché;;tu ;;;avais recherché;;il/elle/on ;;;avait recherché;;nous ;;;avions recherché;;vous ;;;aviez recherché;;ils/elles ;;;avaient recherché
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais recherché;;tu ;;;avais recherché;;il/elle/on ;;;avait recherché;;nous ;;;avions recherché;;vous ;;;aviez recherché;;ils/elles ;;;avaient recherché
 Indicatif Passé Simple;indicatif;;je ;;;recherchai;;tu ;;;recherchas;;il/elle/on ;;;rechercha;;nous ;;;recherchâmes;;vous ;;;recherchâtes;;ils/elles ;;;recherchèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus recherché;;tu ;;;eus recherché;;il/elle/on ;;;eut recherché;;nous ;;;eûmes recherché;;vous ;;;eûtes recherché;;ils/elles ;;;eurent recherché
 Indicatif Futur Simple;indicatif;;je ;;;rechercherai;;tu ;;;rechercheras;;il/elle/on ;;;recherchera;;nous ;;;rechercherons;;vous ;;;rechercherez;;ils/elles ;;;rechercheront
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai recherché;;tu ;;;auras reche
 Subjonctif Présent;subjonctif;que ;je ;;;recherche;que ;tu ;;;recherches;qu’;il/elle/on ;;;recherche;que ;nous ;;;recherchions;que ;vous ;;;recherchiez;qu’;ils/elles ;;;recherchent
 Subjonctif Passé;subjonctif;que ;j’;;;aie recherché;que ;tu ;;;aies recherché;qu’;il/elle/on ;;;ait recherché;que ;nous ;;;ayons recherché;que ;vous ;;;ayez recherché;qu’;ils/elles ;;;aient recherché
 Subjonctif Imparfait;subjonctif;que ;je ;;;recherchasse;que ;tu ;;;recherchasses;qu’;il/elle/on ;;;recherchât;que ;nous ;;;recherchassions;que ;vous ;;;recherchassiez;qu’;ils/elles ;;;recherchassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse recherché;que ;tu ;;;eusses recherché;qu’;il/elle/on ;;;eût recherché;que ;nous ;;;eussions recherché;que ;vous ;;;eussiez recherché;qu’;ils/elles ;;;eussent recherché
-Conditionnel;conditionnel;;je ;;;rechercherais;;tu ;;;rechercherais;;il/elle/on ;;;rechercherait;;nous ;;;rechercherions;;vous ;;;rechercheriez;;ils/elles ;;;rechercheraient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse recherché;que ;tu ;;;eusses recherché;qu’;il/elle/on ;;;eût recherché;que ;nous ;;;eussions recherché;que ;vous ;;;eussiez recherché;qu’;ils/elles ;;;eussent recherché
+Conditionnel Présent;conditionnel;;je ;;;rechercherais;;tu ;;;rechercherais;;il/elle/on ;;;rechercherait;;nous ;;;rechercherions;;vous ;;;rechercheriez;;ils/elles ;;;rechercheraient
 Conditionnel Passé;conditionnel;;j’;;;aurais recherché;;tu ;;;aurais recherché;;il/elle/on ;;;aurait recherché;;nous ;;;aurions recherché;;vous ;;;auriez recherché;;ils/elles ;;;auraient recherché
 Impératif Présent;impératif;;;;;;;(tu) ;;;recherche;;;;;;;(nous) ;;;recherchons;;(vous) ;;;recherchez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie recherché;;;;;;;(nous) ;;;ayons recherché;;(vous) ;;;ayez recherché;;;;;

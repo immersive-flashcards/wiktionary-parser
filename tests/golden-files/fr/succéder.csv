@@ -1,6 +1,6 @@
 key;mode;conjunction-1;pronoun-1;negation-1;refl_pronoun-1;conjugation-1;conjunction-2;pronoun-2;negation-2;refl_pronoun-2;conjugation-2;conjunction-3;pronoun-3;negation-3;refl_pronoun-3;conjugation-3;conjunction-4;pronoun-4;negation-4;refl_pronoun-4;conjugation-4;conjunction-5;pronoun-5;negation-5;refl_pronoun-5;conjugation-5;conjunction-6;pronoun-6;negation-6;refl_pronoun-6;conjugation-6
-Infinitive Présent;infinitif;succéder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Infinitive Passé;infinitif;avoir succédé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Présent;infinitif;succéder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Infinitif Passé;infinitif;avoir succédé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Présent;gérondif;en succédant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant succédé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;succédant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -8,7 +8,7 @@ Participe Passé;participe;succédé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Indicatif Présent;indicatif;;je ;;;succède;;tu ;;;succèdes;;il/elle/on ;;;succède;;nous ;;;succédons;;vous ;;;succédez;;ils/elles ;;;succèdent
 Indicatif Passé Composé;indicatif;;j’;;;ai succédé;;tu ;;;as succédé;;il/elle/on ;;;a succédé;;nous ;;;avons succédé;;vous ;;;avez succédé;;ils/elles ;;;ont succédé
 Indicatif Imparfait;indicatif;;je ;;;succédais;;tu ;;;succédais;;il/elle/on ;;;succédait;;nous ;;;succédions;;vous ;;;succédiez;;ils/elles ;;;succédaient
-Indicatif Plusqueparfait;indicatif;;j’;;;avais succédé;;tu ;;;avais succédé;;il/elle/on ;;;avait succédé;;nous ;;;avions succédé;;vous ;;;aviez succédé;;ils/elles ;;;avaient succédé
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais succédé;;tu ;;;avais succédé;;il/elle/on ;;;avait succédé;;nous ;;;avions succédé;;vous ;;;aviez succédé;;ils/elles ;;;avaient succédé
 Indicatif Passé Simple;indicatif;;je ;;;succédai;;tu ;;;succédas;;il/elle/on ;;;succéda;;nous ;;;succédâmes;;vous ;;;succédâtes;;ils/elles ;;;succédèrent
 Indicatif Passé Antérieur;indicatif;;j’;;;eus succédé;;tu ;;;eus succédé;;il/elle/on ;;;eut succédé;;nous ;;;eûmes succédé;;vous ;;;eûtes succédé;;ils/elles ;;;eurent succédé
 Indicatif Futur Simple;indicatif;;je ;;;succéderai / succèderai;;tu ;;;succéderas / succèderas;;il/elle/on ;;;succédera / succèdera;;nous ;;;succéderons / succèderons;;vous ;;;succéderez / succèderez;;ils/elles ;;;succéderont / succèderont
@@ -16,8 +16,8 @@ Indicatif Futur Antérieur;indicatif;;j’;;;aurai succédé;;tu ;;;auras succé
 Subjonctif Présent;subjonctif;que ;je ;;;succède;que ;tu ;;;succèdes;qu’;il/elle/on ;;;succède;que ;nous ;;;succédions;que ;vous ;;;succédiez;qu’;ils/elles ;;;succèdent
 Subjonctif Passé;subjonctif;que ;j’;;;aie succédé;que ;tu ;;;aies succédé;qu’;il/elle/on ;;;ait succédé;que ;nous ;;;ayons succédé;que ;vous ;;;ayez succédé;qu’;ils/elles ;;;aient succédé
 Subjonctif Imparfait;subjonctif;que ;je ;;;succédasse;que ;tu ;;;succédasses;qu’;il/elle/on ;;;succédât;que ;nous ;;;succédassions;que ;vous ;;;succédassiez;qu’;ils/elles ;;;succédassent
-Subjonctif Plusqueparfait;subjonctif;que ;j’;;;eusse succédé;que ;tu ;;;eusses succédé;qu’;il/elle/on ;;;eût succédé;que ;nous ;;;eussions succédé;que ;vous ;;;eussiez succédé;qu’;ils/elles ;;;eussent succédé
-Conditionnel;conditionnel;;je ;;;succéderais / succèderais;;tu ;;;succéderais / succèderais;;il/elle/on ;;;succéderait / succèderait;;nous ;;;succéderions / succèderions;;vous ;;;succéderiez / succèderiez;;ils/elles ;;;succéderaient / succèderaient
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse succédé;que ;tu ;;;eusses succédé;qu’;il/elle/on ;;;eût succédé;que ;nous ;;;eussions succédé;que ;vous ;;;eussiez succédé;qu’;ils/elles ;;;eussent succédé
+Conditionnel Présent;conditionnel;;je ;;;succéderais / succèderais;;tu ;;;succéderais / succèderais;;il/elle/on ;;;succéderait / succèderait;;nous ;;;succéderions / succèderions;;vous ;;;succéderiez / succèderiez;;ils/elles ;;;succéderaient / succèderaient
 Conditionnel Passé;conditionnel;;j’;;;aurais succédé;;tu ;;;aurais succédé;;il/elle/on ;;;aurait succédé;;nous ;;;aurions succédé;;vous ;;;auriez succédé;;ils/elles ;;;auraient succédé
 Impératif Présent;impératif;;;;;;;(tu) ;;;succède;;;;;;;(nous) ;;;succédons;;(vous) ;;;succédez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie succédé;;;;;;;(nous) ;;;ayons succédé;;(vous) ;;;ayez succédé;;;;;

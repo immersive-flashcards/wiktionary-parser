@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en stationnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant stationné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;stationnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;stationné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;stationne;;tu ;;;stationnes;;il/elle/on ;;;stationne;;nous ;;;stationnons;;vous ;;;stationnez;;ils/elles ;;;stationnent
-Indicatif Passé Composé;indicatif;;j’;;;ai stationné;;tu ;;;as stationné;;il/elle/on ;;;a stationné;;nous ;;;avons stationné;;vous ;;;avez stationné;;ils/elles ;;;ont stationné
-Indicatif Imparfait;indicatif;;je ;;;stationnais;;tu ;;;stationnais;;il/elle/on ;;;stationnait;;nous ;;;stationnions;;vous ;;;stationniez;;ils/elles ;;;stationnaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais stationné;;tu ;;;avais stationné;;il/elle/on ;;;avait stationné;;nous ;;;avions stationné;;vous ;;;aviez stationné;;ils/elles ;;;avaient stationné
-Indicatif Passé Simple;indicatif;;je ;;;stationnai;;tu ;;;stationnas;;il/elle/on ;;;stationna;;nous ;;;stationnâmes;;vous ;;;stationnâtes;;ils/elles ;;;stationnèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus stationné;;tu ;;;eus stationné;;il/elle/on ;;;eut stationné;;nous ;;;eûmes stationné;;vous ;;;eûtes stationné;;ils/elles ;;;eurent stationné
-Indicatif Futur Simple;indicatif;;je ;;;stationnerai;;tu ;;;stationneras;;il/elle/on ;;;stationnera;;nous ;;;stationnerons;;vous ;;;stationnerez;;ils/elles ;;;stationneront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai stationné;;tu ;;;auras stationné;;il/elle/on ;;;aura stationné;;nous ;;;aurons stationné;;vous ;;;aurez stationné;;ils/elles ;;;auront stationné
-Subjonctif Présent;subjonctif;que ;je ;;;stationne;que ;tu ;;;stationnes;qu’;il/elle/on ;;;stationne;que ;nous ;;;stationnions;que ;vous ;;;stationniez;qu’;ils/elles ;;;stationnent
-Subjonctif Passé;subjonctif;que ;j’;;;aie stationné;que ;tu ;;;aies stationné;qu’;il/elle/on ;;;ait stationné;que ;nous ;;;ayons stationné;que ;vous ;;;ayez stationné;qu’;ils/elles ;;;aient stationné
-Subjonctif Imparfait;subjonctif;que ;je ;;;stationnasse;que ;tu ;;;stationnasses;qu’;il/elle/on ;;;stationnât;que ;nous ;;;stationnassions;que ;vous ;;;stationnassiez;qu’;ils/elles ;;;stationnassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse stationné;que ;tu ;;;eusses stationné;qu’;il/elle/on ;;;eût stationné;que ;nous ;;;eussions stationné;que ;vous ;;;eussiez stationné;qu’;ils/elles ;;;eussent stationné
-Conditionnel Présent;conditionnel;;je ;;;stationnerais;;tu ;;;stationnerais;;il/elle/on ;;;stationnerait;;nous ;;;stationnerions;;vous ;;;stationneriez;;ils/elles ;;;stationneraient
-Conditionnel Passé;conditionnel;;j’;;;aurais stationné;;tu ;;;aurais stationné;;il/elle/on ;;;aurait stationné;;nous ;;;aurions stationné;;vous ;;;auriez stationné;;ils/elles ;;;auraient stationné
+Indicatif Présent;indicatif;;je ;;;stationne;;tu ;;;stationnes;;il //elle //on ;;;stationne;;nous ;;;stationnons;;vous ;;;stationnez;;ils //elles ;;;stationnent
+Indicatif Passé Composé;indicatif;;j’;;;ai stationné;;tu ;;;as stationné;;il //elle //on ;;;a stationné;;nous ;;;avons stationné;;vous ;;;avez stationné;;ils //elles ;;;ont stationné
+Indicatif Imparfait;indicatif;;je ;;;stationnais;;tu ;;;stationnais;;il //elle //on ;;;stationnait;;nous ;;;stationnions;;vous ;;;stationniez;;ils //elles ;;;stationnaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais stationné;;tu ;;;avais stationné;;il //elle //on ;;;avait stationné;;nous ;;;avions stationné;;vous ;;;aviez stationné;;ils //elles ;;;avaient stationné
+Indicatif Passé Simple;indicatif;;je ;;;stationnai;;tu ;;;stationnas;;il //elle //on ;;;stationna;;nous ;;;stationnâmes;;vous ;;;stationnâtes;;ils //elles ;;;stationnèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus stationné;;tu ;;;eus stationné;;il //elle //on ;;;eut stationné;;nous ;;;eûmes stationné;;vous ;;;eûtes stationné;;ils //elles ;;;eurent stationné
+Indicatif Futur Simple;indicatif;;je ;;;stationnerai;;tu ;;;stationneras;;il //elle //on ;;;stationnera;;nous ;;;stationnerons;;vous ;;;stationnerez;;ils //elles ;;;stationneront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai stationné;;tu ;;;auras stationné;;il //elle //on ;;;aura stationné;;nous ;;;aurons stationné;;vous ;;;aurez stationné;;ils //elles ;;;auront stationné
+Subjonctif Présent;subjonctif;que ;je ;;;stationne;que ;tu ;;;stationnes;qu’;il //elle //on ;;;stationne;que ;nous ;;;stationnions;que ;vous ;;;stationniez;qu’;ils //elles ;;;stationnent
+Subjonctif Passé;subjonctif;que ;j’;;;aie stationné;que ;tu ;;;aies stationné;qu’;il //elle //on ;;;ait stationné;que ;nous ;;;ayons stationné;que ;vous ;;;ayez stationné;qu’;ils //elles ;;;aient stationné
+Subjonctif Imparfait;subjonctif;que ;je ;;;stationnasse;que ;tu ;;;stationnasses;qu’;il //elle //on ;;;stationnât;que ;nous ;;;stationnassions;que ;vous ;;;stationnassiez;qu’;ils //elles ;;;stationnassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse stationné;que ;tu ;;;eusses stationné;qu’;il //elle //on ;;;eût stationné;que ;nous ;;;eussions stationné;que ;vous ;;;eussiez stationné;qu’;ils //elles ;;;eussent stationné
+Conditionnel Présent;conditionnel;;je ;;;stationnerais;;tu ;;;stationnerais;;il //elle //on ;;;stationnerait;;nous ;;;stationnerions;;vous ;;;stationneriez;;ils //elles ;;;stationneraient
+Conditionnel Passé;conditionnel;;j’;;;aurais stationné;;tu ;;;aurais stationné;;il //elle //on ;;;aurait stationné;;nous ;;;aurions stationné;;vous ;;;auriez stationné;;ils //elles ;;;auraient stationné
 Impératif Présent;impératif;;;;;;;(tu) ;;;stationne;;;;;;;(nous) ;;;stationnons;;(vous) ;;;stationnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie stationné;;;;;;;(nous) ;;;ayons stationné;;(vous) ;;;ayez stationné;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;stationne pas ;;;;;;;(nous) ;ne ;;stationnons pas ;;(vous) ;ne ;;stationnez pas ;;;;;

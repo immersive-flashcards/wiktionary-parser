@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en computant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant computé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;computant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;computé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;compute;;tu ;;;computes;;il/elle/on ;;;compute;;nous ;;;computons;;vous ;;;computez;;ils/elles ;;;computent
-Indicatif Passé Composé;indicatif;;j’;;;ai computé;;tu ;;;as computé;;il/elle/on ;;;a computé;;nous ;;;avons computé;;vous ;;;avez computé;;ils/elles ;;;ont computé
-Indicatif Imparfait;indicatif;;je ;;;computais;;tu ;;;computais;;il/elle/on ;;;computait;;nous ;;;computions;;vous ;;;computiez;;ils/elles ;;;computaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais computé;;tu ;;;avais computé;;il/elle/on ;;;avait computé;;nous ;;;avions computé;;vous ;;;aviez computé;;ils/elles ;;;avaient computé
-Indicatif Passé Simple;indicatif;;je ;;;computai;;tu ;;;computas;;il/elle/on ;;;computa;;nous ;;;computâmes;;vous ;;;computâtes;;ils/elles ;;;computèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus computé;;tu ;;;eus computé;;il/elle/on ;;;eut computé;;nous ;;;eûmes computé;;vous ;;;eûtes computé;;ils/elles ;;;eurent computé
-Indicatif Futur Simple;indicatif;;je ;;;computerai;;tu ;;;computeras;;il/elle/on ;;;computera;;nous ;;;computerons;;vous ;;;computerez;;ils/elles ;;;computeront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai computé;;tu ;;;auras computé;;il/elle/on ;;;aura computé;;nous ;;;aurons computé;;vous ;;;aurez computé;;ils/elles ;;;auront computé
-Subjonctif Présent;subjonctif;que ;je ;;;compute;que ;tu ;;;computes;qu’;il/elle/on ;;;compute;que ;nous ;;;computions;que ;vous ;;;computiez;qu’;ils/elles ;;;computent
-Subjonctif Passé;subjonctif;que ;j’;;;aie computé;que ;tu ;;;aies computé;qu’;il/elle/on ;;;ait computé;que ;nous ;;;ayons computé;que ;vous ;;;ayez computé;qu’;ils/elles ;;;aient computé
-Subjonctif Imparfait;subjonctif;que ;je ;;;computasse;que ;tu ;;;computasses;qu’;il/elle/on ;;;computât;que ;nous ;;;computassions;que ;vous ;;;computassiez;qu’;ils/elles ;;;computassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse computé;que ;tu ;;;eusses computé;qu’;il/elle/on ;;;eût computé;que ;nous ;;;eussions computé;que ;vous ;;;eussiez computé;qu’;ils/elles ;;;eussent computé
-Conditionnel Présent;conditionnel;;je ;;;computerais;;tu ;;;computerais;;il/elle/on ;;;computerait;;nous ;;;computerions;;vous ;;;computeriez;;ils/elles ;;;computeraient
-Conditionnel Passé;conditionnel;;j’;;;aurais computé;;tu ;;;aurais computé;;il/elle/on ;;;aurait computé;;nous ;;;aurions computé;;vous ;;;auriez computé;;ils/elles ;;;auraient computé
+Indicatif Présent;indicatif;;je ;;;compute;;tu ;;;computes;;il //elle //on ;;;compute;;nous ;;;computons;;vous ;;;computez;;ils //elles ;;;computent
+Indicatif Passé Composé;indicatif;;j’;;;ai computé;;tu ;;;as computé;;il //elle //on ;;;a computé;;nous ;;;avons computé;;vous ;;;avez computé;;ils //elles ;;;ont computé
+Indicatif Imparfait;indicatif;;je ;;;computais;;tu ;;;computais;;il //elle //on ;;;computait;;nous ;;;computions;;vous ;;;computiez;;ils //elles ;;;computaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais computé;;tu ;;;avais computé;;il //elle //on ;;;avait computé;;nous ;;;avions computé;;vous ;;;aviez computé;;ils //elles ;;;avaient computé
+Indicatif Passé Simple;indicatif;;je ;;;computai;;tu ;;;computas;;il //elle //on ;;;computa;;nous ;;;computâmes;;vous ;;;computâtes;;ils //elles ;;;computèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus computé;;tu ;;;eus computé;;il //elle //on ;;;eut computé;;nous ;;;eûmes computé;;vous ;;;eûtes computé;;ils //elles ;;;eurent computé
+Indicatif Futur Simple;indicatif;;je ;;;computerai;;tu ;;;computeras;;il //elle //on ;;;computera;;nous ;;;computerons;;vous ;;;computerez;;ils //elles ;;;computeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai computé;;tu ;;;auras computé;;il //elle //on ;;;aura computé;;nous ;;;aurons computé;;vous ;;;aurez computé;;ils //elles ;;;auront computé
+Subjonctif Présent;subjonctif;que ;je ;;;compute;que ;tu ;;;computes;qu’;il //elle //on ;;;compute;que ;nous ;;;computions;que ;vous ;;;computiez;qu’;ils //elles ;;;computent
+Subjonctif Passé;subjonctif;que ;j’;;;aie computé;que ;tu ;;;aies computé;qu’;il //elle //on ;;;ait computé;que ;nous ;;;ayons computé;que ;vous ;;;ayez computé;qu’;ils //elles ;;;aient computé
+Subjonctif Imparfait;subjonctif;que ;je ;;;computasse;que ;tu ;;;computasses;qu’;il //elle //on ;;;computât;que ;nous ;;;computassions;que ;vous ;;;computassiez;qu’;ils //elles ;;;computassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse computé;que ;tu ;;;eusses computé;qu’;il //elle //on ;;;eût computé;que ;nous ;;;eussions computé;que ;vous ;;;eussiez computé;qu’;ils //elles ;;;eussent computé
+Conditionnel Présent;conditionnel;;je ;;;computerais;;tu ;;;computerais;;il //elle //on ;;;computerait;;nous ;;;computerions;;vous ;;;computeriez;;ils //elles ;;;computeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais computé;;tu ;;;aurais computé;;il //elle //on ;;;aurait computé;;nous ;;;aurions computé;;vous ;;;auriez computé;;ils //elles ;;;auraient computé
 Impératif Présent;impératif;;;;;;;(tu) ;;;compute;;;;;;;(nous) ;;;computons;;(vous) ;;;computez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie computé;;;;;;;(nous) ;;;ayons computé;;(vous) ;;;ayez computé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;compute pas ;;;;;;;(nous) ;ne ;;computons pas ;;(vous) ;ne ;;computez pas ;;;;;

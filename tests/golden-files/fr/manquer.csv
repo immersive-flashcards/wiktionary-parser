@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en manquant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant manqué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;manquant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;manqué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;manque;;tu ;;;manques;;il/elle/on ;;;manque;;nous ;;;manquons;;vous ;;;manquez;;ils/elles ;;;manquent
-Indicatif Passé Composé;indicatif;;j’;;;ai manqué;;tu ;;;as manqué;;il/elle/on ;;;a manqué;;nous ;;;avons manqué;;vous ;;;avez manqué;;ils/elles ;;;ont manqué
-Indicatif Imparfait;indicatif;;je ;;;manquais;;tu ;;;manquais;;il/elle/on ;;;manquait;;nous ;;;manquions;;vous ;;;manquiez;;ils/elles ;;;manquaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais manqué;;tu ;;;avais manqué;;il/elle/on ;;;avait manqué;;nous ;;;avions manqué;;vous ;;;aviez manqué;;ils/elles ;;;avaient manqué
-Indicatif Passé Simple;indicatif;;je ;;;manquai;;tu ;;;manquas;;il/elle/on ;;;manqua;;nous ;;;manquâmes;;vous ;;;manquâtes;;ils/elles ;;;manquèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus manqué;;tu ;;;eus manqué;;il/elle/on ;;;eut manqué;;nous ;;;eûmes manqué;;vous ;;;eûtes manqué;;ils/elles ;;;eurent manqué
-Indicatif Futur Simple;indicatif;;je ;;;manquerai;;tu ;;;manqueras;;il/elle/on ;;;manquera;;nous ;;;manquerons;;vous ;;;manquerez;;ils/elles ;;;manqueront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai manqué;;tu ;;;auras manqué;;il/elle/on ;;;aura manqué;;nous ;;;aurons manqué;;vous ;;;aurez manqué;;ils/elles ;;;auront manqué
-Subjonctif Présent;subjonctif;que ;je ;;;manque;que ;tu ;;;manques;qu’;il/elle/on ;;;manque;que ;nous ;;;manquions;que ;vous ;;;manquiez;qu’;ils/elles ;;;manquent
-Subjonctif Passé;subjonctif;que ;j’;;;aie manqué;que ;tu ;;;aies manqué;qu’;il/elle/on ;;;ait manqué;que ;nous ;;;ayons manqué;que ;vous ;;;ayez manqué;qu’;ils/elles ;;;aient manqué
-Subjonctif Imparfait;subjonctif;que ;je ;;;manquasse;que ;tu ;;;manquasses;qu’;il/elle/on ;;;manquât;que ;nous ;;;manquassions;que ;vous ;;;manquassiez;qu’;ils/elles ;;;manquassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse manqué;que ;tu ;;;eusses manqué;qu’;il/elle/on ;;;eût manqué;que ;nous ;;;eussions manqué;que ;vous ;;;eussiez manqué;qu’;ils/elles ;;;eussent manqué
-Conditionnel Présent;conditionnel;;je ;;;manquerais;;tu ;;;manquerais;;il/elle/on ;;;manquerait;;nous ;;;manquerions;;vous ;;;manqueriez;;ils/elles ;;;manqueraient
-Conditionnel Passé;conditionnel;;j’;;;aurais manqué;;tu ;;;aurais manqué;;il/elle/on ;;;aurait manqué;;nous ;;;aurions manqué;;vous ;;;auriez manqué;;ils/elles ;;;auraient manqué
+Indicatif Présent;indicatif;;je ;;;manque;;tu ;;;manques;;il //elle //on ;;;manque;;nous ;;;manquons;;vous ;;;manquez;;ils //elles ;;;manquent
+Indicatif Passé Composé;indicatif;;j’;;;ai manqué;;tu ;;;as manqué;;il //elle //on ;;;a manqué;;nous ;;;avons manqué;;vous ;;;avez manqué;;ils //elles ;;;ont manqué
+Indicatif Imparfait;indicatif;;je ;;;manquais;;tu ;;;manquais;;il //elle //on ;;;manquait;;nous ;;;manquions;;vous ;;;manquiez;;ils //elles ;;;manquaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais manqué;;tu ;;;avais manqué;;il //elle //on ;;;avait manqué;;nous ;;;avions manqué;;vous ;;;aviez manqué;;ils //elles ;;;avaient manqué
+Indicatif Passé Simple;indicatif;;je ;;;manquai;;tu ;;;manquas;;il //elle //on ;;;manqua;;nous ;;;manquâmes;;vous ;;;manquâtes;;ils //elles ;;;manquèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus manqué;;tu ;;;eus manqué;;il //elle //on ;;;eut manqué;;nous ;;;eûmes manqué;;vous ;;;eûtes manqué;;ils //elles ;;;eurent manqué
+Indicatif Futur Simple;indicatif;;je ;;;manquerai;;tu ;;;manqueras;;il //elle //on ;;;manquera;;nous ;;;manquerons;;vous ;;;manquerez;;ils //elles ;;;manqueront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai manqué;;tu ;;;auras manqué;;il //elle //on ;;;aura manqué;;nous ;;;aurons manqué;;vous ;;;aurez manqué;;ils //elles ;;;auront manqué
+Subjonctif Présent;subjonctif;que ;je ;;;manque;que ;tu ;;;manques;qu’;il //elle //on ;;;manque;que ;nous ;;;manquions;que ;vous ;;;manquiez;qu’;ils //elles ;;;manquent
+Subjonctif Passé;subjonctif;que ;j’;;;aie manqué;que ;tu ;;;aies manqué;qu’;il //elle //on ;;;ait manqué;que ;nous ;;;ayons manqué;que ;vous ;;;ayez manqué;qu’;ils //elles ;;;aient manqué
+Subjonctif Imparfait;subjonctif;que ;je ;;;manquasse;que ;tu ;;;manquasses;qu’;il //elle //on ;;;manquât;que ;nous ;;;manquassions;que ;vous ;;;manquassiez;qu’;ils //elles ;;;manquassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse manqué;que ;tu ;;;eusses manqué;qu’;il //elle //on ;;;eût manqué;que ;nous ;;;eussions manqué;que ;vous ;;;eussiez manqué;qu’;ils //elles ;;;eussent manqué
+Conditionnel Présent;conditionnel;;je ;;;manquerais;;tu ;;;manquerais;;il //elle //on ;;;manquerait;;nous ;;;manquerions;;vous ;;;manqueriez;;ils //elles ;;;manqueraient
+Conditionnel Passé;conditionnel;;j’;;;aurais manqué;;tu ;;;aurais manqué;;il //elle //on ;;;aurait manqué;;nous ;;;aurions manqué;;vous ;;;auriez manqué;;ils //elles ;;;auraient manqué
 Impératif Présent;impératif;;;;;;;(tu) ;;;manque;;;;;;;(nous) ;;;manquons;;(vous) ;;;manquez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie manqué;;;;;;;(nous) ;;;ayons manqué;;(vous) ;;;ayez manqué;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;manque pas ;;;;;;;(nous) ;ne ;;manquons pas ;;(vous) ;ne ;;manquez pas ;;;;;

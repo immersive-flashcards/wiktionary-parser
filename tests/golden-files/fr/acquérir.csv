@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en acquérant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant acquis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;acquérant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;acquis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;acquiers;;tu ;;;acquiers;;il/elle/on ;;;acquiert;;nous ;;;acquérons;;vous ;;;acquérez;;ils/elles ;;;acquièrent
-Indicatif Passé Composé;indicatif;;j’;;;ai acquis;;tu ;;;as acquis;;il/elle/on ;;;a acquis;;nous ;;;avons acquis;;vous ;;;avez acquis;;ils/elles ;;;ont acquis
-Indicatif Imparfait;indicatif;;j’;;;acquérais;;tu ;;;acquérais;;il/elle/on ;;;acquérait;;nous ;;;acquérions;;vous ;;;acquériez;;ils/elles ;;;acquéraient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais acquis;;tu ;;;avais acquis;;il/elle/on ;;;avait acquis;;nous ;;;avions acquis;;vous ;;;aviez acquis;;ils/elles ;;;avaient acquis
-Indicatif Passé Simple;indicatif;;j’;;;acquis;;tu ;;;acquis;;il/elle/on ;;;acquit;;nous ;;;acquîmes;;vous ;;;acquîtes;;ils/elles ;;;acquirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus acquis;;tu ;;;eus acquis;;il/elle/on ;;;eut acquis;;nous ;;;eûmes acquis;;vous ;;;eûtes acquis;;ils/elles ;;;eurent acquis
-Indicatif Futur Simple;indicatif;;j’;;;acquerrai;;tu ;;;acquerras;;il/elle/on ;;;acquerra;;nous ;;;acquerrons;;vous ;;;acquerrez;;ils/elles ;;;acquerront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai acquis;;tu ;;;auras acquis;;il/elle/on ;;;aura acquis;;nous ;;;aurons acquis;;vous ;;;aurez acquis;;ils/elles ;;;auront acquis
-Subjonctif Présent;subjonctif;que ;j’;;;acquière;que ;tu ;;;acquières;qu’;il/elle/on ;;;acquière;que ;nous ;;;acquérions;que ;vous ;;;acquériez;qu’;ils/elles ;;;acquièrent
-Subjonctif Passé;subjonctif;que ;j’;;;aie acquis;que ;tu ;;;aies acquis;qu’;il/elle/on ;;;ait acquis;que ;nous ;;;ayons acquis;que ;vous ;;;ayez acquis;qu’;ils/elles ;;;aient acquis
-Subjonctif Imparfait;subjonctif;que ;j’;;;acquisse;que ;tu ;;;acquisses;qu’;il/elle/on ;;;acquît;que ;nous ;;;acquissions;que ;vous ;;;acquissiez;qu’;ils/elles ;;;acquissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse acquis;que ;tu ;;;eusses acquis;qu’;il/elle/on ;;;eût acquis;que ;nous ;;;eussions acquis;que ;vous ;;;eussiez acquis;qu’;ils/elles ;;;eussent acquis
-Conditionnel Présent;conditionnel;;j’;;;acquerrais;;tu ;;;acquerrais;;il/elle/on ;;;acquerrait;;nous ;;;acquerrions;;vous ;;;acquerriez;;ils/elles ;;;acquerraient
-Conditionnel Passé;conditionnel;;j’;;;aurais acquis;;tu ;;;aurais acquis;;il/elle/on ;;;aurait acquis;;nous ;;;aurions acquis;;vous ;;;auriez acquis;;ils/elles ;;;auraient acquis
+Indicatif Présent;indicatif;;j’;;;acquiers;;tu ;;;acquiers;;il //elle //on ;;;acquiert;;nous ;;;acquérons;;vous ;;;acquérez;;ils //elles ;;;acquièrent
+Indicatif Passé Composé;indicatif;;j’;;;ai acquis;;tu ;;;as acquis;;il //elle //on ;;;a acquis;;nous ;;;avons acquis;;vous ;;;avez acquis;;ils //elles ;;;ont acquis
+Indicatif Imparfait;indicatif;;j’;;;acquérais;;tu ;;;acquérais;;il //elle //on ;;;acquérait;;nous ;;;acquérions;;vous ;;;acquériez;;ils //elles ;;;acquéraient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais acquis;;tu ;;;avais acquis;;il //elle //on ;;;avait acquis;;nous ;;;avions acquis;;vous ;;;aviez acquis;;ils //elles ;;;avaient acquis
+Indicatif Passé Simple;indicatif;;j’;;;acquis;;tu ;;;acquis;;il //elle //on ;;;acquit;;nous ;;;acquîmes;;vous ;;;acquîtes;;ils //elles ;;;acquirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus acquis;;tu ;;;eus acquis;;il //elle //on ;;;eut acquis;;nous ;;;eûmes acquis;;vous ;;;eûtes acquis;;ils //elles ;;;eurent acquis
+Indicatif Futur Simple;indicatif;;j’;;;acquerrai;;tu ;;;acquerras;;il //elle //on ;;;acquerra;;nous ;;;acquerrons;;vous ;;;acquerrez;;ils //elles ;;;acquerront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai acquis;;tu ;;;auras acquis;;il //elle //on ;;;aura acquis;;nous ;;;aurons acquis;;vous ;;;aurez acquis;;ils //elles ;;;auront acquis
+Subjonctif Présent;subjonctif;que ;j’;;;acquière;que ;tu ;;;acquières;qu’;il //elle //on ;;;acquière;que ;nous ;;;acquérions;que ;vous ;;;acquériez;qu’;ils //elles ;;;acquièrent
+Subjonctif Passé;subjonctif;que ;j’;;;aie acquis;que ;tu ;;;aies acquis;qu’;il //elle //on ;;;ait acquis;que ;nous ;;;ayons acquis;que ;vous ;;;ayez acquis;qu’;ils //elles ;;;aient acquis
+Subjonctif Imparfait;subjonctif;que ;j’;;;acquisse;que ;tu ;;;acquisses;qu’;il //elle //on ;;;acquît;que ;nous ;;;acquissions;que ;vous ;;;acquissiez;qu’;ils //elles ;;;acquissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse acquis;que ;tu ;;;eusses acquis;qu’;il //elle //on ;;;eût acquis;que ;nous ;;;eussions acquis;que ;vous ;;;eussiez acquis;qu’;ils //elles ;;;eussent acquis
+Conditionnel Présent;conditionnel;;j’;;;acquerrais;;tu ;;;acquerrais;;il //elle //on ;;;acquerrait;;nous ;;;acquerrions;;vous ;;;acquerriez;;ils //elles ;;;acquerraient
+Conditionnel Passé;conditionnel;;j’;;;aurais acquis;;tu ;;;aurais acquis;;il //elle //on ;;;aurait acquis;;nous ;;;aurions acquis;;vous ;;;auriez acquis;;ils //elles ;;;auraient acquis
 Impératif Présent;impératif;;;;;;;(tu) ;;;acquiers;;;;;;;(nous) ;;;acquérons;;(vous) ;;;acquérez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie acquis;;;;;;;(nous) ;;;ayons acquis;;(vous) ;;;ayez acquis;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;acquiers pas ;;;;;;;(nous) ;n';;acquérons pas ;;(vous) ;n';;acquérez pas ;;;;;

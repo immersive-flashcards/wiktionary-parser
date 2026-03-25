@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en racolant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant racolé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;racolant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;racolé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;racole;;tu ;;;racoles;;il/elle/on ;;;racole;;nous ;;;racolons;;vous ;;;racolez;;ils/elles ;;;racolent
-Indicatif Passé Composé;indicatif;;j’;;;ai racolé;;tu ;;;as racolé;;il/elle/on ;;;a racolé;;nous ;;;avons racolé;;vous ;;;avez racolé;;ils/elles ;;;ont racolé
-Indicatif Imparfait;indicatif;;je ;;;racolais;;tu ;;;racolais;;il/elle/on ;;;racolait;;nous ;;;racolions;;vous ;;;racoliez;;ils/elles ;;;racolaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais racolé;;tu ;;;avais racolé;;il/elle/on ;;;avait racolé;;nous ;;;avions racolé;;vous ;;;aviez racolé;;ils/elles ;;;avaient racolé
-Indicatif Passé Simple;indicatif;;je ;;;racolai;;tu ;;;racolas;;il/elle/on ;;;racola;;nous ;;;racolâmes;;vous ;;;racolâtes;;ils/elles ;;;racolèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus racolé;;tu ;;;eus racolé;;il/elle/on ;;;eut racolé;;nous ;;;eûmes racolé;;vous ;;;eûtes racolé;;ils/elles ;;;eurent racolé
-Indicatif Futur Simple;indicatif;;je ;;;racolerai;;tu ;;;racoleras;;il/elle/on ;;;racolera;;nous ;;;racolerons;;vous ;;;racolerez;;ils/elles ;;;racoleront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai racolé;;tu ;;;auras racolé;;il/elle/on ;;;aura racolé;;nous ;;;aurons racolé;;vous ;;;aurez racolé;;ils/elles ;;;auront racolé
-Subjonctif Présent;subjonctif;que ;je ;;;racole;que ;tu ;;;racoles;qu’;il/elle/on ;;;racole;que ;nous ;;;racolions;que ;vous ;;;racoliez;qu’;ils/elles ;;;racolent
-Subjonctif Passé;subjonctif;que ;j’;;;aie racolé;que ;tu ;;;aies racolé;qu’;il/elle/on ;;;ait racolé;que ;nous ;;;ayons racolé;que ;vous ;;;ayez racolé;qu’;ils/elles ;;;aient racolé
-Subjonctif Imparfait;subjonctif;que ;je ;;;racolasse;que ;tu ;;;racolasses;qu’;il/elle/on ;;;racolât;que ;nous ;;;racolassions;que ;vous ;;;racolassiez;qu’;ils/elles ;;;racolassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse racolé;que ;tu ;;;eusses racolé;qu’;il/elle/on ;;;eût racolé;que ;nous ;;;eussions racolé;que ;vous ;;;eussiez racolé;qu’;ils/elles ;;;eussent racolé
-Conditionnel Présent;conditionnel;;je ;;;racolerais;;tu ;;;racolerais;;il/elle/on ;;;racolerait;;nous ;;;racolerions;;vous ;;;racoleriez;;ils/elles ;;;racoleraient
-Conditionnel Passé;conditionnel;;j’;;;aurais racolé;;tu ;;;aurais racolé;;il/elle/on ;;;aurait racolé;;nous ;;;aurions racolé;;vous ;;;auriez racolé;;ils/elles ;;;auraient racolé
+Indicatif Présent;indicatif;;je ;;;racole;;tu ;;;racoles;;il //elle //on ;;;racole;;nous ;;;racolons;;vous ;;;racolez;;ils //elles ;;;racolent
+Indicatif Passé Composé;indicatif;;j’;;;ai racolé;;tu ;;;as racolé;;il //elle //on ;;;a racolé;;nous ;;;avons racolé;;vous ;;;avez racolé;;ils //elles ;;;ont racolé
+Indicatif Imparfait;indicatif;;je ;;;racolais;;tu ;;;racolais;;il //elle //on ;;;racolait;;nous ;;;racolions;;vous ;;;racoliez;;ils //elles ;;;racolaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais racolé;;tu ;;;avais racolé;;il //elle //on ;;;avait racolé;;nous ;;;avions racolé;;vous ;;;aviez racolé;;ils //elles ;;;avaient racolé
+Indicatif Passé Simple;indicatif;;je ;;;racolai;;tu ;;;racolas;;il //elle //on ;;;racola;;nous ;;;racolâmes;;vous ;;;racolâtes;;ils //elles ;;;racolèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus racolé;;tu ;;;eus racolé;;il //elle //on ;;;eut racolé;;nous ;;;eûmes racolé;;vous ;;;eûtes racolé;;ils //elles ;;;eurent racolé
+Indicatif Futur Simple;indicatif;;je ;;;racolerai;;tu ;;;racoleras;;il //elle //on ;;;racolera;;nous ;;;racolerons;;vous ;;;racolerez;;ils //elles ;;;racoleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai racolé;;tu ;;;auras racolé;;il //elle //on ;;;aura racolé;;nous ;;;aurons racolé;;vous ;;;aurez racolé;;ils //elles ;;;auront racolé
+Subjonctif Présent;subjonctif;que ;je ;;;racole;que ;tu ;;;racoles;qu’;il //elle //on ;;;racole;que ;nous ;;;racolions;que ;vous ;;;racoliez;qu’;ils //elles ;;;racolent
+Subjonctif Passé;subjonctif;que ;j’;;;aie racolé;que ;tu ;;;aies racolé;qu’;il //elle //on ;;;ait racolé;que ;nous ;;;ayons racolé;que ;vous ;;;ayez racolé;qu’;ils //elles ;;;aient racolé
+Subjonctif Imparfait;subjonctif;que ;je ;;;racolasse;que ;tu ;;;racolasses;qu’;il //elle //on ;;;racolât;que ;nous ;;;racolassions;que ;vous ;;;racolassiez;qu’;ils //elles ;;;racolassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse racolé;que ;tu ;;;eusses racolé;qu’;il //elle //on ;;;eût racolé;que ;nous ;;;eussions racolé;que ;vous ;;;eussiez racolé;qu’;ils //elles ;;;eussent racolé
+Conditionnel Présent;conditionnel;;je ;;;racolerais;;tu ;;;racolerais;;il //elle //on ;;;racolerait;;nous ;;;racolerions;;vous ;;;racoleriez;;ils //elles ;;;racoleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais racolé;;tu ;;;aurais racolé;;il //elle //on ;;;aurait racolé;;nous ;;;aurions racolé;;vous ;;;auriez racolé;;ils //elles ;;;auraient racolé
 Impératif Présent;impératif;;;;;;;(tu) ;;;racole;;;;;;;(nous) ;;;racolons;;(vous) ;;;racolez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie racolé;;;;;;;(nous) ;;;ayons racolé;;(vous) ;;;ayez racolé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;racole pas ;;;;;;;(nous) ;ne ;;racolons pas ;;(vous) ;ne ;;racolez pas ;;;;;

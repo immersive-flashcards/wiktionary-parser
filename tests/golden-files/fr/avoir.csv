@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en ayant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant eu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;ayant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;eu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;ai;;tu ;;;as;;il/elle/on ;;;a;;nous ;;;avons;;vous ;;;avez;;ils/elles ;;;ont
-Indicatif Passé Composé;indicatif;;j’;;;ai eu;;tu ;;;as eu;;il/elle/on ;;;a eu;;nous ;;;avons eu;;vous ;;;avez eu;;ils/elles ;;;ont eu
-Indicatif Imparfait;indicatif;;j’;;;avais;;tu ;;;avais;;il/elle/on ;;;avait;;nous ;;;avions;;vous ;;;aviez;;ils/elles ;;;avaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais eu;;tu ;;;avais eu;;il/elle/on ;;;avait eu;;nous ;;;avions eu;;vous ;;;aviez eu;;ils/elles ;;;avaient eu
-Indicatif Passé Simple;indicatif;;j’;;;eus;;tu ;;;eus;;il/elle/on ;;;eut;;nous ;;;eûmes;;vous ;;;eûtes;;ils/elles ;;;eurent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus eu;;tu ;;;eus eu;;il/elle/on ;;;eut eu;;nous ;;;eûmes eu;;vous ;;;eûtes eu;;ils/elles ;;;eurent eu
-Indicatif Futur Simple;indicatif;;j’;;;aurai;;tu ;;;auras;;il/elle/on ;;;aura;;nous ;;;aurons;;vous ;;;aurez;;ils/elles ;;;auront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai eu;;tu ;;;auras eu;;il/elle/on ;;;aura eu;;nous ;;;aurons eu;;vous ;;;aurez eu;;ils/elles ;;;auront eu
-Subjonctif Présent;subjonctif;que ;j’;;;aie;que ;tu ;;;aies;qu’;il/elle/on ;;;ait;que ;nous ;;;ayons;que ;vous ;;;ayez;qu’;ils/elles ;;;aient
-Subjonctif Passé;subjonctif;que ;j’;;;aie eu;que ;tu ;;;aies eu;qu’;il/elle/on ;;;ait eu;que ;nous ;;;ayons eu;que ;vous ;;;ayez eu;qu’;ils/elles ;;;aient eu
-Subjonctif Imparfait;subjonctif;que ;j’;;;eusse;que ;tu ;;;eusses;qu’;il/elle/on ;;;eût;que ;nous ;;;eussions;que ;vous ;;;eussiez;qu’;ils/elles ;;;eussent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse eu;que ;tu ;;;eusses eu;qu’;il/elle/on ;;;eût eu;que ;nous ;;;eussions eu;que ;vous ;;;eussiez eu;qu’;ils/elles ;;;eussent eu
-Conditionnel Présent;conditionnel;;j’;;;aurais;;tu ;;;aurais;;il/elle/on ;;;aurait;;nous ;;;aurions;;vous ;;;auriez;;ils/elles ;;;auraient
-Conditionnel Passé;conditionnel;;j’;;;aurais eu;;tu ;;;aurais eu;;il/elle/on ;;;aurait eu;;nous ;;;aurions eu;;vous ;;;auriez eu;;ils/elles ;;;auraient eu
+Indicatif Présent;indicatif;;j’;;;ai;;tu ;;;as;;il //elle //on ;;;a;;nous ;;;avons;;vous ;;;avez;;ils //elles ;;;ont
+Indicatif Passé Composé;indicatif;;j’;;;ai eu;;tu ;;;as eu;;il //elle //on ;;;a eu;;nous ;;;avons eu;;vous ;;;avez eu;;ils //elles ;;;ont eu
+Indicatif Imparfait;indicatif;;j’;;;avais;;tu ;;;avais;;il //elle //on ;;;avait;;nous ;;;avions;;vous ;;;aviez;;ils //elles ;;;avaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais eu;;tu ;;;avais eu;;il //elle //on ;;;avait eu;;nous ;;;avions eu;;vous ;;;aviez eu;;ils //elles ;;;avaient eu
+Indicatif Passé Simple;indicatif;;j’;;;eus;;tu ;;;eus;;il //elle //on ;;;eut;;nous ;;;eûmes;;vous ;;;eûtes;;ils //elles ;;;eurent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus eu;;tu ;;;eus eu;;il //elle //on ;;;eut eu;;nous ;;;eûmes eu;;vous ;;;eûtes eu;;ils //elles ;;;eurent eu
+Indicatif Futur Simple;indicatif;;j’;;;aurai;;tu ;;;auras;;il //elle //on ;;;aura;;nous ;;;aurons;;vous ;;;aurez;;ils //elles ;;;auront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai eu;;tu ;;;auras eu;;il //elle //on ;;;aura eu;;nous ;;;aurons eu;;vous ;;;aurez eu;;ils //elles ;;;auront eu
+Subjonctif Présent;subjonctif;que ;j’;;;aie;que ;tu ;;;aies;qu’;il //elle //on ;;;ait;que ;nous ;;;ayons;que ;vous ;;;ayez;qu’;ils //elles ;;;aient
+Subjonctif Passé;subjonctif;que ;j’;;;aie eu;que ;tu ;;;aies eu;qu’;il //elle //on ;;;ait eu;que ;nous ;;;ayons eu;que ;vous ;;;ayez eu;qu’;ils //elles ;;;aient eu
+Subjonctif Imparfait;subjonctif;que ;j’;;;eusse;que ;tu ;;;eusses;qu’;il //elle //on ;;;eût;que ;nous ;;;eussions;que ;vous ;;;eussiez;qu’;ils //elles ;;;eussent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse eu;que ;tu ;;;eusses eu;qu’;il //elle //on ;;;eût eu;que ;nous ;;;eussions eu;que ;vous ;;;eussiez eu;qu’;ils //elles ;;;eussent eu
+Conditionnel Présent;conditionnel;;j’;;;aurais;;tu ;;;aurais;;il //elle //on ;;;aurait;;nous ;;;aurions;;vous ;;;auriez;;ils //elles ;;;auraient
+Conditionnel Passé;conditionnel;;j’;;;aurais eu;;tu ;;;aurais eu;;il //elle //on ;;;aurait eu;;nous ;;;aurions eu;;vous ;;;auriez eu;;ils //elles ;;;auraient eu
 Impératif Présent;impératif;;;;;;;(tu) ;;;aie;;;;;;;(nous) ;;;ayons;;(vous) ;;;ayez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie eu;;;;;;;(nous) ;;;ayons eu;;(vous) ;;;ayez eu;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;aie pas ;;;;;;;(nous) ;n';;ayons pas ;;(vous) ;n';;ayez pas ;;;;;

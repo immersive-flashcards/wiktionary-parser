@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en nourrissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant nourri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;nourrissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;nourri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;nourris;;tu ;;;nourris;;il/elle/on ;;;nourrit;;nous ;;;nourrissons;;vous ;;;nourrissez;;ils/elles ;;;nourrissent
-Indicatif Passé Composé;indicatif;;j’;;;ai nourri;;tu ;;;as nourri;;il/elle/on ;;;a nourri;;nous ;;;avons nourri;;vous ;;;avez nourri;;ils/elles ;;;ont nourri
-Indicatif Imparfait;indicatif;;je ;;;nourrissais;;tu ;;;nourrissais;;il/elle/on ;;;nourrissait;;nous ;;;nourrissions;;vous ;;;nourrissiez;;ils/elles ;;;nourrissaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais nourri;;tu ;;;avais nourri;;il/elle/on ;;;avait nourri;;nous ;;;avions nourri;;vous ;;;aviez nourri;;ils/elles ;;;avaient nourri
-Indicatif Passé Simple;indicatif;;je ;;;nourris;;tu ;;;nourris;;il/elle/on ;;;nourrit;;nous ;;;nourrîmes;;vous ;;;nourrîtes;;ils/elles ;;;nourrirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus nourri;;tu ;;;eus nourri;;il/elle/on ;;;eut nourri;;nous ;;;eûmes nourri;;vous ;;;eûtes nourri;;ils/elles ;;;eurent nourri
-Indicatif Futur Simple;indicatif;;je ;;;nourrirai;;tu ;;;nourriras;;il/elle/on ;;;nourrira;;nous ;;;nourrirons;;vous ;;;nourrirez;;ils/elles ;;;nourriront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai nourri;;tu ;;;auras nourri;;il/elle/on ;;;aura nourri;;nous ;;;aurons nourri;;vous ;;;aurez nourri;;ils/elles ;;;auront nourri
-Subjonctif Présent;subjonctif;que ;je ;;;nourrisse;que ;tu ;;;nourrisses;qu’;il/elle/on ;;;nourrisse;que ;nous ;;;nourrissions;que ;vous ;;;nourrissiez;qu’;ils/elles ;;;nourrissent
-Subjonctif Passé;subjonctif;que ;j’;;;aie nourri;que ;tu ;;;aies nourri;qu’;il/elle/on ;;;ait nourri;que ;nous ;;;ayons nourri;que ;vous ;;;ayez nourri;qu’;ils/elles ;;;aient nourri
-Subjonctif Imparfait;subjonctif;que ;je ;;;nourrisse;que ;tu ;;;nourrisses;qu’;il/elle/on ;;;nourrît;que ;nous ;;;nourrissions;que ;vous ;;;nourrissiez;qu’;ils/elles ;;;nourrissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse nourri;que ;tu ;;;eusses nourri;qu’;il/elle/on ;;;eût nourri;que ;nous ;;;eussions nourri;que ;vous ;;;eussiez nourri;qu’;ils/elles ;;;eussent nourri
-Conditionnel Présent;conditionnel;;je ;;;nourrirais;;tu ;;;nourrirais;;il/elle/on ;;;nourrirait;;nous ;;;nourririons;;vous ;;;nourririez;;ils/elles ;;;nourriraient
-Conditionnel Passé;conditionnel;;j’;;;aurais nourri;;tu ;;;aurais nourri;;il/elle/on ;;;aurait nourri;;nous ;;;aurions nourri;;vous ;;;auriez nourri;;ils/elles ;;;auraient nourri
+Indicatif Présent;indicatif;;je ;;;nourris;;tu ;;;nourris;;il //elle //on ;;;nourrit;;nous ;;;nourrissons;;vous ;;;nourrissez;;ils //elles ;;;nourrissent
+Indicatif Passé Composé;indicatif;;j’;;;ai nourri;;tu ;;;as nourri;;il //elle //on ;;;a nourri;;nous ;;;avons nourri;;vous ;;;avez nourri;;ils //elles ;;;ont nourri
+Indicatif Imparfait;indicatif;;je ;;;nourrissais;;tu ;;;nourrissais;;il //elle //on ;;;nourrissait;;nous ;;;nourrissions;;vous ;;;nourrissiez;;ils //elles ;;;nourrissaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais nourri;;tu ;;;avais nourri;;il //elle //on ;;;avait nourri;;nous ;;;avions nourri;;vous ;;;aviez nourri;;ils //elles ;;;avaient nourri
+Indicatif Passé Simple;indicatif;;je ;;;nourris;;tu ;;;nourris;;il //elle //on ;;;nourrit;;nous ;;;nourrîmes;;vous ;;;nourrîtes;;ils //elles ;;;nourrirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus nourri;;tu ;;;eus nourri;;il //elle //on ;;;eut nourri;;nous ;;;eûmes nourri;;vous ;;;eûtes nourri;;ils //elles ;;;eurent nourri
+Indicatif Futur Simple;indicatif;;je ;;;nourrirai;;tu ;;;nourriras;;il //elle //on ;;;nourrira;;nous ;;;nourrirons;;vous ;;;nourrirez;;ils //elles ;;;nourriront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai nourri;;tu ;;;auras nourri;;il //elle //on ;;;aura nourri;;nous ;;;aurons nourri;;vous ;;;aurez nourri;;ils //elles ;;;auront nourri
+Subjonctif Présent;subjonctif;que ;je ;;;nourrisse;que ;tu ;;;nourrisses;qu’;il //elle //on ;;;nourrisse;que ;nous ;;;nourrissions;que ;vous ;;;nourrissiez;qu’;ils //elles ;;;nourrissent
+Subjonctif Passé;subjonctif;que ;j’;;;aie nourri;que ;tu ;;;aies nourri;qu’;il //elle //on ;;;ait nourri;que ;nous ;;;ayons nourri;que ;vous ;;;ayez nourri;qu’;ils //elles ;;;aient nourri
+Subjonctif Imparfait;subjonctif;que ;je ;;;nourrisse;que ;tu ;;;nourrisses;qu’;il //elle //on ;;;nourrît;que ;nous ;;;nourrissions;que ;vous ;;;nourrissiez;qu’;ils //elles ;;;nourrissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse nourri;que ;tu ;;;eusses nourri;qu’;il //elle //on ;;;eût nourri;que ;nous ;;;eussions nourri;que ;vous ;;;eussiez nourri;qu’;ils //elles ;;;eussent nourri
+Conditionnel Présent;conditionnel;;je ;;;nourrirais;;tu ;;;nourrirais;;il //elle //on ;;;nourrirait;;nous ;;;nourririons;;vous ;;;nourririez;;ils //elles ;;;nourriraient
+Conditionnel Passé;conditionnel;;j’;;;aurais nourri;;tu ;;;aurais nourri;;il //elle //on ;;;aurait nourri;;nous ;;;aurions nourri;;vous ;;;auriez nourri;;ils //elles ;;;auraient nourri
 Impératif Présent;impératif;;;;;;;(tu) ;;;nourris;;;;;;;(nous) ;;;nourrissons;;(vous) ;;;nourrissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie nourri;;;;;;;(nous) ;;;ayons nourri;;(vous) ;;;ayez nourri;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;nourris pas ;;;;;;;(nous) ;ne ;;nourrissons pas ;;(vous) ;ne ;;nourrissez pas ;;;;;

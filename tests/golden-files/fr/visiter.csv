@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en visitant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant visité;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;visitant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;visité;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;visite;;tu ;;;visites;;il/elle/on ;;;visite;;nous ;;;visitons;;vous ;;;visitez;;ils/elles ;;;visitent
-Indicatif Passé Composé;indicatif;;j’;;;ai visité;;tu ;;;as visité;;il/elle/on ;;;a visité;;nous ;;;avons visité;;vous ;;;avez visité;;ils/elles ;;;ont visité
-Indicatif Imparfait;indicatif;;je ;;;visitais;;tu ;;;visitais;;il/elle/on ;;;visitait;;nous ;;;visitions;;vous ;;;visitiez;;ils/elles ;;;visitaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais visité;;tu ;;;avais visité;;il/elle/on ;;;avait visité;;nous ;;;avions visité;;vous ;;;aviez visité;;ils/elles ;;;avaient visité
-Indicatif Passé Simple;indicatif;;je ;;;visitai;;tu ;;;visitas;;il/elle/on ;;;visita;;nous ;;;visitâmes;;vous ;;;visitâtes;;ils/elles ;;;visitèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus visité;;tu ;;;eus visité;;il/elle/on ;;;eut visité;;nous ;;;eûmes visité;;vous ;;;eûtes visité;;ils/elles ;;;eurent visité
-Indicatif Futur Simple;indicatif;;je ;;;visiterai;;tu ;;;visiteras;;il/elle/on ;;;visitera;;nous ;;;visiterons;;vous ;;;visiterez;;ils/elles ;;;visiteront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai visité;;tu ;;;auras visité;;il/elle/on ;;;aura visité;;nous ;;;aurons visité;;vous ;;;aurez visité;;ils/elles ;;;auront visité
-Subjonctif Présent;subjonctif;que ;je ;;;visite;que ;tu ;;;visites;qu’;il/elle/on ;;;visite;que ;nous ;;;visitions;que ;vous ;;;visitiez;qu’;ils/elles ;;;visitent
-Subjonctif Passé;subjonctif;que ;j’;;;aie visité;que ;tu ;;;aies visité;qu’;il/elle/on ;;;ait visité;que ;nous ;;;ayons visité;que ;vous ;;;ayez visité;qu’;ils/elles ;;;aient visité
-Subjonctif Imparfait;subjonctif;que ;je ;;;visitasse;que ;tu ;;;visitasses;qu’;il/elle/on ;;;visitât;que ;nous ;;;visitassions;que ;vous ;;;visitassiez;qu’;ils/elles ;;;visitassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse visité;que ;tu ;;;eusses visité;qu’;il/elle/on ;;;eût visité;que ;nous ;;;eussions visité;que ;vous ;;;eussiez visité;qu’;ils/elles ;;;eussent visité
-Conditionnel Présent;conditionnel;;je ;;;visiterais;;tu ;;;visiterais;;il/elle/on ;;;visiterait;;nous ;;;visiterions;;vous ;;;visiteriez;;ils/elles ;;;visiteraient
-Conditionnel Passé;conditionnel;;j’;;;aurais visité;;tu ;;;aurais visité;;il/elle/on ;;;aurait visité;;nous ;;;aurions visité;;vous ;;;auriez visité;;ils/elles ;;;auraient visité
+Indicatif Présent;indicatif;;je ;;;visite;;tu ;;;visites;;il //elle //on ;;;visite;;nous ;;;visitons;;vous ;;;visitez;;ils //elles ;;;visitent
+Indicatif Passé Composé;indicatif;;j’;;;ai visité;;tu ;;;as visité;;il //elle //on ;;;a visité;;nous ;;;avons visité;;vous ;;;avez visité;;ils //elles ;;;ont visité
+Indicatif Imparfait;indicatif;;je ;;;visitais;;tu ;;;visitais;;il //elle //on ;;;visitait;;nous ;;;visitions;;vous ;;;visitiez;;ils //elles ;;;visitaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais visité;;tu ;;;avais visité;;il //elle //on ;;;avait visité;;nous ;;;avions visité;;vous ;;;aviez visité;;ils //elles ;;;avaient visité
+Indicatif Passé Simple;indicatif;;je ;;;visitai;;tu ;;;visitas;;il //elle //on ;;;visita;;nous ;;;visitâmes;;vous ;;;visitâtes;;ils //elles ;;;visitèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus visité;;tu ;;;eus visité;;il //elle //on ;;;eut visité;;nous ;;;eûmes visité;;vous ;;;eûtes visité;;ils //elles ;;;eurent visité
+Indicatif Futur Simple;indicatif;;je ;;;visiterai;;tu ;;;visiteras;;il //elle //on ;;;visitera;;nous ;;;visiterons;;vous ;;;visiterez;;ils //elles ;;;visiteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai visité;;tu ;;;auras visité;;il //elle //on ;;;aura visité;;nous ;;;aurons visité;;vous ;;;aurez visité;;ils //elles ;;;auront visité
+Subjonctif Présent;subjonctif;que ;je ;;;visite;que ;tu ;;;visites;qu’;il //elle //on ;;;visite;que ;nous ;;;visitions;que ;vous ;;;visitiez;qu’;ils //elles ;;;visitent
+Subjonctif Passé;subjonctif;que ;j’;;;aie visité;que ;tu ;;;aies visité;qu’;il //elle //on ;;;ait visité;que ;nous ;;;ayons visité;que ;vous ;;;ayez visité;qu’;ils //elles ;;;aient visité
+Subjonctif Imparfait;subjonctif;que ;je ;;;visitasse;que ;tu ;;;visitasses;qu’;il //elle //on ;;;visitât;que ;nous ;;;visitassions;que ;vous ;;;visitassiez;qu’;ils //elles ;;;visitassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse visité;que ;tu ;;;eusses visité;qu’;il //elle //on ;;;eût visité;que ;nous ;;;eussions visité;que ;vous ;;;eussiez visité;qu’;ils //elles ;;;eussent visité
+Conditionnel Présent;conditionnel;;je ;;;visiterais;;tu ;;;visiterais;;il //elle //on ;;;visiterait;;nous ;;;visiterions;;vous ;;;visiteriez;;ils //elles ;;;visiteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais visité;;tu ;;;aurais visité;;il //elle //on ;;;aurait visité;;nous ;;;aurions visité;;vous ;;;auriez visité;;ils //elles ;;;auraient visité
 Impératif Présent;impératif;;;;;;;(tu) ;;;visite;;;;;;;(nous) ;;;visitons;;(vous) ;;;visitez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie visité;;;;;;;(nous) ;;;ayons visité;;(vous) ;;;ayez visité;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;visite pas ;;;;;;;(nous) ;ne ;;visitons pas ;;(vous) ;ne ;;visitez pas ;;;;;

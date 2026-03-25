@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en faisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant fait;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;faisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;fait;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;fais;;tu ;;;fais;;il/elle/on ;;;fait;;nous ;;;faisons;;vous ;;;faites;;ils/elles ;;;font
-Indicatif Passé Composé;indicatif;;j’;;;ai fait;;tu ;;;as fait;;il/elle/on ;;;a fait;;nous ;;;avons fait;;vous ;;;avez fait;;ils/elles ;;;ont fait
-Indicatif Imparfait;indicatif;;je ;;;faisais;;tu ;;;faisais;;il/elle/on ;;;faisait;;nous ;;;faisions;;vous ;;;faisiez;;ils/elles ;;;faisaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais fait;;tu ;;;avais fait;;il/elle/on ;;;avait fait;;nous ;;;avions fait;;vous ;;;aviez fait;;ils/elles ;;;avaient fait
-Indicatif Passé Simple;indicatif;;je ;;;fis;;tu ;;;fis;;il/elle/on ;;;fit;;nous ;;;fîmes;;vous ;;;fîtes;;ils/elles ;;;firent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus fait;;tu ;;;eus fait;;il/elle/on ;;;eut fait;;nous ;;;eûmes fait;;vous ;;;eûtes fait;;ils/elles ;;;eurent fait
-Indicatif Futur Simple;indicatif;;je ;;;ferai;;tu ;;;feras;;il/elle/on ;;;fera;;nous ;;;ferons;;vous ;;;ferez;;ils/elles ;;;feront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai fait;;tu ;;;auras fait;;il/elle/on ;;;aura fait;;nous ;;;aurons fait;;vous ;;;aurez fait;;ils/elles ;;;auront fait
-Subjonctif Présent;subjonctif;que ;je ;;;fasse;que ;tu ;;;fasses;qu’;il/elle/on ;;;fasse;que ;nous ;;;fassions;que ;vous ;;;fassiez;qu’;ils/elles ;;;fassent
-Subjonctif Passé;subjonctif;que ;j’;;;aie fait;que ;tu ;;;aies fait;qu’;il/elle/on ;;;ait fait;que ;nous ;;;ayons fait;que ;vous ;;;ayez fait;qu’;ils/elles ;;;aient fait
-Subjonctif Imparfait;subjonctif;que ;je ;;;fisse;que ;tu ;;;fisses;qu’;il/elle/on ;;;fît;que ;nous ;;;fissions;que ;vous ;;;fissiez;qu’;ils/elles ;;;fissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse fait;que ;tu ;;;eusses fait;qu’;il/elle/on ;;;eût fait;que ;nous ;;;eussions fait;que ;vous ;;;eussiez fait;qu’;ils/elles ;;;eussent fait
-Conditionnel Présent;conditionnel;;je ;;;ferais;;tu ;;;ferais;;il/elle/on ;;;ferait;;nous ;;;ferions;;vous ;;;feriez;;ils/elles ;;;feraient
-Conditionnel Passé;conditionnel;;j’;;;aurais fait;;tu ;;;aurais fait;;il/elle/on ;;;aurait fait;;nous ;;;aurions fait;;vous ;;;auriez fait;;ils/elles ;;;auraient fait
+Indicatif Présent;indicatif;;je ;;;fais;;tu ;;;fais;;il //elle //on ;;;fait;;nous ;;;faisons;;vous ;;;faites;;ils //elles ;;;font
+Indicatif Passé Composé;indicatif;;j’;;;ai fait;;tu ;;;as fait;;il //elle //on ;;;a fait;;nous ;;;avons fait;;vous ;;;avez fait;;ils //elles ;;;ont fait
+Indicatif Imparfait;indicatif;;je ;;;faisais;;tu ;;;faisais;;il //elle //on ;;;faisait;;nous ;;;faisions;;vous ;;;faisiez;;ils //elles ;;;faisaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais fait;;tu ;;;avais fait;;il //elle //on ;;;avait fait;;nous ;;;avions fait;;vous ;;;aviez fait;;ils //elles ;;;avaient fait
+Indicatif Passé Simple;indicatif;;je ;;;fis;;tu ;;;fis;;il //elle //on ;;;fit;;nous ;;;fîmes;;vous ;;;fîtes;;ils //elles ;;;firent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus fait;;tu ;;;eus fait;;il //elle //on ;;;eut fait;;nous ;;;eûmes fait;;vous ;;;eûtes fait;;ils //elles ;;;eurent fait
+Indicatif Futur Simple;indicatif;;je ;;;ferai;;tu ;;;feras;;il //elle //on ;;;fera;;nous ;;;ferons;;vous ;;;ferez;;ils //elles ;;;feront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai fait;;tu ;;;auras fait;;il //elle //on ;;;aura fait;;nous ;;;aurons fait;;vous ;;;aurez fait;;ils //elles ;;;auront fait
+Subjonctif Présent;subjonctif;que ;je ;;;fasse;que ;tu ;;;fasses;qu’;il //elle //on ;;;fasse;que ;nous ;;;fassions;que ;vous ;;;fassiez;qu’;ils //elles ;;;fassent
+Subjonctif Passé;subjonctif;que ;j’;;;aie fait;que ;tu ;;;aies fait;qu’;il //elle //on ;;;ait fait;que ;nous ;;;ayons fait;que ;vous ;;;ayez fait;qu’;ils //elles ;;;aient fait
+Subjonctif Imparfait;subjonctif;que ;je ;;;fisse;que ;tu ;;;fisses;qu’;il //elle //on ;;;fît;que ;nous ;;;fissions;que ;vous ;;;fissiez;qu’;ils //elles ;;;fissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse fait;que ;tu ;;;eusses fait;qu’;il //elle //on ;;;eût fait;que ;nous ;;;eussions fait;que ;vous ;;;eussiez fait;qu’;ils //elles ;;;eussent fait
+Conditionnel Présent;conditionnel;;je ;;;ferais;;tu ;;;ferais;;il //elle //on ;;;ferait;;nous ;;;ferions;;vous ;;;feriez;;ils //elles ;;;feraient
+Conditionnel Passé;conditionnel;;j’;;;aurais fait;;tu ;;;aurais fait;;il //elle //on ;;;aurait fait;;nous ;;;aurions fait;;vous ;;;auriez fait;;ils //elles ;;;auraient fait
 Impératif Présent;impératif;;;;;;;(tu) ;;;fais;;;;;;;(nous) ;;;faisons;;(vous) ;;;faites;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fait;;;;;;;(nous) ;;;ayons fait;;(vous) ;;;ayez fait;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fais pas ;;;;;;;(nous) ;ne ;;faisons pas ;;(vous) ;ne ;;faites pas ;;;;;

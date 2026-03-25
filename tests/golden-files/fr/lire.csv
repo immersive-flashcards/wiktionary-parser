@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en lisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant lu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;lisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;lu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;lis;;tu ;;;lis;;il/elle/on ;;;lit;;nous ;;;lisons;;vous ;;;lisez;;ils/elles ;;;lisent
-Indicatif Passé Composé;indicatif;;j’;;;ai lu;;tu ;;;as lu;;il/elle/on ;;;a lu;;nous ;;;avons lu;;vous ;;;avez lu;;ils/elles ;;;ont lu
-Indicatif Imparfait;indicatif;;je ;;;lisais;;tu ;;;lisais;;il/elle/on ;;;lisait;;nous ;;;lisions;;vous ;;;lisiez;;ils/elles ;;;lisaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais lu;;tu ;;;avais lu;;il/elle/on ;;;avait lu;;nous ;;;avions lu;;vous ;;;aviez lu;;ils/elles ;;;avaient lu
-Indicatif Passé Simple;indicatif;;je ;;;lus;;tu ;;;lus;;il/elle/on ;;;lut;;nous ;;;lûmes;;vous ;;;lûtes;;ils/elles ;;;lurent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus lu;;tu ;;;eus lu;;il/elle/on ;;;eut lu;;nous ;;;eûmes lu;;vous ;;;eûtes lu;;ils/elles ;;;eurent lu
-Indicatif Futur Simple;indicatif;;je ;;;lirai;;tu ;;;liras;;il/elle/on ;;;lira;;nous ;;;lirons;;vous ;;;lirez;;ils/elles ;;;liront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai lu;;tu ;;;auras lu;;il/elle/on ;;;aura lu;;nous ;;;aurons lu;;vous ;;;aurez lu;;ils/elles ;;;auront lu
-Subjonctif Présent;subjonctif;que ;je ;;;lise;que ;tu ;;;lises;qu’;il/elle/on ;;;lise;que ;nous ;;;lisions;que ;vous ;;;lisiez;qu’;ils/elles ;;;lisent
-Subjonctif Passé;subjonctif;que ;j’;;;aie lu;que ;tu ;;;aies lu;qu’;il/elle/on ;;;ait lu;que ;nous ;;;ayons lu;que ;vous ;;;ayez lu;qu’;ils/elles ;;;aient lu
-Subjonctif Imparfait;subjonctif;que ;je ;;;lusse;que ;tu ;;;lusses;qu’;il/elle/on ;;;lût;que ;nous ;;;lussions;que ;vous ;;;lussiez;qu’;ils/elles ;;;lussent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse lu;que ;tu ;;;eusses lu;qu’;il/elle/on ;;;eût lu;que ;nous ;;;eussions lu;que ;vous ;;;eussiez lu;qu’;ils/elles ;;;eussent lu
-Conditionnel Présent;conditionnel;;je ;;;lirais;;tu ;;;lirais;;il/elle/on ;;;lirait;;nous ;;;lirions;;vous ;;;liriez;;ils/elles ;;;liraient
-Conditionnel Passé;conditionnel;;j’;;;aurais lu;;tu ;;;aurais lu;;il/elle/on ;;;aurait lu;;nous ;;;aurions lu;;vous ;;;auriez lu;;ils/elles ;;;auraient lu
+Indicatif Présent;indicatif;;je ;;;lis;;tu ;;;lis;;il //elle //on ;;;lit;;nous ;;;lisons;;vous ;;;lisez;;ils //elles ;;;lisent
+Indicatif Passé Composé;indicatif;;j’;;;ai lu;;tu ;;;as lu;;il //elle //on ;;;a lu;;nous ;;;avons lu;;vous ;;;avez lu;;ils //elles ;;;ont lu
+Indicatif Imparfait;indicatif;;je ;;;lisais;;tu ;;;lisais;;il //elle //on ;;;lisait;;nous ;;;lisions;;vous ;;;lisiez;;ils //elles ;;;lisaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais lu;;tu ;;;avais lu;;il //elle //on ;;;avait lu;;nous ;;;avions lu;;vous ;;;aviez lu;;ils //elles ;;;avaient lu
+Indicatif Passé Simple;indicatif;;je ;;;lus;;tu ;;;lus;;il //elle //on ;;;lut;;nous ;;;lûmes;;vous ;;;lûtes;;ils //elles ;;;lurent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus lu;;tu ;;;eus lu;;il //elle //on ;;;eut lu;;nous ;;;eûmes lu;;vous ;;;eûtes lu;;ils //elles ;;;eurent lu
+Indicatif Futur Simple;indicatif;;je ;;;lirai;;tu ;;;liras;;il //elle //on ;;;lira;;nous ;;;lirons;;vous ;;;lirez;;ils //elles ;;;liront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai lu;;tu ;;;auras lu;;il //elle //on ;;;aura lu;;nous ;;;aurons lu;;vous ;;;aurez lu;;ils //elles ;;;auront lu
+Subjonctif Présent;subjonctif;que ;je ;;;lise;que ;tu ;;;lises;qu’;il //elle //on ;;;lise;que ;nous ;;;lisions;que ;vous ;;;lisiez;qu’;ils //elles ;;;lisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie lu;que ;tu ;;;aies lu;qu’;il //elle //on ;;;ait lu;que ;nous ;;;ayons lu;que ;vous ;;;ayez lu;qu’;ils //elles ;;;aient lu
+Subjonctif Imparfait;subjonctif;que ;je ;;;lusse;que ;tu ;;;lusses;qu’;il //elle //on ;;;lût;que ;nous ;;;lussions;que ;vous ;;;lussiez;qu’;ils //elles ;;;lussent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse lu;que ;tu ;;;eusses lu;qu’;il //elle //on ;;;eût lu;que ;nous ;;;eussions lu;que ;vous ;;;eussiez lu;qu’;ils //elles ;;;eussent lu
+Conditionnel Présent;conditionnel;;je ;;;lirais;;tu ;;;lirais;;il //elle //on ;;;lirait;;nous ;;;lirions;;vous ;;;liriez;;ils //elles ;;;liraient
+Conditionnel Passé;conditionnel;;j’;;;aurais lu;;tu ;;;aurais lu;;il //elle //on ;;;aurait lu;;nous ;;;aurions lu;;vous ;;;auriez lu;;ils //elles ;;;auraient lu
 Impératif Présent;impératif;;;;;;;(tu) ;;;lis;;;;;;;(nous) ;;;lisons;;(vous) ;;;lisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie lu;;;;;;;(nous) ;;;ayons lu;;(vous) ;;;ayez lu;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;lis pas ;;;;;;;(nous) ;ne ;;lisons pas ;;(vous) ;ne ;;lisez pas ;;;;;

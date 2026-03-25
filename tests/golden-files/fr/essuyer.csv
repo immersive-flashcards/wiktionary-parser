@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en essuyant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant essuyé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;essuyant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;essuyé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;essuie;;tu ;;;essuies;;il/elle/on ;;;essuie;;nous ;;;essuyons;;vous ;;;essuyez;;ils/elles ;;;essuient
-Indicatif Passé Composé;indicatif;;j’;;;ai essuyé;;tu ;;;as essuyé;;il/elle/on ;;;a essuyé;;nous ;;;avons essuyé;;vous ;;;avez essuyé;;ils/elles ;;;ont essuyé
-Indicatif Imparfait;indicatif;;j’;;;essuyais;;tu ;;;essuyais;;il/elle/on ;;;essuyait;;nous ;;;essuyions;;vous ;;;essuyiez;;ils/elles ;;;essuyaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais essuyé;;tu ;;;avais essuyé;;il/elle/on ;;;avait essuyé;;nous ;;;avions essuyé;;vous ;;;aviez essuyé;;ils/elles ;;;avaient essuyé
-Indicatif Passé Simple;indicatif;;j’;;;essuyai;;tu ;;;essuyas;;il/elle/on ;;;essuya;;nous ;;;essuyâmes;;vous ;;;essuyâtes;;ils/elles ;;;essuyèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus essuyé;;tu ;;;eus essuyé;;il/elle/on ;;;eut essuyé;;nous ;;;eûmes essuyé;;vous ;;;eûtes essuyé;;ils/elles ;;;eurent essuyé
-Indicatif Futur Simple;indicatif;;j’;;;essuierai;;tu ;;;essuieras;;il/elle/on ;;;essuiera;;nous ;;;essuierons;;vous ;;;essuierez;;ils/elles ;;;essuieront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai essuyé;;tu ;;;auras essuyé;;il/elle/on ;;;aura essuyé;;nous ;;;aurons essuyé;;vous ;;;aurez essuyé;;ils/elles ;;;auront essuyé
-Subjonctif Présent;subjonctif;que ;j’;;;essuie;que ;tu ;;;essuies;qu’;il/elle/on ;;;essuie;que ;nous ;;;essuyions;que ;vous ;;;essuyiez;qu’;ils/elles ;;;essuient
-Subjonctif Passé;subjonctif;que ;j’;;;aie essuyé;que ;tu ;;;aies essuyé;qu’;il/elle/on ;;;ait essuyé;que ;nous ;;;ayons essuyé;que ;vous ;;;ayez essuyé;qu’;ils/elles ;;;aient essuyé
-Subjonctif Imparfait;subjonctif;que ;j’;;;essuyasse;que ;tu ;;;essuyasses;qu’;il/elle/on ;;;essuyât;que ;nous ;;;essuyassions;que ;vous ;;;essuyassiez;qu’;ils/elles ;;;essuyassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse essuyé;que ;tu ;;;eusses essuyé;qu’;il/elle/on ;;;eût essuyé;que ;nous ;;;eussions essuyé;que ;vous ;;;eussiez essuyé;qu’;ils/elles ;;;eussent essuyé
-Conditionnel Présent;conditionnel;;j’;;;essuierais;;tu ;;;essuierais;;il/elle/on ;;;essuierait;;nous ;;;essuierions;;vous ;;;essuieriez;;ils/elles ;;;essuieraient
-Conditionnel Passé;conditionnel;;j’;;;aurais essuyé;;tu ;;;aurais essuyé;;il/elle/on ;;;aurait essuyé;;nous ;;;aurions essuyé;;vous ;;;auriez essuyé;;ils/elles ;;;auraient essuyé
+Indicatif Présent;indicatif;;j’;;;essuie;;tu ;;;essuies;;il //elle //on ;;;essuie;;nous ;;;essuyons;;vous ;;;essuyez;;ils //elles ;;;essuient
+Indicatif Passé Composé;indicatif;;j’;;;ai essuyé;;tu ;;;as essuyé;;il //elle //on ;;;a essuyé;;nous ;;;avons essuyé;;vous ;;;avez essuyé;;ils //elles ;;;ont essuyé
+Indicatif Imparfait;indicatif;;j’;;;essuyais;;tu ;;;essuyais;;il //elle //on ;;;essuyait;;nous ;;;essuyions;;vous ;;;essuyiez;;ils //elles ;;;essuyaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais essuyé;;tu ;;;avais essuyé;;il //elle //on ;;;avait essuyé;;nous ;;;avions essuyé;;vous ;;;aviez essuyé;;ils //elles ;;;avaient essuyé
+Indicatif Passé Simple;indicatif;;j’;;;essuyai;;tu ;;;essuyas;;il //elle //on ;;;essuya;;nous ;;;essuyâmes;;vous ;;;essuyâtes;;ils //elles ;;;essuyèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus essuyé;;tu ;;;eus essuyé;;il //elle //on ;;;eut essuyé;;nous ;;;eûmes essuyé;;vous ;;;eûtes essuyé;;ils //elles ;;;eurent essuyé
+Indicatif Futur Simple;indicatif;;j’;;;essuierai;;tu ;;;essuieras;;il //elle //on ;;;essuiera;;nous ;;;essuierons;;vous ;;;essuierez;;ils //elles ;;;essuieront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai essuyé;;tu ;;;auras essuyé;;il //elle //on ;;;aura essuyé;;nous ;;;aurons essuyé;;vous ;;;aurez essuyé;;ils //elles ;;;auront essuyé
+Subjonctif Présent;subjonctif;que ;j’;;;essuie;que ;tu ;;;essuies;qu’;il //elle //on ;;;essuie;que ;nous ;;;essuyions;que ;vous ;;;essuyiez;qu’;ils //elles ;;;essuient
+Subjonctif Passé;subjonctif;que ;j’;;;aie essuyé;que ;tu ;;;aies essuyé;qu’;il //elle //on ;;;ait essuyé;que ;nous ;;;ayons essuyé;que ;vous ;;;ayez essuyé;qu’;ils //elles ;;;aient essuyé
+Subjonctif Imparfait;subjonctif;que ;j’;;;essuyasse;que ;tu ;;;essuyasses;qu’;il //elle //on ;;;essuyât;que ;nous ;;;essuyassions;que ;vous ;;;essuyassiez;qu’;ils //elles ;;;essuyassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse essuyé;que ;tu ;;;eusses essuyé;qu’;il //elle //on ;;;eût essuyé;que ;nous ;;;eussions essuyé;que ;vous ;;;eussiez essuyé;qu’;ils //elles ;;;eussent essuyé
+Conditionnel Présent;conditionnel;;j’;;;essuierais;;tu ;;;essuierais;;il //elle //on ;;;essuierait;;nous ;;;essuierions;;vous ;;;essuieriez;;ils //elles ;;;essuieraient
+Conditionnel Passé;conditionnel;;j’;;;aurais essuyé;;tu ;;;aurais essuyé;;il //elle //on ;;;aurait essuyé;;nous ;;;aurions essuyé;;vous ;;;auriez essuyé;;ils //elles ;;;auraient essuyé
 Impératif Présent;impératif;;;;;;;(tu) ;;;essuie;;;;;;;(nous) ;;;essuyons;;(vous) ;;;essuyez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie essuyé;;;;;;;(nous) ;;;ayons essuyé;;(vous) ;;;ayez essuyé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;essuie pas ;;;;;;;(nous) ;n';;essuyons pas ;;(vous) ;n';;essuyez pas ;;;;;

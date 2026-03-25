@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en capitonnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant capitonné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;capitonnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;capitonné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;capitonne;;tu ;;;capitonnes;;il/elle/on ;;;capitonne;;nous ;;;capitonnons;;vous ;;;capitonnez;;ils/elles ;;;capitonnent
-Indicatif Passé Composé;indicatif;;j’;;;ai capitonné;;tu ;;;as capitonné;;il/elle/on ;;;a capitonné;;nous ;;;avons capitonné;;vous ;;;avez capitonné;;ils/elles ;;;ont capitonné
-Indicatif Imparfait;indicatif;;je ;;;capitonnais;;tu ;;;capitonnais;;il/elle/on ;;;capitonnait;;nous ;;;capitonnions;;vous ;;;capitonniez;;ils/elles ;;;capitonnaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais capitonné;;tu ;;;avais capitonné;;il/elle/on ;;;avait capitonné;;nous ;;;avions capitonné;;vous ;;;aviez capitonné;;ils/elles ;;;avaient capitonné
-Indicatif Passé Simple;indicatif;;je ;;;capitonnai;;tu ;;;capitonnas;;il/elle/on ;;;capitonna;;nous ;;;capitonnâmes;;vous ;;;capitonnâtes;;ils/elles ;;;capitonnèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus capitonné;;tu ;;;eus capitonné;;il/elle/on ;;;eut capitonné;;nous ;;;eûmes capitonné;;vous ;;;eûtes capitonné;;ils/elles ;;;eurent capitonné
-Indicatif Futur Simple;indicatif;;je ;;;capitonnerai;;tu ;;;capitonneras;;il/elle/on ;;;capitonnera;;nous ;;;capitonnerons;;vous ;;;capitonnerez;;ils/elles ;;;capitonneront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai capitonné;;tu ;;;auras capitonné;;il/elle/on ;;;aura capitonné;;nous ;;;aurons capitonné;;vous ;;;aurez capitonné;;ils/elles ;;;auront capitonné
-Subjonctif Présent;subjonctif;que ;je ;;;capitonne;que ;tu ;;;capitonnes;qu’;il/elle/on ;;;capitonne;que ;nous ;;;capitonnions;que ;vous ;;;capitonniez;qu’;ils/elles ;;;capitonnent
-Subjonctif Passé;subjonctif;que ;j’;;;aie capitonné;que ;tu ;;;aies capitonné;qu’;il/elle/on ;;;ait capitonné;que ;nous ;;;ayons capitonné;que ;vous ;;;ayez capitonné;qu’;ils/elles ;;;aient capitonné
-Subjonctif Imparfait;subjonctif;que ;je ;;;capitonnasse;que ;tu ;;;capitonnasses;qu’;il/elle/on ;;;capitonnât;que ;nous ;;;capitonnassions;que ;vous ;;;capitonnassiez;qu’;ils/elles ;;;capitonnassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse capitonné;que ;tu ;;;eusses capitonné;qu’;il/elle/on ;;;eût capitonné;que ;nous ;;;eussions capitonné;que ;vous ;;;eussiez capitonné;qu’;ils/elles ;;;eussent capitonné
-Conditionnel Présent;conditionnel;;je ;;;capitonnerais;;tu ;;;capitonnerais;;il/elle/on ;;;capitonnerait;;nous ;;;capitonnerions;;vous ;;;capitonneriez;;ils/elles ;;;capitonneraient
-Conditionnel Passé;conditionnel;;j’;;;aurais capitonné;;tu ;;;aurais capitonné;;il/elle/on ;;;aurait capitonné;;nous ;;;aurions capitonné;;vous ;;;auriez capitonné;;ils/elles ;;;auraient capitonné
+Indicatif Présent;indicatif;;je ;;;capitonne;;tu ;;;capitonnes;;il //elle //on ;;;capitonne;;nous ;;;capitonnons;;vous ;;;capitonnez;;ils //elles ;;;capitonnent
+Indicatif Passé Composé;indicatif;;j’;;;ai capitonné;;tu ;;;as capitonné;;il //elle //on ;;;a capitonné;;nous ;;;avons capitonné;;vous ;;;avez capitonné;;ils //elles ;;;ont capitonné
+Indicatif Imparfait;indicatif;;je ;;;capitonnais;;tu ;;;capitonnais;;il //elle //on ;;;capitonnait;;nous ;;;capitonnions;;vous ;;;capitonniez;;ils //elles ;;;capitonnaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais capitonné;;tu ;;;avais capitonné;;il //elle //on ;;;avait capitonné;;nous ;;;avions capitonné;;vous ;;;aviez capitonné;;ils //elles ;;;avaient capitonné
+Indicatif Passé Simple;indicatif;;je ;;;capitonnai;;tu ;;;capitonnas;;il //elle //on ;;;capitonna;;nous ;;;capitonnâmes;;vous ;;;capitonnâtes;;ils //elles ;;;capitonnèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus capitonné;;tu ;;;eus capitonné;;il //elle //on ;;;eut capitonné;;nous ;;;eûmes capitonné;;vous ;;;eûtes capitonné;;ils //elles ;;;eurent capitonné
+Indicatif Futur Simple;indicatif;;je ;;;capitonnerai;;tu ;;;capitonneras;;il //elle //on ;;;capitonnera;;nous ;;;capitonnerons;;vous ;;;capitonnerez;;ils //elles ;;;capitonneront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai capitonné;;tu ;;;auras capitonné;;il //elle //on ;;;aura capitonné;;nous ;;;aurons capitonné;;vous ;;;aurez capitonné;;ils //elles ;;;auront capitonné
+Subjonctif Présent;subjonctif;que ;je ;;;capitonne;que ;tu ;;;capitonnes;qu’;il //elle //on ;;;capitonne;que ;nous ;;;capitonnions;que ;vous ;;;capitonniez;qu’;ils //elles ;;;capitonnent
+Subjonctif Passé;subjonctif;que ;j’;;;aie capitonné;que ;tu ;;;aies capitonné;qu’;il //elle //on ;;;ait capitonné;que ;nous ;;;ayons capitonné;que ;vous ;;;ayez capitonné;qu’;ils //elles ;;;aient capitonné
+Subjonctif Imparfait;subjonctif;que ;je ;;;capitonnasse;que ;tu ;;;capitonnasses;qu’;il //elle //on ;;;capitonnât;que ;nous ;;;capitonnassions;que ;vous ;;;capitonnassiez;qu’;ils //elles ;;;capitonnassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse capitonné;que ;tu ;;;eusses capitonné;qu’;il //elle //on ;;;eût capitonné;que ;nous ;;;eussions capitonné;que ;vous ;;;eussiez capitonné;qu’;ils //elles ;;;eussent capitonné
+Conditionnel Présent;conditionnel;;je ;;;capitonnerais;;tu ;;;capitonnerais;;il //elle //on ;;;capitonnerait;;nous ;;;capitonnerions;;vous ;;;capitonneriez;;ils //elles ;;;capitonneraient
+Conditionnel Passé;conditionnel;;j’;;;aurais capitonné;;tu ;;;aurais capitonné;;il //elle //on ;;;aurait capitonné;;nous ;;;aurions capitonné;;vous ;;;auriez capitonné;;ils //elles ;;;auraient capitonné
 Impératif Présent;impératif;;;;;;;(tu) ;;;capitonne;;;;;;;(nous) ;;;capitonnons;;(vous) ;;;capitonnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie capitonné;;;;;;;(nous) ;;;ayons capitonné;;(vous) ;;;ayez capitonné;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;capitonne pas ;;;;;;;(nous) ;ne ;;capitonnons pas ;;(vous) ;ne ;;capitonnez pas ;;;;;

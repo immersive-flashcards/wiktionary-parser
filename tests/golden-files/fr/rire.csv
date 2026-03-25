@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en riant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant ri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;riant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;ri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;ris;;tu ;;;ris;;il/elle/on ;;;rit;;nous ;;;rions;;vous ;;;riez;;ils/elles ;;;rient
-Indicatif Passé Composé;indicatif;;j’;;;ai ri;;tu ;;;as ri;;il/elle/on ;;;a ri;;nous ;;;avons ri;;vous ;;;avez ri;;ils/elles ;;;ont ri
-Indicatif Imparfait;indicatif;;je ;;;riais;;tu ;;;riais;;il/elle/on ;;;riait;;nous ;;;riions;;vous ;;;riiez;;ils/elles ;;;riaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais ri;;tu ;;;avais ri;;il/elle/on ;;;avait ri;;nous ;;;avions ri;;vous ;;;aviez ri;;ils/elles ;;;avaient ri
-Indicatif Passé Simple;indicatif;;je ;;;ris;;tu ;;;ris;;il/elle/on ;;;rit;;nous ;;;rîmes;;vous ;;;rîtes;;ils/elles ;;;rirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus ri;;tu ;;;eus ri;;il/elle/on ;;;eut ri;;nous ;;;eûmes ri;;vous ;;;eûtes ri;;ils/elles ;;;eurent ri
-Indicatif Futur Simple;indicatif;;je ;;;rirai;;tu ;;;riras;;il/elle/on ;;;rira;;nous ;;;rirons;;vous ;;;rirez;;ils/elles ;;;riront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai ri;;tu ;;;auras ri;;il/elle/on ;;;aura ri;;nous ;;;aurons ri;;vous ;;;aurez ri;;ils/elles ;;;auront ri
-Subjonctif Présent;subjonctif;que ;je ;;;rie;que ;tu ;;;ries;qu’;il/elle/on ;;;rie;que ;nous ;;;riions;que ;vous ;;;riiez;qu’;ils/elles ;;;rient
-Subjonctif Passé;subjonctif;que ;j’;;;aie ri;que ;tu ;;;aies ri;qu’;il/elle/on ;;;ait ri;que ;nous ;;;ayons ri;que ;vous ;;;ayez ri;qu’;ils/elles ;;;aient ri
-Subjonctif Imparfait;subjonctif;que ;je ;;;risse;que ;tu ;;;risses;qu’;il/elle/on ;;;rît;que ;nous ;;;rissions;que ;vous ;;;rissiez;qu’;ils/elles ;;;rissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse ri;que ;tu ;;;eusses ri;qu’;il/elle/on ;;;eût ri;que ;nous ;;;eussions ri;que ;vous ;;;eussiez ri;qu’;ils/elles ;;;eussent ri
-Conditionnel Présent;conditionnel;;je ;;;rirais;;tu ;;;rirais;;il/elle/on ;;;rirait;;nous ;;;ririons;;vous ;;;ririez;;ils/elles ;;;riraient
-Conditionnel Passé;conditionnel;;j’;;;aurais ri;;tu ;;;aurais ri;;il/elle/on ;;;aurait ri;;nous ;;;aurions ri;;vous ;;;auriez ri;;ils/elles ;;;auraient ri
+Indicatif Présent;indicatif;;je ;;;ris;;tu ;;;ris;;il //elle //on ;;;rit;;nous ;;;rions;;vous ;;;riez;;ils //elles ;;;rient
+Indicatif Passé Composé;indicatif;;j’;;;ai ri;;tu ;;;as ri;;il //elle //on ;;;a ri;;nous ;;;avons ri;;vous ;;;avez ri;;ils //elles ;;;ont ri
+Indicatif Imparfait;indicatif;;je ;;;riais;;tu ;;;riais;;il //elle //on ;;;riait;;nous ;;;riions;;vous ;;;riiez;;ils //elles ;;;riaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais ri;;tu ;;;avais ri;;il //elle //on ;;;avait ri;;nous ;;;avions ri;;vous ;;;aviez ri;;ils //elles ;;;avaient ri
+Indicatif Passé Simple;indicatif;;je ;;;ris;;tu ;;;ris;;il //elle //on ;;;rit;;nous ;;;rîmes;;vous ;;;rîtes;;ils //elles ;;;rirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus ri;;tu ;;;eus ri;;il //elle //on ;;;eut ri;;nous ;;;eûmes ri;;vous ;;;eûtes ri;;ils //elles ;;;eurent ri
+Indicatif Futur Simple;indicatif;;je ;;;rirai;;tu ;;;riras;;il //elle //on ;;;rira;;nous ;;;rirons;;vous ;;;rirez;;ils //elles ;;;riront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai ri;;tu ;;;auras ri;;il //elle //on ;;;aura ri;;nous ;;;aurons ri;;vous ;;;aurez ri;;ils //elles ;;;auront ri
+Subjonctif Présent;subjonctif;que ;je ;;;rie;que ;tu ;;;ries;qu’;il //elle //on ;;;rie;que ;nous ;;;riions;que ;vous ;;;riiez;qu’;ils //elles ;;;rient
+Subjonctif Passé;subjonctif;que ;j’;;;aie ri;que ;tu ;;;aies ri;qu’;il //elle //on ;;;ait ri;que ;nous ;;;ayons ri;que ;vous ;;;ayez ri;qu’;ils //elles ;;;aient ri
+Subjonctif Imparfait;subjonctif;que ;je ;;;risse;que ;tu ;;;risses;qu’;il //elle //on ;;;rît;que ;nous ;;;rissions;que ;vous ;;;rissiez;qu’;ils //elles ;;;rissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse ri;que ;tu ;;;eusses ri;qu’;il //elle //on ;;;eût ri;que ;nous ;;;eussions ri;que ;vous ;;;eussiez ri;qu’;ils //elles ;;;eussent ri
+Conditionnel Présent;conditionnel;;je ;;;rirais;;tu ;;;rirais;;il //elle //on ;;;rirait;;nous ;;;ririons;;vous ;;;ririez;;ils //elles ;;;riraient
+Conditionnel Passé;conditionnel;;j’;;;aurais ri;;tu ;;;aurais ri;;il //elle //on ;;;aurait ri;;nous ;;;aurions ri;;vous ;;;auriez ri;;ils //elles ;;;auraient ri
 Impératif Présent;impératif;;;;;;;(tu) ;;;ris;;;;;;;(nous) ;;;rions;;(vous) ;;;riez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie ri;;;;;;;(nous) ;;;ayons ri;;(vous) ;;;ayez ri;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;ris pas ;;;;;;;(nous) ;ne ;;rions pas ;;(vous) ;ne ;;riez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en cassant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant cassé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;cassant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;cassé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;casse;;tu ;;;casses;;il/elle/on ;;;casse;;nous ;;;cassons;;vous ;;;cassez;;ils/elles ;;;cassent
-Indicatif Passé Composé;indicatif;;j’;;;ai cassé;;tu ;;;as cassé;;il/elle/on ;;;a cassé;;nous ;;;avons cassé;;vous ;;;avez cassé;;ils/elles ;;;ont cassé
-Indicatif Imparfait;indicatif;;je ;;;cassais;;tu ;;;cassais;;il/elle/on ;;;cassait;;nous ;;;cassions;;vous ;;;cassiez;;ils/elles ;;;cassaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais cassé;;tu ;;;avais cassé;;il/elle/on ;;;avait cassé;;nous ;;;avions cassé;;vous ;;;aviez cassé;;ils/elles ;;;avaient cassé
-Indicatif Passé Simple;indicatif;;je ;;;cassai;;tu ;;;cassas;;il/elle/on ;;;cassa;;nous ;;;cassâmes;;vous ;;;cassâtes;;ils/elles ;;;cassèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus cassé;;tu ;;;eus cassé;;il/elle/on ;;;eut cassé;;nous ;;;eûmes cassé;;vous ;;;eûtes cassé;;ils/elles ;;;eurent cassé
-Indicatif Futur Simple;indicatif;;je ;;;casserai;;tu ;;;casseras;;il/elle/on ;;;cassera;;nous ;;;casserons;;vous ;;;casserez;;ils/elles ;;;casseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai cassé;;tu ;;;auras cassé;;il/elle/on ;;;aura cassé;;nous ;;;aurons cassé;;vous ;;;aurez cassé;;ils/elles ;;;auront cassé
-Subjonctif Présent;subjonctif;que ;je ;;;casse;que ;tu ;;;casses;qu’;il/elle/on ;;;casse;que ;nous ;;;cassions;que ;vous ;;;cassiez;qu’;ils/elles ;;;cassent
-Subjonctif Passé;subjonctif;que ;j’;;;aie cassé;que ;tu ;;;aies cassé;qu’;il/elle/on ;;;ait cassé;que ;nous ;;;ayons cassé;que ;vous ;;;ayez cassé;qu’;ils/elles ;;;aient cassé
-Subjonctif Imparfait;subjonctif;que ;je ;;;cassasse;que ;tu ;;;cassasses;qu’;il/elle/on ;;;cassât;que ;nous ;;;cassassions;que ;vous ;;;cassassiez;qu’;ils/elles ;;;cassassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse cassé;que ;tu ;;;eusses cassé;qu’;il/elle/on ;;;eût cassé;que ;nous ;;;eussions cassé;que ;vous ;;;eussiez cassé;qu’;ils/elles ;;;eussent cassé
-Conditionnel Présent;conditionnel;;je ;;;casserais;;tu ;;;casserais;;il/elle/on ;;;casserait;;nous ;;;casserions;;vous ;;;casseriez;;ils/elles ;;;casseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais cassé;;tu ;;;aurais cassé;;il/elle/on ;;;aurait cassé;;nous ;;;aurions cassé;;vous ;;;auriez cassé;;ils/elles ;;;auraient cassé
+Indicatif Présent;indicatif;;je ;;;casse;;tu ;;;casses;;il //elle //on ;;;casse;;nous ;;;cassons;;vous ;;;cassez;;ils //elles ;;;cassent
+Indicatif Passé Composé;indicatif;;j’;;;ai cassé;;tu ;;;as cassé;;il //elle //on ;;;a cassé;;nous ;;;avons cassé;;vous ;;;avez cassé;;ils //elles ;;;ont cassé
+Indicatif Imparfait;indicatif;;je ;;;cassais;;tu ;;;cassais;;il //elle //on ;;;cassait;;nous ;;;cassions;;vous ;;;cassiez;;ils //elles ;;;cassaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais cassé;;tu ;;;avais cassé;;il //elle //on ;;;avait cassé;;nous ;;;avions cassé;;vous ;;;aviez cassé;;ils //elles ;;;avaient cassé
+Indicatif Passé Simple;indicatif;;je ;;;cassai;;tu ;;;cassas;;il //elle //on ;;;cassa;;nous ;;;cassâmes;;vous ;;;cassâtes;;ils //elles ;;;cassèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus cassé;;tu ;;;eus cassé;;il //elle //on ;;;eut cassé;;nous ;;;eûmes cassé;;vous ;;;eûtes cassé;;ils //elles ;;;eurent cassé
+Indicatif Futur Simple;indicatif;;je ;;;casserai;;tu ;;;casseras;;il //elle //on ;;;cassera;;nous ;;;casserons;;vous ;;;casserez;;ils //elles ;;;casseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai cassé;;tu ;;;auras cassé;;il //elle //on ;;;aura cassé;;nous ;;;aurons cassé;;vous ;;;aurez cassé;;ils //elles ;;;auront cassé
+Subjonctif Présent;subjonctif;que ;je ;;;casse;que ;tu ;;;casses;qu’;il //elle //on ;;;casse;que ;nous ;;;cassions;que ;vous ;;;cassiez;qu’;ils //elles ;;;cassent
+Subjonctif Passé;subjonctif;que ;j’;;;aie cassé;que ;tu ;;;aies cassé;qu’;il //elle //on ;;;ait cassé;que ;nous ;;;ayons cassé;que ;vous ;;;ayez cassé;qu’;ils //elles ;;;aient cassé
+Subjonctif Imparfait;subjonctif;que ;je ;;;cassasse;que ;tu ;;;cassasses;qu’;il //elle //on ;;;cassât;que ;nous ;;;cassassions;que ;vous ;;;cassassiez;qu’;ils //elles ;;;cassassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse cassé;que ;tu ;;;eusses cassé;qu’;il //elle //on ;;;eût cassé;que ;nous ;;;eussions cassé;que ;vous ;;;eussiez cassé;qu’;ils //elles ;;;eussent cassé
+Conditionnel Présent;conditionnel;;je ;;;casserais;;tu ;;;casserais;;il //elle //on ;;;casserait;;nous ;;;casserions;;vous ;;;casseriez;;ils //elles ;;;casseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais cassé;;tu ;;;aurais cassé;;il //elle //on ;;;aurait cassé;;nous ;;;aurions cassé;;vous ;;;auriez cassé;;ils //elles ;;;auraient cassé
 Impératif Présent;impératif;;;;;;;(tu) ;;;casse;;;;;;;(nous) ;;;cassons;;(vous) ;;;cassez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie cassé;;;;;;;(nous) ;;;ayons cassé;;(vous) ;;;ayez cassé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;casse pas ;;;;;;;(nous) ;ne ;;cassons pas ;;(vous) ;ne ;;cassez pas ;;;;;

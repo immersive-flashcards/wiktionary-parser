@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en éclairant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant éclairé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;éclairant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;éclairé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;éclaire;;tu ;;;éclaires;;il/elle/on ;;;éclaire;;nous ;;;éclairons;;vous ;;;éclairez;;ils/elles ;;;éclairent
-Indicatif Passé Composé;indicatif;;j’;;;ai éclairé;;tu ;;;as éclairé;;il/elle/on ;;;a éclairé;;nous ;;;avons éclairé;;vous ;;;avez éclairé;;ils/elles ;;;ont éclairé
-Indicatif Imparfait;indicatif;;j’;;;éclairais;;tu ;;;éclairais;;il/elle/on ;;;éclairait;;nous ;;;éclairions;;vous ;;;éclairiez;;ils/elles ;;;éclairaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais éclairé;;tu ;;;avais éclairé;;il/elle/on ;;;avait éclairé;;nous ;;;avions éclairé;;vous ;;;aviez éclairé;;ils/elles ;;;avaient éclairé
-Indicatif Passé Simple;indicatif;;j’;;;éclairai;;tu ;;;éclairas;;il/elle/on ;;;éclaira;;nous ;;;éclairâmes;;vous ;;;éclairâtes;;ils/elles ;;;éclairèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus éclairé;;tu ;;;eus éclairé;;il/elle/on ;;;eut éclairé;;nous ;;;eûmes éclairé;;vous ;;;eûtes éclairé;;ils/elles ;;;eurent éclairé
-Indicatif Futur Simple;indicatif;;j’;;;éclairerai;;tu ;;;éclaireras;;il/elle/on ;;;éclairera;;nous ;;;éclairerons;;vous ;;;éclairerez;;ils/elles ;;;éclaireront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai éclairé;;tu ;;;auras éclairé;;il/elle/on ;;;aura éclairé;;nous ;;;aurons éclairé;;vous ;;;aurez éclairé;;ils/elles ;;;auront éclairé
-Subjonctif Présent;subjonctif;que ;j’;;;éclaire;que ;tu ;;;éclaires;qu’;il/elle/on ;;;éclaire;que ;nous ;;;éclairions;que ;vous ;;;éclairiez;qu’;ils/elles ;;;éclairent
-Subjonctif Passé;subjonctif;que ;j’;;;aie éclairé;que ;tu ;;;aies éclairé;qu’;il/elle/on ;;;ait éclairé;que ;nous ;;;ayons éclairé;que ;vous ;;;ayez éclairé;qu’;ils/elles ;;;aient éclairé
-Subjonctif Imparfait;subjonctif;que ;j’;;;éclairasse;que ;tu ;;;éclairasses;qu’;il/elle/on ;;;éclairât;que ;nous ;;;éclairassions;que ;vous ;;;éclairassiez;qu’;ils/elles ;;;éclairassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse éclairé;que ;tu ;;;eusses éclairé;qu’;il/elle/on ;;;eût éclairé;que ;nous ;;;eussions éclairé;que ;vous ;;;eussiez éclairé;qu’;ils/elles ;;;eussent éclairé
-Conditionnel Présent;conditionnel;;j’;;;éclairerais;;tu ;;;éclairerais;;il/elle/on ;;;éclairerait;;nous ;;;éclairerions;;vous ;;;éclaireriez;;ils/elles ;;;éclaireraient
-Conditionnel Passé;conditionnel;;j’;;;aurais éclairé;;tu ;;;aurais éclairé;;il/elle/on ;;;aurait éclairé;;nous ;;;aurions éclairé;;vous ;;;auriez éclairé;;ils/elles ;;;auraient éclairé
+Indicatif Présent;indicatif;;j’;;;éclaire;;tu ;;;éclaires;;il //elle //on ;;;éclaire;;nous ;;;éclairons;;vous ;;;éclairez;;ils //elles ;;;éclairent
+Indicatif Passé Composé;indicatif;;j’;;;ai éclairé;;tu ;;;as éclairé;;il //elle //on ;;;a éclairé;;nous ;;;avons éclairé;;vous ;;;avez éclairé;;ils //elles ;;;ont éclairé
+Indicatif Imparfait;indicatif;;j’;;;éclairais;;tu ;;;éclairais;;il //elle //on ;;;éclairait;;nous ;;;éclairions;;vous ;;;éclairiez;;ils //elles ;;;éclairaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais éclairé;;tu ;;;avais éclairé;;il //elle //on ;;;avait éclairé;;nous ;;;avions éclairé;;vous ;;;aviez éclairé;;ils //elles ;;;avaient éclairé
+Indicatif Passé Simple;indicatif;;j’;;;éclairai;;tu ;;;éclairas;;il //elle //on ;;;éclaira;;nous ;;;éclairâmes;;vous ;;;éclairâtes;;ils //elles ;;;éclairèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus éclairé;;tu ;;;eus éclairé;;il //elle //on ;;;eut éclairé;;nous ;;;eûmes éclairé;;vous ;;;eûtes éclairé;;ils //elles ;;;eurent éclairé
+Indicatif Futur Simple;indicatif;;j’;;;éclairerai;;tu ;;;éclaireras;;il //elle //on ;;;éclairera;;nous ;;;éclairerons;;vous ;;;éclairerez;;ils //elles ;;;éclaireront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai éclairé;;tu ;;;auras éclairé;;il //elle //on ;;;aura éclairé;;nous ;;;aurons éclairé;;vous ;;;aurez éclairé;;ils //elles ;;;auront éclairé
+Subjonctif Présent;subjonctif;que ;j’;;;éclaire;que ;tu ;;;éclaires;qu’;il //elle //on ;;;éclaire;que ;nous ;;;éclairions;que ;vous ;;;éclairiez;qu’;ils //elles ;;;éclairent
+Subjonctif Passé;subjonctif;que ;j’;;;aie éclairé;que ;tu ;;;aies éclairé;qu’;il //elle //on ;;;ait éclairé;que ;nous ;;;ayons éclairé;que ;vous ;;;ayez éclairé;qu’;ils //elles ;;;aient éclairé
+Subjonctif Imparfait;subjonctif;que ;j’;;;éclairasse;que ;tu ;;;éclairasses;qu’;il //elle //on ;;;éclairât;que ;nous ;;;éclairassions;que ;vous ;;;éclairassiez;qu’;ils //elles ;;;éclairassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse éclairé;que ;tu ;;;eusses éclairé;qu’;il //elle //on ;;;eût éclairé;que ;nous ;;;eussions éclairé;que ;vous ;;;eussiez éclairé;qu’;ils //elles ;;;eussent éclairé
+Conditionnel Présent;conditionnel;;j’;;;éclairerais;;tu ;;;éclairerais;;il //elle //on ;;;éclairerait;;nous ;;;éclairerions;;vous ;;;éclaireriez;;ils //elles ;;;éclaireraient
+Conditionnel Passé;conditionnel;;j’;;;aurais éclairé;;tu ;;;aurais éclairé;;il //elle //on ;;;aurait éclairé;;nous ;;;aurions éclairé;;vous ;;;auriez éclairé;;ils //elles ;;;auraient éclairé
 Impératif Présent;impératif;;;;;;;(tu) ;;;éclaire;;;;;;;(nous) ;;;éclairons;;(vous) ;;;éclairez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie éclairé;;;;;;;(nous) ;;;ayons éclairé;;(vous) ;;;ayez éclairé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;éclaire pas ;;;;;;;(nous) ;n';;éclairons pas ;;(vous) ;n';;éclairez pas ;;;;;

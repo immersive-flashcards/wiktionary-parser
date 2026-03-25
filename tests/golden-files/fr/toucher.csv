@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en touchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant touché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;touchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;touché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;touche;;tu ;;;touches;;il/elle/on ;;;touche;;nous ;;;touchons;;vous ;;;touchez;;ils/elles ;;;touchent
-Indicatif Passé Composé;indicatif;;j’;;;ai touché;;tu ;;;as touché;;il/elle/on ;;;a touché;;nous ;;;avons touché;;vous ;;;avez touché;;ils/elles ;;;ont touché
-Indicatif Imparfait;indicatif;;je ;;;touchais;;tu ;;;touchais;;il/elle/on ;;;touchait;;nous ;;;touchions;;vous ;;;touchiez;;ils/elles ;;;touchaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais touché;;tu ;;;avais touché;;il/elle/on ;;;avait touché;;nous ;;;avions touché;;vous ;;;aviez touché;;ils/elles ;;;avaient touché
-Indicatif Passé Simple;indicatif;;je ;;;touchai;;tu ;;;touchas;;il/elle/on ;;;toucha;;nous ;;;touchâmes;;vous ;;;touchâtes;;ils/elles ;;;touchèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus touché;;tu ;;;eus touché;;il/elle/on ;;;eut touché;;nous ;;;eûmes touché;;vous ;;;eûtes touché;;ils/elles ;;;eurent touché
-Indicatif Futur Simple;indicatif;;je ;;;toucherai;;tu ;;;toucheras;;il/elle/on ;;;touchera;;nous ;;;toucherons;;vous ;;;toucherez;;ils/elles ;;;toucheront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai touché;;tu ;;;auras touché;;il/elle/on ;;;aura touché;;nous ;;;aurons touché;;vous ;;;aurez touché;;ils/elles ;;;auront touché
-Subjonctif Présent;subjonctif;que ;je ;;;touche;que ;tu ;;;touches;qu’;il/elle/on ;;;touche;que ;nous ;;;touchions;que ;vous ;;;touchiez;qu’;ils/elles ;;;touchent
-Subjonctif Passé;subjonctif;que ;j’;;;aie touché;que ;tu ;;;aies touché;qu’;il/elle/on ;;;ait touché;que ;nous ;;;ayons touché;que ;vous ;;;ayez touché;qu’;ils/elles ;;;aient touché
-Subjonctif Imparfait;subjonctif;que ;je ;;;touchasse;que ;tu ;;;touchasses;qu’;il/elle/on ;;;touchât;que ;nous ;;;touchassions;que ;vous ;;;touchassiez;qu’;ils/elles ;;;touchassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse touché;que ;tu ;;;eusses touché;qu’;il/elle/on ;;;eût touché;que ;nous ;;;eussions touché;que ;vous ;;;eussiez touché;qu’;ils/elles ;;;eussent touché
-Conditionnel Présent;conditionnel;;je ;;;toucherais;;tu ;;;toucherais;;il/elle/on ;;;toucherait;;nous ;;;toucherions;;vous ;;;toucheriez;;ils/elles ;;;toucheraient
-Conditionnel Passé;conditionnel;;j’;;;aurais touché;;tu ;;;aurais touché;;il/elle/on ;;;aurait touché;;nous ;;;aurions touché;;vous ;;;auriez touché;;ils/elles ;;;auraient touché
+Indicatif Présent;indicatif;;je ;;;touche;;tu ;;;touches;;il //elle //on ;;;touche;;nous ;;;touchons;;vous ;;;touchez;;ils //elles ;;;touchent
+Indicatif Passé Composé;indicatif;;j’;;;ai touché;;tu ;;;as touché;;il //elle //on ;;;a touché;;nous ;;;avons touché;;vous ;;;avez touché;;ils //elles ;;;ont touché
+Indicatif Imparfait;indicatif;;je ;;;touchais;;tu ;;;touchais;;il //elle //on ;;;touchait;;nous ;;;touchions;;vous ;;;touchiez;;ils //elles ;;;touchaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais touché;;tu ;;;avais touché;;il //elle //on ;;;avait touché;;nous ;;;avions touché;;vous ;;;aviez touché;;ils //elles ;;;avaient touché
+Indicatif Passé Simple;indicatif;;je ;;;touchai;;tu ;;;touchas;;il //elle //on ;;;toucha;;nous ;;;touchâmes;;vous ;;;touchâtes;;ils //elles ;;;touchèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus touché;;tu ;;;eus touché;;il //elle //on ;;;eut touché;;nous ;;;eûmes touché;;vous ;;;eûtes touché;;ils //elles ;;;eurent touché
+Indicatif Futur Simple;indicatif;;je ;;;toucherai;;tu ;;;toucheras;;il //elle //on ;;;touchera;;nous ;;;toucherons;;vous ;;;toucherez;;ils //elles ;;;toucheront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai touché;;tu ;;;auras touché;;il //elle //on ;;;aura touché;;nous ;;;aurons touché;;vous ;;;aurez touché;;ils //elles ;;;auront touché
+Subjonctif Présent;subjonctif;que ;je ;;;touche;que ;tu ;;;touches;qu’;il //elle //on ;;;touche;que ;nous ;;;touchions;que ;vous ;;;touchiez;qu’;ils //elles ;;;touchent
+Subjonctif Passé;subjonctif;que ;j’;;;aie touché;que ;tu ;;;aies touché;qu’;il //elle //on ;;;ait touché;que ;nous ;;;ayons touché;que ;vous ;;;ayez touché;qu’;ils //elles ;;;aient touché
+Subjonctif Imparfait;subjonctif;que ;je ;;;touchasse;que ;tu ;;;touchasses;qu’;il //elle //on ;;;touchât;que ;nous ;;;touchassions;que ;vous ;;;touchassiez;qu’;ils //elles ;;;touchassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse touché;que ;tu ;;;eusses touché;qu’;il //elle //on ;;;eût touché;que ;nous ;;;eussions touché;que ;vous ;;;eussiez touché;qu’;ils //elles ;;;eussent touché
+Conditionnel Présent;conditionnel;;je ;;;toucherais;;tu ;;;toucherais;;il //elle //on ;;;toucherait;;nous ;;;toucherions;;vous ;;;toucheriez;;ils //elles ;;;toucheraient
+Conditionnel Passé;conditionnel;;j’;;;aurais touché;;tu ;;;aurais touché;;il //elle //on ;;;aurait touché;;nous ;;;aurions touché;;vous ;;;auriez touché;;ils //elles ;;;auraient touché
 Impératif Présent;impératif;;;;;;;(tu) ;;;touche;;;;;;;(nous) ;;;touchons;;(vous) ;;;touchez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie touché;;;;;;;(nous) ;;;ayons touché;;(vous) ;;;ayez touché;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;touche pas ;;;;;;;(nous) ;ne ;;touchons pas ;;(vous) ;ne ;;touchez pas ;;;;;

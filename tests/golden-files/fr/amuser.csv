@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en amusant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant amusé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;amusant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;amusé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;amuse;;tu ;;;amuses;;il/elle/on ;;;amuse;;nous ;;;amusons;;vous ;;;amusez;;ils/elles ;;;amusent
-Indicatif Passé Composé;indicatif;;j’;;;ai amusé;;tu ;;;as amusé;;il/elle/on ;;;a amusé;;nous ;;;avons amusé;;vous ;;;avez amusé;;ils/elles ;;;ont amusé
-Indicatif Imparfait;indicatif;;j’;;;amusais;;tu ;;;amusais;;il/elle/on ;;;amusait;;nous ;;;amusions;;vous ;;;amusiez;;ils/elles ;;;amusaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais amusé;;tu ;;;avais amusé;;il/elle/on ;;;avait amusé;;nous ;;;avions amusé;;vous ;;;aviez amusé;;ils/elles ;;;avaient amusé
-Indicatif Passé Simple;indicatif;;j’;;;amusai;;tu ;;;amusas;;il/elle/on ;;;amusa;;nous ;;;amusâmes;;vous ;;;amusâtes;;ils/elles ;;;amusèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus amusé;;tu ;;;eus amusé;;il/elle/on ;;;eut amusé;;nous ;;;eûmes amusé;;vous ;;;eûtes amusé;;ils/elles ;;;eurent amusé
-Indicatif Futur Simple;indicatif;;j’;;;amuserai;;tu ;;;amuseras;;il/elle/on ;;;amusera;;nous ;;;amuserons;;vous ;;;amuserez;;ils/elles ;;;amuseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai amusé;;tu ;;;auras amusé;;il/elle/on ;;;aura amusé;;nous ;;;aurons amusé;;vous ;;;aurez amusé;;ils/elles ;;;auront amusé
-Subjonctif Présent;subjonctif;que ;j’;;;amuse;que ;tu ;;;amuses;qu’;il/elle/on ;;;amuse;que ;nous ;;;amusions;que ;vous ;;;amusiez;qu’;ils/elles ;;;amusent
-Subjonctif Passé;subjonctif;que ;j’;;;aie amusé;que ;tu ;;;aies amusé;qu’;il/elle/on ;;;ait amusé;que ;nous ;;;ayons amusé;que ;vous ;;;ayez amusé;qu’;ils/elles ;;;aient amusé
-Subjonctif Imparfait;subjonctif;que ;j’;;;amusasse;que ;tu ;;;amusasses;qu’;il/elle/on ;;;amusât;que ;nous ;;;amusassions;que ;vous ;;;amusassiez;qu’;ils/elles ;;;amusassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse amusé;que ;tu ;;;eusses amusé;qu’;il/elle/on ;;;eût amusé;que ;nous ;;;eussions amusé;que ;vous ;;;eussiez amusé;qu’;ils/elles ;;;eussent amusé
-Conditionnel Présent;conditionnel;;j’;;;amuserais;;tu ;;;amuserais;;il/elle/on ;;;amuserait;;nous ;;;amuserions;;vous ;;;amuseriez;;ils/elles ;;;amuseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais amusé;;tu ;;;aurais amusé;;il/elle/on ;;;aurait amusé;;nous ;;;aurions amusé;;vous ;;;auriez amusé;;ils/elles ;;;auraient amusé
+Indicatif Présent;indicatif;;j’;;;amuse;;tu ;;;amuses;;il //elle //on ;;;amuse;;nous ;;;amusons;;vous ;;;amusez;;ils //elles ;;;amusent
+Indicatif Passé Composé;indicatif;;j’;;;ai amusé;;tu ;;;as amusé;;il //elle //on ;;;a amusé;;nous ;;;avons amusé;;vous ;;;avez amusé;;ils //elles ;;;ont amusé
+Indicatif Imparfait;indicatif;;j’;;;amusais;;tu ;;;amusais;;il //elle //on ;;;amusait;;nous ;;;amusions;;vous ;;;amusiez;;ils //elles ;;;amusaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais amusé;;tu ;;;avais amusé;;il //elle //on ;;;avait amusé;;nous ;;;avions amusé;;vous ;;;aviez amusé;;ils //elles ;;;avaient amusé
+Indicatif Passé Simple;indicatif;;j’;;;amusai;;tu ;;;amusas;;il //elle //on ;;;amusa;;nous ;;;amusâmes;;vous ;;;amusâtes;;ils //elles ;;;amusèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus amusé;;tu ;;;eus amusé;;il //elle //on ;;;eut amusé;;nous ;;;eûmes amusé;;vous ;;;eûtes amusé;;ils //elles ;;;eurent amusé
+Indicatif Futur Simple;indicatif;;j’;;;amuserai;;tu ;;;amuseras;;il //elle //on ;;;amusera;;nous ;;;amuserons;;vous ;;;amuserez;;ils //elles ;;;amuseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai amusé;;tu ;;;auras amusé;;il //elle //on ;;;aura amusé;;nous ;;;aurons amusé;;vous ;;;aurez amusé;;ils //elles ;;;auront amusé
+Subjonctif Présent;subjonctif;que ;j’;;;amuse;que ;tu ;;;amuses;qu’;il //elle //on ;;;amuse;que ;nous ;;;amusions;que ;vous ;;;amusiez;qu’;ils //elles ;;;amusent
+Subjonctif Passé;subjonctif;que ;j’;;;aie amusé;que ;tu ;;;aies amusé;qu’;il //elle //on ;;;ait amusé;que ;nous ;;;ayons amusé;que ;vous ;;;ayez amusé;qu’;ils //elles ;;;aient amusé
+Subjonctif Imparfait;subjonctif;que ;j’;;;amusasse;que ;tu ;;;amusasses;qu’;il //elle //on ;;;amusât;que ;nous ;;;amusassions;que ;vous ;;;amusassiez;qu’;ils //elles ;;;amusassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse amusé;que ;tu ;;;eusses amusé;qu’;il //elle //on ;;;eût amusé;que ;nous ;;;eussions amusé;que ;vous ;;;eussiez amusé;qu’;ils //elles ;;;eussent amusé
+Conditionnel Présent;conditionnel;;j’;;;amuserais;;tu ;;;amuserais;;il //elle //on ;;;amuserait;;nous ;;;amuserions;;vous ;;;amuseriez;;ils //elles ;;;amuseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais amusé;;tu ;;;aurais amusé;;il //elle //on ;;;aurait amusé;;nous ;;;aurions amusé;;vous ;;;auriez amusé;;ils //elles ;;;auraient amusé
 Impératif Présent;impératif;;;;;;;(tu) ;;;amuse;;;;;;;(nous) ;;;amusons;;(vous) ;;;amusez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie amusé;;;;;;;(nous) ;;;ayons amusé;;(vous) ;;;ayez amusé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;amuse pas ;;;;;;;(nous) ;n';;amusons pas ;;(vous) ;n';;amusez pas ;;;;;

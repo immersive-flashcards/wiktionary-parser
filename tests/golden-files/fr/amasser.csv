@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en amassant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant amassé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;amassant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;amassé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;amasse;;tu ;;;amasses;;il/elle/on ;;;amasse;;nous ;;;amassons;;vous ;;;amassez;;ils/elles ;;;amassent
-Indicatif Passé Composé;indicatif;;j’;;;ai amassé;;tu ;;;as amassé;;il/elle/on ;;;a amassé;;nous ;;;avons amassé;;vous ;;;avez amassé;;ils/elles ;;;ont amassé
-Indicatif Imparfait;indicatif;;j’;;;amassais;;tu ;;;amassais;;il/elle/on ;;;amassait;;nous ;;;amassions;;vous ;;;amassiez;;ils/elles ;;;amassaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais amassé;;tu ;;;avais amassé;;il/elle/on ;;;avait amassé;;nous ;;;avions amassé;;vous ;;;aviez amassé;;ils/elles ;;;avaient amassé
-Indicatif Passé Simple;indicatif;;j’;;;amassai;;tu ;;;amassas;;il/elle/on ;;;amassa;;nous ;;;amassâmes;;vous ;;;amassâtes;;ils/elles ;;;amassèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus amassé;;tu ;;;eus amassé;;il/elle/on ;;;eut amassé;;nous ;;;eûmes amassé;;vous ;;;eûtes amassé;;ils/elles ;;;eurent amassé
-Indicatif Futur Simple;indicatif;;j’;;;amasserai;;tu ;;;amasseras;;il/elle/on ;;;amassera;;nous ;;;amasserons;;vous ;;;amasserez;;ils/elles ;;;amasseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai amassé;;tu ;;;auras amassé;;il/elle/on ;;;aura amassé;;nous ;;;aurons amassé;;vous ;;;aurez amassé;;ils/elles ;;;auront amassé
-Subjonctif Présent;subjonctif;que ;j’;;;amasse;que ;tu ;;;amasses;qu’;il/elle/on ;;;amasse;que ;nous ;;;amassions;que ;vous ;;;amassiez;qu’;ils/elles ;;;amassent
-Subjonctif Passé;subjonctif;que ;j’;;;aie amassé;que ;tu ;;;aies amassé;qu’;il/elle/on ;;;ait amassé;que ;nous ;;;ayons amassé;que ;vous ;;;ayez amassé;qu’;ils/elles ;;;aient amassé
-Subjonctif Imparfait;subjonctif;que ;j’;;;amassasse;que ;tu ;;;amassasses;qu’;il/elle/on ;;;amassât;que ;nous ;;;amassassions;que ;vous ;;;amassassiez;qu’;ils/elles ;;;amassassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse amassé;que ;tu ;;;eusses amassé;qu’;il/elle/on ;;;eût amassé;que ;nous ;;;eussions amassé;que ;vous ;;;eussiez amassé;qu’;ils/elles ;;;eussent amassé
-Conditionnel Présent;conditionnel;;j’;;;amasserais;;tu ;;;amasserais;;il/elle/on ;;;amasserait;;nous ;;;amasserions;;vous ;;;amasseriez;;ils/elles ;;;amasseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais amassé;;tu ;;;aurais amassé;;il/elle/on ;;;aurait amassé;;nous ;;;aurions amassé;;vous ;;;auriez amassé;;ils/elles ;;;auraient amassé
+Indicatif Présent;indicatif;;j’;;;amasse;;tu ;;;amasses;;il //elle //on ;;;amasse;;nous ;;;amassons;;vous ;;;amassez;;ils //elles ;;;amassent
+Indicatif Passé Composé;indicatif;;j’;;;ai amassé;;tu ;;;as amassé;;il //elle //on ;;;a amassé;;nous ;;;avons amassé;;vous ;;;avez amassé;;ils //elles ;;;ont amassé
+Indicatif Imparfait;indicatif;;j’;;;amassais;;tu ;;;amassais;;il //elle //on ;;;amassait;;nous ;;;amassions;;vous ;;;amassiez;;ils //elles ;;;amassaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais amassé;;tu ;;;avais amassé;;il //elle //on ;;;avait amassé;;nous ;;;avions amassé;;vous ;;;aviez amassé;;ils //elles ;;;avaient amassé
+Indicatif Passé Simple;indicatif;;j’;;;amassai;;tu ;;;amassas;;il //elle //on ;;;amassa;;nous ;;;amassâmes;;vous ;;;amassâtes;;ils //elles ;;;amassèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus amassé;;tu ;;;eus amassé;;il //elle //on ;;;eut amassé;;nous ;;;eûmes amassé;;vous ;;;eûtes amassé;;ils //elles ;;;eurent amassé
+Indicatif Futur Simple;indicatif;;j’;;;amasserai;;tu ;;;amasseras;;il //elle //on ;;;amassera;;nous ;;;amasserons;;vous ;;;amasserez;;ils //elles ;;;amasseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai amassé;;tu ;;;auras amassé;;il //elle //on ;;;aura amassé;;nous ;;;aurons amassé;;vous ;;;aurez amassé;;ils //elles ;;;auront amassé
+Subjonctif Présent;subjonctif;que ;j’;;;amasse;que ;tu ;;;amasses;qu’;il //elle //on ;;;amasse;que ;nous ;;;amassions;que ;vous ;;;amassiez;qu’;ils //elles ;;;amassent
+Subjonctif Passé;subjonctif;que ;j’;;;aie amassé;que ;tu ;;;aies amassé;qu’;il //elle //on ;;;ait amassé;que ;nous ;;;ayons amassé;que ;vous ;;;ayez amassé;qu’;ils //elles ;;;aient amassé
+Subjonctif Imparfait;subjonctif;que ;j’;;;amassasse;que ;tu ;;;amassasses;qu’;il //elle //on ;;;amassât;que ;nous ;;;amassassions;que ;vous ;;;amassassiez;qu’;ils //elles ;;;amassassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse amassé;que ;tu ;;;eusses amassé;qu’;il //elle //on ;;;eût amassé;que ;nous ;;;eussions amassé;que ;vous ;;;eussiez amassé;qu’;ils //elles ;;;eussent amassé
+Conditionnel Présent;conditionnel;;j’;;;amasserais;;tu ;;;amasserais;;il //elle //on ;;;amasserait;;nous ;;;amasserions;;vous ;;;amasseriez;;ils //elles ;;;amasseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais amassé;;tu ;;;aurais amassé;;il //elle //on ;;;aurait amassé;;nous ;;;aurions amassé;;vous ;;;auriez amassé;;ils //elles ;;;auraient amassé
 Impératif Présent;impératif;;;;;;;(tu) ;;;amasse;;;;;;;(nous) ;;;amassons;;(vous) ;;;amassez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie amassé;;;;;;;(nous) ;;;ayons amassé;;(vous) ;;;ayez amassé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;amasse pas ;;;;;;;(nous) ;n';;amassons pas ;;(vous) ;n';;amassez pas ;;;;;

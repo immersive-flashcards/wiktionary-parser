@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en nommant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant nommé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;nommant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;nommé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;nomme;;tu ;;;nommes;;il/elle/on ;;;nomme;;nous ;;;nommons;;vous ;;;nommez;;ils/elles ;;;nomment
-Indicatif Passé Composé;indicatif;;j’;;;ai nommé;;tu ;;;as nommé;;il/elle/on ;;;a nommé;;nous ;;;avons nommé;;vous ;;;avez nommé;;ils/elles ;;;ont nommé
-Indicatif Imparfait;indicatif;;je ;;;nommais;;tu ;;;nommais;;il/elle/on ;;;nommait;;nous ;;;nommions;;vous ;;;nommiez;;ils/elles ;;;nommaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais nommé;;tu ;;;avais nommé;;il/elle/on ;;;avait nommé;;nous ;;;avions nommé;;vous ;;;aviez nommé;;ils/elles ;;;avaient nommé
-Indicatif Passé Simple;indicatif;;je ;;;nommai;;tu ;;;nommas;;il/elle/on ;;;nomma;;nous ;;;nommâmes;;vous ;;;nommâtes;;ils/elles ;;;nommèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus nommé;;tu ;;;eus nommé;;il/elle/on ;;;eut nommé;;nous ;;;eûmes nommé;;vous ;;;eûtes nommé;;ils/elles ;;;eurent nommé
-Indicatif Futur Simple;indicatif;;je ;;;nommerai;;tu ;;;nommeras;;il/elle/on ;;;nommera;;nous ;;;nommerons;;vous ;;;nommerez;;ils/elles ;;;nommeront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai nommé;;tu ;;;auras nommé;;il/elle/on ;;;aura nommé;;nous ;;;aurons nommé;;vous ;;;aurez nommé;;ils/elles ;;;auront nommé
-Subjonctif Présent;subjonctif;que ;je ;;;nomme;que ;tu ;;;nommes;qu’;il/elle/on ;;;nomme;que ;nous ;;;nommions;que ;vous ;;;nommiez;qu’;ils/elles ;;;nomment
-Subjonctif Passé;subjonctif;que ;j’;;;aie nommé;que ;tu ;;;aies nommé;qu’;il/elle/on ;;;ait nommé;que ;nous ;;;ayons nommé;que ;vous ;;;ayez nommé;qu’;ils/elles ;;;aient nommé
-Subjonctif Imparfait;subjonctif;que ;je ;;;nommasse;que ;tu ;;;nommasses;qu’;il/elle/on ;;;nommât;que ;nous ;;;nommassions;que ;vous ;;;nommassiez;qu’;ils/elles ;;;nommassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse nommé;que ;tu ;;;eusses nommé;qu’;il/elle/on ;;;eût nommé;que ;nous ;;;eussions nommé;que ;vous ;;;eussiez nommé;qu’;ils/elles ;;;eussent nommé
-Conditionnel Présent;conditionnel;;je ;;;nommerais;;tu ;;;nommerais;;il/elle/on ;;;nommerait;;nous ;;;nommerions;;vous ;;;nommeriez;;ils/elles ;;;nommeraient
-Conditionnel Passé;conditionnel;;j’;;;aurais nommé;;tu ;;;aurais nommé;;il/elle/on ;;;aurait nommé;;nous ;;;aurions nommé;;vous ;;;auriez nommé;;ils/elles ;;;auraient nommé
+Indicatif Présent;indicatif;;je ;;;nomme;;tu ;;;nommes;;il //elle //on ;;;nomme;;nous ;;;nommons;;vous ;;;nommez;;ils //elles ;;;nomment
+Indicatif Passé Composé;indicatif;;j’;;;ai nommé;;tu ;;;as nommé;;il //elle //on ;;;a nommé;;nous ;;;avons nommé;;vous ;;;avez nommé;;ils //elles ;;;ont nommé
+Indicatif Imparfait;indicatif;;je ;;;nommais;;tu ;;;nommais;;il //elle //on ;;;nommait;;nous ;;;nommions;;vous ;;;nommiez;;ils //elles ;;;nommaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais nommé;;tu ;;;avais nommé;;il //elle //on ;;;avait nommé;;nous ;;;avions nommé;;vous ;;;aviez nommé;;ils //elles ;;;avaient nommé
+Indicatif Passé Simple;indicatif;;je ;;;nommai;;tu ;;;nommas;;il //elle //on ;;;nomma;;nous ;;;nommâmes;;vous ;;;nommâtes;;ils //elles ;;;nommèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus nommé;;tu ;;;eus nommé;;il //elle //on ;;;eut nommé;;nous ;;;eûmes nommé;;vous ;;;eûtes nommé;;ils //elles ;;;eurent nommé
+Indicatif Futur Simple;indicatif;;je ;;;nommerai;;tu ;;;nommeras;;il //elle //on ;;;nommera;;nous ;;;nommerons;;vous ;;;nommerez;;ils //elles ;;;nommeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai nommé;;tu ;;;auras nommé;;il //elle //on ;;;aura nommé;;nous ;;;aurons nommé;;vous ;;;aurez nommé;;ils //elles ;;;auront nommé
+Subjonctif Présent;subjonctif;que ;je ;;;nomme;que ;tu ;;;nommes;qu’;il //elle //on ;;;nomme;que ;nous ;;;nommions;que ;vous ;;;nommiez;qu’;ils //elles ;;;nomment
+Subjonctif Passé;subjonctif;que ;j’;;;aie nommé;que ;tu ;;;aies nommé;qu’;il //elle //on ;;;ait nommé;que ;nous ;;;ayons nommé;que ;vous ;;;ayez nommé;qu’;ils //elles ;;;aient nommé
+Subjonctif Imparfait;subjonctif;que ;je ;;;nommasse;que ;tu ;;;nommasses;qu’;il //elle //on ;;;nommât;que ;nous ;;;nommassions;que ;vous ;;;nommassiez;qu’;ils //elles ;;;nommassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse nommé;que ;tu ;;;eusses nommé;qu’;il //elle //on ;;;eût nommé;que ;nous ;;;eussions nommé;que ;vous ;;;eussiez nommé;qu’;ils //elles ;;;eussent nommé
+Conditionnel Présent;conditionnel;;je ;;;nommerais;;tu ;;;nommerais;;il //elle //on ;;;nommerait;;nous ;;;nommerions;;vous ;;;nommeriez;;ils //elles ;;;nommeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais nommé;;tu ;;;aurais nommé;;il //elle //on ;;;aurait nommé;;nous ;;;aurions nommé;;vous ;;;auriez nommé;;ils //elles ;;;auraient nommé
 Impératif Présent;impératif;;;;;;;(tu) ;;;nomme;;;;;;;(nous) ;;;nommons;;(vous) ;;;nommez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie nommé;;;;;;;(nous) ;;;ayons nommé;;(vous) ;;;ayez nommé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;nomme pas ;;;;;;;(nous) ;ne ;;nommons pas ;;(vous) ;ne ;;nommez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en fâchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant fâché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;fâchant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;fâché;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;fâche;;tu ;;;fâches;;il/elle/on ;;;fâche;;nous ;;;fâchons;;vous ;;;fâchez;;ils/elles ;;;fâchent
-Indicatif Passé Composé;indicatif;;j’;;;ai fâché;;tu ;;;as fâché;;il/elle/on ;;;a fâché;;nous ;;;avons fâché;;vous ;;;avez fâché;;ils/elles ;;;ont fâché
-Indicatif Imparfait;indicatif;;je ;;;fâchais;;tu ;;;fâchais;;il/elle/on ;;;fâchait;;nous ;;;fâchions;;vous ;;;fâchiez;;ils/elles ;;;fâchaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais fâché;;tu ;;;avais fâché;;il/elle/on ;;;avait fâché;;nous ;;;avions fâché;;vous ;;;aviez fâché;;ils/elles ;;;avaient fâché
-Indicatif Passé Simple;indicatif;;je ;;;fâchai;;tu ;;;fâchas;;il/elle/on ;;;fâcha;;nous ;;;fâchâmes;;vous ;;;fâchâtes;;ils/elles ;;;fâchèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus fâché;;tu ;;;eus fâché;;il/elle/on ;;;eut fâché;;nous ;;;eûmes fâché;;vous ;;;eûtes fâché;;ils/elles ;;;eurent fâché
-Indicatif Futur Simple;indicatif;;je ;;;fâcherai;;tu ;;;fâcheras;;il/elle/on ;;;fâchera;;nous ;;;fâcherons;;vous ;;;fâcherez;;ils/elles ;;;fâcheront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai fâché;;tu ;;;auras fâché;;il/elle/on ;;;aura fâché;;nous ;;;aurons fâché;;vous ;;;aurez fâché;;ils/elles ;;;auront fâché
-Subjonctif Présent;subjonctif;que ;je ;;;fâche;que ;tu ;;;fâches;qu’;il/elle/on ;;;fâche;que ;nous ;;;fâchions;que ;vous ;;;fâchiez;qu’;ils/elles ;;;fâchent
-Subjonctif Passé;subjonctif;que ;j’;;;aie fâché;que ;tu ;;;aies fâché;qu’;il/elle/on ;;;ait fâché;que ;nous ;;;ayons fâché;que ;vous ;;;ayez fâché;qu’;ils/elles ;;;aient fâché
-Subjonctif Imparfait;subjonctif;que ;je ;;;fâchasse;que ;tu ;;;fâchasses;qu’;il/elle/on ;;;fâchât;que ;nous ;;;fâchassions;que ;vous ;;;fâchassiez;qu’;ils/elles ;;;fâchassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse fâché;que ;tu ;;;eusses fâché;qu’;il/elle/on ;;;eût fâché;que ;nous ;;;eussions fâché;que ;vous ;;;eussiez fâché;qu’;ils/elles ;;;eussent fâché
-Conditionnel Présent;conditionnel;;je ;;;fâcherais;;tu ;;;fâcherais;;il/elle/on ;;;fâcherait;;nous ;;;fâcherions;;vous ;;;fâcheriez;;ils/elles ;;;fâcheraient
-Conditionnel Passé;conditionnel;;j’;;;aurais fâché;;tu ;;;aurais fâché;;il/elle/on ;;;aurait fâché;;nous ;;;aurions fâché;;vous ;;;auriez fâché;;ils/elles ;;;auraient fâché
+Indicatif Présent;indicatif;;je ;;;fâche;;tu ;;;fâches;;il //elle //on ;;;fâche;;nous ;;;fâchons;;vous ;;;fâchez;;ils //elles ;;;fâchent
+Indicatif Passé Composé;indicatif;;j’;;;ai fâché;;tu ;;;as fâché;;il //elle //on ;;;a fâché;;nous ;;;avons fâché;;vous ;;;avez fâché;;ils //elles ;;;ont fâché
+Indicatif Imparfait;indicatif;;je ;;;fâchais;;tu ;;;fâchais;;il //elle //on ;;;fâchait;;nous ;;;fâchions;;vous ;;;fâchiez;;ils //elles ;;;fâchaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais fâché;;tu ;;;avais fâché;;il //elle //on ;;;avait fâché;;nous ;;;avions fâché;;vous ;;;aviez fâché;;ils //elles ;;;avaient fâché
+Indicatif Passé Simple;indicatif;;je ;;;fâchai;;tu ;;;fâchas;;il //elle //on ;;;fâcha;;nous ;;;fâchâmes;;vous ;;;fâchâtes;;ils //elles ;;;fâchèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus fâché;;tu ;;;eus fâché;;il //elle //on ;;;eut fâché;;nous ;;;eûmes fâché;;vous ;;;eûtes fâché;;ils //elles ;;;eurent fâché
+Indicatif Futur Simple;indicatif;;je ;;;fâcherai;;tu ;;;fâcheras;;il //elle //on ;;;fâchera;;nous ;;;fâcherons;;vous ;;;fâcherez;;ils //elles ;;;fâcheront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai fâché;;tu ;;;auras fâché;;il //elle //on ;;;aura fâché;;nous ;;;aurons fâché;;vous ;;;aurez fâché;;ils //elles ;;;auront fâché
+Subjonctif Présent;subjonctif;que ;je ;;;fâche;que ;tu ;;;fâches;qu’;il //elle //on ;;;fâche;que ;nous ;;;fâchions;que ;vous ;;;fâchiez;qu’;ils //elles ;;;fâchent
+Subjonctif Passé;subjonctif;que ;j’;;;aie fâché;que ;tu ;;;aies fâché;qu’;il //elle //on ;;;ait fâché;que ;nous ;;;ayons fâché;que ;vous ;;;ayez fâché;qu’;ils //elles ;;;aient fâché
+Subjonctif Imparfait;subjonctif;que ;je ;;;fâchasse;que ;tu ;;;fâchasses;qu’;il //elle //on ;;;fâchât;que ;nous ;;;fâchassions;que ;vous ;;;fâchassiez;qu’;ils //elles ;;;fâchassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse fâché;que ;tu ;;;eusses fâché;qu’;il //elle //on ;;;eût fâché;que ;nous ;;;eussions fâché;que ;vous ;;;eussiez fâché;qu’;ils //elles ;;;eussent fâché
+Conditionnel Présent;conditionnel;;je ;;;fâcherais;;tu ;;;fâcherais;;il //elle //on ;;;fâcherait;;nous ;;;fâcherions;;vous ;;;fâcheriez;;ils //elles ;;;fâcheraient
+Conditionnel Passé;conditionnel;;j’;;;aurais fâché;;tu ;;;aurais fâché;;il //elle //on ;;;aurait fâché;;nous ;;;aurions fâché;;vous ;;;auriez fâché;;ils //elles ;;;auraient fâché
 Impératif Présent;impératif;;;;;;;(tu) ;;;fâche;;;;;;;(nous) ;;;fâchons;;(vous) ;;;fâchez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fâché;;;;;;;(nous) ;;;ayons fâché;;(vous) ;;;ayez fâché;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fâche pas ;;;;;;;(nous) ;ne ;;fâchons pas ;;(vous) ;ne ;;fâchez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en bardant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant bardé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;bardant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;bardé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;barde;;tu ;;;bardes;;il/elle/on ;;;barde;;nous ;;;bardons;;vous ;;;bardez;;ils/elles ;;;bardent
-Indicatif Passé Composé;indicatif;;j’;;;ai bardé;;tu ;;;as bardé;;il/elle/on ;;;a bardé;;nous ;;;avons bardé;;vous ;;;avez bardé;;ils/elles ;;;ont bardé
-Indicatif Imparfait;indicatif;;je ;;;bardais;;tu ;;;bardais;;il/elle/on ;;;bardait;;nous ;;;bardions;;vous ;;;bardiez;;ils/elles ;;;bardaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais bardé;;tu ;;;avais bardé;;il/elle/on ;;;avait bardé;;nous ;;;avions bardé;;vous ;;;aviez bardé;;ils/elles ;;;avaient bardé
-Indicatif Passé Simple;indicatif;;je ;;;bardai;;tu ;;;bardas;;il/elle/on ;;;barda;;nous ;;;bardâmes;;vous ;;;bardâtes;;ils/elles ;;;bardèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus bardé;;tu ;;;eus bardé;;il/elle/on ;;;eut bardé;;nous ;;;eûmes bardé;;vous ;;;eûtes bardé;;ils/elles ;;;eurent bardé
-Indicatif Futur Simple;indicatif;;je ;;;barderai;;tu ;;;barderas;;il/elle/on ;;;bardera;;nous ;;;barderons;;vous ;;;barderez;;ils/elles ;;;barderont
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai bardé;;tu ;;;auras bardé;;il/elle/on ;;;aura bardé;;nous ;;;aurons bardé;;vous ;;;aurez bardé;;ils/elles ;;;auront bardé
-Subjonctif Présent;subjonctif;que ;je ;;;barde;que ;tu ;;;bardes;qu’;il/elle/on ;;;barde;que ;nous ;;;bardions;que ;vous ;;;bardiez;qu’;ils/elles ;;;bardent
-Subjonctif Passé;subjonctif;que ;j’;;;aie bardé;que ;tu ;;;aies bardé;qu’;il/elle/on ;;;ait bardé;que ;nous ;;;ayons bardé;que ;vous ;;;ayez bardé;qu’;ils/elles ;;;aient bardé
-Subjonctif Imparfait;subjonctif;que ;je ;;;bardasse;que ;tu ;;;bardasses;qu’;il/elle/on ;;;bardât;que ;nous ;;;bardassions;que ;vous ;;;bardassiez;qu’;ils/elles ;;;bardassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse bardé;que ;tu ;;;eusses bardé;qu’;il/elle/on ;;;eût bardé;que ;nous ;;;eussions bardé;que ;vous ;;;eussiez bardé;qu’;ils/elles ;;;eussent bardé
-Conditionnel Présent;conditionnel;;je ;;;barderais;;tu ;;;barderais;;il/elle/on ;;;barderait;;nous ;;;barderions;;vous ;;;barderiez;;ils/elles ;;;barderaient
-Conditionnel Passé;conditionnel;;j’;;;aurais bardé;;tu ;;;aurais bardé;;il/elle/on ;;;aurait bardé;;nous ;;;aurions bardé;;vous ;;;auriez bardé;;ils/elles ;;;auraient bardé
+Indicatif Présent;indicatif;;je ;;;barde;;tu ;;;bardes;;il //elle //on ;;;barde;;nous ;;;bardons;;vous ;;;bardez;;ils //elles ;;;bardent
+Indicatif Passé Composé;indicatif;;j’;;;ai bardé;;tu ;;;as bardé;;il //elle //on ;;;a bardé;;nous ;;;avons bardé;;vous ;;;avez bardé;;ils //elles ;;;ont bardé
+Indicatif Imparfait;indicatif;;je ;;;bardais;;tu ;;;bardais;;il //elle //on ;;;bardait;;nous ;;;bardions;;vous ;;;bardiez;;ils //elles ;;;bardaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais bardé;;tu ;;;avais bardé;;il //elle //on ;;;avait bardé;;nous ;;;avions bardé;;vous ;;;aviez bardé;;ils //elles ;;;avaient bardé
+Indicatif Passé Simple;indicatif;;je ;;;bardai;;tu ;;;bardas;;il //elle //on ;;;barda;;nous ;;;bardâmes;;vous ;;;bardâtes;;ils //elles ;;;bardèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus bardé;;tu ;;;eus bardé;;il //elle //on ;;;eut bardé;;nous ;;;eûmes bardé;;vous ;;;eûtes bardé;;ils //elles ;;;eurent bardé
+Indicatif Futur Simple;indicatif;;je ;;;barderai;;tu ;;;barderas;;il //elle //on ;;;bardera;;nous ;;;barderons;;vous ;;;barderez;;ils //elles ;;;barderont
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai bardé;;tu ;;;auras bardé;;il //elle //on ;;;aura bardé;;nous ;;;aurons bardé;;vous ;;;aurez bardé;;ils //elles ;;;auront bardé
+Subjonctif Présent;subjonctif;que ;je ;;;barde;que ;tu ;;;bardes;qu’;il //elle //on ;;;barde;que ;nous ;;;bardions;que ;vous ;;;bardiez;qu’;ils //elles ;;;bardent
+Subjonctif Passé;subjonctif;que ;j’;;;aie bardé;que ;tu ;;;aies bardé;qu’;il //elle //on ;;;ait bardé;que ;nous ;;;ayons bardé;que ;vous ;;;ayez bardé;qu’;ils //elles ;;;aient bardé
+Subjonctif Imparfait;subjonctif;que ;je ;;;bardasse;que ;tu ;;;bardasses;qu’;il //elle //on ;;;bardât;que ;nous ;;;bardassions;que ;vous ;;;bardassiez;qu’;ils //elles ;;;bardassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse bardé;que ;tu ;;;eusses bardé;qu’;il //elle //on ;;;eût bardé;que ;nous ;;;eussions bardé;que ;vous ;;;eussiez bardé;qu’;ils //elles ;;;eussent bardé
+Conditionnel Présent;conditionnel;;je ;;;barderais;;tu ;;;barderais;;il //elle //on ;;;barderait;;nous ;;;barderions;;vous ;;;barderiez;;ils //elles ;;;barderaient
+Conditionnel Passé;conditionnel;;j’;;;aurais bardé;;tu ;;;aurais bardé;;il //elle //on ;;;aurait bardé;;nous ;;;aurions bardé;;vous ;;;auriez bardé;;ils //elles ;;;auraient bardé
 Impératif Présent;impératif;;;;;;;(tu) ;;;barde;;;;;;;(nous) ;;;bardons;;(vous) ;;;bardez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie bardé;;;;;;;(nous) ;;;ayons bardé;;(vous) ;;;ayez bardé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;barde pas ;;;;;;;(nous) ;ne ;;bardons pas ;;(vous) ;ne ;;bardez pas ;;;;;

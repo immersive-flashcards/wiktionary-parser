@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en définissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant défini;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;définissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;défini;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;définis;;tu ;;;définis;;il/elle/on ;;;définit;;nous ;;;définissons;;vous ;;;définissez;;ils/elles ;;;définissent
-Indicatif Passé Composé;indicatif;;j’;;;ai défini;;tu ;;;as défini;;il/elle/on ;;;a défini;;nous ;;;avons défini;;vous ;;;avez défini;;ils/elles ;;;ont défini
-Indicatif Imparfait;indicatif;;je ;;;définissais;;tu ;;;définissais;;il/elle/on ;;;définissait;;nous ;;;définissions;;vous ;;;définissiez;;ils/elles ;;;définissaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais défini;;tu ;;;avais défini;;il/elle/on ;;;avait défini;;nous ;;;avions défini;;vous ;;;aviez défini;;ils/elles ;;;avaient défini
-Indicatif Passé Simple;indicatif;;je ;;;définis;;tu ;;;définis;;il/elle/on ;;;définit;;nous ;;;définîmes;;vous ;;;définîtes;;ils/elles ;;;définirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus défini;;tu ;;;eus défini;;il/elle/on ;;;eut défini;;nous ;;;eûmes défini;;vous ;;;eûtes défini;;ils/elles ;;;eurent défini
-Indicatif Futur Simple;indicatif;;je ;;;définirai;;tu ;;;définiras;;il/elle/on ;;;définira;;nous ;;;définirons;;vous ;;;définirez;;ils/elles ;;;définiront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai défini;;tu ;;;auras défini;;il/elle/on ;;;aura défini;;nous ;;;aurons défini;;vous ;;;aurez défini;;ils/elles ;;;auront défini
-Subjonctif Présent;subjonctif;que ;je ;;;définisse;que ;tu ;;;définisses;qu’;il/elle/on ;;;définisse;que ;nous ;;;définissions;que ;vous ;;;définissiez;qu’;ils/elles ;;;définissent
-Subjonctif Passé;subjonctif;que ;j’;;;aie défini;que ;tu ;;;aies défini;qu’;il/elle/on ;;;ait défini;que ;nous ;;;ayons défini;que ;vous ;;;ayez défini;qu’;ils/elles ;;;aient défini
-Subjonctif Imparfait;subjonctif;que ;je ;;;définisse;que ;tu ;;;définisses;qu’;il/elle/on ;;;définît;que ;nous ;;;définissions;que ;vous ;;;définissiez;qu’;ils/elles ;;;définissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse défini;que ;tu ;;;eusses défini;qu’;il/elle/on ;;;eût défini;que ;nous ;;;eussions défini;que ;vous ;;;eussiez défini;qu’;ils/elles ;;;eussent défini
-Conditionnel Présent;conditionnel;;je ;;;définirais;;tu ;;;définirais;;il/elle/on ;;;définirait;;nous ;;;définirions;;vous ;;;définiriez;;ils/elles ;;;définiraient
-Conditionnel Passé;conditionnel;;j’;;;aurais défini;;tu ;;;aurais défini;;il/elle/on ;;;aurait défini;;nous ;;;aurions défini;;vous ;;;auriez défini;;ils/elles ;;;auraient défini
+Indicatif Présent;indicatif;;je ;;;définis;;tu ;;;définis;;il //elle //on ;;;définit;;nous ;;;définissons;;vous ;;;définissez;;ils //elles ;;;définissent
+Indicatif Passé Composé;indicatif;;j’;;;ai défini;;tu ;;;as défini;;il //elle //on ;;;a défini;;nous ;;;avons défini;;vous ;;;avez défini;;ils //elles ;;;ont défini
+Indicatif Imparfait;indicatif;;je ;;;définissais;;tu ;;;définissais;;il //elle //on ;;;définissait;;nous ;;;définissions;;vous ;;;définissiez;;ils //elles ;;;définissaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais défini;;tu ;;;avais défini;;il //elle //on ;;;avait défini;;nous ;;;avions défini;;vous ;;;aviez défini;;ils //elles ;;;avaient défini
+Indicatif Passé Simple;indicatif;;je ;;;définis;;tu ;;;définis;;il //elle //on ;;;définit;;nous ;;;définîmes;;vous ;;;définîtes;;ils //elles ;;;définirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus défini;;tu ;;;eus défini;;il //elle //on ;;;eut défini;;nous ;;;eûmes défini;;vous ;;;eûtes défini;;ils //elles ;;;eurent défini
+Indicatif Futur Simple;indicatif;;je ;;;définirai;;tu ;;;définiras;;il //elle //on ;;;définira;;nous ;;;définirons;;vous ;;;définirez;;ils //elles ;;;définiront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai défini;;tu ;;;auras défini;;il //elle //on ;;;aura défini;;nous ;;;aurons défini;;vous ;;;aurez défini;;ils //elles ;;;auront défini
+Subjonctif Présent;subjonctif;que ;je ;;;définisse;que ;tu ;;;définisses;qu’;il //elle //on ;;;définisse;que ;nous ;;;définissions;que ;vous ;;;définissiez;qu’;ils //elles ;;;définissent
+Subjonctif Passé;subjonctif;que ;j’;;;aie défini;que ;tu ;;;aies défini;qu’;il //elle //on ;;;ait défini;que ;nous ;;;ayons défini;que ;vous ;;;ayez défini;qu’;ils //elles ;;;aient défini
+Subjonctif Imparfait;subjonctif;que ;je ;;;définisse;que ;tu ;;;définisses;qu’;il //elle //on ;;;définît;que ;nous ;;;définissions;que ;vous ;;;définissiez;qu’;ils //elles ;;;définissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse défini;que ;tu ;;;eusses défini;qu’;il //elle //on ;;;eût défini;que ;nous ;;;eussions défini;que ;vous ;;;eussiez défini;qu’;ils //elles ;;;eussent défini
+Conditionnel Présent;conditionnel;;je ;;;définirais;;tu ;;;définirais;;il //elle //on ;;;définirait;;nous ;;;définirions;;vous ;;;définiriez;;ils //elles ;;;définiraient
+Conditionnel Passé;conditionnel;;j’;;;aurais défini;;tu ;;;aurais défini;;il //elle //on ;;;aurait défini;;nous ;;;aurions défini;;vous ;;;auriez défini;;ils //elles ;;;auraient défini
 Impératif Présent;impératif;;;;;;;(tu) ;;;définis;;;;;;;(nous) ;;;définissons;;(vous) ;;;définissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie défini;;;;;;;(nous) ;;;ayons défini;;(vous) ;;;ayez défini;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;définis pas ;;;;;;;(nous) ;ne ;;définissons pas ;;(vous) ;ne ;;définissez pas ;;;;;

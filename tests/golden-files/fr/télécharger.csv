@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en téléchargeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant téléchargé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;téléchargeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;téléchargé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;télécharge;;tu ;;;télécharges;;il/elle/on ;;;télécharge;;nous ;;;téléchargeons;;vous ;;;téléchargez;;ils/elles ;;;téléchargent
-Indicatif Passé Composé;indicatif;;j’;;;ai téléchargé;;tu ;;;as téléchargé;;il/elle/on ;;;a téléchargé;;nous ;;;avons téléchargé;;vous ;;;avez téléchargé;;ils/elles ;;;ont téléchargé
-Indicatif Imparfait;indicatif;;je ;;;téléchargeais;;tu ;;;téléchargeais;;il/elle/on ;;;téléchargeait;;nous ;;;téléchargions;;vous ;;;téléchargiez;;ils/elles ;;;téléchargeaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais téléchargé;;tu ;;;avais téléchargé;;il/elle/on ;;;avait téléchargé;;nous ;;;avions téléchargé;;vous ;;;aviez téléchargé;;ils/elles ;;;avaient téléchargé
-Indicatif Passé Simple;indicatif;;je ;;;téléchargeai;;tu ;;;téléchargeas;;il/elle/on ;;;téléchargea;;nous ;;;téléchargeâmes;;vous ;;;téléchargeâtes;;ils/elles ;;;téléchargèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus téléchargé;;tu ;;;eus téléchargé;;il/elle/on ;;;eut téléchargé;;nous ;;;eûmes téléchargé;;vous ;;;eûtes téléchargé;;ils/elles ;;;eurent téléchargé
-Indicatif Futur Simple;indicatif;;je ;;;téléchargerai;;tu ;;;téléchargeras;;il/elle/on ;;;téléchargera;;nous ;;;téléchargerons;;vous ;;;téléchargerez;;ils/elles ;;;téléchargeront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai téléchargé;;tu ;;;auras téléchargé;;il/elle/on ;;;aura téléchargé;;nous ;;;aurons téléchargé;;vous ;;;aurez téléchargé;;ils/elles ;;;auront téléchargé
-Subjonctif Présent;subjonctif;que ;je ;;;télécharge;que ;tu ;;;télécharges;qu’;il/elle/on ;;;télécharge;que ;nous ;;;téléchargions;que ;vous ;;;téléchargiez;qu’;ils/elles ;;;téléchargent
-Subjonctif Passé;subjonctif;que ;j’;;;aie téléchargé;que ;tu ;;;aies téléchargé;qu’;il/elle/on ;;;ait téléchargé;que ;nous ;;;ayons téléchargé;que ;vous ;;;ayez téléchargé;qu’;ils/elles ;;;aient téléchargé
-Subjonctif Imparfait;subjonctif;que ;je ;;;téléchargeasse;que ;tu ;;;téléchargeasses;qu’;il/elle/on ;;;téléchargeât;que ;nous ;;;téléchargeassions;que ;vous ;;;téléchargeassiez;qu’;ils/elles ;;;téléchargeassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse téléchargé;que ;tu ;;;eusses téléchargé;qu’;il/elle/on ;;;eût téléchargé;que ;nous ;;;eussions téléchargé;que ;vous ;;;eussiez téléchargé;qu’;ils/elles ;;;eussent téléchargé
-Conditionnel Présent;conditionnel;;je ;;;téléchargerais;;tu ;;;téléchargerais;;il/elle/on ;;;téléchargerait;;nous ;;;téléchargerions;;vous ;;;téléchargeriez;;ils/elles ;;;téléchargeraient
-Conditionnel Passé;conditionnel;;j’;;;aurais téléchargé;;tu ;;;aurais téléchargé;;il/elle/on ;;;aurait téléchargé;;nous ;;;aurions téléchargé;;vous ;;;auriez téléchargé;;ils/elles ;;;auraient téléchargé
+Indicatif Présent;indicatif;;je ;;;télécharge;;tu ;;;télécharges;;il //elle //on ;;;télécharge;;nous ;;;téléchargeons;;vous ;;;téléchargez;;ils //elles ;;;téléchargent
+Indicatif Passé Composé;indicatif;;j’;;;ai téléchargé;;tu ;;;as téléchargé;;il //elle //on ;;;a téléchargé;;nous ;;;avons téléchargé;;vous ;;;avez téléchargé;;ils //elles ;;;ont téléchargé
+Indicatif Imparfait;indicatif;;je ;;;téléchargeais;;tu ;;;téléchargeais;;il //elle //on ;;;téléchargeait;;nous ;;;téléchargions;;vous ;;;téléchargiez;;ils //elles ;;;téléchargeaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais téléchargé;;tu ;;;avais téléchargé;;il //elle //on ;;;avait téléchargé;;nous ;;;avions téléchargé;;vous ;;;aviez téléchargé;;ils //elles ;;;avaient téléchargé
+Indicatif Passé Simple;indicatif;;je ;;;téléchargeai;;tu ;;;téléchargeas;;il //elle //on ;;;téléchargea;;nous ;;;téléchargeâmes;;vous ;;;téléchargeâtes;;ils //elles ;;;téléchargèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus téléchargé;;tu ;;;eus téléchargé;;il //elle //on ;;;eut téléchargé;;nous ;;;eûmes téléchargé;;vous ;;;eûtes téléchargé;;ils //elles ;;;eurent téléchargé
+Indicatif Futur Simple;indicatif;;je ;;;téléchargerai;;tu ;;;téléchargeras;;il //elle //on ;;;téléchargera;;nous ;;;téléchargerons;;vous ;;;téléchargerez;;ils //elles ;;;téléchargeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai téléchargé;;tu ;;;auras téléchargé;;il //elle //on ;;;aura téléchargé;;nous ;;;aurons téléchargé;;vous ;;;aurez téléchargé;;ils //elles ;;;auront téléchargé
+Subjonctif Présent;subjonctif;que ;je ;;;télécharge;que ;tu ;;;télécharges;qu’;il //elle //on ;;;télécharge;que ;nous ;;;téléchargions;que ;vous ;;;téléchargiez;qu’;ils //elles ;;;téléchargent
+Subjonctif Passé;subjonctif;que ;j’;;;aie téléchargé;que ;tu ;;;aies téléchargé;qu’;il //elle //on ;;;ait téléchargé;que ;nous ;;;ayons téléchargé;que ;vous ;;;ayez téléchargé;qu’;ils //elles ;;;aient téléchargé
+Subjonctif Imparfait;subjonctif;que ;je ;;;téléchargeasse;que ;tu ;;;téléchargeasses;qu’;il //elle //on ;;;téléchargeât;que ;nous ;;;téléchargeassions;que ;vous ;;;téléchargeassiez;qu’;ils //elles ;;;téléchargeassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse téléchargé;que ;tu ;;;eusses téléchargé;qu’;il //elle //on ;;;eût téléchargé;que ;nous ;;;eussions téléchargé;que ;vous ;;;eussiez téléchargé;qu’;ils //elles ;;;eussent téléchargé
+Conditionnel Présent;conditionnel;;je ;;;téléchargerais;;tu ;;;téléchargerais;;il //elle //on ;;;téléchargerait;;nous ;;;téléchargerions;;vous ;;;téléchargeriez;;ils //elles ;;;téléchargeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais téléchargé;;tu ;;;aurais téléchargé;;il //elle //on ;;;aurait téléchargé;;nous ;;;aurions téléchargé;;vous ;;;auriez téléchargé;;ils //elles ;;;auraient téléchargé
 Impératif Présent;impératif;;;;;;;(tu) ;;;télécharge;;;;;;;(nous) ;;;téléchargeons;;(vous) ;;;téléchargez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie téléchargé;;;;;;;(nous) ;;;ayons téléchargé;;(vous) ;;;ayez téléchargé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;télécharge pas ;;;;;;;(nous) ;ne ;;téléchargeons pas ;;(vous) ;ne ;;téléchargez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en aidant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant aidé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;aidant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;aidé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;aide;;tu ;;;aides;;il/elle/on ;;;aide;;nous ;;;aidons;;vous ;;;aidez;;ils/elles ;;;aident
-Indicatif Passé Composé;indicatif;;j’;;;ai aidé;;tu ;;;as aidé;;il/elle/on ;;;a aidé;;nous ;;;avons aidé;;vous ;;;avez aidé;;ils/elles ;;;ont aidé
-Indicatif Imparfait;indicatif;;j’;;;aidais;;tu ;;;aidais;;il/elle/on ;;;aidait;;nous ;;;aidions;;vous ;;;aidiez;;ils/elles ;;;aidaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais aidé;;tu ;;;avais aidé;;il/elle/on ;;;avait aidé;;nous ;;;avions aidé;;vous ;;;aviez aidé;;ils/elles ;;;avaient aidé
-Indicatif Passé Simple;indicatif;;j’;;;aidai;;tu ;;;aidas;;il/elle/on ;;;aida;;nous ;;;aidâmes;;vous ;;;aidâtes;;ils/elles ;;;aidèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus aidé;;tu ;;;eus aidé;;il/elle/on ;;;eut aidé;;nous ;;;eûmes aidé;;vous ;;;eûtes aidé;;ils/elles ;;;eurent aidé
-Indicatif Futur Simple;indicatif;;j’;;;aiderai;;tu ;;;aideras;;il/elle/on ;;;aidera;;nous ;;;aiderons;;vous ;;;aiderez;;ils/elles ;;;aideront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai aidé;;tu ;;;auras aidé;;il/elle/on ;;;aura aidé;;nous ;;;aurons aidé;;vous ;;;aurez aidé;;ils/elles ;;;auront aidé
-Subjonctif Présent;subjonctif;que ;j’;;;aide;que ;tu ;;;aides;qu’;il/elle/on ;;;aide;que ;nous ;;;aidions;que ;vous ;;;aidiez;qu’;ils/elles ;;;aident
-Subjonctif Passé;subjonctif;que ;j’;;;aie aidé;que ;tu ;;;aies aidé;qu’;il/elle/on ;;;ait aidé;que ;nous ;;;ayons aidé;que ;vous ;;;ayez aidé;qu’;ils/elles ;;;aient aidé
-Subjonctif Imparfait;subjonctif;que ;j’;;;aidasse;que ;tu ;;;aidasses;qu’;il/elle/on ;;;aidât;que ;nous ;;;aidassions;que ;vous ;;;aidassiez;qu’;ils/elles ;;;aidassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse aidé;que ;tu ;;;eusses aidé;qu’;il/elle/on ;;;eût aidé;que ;nous ;;;eussions aidé;que ;vous ;;;eussiez aidé;qu’;ils/elles ;;;eussent aidé
-Conditionnel Présent;conditionnel;;j’;;;aiderais;;tu ;;;aiderais;;il/elle/on ;;;aiderait;;nous ;;;aiderions;;vous ;;;aideriez;;ils/elles ;;;aideraient
-Conditionnel Passé;conditionnel;;j’;;;aurais aidé;;tu ;;;aurais aidé;;il/elle/on ;;;aurait aidé;;nous ;;;aurions aidé;;vous ;;;auriez aidé;;ils/elles ;;;auraient aidé
+Indicatif Présent;indicatif;;j’;;;aide;;tu ;;;aides;;il //elle //on ;;;aide;;nous ;;;aidons;;vous ;;;aidez;;ils //elles ;;;aident
+Indicatif Passé Composé;indicatif;;j’;;;ai aidé;;tu ;;;as aidé;;il //elle //on ;;;a aidé;;nous ;;;avons aidé;;vous ;;;avez aidé;;ils //elles ;;;ont aidé
+Indicatif Imparfait;indicatif;;j’;;;aidais;;tu ;;;aidais;;il //elle //on ;;;aidait;;nous ;;;aidions;;vous ;;;aidiez;;ils //elles ;;;aidaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais aidé;;tu ;;;avais aidé;;il //elle //on ;;;avait aidé;;nous ;;;avions aidé;;vous ;;;aviez aidé;;ils //elles ;;;avaient aidé
+Indicatif Passé Simple;indicatif;;j’;;;aidai;;tu ;;;aidas;;il //elle //on ;;;aida;;nous ;;;aidâmes;;vous ;;;aidâtes;;ils //elles ;;;aidèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus aidé;;tu ;;;eus aidé;;il //elle //on ;;;eut aidé;;nous ;;;eûmes aidé;;vous ;;;eûtes aidé;;ils //elles ;;;eurent aidé
+Indicatif Futur Simple;indicatif;;j’;;;aiderai;;tu ;;;aideras;;il //elle //on ;;;aidera;;nous ;;;aiderons;;vous ;;;aiderez;;ils //elles ;;;aideront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai aidé;;tu ;;;auras aidé;;il //elle //on ;;;aura aidé;;nous ;;;aurons aidé;;vous ;;;aurez aidé;;ils //elles ;;;auront aidé
+Subjonctif Présent;subjonctif;que ;j’;;;aide;que ;tu ;;;aides;qu’;il //elle //on ;;;aide;que ;nous ;;;aidions;que ;vous ;;;aidiez;qu’;ils //elles ;;;aident
+Subjonctif Passé;subjonctif;que ;j’;;;aie aidé;que ;tu ;;;aies aidé;qu’;il //elle //on ;;;ait aidé;que ;nous ;;;ayons aidé;que ;vous ;;;ayez aidé;qu’;ils //elles ;;;aient aidé
+Subjonctif Imparfait;subjonctif;que ;j’;;;aidasse;que ;tu ;;;aidasses;qu’;il //elle //on ;;;aidât;que ;nous ;;;aidassions;que ;vous ;;;aidassiez;qu’;ils //elles ;;;aidassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse aidé;que ;tu ;;;eusses aidé;qu’;il //elle //on ;;;eût aidé;que ;nous ;;;eussions aidé;que ;vous ;;;eussiez aidé;qu’;ils //elles ;;;eussent aidé
+Conditionnel Présent;conditionnel;;j’;;;aiderais;;tu ;;;aiderais;;il //elle //on ;;;aiderait;;nous ;;;aiderions;;vous ;;;aideriez;;ils //elles ;;;aideraient
+Conditionnel Passé;conditionnel;;j’;;;aurais aidé;;tu ;;;aurais aidé;;il //elle //on ;;;aurait aidé;;nous ;;;aurions aidé;;vous ;;;auriez aidé;;ils //elles ;;;auraient aidé
 Impératif Présent;impératif;;;;;;;(tu) ;;;aide;;;;;;;(nous) ;;;aidons;;(vous) ;;;aidez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie aidé;;;;;;;(nous) ;;;ayons aidé;;(vous) ;;;ayez aidé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;aide pas ;;;;;;;(nous) ;n';;aidons pas ;;(vous) ;n';;aidez pas ;;;;;

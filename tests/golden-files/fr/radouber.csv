@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en radoubant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant radoubé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;radoubant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;radoubé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;radoube;;tu ;;;radoubes;;il/elle/on ;;;radoube;;nous ;;;radoubons;;vous ;;;radoubez;;ils/elles ;;;radoubent
-Indicatif Passé Composé;indicatif;;j’;;;ai radoubé;;tu ;;;as radoubé;;il/elle/on ;;;a radoubé;;nous ;;;avons radoubé;;vous ;;;avez radoubé;;ils/elles ;;;ont radoubé
-Indicatif Imparfait;indicatif;;je ;;;radoubais;;tu ;;;radoubais;;il/elle/on ;;;radoubait;;nous ;;;radoubions;;vous ;;;radoubiez;;ils/elles ;;;radoubaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais radoubé;;tu ;;;avais radoubé;;il/elle/on ;;;avait radoubé;;nous ;;;avions radoubé;;vous ;;;aviez radoubé;;ils/elles ;;;avaient radoubé
-Indicatif Passé Simple;indicatif;;je ;;;radoubai;;tu ;;;radoubas;;il/elle/on ;;;radouba;;nous ;;;radoubâmes;;vous ;;;radoubâtes;;ils/elles ;;;radoubèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus radoubé;;tu ;;;eus radoubé;;il/elle/on ;;;eut radoubé;;nous ;;;eûmes radoubé;;vous ;;;eûtes radoubé;;ils/elles ;;;eurent radoubé
-Indicatif Futur Simple;indicatif;;je ;;;radouberai;;tu ;;;radouberas;;il/elle/on ;;;radoubera;;nous ;;;radouberons;;vous ;;;radouberez;;ils/elles ;;;radouberont
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai radoubé;;tu ;;;auras radoubé;;il/elle/on ;;;aura radoubé;;nous ;;;aurons radoubé;;vous ;;;aurez radoubé;;ils/elles ;;;auront radoubé
-Subjonctif Présent;subjonctif;que ;je ;;;radoube;que ;tu ;;;radoubes;qu’;il/elle/on ;;;radoube;que ;nous ;;;radoubions;que ;vous ;;;radoubiez;qu’;ils/elles ;;;radoubent
-Subjonctif Passé;subjonctif;que ;j’;;;aie radoubé;que ;tu ;;;aies radoubé;qu’;il/elle/on ;;;ait radoubé;que ;nous ;;;ayons radoubé;que ;vous ;;;ayez radoubé;qu’;ils/elles ;;;aient radoubé
-Subjonctif Imparfait;subjonctif;que ;je ;;;radoubasse;que ;tu ;;;radoubasses;qu’;il/elle/on ;;;radoubât;que ;nous ;;;radoubassions;que ;vous ;;;radoubassiez;qu’;ils/elles ;;;radoubassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse radoubé;que ;tu ;;;eusses radoubé;qu’;il/elle/on ;;;eût radoubé;que ;nous ;;;eussions radoubé;que ;vous ;;;eussiez radoubé;qu’;ils/elles ;;;eussent radoubé
-Conditionnel Présent;conditionnel;;je ;;;radouberais;;tu ;;;radouberais;;il/elle/on ;;;radouberait;;nous ;;;radouberions;;vous ;;;radouberiez;;ils/elles ;;;radouberaient
-Conditionnel Passé;conditionnel;;j’;;;aurais radoubé;;tu ;;;aurais radoubé;;il/elle/on ;;;aurait radoubé;;nous ;;;aurions radoubé;;vous ;;;auriez radoubé;;ils/elles ;;;auraient radoubé
+Indicatif Présent;indicatif;;je ;;;radoube;;tu ;;;radoubes;;il //elle //on ;;;radoube;;nous ;;;radoubons;;vous ;;;radoubez;;ils //elles ;;;radoubent
+Indicatif Passé Composé;indicatif;;j’;;;ai radoubé;;tu ;;;as radoubé;;il //elle //on ;;;a radoubé;;nous ;;;avons radoubé;;vous ;;;avez radoubé;;ils //elles ;;;ont radoubé
+Indicatif Imparfait;indicatif;;je ;;;radoubais;;tu ;;;radoubais;;il //elle //on ;;;radoubait;;nous ;;;radoubions;;vous ;;;radoubiez;;ils //elles ;;;radoubaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais radoubé;;tu ;;;avais radoubé;;il //elle //on ;;;avait radoubé;;nous ;;;avions radoubé;;vous ;;;aviez radoubé;;ils //elles ;;;avaient radoubé
+Indicatif Passé Simple;indicatif;;je ;;;radoubai;;tu ;;;radoubas;;il //elle //on ;;;radouba;;nous ;;;radoubâmes;;vous ;;;radoubâtes;;ils //elles ;;;radoubèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus radoubé;;tu ;;;eus radoubé;;il //elle //on ;;;eut radoubé;;nous ;;;eûmes radoubé;;vous ;;;eûtes radoubé;;ils //elles ;;;eurent radoubé
+Indicatif Futur Simple;indicatif;;je ;;;radouberai;;tu ;;;radouberas;;il //elle //on ;;;radoubera;;nous ;;;radouberons;;vous ;;;radouberez;;ils //elles ;;;radouberont
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai radoubé;;tu ;;;auras radoubé;;il //elle //on ;;;aura radoubé;;nous ;;;aurons radoubé;;vous ;;;aurez radoubé;;ils //elles ;;;auront radoubé
+Subjonctif Présent;subjonctif;que ;je ;;;radoube;que ;tu ;;;radoubes;qu’;il //elle //on ;;;radoube;que ;nous ;;;radoubions;que ;vous ;;;radoubiez;qu’;ils //elles ;;;radoubent
+Subjonctif Passé;subjonctif;que ;j’;;;aie radoubé;que ;tu ;;;aies radoubé;qu’;il //elle //on ;;;ait radoubé;que ;nous ;;;ayons radoubé;que ;vous ;;;ayez radoubé;qu’;ils //elles ;;;aient radoubé
+Subjonctif Imparfait;subjonctif;que ;je ;;;radoubasse;que ;tu ;;;radoubasses;qu’;il //elle //on ;;;radoubât;que ;nous ;;;radoubassions;que ;vous ;;;radoubassiez;qu’;ils //elles ;;;radoubassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse radoubé;que ;tu ;;;eusses radoubé;qu’;il //elle //on ;;;eût radoubé;que ;nous ;;;eussions radoubé;que ;vous ;;;eussiez radoubé;qu’;ils //elles ;;;eussent radoubé
+Conditionnel Présent;conditionnel;;je ;;;radouberais;;tu ;;;radouberais;;il //elle //on ;;;radouberait;;nous ;;;radouberions;;vous ;;;radouberiez;;ils //elles ;;;radouberaient
+Conditionnel Passé;conditionnel;;j’;;;aurais radoubé;;tu ;;;aurais radoubé;;il //elle //on ;;;aurait radoubé;;nous ;;;aurions radoubé;;vous ;;;auriez radoubé;;ils //elles ;;;auraient radoubé
 Impératif Présent;impératif;;;;;;;(tu) ;;;radoube;;;;;;;(nous) ;;;radoubons;;(vous) ;;;radoubez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie radoubé;;;;;;;(nous) ;;;ayons radoubé;;(vous) ;;;ayez radoubé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;radoube pas ;;;;;;;(nous) ;ne ;;radoubons pas ;;(vous) ;ne ;;radoubez pas ;;;;;

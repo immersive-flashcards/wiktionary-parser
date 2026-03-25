@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en exhumant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant exhumé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;exhumant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;exhumé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;exhume;;tu ;;;exhumes;;il/elle/on ;;;exhume;;nous ;;;exhumons;;vous ;;;exhumez;;ils/elles ;;;exhument
-Indicatif Passé Composé;indicatif;;j’;;;ai exhumé;;tu ;;;as exhumé;;il/elle/on ;;;a exhumé;;nous ;;;avons exhumé;;vous ;;;avez exhumé;;ils/elles ;;;ont exhumé
-Indicatif Imparfait;indicatif;;j’;;;exhumais;;tu ;;;exhumais;;il/elle/on ;;;exhumait;;nous ;;;exhumions;;vous ;;;exhumiez;;ils/elles ;;;exhumaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais exhumé;;tu ;;;avais exhumé;;il/elle/on ;;;avait exhumé;;nous ;;;avions exhumé;;vous ;;;aviez exhumé;;ils/elles ;;;avaient exhumé
-Indicatif Passé Simple;indicatif;;j’;;;exhumai;;tu ;;;exhumas;;il/elle/on ;;;exhuma;;nous ;;;exhumâmes;;vous ;;;exhumâtes;;ils/elles ;;;exhumèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus exhumé;;tu ;;;eus exhumé;;il/elle/on ;;;eut exhumé;;nous ;;;eûmes exhumé;;vous ;;;eûtes exhumé;;ils/elles ;;;eurent exhumé
-Indicatif Futur Simple;indicatif;;j’;;;exhumerai;;tu ;;;exhumeras;;il/elle/on ;;;exhumera;;nous ;;;exhumerons;;vous ;;;exhumerez;;ils/elles ;;;exhumeront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai exhumé;;tu ;;;auras exhumé;;il/elle/on ;;;aura exhumé;;nous ;;;aurons exhumé;;vous ;;;aurez exhumé;;ils/elles ;;;auront exhumé
-Subjonctif Présent;subjonctif;que ;j’;;;exhume;que ;tu ;;;exhumes;qu’;il/elle/on ;;;exhume;que ;nous ;;;exhumions;que ;vous ;;;exhumiez;qu’;ils/elles ;;;exhument
-Subjonctif Passé;subjonctif;que ;j’;;;aie exhumé;que ;tu ;;;aies exhumé;qu’;il/elle/on ;;;ait exhumé;que ;nous ;;;ayons exhumé;que ;vous ;;;ayez exhumé;qu’;ils/elles ;;;aient exhumé
-Subjonctif Imparfait;subjonctif;que ;j’;;;exhumasse;que ;tu ;;;exhumasses;qu’;il/elle/on ;;;exhumât;que ;nous ;;;exhumassions;que ;vous ;;;exhumassiez;qu’;ils/elles ;;;exhumassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse exhumé;que ;tu ;;;eusses exhumé;qu’;il/elle/on ;;;eût exhumé;que ;nous ;;;eussions exhumé;que ;vous ;;;eussiez exhumé;qu’;ils/elles ;;;eussent exhumé
-Conditionnel Présent;conditionnel;;j’;;;exhumerais;;tu ;;;exhumerais;;il/elle/on ;;;exhumerait;;nous ;;;exhumerions;;vous ;;;exhumeriez;;ils/elles ;;;exhumeraient
-Conditionnel Passé;conditionnel;;j’;;;aurais exhumé;;tu ;;;aurais exhumé;;il/elle/on ;;;aurait exhumé;;nous ;;;aurions exhumé;;vous ;;;auriez exhumé;;ils/elles ;;;auraient exhumé
+Indicatif Présent;indicatif;;j’;;;exhume;;tu ;;;exhumes;;il //elle //on ;;;exhume;;nous ;;;exhumons;;vous ;;;exhumez;;ils //elles ;;;exhument
+Indicatif Passé Composé;indicatif;;j’;;;ai exhumé;;tu ;;;as exhumé;;il //elle //on ;;;a exhumé;;nous ;;;avons exhumé;;vous ;;;avez exhumé;;ils //elles ;;;ont exhumé
+Indicatif Imparfait;indicatif;;j’;;;exhumais;;tu ;;;exhumais;;il //elle //on ;;;exhumait;;nous ;;;exhumions;;vous ;;;exhumiez;;ils //elles ;;;exhumaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais exhumé;;tu ;;;avais exhumé;;il //elle //on ;;;avait exhumé;;nous ;;;avions exhumé;;vous ;;;aviez exhumé;;ils //elles ;;;avaient exhumé
+Indicatif Passé Simple;indicatif;;j’;;;exhumai;;tu ;;;exhumas;;il //elle //on ;;;exhuma;;nous ;;;exhumâmes;;vous ;;;exhumâtes;;ils //elles ;;;exhumèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus exhumé;;tu ;;;eus exhumé;;il //elle //on ;;;eut exhumé;;nous ;;;eûmes exhumé;;vous ;;;eûtes exhumé;;ils //elles ;;;eurent exhumé
+Indicatif Futur Simple;indicatif;;j’;;;exhumerai;;tu ;;;exhumeras;;il //elle //on ;;;exhumera;;nous ;;;exhumerons;;vous ;;;exhumerez;;ils //elles ;;;exhumeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai exhumé;;tu ;;;auras exhumé;;il //elle //on ;;;aura exhumé;;nous ;;;aurons exhumé;;vous ;;;aurez exhumé;;ils //elles ;;;auront exhumé
+Subjonctif Présent;subjonctif;que ;j’;;;exhume;que ;tu ;;;exhumes;qu’;il //elle //on ;;;exhume;que ;nous ;;;exhumions;que ;vous ;;;exhumiez;qu’;ils //elles ;;;exhument
+Subjonctif Passé;subjonctif;que ;j’;;;aie exhumé;que ;tu ;;;aies exhumé;qu’;il //elle //on ;;;ait exhumé;que ;nous ;;;ayons exhumé;que ;vous ;;;ayez exhumé;qu’;ils //elles ;;;aient exhumé
+Subjonctif Imparfait;subjonctif;que ;j’;;;exhumasse;que ;tu ;;;exhumasses;qu’;il //elle //on ;;;exhumât;que ;nous ;;;exhumassions;que ;vous ;;;exhumassiez;qu’;ils //elles ;;;exhumassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse exhumé;que ;tu ;;;eusses exhumé;qu’;il //elle //on ;;;eût exhumé;que ;nous ;;;eussions exhumé;que ;vous ;;;eussiez exhumé;qu’;ils //elles ;;;eussent exhumé
+Conditionnel Présent;conditionnel;;j’;;;exhumerais;;tu ;;;exhumerais;;il //elle //on ;;;exhumerait;;nous ;;;exhumerions;;vous ;;;exhumeriez;;ils //elles ;;;exhumeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais exhumé;;tu ;;;aurais exhumé;;il //elle //on ;;;aurait exhumé;;nous ;;;aurions exhumé;;vous ;;;auriez exhumé;;ils //elles ;;;auraient exhumé
 Impératif Présent;impératif;;;;;;;(tu) ;;;exhume;;;;;;;(nous) ;;;exhumons;;(vous) ;;;exhumez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie exhumé;;;;;;;(nous) ;;;ayons exhumé;;(vous) ;;;ayez exhumé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;exhume pas ;;;;;;;(nous) ;n';;exhumons pas ;;(vous) ;n';;exhumez pas ;;;;;

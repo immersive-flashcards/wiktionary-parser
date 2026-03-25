@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en grattant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant gratté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;grattant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;gratté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;gratte;;tu ;;;grattes;;il/elle/on ;;;gratte;;nous ;;;grattons;;vous ;;;grattez;;ils/elles ;;;grattent
-Indicatif Passé Composé;indicatif;;j’;;;ai gratté;;tu ;;;as gratté;;il/elle/on ;;;a gratté;;nous ;;;avons gratté;;vous ;;;avez gratté;;ils/elles ;;;ont gratté
-Indicatif Imparfait;indicatif;;je ;;;grattais;;tu ;;;grattais;;il/elle/on ;;;grattait;;nous ;;;grattions;;vous ;;;grattiez;;ils/elles ;;;grattaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais gratté;;tu ;;;avais gratté;;il/elle/on ;;;avait gratté;;nous ;;;avions gratté;;vous ;;;aviez gratté;;ils/elles ;;;avaient gratté
-Indicatif Passé Simple;indicatif;;je ;;;grattai;;tu ;;;grattas;;il/elle/on ;;;gratta;;nous ;;;grattâmes;;vous ;;;grattâtes;;ils/elles ;;;grattèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus gratté;;tu ;;;eus gratté;;il/elle/on ;;;eut gratté;;nous ;;;eûmes gratté;;vous ;;;eûtes gratté;;ils/elles ;;;eurent gratté
-Indicatif Futur Simple;indicatif;;je ;;;gratterai;;tu ;;;gratteras;;il/elle/on ;;;grattera;;nous ;;;gratterons;;vous ;;;gratterez;;ils/elles ;;;gratteront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai gratté;;tu ;;;auras gratté;;il/elle/on ;;;aura gratté;;nous ;;;aurons gratté;;vous ;;;aurez gratté;;ils/elles ;;;auront gratté
-Subjonctif Présent;subjonctif;que ;je ;;;gratte;que ;tu ;;;grattes;qu’;il/elle/on ;;;gratte;que ;nous ;;;grattions;que ;vous ;;;grattiez;qu’;ils/elles ;;;grattent
-Subjonctif Passé;subjonctif;que ;j’;;;aie gratté;que ;tu ;;;aies gratté;qu’;il/elle/on ;;;ait gratté;que ;nous ;;;ayons gratté;que ;vous ;;;ayez gratté;qu’;ils/elles ;;;aient gratté
-Subjonctif Imparfait;subjonctif;que ;je ;;;grattasse;que ;tu ;;;grattasses;qu’;il/elle/on ;;;grattât;que ;nous ;;;grattassions;que ;vous ;;;grattassiez;qu’;ils/elles ;;;grattassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse gratté;que ;tu ;;;eusses gratté;qu’;il/elle/on ;;;eût gratté;que ;nous ;;;eussions gratté;que ;vous ;;;eussiez gratté;qu’;ils/elles ;;;eussent gratté
-Conditionnel Présent;conditionnel;;je ;;;gratterais;;tu ;;;gratterais;;il/elle/on ;;;gratterait;;nous ;;;gratterions;;vous ;;;gratteriez;;ils/elles ;;;gratteraient
-Conditionnel Passé;conditionnel;;j’;;;aurais gratté;;tu ;;;aurais gratté;;il/elle/on ;;;aurait gratté;;nous ;;;aurions gratté;;vous ;;;auriez gratté;;ils/elles ;;;auraient gratté
+Indicatif Présent;indicatif;;je ;;;gratte;;tu ;;;grattes;;il //elle //on ;;;gratte;;nous ;;;grattons;;vous ;;;grattez;;ils //elles ;;;grattent
+Indicatif Passé Composé;indicatif;;j’;;;ai gratté;;tu ;;;as gratté;;il //elle //on ;;;a gratté;;nous ;;;avons gratté;;vous ;;;avez gratté;;ils //elles ;;;ont gratté
+Indicatif Imparfait;indicatif;;je ;;;grattais;;tu ;;;grattais;;il //elle //on ;;;grattait;;nous ;;;grattions;;vous ;;;grattiez;;ils //elles ;;;grattaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais gratté;;tu ;;;avais gratté;;il //elle //on ;;;avait gratté;;nous ;;;avions gratté;;vous ;;;aviez gratté;;ils //elles ;;;avaient gratté
+Indicatif Passé Simple;indicatif;;je ;;;grattai;;tu ;;;grattas;;il //elle //on ;;;gratta;;nous ;;;grattâmes;;vous ;;;grattâtes;;ils //elles ;;;grattèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus gratté;;tu ;;;eus gratté;;il //elle //on ;;;eut gratté;;nous ;;;eûmes gratté;;vous ;;;eûtes gratté;;ils //elles ;;;eurent gratté
+Indicatif Futur Simple;indicatif;;je ;;;gratterai;;tu ;;;gratteras;;il //elle //on ;;;grattera;;nous ;;;gratterons;;vous ;;;gratterez;;ils //elles ;;;gratteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai gratté;;tu ;;;auras gratté;;il //elle //on ;;;aura gratté;;nous ;;;aurons gratté;;vous ;;;aurez gratté;;ils //elles ;;;auront gratté
+Subjonctif Présent;subjonctif;que ;je ;;;gratte;que ;tu ;;;grattes;qu’;il //elle //on ;;;gratte;que ;nous ;;;grattions;que ;vous ;;;grattiez;qu’;ils //elles ;;;grattent
+Subjonctif Passé;subjonctif;que ;j’;;;aie gratté;que ;tu ;;;aies gratté;qu’;il //elle //on ;;;ait gratté;que ;nous ;;;ayons gratté;que ;vous ;;;ayez gratté;qu’;ils //elles ;;;aient gratté
+Subjonctif Imparfait;subjonctif;que ;je ;;;grattasse;que ;tu ;;;grattasses;qu’;il //elle //on ;;;grattât;que ;nous ;;;grattassions;que ;vous ;;;grattassiez;qu’;ils //elles ;;;grattassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse gratté;que ;tu ;;;eusses gratté;qu’;il //elle //on ;;;eût gratté;que ;nous ;;;eussions gratté;que ;vous ;;;eussiez gratté;qu’;ils //elles ;;;eussent gratté
+Conditionnel Présent;conditionnel;;je ;;;gratterais;;tu ;;;gratterais;;il //elle //on ;;;gratterait;;nous ;;;gratterions;;vous ;;;gratteriez;;ils //elles ;;;gratteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais gratté;;tu ;;;aurais gratté;;il //elle //on ;;;aurait gratté;;nous ;;;aurions gratté;;vous ;;;auriez gratté;;ils //elles ;;;auraient gratté
 Impératif Présent;impératif;;;;;;;(tu) ;;;gratte;;;;;;;(nous) ;;;grattons;;(vous) ;;;grattez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie gratté;;;;;;;(nous) ;;;ayons gratté;;(vous) ;;;ayez gratté;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gratte pas ;;;;;;;(nous) ;ne ;;grattons pas ;;(vous) ;ne ;;grattez pas ;;;;;

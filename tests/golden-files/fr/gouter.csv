@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en goutant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant gouté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;goutant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;gouté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;goute;;tu ;;;goutes;;il/elle/on ;;;goute;;nous ;;;goutons;;vous ;;;goutez;;ils/elles ;;;goutent
-Indicatif Passé Composé;indicatif;;j’;;;ai gouté;;tu ;;;as gouté;;il/elle/on ;;;a gouté;;nous ;;;avons gouté;;vous ;;;avez gouté;;ils/elles ;;;ont gouté
-Indicatif Imparfait;indicatif;;je ;;;goutais;;tu ;;;goutais;;il/elle/on ;;;goutait;;nous ;;;goutions;;vous ;;;goutiez;;ils/elles ;;;goutaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais gouté;;tu ;;;avais gouté;;il/elle/on ;;;avait gouté;;nous ;;;avions gouté;;vous ;;;aviez gouté;;ils/elles ;;;avaient gouté
-Indicatif Passé Simple;indicatif;;je ;;;goutai;;tu ;;;goutas;;il/elle/on ;;;gouta;;nous ;;;goutâmes;;vous ;;;goutâtes;;ils/elles ;;;goutèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus gouté;;tu ;;;eus gouté;;il/elle/on ;;;eut gouté;;nous ;;;eûmes gouté;;vous ;;;eûtes gouté;;ils/elles ;;;eurent gouté
-Indicatif Futur Simple;indicatif;;je ;;;gouterai;;tu ;;;gouteras;;il/elle/on ;;;goutera;;nous ;;;gouterons;;vous ;;;gouterez;;ils/elles ;;;gouteront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai gouté;;tu ;;;auras gouté;;il/elle/on ;;;aura gouté;;nous ;;;aurons gouté;;vous ;;;aurez gouté;;ils/elles ;;;auront gouté
-Subjonctif Présent;subjonctif;que ;je ;;;goute;que ;tu ;;;goutes;qu’;il/elle/on ;;;goute;que ;nous ;;;goutions;que ;vous ;;;goutiez;qu’;ils/elles ;;;goutent
-Subjonctif Passé;subjonctif;que ;j’;;;aie gouté;que ;tu ;;;aies gouté;qu’;il/elle/on ;;;ait gouté;que ;nous ;;;ayons gouté;que ;vous ;;;ayez gouté;qu’;ils/elles ;;;aient gouté
-Subjonctif Imparfait;subjonctif;que ;je ;;;goutasse;que ;tu ;;;goutasses;qu’;il/elle/on ;;;goutât;que ;nous ;;;goutassions;que ;vous ;;;goutassiez;qu’;ils/elles ;;;goutassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse gouté;que ;tu ;;;eusses gouté;qu’;il/elle/on ;;;eût gouté;que ;nous ;;;eussions gouté;que ;vous ;;;eussiez gouté;qu’;ils/elles ;;;eussent gouté
-Conditionnel Présent;conditionnel;;je ;;;gouterais;;tu ;;;gouterais;;il/elle/on ;;;gouterait;;nous ;;;gouterions;;vous ;;;gouteriez;;ils/elles ;;;gouteraient
-Conditionnel Passé;conditionnel;;j’;;;aurais gouté;;tu ;;;aurais gouté;;il/elle/on ;;;aurait gouté;;nous ;;;aurions gouté;;vous ;;;auriez gouté;;ils/elles ;;;auraient gouté
+Indicatif Présent;indicatif;;je ;;;goute;;tu ;;;goutes;;il //elle //on ;;;goute;;nous ;;;goutons;;vous ;;;goutez;;ils //elles ;;;goutent
+Indicatif Passé Composé;indicatif;;j’;;;ai gouté;;tu ;;;as gouté;;il //elle //on ;;;a gouté;;nous ;;;avons gouté;;vous ;;;avez gouté;;ils //elles ;;;ont gouté
+Indicatif Imparfait;indicatif;;je ;;;goutais;;tu ;;;goutais;;il //elle //on ;;;goutait;;nous ;;;goutions;;vous ;;;goutiez;;ils //elles ;;;goutaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais gouté;;tu ;;;avais gouté;;il //elle //on ;;;avait gouté;;nous ;;;avions gouté;;vous ;;;aviez gouté;;ils //elles ;;;avaient gouté
+Indicatif Passé Simple;indicatif;;je ;;;goutai;;tu ;;;goutas;;il //elle //on ;;;gouta;;nous ;;;goutâmes;;vous ;;;goutâtes;;ils //elles ;;;goutèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus gouté;;tu ;;;eus gouté;;il //elle //on ;;;eut gouté;;nous ;;;eûmes gouté;;vous ;;;eûtes gouté;;ils //elles ;;;eurent gouté
+Indicatif Futur Simple;indicatif;;je ;;;gouterai;;tu ;;;gouteras;;il //elle //on ;;;goutera;;nous ;;;gouterons;;vous ;;;gouterez;;ils //elles ;;;gouteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai gouté;;tu ;;;auras gouté;;il //elle //on ;;;aura gouté;;nous ;;;aurons gouté;;vous ;;;aurez gouté;;ils //elles ;;;auront gouté
+Subjonctif Présent;subjonctif;que ;je ;;;goute;que ;tu ;;;goutes;qu’;il //elle //on ;;;goute;que ;nous ;;;goutions;que ;vous ;;;goutiez;qu’;ils //elles ;;;goutent
+Subjonctif Passé;subjonctif;que ;j’;;;aie gouté;que ;tu ;;;aies gouté;qu’;il //elle //on ;;;ait gouté;que ;nous ;;;ayons gouté;que ;vous ;;;ayez gouté;qu’;ils //elles ;;;aient gouté
+Subjonctif Imparfait;subjonctif;que ;je ;;;goutasse;que ;tu ;;;goutasses;qu’;il //elle //on ;;;goutât;que ;nous ;;;goutassions;que ;vous ;;;goutassiez;qu’;ils //elles ;;;goutassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse gouté;que ;tu ;;;eusses gouté;qu’;il //elle //on ;;;eût gouté;que ;nous ;;;eussions gouté;que ;vous ;;;eussiez gouté;qu’;ils //elles ;;;eussent gouté
+Conditionnel Présent;conditionnel;;je ;;;gouterais;;tu ;;;gouterais;;il //elle //on ;;;gouterait;;nous ;;;gouterions;;vous ;;;gouteriez;;ils //elles ;;;gouteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais gouté;;tu ;;;aurais gouté;;il //elle //on ;;;aurait gouté;;nous ;;;aurions gouté;;vous ;;;auriez gouté;;ils //elles ;;;auraient gouté
 Impératif Présent;impératif;;;;;;;(tu) ;;;goute;;;;;;;(nous) ;;;goutons;;(vous) ;;;goutez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie gouté;;;;;;;(nous) ;;;ayons gouté;;(vous) ;;;ayez gouté;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;goute pas ;;;;;;;(nous) ;ne ;;goutons pas ;;(vous) ;ne ;;goutez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en philosophaillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant philosophaillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;philosophaillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;philosophaillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;philosophaille;;tu ;;;philosophailles;;il/elle/on ;;;philosophaille;;nous ;;;philosophaillons;;vous ;;;philosophaillez;;ils/elles ;;;philosophaillent
-Indicatif Passé Composé;indicatif;;j’;;;ai philosophaillé;;tu ;;;as philosophaillé;;il/elle/on ;;;a philosophaillé;;nous ;;;avons philosophaillé;;vous ;;;avez philosophaillé;;ils/elles ;;;ont philosophaillé
-Indicatif Imparfait;indicatif;;je ;;;philosophaillais;;tu ;;;philosophaillais;;il/elle/on ;;;philosophaillait;;nous ;;;philosophaillions;;vous ;;;philosophailliez;;ils/elles ;;;philosophaillaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais philosophaillé;;tu ;;;avais philosophaillé;;il/elle/on ;;;avait philosophaillé;;nous ;;;avions philosophaillé;;vous ;;;aviez philosophaillé;;ils/elles ;;;avaient philosophaillé
-Indicatif Passé Simple;indicatif;;je ;;;philosophaillai;;tu ;;;philosophaillas;;il/elle/on ;;;philosophailla;;nous ;;;philosophaillâmes;;vous ;;;philosophaillâtes;;ils/elles ;;;philosophaillèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus philosophaillé;;tu ;;;eus philosophaillé;;il/elle/on ;;;eut philosophaillé;;nous ;;;eûmes philosophaillé;;vous ;;;eûtes philosophaillé;;ils/elles ;;;eurent philosophaillé
-Indicatif Futur Simple;indicatif;;je ;;;philosophaillerai;;tu ;;;philosophailleras;;il/elle/on ;;;philosophaillera;;nous ;;;philosophaillerons;;vous ;;;philosophaillerez;;ils/elles ;;;philosophailleront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai philosophaillé;;tu ;;;auras philosophaillé;;il/elle/on ;;;aura philosophaillé;;nous ;;;aurons philosophaillé;;vous ;;;aurez philosophaillé;;ils/elles ;;;auront philosophaillé
-Subjonctif Présent;subjonctif;que ;je ;;;philosophaille;que ;tu ;;;philosophailles;qu’;il/elle/on ;;;philosophaille;que ;nous ;;;philosophaillions;que ;vous ;;;philosophailliez;qu’;ils/elles ;;;philosophaillent
-Subjonctif Passé;subjonctif;que ;j’;;;aie philosophaillé;que ;tu ;;;aies philosophaillé;qu’;il/elle/on ;;;ait philosophaillé;que ;nous ;;;ayons philosophaillé;que ;vous ;;;ayez philosophaillé;qu’;ils/elles ;;;aient philosophaillé
-Subjonctif Imparfait;subjonctif;que ;je ;;;philosophaillasse;que ;tu ;;;philosophaillasses;qu’;il/elle/on ;;;philosophaillât;que ;nous ;;;philosophaillassions;que ;vous ;;;philosophaillassiez;qu’;ils/elles ;;;philosophaillassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse philosophaillé;que ;tu ;;;eusses philosophaillé;qu’;il/elle/on ;;;eût philosophaillé;que ;nous ;;;eussions philosophaillé;que ;vous ;;;eussiez philosophaillé;qu’;ils/elles ;;;eussent philosophaillé
-Conditionnel Présent;conditionnel;;je ;;;philosophaillerais;;tu ;;;philosophaillerais;;il/elle/on ;;;philosophaillerait;;nous ;;;philosophaillerions;;vous ;;;philosophailleriez;;ils/elles ;;;philosophailleraient
-Conditionnel Passé;conditionnel;;j’;;;aurais philosophaillé;;tu ;;;aurais philosophaillé;;il/elle/on ;;;aurait philosophaillé;;nous ;;;aurions philosophaillé;;vous ;;;auriez philosophaillé;;ils/elles ;;;auraient philosophaillé
+Indicatif Présent;indicatif;;je ;;;philosophaille;;tu ;;;philosophailles;;il //elle //on ;;;philosophaille;;nous ;;;philosophaillons;;vous ;;;philosophaillez;;ils //elles ;;;philosophaillent
+Indicatif Passé Composé;indicatif;;j’;;;ai philosophaillé;;tu ;;;as philosophaillé;;il //elle //on ;;;a philosophaillé;;nous ;;;avons philosophaillé;;vous ;;;avez philosophaillé;;ils //elles ;;;ont philosophaillé
+Indicatif Imparfait;indicatif;;je ;;;philosophaillais;;tu ;;;philosophaillais;;il //elle //on ;;;philosophaillait;;nous ;;;philosophaillions;;vous ;;;philosophailliez;;ils //elles ;;;philosophaillaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais philosophaillé;;tu ;;;avais philosophaillé;;il //elle //on ;;;avait philosophaillé;;nous ;;;avions philosophaillé;;vous ;;;aviez philosophaillé;;ils //elles ;;;avaient philosophaillé
+Indicatif Passé Simple;indicatif;;je ;;;philosophaillai;;tu ;;;philosophaillas;;il //elle //on ;;;philosophailla;;nous ;;;philosophaillâmes;;vous ;;;philosophaillâtes;;ils //elles ;;;philosophaillèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus philosophaillé;;tu ;;;eus philosophaillé;;il //elle //on ;;;eut philosophaillé;;nous ;;;eûmes philosophaillé;;vous ;;;eûtes philosophaillé;;ils //elles ;;;eurent philosophaillé
+Indicatif Futur Simple;indicatif;;je ;;;philosophaillerai;;tu ;;;philosophailleras;;il //elle //on ;;;philosophaillera;;nous ;;;philosophaillerons;;vous ;;;philosophaillerez;;ils //elles ;;;philosophailleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai philosophaillé;;tu ;;;auras philosophaillé;;il //elle //on ;;;aura philosophaillé;;nous ;;;aurons philosophaillé;;vous ;;;aurez philosophaillé;;ils //elles ;;;auront philosophaillé
+Subjonctif Présent;subjonctif;que ;je ;;;philosophaille;que ;tu ;;;philosophailles;qu’;il //elle //on ;;;philosophaille;que ;nous ;;;philosophaillions;que ;vous ;;;philosophailliez;qu’;ils //elles ;;;philosophaillent
+Subjonctif Passé;subjonctif;que ;j’;;;aie philosophaillé;que ;tu ;;;aies philosophaillé;qu’;il //elle //on ;;;ait philosophaillé;que ;nous ;;;ayons philosophaillé;que ;vous ;;;ayez philosophaillé;qu’;ils //elles ;;;aient philosophaillé
+Subjonctif Imparfait;subjonctif;que ;je ;;;philosophaillasse;que ;tu ;;;philosophaillasses;qu’;il //elle //on ;;;philosophaillât;que ;nous ;;;philosophaillassions;que ;vous ;;;philosophaillassiez;qu’;ils //elles ;;;philosophaillassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse philosophaillé;que ;tu ;;;eusses philosophaillé;qu’;il //elle //on ;;;eût philosophaillé;que ;nous ;;;eussions philosophaillé;que ;vous ;;;eussiez philosophaillé;qu’;ils //elles ;;;eussent philosophaillé
+Conditionnel Présent;conditionnel;;je ;;;philosophaillerais;;tu ;;;philosophaillerais;;il //elle //on ;;;philosophaillerait;;nous ;;;philosophaillerions;;vous ;;;philosophailleriez;;ils //elles ;;;philosophailleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais philosophaillé;;tu ;;;aurais philosophaillé;;il //elle //on ;;;aurait philosophaillé;;nous ;;;aurions philosophaillé;;vous ;;;auriez philosophaillé;;ils //elles ;;;auraient philosophaillé
 Impératif Présent;impératif;;;;;;;(tu) ;;;philosophaille;;;;;;;(nous) ;;;philosophaillons;;(vous) ;;;philosophaillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie philosophaillé;;;;;;;(nous) ;;;ayons philosophaillé;;(vous) ;;;ayez philosophaillé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;philosophaille pas ;;;;;;;(nous) ;ne ;;philosophaillons pas ;;(vous) ;ne ;;philosophaillez pas ;;;;;

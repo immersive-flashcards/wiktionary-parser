@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en sauçant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant saucé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;sauçant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;saucé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;sauce;;tu ;;;sauces;;il/elle/on ;;;sauce;;nous ;;;sauçons;;vous ;;;saucez;;ils/elles ;;;saucent
-Indicatif Passé Composé;indicatif;;j’;;;ai saucé;;tu ;;;as saucé;;il/elle/on ;;;a saucé;;nous ;;;avons saucé;;vous ;;;avez saucé;;ils/elles ;;;ont saucé
-Indicatif Imparfait;indicatif;;je ;;;sauçais;;tu ;;;sauçais;;il/elle/on ;;;sauçait;;nous ;;;saucions;;vous ;;;sauciez;;ils/elles ;;;sauçaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais saucé;;tu ;;;avais saucé;;il/elle/on ;;;avait saucé;;nous ;;;avions saucé;;vous ;;;aviez saucé;;ils/elles ;;;avaient saucé
-Indicatif Passé Simple;indicatif;;je ;;;sauçai;;tu ;;;sauças;;il/elle/on ;;;sauça;;nous ;;;sauçâmes;;vous ;;;sauçâtes;;ils/elles ;;;saucèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus saucé;;tu ;;;eus saucé;;il/elle/on ;;;eut saucé;;nous ;;;eûmes saucé;;vous ;;;eûtes saucé;;ils/elles ;;;eurent saucé
-Indicatif Futur Simple;indicatif;;je ;;;saucerai;;tu ;;;sauceras;;il/elle/on ;;;saucera;;nous ;;;saucerons;;vous ;;;saucerez;;ils/elles ;;;sauceront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai saucé;;tu ;;;auras saucé;;il/elle/on ;;;aura saucé;;nous ;;;aurons saucé;;vous ;;;aurez saucé;;ils/elles ;;;auront saucé
-Subjonctif Présent;subjonctif;que ;je ;;;sauce;que ;tu ;;;sauces;qu’;il/elle/on ;;;sauce;que ;nous ;;;saucions;que ;vous ;;;sauciez;qu’;ils/elles ;;;saucent
-Subjonctif Passé;subjonctif;que ;j’;;;aie saucé;que ;tu ;;;aies saucé;qu’;il/elle/on ;;;ait saucé;que ;nous ;;;ayons saucé;que ;vous ;;;ayez saucé;qu’;ils/elles ;;;aient saucé
-Subjonctif Imparfait;subjonctif;que ;je ;;;sauçasse;que ;tu ;;;sauçasses;qu’;il/elle/on ;;;sauçât;que ;nous ;;;sauçassions;que ;vous ;;;sauçassiez;qu’;ils/elles ;;;sauçassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse saucé;que ;tu ;;;eusses saucé;qu’;il/elle/on ;;;eût saucé;que ;nous ;;;eussions saucé;que ;vous ;;;eussiez saucé;qu’;ils/elles ;;;eussent saucé
-Conditionnel Présent;conditionnel;;je ;;;saucerais;;tu ;;;saucerais;;il/elle/on ;;;saucerait;;nous ;;;saucerions;;vous ;;;sauceriez;;ils/elles ;;;sauceraient
-Conditionnel Passé;conditionnel;;j’;;;aurais saucé;;tu ;;;aurais saucé;;il/elle/on ;;;aurait saucé;;nous ;;;aurions saucé;;vous ;;;auriez saucé;;ils/elles ;;;auraient saucé
+Indicatif Présent;indicatif;;je ;;;sauce;;tu ;;;sauces;;il //elle //on ;;;sauce;;nous ;;;sauçons;;vous ;;;saucez;;ils //elles ;;;saucent
+Indicatif Passé Composé;indicatif;;j’;;;ai saucé;;tu ;;;as saucé;;il //elle //on ;;;a saucé;;nous ;;;avons saucé;;vous ;;;avez saucé;;ils //elles ;;;ont saucé
+Indicatif Imparfait;indicatif;;je ;;;sauçais;;tu ;;;sauçais;;il //elle //on ;;;sauçait;;nous ;;;saucions;;vous ;;;sauciez;;ils //elles ;;;sauçaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais saucé;;tu ;;;avais saucé;;il //elle //on ;;;avait saucé;;nous ;;;avions saucé;;vous ;;;aviez saucé;;ils //elles ;;;avaient saucé
+Indicatif Passé Simple;indicatif;;je ;;;sauçai;;tu ;;;sauças;;il //elle //on ;;;sauça;;nous ;;;sauçâmes;;vous ;;;sauçâtes;;ils //elles ;;;saucèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus saucé;;tu ;;;eus saucé;;il //elle //on ;;;eut saucé;;nous ;;;eûmes saucé;;vous ;;;eûtes saucé;;ils //elles ;;;eurent saucé
+Indicatif Futur Simple;indicatif;;je ;;;saucerai;;tu ;;;sauceras;;il //elle //on ;;;saucera;;nous ;;;saucerons;;vous ;;;saucerez;;ils //elles ;;;sauceront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai saucé;;tu ;;;auras saucé;;il //elle //on ;;;aura saucé;;nous ;;;aurons saucé;;vous ;;;aurez saucé;;ils //elles ;;;auront saucé
+Subjonctif Présent;subjonctif;que ;je ;;;sauce;que ;tu ;;;sauces;qu’;il //elle //on ;;;sauce;que ;nous ;;;saucions;que ;vous ;;;sauciez;qu’;ils //elles ;;;saucent
+Subjonctif Passé;subjonctif;que ;j’;;;aie saucé;que ;tu ;;;aies saucé;qu’;il //elle //on ;;;ait saucé;que ;nous ;;;ayons saucé;que ;vous ;;;ayez saucé;qu’;ils //elles ;;;aient saucé
+Subjonctif Imparfait;subjonctif;que ;je ;;;sauçasse;que ;tu ;;;sauçasses;qu’;il //elle //on ;;;sauçât;que ;nous ;;;sauçassions;que ;vous ;;;sauçassiez;qu’;ils //elles ;;;sauçassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse saucé;que ;tu ;;;eusses saucé;qu’;il //elle //on ;;;eût saucé;que ;nous ;;;eussions saucé;que ;vous ;;;eussiez saucé;qu’;ils //elles ;;;eussent saucé
+Conditionnel Présent;conditionnel;;je ;;;saucerais;;tu ;;;saucerais;;il //elle //on ;;;saucerait;;nous ;;;saucerions;;vous ;;;sauceriez;;ils //elles ;;;sauceraient
+Conditionnel Passé;conditionnel;;j’;;;aurais saucé;;tu ;;;aurais saucé;;il //elle //on ;;;aurait saucé;;nous ;;;aurions saucé;;vous ;;;auriez saucé;;ils //elles ;;;auraient saucé
 Impératif Présent;impératif;;;;;;;(tu) ;;;sauce;;;;;;;(nous) ;;;sauçons;;(vous) ;;;saucez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie saucé;;;;;;;(nous) ;;;ayons saucé;;(vous) ;;;ayez saucé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sauce pas ;;;;;;;(nous) ;ne ;;sauçons pas ;;(vous) ;ne ;;saucez pas ;;;;;

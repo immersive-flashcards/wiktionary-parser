@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en caractérisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant caractérisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;caractérisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;caractérisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;caractérise;;tu ;;;caractérises;;il/elle/on ;;;caractérise;;nous ;;;caractérisons;;vous ;;;caractérisez;;ils/elles ;;;caractérisent
-Indicatif Passé Composé;indicatif;;j’;;;ai caractérisé;;tu ;;;as caractérisé;;il/elle/on ;;;a caractérisé;;nous ;;;avons caractérisé;;vous ;;;avez caractérisé;;ils/elles ;;;ont caractérisé
-Indicatif Imparfait;indicatif;;je ;;;caractérisais;;tu ;;;caractérisais;;il/elle/on ;;;caractérisait;;nous ;;;caractérisions;;vous ;;;caractérisiez;;ils/elles ;;;caractérisaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais caractérisé;;tu ;;;avais caractérisé;;il/elle/on ;;;avait caractérisé;;nous ;;;avions caractérisé;;vous ;;;aviez caractérisé;;ils/elles ;;;avaient caractérisé
-Indicatif Passé Simple;indicatif;;je ;;;caractérisai;;tu ;;;caractérisas;;il/elle/on ;;;caractérisa;;nous ;;;caractérisâmes;;vous ;;;caractérisâtes;;ils/elles ;;;caractérisèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus caractérisé;;tu ;;;eus caractérisé;;il/elle/on ;;;eut caractérisé;;nous ;;;eûmes caractérisé;;vous ;;;eûtes caractérisé;;ils/elles ;;;eurent caractérisé
-Indicatif Futur Simple;indicatif;;je ;;;caractériserai;;tu ;;;caractériseras;;il/elle/on ;;;caractérisera;;nous ;;;caractériserons;;vous ;;;caractériserez;;ils/elles ;;;caractériseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai caractérisé;;tu ;;;auras caractérisé;;il/elle/on ;;;aura caractérisé;;nous ;;;aurons caractérisé;;vous ;;;aurez caractérisé;;ils/elles ;;;auront caractérisé
-Subjonctif Présent;subjonctif;que ;je ;;;caractérise;que ;tu ;;;caractérises;qu’;il/elle/on ;;;caractérise;que ;nous ;;;caractérisions;que ;vous ;;;caractérisiez;qu’;ils/elles ;;;caractérisent
-Subjonctif Passé;subjonctif;que ;j’;;;aie caractérisé;que ;tu ;;;aies caractérisé;qu’;il/elle/on ;;;ait caractérisé;que ;nous ;;;ayons caractérisé;que ;vous ;;;ayez caractérisé;qu’;ils/elles ;;;aient caractérisé
-Subjonctif Imparfait;subjonctif;que ;je ;;;caractérisasse;que ;tu ;;;caractérisasses;qu’;il/elle/on ;;;caractérisât;que ;nous ;;;caractérisassions;que ;vous ;;;caractérisassiez;qu’;ils/elles ;;;caractérisassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse caractérisé;que ;tu ;;;eusses caractérisé;qu’;il/elle/on ;;;eût caractérisé;que ;nous ;;;eussions caractérisé;que ;vous ;;;eussiez caractérisé;qu’;ils/elles ;;;eussent caractérisé
-Conditionnel Présent;conditionnel;;je ;;;caractériserais;;tu ;;;caractériserais;;il/elle/on ;;;caractériserait;;nous ;;;caractériserions;;vous ;;;caractériseriez;;ils/elles ;;;caractériseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais caractérisé;;tu ;;;aurais caractérisé;;il/elle/on ;;;aurait caractérisé;;nous ;;;aurions caractérisé;;vous ;;;auriez caractérisé;;ils/elles ;;;auraient caractérisé
+Indicatif Présent;indicatif;;je ;;;caractérise;;tu ;;;caractérises;;il //elle //on ;;;caractérise;;nous ;;;caractérisons;;vous ;;;caractérisez;;ils //elles ;;;caractérisent
+Indicatif Passé Composé;indicatif;;j’;;;ai caractérisé;;tu ;;;as caractérisé;;il //elle //on ;;;a caractérisé;;nous ;;;avons caractérisé;;vous ;;;avez caractérisé;;ils //elles ;;;ont caractérisé
+Indicatif Imparfait;indicatif;;je ;;;caractérisais;;tu ;;;caractérisais;;il //elle //on ;;;caractérisait;;nous ;;;caractérisions;;vous ;;;caractérisiez;;ils //elles ;;;caractérisaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais caractérisé;;tu ;;;avais caractérisé;;il //elle //on ;;;avait caractérisé;;nous ;;;avions caractérisé;;vous ;;;aviez caractérisé;;ils //elles ;;;avaient caractérisé
+Indicatif Passé Simple;indicatif;;je ;;;caractérisai;;tu ;;;caractérisas;;il //elle //on ;;;caractérisa;;nous ;;;caractérisâmes;;vous ;;;caractérisâtes;;ils //elles ;;;caractérisèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus caractérisé;;tu ;;;eus caractérisé;;il //elle //on ;;;eut caractérisé;;nous ;;;eûmes caractérisé;;vous ;;;eûtes caractérisé;;ils //elles ;;;eurent caractérisé
+Indicatif Futur Simple;indicatif;;je ;;;caractériserai;;tu ;;;caractériseras;;il //elle //on ;;;caractérisera;;nous ;;;caractériserons;;vous ;;;caractériserez;;ils //elles ;;;caractériseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai caractérisé;;tu ;;;auras caractérisé;;il //elle //on ;;;aura caractérisé;;nous ;;;aurons caractérisé;;vous ;;;aurez caractérisé;;ils //elles ;;;auront caractérisé
+Subjonctif Présent;subjonctif;que ;je ;;;caractérise;que ;tu ;;;caractérises;qu’;il //elle //on ;;;caractérise;que ;nous ;;;caractérisions;que ;vous ;;;caractérisiez;qu’;ils //elles ;;;caractérisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie caractérisé;que ;tu ;;;aies caractérisé;qu’;il //elle //on ;;;ait caractérisé;que ;nous ;;;ayons caractérisé;que ;vous ;;;ayez caractérisé;qu’;ils //elles ;;;aient caractérisé
+Subjonctif Imparfait;subjonctif;que ;je ;;;caractérisasse;que ;tu ;;;caractérisasses;qu’;il //elle //on ;;;caractérisât;que ;nous ;;;caractérisassions;que ;vous ;;;caractérisassiez;qu’;ils //elles ;;;caractérisassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse caractérisé;que ;tu ;;;eusses caractérisé;qu’;il //elle //on ;;;eût caractérisé;que ;nous ;;;eussions caractérisé;que ;vous ;;;eussiez caractérisé;qu’;ils //elles ;;;eussent caractérisé
+Conditionnel Présent;conditionnel;;je ;;;caractériserais;;tu ;;;caractériserais;;il //elle //on ;;;caractériserait;;nous ;;;caractériserions;;vous ;;;caractériseriez;;ils //elles ;;;caractériseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais caractérisé;;tu ;;;aurais caractérisé;;il //elle //on ;;;aurait caractérisé;;nous ;;;aurions caractérisé;;vous ;;;auriez caractérisé;;ils //elles ;;;auraient caractérisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;caractérise;;;;;;;(nous) ;;;caractérisons;;(vous) ;;;caractérisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie caractérisé;;;;;;;(nous) ;;;ayons caractérisé;;(vous) ;;;ayez caractérisé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;caractérise pas ;;;;;;;(nous) ;ne ;;caractérisons pas ;;(vous) ;ne ;;caractérisez pas ;;;;;

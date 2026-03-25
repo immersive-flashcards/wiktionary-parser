@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en remettant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant remis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;remettant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;remis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;remets;;tu ;;;remets;;il/elle/on ;;;remet;;nous ;;;remettons;;vous ;;;remettez;;ils/elles ;;;remettent
-Indicatif Passé Composé;indicatif;;j’;;;ai remis;;tu ;;;as remis;;il/elle/on ;;;a remis;;nous ;;;avons remis;;vous ;;;avez remis;;ils/elles ;;;ont remis
-Indicatif Imparfait;indicatif;;je ;;;remettais;;tu ;;;remettais;;il/elle/on ;;;remettait;;nous ;;;remettions;;vous ;;;remettiez;;ils/elles ;;;remettaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais remis;;tu ;;;avais remis;;il/elle/on ;;;avait remis;;nous ;;;avions remis;;vous ;;;aviez remis;;ils/elles ;;;avaient remis
-Indicatif Passé Simple;indicatif;;je ;;;remis;;tu ;;;remis;;il/elle/on ;;;remit;;nous ;;;remîmes;;vous ;;;remîtes;;ils/elles ;;;remirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus remis;;tu ;;;eus remis;;il/elle/on ;;;eut remis;;nous ;;;eûmes remis;;vous ;;;eûtes remis;;ils/elles ;;;eurent remis
-Indicatif Futur Simple;indicatif;;je ;;;remettrai;;tu ;;;remettras;;il/elle/on ;;;remettra;;nous ;;;remettrons;;vous ;;;remettrez;;ils/elles ;;;remettront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai remis;;tu ;;;auras remis;;il/elle/on ;;;aura remis;;nous ;;;aurons remis;;vous ;;;aurez remis;;ils/elles ;;;auront remis
-Subjonctif Présent;subjonctif;que ;je ;;;remette;que ;tu ;;;remettes;qu’;il/elle/on ;;;remette;que ;nous ;;;remettions;que ;vous ;;;remettiez;qu’;ils/elles ;;;remettent
-Subjonctif Passé;subjonctif;que ;j’;;;aie remis;que ;tu ;;;aies remis;qu’;il/elle/on ;;;ait remis;que ;nous ;;;ayons remis;que ;vous ;;;ayez remis;qu’;ils/elles ;;;aient remis
-Subjonctif Imparfait;subjonctif;que ;je ;;;remisse;que ;tu ;;;remisses;qu’;il/elle/on ;;;remît;que ;nous ;;;remissions;que ;vous ;;;remissiez;qu’;ils/elles ;;;remissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse remis;que ;tu ;;;eusses remis;qu’;il/elle/on ;;;eût remis;que ;nous ;;;eussions remis;que ;vous ;;;eussiez remis;qu’;ils/elles ;;;eussent remis
-Conditionnel Présent;conditionnel;;je ;;;remettrais;;tu ;;;remettrais;;il/elle/on ;;;remettrait;;nous ;;;remettrions;;vous ;;;remettriez;;ils/elles ;;;remettraient
-Conditionnel Passé;conditionnel;;j’;;;aurais remis;;tu ;;;aurais remis;;il/elle/on ;;;aurait remis;;nous ;;;aurions remis;;vous ;;;auriez remis;;ils/elles ;;;auraient remis
+Indicatif Présent;indicatif;;je ;;;remets;;tu ;;;remets;;il //elle //on ;;;remet;;nous ;;;remettons;;vous ;;;remettez;;ils //elles ;;;remettent
+Indicatif Passé Composé;indicatif;;j’;;;ai remis;;tu ;;;as remis;;il //elle //on ;;;a remis;;nous ;;;avons remis;;vous ;;;avez remis;;ils //elles ;;;ont remis
+Indicatif Imparfait;indicatif;;je ;;;remettais;;tu ;;;remettais;;il //elle //on ;;;remettait;;nous ;;;remettions;;vous ;;;remettiez;;ils //elles ;;;remettaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais remis;;tu ;;;avais remis;;il //elle //on ;;;avait remis;;nous ;;;avions remis;;vous ;;;aviez remis;;ils //elles ;;;avaient remis
+Indicatif Passé Simple;indicatif;;je ;;;remis;;tu ;;;remis;;il //elle //on ;;;remit;;nous ;;;remîmes;;vous ;;;remîtes;;ils //elles ;;;remirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus remis;;tu ;;;eus remis;;il //elle //on ;;;eut remis;;nous ;;;eûmes remis;;vous ;;;eûtes remis;;ils //elles ;;;eurent remis
+Indicatif Futur Simple;indicatif;;je ;;;remettrai;;tu ;;;remettras;;il //elle //on ;;;remettra;;nous ;;;remettrons;;vous ;;;remettrez;;ils //elles ;;;remettront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai remis;;tu ;;;auras remis;;il //elle //on ;;;aura remis;;nous ;;;aurons remis;;vous ;;;aurez remis;;ils //elles ;;;auront remis
+Subjonctif Présent;subjonctif;que ;je ;;;remette;que ;tu ;;;remettes;qu’;il //elle //on ;;;remette;que ;nous ;;;remettions;que ;vous ;;;remettiez;qu’;ils //elles ;;;remettent
+Subjonctif Passé;subjonctif;que ;j’;;;aie remis;que ;tu ;;;aies remis;qu’;il //elle //on ;;;ait remis;que ;nous ;;;ayons remis;que ;vous ;;;ayez remis;qu’;ils //elles ;;;aient remis
+Subjonctif Imparfait;subjonctif;que ;je ;;;remisse;que ;tu ;;;remisses;qu’;il //elle //on ;;;remît;que ;nous ;;;remissions;que ;vous ;;;remissiez;qu’;ils //elles ;;;remissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse remis;que ;tu ;;;eusses remis;qu’;il //elle //on ;;;eût remis;que ;nous ;;;eussions remis;que ;vous ;;;eussiez remis;qu’;ils //elles ;;;eussent remis
+Conditionnel Présent;conditionnel;;je ;;;remettrais;;tu ;;;remettrais;;il //elle //on ;;;remettrait;;nous ;;;remettrions;;vous ;;;remettriez;;ils //elles ;;;remettraient
+Conditionnel Passé;conditionnel;;j’;;;aurais remis;;tu ;;;aurais remis;;il //elle //on ;;;aurait remis;;nous ;;;aurions remis;;vous ;;;auriez remis;;ils //elles ;;;auraient remis
 Impératif Présent;impératif;;;;;;;(tu) ;;;remets;;;;;;;(nous) ;;;remettons;;(vous) ;;;remettez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie remis;;;;;;;(nous) ;;;ayons remis;;(vous) ;;;ayez remis;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;remets pas ;;;;;;;(nous) ;ne ;;remettons pas ;;(vous) ;ne ;;remettez pas ;;;;;

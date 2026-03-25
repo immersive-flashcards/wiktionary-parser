@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en partageant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant partagé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;partageant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;partagé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;partage;;tu ;;;partages;;il/elle/on ;;;partage;;nous ;;;partageons;;vous ;;;partagez;;ils/elles ;;;partagent
-Indicatif Passé Composé;indicatif;;j’;;;ai partagé;;tu ;;;as partagé;;il/elle/on ;;;a partagé;;nous ;;;avons partagé;;vous ;;;avez partagé;;ils/elles ;;;ont partagé
-Indicatif Imparfait;indicatif;;je ;;;partageais;;tu ;;;partageais;;il/elle/on ;;;partageait;;nous ;;;partagions;;vous ;;;partagiez;;ils/elles ;;;partageaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais partagé;;tu ;;;avais partagé;;il/elle/on ;;;avait partagé;;nous ;;;avions partagé;;vous ;;;aviez partagé;;ils/elles ;;;avaient partagé
-Indicatif Passé Simple;indicatif;;je ;;;partageai;;tu ;;;partageas;;il/elle/on ;;;partagea;;nous ;;;partageâmes;;vous ;;;partageâtes;;ils/elles ;;;partagèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus partagé;;tu ;;;eus partagé;;il/elle/on ;;;eut partagé;;nous ;;;eûmes partagé;;vous ;;;eûtes partagé;;ils/elles ;;;eurent partagé
-Indicatif Futur Simple;indicatif;;je ;;;partagerai;;tu ;;;partageras;;il/elle/on ;;;partagera;;nous ;;;partagerons;;vous ;;;partagerez;;ils/elles ;;;partageront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai partagé;;tu ;;;auras partagé;;il/elle/on ;;;aura partagé;;nous ;;;aurons partagé;;vous ;;;aurez partagé;;ils/elles ;;;auront partagé
-Subjonctif Présent;subjonctif;que ;je ;;;partage;que ;tu ;;;partages;qu’;il/elle/on ;;;partage;que ;nous ;;;partagions;que ;vous ;;;partagiez;qu’;ils/elles ;;;partagent
-Subjonctif Passé;subjonctif;que ;j’;;;aie partagé;que ;tu ;;;aies partagé;qu’;il/elle/on ;;;ait partagé;que ;nous ;;;ayons partagé;que ;vous ;;;ayez partagé;qu’;ils/elles ;;;aient partagé
-Subjonctif Imparfait;subjonctif;que ;je ;;;partageasse;que ;tu ;;;partageasses;qu’;il/elle/on ;;;partageât;que ;nous ;;;partageassions;que ;vous ;;;partageassiez;qu’;ils/elles ;;;partageassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse partagé;que ;tu ;;;eusses partagé;qu’;il/elle/on ;;;eût partagé;que ;nous ;;;eussions partagé;que ;vous ;;;eussiez partagé;qu’;ils/elles ;;;eussent partagé
-Conditionnel Présent;conditionnel;;je ;;;partagerais;;tu ;;;partagerais;;il/elle/on ;;;partagerait;;nous ;;;partagerions;;vous ;;;partageriez;;ils/elles ;;;partageraient
-Conditionnel Passé;conditionnel;;j’;;;aurais partagé;;tu ;;;aurais partagé;;il/elle/on ;;;aurait partagé;;nous ;;;aurions partagé;;vous ;;;auriez partagé;;ils/elles ;;;auraient partagé
+Indicatif Présent;indicatif;;je ;;;partage;;tu ;;;partages;;il //elle //on ;;;partage;;nous ;;;partageons;;vous ;;;partagez;;ils //elles ;;;partagent
+Indicatif Passé Composé;indicatif;;j’;;;ai partagé;;tu ;;;as partagé;;il //elle //on ;;;a partagé;;nous ;;;avons partagé;;vous ;;;avez partagé;;ils //elles ;;;ont partagé
+Indicatif Imparfait;indicatif;;je ;;;partageais;;tu ;;;partageais;;il //elle //on ;;;partageait;;nous ;;;partagions;;vous ;;;partagiez;;ils //elles ;;;partageaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais partagé;;tu ;;;avais partagé;;il //elle //on ;;;avait partagé;;nous ;;;avions partagé;;vous ;;;aviez partagé;;ils //elles ;;;avaient partagé
+Indicatif Passé Simple;indicatif;;je ;;;partageai;;tu ;;;partageas;;il //elle //on ;;;partagea;;nous ;;;partageâmes;;vous ;;;partageâtes;;ils //elles ;;;partagèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus partagé;;tu ;;;eus partagé;;il //elle //on ;;;eut partagé;;nous ;;;eûmes partagé;;vous ;;;eûtes partagé;;ils //elles ;;;eurent partagé
+Indicatif Futur Simple;indicatif;;je ;;;partagerai;;tu ;;;partageras;;il //elle //on ;;;partagera;;nous ;;;partagerons;;vous ;;;partagerez;;ils //elles ;;;partageront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai partagé;;tu ;;;auras partagé;;il //elle //on ;;;aura partagé;;nous ;;;aurons partagé;;vous ;;;aurez partagé;;ils //elles ;;;auront partagé
+Subjonctif Présent;subjonctif;que ;je ;;;partage;que ;tu ;;;partages;qu’;il //elle //on ;;;partage;que ;nous ;;;partagions;que ;vous ;;;partagiez;qu’;ils //elles ;;;partagent
+Subjonctif Passé;subjonctif;que ;j’;;;aie partagé;que ;tu ;;;aies partagé;qu’;il //elle //on ;;;ait partagé;que ;nous ;;;ayons partagé;que ;vous ;;;ayez partagé;qu’;ils //elles ;;;aient partagé
+Subjonctif Imparfait;subjonctif;que ;je ;;;partageasse;que ;tu ;;;partageasses;qu’;il //elle //on ;;;partageât;que ;nous ;;;partageassions;que ;vous ;;;partageassiez;qu’;ils //elles ;;;partageassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse partagé;que ;tu ;;;eusses partagé;qu’;il //elle //on ;;;eût partagé;que ;nous ;;;eussions partagé;que ;vous ;;;eussiez partagé;qu’;ils //elles ;;;eussent partagé
+Conditionnel Présent;conditionnel;;je ;;;partagerais;;tu ;;;partagerais;;il //elle //on ;;;partagerait;;nous ;;;partagerions;;vous ;;;partageriez;;ils //elles ;;;partageraient
+Conditionnel Passé;conditionnel;;j’;;;aurais partagé;;tu ;;;aurais partagé;;il //elle //on ;;;aurait partagé;;nous ;;;aurions partagé;;vous ;;;auriez partagé;;ils //elles ;;;auraient partagé
 Impératif Présent;impératif;;;;;;;(tu) ;;;partage;;;;;;;(nous) ;;;partageons;;(vous) ;;;partagez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie partagé;;;;;;;(nous) ;;;ayons partagé;;(vous) ;;;ayez partagé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;partage pas ;;;;;;;(nous) ;ne ;;partageons pas ;;(vous) ;ne ;;partagez pas ;;;;;

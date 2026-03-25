@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en entrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en étant entré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;entrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;entré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;entre;;tu ;;;entres;;il/elle/on ;;;entre;;nous ;;;entrons;;vous ;;;entrez;;ils/elles ;;;entrent
-Indicatif Passé Composé;indicatif;;je ;;;suis entré;;tu ;;;es entré;;il/elle/on ;;;est entré;;nous ;;;sommes entrés;;vous ;;;êtes entrés;;ils/elles ;;;sont entrés
-Indicatif Imparfait;indicatif;;j’;;;entrais;;tu ;;;entrais;;il/elle/on ;;;entrait;;nous ;;;entrions;;vous ;;;entriez;;ils/elles ;;;entraient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais entré;;tu ;;;étais entré;;il/elle/on ;;;était entré;;nous ;;;étions entrés;;vous ;;;étiez entrés;;ils/elles ;;;étaient entrés
-Indicatif Passé Simple;indicatif;;j’;;;entrai;;tu ;;;entras;;il/elle/on ;;;entra;;nous ;;;entrâmes;;vous ;;;entrâtes;;ils/elles ;;;entrèrent
-Indicatif Passé Antérieur;indicatif;;je ;;;fus entré;;tu ;;;fus entré;;il/elle/on ;;;fut entré;;nous ;;;fûmes entrés;;vous ;;;fûtes entrés;;ils/elles ;;;furent entrés
-Indicatif Futur Simple;indicatif;;j’;;;entrerai;;tu ;;;entreras;;il/elle/on ;;;entrera;;nous ;;;entrerons;;vous ;;;entrerez;;ils/elles ;;;entreront
-Indicatif Futur Antérieur;indicatif;;je ;;;serai entré;;tu ;;;seras entré;;il/elle/on ;;;sera entré;;nous ;;;serons entrés;;vous ;;;serez entrés;;ils/elles ;;;seront entrés
-Subjonctif Présent;subjonctif;que ;j’;;;entre;que ;tu ;;;entres;qu’;il/elle/on ;;;entre;que ;nous ;;;entrions;que ;vous ;;;entriez;qu’;ils/elles ;;;entrent
-Subjonctif Passé;subjonctif;que ;je ;;;sois entré;que ;tu ;;;sois entré;qu’;il/elle/on ;;;soit entré;que ;nous ;;;soyons entrés;que ;vous ;;;soyez entrés;qu’;ils/elles ;;;soient entrés
-Subjonctif Imparfait;subjonctif;que ;j’;;;entrasse;que ;tu ;;;entrasses;qu’;il/elle/on ;;;entrât;que ;nous ;;;entrassions;que ;vous ;;;entrassiez;qu’;ils/elles ;;;entrassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse entré;que ;tu ;;;fusses entré;qu’;il/elle/on ;;;fût entré;que ;nous ;;;fussions entrés;que ;vous ;;;fussiez entrés;qu’;ils/elles ;;;fussent entrés
-Conditionnel Présent;conditionnel;;j’;;;entrerais;;tu ;;;entrerais;;il/elle/on ;;;entrerait;;nous ;;;entrerions;;vous ;;;entreriez;;ils/elles ;;;entreraient
-Conditionnel Passé;conditionnel;;je ;;;serais entré;;tu ;;;serais entré;;il/elle/on ;;;serait entré;;nous ;;;serions entrés;;vous ;;;seriez entrés;;ils/elles ;;;seraient entrés
+Indicatif Présent;indicatif;;j’;;;entre;;tu ;;;entres;;il //elle //on ;;;entre;;nous ;;;entrons;;vous ;;;entrez;;ils //elles ;;;entrent
+Indicatif Passé Composé;indicatif;;je ;;;suis entré;;tu ;;;es entré;;il //elle //on ;;;est entré;;nous ;;;sommes entrés;;vous ;;;êtes entrés;;ils //elles ;;;sont entrés
+Indicatif Imparfait;indicatif;;j’;;;entrais;;tu ;;;entrais;;il //elle //on ;;;entrait;;nous ;;;entrions;;vous ;;;entriez;;ils //elles ;;;entraient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais entré;;tu ;;;étais entré;;il //elle //on ;;;était entré;;nous ;;;étions entrés;;vous ;;;étiez entrés;;ils //elles ;;;étaient entrés
+Indicatif Passé Simple;indicatif;;j’;;;entrai;;tu ;;;entras;;il //elle //on ;;;entra;;nous ;;;entrâmes;;vous ;;;entrâtes;;ils //elles ;;;entrèrent
+Indicatif Passé Antérieur;indicatif;;je ;;;fus entré;;tu ;;;fus entré;;il //elle //on ;;;fut entré;;nous ;;;fûmes entrés;;vous ;;;fûtes entrés;;ils //elles ;;;furent entrés
+Indicatif Futur Simple;indicatif;;j’;;;entrerai;;tu ;;;entreras;;il //elle //on ;;;entrera;;nous ;;;entrerons;;vous ;;;entrerez;;ils //elles ;;;entreront
+Indicatif Futur Antérieur;indicatif;;je ;;;serai entré;;tu ;;;seras entré;;il //elle //on ;;;sera entré;;nous ;;;serons entrés;;vous ;;;serez entrés;;ils //elles ;;;seront entrés
+Subjonctif Présent;subjonctif;que ;j’;;;entre;que ;tu ;;;entres;qu’;il //elle //on ;;;entre;que ;nous ;;;entrions;que ;vous ;;;entriez;qu’;ils //elles ;;;entrent
+Subjonctif Passé;subjonctif;que ;je ;;;sois entré;que ;tu ;;;sois entré;qu’;il //elle //on ;;;soit entré;que ;nous ;;;soyons entrés;que ;vous ;;;soyez entrés;qu’;ils //elles ;;;soient entrés
+Subjonctif Imparfait;subjonctif;que ;j’;;;entrasse;que ;tu ;;;entrasses;qu’;il //elle //on ;;;entrât;que ;nous ;;;entrassions;que ;vous ;;;entrassiez;qu’;ils //elles ;;;entrassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse entré;que ;tu ;;;fusses entré;qu’;il //elle //on ;;;fût entré;que ;nous ;;;fussions entrés;que ;vous ;;;fussiez entrés;qu’;ils //elles ;;;fussent entrés
+Conditionnel Présent;conditionnel;;j’;;;entrerais;;tu ;;;entrerais;;il //elle //on ;;;entrerait;;nous ;;;entrerions;;vous ;;;entreriez;;ils //elles ;;;entreraient
+Conditionnel Passé;conditionnel;;je ;;;serais entré;;tu ;;;serais entré;;il //elle //on ;;;serait entré;;nous ;;;serions entrés;;vous ;;;seriez entrés;;ils //elles ;;;seraient entrés
 Impératif Présent;impératif;;;;;;;(tu) ;;;entre;;;;;;;(nous) ;;;entrons;;(vous) ;;;entrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois entré;;;;;;;(nous) ;;;soyons entrés;;(vous) ;;;soyez entrés;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;entre pas ;;;;;;;(nous) ;n';;entrons pas ;;(vous) ;n';;entrez pas ;;;;;

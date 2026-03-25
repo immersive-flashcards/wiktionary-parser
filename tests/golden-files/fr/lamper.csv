@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en lampant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant lampé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;lampant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;lampé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;lampe;;tu ;;;lampes;;il/elle/on ;;;lampe;;nous ;;;lampons;;vous ;;;lampez;;ils/elles ;;;lampent
-Indicatif Passé Composé;indicatif;;j’;;;ai lampé;;tu ;;;as lampé;;il/elle/on ;;;a lampé;;nous ;;;avons lampé;;vous ;;;avez lampé;;ils/elles ;;;ont lampé
-Indicatif Imparfait;indicatif;;je ;;;lampais;;tu ;;;lampais;;il/elle/on ;;;lampait;;nous ;;;lampions;;vous ;;;lampiez;;ils/elles ;;;lampaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais lampé;;tu ;;;avais lampé;;il/elle/on ;;;avait lampé;;nous ;;;avions lampé;;vous ;;;aviez lampé;;ils/elles ;;;avaient lampé
-Indicatif Passé Simple;indicatif;;je ;;;lampai;;tu ;;;lampas;;il/elle/on ;;;lampa;;nous ;;;lampâmes;;vous ;;;lampâtes;;ils/elles ;;;lampèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus lampé;;tu ;;;eus lampé;;il/elle/on ;;;eut lampé;;nous ;;;eûmes lampé;;vous ;;;eûtes lampé;;ils/elles ;;;eurent lampé
-Indicatif Futur Simple;indicatif;;je ;;;lamperai;;tu ;;;lamperas;;il/elle/on ;;;lampera;;nous ;;;lamperons;;vous ;;;lamperez;;ils/elles ;;;lamperont
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai lampé;;tu ;;;auras lampé;;il/elle/on ;;;aura lampé;;nous ;;;aurons lampé;;vous ;;;aurez lampé;;ils/elles ;;;auront lampé
-Subjonctif Présent;subjonctif;que ;je ;;;lampe;que ;tu ;;;lampes;qu’;il/elle/on ;;;lampe;que ;nous ;;;lampions;que ;vous ;;;lampiez;qu’;ils/elles ;;;lampent
-Subjonctif Passé;subjonctif;que ;j’;;;aie lampé;que ;tu ;;;aies lampé;qu’;il/elle/on ;;;ait lampé;que ;nous ;;;ayons lampé;que ;vous ;;;ayez lampé;qu’;ils/elles ;;;aient lampé
-Subjonctif Imparfait;subjonctif;que ;je ;;;lampasse;que ;tu ;;;lampasses;qu’;il/elle/on ;;;lampât;que ;nous ;;;lampassions;que ;vous ;;;lampassiez;qu’;ils/elles ;;;lampassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse lampé;que ;tu ;;;eusses lampé;qu’;il/elle/on ;;;eût lampé;que ;nous ;;;eussions lampé;que ;vous ;;;eussiez lampé;qu’;ils/elles ;;;eussent lampé
-Conditionnel Présent;conditionnel;;je ;;;lamperais;;tu ;;;lamperais;;il/elle/on ;;;lamperait;;nous ;;;lamperions;;vous ;;;lamperiez;;ils/elles ;;;lamperaient
-Conditionnel Passé;conditionnel;;j’;;;aurais lampé;;tu ;;;aurais lampé;;il/elle/on ;;;aurait lampé;;nous ;;;aurions lampé;;vous ;;;auriez lampé;;ils/elles ;;;auraient lampé
+Indicatif Présent;indicatif;;je ;;;lampe;;tu ;;;lampes;;il //elle //on ;;;lampe;;nous ;;;lampons;;vous ;;;lampez;;ils //elles ;;;lampent
+Indicatif Passé Composé;indicatif;;j’;;;ai lampé;;tu ;;;as lampé;;il //elle //on ;;;a lampé;;nous ;;;avons lampé;;vous ;;;avez lampé;;ils //elles ;;;ont lampé
+Indicatif Imparfait;indicatif;;je ;;;lampais;;tu ;;;lampais;;il //elle //on ;;;lampait;;nous ;;;lampions;;vous ;;;lampiez;;ils //elles ;;;lampaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais lampé;;tu ;;;avais lampé;;il //elle //on ;;;avait lampé;;nous ;;;avions lampé;;vous ;;;aviez lampé;;ils //elles ;;;avaient lampé
+Indicatif Passé Simple;indicatif;;je ;;;lampai;;tu ;;;lampas;;il //elle //on ;;;lampa;;nous ;;;lampâmes;;vous ;;;lampâtes;;ils //elles ;;;lampèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus lampé;;tu ;;;eus lampé;;il //elle //on ;;;eut lampé;;nous ;;;eûmes lampé;;vous ;;;eûtes lampé;;ils //elles ;;;eurent lampé
+Indicatif Futur Simple;indicatif;;je ;;;lamperai;;tu ;;;lamperas;;il //elle //on ;;;lampera;;nous ;;;lamperons;;vous ;;;lamperez;;ils //elles ;;;lamperont
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai lampé;;tu ;;;auras lampé;;il //elle //on ;;;aura lampé;;nous ;;;aurons lampé;;vous ;;;aurez lampé;;ils //elles ;;;auront lampé
+Subjonctif Présent;subjonctif;que ;je ;;;lampe;que ;tu ;;;lampes;qu’;il //elle //on ;;;lampe;que ;nous ;;;lampions;que ;vous ;;;lampiez;qu’;ils //elles ;;;lampent
+Subjonctif Passé;subjonctif;que ;j’;;;aie lampé;que ;tu ;;;aies lampé;qu’;il //elle //on ;;;ait lampé;que ;nous ;;;ayons lampé;que ;vous ;;;ayez lampé;qu’;ils //elles ;;;aient lampé
+Subjonctif Imparfait;subjonctif;que ;je ;;;lampasse;que ;tu ;;;lampasses;qu’;il //elle //on ;;;lampât;que ;nous ;;;lampassions;que ;vous ;;;lampassiez;qu’;ils //elles ;;;lampassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse lampé;que ;tu ;;;eusses lampé;qu’;il //elle //on ;;;eût lampé;que ;nous ;;;eussions lampé;que ;vous ;;;eussiez lampé;qu’;ils //elles ;;;eussent lampé
+Conditionnel Présent;conditionnel;;je ;;;lamperais;;tu ;;;lamperais;;il //elle //on ;;;lamperait;;nous ;;;lamperions;;vous ;;;lamperiez;;ils //elles ;;;lamperaient
+Conditionnel Passé;conditionnel;;j’;;;aurais lampé;;tu ;;;aurais lampé;;il //elle //on ;;;aurait lampé;;nous ;;;aurions lampé;;vous ;;;auriez lampé;;ils //elles ;;;auraient lampé
 Impératif Présent;impératif;;;;;;;(tu) ;;;lampe;;;;;;;(nous) ;;;lampons;;(vous) ;;;lampez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie lampé;;;;;;;(nous) ;;;ayons lampé;;(vous) ;;;ayez lampé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;lampe pas ;;;;;;;(nous) ;ne ;;lampons pas ;;(vous) ;ne ;;lampez pas ;;;;;

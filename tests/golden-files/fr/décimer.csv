@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en décimant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant décimé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;décimant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;décimé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;décime;;tu ;;;décimes;;il/elle/on ;;;décime;;nous ;;;décimons;;vous ;;;décimez;;ils/elles ;;;déciment
-Indicatif Passé Composé;indicatif;;j’;;;ai décimé;;tu ;;;as décimé;;il/elle/on ;;;a décimé;;nous ;;;avons décimé;;vous ;;;avez décimé;;ils/elles ;;;ont décimé
-Indicatif Imparfait;indicatif;;je ;;;décimais;;tu ;;;décimais;;il/elle/on ;;;décimait;;nous ;;;décimions;;vous ;;;décimiez;;ils/elles ;;;décimaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais décimé;;tu ;;;avais décimé;;il/elle/on ;;;avait décimé;;nous ;;;avions décimé;;vous ;;;aviez décimé;;ils/elles ;;;avaient décimé
-Indicatif Passé Simple;indicatif;;je ;;;décimai;;tu ;;;décimas;;il/elle/on ;;;décima;;nous ;;;décimâmes;;vous ;;;décimâtes;;ils/elles ;;;décimèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus décimé;;tu ;;;eus décimé;;il/elle/on ;;;eut décimé;;nous ;;;eûmes décimé;;vous ;;;eûtes décimé;;ils/elles ;;;eurent décimé
-Indicatif Futur Simple;indicatif;;je ;;;décimerai;;tu ;;;décimeras;;il/elle/on ;;;décimera;;nous ;;;décimerons;;vous ;;;décimerez;;ils/elles ;;;décimeront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai décimé;;tu ;;;auras décimé;;il/elle/on ;;;aura décimé;;nous ;;;aurons décimé;;vous ;;;aurez décimé;;ils/elles ;;;auront décimé
-Subjonctif Présent;subjonctif;que ;je ;;;décime;que ;tu ;;;décimes;qu’;il/elle/on ;;;décime;que ;nous ;;;décimions;que ;vous ;;;décimiez;qu’;ils/elles ;;;déciment
-Subjonctif Passé;subjonctif;que ;j’;;;aie décimé;que ;tu ;;;aies décimé;qu’;il/elle/on ;;;ait décimé;que ;nous ;;;ayons décimé;que ;vous ;;;ayez décimé;qu’;ils/elles ;;;aient décimé
-Subjonctif Imparfait;subjonctif;que ;je ;;;décimasse;que ;tu ;;;décimasses;qu’;il/elle/on ;;;décimât;que ;nous ;;;décimassions;que ;vous ;;;décimassiez;qu’;ils/elles ;;;décimassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse décimé;que ;tu ;;;eusses décimé;qu’;il/elle/on ;;;eût décimé;que ;nous ;;;eussions décimé;que ;vous ;;;eussiez décimé;qu’;ils/elles ;;;eussent décimé
-Conditionnel Présent;conditionnel;;je ;;;décimerais;;tu ;;;décimerais;;il/elle/on ;;;décimerait;;nous ;;;décimerions;;vous ;;;décimeriez;;ils/elles ;;;décimeraient
-Conditionnel Passé;conditionnel;;j’;;;aurais décimé;;tu ;;;aurais décimé;;il/elle/on ;;;aurait décimé;;nous ;;;aurions décimé;;vous ;;;auriez décimé;;ils/elles ;;;auraient décimé
+Indicatif Présent;indicatif;;je ;;;décime;;tu ;;;décimes;;il //elle //on ;;;décime;;nous ;;;décimons;;vous ;;;décimez;;ils //elles ;;;déciment
+Indicatif Passé Composé;indicatif;;j’;;;ai décimé;;tu ;;;as décimé;;il //elle //on ;;;a décimé;;nous ;;;avons décimé;;vous ;;;avez décimé;;ils //elles ;;;ont décimé
+Indicatif Imparfait;indicatif;;je ;;;décimais;;tu ;;;décimais;;il //elle //on ;;;décimait;;nous ;;;décimions;;vous ;;;décimiez;;ils //elles ;;;décimaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais décimé;;tu ;;;avais décimé;;il //elle //on ;;;avait décimé;;nous ;;;avions décimé;;vous ;;;aviez décimé;;ils //elles ;;;avaient décimé
+Indicatif Passé Simple;indicatif;;je ;;;décimai;;tu ;;;décimas;;il //elle //on ;;;décima;;nous ;;;décimâmes;;vous ;;;décimâtes;;ils //elles ;;;décimèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus décimé;;tu ;;;eus décimé;;il //elle //on ;;;eut décimé;;nous ;;;eûmes décimé;;vous ;;;eûtes décimé;;ils //elles ;;;eurent décimé
+Indicatif Futur Simple;indicatif;;je ;;;décimerai;;tu ;;;décimeras;;il //elle //on ;;;décimera;;nous ;;;décimerons;;vous ;;;décimerez;;ils //elles ;;;décimeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai décimé;;tu ;;;auras décimé;;il //elle //on ;;;aura décimé;;nous ;;;aurons décimé;;vous ;;;aurez décimé;;ils //elles ;;;auront décimé
+Subjonctif Présent;subjonctif;que ;je ;;;décime;que ;tu ;;;décimes;qu’;il //elle //on ;;;décime;que ;nous ;;;décimions;que ;vous ;;;décimiez;qu’;ils //elles ;;;déciment
+Subjonctif Passé;subjonctif;que ;j’;;;aie décimé;que ;tu ;;;aies décimé;qu’;il //elle //on ;;;ait décimé;que ;nous ;;;ayons décimé;que ;vous ;;;ayez décimé;qu’;ils //elles ;;;aient décimé
+Subjonctif Imparfait;subjonctif;que ;je ;;;décimasse;que ;tu ;;;décimasses;qu’;il //elle //on ;;;décimât;que ;nous ;;;décimassions;que ;vous ;;;décimassiez;qu’;ils //elles ;;;décimassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse décimé;que ;tu ;;;eusses décimé;qu’;il //elle //on ;;;eût décimé;que ;nous ;;;eussions décimé;que ;vous ;;;eussiez décimé;qu’;ils //elles ;;;eussent décimé
+Conditionnel Présent;conditionnel;;je ;;;décimerais;;tu ;;;décimerais;;il //elle //on ;;;décimerait;;nous ;;;décimerions;;vous ;;;décimeriez;;ils //elles ;;;décimeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais décimé;;tu ;;;aurais décimé;;il //elle //on ;;;aurait décimé;;nous ;;;aurions décimé;;vous ;;;auriez décimé;;ils //elles ;;;auraient décimé
 Impératif Présent;impératif;;;;;;;(tu) ;;;décime;;;;;;;(nous) ;;;décimons;;(vous) ;;;décimez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie décimé;;;;;;;(nous) ;;;ayons décimé;;(vous) ;;;ayez décimé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;décime pas ;;;;;;;(nous) ;ne ;;décimons pas ;;(vous) ;ne ;;décimez pas ;;;;;

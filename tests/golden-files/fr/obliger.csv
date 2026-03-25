@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en obligeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant obligé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;obligeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;obligé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;oblige;;tu ;;;obliges;;il/elle/on ;;;oblige;;nous ;;;obligeons;;vous ;;;obligez;;ils/elles ;;;obligent
-Indicatif Passé Composé;indicatif;;j’;;;ai obligé;;tu ;;;as obligé;;il/elle/on ;;;a obligé;;nous ;;;avons obligé;;vous ;;;avez obligé;;ils/elles ;;;ont obligé
-Indicatif Imparfait;indicatif;;j’;;;obligeais;;tu ;;;obligeais;;il/elle/on ;;;obligeait;;nous ;;;obligions;;vous ;;;obligiez;;ils/elles ;;;obligeaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais obligé;;tu ;;;avais obligé;;il/elle/on ;;;avait obligé;;nous ;;;avions obligé;;vous ;;;aviez obligé;;ils/elles ;;;avaient obligé
-Indicatif Passé Simple;indicatif;;j’;;;obligeai;;tu ;;;obligeas;;il/elle/on ;;;obligea;;nous ;;;obligeâmes;;vous ;;;obligeâtes;;ils/elles ;;;obligèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus obligé;;tu ;;;eus obligé;;il/elle/on ;;;eut obligé;;nous ;;;eûmes obligé;;vous ;;;eûtes obligé;;ils/elles ;;;eurent obligé
-Indicatif Futur Simple;indicatif;;j’;;;obligerai;;tu ;;;obligeras;;il/elle/on ;;;obligera;;nous ;;;obligerons;;vous ;;;obligerez;;ils/elles ;;;obligeront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai obligé;;tu ;;;auras obligé;;il/elle/on ;;;aura obligé;;nous ;;;aurons obligé;;vous ;;;aurez obligé;;ils/elles ;;;auront obligé
-Subjonctif Présent;subjonctif;que ;j’;;;oblige;que ;tu ;;;obliges;qu’;il/elle/on ;;;oblige;que ;nous ;;;obligions;que ;vous ;;;obligiez;qu’;ils/elles ;;;obligent
-Subjonctif Passé;subjonctif;que ;j’;;;aie obligé;que ;tu ;;;aies obligé;qu’;il/elle/on ;;;ait obligé;que ;nous ;;;ayons obligé;que ;vous ;;;ayez obligé;qu’;ils/elles ;;;aient obligé
-Subjonctif Imparfait;subjonctif;que ;j’;;;obligeasse;que ;tu ;;;obligeasses;qu’;il/elle/on ;;;obligeât;que ;nous ;;;obligeassions;que ;vous ;;;obligeassiez;qu’;ils/elles ;;;obligeassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse obligé;que ;tu ;;;eusses obligé;qu’;il/elle/on ;;;eût obligé;que ;nous ;;;eussions obligé;que ;vous ;;;eussiez obligé;qu’;ils/elles ;;;eussent obligé
-Conditionnel Présent;conditionnel;;j’;;;obligerais;;tu ;;;obligerais;;il/elle/on ;;;obligerait;;nous ;;;obligerions;;vous ;;;obligeriez;;ils/elles ;;;obligeraient
-Conditionnel Passé;conditionnel;;j’;;;aurais obligé;;tu ;;;aurais obligé;;il/elle/on ;;;aurait obligé;;nous ;;;aurions obligé;;vous ;;;auriez obligé;;ils/elles ;;;auraient obligé
+Indicatif Présent;indicatif;;j’;;;oblige;;tu ;;;obliges;;il //elle //on ;;;oblige;;nous ;;;obligeons;;vous ;;;obligez;;ils //elles ;;;obligent
+Indicatif Passé Composé;indicatif;;j’;;;ai obligé;;tu ;;;as obligé;;il //elle //on ;;;a obligé;;nous ;;;avons obligé;;vous ;;;avez obligé;;ils //elles ;;;ont obligé
+Indicatif Imparfait;indicatif;;j’;;;obligeais;;tu ;;;obligeais;;il //elle //on ;;;obligeait;;nous ;;;obligions;;vous ;;;obligiez;;ils //elles ;;;obligeaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais obligé;;tu ;;;avais obligé;;il //elle //on ;;;avait obligé;;nous ;;;avions obligé;;vous ;;;aviez obligé;;ils //elles ;;;avaient obligé
+Indicatif Passé Simple;indicatif;;j’;;;obligeai;;tu ;;;obligeas;;il //elle //on ;;;obligea;;nous ;;;obligeâmes;;vous ;;;obligeâtes;;ils //elles ;;;obligèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus obligé;;tu ;;;eus obligé;;il //elle //on ;;;eut obligé;;nous ;;;eûmes obligé;;vous ;;;eûtes obligé;;ils //elles ;;;eurent obligé
+Indicatif Futur Simple;indicatif;;j’;;;obligerai;;tu ;;;obligeras;;il //elle //on ;;;obligera;;nous ;;;obligerons;;vous ;;;obligerez;;ils //elles ;;;obligeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai obligé;;tu ;;;auras obligé;;il //elle //on ;;;aura obligé;;nous ;;;aurons obligé;;vous ;;;aurez obligé;;ils //elles ;;;auront obligé
+Subjonctif Présent;subjonctif;que ;j’;;;oblige;que ;tu ;;;obliges;qu’;il //elle //on ;;;oblige;que ;nous ;;;obligions;que ;vous ;;;obligiez;qu’;ils //elles ;;;obligent
+Subjonctif Passé;subjonctif;que ;j’;;;aie obligé;que ;tu ;;;aies obligé;qu’;il //elle //on ;;;ait obligé;que ;nous ;;;ayons obligé;que ;vous ;;;ayez obligé;qu’;ils //elles ;;;aient obligé
+Subjonctif Imparfait;subjonctif;que ;j’;;;obligeasse;que ;tu ;;;obligeasses;qu’;il //elle //on ;;;obligeât;que ;nous ;;;obligeassions;que ;vous ;;;obligeassiez;qu’;ils //elles ;;;obligeassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse obligé;que ;tu ;;;eusses obligé;qu’;il //elle //on ;;;eût obligé;que ;nous ;;;eussions obligé;que ;vous ;;;eussiez obligé;qu’;ils //elles ;;;eussent obligé
+Conditionnel Présent;conditionnel;;j’;;;obligerais;;tu ;;;obligerais;;il //elle //on ;;;obligerait;;nous ;;;obligerions;;vous ;;;obligeriez;;ils //elles ;;;obligeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais obligé;;tu ;;;aurais obligé;;il //elle //on ;;;aurait obligé;;nous ;;;aurions obligé;;vous ;;;auriez obligé;;ils //elles ;;;auraient obligé
 Impératif Présent;impératif;;;;;;;(tu) ;;;oblige;;;;;;;(nous) ;;;obligeons;;(vous) ;;;obligez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie obligé;;;;;;;(nous) ;;;ayons obligé;;(vous) ;;;ayez obligé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;oblige pas ;;;;;;;(nous) ;n';;obligeons pas ;;(vous) ;n';;obligez pas ;;;;;

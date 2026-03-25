@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en houspillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant houspillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;houspillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;houspillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;houspille;;tu ;;;houspilles;;il/elle/on ;;;houspille;;nous ;;;houspillons;;vous ;;;houspillez;;ils/elles ;;;houspillent
-Indicatif Passé Composé;indicatif;;j’;;;ai houspillé;;tu ;;;as houspillé;;il/elle/on ;;;a houspillé;;nous ;;;avons houspillé;;vous ;;;avez houspillé;;ils/elles ;;;ont houspillé
-Indicatif Imparfait;indicatif;;je ;;;houspillais;;tu ;;;houspillais;;il/elle/on ;;;houspillait;;nous ;;;houspillions;;vous ;;;houspilliez;;ils/elles ;;;houspillaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais houspillé;;tu ;;;avais houspillé;;il/elle/on ;;;avait houspillé;;nous ;;;avions houspillé;;vous ;;;aviez houspillé;;ils/elles ;;;avaient houspillé
-Indicatif Passé Simple;indicatif;;je ;;;houspillai;;tu ;;;houspillas;;il/elle/on ;;;houspilla;;nous ;;;houspillâmes;;vous ;;;houspillâtes;;ils/elles ;;;houspillèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus houspillé;;tu ;;;eus houspillé;;il/elle/on ;;;eut houspillé;;nous ;;;eûmes houspillé;;vous ;;;eûtes houspillé;;ils/elles ;;;eurent houspillé
-Indicatif Futur Simple;indicatif;;je ;;;houspillerai;;tu ;;;houspilleras;;il/elle/on ;;;houspillera;;nous ;;;houspillerons;;vous ;;;houspillerez;;ils/elles ;;;houspilleront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai houspillé;;tu ;;;auras houspillé;;il/elle/on ;;;aura houspillé;;nous ;;;aurons houspillé;;vous ;;;aurez houspillé;;ils/elles ;;;auront houspillé
-Subjonctif Présent;subjonctif;que ;je ;;;houspille;que ;tu ;;;houspilles;qu’;il/elle/on ;;;houspille;que ;nous ;;;houspillions;que ;vous ;;;houspilliez;qu’;ils/elles ;;;houspillent
-Subjonctif Passé;subjonctif;que ;j’;;;aie houspillé;que ;tu ;;;aies houspillé;qu’;il/elle/on ;;;ait houspillé;que ;nous ;;;ayons houspillé;que ;vous ;;;ayez houspillé;qu’;ils/elles ;;;aient houspillé
-Subjonctif Imparfait;subjonctif;que ;je ;;;houspillasse;que ;tu ;;;houspillasses;qu’;il/elle/on ;;;houspillât;que ;nous ;;;houspillassions;que ;vous ;;;houspillassiez;qu’;ils/elles ;;;houspillassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse houspillé;que ;tu ;;;eusses houspillé;qu’;il/elle/on ;;;eût houspillé;que ;nous ;;;eussions houspillé;que ;vous ;;;eussiez houspillé;qu’;ils/elles ;;;eussent houspillé
-Conditionnel Présent;conditionnel;;je ;;;houspillerais;;tu ;;;houspillerais;;il/elle/on ;;;houspillerait;;nous ;;;houspillerions;;vous ;;;houspilleriez;;ils/elles ;;;houspilleraient
-Conditionnel Passé;conditionnel;;j’;;;aurais houspillé;;tu ;;;aurais houspillé;;il/elle/on ;;;aurait houspillé;;nous ;;;aurions houspillé;;vous ;;;auriez houspillé;;ils/elles ;;;auraient houspillé
+Indicatif Présent;indicatif;;je ;;;houspille;;tu ;;;houspilles;;il //elle //on ;;;houspille;;nous ;;;houspillons;;vous ;;;houspillez;;ils //elles ;;;houspillent
+Indicatif Passé Composé;indicatif;;j’;;;ai houspillé;;tu ;;;as houspillé;;il //elle //on ;;;a houspillé;;nous ;;;avons houspillé;;vous ;;;avez houspillé;;ils //elles ;;;ont houspillé
+Indicatif Imparfait;indicatif;;je ;;;houspillais;;tu ;;;houspillais;;il //elle //on ;;;houspillait;;nous ;;;houspillions;;vous ;;;houspilliez;;ils //elles ;;;houspillaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais houspillé;;tu ;;;avais houspillé;;il //elle //on ;;;avait houspillé;;nous ;;;avions houspillé;;vous ;;;aviez houspillé;;ils //elles ;;;avaient houspillé
+Indicatif Passé Simple;indicatif;;je ;;;houspillai;;tu ;;;houspillas;;il //elle //on ;;;houspilla;;nous ;;;houspillâmes;;vous ;;;houspillâtes;;ils //elles ;;;houspillèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus houspillé;;tu ;;;eus houspillé;;il //elle //on ;;;eut houspillé;;nous ;;;eûmes houspillé;;vous ;;;eûtes houspillé;;ils //elles ;;;eurent houspillé
+Indicatif Futur Simple;indicatif;;je ;;;houspillerai;;tu ;;;houspilleras;;il //elle //on ;;;houspillera;;nous ;;;houspillerons;;vous ;;;houspillerez;;ils //elles ;;;houspilleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai houspillé;;tu ;;;auras houspillé;;il //elle //on ;;;aura houspillé;;nous ;;;aurons houspillé;;vous ;;;aurez houspillé;;ils //elles ;;;auront houspillé
+Subjonctif Présent;subjonctif;que ;je ;;;houspille;que ;tu ;;;houspilles;qu’;il //elle //on ;;;houspille;que ;nous ;;;houspillions;que ;vous ;;;houspilliez;qu’;ils //elles ;;;houspillent
+Subjonctif Passé;subjonctif;que ;j’;;;aie houspillé;que ;tu ;;;aies houspillé;qu’;il //elle //on ;;;ait houspillé;que ;nous ;;;ayons houspillé;que ;vous ;;;ayez houspillé;qu’;ils //elles ;;;aient houspillé
+Subjonctif Imparfait;subjonctif;que ;je ;;;houspillasse;que ;tu ;;;houspillasses;qu’;il //elle //on ;;;houspillât;que ;nous ;;;houspillassions;que ;vous ;;;houspillassiez;qu’;ils //elles ;;;houspillassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse houspillé;que ;tu ;;;eusses houspillé;qu’;il //elle //on ;;;eût houspillé;que ;nous ;;;eussions houspillé;que ;vous ;;;eussiez houspillé;qu’;ils //elles ;;;eussent houspillé
+Conditionnel Présent;conditionnel;;je ;;;houspillerais;;tu ;;;houspillerais;;il //elle //on ;;;houspillerait;;nous ;;;houspillerions;;vous ;;;houspilleriez;;ils //elles ;;;houspilleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais houspillé;;tu ;;;aurais houspillé;;il //elle //on ;;;aurait houspillé;;nous ;;;aurions houspillé;;vous ;;;auriez houspillé;;ils //elles ;;;auraient houspillé
 Impératif Présent;impératif;;;;;;;(tu) ;;;houspille;;;;;;;(nous) ;;;houspillons;;(vous) ;;;houspillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie houspillé;;;;;;;(nous) ;;;ayons houspillé;;(vous) ;;;ayez houspillé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;houspille pas ;;;;;;;(nous) ;ne ;;houspillons pas ;;(vous) ;ne ;;houspillez pas ;;;;;

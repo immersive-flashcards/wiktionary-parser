@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en réveillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant réveillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;réveillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;réveillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;réveille;;tu ;;;réveilles;;il/elle/on ;;;réveille;;nous ;;;réveillons;;vous ;;;réveillez;;ils/elles ;;;réveillent
-Indicatif Passé Composé;indicatif;;j’;;;ai réveillé;;tu ;;;as réveillé;;il/elle/on ;;;a réveillé;;nous ;;;avons réveillé;;vous ;;;avez réveillé;;ils/elles ;;;ont réveillé
-Indicatif Imparfait;indicatif;;je ;;;réveillais;;tu ;;;réveillais;;il/elle/on ;;;réveillait;;nous ;;;réveillions;;vous ;;;réveilliez;;ils/elles ;;;réveillaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais réveillé;;tu ;;;avais réveillé;;il/elle/on ;;;avait réveillé;;nous ;;;avions réveillé;;vous ;;;aviez réveillé;;ils/elles ;;;avaient réveillé
-Indicatif Passé Simple;indicatif;;je ;;;réveillai;;tu ;;;réveillas;;il/elle/on ;;;réveilla;;nous ;;;réveillâmes;;vous ;;;réveillâtes;;ils/elles ;;;réveillèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus réveillé;;tu ;;;eus réveillé;;il/elle/on ;;;eut réveillé;;nous ;;;eûmes réveillé;;vous ;;;eûtes réveillé;;ils/elles ;;;eurent réveillé
-Indicatif Futur Simple;indicatif;;je ;;;réveillerai;;tu ;;;réveilleras;;il/elle/on ;;;réveillera;;nous ;;;réveillerons;;vous ;;;réveillerez;;ils/elles ;;;réveilleront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai réveillé;;tu ;;;auras réveillé;;il/elle/on ;;;aura réveillé;;nous ;;;aurons réveillé;;vous ;;;aurez réveillé;;ils/elles ;;;auront réveillé
-Subjonctif Présent;subjonctif;que ;je ;;;réveille;que ;tu ;;;réveilles;qu’;il/elle/on ;;;réveille;que ;nous ;;;réveillions;que ;vous ;;;réveilliez;qu’;ils/elles ;;;réveillent
-Subjonctif Passé;subjonctif;que ;j’;;;aie réveillé;que ;tu ;;;aies réveillé;qu’;il/elle/on ;;;ait réveillé;que ;nous ;;;ayons réveillé;que ;vous ;;;ayez réveillé;qu’;ils/elles ;;;aient réveillé
-Subjonctif Imparfait;subjonctif;que ;je ;;;réveillasse;que ;tu ;;;réveillasses;qu’;il/elle/on ;;;réveillât;que ;nous ;;;réveillassions;que ;vous ;;;réveillassiez;qu’;ils/elles ;;;réveillassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse réveillé;que ;tu ;;;eusses réveillé;qu’;il/elle/on ;;;eût réveillé;que ;nous ;;;eussions réveillé;que ;vous ;;;eussiez réveillé;qu’;ils/elles ;;;eussent réveillé
-Conditionnel Présent;conditionnel;;je ;;;réveillerais;;tu ;;;réveillerais;;il/elle/on ;;;réveillerait;;nous ;;;réveillerions;;vous ;;;réveilleriez;;ils/elles ;;;réveilleraient
-Conditionnel Passé;conditionnel;;j’;;;aurais réveillé;;tu ;;;aurais réveillé;;il/elle/on ;;;aurait réveillé;;nous ;;;aurions réveillé;;vous ;;;auriez réveillé;;ils/elles ;;;auraient réveillé
+Indicatif Présent;indicatif;;je ;;;réveille;;tu ;;;réveilles;;il //elle //on ;;;réveille;;nous ;;;réveillons;;vous ;;;réveillez;;ils //elles ;;;réveillent
+Indicatif Passé Composé;indicatif;;j’;;;ai réveillé;;tu ;;;as réveillé;;il //elle //on ;;;a réveillé;;nous ;;;avons réveillé;;vous ;;;avez réveillé;;ils //elles ;;;ont réveillé
+Indicatif Imparfait;indicatif;;je ;;;réveillais;;tu ;;;réveillais;;il //elle //on ;;;réveillait;;nous ;;;réveillions;;vous ;;;réveilliez;;ils //elles ;;;réveillaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais réveillé;;tu ;;;avais réveillé;;il //elle //on ;;;avait réveillé;;nous ;;;avions réveillé;;vous ;;;aviez réveillé;;ils //elles ;;;avaient réveillé
+Indicatif Passé Simple;indicatif;;je ;;;réveillai;;tu ;;;réveillas;;il //elle //on ;;;réveilla;;nous ;;;réveillâmes;;vous ;;;réveillâtes;;ils //elles ;;;réveillèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus réveillé;;tu ;;;eus réveillé;;il //elle //on ;;;eut réveillé;;nous ;;;eûmes réveillé;;vous ;;;eûtes réveillé;;ils //elles ;;;eurent réveillé
+Indicatif Futur Simple;indicatif;;je ;;;réveillerai;;tu ;;;réveilleras;;il //elle //on ;;;réveillera;;nous ;;;réveillerons;;vous ;;;réveillerez;;ils //elles ;;;réveilleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai réveillé;;tu ;;;auras réveillé;;il //elle //on ;;;aura réveillé;;nous ;;;aurons réveillé;;vous ;;;aurez réveillé;;ils //elles ;;;auront réveillé
+Subjonctif Présent;subjonctif;que ;je ;;;réveille;que ;tu ;;;réveilles;qu’;il //elle //on ;;;réveille;que ;nous ;;;réveillions;que ;vous ;;;réveilliez;qu’;ils //elles ;;;réveillent
+Subjonctif Passé;subjonctif;que ;j’;;;aie réveillé;que ;tu ;;;aies réveillé;qu’;il //elle //on ;;;ait réveillé;que ;nous ;;;ayons réveillé;que ;vous ;;;ayez réveillé;qu’;ils //elles ;;;aient réveillé
+Subjonctif Imparfait;subjonctif;que ;je ;;;réveillasse;que ;tu ;;;réveillasses;qu’;il //elle //on ;;;réveillât;que ;nous ;;;réveillassions;que ;vous ;;;réveillassiez;qu’;ils //elles ;;;réveillassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse réveillé;que ;tu ;;;eusses réveillé;qu’;il //elle //on ;;;eût réveillé;que ;nous ;;;eussions réveillé;que ;vous ;;;eussiez réveillé;qu’;ils //elles ;;;eussent réveillé
+Conditionnel Présent;conditionnel;;je ;;;réveillerais;;tu ;;;réveillerais;;il //elle //on ;;;réveillerait;;nous ;;;réveillerions;;vous ;;;réveilleriez;;ils //elles ;;;réveilleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais réveillé;;tu ;;;aurais réveillé;;il //elle //on ;;;aurait réveillé;;nous ;;;aurions réveillé;;vous ;;;auriez réveillé;;ils //elles ;;;auraient réveillé
 Impératif Présent;impératif;;;;;;;(tu) ;;;réveille;;;;;;;(nous) ;;;réveillons;;(vous) ;;;réveillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie réveillé;;;;;;;(nous) ;;;ayons réveillé;;(vous) ;;;ayez réveillé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;réveille pas ;;;;;;;(nous) ;ne ;;réveillons pas ;;(vous) ;ne ;;réveillez pas ;;;;;

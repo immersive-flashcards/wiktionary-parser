@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en wikifiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant wikifié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;wikifiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;wikifié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;wikifie;;tu ;;;wikifies;;il/elle/on ;;;wikifie;;nous ;;;wikifions;;vous ;;;wikifiez;;ils/elles ;;;wikifient
-Indicatif Passé Composé;indicatif;;j’;;;ai wikifié;;tu ;;;as wikifié;;il/elle/on ;;;a wikifié;;nous ;;;avons wikifié;;vous ;;;avez wikifié;;ils/elles ;;;ont wikifié
-Indicatif Imparfait;indicatif;;je ;;;wikifiais;;tu ;;;wikifiais;;il/elle/on ;;;wikifiait;;nous ;;;wikifiions;;vous ;;;wikifiiez;;ils/elles ;;;wikifiaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais wikifié;;tu ;;;avais wikifié;;il/elle/on ;;;avait wikifié;;nous ;;;avions wikifié;;vous ;;;aviez wikifié;;ils/elles ;;;avaient wikifié
-Indicatif Passé Simple;indicatif;;je ;;;wikifiai;;tu ;;;wikifias;;il/elle/on ;;;wikifia;;nous ;;;wikifiâmes;;vous ;;;wikifiâtes;;ils/elles ;;;wikifièrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus wikifié;;tu ;;;eus wikifié;;il/elle/on ;;;eut wikifié;;nous ;;;eûmes wikifié;;vous ;;;eûtes wikifié;;ils/elles ;;;eurent wikifié
-Indicatif Futur Simple;indicatif;;je ;;;wikifierai;;tu ;;;wikifieras;;il/elle/on ;;;wikifiera;;nous ;;;wikifierons;;vous ;;;wikifierez;;ils/elles ;;;wikifieront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai wikifié;;tu ;;;auras wikifié;;il/elle/on ;;;aura wikifié;;nous ;;;aurons wikifié;;vous ;;;aurez wikifié;;ils/elles ;;;auront wikifié
-Subjonctif Présent;subjonctif;que ;je ;;;wikifie;que ;tu ;;;wikifies;qu’;il/elle/on ;;;wikifie;que ;nous ;;;wikifiions;que ;vous ;;;wikifiiez;qu’;ils/elles ;;;wikifient
-Subjonctif Passé;subjonctif;que ;j’;;;aie wikifié;que ;tu ;;;aies wikifié;qu’;il/elle/on ;;;ait wikifié;que ;nous ;;;ayons wikifié;que ;vous ;;;ayez wikifié;qu’;ils/elles ;;;aient wikifié
-Subjonctif Imparfait;subjonctif;que ;je ;;;wikifiasse;que ;tu ;;;wikifiasses;qu’;il/elle/on ;;;wikifiât;que ;nous ;;;wikifiassions;que ;vous ;;;wikifiassiez;qu’;ils/elles ;;;wikifiassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse wikifié;que ;tu ;;;eusses wikifié;qu’;il/elle/on ;;;eût wikifié;que ;nous ;;;eussions wikifié;que ;vous ;;;eussiez wikifié;qu’;ils/elles ;;;eussent wikifié
-Conditionnel Présent;conditionnel;;je ;;;wikifierais;;tu ;;;wikifierais;;il/elle/on ;;;wikifierait;;nous ;;;wikifierions;;vous ;;;wikifieriez;;ils/elles ;;;wikifieraient
-Conditionnel Passé;conditionnel;;j’;;;aurais wikifié;;tu ;;;aurais wikifié;;il/elle/on ;;;aurait wikifié;;nous ;;;aurions wikifié;;vous ;;;auriez wikifié;;ils/elles ;;;auraient wikifié
+Indicatif Présent;indicatif;;je ;;;wikifie;;tu ;;;wikifies;;il //elle //on ;;;wikifie;;nous ;;;wikifions;;vous ;;;wikifiez;;ils //elles ;;;wikifient
+Indicatif Passé Composé;indicatif;;j’;;;ai wikifié;;tu ;;;as wikifié;;il //elle //on ;;;a wikifié;;nous ;;;avons wikifié;;vous ;;;avez wikifié;;ils //elles ;;;ont wikifié
+Indicatif Imparfait;indicatif;;je ;;;wikifiais;;tu ;;;wikifiais;;il //elle //on ;;;wikifiait;;nous ;;;wikifiions;;vous ;;;wikifiiez;;ils //elles ;;;wikifiaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais wikifié;;tu ;;;avais wikifié;;il //elle //on ;;;avait wikifié;;nous ;;;avions wikifié;;vous ;;;aviez wikifié;;ils //elles ;;;avaient wikifié
+Indicatif Passé Simple;indicatif;;je ;;;wikifiai;;tu ;;;wikifias;;il //elle //on ;;;wikifia;;nous ;;;wikifiâmes;;vous ;;;wikifiâtes;;ils //elles ;;;wikifièrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus wikifié;;tu ;;;eus wikifié;;il //elle //on ;;;eut wikifié;;nous ;;;eûmes wikifié;;vous ;;;eûtes wikifié;;ils //elles ;;;eurent wikifié
+Indicatif Futur Simple;indicatif;;je ;;;wikifierai;;tu ;;;wikifieras;;il //elle //on ;;;wikifiera;;nous ;;;wikifierons;;vous ;;;wikifierez;;ils //elles ;;;wikifieront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai wikifié;;tu ;;;auras wikifié;;il //elle //on ;;;aura wikifié;;nous ;;;aurons wikifié;;vous ;;;aurez wikifié;;ils //elles ;;;auront wikifié
+Subjonctif Présent;subjonctif;que ;je ;;;wikifie;que ;tu ;;;wikifies;qu’;il //elle //on ;;;wikifie;que ;nous ;;;wikifiions;que ;vous ;;;wikifiiez;qu’;ils //elles ;;;wikifient
+Subjonctif Passé;subjonctif;que ;j’;;;aie wikifié;que ;tu ;;;aies wikifié;qu’;il //elle //on ;;;ait wikifié;que ;nous ;;;ayons wikifié;que ;vous ;;;ayez wikifié;qu’;ils //elles ;;;aient wikifié
+Subjonctif Imparfait;subjonctif;que ;je ;;;wikifiasse;que ;tu ;;;wikifiasses;qu’;il //elle //on ;;;wikifiât;que ;nous ;;;wikifiassions;que ;vous ;;;wikifiassiez;qu’;ils //elles ;;;wikifiassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse wikifié;que ;tu ;;;eusses wikifié;qu’;il //elle //on ;;;eût wikifié;que ;nous ;;;eussions wikifié;que ;vous ;;;eussiez wikifié;qu’;ils //elles ;;;eussent wikifié
+Conditionnel Présent;conditionnel;;je ;;;wikifierais;;tu ;;;wikifierais;;il //elle //on ;;;wikifierait;;nous ;;;wikifierions;;vous ;;;wikifieriez;;ils //elles ;;;wikifieraient
+Conditionnel Passé;conditionnel;;j’;;;aurais wikifié;;tu ;;;aurais wikifié;;il //elle //on ;;;aurait wikifié;;nous ;;;aurions wikifié;;vous ;;;auriez wikifié;;ils //elles ;;;auraient wikifié
 Impératif Présent;impératif;;;;;;;(tu) ;;;wikifie;;;;;;;(nous) ;;;wikifions;;(vous) ;;;wikifiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie wikifié;;;;;;;(nous) ;;;ayons wikifié;;(vous) ;;;ayez wikifié;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;wikifie pas ;;;;;;;(nous) ;ne ;;wikifions pas ;;(vous) ;ne ;;wikifiez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en ennuyant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant ennuyé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;ennuyant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;ennuyé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;ennuie;;tu ;;;ennuies;;il/elle/on ;;;ennuie;;nous ;;;ennuyons;;vous ;;;ennuyez;;ils/elles ;;;ennuient
-Indicatif Passé Composé;indicatif;;j’;;;ai ennuyé;;tu ;;;as ennuyé;;il/elle/on ;;;a ennuyé;;nous ;;;avons ennuyé;;vous ;;;avez ennuyé;;ils/elles ;;;ont ennuyé
-Indicatif Imparfait;indicatif;;j’;;;ennuyais;;tu ;;;ennuyais;;il/elle/on ;;;ennuyait;;nous ;;;ennuyions;;vous ;;;ennuyiez;;ils/elles ;;;ennuyaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais ennuyé;;tu ;;;avais ennuyé;;il/elle/on ;;;avait ennuyé;;nous ;;;avions ennuyé;;vous ;;;aviez ennuyé;;ils/elles ;;;avaient ennuyé
-Indicatif Passé Simple;indicatif;;j’;;;ennuyai;;tu ;;;ennuyas;;il/elle/on ;;;ennuya;;nous ;;;ennuyâmes;;vous ;;;ennuyâtes;;ils/elles ;;;ennuyèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus ennuyé;;tu ;;;eus ennuyé;;il/elle/on ;;;eut ennuyé;;nous ;;;eûmes ennuyé;;vous ;;;eûtes ennuyé;;ils/elles ;;;eurent ennuyé
-Indicatif Futur Simple;indicatif;;j’;;;ennuierai;;tu ;;;ennuieras;;il/elle/on ;;;ennuiera;;nous ;;;ennuierons;;vous ;;;ennuierez;;ils/elles ;;;ennuieront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai ennuyé;;tu ;;;auras ennuyé;;il/elle/on ;;;aura ennuyé;;nous ;;;aurons ennuyé;;vous ;;;aurez ennuyé;;ils/elles ;;;auront ennuyé
-Subjonctif Présent;subjonctif;que ;j’;;;ennuie;que ;tu ;;;ennuies;qu’;il/elle/on ;;;ennuie;que ;nous ;;;ennuyions;que ;vous ;;;ennuyiez;qu’;ils/elles ;;;ennuient
-Subjonctif Passé;subjonctif;que ;j’;;;aie ennuyé;que ;tu ;;;aies ennuyé;qu’;il/elle/on ;;;ait ennuyé;que ;nous ;;;ayons ennuyé;que ;vous ;;;ayez ennuyé;qu’;ils/elles ;;;aient ennuyé
-Subjonctif Imparfait;subjonctif;que ;j’;;;ennuyasse;que ;tu ;;;ennuyasses;qu’;il/elle/on ;;;ennuyât;que ;nous ;;;ennuyassions;que ;vous ;;;ennuyassiez;qu’;ils/elles ;;;ennuyassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse ennuyé;que ;tu ;;;eusses ennuyé;qu’;il/elle/on ;;;eût ennuyé;que ;nous ;;;eussions ennuyé;que ;vous ;;;eussiez ennuyé;qu’;ils/elles ;;;eussent ennuyé
-Conditionnel Présent;conditionnel;;j’;;;ennuierais;;tu ;;;ennuierais;;il/elle/on ;;;ennuierait;;nous ;;;ennuierions;;vous ;;;ennuieriez;;ils/elles ;;;ennuieraient
-Conditionnel Passé;conditionnel;;j’;;;aurais ennuyé;;tu ;;;aurais ennuyé;;il/elle/on ;;;aurait ennuyé;;nous ;;;aurions ennuyé;;vous ;;;auriez ennuyé;;ils/elles ;;;auraient ennuyé
+Indicatif Présent;indicatif;;j’;;;ennuie;;tu ;;;ennuies;;il //elle //on ;;;ennuie;;nous ;;;ennuyons;;vous ;;;ennuyez;;ils //elles ;;;ennuient
+Indicatif Passé Composé;indicatif;;j’;;;ai ennuyé;;tu ;;;as ennuyé;;il //elle //on ;;;a ennuyé;;nous ;;;avons ennuyé;;vous ;;;avez ennuyé;;ils //elles ;;;ont ennuyé
+Indicatif Imparfait;indicatif;;j’;;;ennuyais;;tu ;;;ennuyais;;il //elle //on ;;;ennuyait;;nous ;;;ennuyions;;vous ;;;ennuyiez;;ils //elles ;;;ennuyaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais ennuyé;;tu ;;;avais ennuyé;;il //elle //on ;;;avait ennuyé;;nous ;;;avions ennuyé;;vous ;;;aviez ennuyé;;ils //elles ;;;avaient ennuyé
+Indicatif Passé Simple;indicatif;;j’;;;ennuyai;;tu ;;;ennuyas;;il //elle //on ;;;ennuya;;nous ;;;ennuyâmes;;vous ;;;ennuyâtes;;ils //elles ;;;ennuyèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus ennuyé;;tu ;;;eus ennuyé;;il //elle //on ;;;eut ennuyé;;nous ;;;eûmes ennuyé;;vous ;;;eûtes ennuyé;;ils //elles ;;;eurent ennuyé
+Indicatif Futur Simple;indicatif;;j’;;;ennuierai;;tu ;;;ennuieras;;il //elle //on ;;;ennuiera;;nous ;;;ennuierons;;vous ;;;ennuierez;;ils //elles ;;;ennuieront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai ennuyé;;tu ;;;auras ennuyé;;il //elle //on ;;;aura ennuyé;;nous ;;;aurons ennuyé;;vous ;;;aurez ennuyé;;ils //elles ;;;auront ennuyé
+Subjonctif Présent;subjonctif;que ;j’;;;ennuie;que ;tu ;;;ennuies;qu’;il //elle //on ;;;ennuie;que ;nous ;;;ennuyions;que ;vous ;;;ennuyiez;qu’;ils //elles ;;;ennuient
+Subjonctif Passé;subjonctif;que ;j’;;;aie ennuyé;que ;tu ;;;aies ennuyé;qu’;il //elle //on ;;;ait ennuyé;que ;nous ;;;ayons ennuyé;que ;vous ;;;ayez ennuyé;qu’;ils //elles ;;;aient ennuyé
+Subjonctif Imparfait;subjonctif;que ;j’;;;ennuyasse;que ;tu ;;;ennuyasses;qu’;il //elle //on ;;;ennuyât;que ;nous ;;;ennuyassions;que ;vous ;;;ennuyassiez;qu’;ils //elles ;;;ennuyassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse ennuyé;que ;tu ;;;eusses ennuyé;qu’;il //elle //on ;;;eût ennuyé;que ;nous ;;;eussions ennuyé;que ;vous ;;;eussiez ennuyé;qu’;ils //elles ;;;eussent ennuyé
+Conditionnel Présent;conditionnel;;j’;;;ennuierais;;tu ;;;ennuierais;;il //elle //on ;;;ennuierait;;nous ;;;ennuierions;;vous ;;;ennuieriez;;ils //elles ;;;ennuieraient
+Conditionnel Passé;conditionnel;;j’;;;aurais ennuyé;;tu ;;;aurais ennuyé;;il //elle //on ;;;aurait ennuyé;;nous ;;;aurions ennuyé;;vous ;;;auriez ennuyé;;ils //elles ;;;auraient ennuyé
 Impératif Présent;impératif;;;;;;;(tu) ;;;ennuie;;;;;;;(nous) ;;;ennuyons;;(vous) ;;;ennuyez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie ennuyé;;;;;;;(nous) ;;;ayons ennuyé;;(vous) ;;;ayez ennuyé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;ennuie pas ;;;;;;;(nous) ;n';;ennuyons pas ;;(vous) ;n';;ennuyez pas ;;;;;

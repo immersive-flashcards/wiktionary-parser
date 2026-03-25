@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en regardant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant regardé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;regardant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;regardé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;regarde;;tu ;;;regardes;;il/elle/on ;;;regarde;;nous ;;;regardons;;vous ;;;regardez;;ils/elles ;;;regardent
-Indicatif Passé Composé;indicatif;;j’;;;ai regardé;;tu ;;;as regardé;;il/elle/on ;;;a regardé;;nous ;;;avons regardé;;vous ;;;avez regardé;;ils/elles ;;;ont regardé
-Indicatif Imparfait;indicatif;;je ;;;regardais;;tu ;;;regardais;;il/elle/on ;;;regardait;;nous ;;;regardions;;vous ;;;regardiez;;ils/elles ;;;regardaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais regardé;;tu ;;;avais regardé;;il/elle/on ;;;avait regardé;;nous ;;;avions regardé;;vous ;;;aviez regardé;;ils/elles ;;;avaient regardé
-Indicatif Passé Simple;indicatif;;je ;;;regardai;;tu ;;;regardas;;il/elle/on ;;;regarda;;nous ;;;regardâmes;;vous ;;;regardâtes;;ils/elles ;;;regardèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus regardé;;tu ;;;eus regardé;;il/elle/on ;;;eut regardé;;nous ;;;eûmes regardé;;vous ;;;eûtes regardé;;ils/elles ;;;eurent regardé
-Indicatif Futur Simple;indicatif;;je ;;;regarderai;;tu ;;;regarderas;;il/elle/on ;;;regardera;;nous ;;;regarderons;;vous ;;;regarderez;;ils/elles ;;;regarderont
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai regardé;;tu ;;;auras regardé;;il/elle/on ;;;aura regardé;;nous ;;;aurons regardé;;vous ;;;aurez regardé;;ils/elles ;;;auront regardé
-Subjonctif Présent;subjonctif;que ;je ;;;regarde;que ;tu ;;;regardes;qu’;il/elle/on ;;;regarde;que ;nous ;;;regardions;que ;vous ;;;regardiez;qu’;ils/elles ;;;regardent
-Subjonctif Passé;subjonctif;que ;j’;;;aie regardé;que ;tu ;;;aies regardé;qu’;il/elle/on ;;;ait regardé;que ;nous ;;;ayons regardé;que ;vous ;;;ayez regardé;qu’;ils/elles ;;;aient regardé
-Subjonctif Imparfait;subjonctif;que ;je ;;;regardasse;que ;tu ;;;regardasses;qu’;il/elle/on ;;;regardât;que ;nous ;;;regardassions;que ;vous ;;;regardassiez;qu’;ils/elles ;;;regardassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse regardé;que ;tu ;;;eusses regardé;qu’;il/elle/on ;;;eût regardé;que ;nous ;;;eussions regardé;que ;vous ;;;eussiez regardé;qu’;ils/elles ;;;eussent regardé
-Conditionnel Présent;conditionnel;;je ;;;regarderais;;tu ;;;regarderais;;il/elle/on ;;;regarderait;;nous ;;;regarderions;;vous ;;;regarderiez;;ils/elles ;;;regarderaient
-Conditionnel Passé;conditionnel;;j’;;;aurais regardé;;tu ;;;aurais regardé;;il/elle/on ;;;aurait regardé;;nous ;;;aurions regardé;;vous ;;;auriez regardé;;ils/elles ;;;auraient regardé
+Indicatif Présent;indicatif;;je ;;;regarde;;tu ;;;regardes;;il //elle //on ;;;regarde;;nous ;;;regardons;;vous ;;;regardez;;ils //elles ;;;regardent
+Indicatif Passé Composé;indicatif;;j’;;;ai regardé;;tu ;;;as regardé;;il //elle //on ;;;a regardé;;nous ;;;avons regardé;;vous ;;;avez regardé;;ils //elles ;;;ont regardé
+Indicatif Imparfait;indicatif;;je ;;;regardais;;tu ;;;regardais;;il //elle //on ;;;regardait;;nous ;;;regardions;;vous ;;;regardiez;;ils //elles ;;;regardaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais regardé;;tu ;;;avais regardé;;il //elle //on ;;;avait regardé;;nous ;;;avions regardé;;vous ;;;aviez regardé;;ils //elles ;;;avaient regardé
+Indicatif Passé Simple;indicatif;;je ;;;regardai;;tu ;;;regardas;;il //elle //on ;;;regarda;;nous ;;;regardâmes;;vous ;;;regardâtes;;ils //elles ;;;regardèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus regardé;;tu ;;;eus regardé;;il //elle //on ;;;eut regardé;;nous ;;;eûmes regardé;;vous ;;;eûtes regardé;;ils //elles ;;;eurent regardé
+Indicatif Futur Simple;indicatif;;je ;;;regarderai;;tu ;;;regarderas;;il //elle //on ;;;regardera;;nous ;;;regarderons;;vous ;;;regarderez;;ils //elles ;;;regarderont
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai regardé;;tu ;;;auras regardé;;il //elle //on ;;;aura regardé;;nous ;;;aurons regardé;;vous ;;;aurez regardé;;ils //elles ;;;auront regardé
+Subjonctif Présent;subjonctif;que ;je ;;;regarde;que ;tu ;;;regardes;qu’;il //elle //on ;;;regarde;que ;nous ;;;regardions;que ;vous ;;;regardiez;qu’;ils //elles ;;;regardent
+Subjonctif Passé;subjonctif;que ;j’;;;aie regardé;que ;tu ;;;aies regardé;qu’;il //elle //on ;;;ait regardé;que ;nous ;;;ayons regardé;que ;vous ;;;ayez regardé;qu’;ils //elles ;;;aient regardé
+Subjonctif Imparfait;subjonctif;que ;je ;;;regardasse;que ;tu ;;;regardasses;qu’;il //elle //on ;;;regardât;que ;nous ;;;regardassions;que ;vous ;;;regardassiez;qu’;ils //elles ;;;regardassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse regardé;que ;tu ;;;eusses regardé;qu’;il //elle //on ;;;eût regardé;que ;nous ;;;eussions regardé;que ;vous ;;;eussiez regardé;qu’;ils //elles ;;;eussent regardé
+Conditionnel Présent;conditionnel;;je ;;;regarderais;;tu ;;;regarderais;;il //elle //on ;;;regarderait;;nous ;;;regarderions;;vous ;;;regarderiez;;ils //elles ;;;regarderaient
+Conditionnel Passé;conditionnel;;j’;;;aurais regardé;;tu ;;;aurais regardé;;il //elle //on ;;;aurait regardé;;nous ;;;aurions regardé;;vous ;;;auriez regardé;;ils //elles ;;;auraient regardé
 Impératif Présent;impératif;;;;;;;(tu) ;;;regarde;;;;;;;(nous) ;;;regardons;;(vous) ;;;regardez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie regardé;;;;;;;(nous) ;;;ayons regardé;;(vous) ;;;ayez regardé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;regarde pas ;;;;;;;(nous) ;ne ;;regardons pas ;;(vous) ;ne ;;regardez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en défendant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant défendu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;défendant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;défendu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;défends;;tu ;;;défends;;il/elle/on ;;;défend;;nous ;;;défendons;;vous ;;;défendez;;ils/elles ;;;défendent
-Indicatif Passé Composé;indicatif;;j’;;;ai défendu;;tu ;;;as défendu;;il/elle/on ;;;a défendu;;nous ;;;avons défendu;;vous ;;;avez défendu;;ils/elles ;;;ont défendu
-Indicatif Imparfait;indicatif;;je ;;;défendais;;tu ;;;défendais;;il/elle/on ;;;défendait;;nous ;;;défendions;;vous ;;;défendiez;;ils/elles ;;;défendaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais défendu;;tu ;;;avais défendu;;il/elle/on ;;;avait défendu;;nous ;;;avions défendu;;vous ;;;aviez défendu;;ils/elles ;;;avaient défendu
-Indicatif Passé Simple;indicatif;;je ;;;défendis;;tu ;;;défendis;;il/elle/on ;;;défendit;;nous ;;;défendîmes;;vous ;;;défendîtes;;ils/elles ;;;défendirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus défendu;;tu ;;;eus défendu;;il/elle/on ;;;eut défendu;;nous ;;;eûmes défendu;;vous ;;;eûtes défendu;;ils/elles ;;;eurent défendu
-Indicatif Futur Simple;indicatif;;je ;;;défendrai;;tu ;;;défendras;;il/elle/on ;;;défendra;;nous ;;;défendrons;;vous ;;;défendrez;;ils/elles ;;;défendront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai défendu;;tu ;;;auras défendu;;il/elle/on ;;;aura défendu;;nous ;;;aurons défendu;;vous ;;;aurez défendu;;ils/elles ;;;auront défendu
-Subjonctif Présent;subjonctif;que ;je ;;;défende;que ;tu ;;;défendes;qu’;il/elle/on ;;;défende;que ;nous ;;;défendions;que ;vous ;;;défendiez;qu’;ils/elles ;;;défendent
-Subjonctif Passé;subjonctif;que ;j’;;;aie défendu;que ;tu ;;;aies défendu;qu’;il/elle/on ;;;ait défendu;que ;nous ;;;ayons défendu;que ;vous ;;;ayez défendu;qu’;ils/elles ;;;aient défendu
-Subjonctif Imparfait;subjonctif;que ;je ;;;défendisse;que ;tu ;;;défendisses;qu’;il/elle/on ;;;défendît;que ;nous ;;;défendissions;que ;vous ;;;défendissiez;qu’;ils/elles ;;;défendissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse défendu;que ;tu ;;;eusses défendu;qu’;il/elle/on ;;;eût défendu;que ;nous ;;;eussions défendu;que ;vous ;;;eussiez défendu;qu’;ils/elles ;;;eussent défendu
-Conditionnel Présent;conditionnel;;je ;;;défendrais;;tu ;;;défendrais;;il/elle/on ;;;défendrait;;nous ;;;défendrions;;vous ;;;défendriez;;ils/elles ;;;défendraient
-Conditionnel Passé;conditionnel;;j’;;;aurais défendu;;tu ;;;aurais défendu;;il/elle/on ;;;aurait défendu;;nous ;;;aurions défendu;;vous ;;;auriez défendu;;ils/elles ;;;auraient défendu
+Indicatif Présent;indicatif;;je ;;;défends;;tu ;;;défends;;il //elle //on ;;;défend;;nous ;;;défendons;;vous ;;;défendez;;ils //elles ;;;défendent
+Indicatif Passé Composé;indicatif;;j’;;;ai défendu;;tu ;;;as défendu;;il //elle //on ;;;a défendu;;nous ;;;avons défendu;;vous ;;;avez défendu;;ils //elles ;;;ont défendu
+Indicatif Imparfait;indicatif;;je ;;;défendais;;tu ;;;défendais;;il //elle //on ;;;défendait;;nous ;;;défendions;;vous ;;;défendiez;;ils //elles ;;;défendaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais défendu;;tu ;;;avais défendu;;il //elle //on ;;;avait défendu;;nous ;;;avions défendu;;vous ;;;aviez défendu;;ils //elles ;;;avaient défendu
+Indicatif Passé Simple;indicatif;;je ;;;défendis;;tu ;;;défendis;;il //elle //on ;;;défendit;;nous ;;;défendîmes;;vous ;;;défendîtes;;ils //elles ;;;défendirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus défendu;;tu ;;;eus défendu;;il //elle //on ;;;eut défendu;;nous ;;;eûmes défendu;;vous ;;;eûtes défendu;;ils //elles ;;;eurent défendu
+Indicatif Futur Simple;indicatif;;je ;;;défendrai;;tu ;;;défendras;;il //elle //on ;;;défendra;;nous ;;;défendrons;;vous ;;;défendrez;;ils //elles ;;;défendront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai défendu;;tu ;;;auras défendu;;il //elle //on ;;;aura défendu;;nous ;;;aurons défendu;;vous ;;;aurez défendu;;ils //elles ;;;auront défendu
+Subjonctif Présent;subjonctif;que ;je ;;;défende;que ;tu ;;;défendes;qu’;il //elle //on ;;;défende;que ;nous ;;;défendions;que ;vous ;;;défendiez;qu’;ils //elles ;;;défendent
+Subjonctif Passé;subjonctif;que ;j’;;;aie défendu;que ;tu ;;;aies défendu;qu’;il //elle //on ;;;ait défendu;que ;nous ;;;ayons défendu;que ;vous ;;;ayez défendu;qu’;ils //elles ;;;aient défendu
+Subjonctif Imparfait;subjonctif;que ;je ;;;défendisse;que ;tu ;;;défendisses;qu’;il //elle //on ;;;défendît;que ;nous ;;;défendissions;que ;vous ;;;défendissiez;qu’;ils //elles ;;;défendissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse défendu;que ;tu ;;;eusses défendu;qu’;il //elle //on ;;;eût défendu;que ;nous ;;;eussions défendu;que ;vous ;;;eussiez défendu;qu’;ils //elles ;;;eussent défendu
+Conditionnel Présent;conditionnel;;je ;;;défendrais;;tu ;;;défendrais;;il //elle //on ;;;défendrait;;nous ;;;défendrions;;vous ;;;défendriez;;ils //elles ;;;défendraient
+Conditionnel Passé;conditionnel;;j’;;;aurais défendu;;tu ;;;aurais défendu;;il //elle //on ;;;aurait défendu;;nous ;;;aurions défendu;;vous ;;;auriez défendu;;ils //elles ;;;auraient défendu
 Impératif Présent;impératif;;;;;;;(tu) ;;;défends;;;;;;;(nous) ;;;défendons;;(vous) ;;;défendez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie défendu;;;;;;;(nous) ;;;ayons défendu;;(vous) ;;;ayez défendu;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;défends pas ;;;;;;;(nous) ;ne ;;défendons pas ;;(vous) ;ne ;;défendez pas ;;;;;

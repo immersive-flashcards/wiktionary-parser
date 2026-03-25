@@ -289,7 +289,7 @@ def parse_and_store_form(lang_cfg: LanguageConfig, row: dict[str, Any], person_i
     # 2) Personal pronoun prefix (split on earliest delimiter)
     if not imperative:
         pronoun, form = split_on_first_delim(form, ("’", "'", " "))
-        row[f"pronoun-{person_idx_1}"] = pronoun
+        row[f"pronoun-{person_idx_1}"] = pronoun.replace("/", " //")
     else:
         row[f"pronoun-{person_idx_1}"] = lang_cfg.person_data.get("imperative-pronouns").get(person_idx_1)
 

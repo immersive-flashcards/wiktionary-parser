@@ -24,10 +24,10 @@ person-data:
   pronouns:
     1: "je"
     2: "tu"
-    3: "il/elle/on"
+    3: "il //elle //on"
     4: "nous"
     5: "vous"
-    6: "ils/elles"
+    6: "ils //elles"
 
   imperative-pronouns:
     2: "(tu) "

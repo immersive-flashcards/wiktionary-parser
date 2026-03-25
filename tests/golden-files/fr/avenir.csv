@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en avenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant avenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;avenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;avenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;;;;;;;;;;;il/elle/on ;;;avient;;;;;;;;;;;;ils/elles ;;;aviennent
-Indicatif Passé Composé;indicatif;;il/elle ;;;a avenu;;;;;;;;;;;;;;;;;;;;;;ils/elles ;;;ont avenu
-Indicatif Imparfait;indicatif;;;;;;;;;;;;il/elle/on ;;;avenait;;;;;;;;;;;;ils/elles ;;;avenaient
-Indicatif Plus-Que-Parfait;indicatif;;il/elle ;;;avait avenu;;;;;;;;;;;;;;;;;;;;;;ils/elles ;;;avaient avenu
-Indicatif Passé Simple;indicatif;;;;;;;;;;;;il/elle/on ;;;avint;;;;;;;;;;;;ils/elles ;;;avinrent
-Indicatif Passé Antérieur;indicatif;;il/elle ;;;eut avenu;;;;;;;;;;;;;;;;;;;;;;ils/elles ;;;eurent avenu
-Indicatif Futur Simple;indicatif;;;;;;;;;;;;il/elle/on ;;;aviendra;;;;;;;;;;;;ils/elles ;;;aviendront
-Indicatif Futur Antérieur;indicatif;;il/elle ;;;aura avenu;;;;;;;;;;;;;;;;;;;;;;ils/elles ;;;auront avenu
-Subjonctif Présent;subjonctif;;;;;;;;;;;qu’;il/elle/on ;;;avienne;;;;;;;;;;;qu’;ils/elles ;;;aviennent
-Subjonctif Passé;subjonctif;qu’;il/elle ;;;ait avenu;;;;;;;;;;;;;;;;;;;;;qu’;ils/elles ;;;aient avenu
-Subjonctif Imparfait;subjonctif;;;;;;;;;;;qu’;il/elle/on ;;;avînt;;;;;;;;;;;qu’;ils/elles ;;;avinssent
-Subjonctif Plus-Que-Parfait;subjonctif;qu’;il/elle ;;;eût avenu;;;;;;;;;;;;;;;;;;;;;qu’;ils/elles ;;;eussent avenu
-Conditionnel Présent;conditionnel;;;;;;;;;;;;il/elle/on ;;;aviendrait;;;;;;;;;;;;ils/elles ;;;aviendraient
-Conditionnel Passé;conditionnel;;il/elle ;;;aurait avenu;;;;;;;;;;;;;;;;;;;;;;ils/elles ;;;auraient avenu
+Indicatif Présent;indicatif;;ils //elles ;;;aviennent;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Passé Composé;indicatif;;ils //elles ;;;ont avenu;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Imparfait;indicatif;;ils //elles ;;;avenaient;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Plus-Que-Parfait;indicatif;;ils //elles ;;;avaient avenu;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Passé Simple;indicatif;;ils //elles ;;;avinrent;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Passé Antérieur;indicatif;;ils //elles ;;;eurent avenu;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Futur Simple;indicatif;;ils //elles ;;;aviendront;;;;;;;;;;;;;;;;;;;;;;;;;
+Indicatif Futur Antérieur;indicatif;;ils //elles ;;;auront avenu;;;;;;;;;;;;;;;;;;;;;;;;;
+Subjonctif Présent;subjonctif;qu’;ils //elles ;;;aviennent;;;;;;;;;;;;;;;;;;;;;;;;;
+Subjonctif Passé;subjonctif;qu’;ils //elles ;;;aient avenu;;;;;;;;;;;;;;;;;;;;;;;;;
+Subjonctif Imparfait;subjonctif;qu’;ils //elles ;;;avinssent;;;;;;;;;;;;;;;;;;;;;;;;;
+Subjonctif Plus-Que-Parfait;subjonctif;qu’;ils //elles ;;;eussent avenu;;;;;;;;;;;;;;;;;;;;;;;;;
+Conditionnel Présent;conditionnel;;ils //elles ;;;aviendraient;;;;;;;;;;;;;;;;;;;;;;;;;
+Conditionnel Passé;conditionnel;;ils //elles ;;;auraient avenu;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;avenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

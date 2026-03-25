@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en s’excusant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en s’étant excusé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;excusant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;excusé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;m’;excuse;;tu ;;t’;excuses;;il/elle/on ;;s’;excuse;;nous ;;nous ;excusons;;vous ;;vous ;excusez;;ils/elles ;;s’;excusent
-Indicatif Passé Composé;indicatif;;je ;;me ;suis excusé;;tu ;;t’;es excusé;;il/elle/on ;;s’;est excusé;;nous ;;nous ;sommes excusés;;vous ;;vous ;êtes excusés;;ils/elles ;;se ;sont excusés
-Indicatif Imparfait;indicatif;;je ;;m’;excusais;;tu ;;t’;excusais;;il/elle/on ;;s’;excusait;;nous ;;nous ;excusions;;vous ;;vous ;excusiez;;ils/elles ;;s’;excusaient
-Indicatif Plus-Que-Parfait;indicatif;;je ;;m’;étais excusé;;tu ;;t’;étais excusé;;il/elle/on ;;s’;était excusé;;nous ;;nous ;étions excusés;;vous ;;vous ;étiez excusés;;ils/elles ;;s’;étaient excusés
-Indicatif Passé Simple;indicatif;;je ;;m’;excusai;;tu ;;t’;excusas;;il/elle/on ;;s’;excusa;;nous ;;nous ;excusâmes;;vous ;;vous ;excusâtes;;ils/elles ;;s’;excusèrent
-Indicatif Passé Antérieur;indicatif;;je ;;me ;fus excusé;;tu ;;te ;fus excusé;;il/elle/on ;;se ;fut excusé;;nous ;;nous ;fûmes excusés;;vous ;;vous ;fûtes excusés;;ils/elles ;;se ;furent excusés
-Indicatif Futur Simple;indicatif;;je ;;m’;excuserai;;tu ;;t’;excuseras;;il/elle/on ;;s’;excusera;;nous ;;nous ;excuserons;;vous ;;vous ;excuserez;;ils/elles ;;s’;excuseront
-Indicatif Futur Antérieur;indicatif;;je ;;me ;serai excusé;;tu ;;te ;seras excusé;;il/elle/on ;;se ;sera excusé;;nous ;;nous ;serons excusés;;vous ;;vous ;serez excusés;;ils/elles ;;se ;seront excusés
-Subjonctif Présent;subjonctif;que ;je ;;m’;excuse;que ;tu ;;t’;excuses;qu’;il/elle/on ;;s’;excuse;que ;nous ;;nous ;excusions;que ;vous ;;vous ;excusiez;qu’;ils/elles ;;s’;excusent
-Subjonctif Passé;subjonctif;que ;je ;;me ;sois excusé;que ;tu ;;te ;sois excusé;qu’;il/elle/on ;;se ;soit excusé;que ;nous ;;nous ;soyons excusés;que ;vous ;;vous ;soyez excusés;qu’;ils/elles ;;se ;soient excusés
-Subjonctif Imparfait;subjonctif;que ;je ;;m’;excusasse;que ;tu ;;t’;excusasses;qu’;il/elle/on ;;s’;excusât;que ;nous ;;nous ;excusassions;que ;vous ;;vous ;excusassiez;qu’;ils/elles ;;s’;excusassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;me ;fusse excusé;que ;tu ;;te ;fusses excusé;qu’;il/elle/on ;;se ;fût excusé;que ;nous ;;nous ;fussions excusés;que ;vous ;;vous ;fussiez excusés;qu’;ils/elles ;;se ;fussent excusés
-Conditionnel Présent;conditionnel;;je ;;m’;excuserais;;tu ;;t’;excuserais;;il/elle/on ;;s’;excuserait;;nous ;;nous ;excuserions;;vous ;;vous ;excuseriez;;ils/elles ;;s’;excuseraient
-Conditionnel Passé;conditionnel;;je ;;me ;serais excusé;;tu ;;te ;serais excusé;;il/elle/on ;;se ;serait excusé;;nous ;;nous ;serions excusés;;vous ;;vous ;seriez excusés;;ils/elles ;;se ;seraient excusés
+Indicatif Présent;indicatif;;je ;;m’;excuse;;tu ;;t’;excuses;;il //elle //on ;;s’;excuse;;nous ;;nous ;excusons;;vous ;;vous ;excusez;;ils //elles ;;s’;excusent
+Indicatif Passé Composé;indicatif;;je ;;me ;suis excusé;;tu ;;t’;es excusé;;il //elle //on ;;s’;est excusé;;nous ;;nous ;sommes excusés;;vous ;;vous ;êtes excusés;;ils //elles ;;se ;sont excusés
+Indicatif Imparfait;indicatif;;je ;;m’;excusais;;tu ;;t’;excusais;;il //elle //on ;;s’;excusait;;nous ;;nous ;excusions;;vous ;;vous ;excusiez;;ils //elles ;;s’;excusaient
+Indicatif Plus-Que-Parfait;indicatif;;je ;;m’;étais excusé;;tu ;;t’;étais excusé;;il //elle //on ;;s’;était excusé;;nous ;;nous ;étions excusés;;vous ;;vous ;étiez excusés;;ils //elles ;;s’;étaient excusés
+Indicatif Passé Simple;indicatif;;je ;;m’;excusai;;tu ;;t’;excusas;;il //elle //on ;;s’;excusa;;nous ;;nous ;excusâmes;;vous ;;vous ;excusâtes;;ils //elles ;;s’;excusèrent
+Indicatif Passé Antérieur;indicatif;;je ;;me ;fus excusé;;tu ;;te ;fus excusé;;il //elle //on ;;se ;fut excusé;;nous ;;nous ;fûmes excusés;;vous ;;vous ;fûtes excusés;;ils //elles ;;se ;furent excusés
+Indicatif Futur Simple;indicatif;;je ;;m’;excuserai;;tu ;;t’;excuseras;;il //elle //on ;;s’;excusera;;nous ;;nous ;excuserons;;vous ;;vous ;excuserez;;ils //elles ;;s’;excuseront
+Indicatif Futur Antérieur;indicatif;;je ;;me ;serai excusé;;tu ;;te ;seras excusé;;il //elle //on ;;se ;sera excusé;;nous ;;nous ;serons excusés;;vous ;;vous ;serez excusés;;ils //elles ;;se ;seront excusés
+Subjonctif Présent;subjonctif;que ;je ;;m’;excuse;que ;tu ;;t’;excuses;qu’;il //elle //on ;;s’;excuse;que ;nous ;;nous ;excusions;que ;vous ;;vous ;excusiez;qu’;ils //elles ;;s’;excusent
+Subjonctif Passé;subjonctif;que ;je ;;me ;sois excusé;que ;tu ;;te ;sois excusé;qu’;il //elle //on ;;se ;soit excusé;que ;nous ;;nous ;soyons excusés;que ;vous ;;vous ;soyez excusés;qu’;ils //elles ;;se ;soient excusés
+Subjonctif Imparfait;subjonctif;que ;je ;;m’;excusasse;que ;tu ;;t’;excusasses;qu’;il //elle //on ;;s’;excusât;que ;nous ;;nous ;excusassions;que ;vous ;;vous ;excusassiez;qu’;ils //elles ;;s’;excusassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;me ;fusse excusé;que ;tu ;;te ;fusses excusé;qu’;il //elle //on ;;se ;fût excusé;que ;nous ;;nous ;fussions excusés;que ;vous ;;vous ;fussiez excusés;qu’;ils //elles ;;se ;fussent excusés
+Conditionnel Présent;conditionnel;;je ;;m’;excuserais;;tu ;;t’;excuserais;;il //elle //on ;;s’;excuserait;;nous ;;nous ;excuserions;;vous ;;vous ;excuseriez;;ils //elles ;;s’;excuseraient
+Conditionnel Passé;conditionnel;;je ;;me ;serais excusé;;tu ;;te ;serais excusé;;il //elle //on ;;se ;serait excusé;;nous ;;nous ;serions excusés;;vous ;;vous ;seriez excusés;;ils //elles ;;se ;seraient excusés
 Impératif Présent;impératif;;;;;;;(tu) ;;;excuse-toi;;;;;;;(nous) ;;;excusons-nous;;(vous) ;;;excusez-vous;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;t’;excuse pas ;;;;;;;(nous) ;ne ;nous ;excusons pas ;;(vous) ;ne ;vous ;excusez pas ;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

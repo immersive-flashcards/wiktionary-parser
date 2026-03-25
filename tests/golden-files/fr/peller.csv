@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en pellant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant pellé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;pellant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;pellé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;pelle;;tu ;;;pelles;;il/elle/on ;;;pelle;;nous ;;;pellons;;vous ;;;pellez;;ils/elles ;;;pellent
-Indicatif Passé Composé;indicatif;;j’;;;ai pellé;;tu ;;;as pellé;;il/elle/on ;;;a pellé;;nous ;;;avons pellé;;vous ;;;avez pellé;;ils/elles ;;;ont pellé
-Indicatif Imparfait;indicatif;;je ;;;pellais;;tu ;;;pellais;;il/elle/on ;;;pellait;;nous ;;;pellions;;vous ;;;pelliez;;ils/elles ;;;pellaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais pellé;;tu ;;;avais pellé;;il/elle/on ;;;avait pellé;;nous ;;;avions pellé;;vous ;;;aviez pellé;;ils/elles ;;;avaient pellé
-Indicatif Passé Simple;indicatif;;je ;;;pellai;;tu ;;;pellas;;il/elle/on ;;;pella;;nous ;;;pellâmes;;vous ;;;pellâtes;;ils/elles ;;;pellèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus pellé;;tu ;;;eus pellé;;il/elle/on ;;;eut pellé;;nous ;;;eûmes pellé;;vous ;;;eûtes pellé;;ils/elles ;;;eurent pellé
-Indicatif Futur Simple;indicatif;;je ;;;pellerai;;tu ;;;pelleras;;il/elle/on ;;;pellera;;nous ;;;pellerons;;vous ;;;pellerez;;ils/elles ;;;pelleront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai pellé;;tu ;;;auras pellé;;il/elle/on ;;;aura pellé;;nous ;;;aurons pellé;;vous ;;;aurez pellé;;ils/elles ;;;auront pellé
-Subjonctif Présent;subjonctif;que ;je ;;;pelle;que ;tu ;;;pelles;qu’;il/elle/on ;;;pelle;que ;nous ;;;pellions;que ;vous ;;;pelliez;qu’;ils/elles ;;;pellent
-Subjonctif Passé;subjonctif;que ;j’;;;aie pellé;que ;tu ;;;aies pellé;qu’;il/elle/on ;;;ait pellé;que ;nous ;;;ayons pellé;que ;vous ;;;ayez pellé;qu’;ils/elles ;;;aient pellé
-Subjonctif Imparfait;subjonctif;que ;je ;;;pellasse;que ;tu ;;;pellasses;qu’;il/elle/on ;;;pellât;que ;nous ;;;pellassions;que ;vous ;;;pellassiez;qu’;ils/elles ;;;pellassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse pellé;que ;tu ;;;eusses pellé;qu’;il/elle/on ;;;eût pellé;que ;nous ;;;eussions pellé;que ;vous ;;;eussiez pellé;qu’;ils/elles ;;;eussent pellé
-Conditionnel Présent;conditionnel;;je ;;;pellerais;;tu ;;;pellerais;;il/elle/on ;;;pellerait;;nous ;;;pellerions;;vous ;;;pelleriez;;ils/elles ;;;pelleraient
-Conditionnel Passé;conditionnel;;j’;;;aurais pellé;;tu ;;;aurais pellé;;il/elle/on ;;;aurait pellé;;nous ;;;aurions pellé;;vous ;;;auriez pellé;;ils/elles ;;;auraient pellé
+Indicatif Présent;indicatif;;je ;;;pelle;;tu ;;;pelles;;il //elle //on ;;;pelle;;nous ;;;pellons;;vous ;;;pellez;;ils //elles ;;;pellent
+Indicatif Passé Composé;indicatif;;j’;;;ai pellé;;tu ;;;as pellé;;il //elle //on ;;;a pellé;;nous ;;;avons pellé;;vous ;;;avez pellé;;ils //elles ;;;ont pellé
+Indicatif Imparfait;indicatif;;je ;;;pellais;;tu ;;;pellais;;il //elle //on ;;;pellait;;nous ;;;pellions;;vous ;;;pelliez;;ils //elles ;;;pellaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais pellé;;tu ;;;avais pellé;;il //elle //on ;;;avait pellé;;nous ;;;avions pellé;;vous ;;;aviez pellé;;ils //elles ;;;avaient pellé
+Indicatif Passé Simple;indicatif;;je ;;;pellai;;tu ;;;pellas;;il //elle //on ;;;pella;;nous ;;;pellâmes;;vous ;;;pellâtes;;ils //elles ;;;pellèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus pellé;;tu ;;;eus pellé;;il //elle //on ;;;eut pellé;;nous ;;;eûmes pellé;;vous ;;;eûtes pellé;;ils //elles ;;;eurent pellé
+Indicatif Futur Simple;indicatif;;je ;;;pellerai;;tu ;;;pelleras;;il //elle //on ;;;pellera;;nous ;;;pellerons;;vous ;;;pellerez;;ils //elles ;;;pelleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai pellé;;tu ;;;auras pellé;;il //elle //on ;;;aura pellé;;nous ;;;aurons pellé;;vous ;;;aurez pellé;;ils //elles ;;;auront pellé
+Subjonctif Présent;subjonctif;que ;je ;;;pelle;que ;tu ;;;pelles;qu’;il //elle //on ;;;pelle;que ;nous ;;;pellions;que ;vous ;;;pelliez;qu’;ils //elles ;;;pellent
+Subjonctif Passé;subjonctif;que ;j’;;;aie pellé;que ;tu ;;;aies pellé;qu’;il //elle //on ;;;ait pellé;que ;nous ;;;ayons pellé;que ;vous ;;;ayez pellé;qu’;ils //elles ;;;aient pellé
+Subjonctif Imparfait;subjonctif;que ;je ;;;pellasse;que ;tu ;;;pellasses;qu’;il //elle //on ;;;pellât;que ;nous ;;;pellassions;que ;vous ;;;pellassiez;qu’;ils //elles ;;;pellassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse pellé;que ;tu ;;;eusses pellé;qu’;il //elle //on ;;;eût pellé;que ;nous ;;;eussions pellé;que ;vous ;;;eussiez pellé;qu’;ils //elles ;;;eussent pellé
+Conditionnel Présent;conditionnel;;je ;;;pellerais;;tu ;;;pellerais;;il //elle //on ;;;pellerait;;nous ;;;pellerions;;vous ;;;pelleriez;;ils //elles ;;;pelleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais pellé;;tu ;;;aurais pellé;;il //elle //on ;;;aurait pellé;;nous ;;;aurions pellé;;vous ;;;auriez pellé;;ils //elles ;;;auraient pellé
 Impératif Présent;impératif;;;;;;;(tu) ;;;pelle;;;;;;;(nous) ;;;pellons;;(vous) ;;;pellez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie pellé;;;;;;;(nous) ;;;ayons pellé;;(vous) ;;;ayez pellé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pelle pas ;;;;;;;(nous) ;ne ;;pellons pas ;;(vous) ;ne ;;pellez pas ;;;;;

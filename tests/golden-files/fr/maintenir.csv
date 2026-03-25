@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en maintenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant maintenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;maintenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;maintenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;maintiens;;tu ;;;maintiens;;il/elle/on ;;;maintient;;nous ;;;maintenons;;vous ;;;maintenez;;ils/elles ;;;maintiennent
-Indicatif Passé Composé;indicatif;;j’;;;ai maintenu;;tu ;;;as maintenu;;il/elle/on ;;;a maintenu;;nous ;;;avons maintenu;;vous ;;;avez maintenu;;ils/elles ;;;ont maintenu
-Indicatif Imparfait;indicatif;;je ;;;maintenais;;tu ;;;maintenais;;il/elle/on ;;;maintenait;;nous ;;;maintenions;;vous ;;;mainteniez;;ils/elles ;;;maintenaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais maintenu;;tu ;;;avais maintenu;;il/elle/on ;;;avait maintenu;;nous ;;;avions maintenu;;vous ;;;aviez maintenu;;ils/elles ;;;avaient maintenu
-Indicatif Passé Simple;indicatif;;je ;;;maintins;;tu ;;;maintins;;il/elle/on ;;;maintint;;nous ;;;maintînmes;;vous ;;;maintîntes;;ils/elles ;;;maintinrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus maintenu;;tu ;;;eus maintenu;;il/elle/on ;;;eut maintenu;;nous ;;;eûmes maintenu;;vous ;;;eûtes maintenu;;ils/elles ;;;eurent maintenu
-Indicatif Futur Simple;indicatif;;je ;;;maintiendrai;;tu ;;;maintiendras;;il/elle/on ;;;maintiendra;;nous ;;;maintiendrons;;vous ;;;maintiendrez;;ils/elles ;;;maintiendront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai maintenu;;tu ;;;auras maintenu;;il/elle/on ;;;aura maintenu;;nous ;;;aurons maintenu;;vous ;;;aurez maintenu;;ils/elles ;;;auront maintenu
-Subjonctif Présent;subjonctif;que ;je ;;;maintienne;que ;tu ;;;maintiennes;qu’;il/elle/on ;;;maintienne;que ;nous ;;;maintenions;que ;vous ;;;mainteniez;qu’;ils/elles ;;;maintiennent
-Subjonctif Passé;subjonctif;que ;j’;;;aie maintenu;que ;tu ;;;aies maintenu;qu’;il/elle/on ;;;ait maintenu;que ;nous ;;;ayons maintenu;que ;vous ;;;ayez maintenu;qu’;ils/elles ;;;aient maintenu
-Subjonctif Imparfait;subjonctif;que ;je ;;;maintinsse;que ;tu ;;;maintinsses;qu’;il/elle/on ;;;maintînt;que ;nous ;;;maintinssions;que ;vous ;;;maintinssiez;qu’;ils/elles ;;;maintinssent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse maintenu;que ;tu ;;;eusses maintenu;qu’;il/elle/on ;;;eût maintenu;que ;nous ;;;eussions maintenu;que ;vous ;;;eussiez maintenu;qu’;ils/elles ;;;eussent maintenu
-Conditionnel Présent;conditionnel;;je ;;;maintiendrais;;tu ;;;maintiendrais;;il/elle/on ;;;maintiendrait;;nous ;;;maintiendrions;;vous ;;;maintiendriez;;ils/elles ;;;maintiendraient
-Conditionnel Passé;conditionnel;;j’;;;aurais maintenu;;tu ;;;aurais maintenu;;il/elle/on ;;;aurait maintenu;;nous ;;;aurions maintenu;;vous ;;;auriez maintenu;;ils/elles ;;;auraient maintenu
+Indicatif Présent;indicatif;;je ;;;maintiens;;tu ;;;maintiens;;il //elle //on ;;;maintient;;nous ;;;maintenons;;vous ;;;maintenez;;ils //elles ;;;maintiennent
+Indicatif Passé Composé;indicatif;;j’;;;ai maintenu;;tu ;;;as maintenu;;il //elle //on ;;;a maintenu;;nous ;;;avons maintenu;;vous ;;;avez maintenu;;ils //elles ;;;ont maintenu
+Indicatif Imparfait;indicatif;;je ;;;maintenais;;tu ;;;maintenais;;il //elle //on ;;;maintenait;;nous ;;;maintenions;;vous ;;;mainteniez;;ils //elles ;;;maintenaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais maintenu;;tu ;;;avais maintenu;;il //elle //on ;;;avait maintenu;;nous ;;;avions maintenu;;vous ;;;aviez maintenu;;ils //elles ;;;avaient maintenu
+Indicatif Passé Simple;indicatif;;je ;;;maintins;;tu ;;;maintins;;il //elle //on ;;;maintint;;nous ;;;maintînmes;;vous ;;;maintîntes;;ils //elles ;;;maintinrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus maintenu;;tu ;;;eus maintenu;;il //elle //on ;;;eut maintenu;;nous ;;;eûmes maintenu;;vous ;;;eûtes maintenu;;ils //elles ;;;eurent maintenu
+Indicatif Futur Simple;indicatif;;je ;;;maintiendrai;;tu ;;;maintiendras;;il //elle //on ;;;maintiendra;;nous ;;;maintiendrons;;vous ;;;maintiendrez;;ils //elles ;;;maintiendront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai maintenu;;tu ;;;auras maintenu;;il //elle //on ;;;aura maintenu;;nous ;;;aurons maintenu;;vous ;;;aurez maintenu;;ils //elles ;;;auront maintenu
+Subjonctif Présent;subjonctif;que ;je ;;;maintienne;que ;tu ;;;maintiennes;qu’;il //elle //on ;;;maintienne;que ;nous ;;;maintenions;que ;vous ;;;mainteniez;qu’;ils //elles ;;;maintiennent
+Subjonctif Passé;subjonctif;que ;j’;;;aie maintenu;que ;tu ;;;aies maintenu;qu’;il //elle //on ;;;ait maintenu;que ;nous ;;;ayons maintenu;que ;vous ;;;ayez maintenu;qu’;ils //elles ;;;aient maintenu
+Subjonctif Imparfait;subjonctif;que ;je ;;;maintinsse;que ;tu ;;;maintinsses;qu’;il //elle //on ;;;maintînt;que ;nous ;;;maintinssions;que ;vous ;;;maintinssiez;qu’;ils //elles ;;;maintinssent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse maintenu;que ;tu ;;;eusses maintenu;qu’;il //elle //on ;;;eût maintenu;que ;nous ;;;eussions maintenu;que ;vous ;;;eussiez maintenu;qu’;ils //elles ;;;eussent maintenu
+Conditionnel Présent;conditionnel;;je ;;;maintiendrais;;tu ;;;maintiendrais;;il //elle //on ;;;maintiendrait;;nous ;;;maintiendrions;;vous ;;;maintiendriez;;ils //elles ;;;maintiendraient
+Conditionnel Passé;conditionnel;;j’;;;aurais maintenu;;tu ;;;aurais maintenu;;il //elle //on ;;;aurait maintenu;;nous ;;;aurions maintenu;;vous ;;;auriez maintenu;;ils //elles ;;;auraient maintenu
 Impératif Présent;impératif;;;;;;;(tu) ;;;maintiens;;;;;;;(nous) ;;;maintenons;;(vous) ;;;maintenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie maintenu;;;;;;;(nous) ;;;ayons maintenu;;(vous) ;;;ayez maintenu;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;maintiens pas ;;;;;;;(nous) ;ne ;;maintenons pas ;;(vous) ;ne ;;maintenez pas ;;;;;

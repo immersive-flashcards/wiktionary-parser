@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en apportant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant apporté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;apportant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;apporté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;apporte;;tu ;;;apportes;;il/elle/on ;;;apporte;;nous ;;;apportons;;vous ;;;apportez;;ils/elles ;;;apportent
-Indicatif Passé Composé;indicatif;;j’;;;ai apporté;;tu ;;;as apporté;;il/elle/on ;;;a apporté;;nous ;;;avons apporté;;vous ;;;avez apporté;;ils/elles ;;;ont apporté
-Indicatif Imparfait;indicatif;;j’;;;apportais;;tu ;;;apportais;;il/elle/on ;;;apportait;;nous ;;;apportions;;vous ;;;apportiez;;ils/elles ;;;apportaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais apporté;;tu ;;;avais apporté;;il/elle/on ;;;avait apporté;;nous ;;;avions apporté;;vous ;;;aviez apporté;;ils/elles ;;;avaient apporté
-Indicatif Passé Simple;indicatif;;j’;;;apportai;;tu ;;;apportas;;il/elle/on ;;;apporta;;nous ;;;apportâmes;;vous ;;;apportâtes;;ils/elles ;;;apportèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus apporté;;tu ;;;eus apporté;;il/elle/on ;;;eut apporté;;nous ;;;eûmes apporté;;vous ;;;eûtes apporté;;ils/elles ;;;eurent apporté
-Indicatif Futur Simple;indicatif;;j’;;;apporterai;;tu ;;;apporteras;;il/elle/on ;;;apportera;;nous ;;;apporterons;;vous ;;;apporterez;;ils/elles ;;;apporteront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai apporté;;tu ;;;auras apporté;;il/elle/on ;;;aura apporté;;nous ;;;aurons apporté;;vous ;;;aurez apporté;;ils/elles ;;;auront apporté
-Subjonctif Présent;subjonctif;que ;j’;;;apporte;que ;tu ;;;apportes;qu’;il/elle/on ;;;apporte;que ;nous ;;;apportions;que ;vous ;;;apportiez;qu’;ils/elles ;;;apportent
-Subjonctif Passé;subjonctif;que ;j’;;;aie apporté;que ;tu ;;;aies apporté;qu’;il/elle/on ;;;ait apporté;que ;nous ;;;ayons apporté;que ;vous ;;;ayez apporté;qu’;ils/elles ;;;aient apporté
-Subjonctif Imparfait;subjonctif;que ;j’;;;apportasse;que ;tu ;;;apportasses;qu’;il/elle/on ;;;apportât;que ;nous ;;;apportassions;que ;vous ;;;apportassiez;qu’;ils/elles ;;;apportassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse apporté;que ;tu ;;;eusses apporté;qu’;il/elle/on ;;;eût apporté;que ;nous ;;;eussions apporté;que ;vous ;;;eussiez apporté;qu’;ils/elles ;;;eussent apporté
-Conditionnel Présent;conditionnel;;j’;;;apporterais;;tu ;;;apporterais;;il/elle/on ;;;apporterait;;nous ;;;apporterions;;vous ;;;apporteriez;;ils/elles ;;;apporteraient
-Conditionnel Passé;conditionnel;;j’;;;aurais apporté;;tu ;;;aurais apporté;;il/elle/on ;;;aurait apporté;;nous ;;;aurions apporté;;vous ;;;auriez apporté;;ils/elles ;;;auraient apporté
+Indicatif Présent;indicatif;;j’;;;apporte;;tu ;;;apportes;;il //elle //on ;;;apporte;;nous ;;;apportons;;vous ;;;apportez;;ils //elles ;;;apportent
+Indicatif Passé Composé;indicatif;;j’;;;ai apporté;;tu ;;;as apporté;;il //elle //on ;;;a apporté;;nous ;;;avons apporté;;vous ;;;avez apporté;;ils //elles ;;;ont apporté
+Indicatif Imparfait;indicatif;;j’;;;apportais;;tu ;;;apportais;;il //elle //on ;;;apportait;;nous ;;;apportions;;vous ;;;apportiez;;ils //elles ;;;apportaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais apporté;;tu ;;;avais apporté;;il //elle //on ;;;avait apporté;;nous ;;;avions apporté;;vous ;;;aviez apporté;;ils //elles ;;;avaient apporté
+Indicatif Passé Simple;indicatif;;j’;;;apportai;;tu ;;;apportas;;il //elle //on ;;;apporta;;nous ;;;apportâmes;;vous ;;;apportâtes;;ils //elles ;;;apportèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus apporté;;tu ;;;eus apporté;;il //elle //on ;;;eut apporté;;nous ;;;eûmes apporté;;vous ;;;eûtes apporté;;ils //elles ;;;eurent apporté
+Indicatif Futur Simple;indicatif;;j’;;;apporterai;;tu ;;;apporteras;;il //elle //on ;;;apportera;;nous ;;;apporterons;;vous ;;;apporterez;;ils //elles ;;;apporteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai apporté;;tu ;;;auras apporté;;il //elle //on ;;;aura apporté;;nous ;;;aurons apporté;;vous ;;;aurez apporté;;ils //elles ;;;auront apporté
+Subjonctif Présent;subjonctif;que ;j’;;;apporte;que ;tu ;;;apportes;qu’;il //elle //on ;;;apporte;que ;nous ;;;apportions;que ;vous ;;;apportiez;qu’;ils //elles ;;;apportent
+Subjonctif Passé;subjonctif;que ;j’;;;aie apporté;que ;tu ;;;aies apporté;qu’;il //elle //on ;;;ait apporté;que ;nous ;;;ayons apporté;que ;vous ;;;ayez apporté;qu’;ils //elles ;;;aient apporté
+Subjonctif Imparfait;subjonctif;que ;j’;;;apportasse;que ;tu ;;;apportasses;qu’;il //elle //on ;;;apportât;que ;nous ;;;apportassions;que ;vous ;;;apportassiez;qu’;ils //elles ;;;apportassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse apporté;que ;tu ;;;eusses apporté;qu’;il //elle //on ;;;eût apporté;que ;nous ;;;eussions apporté;que ;vous ;;;eussiez apporté;qu’;ils //elles ;;;eussent apporté
+Conditionnel Présent;conditionnel;;j’;;;apporterais;;tu ;;;apporterais;;il //elle //on ;;;apporterait;;nous ;;;apporterions;;vous ;;;apporteriez;;ils //elles ;;;apporteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais apporté;;tu ;;;aurais apporté;;il //elle //on ;;;aurait apporté;;nous ;;;aurions apporté;;vous ;;;auriez apporté;;ils //elles ;;;auraient apporté
 Impératif Présent;impératif;;;;;;;(tu) ;;;apporte;;;;;;;(nous) ;;;apportons;;(vous) ;;;apportez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie apporté;;;;;;;(nous) ;;;ayons apporté;;(vous) ;;;ayez apporté;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;apporte pas ;;;;;;;(nous) ;n';;apportons pas ;;(vous) ;n';;apportez pas ;;;;;

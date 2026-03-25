@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en obéissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant obéi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;obéissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;obéi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;obéis;;tu ;;;obéis;;il/elle/on ;;;obéit;;nous ;;;obéissons;;vous ;;;obéissez;;ils/elles ;;;obéissent
-Indicatif Passé Composé;indicatif;;j’;;;ai obéi;;tu ;;;as obéi;;il/elle/on ;;;a obéi;;nous ;;;avons obéi;;vous ;;;avez obéi;;ils/elles ;;;ont obéi
-Indicatif Imparfait;indicatif;;j’;;;obéissais;;tu ;;;obéissais;;il/elle/on ;;;obéissait;;nous ;;;obéissions;;vous ;;;obéissiez;;ils/elles ;;;obéissaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais obéi;;tu ;;;avais obéi;;il/elle/on ;;;avait obéi;;nous ;;;avions obéi;;vous ;;;aviez obéi;;ils/elles ;;;avaient obéi
-Indicatif Passé Simple;indicatif;;j’;;;obéis;;tu ;;;obéis;;il/elle/on ;;;obéit;;nous ;;;obéîmes;;vous ;;;obéîtes;;ils/elles ;;;obéirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus obéi;;tu ;;;eus obéi;;il/elle/on ;;;eut obéi;;nous ;;;eûmes obéi;;vous ;;;eûtes obéi;;ils/elles ;;;eurent obéi
-Indicatif Futur Simple;indicatif;;j’;;;obéirai;;tu ;;;obéiras;;il/elle/on ;;;obéira;;nous ;;;obéirons;;vous ;;;obéirez;;ils/elles ;;;obéiront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai obéi;;tu ;;;auras obéi;;il/elle/on ;;;aura obéi;;nous ;;;aurons obéi;;vous ;;;aurez obéi;;ils/elles ;;;auront obéi
-Subjonctif Présent;subjonctif;que ;j’;;;obéisse;que ;tu ;;;obéisses;qu’;il/elle/on ;;;obéisse;que ;nous ;;;obéissions;que ;vous ;;;obéissiez;qu’;ils/elles ;;;obéissent
-Subjonctif Passé;subjonctif;que ;j’;;;aie obéi;que ;tu ;;;aies obéi;qu’;il/elle/on ;;;ait obéi;que ;nous ;;;ayons obéi;que ;vous ;;;ayez obéi;qu’;ils/elles ;;;aient obéi
-Subjonctif Imparfait;subjonctif;que ;j’;;;obéisse;que ;tu ;;;obéisses;qu’;il/elle/on ;;;obéît;que ;nous ;;;obéissions;que ;vous ;;;obéissiez;qu’;ils/elles ;;;obéissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse obéi;que ;tu ;;;eusses obéi;qu’;il/elle/on ;;;eût obéi;que ;nous ;;;eussions obéi;que ;vous ;;;eussiez obéi;qu’;ils/elles ;;;eussent obéi
-Conditionnel Présent;conditionnel;;j’;;;obéirais;;tu ;;;obéirais;;il/elle/on ;;;obéirait;;nous ;;;obéirions;;vous ;;;obéiriez;;ils/elles ;;;obéiraient
-Conditionnel Passé;conditionnel;;j’;;;aurais obéi;;tu ;;;aurais obéi;;il/elle/on ;;;aurait obéi;;nous ;;;aurions obéi;;vous ;;;auriez obéi;;ils/elles ;;;auraient obéi
+Indicatif Présent;indicatif;;j’;;;obéis;;tu ;;;obéis;;il //elle //on ;;;obéit;;nous ;;;obéissons;;vous ;;;obéissez;;ils //elles ;;;obéissent
+Indicatif Passé Composé;indicatif;;j’;;;ai obéi;;tu ;;;as obéi;;il //elle //on ;;;a obéi;;nous ;;;avons obéi;;vous ;;;avez obéi;;ils //elles ;;;ont obéi
+Indicatif Imparfait;indicatif;;j’;;;obéissais;;tu ;;;obéissais;;il //elle //on ;;;obéissait;;nous ;;;obéissions;;vous ;;;obéissiez;;ils //elles ;;;obéissaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais obéi;;tu ;;;avais obéi;;il //elle //on ;;;avait obéi;;nous ;;;avions obéi;;vous ;;;aviez obéi;;ils //elles ;;;avaient obéi
+Indicatif Passé Simple;indicatif;;j’;;;obéis;;tu ;;;obéis;;il //elle //on ;;;obéit;;nous ;;;obéîmes;;vous ;;;obéîtes;;ils //elles ;;;obéirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus obéi;;tu ;;;eus obéi;;il //elle //on ;;;eut obéi;;nous ;;;eûmes obéi;;vous ;;;eûtes obéi;;ils //elles ;;;eurent obéi
+Indicatif Futur Simple;indicatif;;j’;;;obéirai;;tu ;;;obéiras;;il //elle //on ;;;obéira;;nous ;;;obéirons;;vous ;;;obéirez;;ils //elles ;;;obéiront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai obéi;;tu ;;;auras obéi;;il //elle //on ;;;aura obéi;;nous ;;;aurons obéi;;vous ;;;aurez obéi;;ils //elles ;;;auront obéi
+Subjonctif Présent;subjonctif;que ;j’;;;obéisse;que ;tu ;;;obéisses;qu’;il //elle //on ;;;obéisse;que ;nous ;;;obéissions;que ;vous ;;;obéissiez;qu’;ils //elles ;;;obéissent
+Subjonctif Passé;subjonctif;que ;j’;;;aie obéi;que ;tu ;;;aies obéi;qu’;il //elle //on ;;;ait obéi;que ;nous ;;;ayons obéi;que ;vous ;;;ayez obéi;qu’;ils //elles ;;;aient obéi
+Subjonctif Imparfait;subjonctif;que ;j’;;;obéisse;que ;tu ;;;obéisses;qu’;il //elle //on ;;;obéît;que ;nous ;;;obéissions;que ;vous ;;;obéissiez;qu’;ils //elles ;;;obéissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse obéi;que ;tu ;;;eusses obéi;qu’;il //elle //on ;;;eût obéi;que ;nous ;;;eussions obéi;que ;vous ;;;eussiez obéi;qu’;ils //elles ;;;eussent obéi
+Conditionnel Présent;conditionnel;;j’;;;obéirais;;tu ;;;obéirais;;il //elle //on ;;;obéirait;;nous ;;;obéirions;;vous ;;;obéiriez;;ils //elles ;;;obéiraient
+Conditionnel Passé;conditionnel;;j’;;;aurais obéi;;tu ;;;aurais obéi;;il //elle //on ;;;aurait obéi;;nous ;;;aurions obéi;;vous ;;;auriez obéi;;ils //elles ;;;auraient obéi
 Impératif Présent;impératif;;;;;;;(tu) ;;;obéis;;;;;;;(nous) ;;;obéissons;;(vous) ;;;obéissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie obéi;;;;;;;(nous) ;;;ayons obéi;;(vous) ;;;ayez obéi;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;obéis pas ;;;;;;;(nous) ;n';;obéissons pas ;;(vous) ;n';;obéissez pas ;;;;;

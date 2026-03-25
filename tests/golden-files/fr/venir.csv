@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en venant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en étant venu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;venant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;venu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;viens;;tu ;;;viens;;il/elle/on ;;;vient;;nous ;;;venons;;vous ;;;venez;;ils/elles ;;;viennent
-Indicatif Passé Composé;indicatif;;je ;;;suis venu;;tu ;;;es venu;;il/elle/on ;;;est venu;;nous ;;;sommes venus;;vous ;;;êtes venus;;ils/elles ;;;sont venus
-Indicatif Imparfait;indicatif;;je ;;;venais;;tu ;;;venais;;il/elle/on ;;;venait;;nous ;;;venions;;vous ;;;veniez;;ils/elles ;;;venaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais venu;;tu ;;;étais venu;;il/elle/on ;;;était venu;;nous ;;;étions venus;;vous ;;;étiez venus;;ils/elles ;;;étaient venus
-Indicatif Passé Simple;indicatif;;je ;;;vins;;tu ;;;vins;;il/elle/on ;;;vint;;nous ;;;vînmes;;vous ;;;vîntes;;ils/elles ;;;vinrent
-Indicatif Passé Antérieur;indicatif;;je ;;;fus venu;;tu ;;;fus venu;;il/elle/on ;;;fut venu;;nous ;;;fûmes venus;;vous ;;;fûtes venus;;ils/elles ;;;furent venus
-Indicatif Futur Simple;indicatif;;je ;;;viendrai;;tu ;;;viendras;;il/elle/on ;;;viendra;;nous ;;;viendrons;;vous ;;;viendrez;;ils/elles ;;;viendront
-Indicatif Futur Antérieur;indicatif;;je ;;;serai venu;;tu ;;;seras venu;;il/elle/on ;;;sera venu;;nous ;;;serons venus;;vous ;;;serez venus;;ils/elles ;;;seront venus
-Subjonctif Présent;subjonctif;que ;je ;;;vienne;que ;tu ;;;viennes;qu’;il/elle/on ;;;vienne;que ;nous ;;;venions;que ;vous ;;;veniez;qu’;ils/elles ;;;viennent
-Subjonctif Passé;subjonctif;que ;je ;;;sois venu;que ;tu ;;;sois venu;qu’;il/elle/on ;;;soit venu;que ;nous ;;;soyons venus;que ;vous ;;;soyez venus;qu’;ils/elles ;;;soient venus
-Subjonctif Imparfait;subjonctif;que ;je ;;;vinsse;que ;tu ;;;vinsses;qu’;il/elle/on ;;;vînt;que ;nous ;;;vinssions;que ;vous ;;;vinssiez;qu’;ils/elles ;;;vinssent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse venu;que ;tu ;;;fusses venu;qu’;il/elle/on ;;;fût venu;que ;nous ;;;fussions venus;que ;vous ;;;fussiez venus;qu’;ils/elles ;;;fussent venus
-Conditionnel Présent;conditionnel;;je ;;;viendrais;;tu ;;;viendrais;;il/elle/on ;;;viendrait;;nous ;;;viendrions;;vous ;;;viendriez;;ils/elles ;;;viendraient
-Conditionnel Passé;conditionnel;;je ;;;serais venu;;tu ;;;serais venu;;il/elle/on ;;;serait venu;;nous ;;;serions venus;;vous ;;;seriez venus;;ils/elles ;;;seraient venus
+Indicatif Présent;indicatif;;je ;;;viens;;tu ;;;viens;;il //elle //on ;;;vient;;nous ;;;venons;;vous ;;;venez;;ils //elles ;;;viennent
+Indicatif Passé Composé;indicatif;;je ;;;suis venu;;tu ;;;es venu;;il //elle //on ;;;est venu;;nous ;;;sommes venus;;vous ;;;êtes venus;;ils //elles ;;;sont venus
+Indicatif Imparfait;indicatif;;je ;;;venais;;tu ;;;venais;;il //elle //on ;;;venait;;nous ;;;venions;;vous ;;;veniez;;ils //elles ;;;venaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais venu;;tu ;;;étais venu;;il //elle //on ;;;était venu;;nous ;;;étions venus;;vous ;;;étiez venus;;ils //elles ;;;étaient venus
+Indicatif Passé Simple;indicatif;;je ;;;vins;;tu ;;;vins;;il //elle //on ;;;vint;;nous ;;;vînmes;;vous ;;;vîntes;;ils //elles ;;;vinrent
+Indicatif Passé Antérieur;indicatif;;je ;;;fus venu;;tu ;;;fus venu;;il //elle //on ;;;fut venu;;nous ;;;fûmes venus;;vous ;;;fûtes venus;;ils //elles ;;;furent venus
+Indicatif Futur Simple;indicatif;;je ;;;viendrai;;tu ;;;viendras;;il //elle //on ;;;viendra;;nous ;;;viendrons;;vous ;;;viendrez;;ils //elles ;;;viendront
+Indicatif Futur Antérieur;indicatif;;je ;;;serai venu;;tu ;;;seras venu;;il //elle //on ;;;sera venu;;nous ;;;serons venus;;vous ;;;serez venus;;ils //elles ;;;seront venus
+Subjonctif Présent;subjonctif;que ;je ;;;vienne;que ;tu ;;;viennes;qu’;il //elle //on ;;;vienne;que ;nous ;;;venions;que ;vous ;;;veniez;qu’;ils //elles ;;;viennent
+Subjonctif Passé;subjonctif;que ;je ;;;sois venu;que ;tu ;;;sois venu;qu’;il //elle //on ;;;soit venu;que ;nous ;;;soyons venus;que ;vous ;;;soyez venus;qu’;ils //elles ;;;soient venus
+Subjonctif Imparfait;subjonctif;que ;je ;;;vinsse;que ;tu ;;;vinsses;qu’;il //elle //on ;;;vînt;que ;nous ;;;vinssions;que ;vous ;;;vinssiez;qu’;ils //elles ;;;vinssent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse venu;que ;tu ;;;fusses venu;qu’;il //elle //on ;;;fût venu;que ;nous ;;;fussions venus;que ;vous ;;;fussiez venus;qu’;ils //elles ;;;fussent venus
+Conditionnel Présent;conditionnel;;je ;;;viendrais;;tu ;;;viendrais;;il //elle //on ;;;viendrait;;nous ;;;viendrions;;vous ;;;viendriez;;ils //elles ;;;viendraient
+Conditionnel Passé;conditionnel;;je ;;;serais venu;;tu ;;;serais venu;;il //elle //on ;;;serait venu;;nous ;;;serions venus;;vous ;;;seriez venus;;ils //elles ;;;seraient venus
 Impératif Présent;impératif;;;;;;;(tu) ;;;viens;;;;;;;(nous) ;;;venons;;(vous) ;;;venez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois venu;;;;;;;(nous) ;;;soyons venus;;(vous) ;;;soyez venus;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;viens pas ;;;;;;;(nous) ;ne ;;venons pas ;;(vous) ;ne ;;venez pas ;;;;;

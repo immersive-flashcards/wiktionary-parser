@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en écrivant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant écrit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;écrivant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;écrit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;écris;;tu ;;;écris;;il/elle/on ;;;écrit;;nous ;;;écrivons;;vous ;;;écrivez;;ils/elles ;;;écrivent
-Indicatif Passé Composé;indicatif;;j’;;;ai écrit;;tu ;;;as écrit;;il/elle/on ;;;a écrit;;nous ;;;avons écrit;;vous ;;;avez écrit;;ils/elles ;;;ont écrit
-Indicatif Imparfait;indicatif;;j’;;;écrivais;;tu ;;;écrivais;;il/elle/on ;;;écrivait;;nous ;;;écrivions;;vous ;;;écriviez;;ils/elles ;;;écrivaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais écrit;;tu ;;;avais écrit;;il/elle/on ;;;avait écrit;;nous ;;;avions écrit;;vous ;;;aviez écrit;;ils/elles ;;;avaient écrit
-Indicatif Passé Simple;indicatif;;j’;;;écrivis;;tu ;;;écrivis;;il/elle/on ;;;écrivit;;nous ;;;écrivîmes;;vous ;;;écrivîtes;;ils/elles ;;;écrivirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus écrit;;tu ;;;eus écrit;;il/elle/on ;;;eut écrit;;nous ;;;eûmes écrit;;vous ;;;eûtes écrit;;ils/elles ;;;eurent écrit
-Indicatif Futur Simple;indicatif;;j’;;;écrirai;;tu ;;;écriras;;il/elle/on ;;;écrira;;nous ;;;écrirons;;vous ;;;écrirez;;ils/elles ;;;écriront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai écrit;;tu ;;;auras écrit;;il/elle/on ;;;aura écrit;;nous ;;;aurons écrit;;vous ;;;aurez écrit;;ils/elles ;;;auront écrit
-Subjonctif Présent;subjonctif;que ;j’;;;écrive;que ;tu ;;;écrives;qu’;il/elle/on ;;;écrive;que ;nous ;;;écrivions;que ;vous ;;;écriviez;qu’;ils/elles ;;;écrivent
-Subjonctif Passé;subjonctif;que ;j’;;;aie écrit;que ;tu ;;;aies écrit;qu’;il/elle/on ;;;ait écrit;que ;nous ;;;ayons écrit;que ;vous ;;;ayez écrit;qu’;ils/elles ;;;aient écrit
-Subjonctif Imparfait;subjonctif;que ;j’;;;écrivisse;que ;tu ;;;écrivisses;qu’;il/elle/on ;;;écrivît;que ;nous ;;;écrivissions;que ;vous ;;;écrivissiez;qu’;ils/elles ;;;écrivissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse écrit;que ;tu ;;;eusses écrit;qu’;il/elle/on ;;;eût écrit;que ;nous ;;;eussions écrit;que ;vous ;;;eussiez écrit;qu’;ils/elles ;;;eussent écrit
-Conditionnel Présent;conditionnel;;j’;;;écrirais;;tu ;;;écrirais;;il/elle/on ;;;écrirait;;nous ;;;écririons;;vous ;;;écririez;;ils/elles ;;;écriraient
-Conditionnel Passé;conditionnel;;j’;;;aurais écrit;;tu ;;;aurais écrit;;il/elle/on ;;;aurait écrit;;nous ;;;aurions écrit;;vous ;;;auriez écrit;;ils/elles ;;;auraient écrit
+Indicatif Présent;indicatif;;j’;;;écris;;tu ;;;écris;;il //elle //on ;;;écrit;;nous ;;;écrivons;;vous ;;;écrivez;;ils //elles ;;;écrivent
+Indicatif Passé Composé;indicatif;;j’;;;ai écrit;;tu ;;;as écrit;;il //elle //on ;;;a écrit;;nous ;;;avons écrit;;vous ;;;avez écrit;;ils //elles ;;;ont écrit
+Indicatif Imparfait;indicatif;;j’;;;écrivais;;tu ;;;écrivais;;il //elle //on ;;;écrivait;;nous ;;;écrivions;;vous ;;;écriviez;;ils //elles ;;;écrivaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais écrit;;tu ;;;avais écrit;;il //elle //on ;;;avait écrit;;nous ;;;avions écrit;;vous ;;;aviez écrit;;ils //elles ;;;avaient écrit
+Indicatif Passé Simple;indicatif;;j’;;;écrivis;;tu ;;;écrivis;;il //elle //on ;;;écrivit;;nous ;;;écrivîmes;;vous ;;;écrivîtes;;ils //elles ;;;écrivirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus écrit;;tu ;;;eus écrit;;il //elle //on ;;;eut écrit;;nous ;;;eûmes écrit;;vous ;;;eûtes écrit;;ils //elles ;;;eurent écrit
+Indicatif Futur Simple;indicatif;;j’;;;écrirai;;tu ;;;écriras;;il //elle //on ;;;écrira;;nous ;;;écrirons;;vous ;;;écrirez;;ils //elles ;;;écriront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai écrit;;tu ;;;auras écrit;;il //elle //on ;;;aura écrit;;nous ;;;aurons écrit;;vous ;;;aurez écrit;;ils //elles ;;;auront écrit
+Subjonctif Présent;subjonctif;que ;j’;;;écrive;que ;tu ;;;écrives;qu’;il //elle //on ;;;écrive;que ;nous ;;;écrivions;que ;vous ;;;écriviez;qu’;ils //elles ;;;écrivent
+Subjonctif Passé;subjonctif;que ;j’;;;aie écrit;que ;tu ;;;aies écrit;qu’;il //elle //on ;;;ait écrit;que ;nous ;;;ayons écrit;que ;vous ;;;ayez écrit;qu’;ils //elles ;;;aient écrit
+Subjonctif Imparfait;subjonctif;que ;j’;;;écrivisse;que ;tu ;;;écrivisses;qu’;il //elle //on ;;;écrivît;que ;nous ;;;écrivissions;que ;vous ;;;écrivissiez;qu’;ils //elles ;;;écrivissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse écrit;que ;tu ;;;eusses écrit;qu’;il //elle //on ;;;eût écrit;que ;nous ;;;eussions écrit;que ;vous ;;;eussiez écrit;qu’;ils //elles ;;;eussent écrit
+Conditionnel Présent;conditionnel;;j’;;;écrirais;;tu ;;;écrirais;;il //elle //on ;;;écrirait;;nous ;;;écririons;;vous ;;;écririez;;ils //elles ;;;écriraient
+Conditionnel Passé;conditionnel;;j’;;;aurais écrit;;tu ;;;aurais écrit;;il //elle //on ;;;aurait écrit;;nous ;;;aurions écrit;;vous ;;;auriez écrit;;ils //elles ;;;auraient écrit
 Impératif Présent;impératif;;;;;;;(tu) ;;;écris;;;;;;;(nous) ;;;écrivons;;(vous) ;;;écrivez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie écrit;;;;;;;(nous) ;;;ayons écrit;;(vous) ;;;ayez écrit;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;écris pas ;;;;;;;(nous) ;n';;écrivons pas ;;(vous) ;n';;écrivez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en expliquant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant expliqué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;expliquant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;expliqué;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;explique;;tu ;;;expliques;;il/elle/on ;;;explique;;nous ;;;expliquons;;vous ;;;expliquez;;ils/elles ;;;expliquent
-Indicatif Passé Composé;indicatif;;j’;;;ai expliqué;;tu ;;;as expliqué;;il/elle/on ;;;a expliqué;;nous ;;;avons expliqué;;vous ;;;avez expliqué;;ils/elles ;;;ont expliqué
-Indicatif Imparfait;indicatif;;j’;;;expliquais;;tu ;;;expliquais;;il/elle/on ;;;expliquait;;nous ;;;expliquions;;vous ;;;expliquiez;;ils/elles ;;;expliquaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais expliqué;;tu ;;;avais expliqué;;il/elle/on ;;;avait expliqué;;nous ;;;avions expliqué;;vous ;;;aviez expliqué;;ils/elles ;;;avaient expliqué
-Indicatif Passé Simple;indicatif;;j’;;;expliquai;;tu ;;;expliquas;;il/elle/on ;;;expliqua;;nous ;;;expliquâmes;;vous ;;;expliquâtes;;ils/elles ;;;expliquèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus expliqué;;tu ;;;eus expliqué;;il/elle/on ;;;eut expliqué;;nous ;;;eûmes expliqué;;vous ;;;eûtes expliqué;;ils/elles ;;;eurent expliqué
-Indicatif Futur Simple;indicatif;;j’;;;expliquerai;;tu ;;;expliqueras;;il/elle/on ;;;expliquera;;nous ;;;expliquerons;;vous ;;;expliquerez;;ils/elles ;;;expliqueront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai expliqué;;tu ;;;auras expliqué;;il/elle/on ;;;aura expliqué;;nous ;;;aurons expliqué;;vous ;;;aurez expliqué;;ils/elles ;;;auront expliqué
-Subjonctif Présent;subjonctif;que ;j’;;;explique;que ;tu ;;;expliques;qu’;il/elle/on ;;;explique;que ;nous ;;;expliquions;que ;vous ;;;expliquiez;qu’;ils/elles ;;;expliquent
-Subjonctif Passé;subjonctif;que ;j’;;;aie expliqué;que ;tu ;;;aies expliqué;qu’;il/elle/on ;;;ait expliqué;que ;nous ;;;ayons expliqué;que ;vous ;;;ayez expliqué;qu’;ils/elles ;;;aient expliqué
-Subjonctif Imparfait;subjonctif;que ;j’;;;expliquasse;que ;tu ;;;expliquasses;qu’;il/elle/on ;;;expliquât;que ;nous ;;;expliquassions;que ;vous ;;;expliquassiez;qu’;ils/elles ;;;expliquassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse expliqué;que ;tu ;;;eusses expliqué;qu’;il/elle/on ;;;eût expliqué;que ;nous ;;;eussions expliqué;que ;vous ;;;eussiez expliqué;qu’;ils/elles ;;;eussent expliqué
-Conditionnel Présent;conditionnel;;j’;;;expliquerais;;tu ;;;expliquerais;;il/elle/on ;;;expliquerait;;nous ;;;expliquerions;;vous ;;;expliqueriez;;ils/elles ;;;expliqueraient
-Conditionnel Passé;conditionnel;;j’;;;aurais expliqué;;tu ;;;aurais expliqué;;il/elle/on ;;;aurait expliqué;;nous ;;;aurions expliqué;;vous ;;;auriez expliqué;;ils/elles ;;;auraient expliqué
+Indicatif Présent;indicatif;;j’;;;explique;;tu ;;;expliques;;il //elle //on ;;;explique;;nous ;;;expliquons;;vous ;;;expliquez;;ils //elles ;;;expliquent
+Indicatif Passé Composé;indicatif;;j’;;;ai expliqué;;tu ;;;as expliqué;;il //elle //on ;;;a expliqué;;nous ;;;avons expliqué;;vous ;;;avez expliqué;;ils //elles ;;;ont expliqué
+Indicatif Imparfait;indicatif;;j’;;;expliquais;;tu ;;;expliquais;;il //elle //on ;;;expliquait;;nous ;;;expliquions;;vous ;;;expliquiez;;ils //elles ;;;expliquaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais expliqué;;tu ;;;avais expliqué;;il //elle //on ;;;avait expliqué;;nous ;;;avions expliqué;;vous ;;;aviez expliqué;;ils //elles ;;;avaient expliqué
+Indicatif Passé Simple;indicatif;;j’;;;expliquai;;tu ;;;expliquas;;il //elle //on ;;;expliqua;;nous ;;;expliquâmes;;vous ;;;expliquâtes;;ils //elles ;;;expliquèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus expliqué;;tu ;;;eus expliqué;;il //elle //on ;;;eut expliqué;;nous ;;;eûmes expliqué;;vous ;;;eûtes expliqué;;ils //elles ;;;eurent expliqué
+Indicatif Futur Simple;indicatif;;j’;;;expliquerai;;tu ;;;expliqueras;;il //elle //on ;;;expliquera;;nous ;;;expliquerons;;vous ;;;expliquerez;;ils //elles ;;;expliqueront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai expliqué;;tu ;;;auras expliqué;;il //elle //on ;;;aura expliqué;;nous ;;;aurons expliqué;;vous ;;;aurez expliqué;;ils //elles ;;;auront expliqué
+Subjonctif Présent;subjonctif;que ;j’;;;explique;que ;tu ;;;expliques;qu’;il //elle //on ;;;explique;que ;nous ;;;expliquions;que ;vous ;;;expliquiez;qu’;ils //elles ;;;expliquent
+Subjonctif Passé;subjonctif;que ;j’;;;aie expliqué;que ;tu ;;;aies expliqué;qu’;il //elle //on ;;;ait expliqué;que ;nous ;;;ayons expliqué;que ;vous ;;;ayez expliqué;qu’;ils //elles ;;;aient expliqué
+Subjonctif Imparfait;subjonctif;que ;j’;;;expliquasse;que ;tu ;;;expliquasses;qu’;il //elle //on ;;;expliquât;que ;nous ;;;expliquassions;que ;vous ;;;expliquassiez;qu’;ils //elles ;;;expliquassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse expliqué;que ;tu ;;;eusses expliqué;qu’;il //elle //on ;;;eût expliqué;que ;nous ;;;eussions expliqué;que ;vous ;;;eussiez expliqué;qu’;ils //elles ;;;eussent expliqué
+Conditionnel Présent;conditionnel;;j’;;;expliquerais;;tu ;;;expliquerais;;il //elle //on ;;;expliquerait;;nous ;;;expliquerions;;vous ;;;expliqueriez;;ils //elles ;;;expliqueraient
+Conditionnel Passé;conditionnel;;j’;;;aurais expliqué;;tu ;;;aurais expliqué;;il //elle //on ;;;aurait expliqué;;nous ;;;aurions expliqué;;vous ;;;auriez expliqué;;ils //elles ;;;auraient expliqué
 Impératif Présent;impératif;;;;;;;(tu) ;;;explique;;;;;;;(nous) ;;;expliquons;;(vous) ;;;expliquez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie expliqué;;;;;;;(nous) ;;;ayons expliqué;;(vous) ;;;ayez expliqué;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;explique pas ;;;;;;;(nous) ;n';;expliquons pas ;;(vous) ;n';;expliquez pas ;;;;;

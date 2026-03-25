@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en sevrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant sevré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;sevrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;sevré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;sèvre;;tu ;;;sèvres;;il/elle/on ;;;sèvre;;nous ;;;sevrons;;vous ;;;sevrez;;ils/elles ;;;sèvrent
-Indicatif Passé Composé;indicatif;;j’;;;ai sevré;;tu ;;;as sevré;;il/elle/on ;;;a sevré;;nous ;;;avons sevré;;vous ;;;avez sevré;;ils/elles ;;;ont sevré
-Indicatif Imparfait;indicatif;;je ;;;sevrais;;tu ;;;sevrais;;il/elle/on ;;;sevrait;;nous ;;;sevrions;;vous ;;;sevriez;;ils/elles ;;;sevraient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais sevré;;tu ;;;avais sevré;;il/elle/on ;;;avait sevré;;nous ;;;avions sevré;;vous ;;;aviez sevré;;ils/elles ;;;avaient sevré
-Indicatif Passé Simple;indicatif;;je ;;;sevrai;;tu ;;;sevras;;il/elle/on ;;;sevra;;nous ;;;sevrâmes;;vous ;;;sevrâtes;;ils/elles ;;;sevrèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus sevré;;tu ;;;eus sevré;;il/elle/on ;;;eut sevré;;nous ;;;eûmes sevré;;vous ;;;eûtes sevré;;ils/elles ;;;eurent sevré
-Indicatif Futur Simple;indicatif;;je ;;;sèvrerai;;tu ;;;sèvreras;;il/elle/on ;;;sèvrera;;nous ;;;sèvrerons;;vous ;;;sèvrerez;;ils/elles ;;;sèvreront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai sevré;;tu ;;;auras sevré;;il/elle/on ;;;aura sevré;;nous ;;;aurons sevré;;vous ;;;aurez sevré;;ils/elles ;;;auront sevré
-Subjonctif Présent;subjonctif;que ;je ;;;sèvre;que ;tu ;;;sèvres;qu’;il/elle/on ;;;sèvre;que ;nous ;;;sevrions;que ;vous ;;;sevriez;qu’;ils/elles ;;;sèvrent
-Subjonctif Passé;subjonctif;que ;j’;;;aie sevré;que ;tu ;;;aies sevré;qu’;il/elle/on ;;;ait sevré;que ;nous ;;;ayons sevré;que ;vous ;;;ayez sevré;qu’;ils/elles ;;;aient sevré
-Subjonctif Imparfait;subjonctif;que ;je ;;;sevrasse;que ;tu ;;;sevrasses;qu’;il/elle/on ;;;sevrât;que ;nous ;;;sevrassions;que ;vous ;;;sevrassiez;qu’;ils/elles ;;;sevrassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse sevré;que ;tu ;;;eusses sevré;qu’;il/elle/on ;;;eût sevré;que ;nous ;;;eussions sevré;que ;vous ;;;eussiez sevré;qu’;ils/elles ;;;eussent sevré
-Conditionnel Présent;conditionnel;;je ;;;sèvrerais;;tu ;;;sèvrerais;;il/elle/on ;;;sèvrerait;;nous ;;;sèvrerions;;vous ;;;sèvreriez;;ils/elles ;;;sèvreraient
-Conditionnel Passé;conditionnel;;j’;;;aurais sevré;;tu ;;;aurais sevré;;il/elle/on ;;;aurait sevré;;nous ;;;aurions sevré;;vous ;;;auriez sevré;;ils/elles ;;;auraient sevré
+Indicatif Présent;indicatif;;je ;;;sèvre;;tu ;;;sèvres;;il //elle //on ;;;sèvre;;nous ;;;sevrons;;vous ;;;sevrez;;ils //elles ;;;sèvrent
+Indicatif Passé Composé;indicatif;;j’;;;ai sevré;;tu ;;;as sevré;;il //elle //on ;;;a sevré;;nous ;;;avons sevré;;vous ;;;avez sevré;;ils //elles ;;;ont sevré
+Indicatif Imparfait;indicatif;;je ;;;sevrais;;tu ;;;sevrais;;il //elle //on ;;;sevrait;;nous ;;;sevrions;;vous ;;;sevriez;;ils //elles ;;;sevraient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais sevré;;tu ;;;avais sevré;;il //elle //on ;;;avait sevré;;nous ;;;avions sevré;;vous ;;;aviez sevré;;ils //elles ;;;avaient sevré
+Indicatif Passé Simple;indicatif;;je ;;;sevrai;;tu ;;;sevras;;il //elle //on ;;;sevra;;nous ;;;sevrâmes;;vous ;;;sevrâtes;;ils //elles ;;;sevrèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus sevré;;tu ;;;eus sevré;;il //elle //on ;;;eut sevré;;nous ;;;eûmes sevré;;vous ;;;eûtes sevré;;ils //elles ;;;eurent sevré
+Indicatif Futur Simple;indicatif;;je ;;;sèvrerai;;tu ;;;sèvreras;;il //elle //on ;;;sèvrera;;nous ;;;sèvrerons;;vous ;;;sèvrerez;;ils //elles ;;;sèvreront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai sevré;;tu ;;;auras sevré;;il //elle //on ;;;aura sevré;;nous ;;;aurons sevré;;vous ;;;aurez sevré;;ils //elles ;;;auront sevré
+Subjonctif Présent;subjonctif;que ;je ;;;sèvre;que ;tu ;;;sèvres;qu’;il //elle //on ;;;sèvre;que ;nous ;;;sevrions;que ;vous ;;;sevriez;qu’;ils //elles ;;;sèvrent
+Subjonctif Passé;subjonctif;que ;j’;;;aie sevré;que ;tu ;;;aies sevré;qu’;il //elle //on ;;;ait sevré;que ;nous ;;;ayons sevré;que ;vous ;;;ayez sevré;qu’;ils //elles ;;;aient sevré
+Subjonctif Imparfait;subjonctif;que ;je ;;;sevrasse;que ;tu ;;;sevrasses;qu’;il //elle //on ;;;sevrât;que ;nous ;;;sevrassions;que ;vous ;;;sevrassiez;qu’;ils //elles ;;;sevrassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse sevré;que ;tu ;;;eusses sevré;qu’;il //elle //on ;;;eût sevré;que ;nous ;;;eussions sevré;que ;vous ;;;eussiez sevré;qu’;ils //elles ;;;eussent sevré
+Conditionnel Présent;conditionnel;;je ;;;sèvrerais;;tu ;;;sèvrerais;;il //elle //on ;;;sèvrerait;;nous ;;;sèvrerions;;vous ;;;sèvreriez;;ils //elles ;;;sèvreraient
+Conditionnel Passé;conditionnel;;j’;;;aurais sevré;;tu ;;;aurais sevré;;il //elle //on ;;;aurait sevré;;nous ;;;aurions sevré;;vous ;;;auriez sevré;;ils //elles ;;;auraient sevré
 Impératif Présent;impératif;;;;;;;(tu) ;;;sèvre;;;;;;;(nous) ;;;sevrons;;(vous) ;;;sevrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie sevré;;;;;;;(nous) ;;;ayons sevré;;(vous) ;;;ayez sevré;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sèvre pas ;;;;;;;(nous) ;ne ;;sevrons pas ;;(vous) ;ne ;;sevrez pas ;;;;;

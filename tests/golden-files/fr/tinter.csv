@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en tintant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant tinté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;tintant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;tinté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;tinte;;tu ;;;tintes;;il/elle/on ;;;tinte;;nous ;;;tintons;;vous ;;;tintez;;ils/elles ;;;tintent
-Indicatif Passé Composé;indicatif;;j’;;;ai tinté;;tu ;;;as tinté;;il/elle/on ;;;a tinté;;nous ;;;avons tinté;;vous ;;;avez tinté;;ils/elles ;;;ont tinté
-Indicatif Imparfait;indicatif;;je ;;;tintais;;tu ;;;tintais;;il/elle/on ;;;tintait;;nous ;;;tintions;;vous ;;;tintiez;;ils/elles ;;;tintaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais tinté;;tu ;;;avais tinté;;il/elle/on ;;;avait tinté;;nous ;;;avions tinté;;vous ;;;aviez tinté;;ils/elles ;;;avaient tinté
-Indicatif Passé Simple;indicatif;;je ;;;tintai;;tu ;;;tintas;;il/elle/on ;;;tinta;;nous ;;;tintâmes;;vous ;;;tintâtes;;ils/elles ;;;tintèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus tinté;;tu ;;;eus tinté;;il/elle/on ;;;eut tinté;;nous ;;;eûmes tinté;;vous ;;;eûtes tinté;;ils/elles ;;;eurent tinté
-Indicatif Futur Simple;indicatif;;je ;;;tinterai;;tu ;;;tinteras;;il/elle/on ;;;tintera;;nous ;;;tinterons;;vous ;;;tinterez;;ils/elles ;;;tinteront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai tinté;;tu ;;;auras tinté;;il/elle/on ;;;aura tinté;;nous ;;;aurons tinté;;vous ;;;aurez tinté;;ils/elles ;;;auront tinté
-Subjonctif Présent;subjonctif;que ;je ;;;tinte;que ;tu ;;;tintes;qu’;il/elle/on ;;;tinte;que ;nous ;;;tintions;que ;vous ;;;tintiez;qu’;ils/elles ;;;tintent
-Subjonctif Passé;subjonctif;que ;j’;;;aie tinté;que ;tu ;;;aies tinté;qu’;il/elle/on ;;;ait tinté;que ;nous ;;;ayons tinté;que ;vous ;;;ayez tinté;qu’;ils/elles ;;;aient tinté
-Subjonctif Imparfait;subjonctif;que ;je ;;;tintasse;que ;tu ;;;tintasses;qu’;il/elle/on ;;;tintât;que ;nous ;;;tintassions;que ;vous ;;;tintassiez;qu’;ils/elles ;;;tintassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse tinté;que ;tu ;;;eusses tinté;qu’;il/elle/on ;;;eût tinté;que ;nous ;;;eussions tinté;que ;vous ;;;eussiez tinté;qu’;ils/elles ;;;eussent tinté
-Conditionnel Présent;conditionnel;;je ;;;tinterais;;tu ;;;tinterais;;il/elle/on ;;;tinterait;;nous ;;;tinterions;;vous ;;;tinteriez;;ils/elles ;;;tinteraient
-Conditionnel Passé;conditionnel;;j’;;;aurais tinté;;tu ;;;aurais tinté;;il/elle/on ;;;aurait tinté;;nous ;;;aurions tinté;;vous ;;;auriez tinté;;ils/elles ;;;auraient tinté
+Indicatif Présent;indicatif;;je ;;;tinte;;tu ;;;tintes;;il //elle //on ;;;tinte;;nous ;;;tintons;;vous ;;;tintez;;ils //elles ;;;tintent
+Indicatif Passé Composé;indicatif;;j’;;;ai tinté;;tu ;;;as tinté;;il //elle //on ;;;a tinté;;nous ;;;avons tinté;;vous ;;;avez tinté;;ils //elles ;;;ont tinté
+Indicatif Imparfait;indicatif;;je ;;;tintais;;tu ;;;tintais;;il //elle //on ;;;tintait;;nous ;;;tintions;;vous ;;;tintiez;;ils //elles ;;;tintaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais tinté;;tu ;;;avais tinté;;il //elle //on ;;;avait tinté;;nous ;;;avions tinté;;vous ;;;aviez tinté;;ils //elles ;;;avaient tinté
+Indicatif Passé Simple;indicatif;;je ;;;tintai;;tu ;;;tintas;;il //elle //on ;;;tinta;;nous ;;;tintâmes;;vous ;;;tintâtes;;ils //elles ;;;tintèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus tinté;;tu ;;;eus tinté;;il //elle //on ;;;eut tinté;;nous ;;;eûmes tinté;;vous ;;;eûtes tinté;;ils //elles ;;;eurent tinté
+Indicatif Futur Simple;indicatif;;je ;;;tinterai;;tu ;;;tinteras;;il //elle //on ;;;tintera;;nous ;;;tinterons;;vous ;;;tinterez;;ils //elles ;;;tinteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai tinté;;tu ;;;auras tinté;;il //elle //on ;;;aura tinté;;nous ;;;aurons tinté;;vous ;;;aurez tinté;;ils //elles ;;;auront tinté
+Subjonctif Présent;subjonctif;que ;je ;;;tinte;que ;tu ;;;tintes;qu’;il //elle //on ;;;tinte;que ;nous ;;;tintions;que ;vous ;;;tintiez;qu’;ils //elles ;;;tintent
+Subjonctif Passé;subjonctif;que ;j’;;;aie tinté;que ;tu ;;;aies tinté;qu’;il //elle //on ;;;ait tinté;que ;nous ;;;ayons tinté;que ;vous ;;;ayez tinté;qu’;ils //elles ;;;aient tinté
+Subjonctif Imparfait;subjonctif;que ;je ;;;tintasse;que ;tu ;;;tintasses;qu’;il //elle //on ;;;tintât;que ;nous ;;;tintassions;que ;vous ;;;tintassiez;qu’;ils //elles ;;;tintassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse tinté;que ;tu ;;;eusses tinté;qu’;il //elle //on ;;;eût tinté;que ;nous ;;;eussions tinté;que ;vous ;;;eussiez tinté;qu’;ils //elles ;;;eussent tinté
+Conditionnel Présent;conditionnel;;je ;;;tinterais;;tu ;;;tinterais;;il //elle //on ;;;tinterait;;nous ;;;tinterions;;vous ;;;tinteriez;;ils //elles ;;;tinteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais tinté;;tu ;;;aurais tinté;;il //elle //on ;;;aurait tinté;;nous ;;;aurions tinté;;vous ;;;auriez tinté;;ils //elles ;;;auraient tinté
 Impératif Présent;impératif;;;;;;;(tu) ;;;tinte;;;;;;;(nous) ;;;tintons;;(vous) ;;;tintez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie tinté;;;;;;;(nous) ;;;ayons tinté;;(vous) ;;;ayez tinté;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;tinte pas ;;;;;;;(nous) ;ne ;;tintons pas ;;(vous) ;ne ;;tintez pas ;;;;;

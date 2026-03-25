@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en haïssant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant haï;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;haïssant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;haï;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;hais;;tu ;;;hais;;il/elle/on ;;;hait;;nous ;;;haïssons;;vous ;;;haïssez;;ils/elles ;;;haïssent
-Indicatif Passé Composé;indicatif;;j’;;;ai haï;;tu ;;;as haï;;il/elle/on ;;;a haï;;nous ;;;avons haï;;vous ;;;avez haï;;ils/elles ;;;ont haï
-Indicatif Imparfait;indicatif;;je ;;;haïssais;;tu ;;;haïssais;;il/elle/on ;;;haïssait;;nous ;;;haïssions;;vous ;;;haïssiez;;ils/elles ;;;haïssaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais haï;;tu ;;;avais haï;;il/elle/on ;;;avait haï;;nous ;;;avions haï;;vous ;;;aviez haï;;ils/elles ;;;avaient haï
-Indicatif Passé Simple;indicatif;;je ;;;haïs;;tu ;;;haïs;;il/elle/on ;;;haït;;nous ;;;haïmes;;vous ;;;haïtes;;ils/elles ;;;haïrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus haï;;tu ;;;eus haï;;il/elle/on ;;;eut haï;;nous ;;;eûmes haï;;vous ;;;eûtes haï;;ils/elles ;;;eurent haï
-Indicatif Futur Simple;indicatif;;je ;;;haïrai;;tu ;;;haïras;;il/elle/on ;;;haïra;;nous ;;;haïrons;;vous ;;;haïrez;;ils/elles ;;;haïront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai haï;;tu ;;;auras haï;;il/elle/on ;;;aura haï;;nous ;;;aurons haï;;vous ;;;aurez haï;;ils/elles ;;;auront haï
-Subjonctif Présent;subjonctif;que ;je ;;;haïsse;que ;tu ;;;haïsses;qu’;il/elle/on ;;;haïsse;que ;nous ;;;haïssions;que ;vous ;;;haïssiez;qu’;ils/elles ;;;haïssent
-Subjonctif Passé;subjonctif;que ;j’;;;aie haï;que ;tu ;;;aies haï;qu’;il/elle/on ;;;ait haï;que ;nous ;;;ayons haï;que ;vous ;;;ayez haï;qu’;ils/elles ;;;aient haï
-Subjonctif Imparfait;subjonctif;que ;je ;;;haïsse;que ;tu ;;;haïsses;qu’;il/elle/on ;;;haït;que ;nous ;;;haïssions;que ;vous ;;;haïssiez;qu’;ils/elles ;;;haïssent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse haï;que ;tu ;;;eusses haï;qu’;il/elle/on ;;;eût haï;que ;nous ;;;eussions haï;que ;vous ;;;eussiez haï;qu’;ils/elles ;;;eussent haï
-Conditionnel Présent;conditionnel;;je ;;;haïrais;;tu ;;;haïrais;;il/elle/on ;;;haïrait;;nous ;;;haïrions;;vous ;;;haïriez;;ils/elles ;;;haïraient
-Conditionnel Passé;conditionnel;;j’;;;aurais haï;;tu ;;;aurais haï;;il/elle/on ;;;aurait haï;;nous ;;;aurions haï;;vous ;;;auriez haï;;ils/elles ;;;auraient haï
+Indicatif Présent;indicatif;;je ;;;hais;;tu ;;;hais;;il //elle //on ;;;hait;;nous ;;;haïssons;;vous ;;;haïssez;;ils //elles ;;;haïssent
+Indicatif Passé Composé;indicatif;;j’;;;ai haï;;tu ;;;as haï;;il //elle //on ;;;a haï;;nous ;;;avons haï;;vous ;;;avez haï;;ils //elles ;;;ont haï
+Indicatif Imparfait;indicatif;;je ;;;haïssais;;tu ;;;haïssais;;il //elle //on ;;;haïssait;;nous ;;;haïssions;;vous ;;;haïssiez;;ils //elles ;;;haïssaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais haï;;tu ;;;avais haï;;il //elle //on ;;;avait haï;;nous ;;;avions haï;;vous ;;;aviez haï;;ils //elles ;;;avaient haï
+Indicatif Passé Simple;indicatif;;je ;;;haïs;;tu ;;;haïs;;il //elle //on ;;;haït;;nous ;;;haïmes;;vous ;;;haïtes;;ils //elles ;;;haïrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus haï;;tu ;;;eus haï;;il //elle //on ;;;eut haï;;nous ;;;eûmes haï;;vous ;;;eûtes haï;;ils //elles ;;;eurent haï
+Indicatif Futur Simple;indicatif;;je ;;;haïrai;;tu ;;;haïras;;il //elle //on ;;;haïra;;nous ;;;haïrons;;vous ;;;haïrez;;ils //elles ;;;haïront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai haï;;tu ;;;auras haï;;il //elle //on ;;;aura haï;;nous ;;;aurons haï;;vous ;;;aurez haï;;ils //elles ;;;auront haï
+Subjonctif Présent;subjonctif;que ;je ;;;haïsse;que ;tu ;;;haïsses;qu’;il //elle //on ;;;haïsse;que ;nous ;;;haïssions;que ;vous ;;;haïssiez;qu’;ils //elles ;;;haïssent
+Subjonctif Passé;subjonctif;que ;j’;;;aie haï;que ;tu ;;;aies haï;qu’;il //elle //on ;;;ait haï;que ;nous ;;;ayons haï;que ;vous ;;;ayez haï;qu’;ils //elles ;;;aient haï
+Subjonctif Imparfait;subjonctif;que ;je ;;;haïsse;que ;tu ;;;haïsses;qu’;il //elle //on ;;;haït;que ;nous ;;;haïssions;que ;vous ;;;haïssiez;qu’;ils //elles ;;;haïssent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse haï;que ;tu ;;;eusses haï;qu’;il //elle //on ;;;eût haï;que ;nous ;;;eussions haï;que ;vous ;;;eussiez haï;qu’;ils //elles ;;;eussent haï
+Conditionnel Présent;conditionnel;;je ;;;haïrais;;tu ;;;haïrais;;il //elle //on ;;;haïrait;;nous ;;;haïrions;;vous ;;;haïriez;;ils //elles ;;;haïraient
+Conditionnel Passé;conditionnel;;j’;;;aurais haï;;tu ;;;aurais haï;;il //elle //on ;;;aurait haï;;nous ;;;aurions haï;;vous ;;;auriez haï;;ils //elles ;;;auraient haï
 Impératif Présent;impératif;;;;;;;(tu) ;;;hais;;;;;;;(nous) ;;;haïssons;;(vous) ;;;haïssez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie haï;;;;;;;(nous) ;;;ayons haï;;(vous) ;;;ayez haï;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;hais pas ;;;;;;;(nous) ;ne ;;haïssons pas ;;(vous) ;ne ;;haïssez pas ;;;;;

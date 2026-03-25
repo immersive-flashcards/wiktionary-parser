@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en voyant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant vu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;voyant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;vu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;vois;;tu ;;;vois;;il/elle/on ;;;voit;;nous ;;;voyons;;vous ;;;voyez;;ils/elles ;;;voient
-Indicatif Passé Composé;indicatif;;j’;;;ai vu;;tu ;;;as vu;;il/elle/on ;;;a vu;;nous ;;;avons vu;;vous ;;;avez vu;;ils/elles ;;;ont vu
-Indicatif Imparfait;indicatif;;je ;;;voyais;;tu ;;;voyais;;il/elle/on ;;;voyait;;nous ;;;voyions;;vous ;;;voyiez;;ils/elles ;;;voyaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais vu;;tu ;;;avais vu;;il/elle/on ;;;avait vu;;nous ;;;avions vu;;vous ;;;aviez vu;;ils/elles ;;;avaient vu
-Indicatif Passé Simple;indicatif;;je ;;;vis;;tu ;;;vis;;il/elle/on ;;;vit;;nous ;;;vîmes;;vous ;;;vîtes;;ils/elles ;;;virent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus vu;;tu ;;;eus vu;;il/elle/on ;;;eut vu;;nous ;;;eûmes vu;;vous ;;;eûtes vu;;ils/elles ;;;eurent vu
-Indicatif Futur Simple;indicatif;;je ;;;verrai;;tu ;;;verras;;il/elle/on ;;;verra;;nous ;;;verrons;;vous ;;;verrez;;ils/elles ;;;verront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai vu;;tu ;;;auras vu;;il/elle/on ;;;aura vu;;nous ;;;aurons vu;;vous ;;;aurez vu;;ils/elles ;;;auront vu
-Subjonctif Présent;subjonctif;que ;je ;;;voie;que ;tu ;;;voies;qu’;il/elle/on ;;;voie;que ;nous ;;;voyions;que ;vous ;;;voyiez;qu’;ils/elles ;;;voient
-Subjonctif Passé;subjonctif;que ;j’;;;aie vu;que ;tu ;;;aies vu;qu’;il/elle/on ;;;ait vu;que ;nous ;;;ayons vu;que ;vous ;;;ayez vu;qu’;ils/elles ;;;aient vu
-Subjonctif Imparfait;subjonctif;que ;je ;;;visse;que ;tu ;;;visses;qu’;il/elle/on ;;;vît;que ;nous ;;;vissions;que ;vous ;;;vissiez;qu’;ils/elles ;;;vissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse vu;que ;tu ;;;eusses vu;qu’;il/elle/on ;;;eût vu;que ;nous ;;;eussions vu;que ;vous ;;;eussiez vu;qu’;ils/elles ;;;eussent vu
-Conditionnel Présent;conditionnel;;je ;;;verrais;;tu ;;;verrais;;il/elle/on ;;;verrait;;nous ;;;verrions;;vous ;;;verriez;;ils/elles ;;;verraient
-Conditionnel Passé;conditionnel;;j’;;;aurais vu;;tu ;;;aurais vu;;il/elle/on ;;;aurait vu;;nous ;;;aurions vu;;vous ;;;auriez vu;;ils/elles ;;;auraient vu
+Indicatif Présent;indicatif;;je ;;;vois;;tu ;;;vois;;il //elle //on ;;;voit;;nous ;;;voyons;;vous ;;;voyez;;ils //elles ;;;voient
+Indicatif Passé Composé;indicatif;;j’;;;ai vu;;tu ;;;as vu;;il //elle //on ;;;a vu;;nous ;;;avons vu;;vous ;;;avez vu;;ils //elles ;;;ont vu
+Indicatif Imparfait;indicatif;;je ;;;voyais;;tu ;;;voyais;;il //elle //on ;;;voyait;;nous ;;;voyions;;vous ;;;voyiez;;ils //elles ;;;voyaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais vu;;tu ;;;avais vu;;il //elle //on ;;;avait vu;;nous ;;;avions vu;;vous ;;;aviez vu;;ils //elles ;;;avaient vu
+Indicatif Passé Simple;indicatif;;je ;;;vis;;tu ;;;vis;;il //elle //on ;;;vit;;nous ;;;vîmes;;vous ;;;vîtes;;ils //elles ;;;virent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus vu;;tu ;;;eus vu;;il //elle //on ;;;eut vu;;nous ;;;eûmes vu;;vous ;;;eûtes vu;;ils //elles ;;;eurent vu
+Indicatif Futur Simple;indicatif;;je ;;;verrai;;tu ;;;verras;;il //elle //on ;;;verra;;nous ;;;verrons;;vous ;;;verrez;;ils //elles ;;;verront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai vu;;tu ;;;auras vu;;il //elle //on ;;;aura vu;;nous ;;;aurons vu;;vous ;;;aurez vu;;ils //elles ;;;auront vu
+Subjonctif Présent;subjonctif;que ;je ;;;voie;que ;tu ;;;voies;qu’;il //elle //on ;;;voie;que ;nous ;;;voyions;que ;vous ;;;voyiez;qu’;ils //elles ;;;voient
+Subjonctif Passé;subjonctif;que ;j’;;;aie vu;que ;tu ;;;aies vu;qu’;il //elle //on ;;;ait vu;que ;nous ;;;ayons vu;que ;vous ;;;ayez vu;qu’;ils //elles ;;;aient vu
+Subjonctif Imparfait;subjonctif;que ;je ;;;visse;que ;tu ;;;visses;qu’;il //elle //on ;;;vît;que ;nous ;;;vissions;que ;vous ;;;vissiez;qu’;ils //elles ;;;vissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse vu;que ;tu ;;;eusses vu;qu’;il //elle //on ;;;eût vu;que ;nous ;;;eussions vu;que ;vous ;;;eussiez vu;qu’;ils //elles ;;;eussent vu
+Conditionnel Présent;conditionnel;;je ;;;verrais;;tu ;;;verrais;;il //elle //on ;;;verrait;;nous ;;;verrions;;vous ;;;verriez;;ils //elles ;;;verraient
+Conditionnel Passé;conditionnel;;j’;;;aurais vu;;tu ;;;aurais vu;;il //elle //on ;;;aurait vu;;nous ;;;aurions vu;;vous ;;;auriez vu;;ils //elles ;;;auraient vu
 Impératif Présent;impératif;;;;;;;(tu) ;;;vois;;;;;;;(nous) ;;;voyons;;(vous) ;;;voyez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie vu;;;;;;;(nous) ;;;ayons vu;;(vous) ;;;ayez vu;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vois pas ;;;;;;;(nous) ;ne ;;voyons pas ;;(vous) ;ne ;;voyez pas ;;;;;

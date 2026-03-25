@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en vascularisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant vascularisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;vascularisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;vascularisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;vascularise;;tu ;;;vascularises;;il/elle/on ;;;vascularise;;nous ;;;vascularisons;;vous ;;;vascularisez;;ils/elles ;;;vascularisent
-Indicatif Passé Composé;indicatif;;j’;;;ai vascularisé;;tu ;;;as vascularisé;;il/elle/on ;;;a vascularisé;;nous ;;;avons vascularisé;;vous ;;;avez vascularisé;;ils/elles ;;;ont vascularisé
-Indicatif Imparfait;indicatif;;je ;;;vascularisais;;tu ;;;vascularisais;;il/elle/on ;;;vascularisait;;nous ;;;vascularisions;;vous ;;;vascularisiez;;ils/elles ;;;vascularisaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais vascularisé;;tu ;;;avais vascularisé;;il/elle/on ;;;avait vascularisé;;nous ;;;avions vascularisé;;vous ;;;aviez vascularisé;;ils/elles ;;;avaient vascularisé
-Indicatif Passé Simple;indicatif;;je ;;;vascularisai;;tu ;;;vascularisas;;il/elle/on ;;;vascularisa;;nous ;;;vascularisâmes;;vous ;;;vascularisâtes;;ils/elles ;;;vascularisèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus vascularisé;;tu ;;;eus vascularisé;;il/elle/on ;;;eut vascularisé;;nous ;;;eûmes vascularisé;;vous ;;;eûtes vascularisé;;ils/elles ;;;eurent vascularisé
-Indicatif Futur Simple;indicatif;;je ;;;vasculariserai;;tu ;;;vasculariseras;;il/elle/on ;;;vascularisera;;nous ;;;vasculariserons;;vous ;;;vasculariserez;;ils/elles ;;;vasculariseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai vascularisé;;tu ;;;auras vascularisé;;il/elle/on ;;;aura vascularisé;;nous ;;;aurons vascularisé;;vous ;;;aurez vascularisé;;ils/elles ;;;auront vascularisé
-Subjonctif Présent;subjonctif;que ;je ;;;vascularise;que ;tu ;;;vascularises;qu’;il/elle/on ;;;vascularise;que ;nous ;;;vascularisions;que ;vous ;;;vascularisiez;qu’;ils/elles ;;;vascularisent
-Subjonctif Passé;subjonctif;que ;j’;;;aie vascularisé;que ;tu ;;;aies vascularisé;qu’;il/elle/on ;;;ait vascularisé;que ;nous ;;;ayons vascularisé;que ;vous ;;;ayez vascularisé;qu’;ils/elles ;;;aient vascularisé
-Subjonctif Imparfait;subjonctif;que ;je ;;;vascularisasse;que ;tu ;;;vascularisasses;qu’;il/elle/on ;;;vascularisât;que ;nous ;;;vascularisassions;que ;vous ;;;vascularisassiez;qu’;ils/elles ;;;vascularisassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse vascularisé;que ;tu ;;;eusses vascularisé;qu’;il/elle/on ;;;eût vascularisé;que ;nous ;;;eussions vascularisé;que ;vous ;;;eussiez vascularisé;qu’;ils/elles ;;;eussent vascularisé
-Conditionnel Présent;conditionnel;;je ;;;vasculariserais;;tu ;;;vasculariserais;;il/elle/on ;;;vasculariserait;;nous ;;;vasculariserions;;vous ;;;vasculariseriez;;ils/elles ;;;vasculariseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais vascularisé;;tu ;;;aurais vascularisé;;il/elle/on ;;;aurait vascularisé;;nous ;;;aurions vascularisé;;vous ;;;auriez vascularisé;;ils/elles ;;;auraient vascularisé
+Indicatif Présent;indicatif;;je ;;;vascularise;;tu ;;;vascularises;;il //elle //on ;;;vascularise;;nous ;;;vascularisons;;vous ;;;vascularisez;;ils //elles ;;;vascularisent
+Indicatif Passé Composé;indicatif;;j’;;;ai vascularisé;;tu ;;;as vascularisé;;il //elle //on ;;;a vascularisé;;nous ;;;avons vascularisé;;vous ;;;avez vascularisé;;ils //elles ;;;ont vascularisé
+Indicatif Imparfait;indicatif;;je ;;;vascularisais;;tu ;;;vascularisais;;il //elle //on ;;;vascularisait;;nous ;;;vascularisions;;vous ;;;vascularisiez;;ils //elles ;;;vascularisaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais vascularisé;;tu ;;;avais vascularisé;;il //elle //on ;;;avait vascularisé;;nous ;;;avions vascularisé;;vous ;;;aviez vascularisé;;ils //elles ;;;avaient vascularisé
+Indicatif Passé Simple;indicatif;;je ;;;vascularisai;;tu ;;;vascularisas;;il //elle //on ;;;vascularisa;;nous ;;;vascularisâmes;;vous ;;;vascularisâtes;;ils //elles ;;;vascularisèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus vascularisé;;tu ;;;eus vascularisé;;il //elle //on ;;;eut vascularisé;;nous ;;;eûmes vascularisé;;vous ;;;eûtes vascularisé;;ils //elles ;;;eurent vascularisé
+Indicatif Futur Simple;indicatif;;je ;;;vasculariserai;;tu ;;;vasculariseras;;il //elle //on ;;;vascularisera;;nous ;;;vasculariserons;;vous ;;;vasculariserez;;ils //elles ;;;vasculariseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai vascularisé;;tu ;;;auras vascularisé;;il //elle //on ;;;aura vascularisé;;nous ;;;aurons vascularisé;;vous ;;;aurez vascularisé;;ils //elles ;;;auront vascularisé
+Subjonctif Présent;subjonctif;que ;je ;;;vascularise;que ;tu ;;;vascularises;qu’;il //elle //on ;;;vascularise;que ;nous ;;;vascularisions;que ;vous ;;;vascularisiez;qu’;ils //elles ;;;vascularisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie vascularisé;que ;tu ;;;aies vascularisé;qu’;il //elle //on ;;;ait vascularisé;que ;nous ;;;ayons vascularisé;que ;vous ;;;ayez vascularisé;qu’;ils //elles ;;;aient vascularisé
+Subjonctif Imparfait;subjonctif;que ;je ;;;vascularisasse;que ;tu ;;;vascularisasses;qu’;il //elle //on ;;;vascularisât;que ;nous ;;;vascularisassions;que ;vous ;;;vascularisassiez;qu’;ils //elles ;;;vascularisassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse vascularisé;que ;tu ;;;eusses vascularisé;qu’;il //elle //on ;;;eût vascularisé;que ;nous ;;;eussions vascularisé;que ;vous ;;;eussiez vascularisé;qu’;ils //elles ;;;eussent vascularisé
+Conditionnel Présent;conditionnel;;je ;;;vasculariserais;;tu ;;;vasculariserais;;il //elle //on ;;;vasculariserait;;nous ;;;vasculariserions;;vous ;;;vasculariseriez;;ils //elles ;;;vasculariseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais vascularisé;;tu ;;;aurais vascularisé;;il //elle //on ;;;aurait vascularisé;;nous ;;;aurions vascularisé;;vous ;;;auriez vascularisé;;ils //elles ;;;auraient vascularisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;vascularise;;;;;;;(nous) ;;;vascularisons;;(vous) ;;;vascularisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie vascularisé;;;;;;;(nous) ;;;ayons vascularisé;;(vous) ;;;ayez vascularisé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vascularise pas ;;;;;;;(nous) ;ne ;;vascularisons pas ;;(vous) ;ne ;;vascularisez pas ;;;;;

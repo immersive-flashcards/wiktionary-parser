@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en accusant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant accusé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;accusant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;accusé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;accuse;;tu ;;;accuses;;il/elle/on ;;;accuse;;nous ;;;accusons;;vous ;;;accusez;;ils/elles ;;;accusent
-Indicatif Passé Composé;indicatif;;j’;;;ai accusé;;tu ;;;as accusé;;il/elle/on ;;;a accusé;;nous ;;;avons accusé;;vous ;;;avez accusé;;ils/elles ;;;ont accusé
-Indicatif Imparfait;indicatif;;j’;;;accusais;;tu ;;;accusais;;il/elle/on ;;;accusait;;nous ;;;accusions;;vous ;;;accusiez;;ils/elles ;;;accusaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais accusé;;tu ;;;avais accusé;;il/elle/on ;;;avait accusé;;nous ;;;avions accusé;;vous ;;;aviez accusé;;ils/elles ;;;avaient accusé
-Indicatif Passé Simple;indicatif;;j’;;;accusai;;tu ;;;accusas;;il/elle/on ;;;accusa;;nous ;;;accusâmes;;vous ;;;accusâtes;;ils/elles ;;;accusèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus accusé;;tu ;;;eus accusé;;il/elle/on ;;;eut accusé;;nous ;;;eûmes accusé;;vous ;;;eûtes accusé;;ils/elles ;;;eurent accusé
-Indicatif Futur Simple;indicatif;;j’;;;accuserai;;tu ;;;accuseras;;il/elle/on ;;;accusera;;nous ;;;accuserons;;vous ;;;accuserez;;ils/elles ;;;accuseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai accusé;;tu ;;;auras accusé;;il/elle/on ;;;aura accusé;;nous ;;;aurons accusé;;vous ;;;aurez accusé;;ils/elles ;;;auront accusé
-Subjonctif Présent;subjonctif;que ;j’;;;accuse;que ;tu ;;;accuses;qu’;il/elle/on ;;;accuse;que ;nous ;;;accusions;que ;vous ;;;accusiez;qu’;ils/elles ;;;accusent
-Subjonctif Passé;subjonctif;que ;j’;;;aie accusé;que ;tu ;;;aies accusé;qu’;il/elle/on ;;;ait accusé;que ;nous ;;;ayons accusé;que ;vous ;;;ayez accusé;qu’;ils/elles ;;;aient accusé
-Subjonctif Imparfait;subjonctif;que ;j’;;;accusasse;que ;tu ;;;accusasses;qu’;il/elle/on ;;;accusât;que ;nous ;;;accusassions;que ;vous ;;;accusassiez;qu’;ils/elles ;;;accusassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse accusé;que ;tu ;;;eusses accusé;qu’;il/elle/on ;;;eût accusé;que ;nous ;;;eussions accusé;que ;vous ;;;eussiez accusé;qu’;ils/elles ;;;eussent accusé
-Conditionnel Présent;conditionnel;;j’;;;accuserais;;tu ;;;accuserais;;il/elle/on ;;;accuserait;;nous ;;;accuserions;;vous ;;;accuseriez;;ils/elles ;;;accuseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais accusé;;tu ;;;aurais accusé;;il/elle/on ;;;aurait accusé;;nous ;;;aurions accusé;;vous ;;;auriez accusé;;ils/elles ;;;auraient accusé
+Indicatif Présent;indicatif;;j’;;;accuse;;tu ;;;accuses;;il //elle //on ;;;accuse;;nous ;;;accusons;;vous ;;;accusez;;ils //elles ;;;accusent
+Indicatif Passé Composé;indicatif;;j’;;;ai accusé;;tu ;;;as accusé;;il //elle //on ;;;a accusé;;nous ;;;avons accusé;;vous ;;;avez accusé;;ils //elles ;;;ont accusé
+Indicatif Imparfait;indicatif;;j’;;;accusais;;tu ;;;accusais;;il //elle //on ;;;accusait;;nous ;;;accusions;;vous ;;;accusiez;;ils //elles ;;;accusaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais accusé;;tu ;;;avais accusé;;il //elle //on ;;;avait accusé;;nous ;;;avions accusé;;vous ;;;aviez accusé;;ils //elles ;;;avaient accusé
+Indicatif Passé Simple;indicatif;;j’;;;accusai;;tu ;;;accusas;;il //elle //on ;;;accusa;;nous ;;;accusâmes;;vous ;;;accusâtes;;ils //elles ;;;accusèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus accusé;;tu ;;;eus accusé;;il //elle //on ;;;eut accusé;;nous ;;;eûmes accusé;;vous ;;;eûtes accusé;;ils //elles ;;;eurent accusé
+Indicatif Futur Simple;indicatif;;j’;;;accuserai;;tu ;;;accuseras;;il //elle //on ;;;accusera;;nous ;;;accuserons;;vous ;;;accuserez;;ils //elles ;;;accuseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai accusé;;tu ;;;auras accusé;;il //elle //on ;;;aura accusé;;nous ;;;aurons accusé;;vous ;;;aurez accusé;;ils //elles ;;;auront accusé
+Subjonctif Présent;subjonctif;que ;j’;;;accuse;que ;tu ;;;accuses;qu’;il //elle //on ;;;accuse;que ;nous ;;;accusions;que ;vous ;;;accusiez;qu’;ils //elles ;;;accusent
+Subjonctif Passé;subjonctif;que ;j’;;;aie accusé;que ;tu ;;;aies accusé;qu’;il //elle //on ;;;ait accusé;que ;nous ;;;ayons accusé;que ;vous ;;;ayez accusé;qu’;ils //elles ;;;aient accusé
+Subjonctif Imparfait;subjonctif;que ;j’;;;accusasse;que ;tu ;;;accusasses;qu’;il //elle //on ;;;accusât;que ;nous ;;;accusassions;que ;vous ;;;accusassiez;qu’;ils //elles ;;;accusassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse accusé;que ;tu ;;;eusses accusé;qu’;il //elle //on ;;;eût accusé;que ;nous ;;;eussions accusé;que ;vous ;;;eussiez accusé;qu’;ils //elles ;;;eussent accusé
+Conditionnel Présent;conditionnel;;j’;;;accuserais;;tu ;;;accuserais;;il //elle //on ;;;accuserait;;nous ;;;accuserions;;vous ;;;accuseriez;;ils //elles ;;;accuseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais accusé;;tu ;;;aurais accusé;;il //elle //on ;;;aurait accusé;;nous ;;;aurions accusé;;vous ;;;auriez accusé;;ils //elles ;;;auraient accusé
 Impératif Présent;impératif;;;;;;;(tu) ;;;accuse;;;;;;;(nous) ;;;accusons;;(vous) ;;;accusez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie accusé;;;;;;;(nous) ;;;ayons accusé;;(vous) ;;;ayez accusé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;accuse pas ;;;;;;;(nous) ;n';;accusons pas ;;(vous) ;n';;accusez pas ;;;;;

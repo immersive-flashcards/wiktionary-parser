@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en étudiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant étudié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;étudiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;étudié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;étudie;;tu ;;;étudies;;il/elle/on ;;;étudie;;nous ;;;étudions;;vous ;;;étudiez;;ils/elles ;;;étudient
-Indicatif Passé Composé;indicatif;;j’;;;ai étudié;;tu ;;;as étudié;;il/elle/on ;;;a étudié;;nous ;;;avons étudié;;vous ;;;avez étudié;;ils/elles ;;;ont étudié
-Indicatif Imparfait;indicatif;;j’;;;étudiais;;tu ;;;étudiais;;il/elle/on ;;;étudiait;;nous ;;;étudiions;;vous ;;;étudiiez;;ils/elles ;;;étudiaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais étudié;;tu ;;;avais étudié;;il/elle/on ;;;avait étudié;;nous ;;;avions étudié;;vous ;;;aviez étudié;;ils/elles ;;;avaient étudié
-Indicatif Passé Simple;indicatif;;j’;;;étudiai;;tu ;;;étudias;;il/elle/on ;;;étudia;;nous ;;;étudiâmes;;vous ;;;étudiâtes;;ils/elles ;;;étudièrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus étudié;;tu ;;;eus étudié;;il/elle/on ;;;eut étudié;;nous ;;;eûmes étudié;;vous ;;;eûtes étudié;;ils/elles ;;;eurent étudié
-Indicatif Futur Simple;indicatif;;j’;;;étudierai;;tu ;;;étudieras;;il/elle/on ;;;étudiera;;nous ;;;étudierons;;vous ;;;étudierez;;ils/elles ;;;étudieront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai étudié;;tu ;;;auras étudié;;il/elle/on ;;;aura étudié;;nous ;;;aurons étudié;;vous ;;;aurez étudié;;ils/elles ;;;auront étudié
-Subjonctif Présent;subjonctif;que ;j’;;;étudie;que ;tu ;;;étudies;qu’;il/elle/on ;;;étudie;que ;nous ;;;étudiions;que ;vous ;;;étudiiez;qu’;ils/elles ;;;étudient
-Subjonctif Passé;subjonctif;que ;j’;;;aie étudié;que ;tu ;;;aies étudié;qu’;il/elle/on ;;;ait étudié;que ;nous ;;;ayons étudié;que ;vous ;;;ayez étudié;qu’;ils/elles ;;;aient étudié
-Subjonctif Imparfait;subjonctif;que ;j’;;;étudiasse;que ;tu ;;;étudiasses;qu’;il/elle/on ;;;étudiât;que ;nous ;;;étudiassions;que ;vous ;;;étudiassiez;qu’;ils/elles ;;;étudiassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse étudié;que ;tu ;;;eusses étudié;qu’;il/elle/on ;;;eût étudié;que ;nous ;;;eussions étudié;que ;vous ;;;eussiez étudié;qu’;ils/elles ;;;eussent étudié
-Conditionnel Présent;conditionnel;;j’;;;étudierais;;tu ;;;étudierais;;il/elle/on ;;;étudierait;;nous ;;;étudierions;;vous ;;;étudieriez;;ils/elles ;;;étudieraient
-Conditionnel Passé;conditionnel;;j’;;;aurais étudié;;tu ;;;aurais étudié;;il/elle/on ;;;aurait étudié;;nous ;;;aurions étudié;;vous ;;;auriez étudié;;ils/elles ;;;auraient étudié
+Indicatif Présent;indicatif;;j’;;;étudie;;tu ;;;étudies;;il //elle //on ;;;étudie;;nous ;;;étudions;;vous ;;;étudiez;;ils //elles ;;;étudient
+Indicatif Passé Composé;indicatif;;j’;;;ai étudié;;tu ;;;as étudié;;il //elle //on ;;;a étudié;;nous ;;;avons étudié;;vous ;;;avez étudié;;ils //elles ;;;ont étudié
+Indicatif Imparfait;indicatif;;j’;;;étudiais;;tu ;;;étudiais;;il //elle //on ;;;étudiait;;nous ;;;étudiions;;vous ;;;étudiiez;;ils //elles ;;;étudiaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais étudié;;tu ;;;avais étudié;;il //elle //on ;;;avait étudié;;nous ;;;avions étudié;;vous ;;;aviez étudié;;ils //elles ;;;avaient étudié
+Indicatif Passé Simple;indicatif;;j’;;;étudiai;;tu ;;;étudias;;il //elle //on ;;;étudia;;nous ;;;étudiâmes;;vous ;;;étudiâtes;;ils //elles ;;;étudièrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus étudié;;tu ;;;eus étudié;;il //elle //on ;;;eut étudié;;nous ;;;eûmes étudié;;vous ;;;eûtes étudié;;ils //elles ;;;eurent étudié
+Indicatif Futur Simple;indicatif;;j’;;;étudierai;;tu ;;;étudieras;;il //elle //on ;;;étudiera;;nous ;;;étudierons;;vous ;;;étudierez;;ils //elles ;;;étudieront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai étudié;;tu ;;;auras étudié;;il //elle //on ;;;aura étudié;;nous ;;;aurons étudié;;vous ;;;aurez étudié;;ils //elles ;;;auront étudié
+Subjonctif Présent;subjonctif;que ;j’;;;étudie;que ;tu ;;;étudies;qu’;il //elle //on ;;;étudie;que ;nous ;;;étudiions;que ;vous ;;;étudiiez;qu’;ils //elles ;;;étudient
+Subjonctif Passé;subjonctif;que ;j’;;;aie étudié;que ;tu ;;;aies étudié;qu’;il //elle //on ;;;ait étudié;que ;nous ;;;ayons étudié;que ;vous ;;;ayez étudié;qu’;ils //elles ;;;aient étudié
+Subjonctif Imparfait;subjonctif;que ;j’;;;étudiasse;que ;tu ;;;étudiasses;qu’;il //elle //on ;;;étudiât;que ;nous ;;;étudiassions;que ;vous ;;;étudiassiez;qu’;ils //elles ;;;étudiassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse étudié;que ;tu ;;;eusses étudié;qu’;il //elle //on ;;;eût étudié;que ;nous ;;;eussions étudié;que ;vous ;;;eussiez étudié;qu’;ils //elles ;;;eussent étudié
+Conditionnel Présent;conditionnel;;j’;;;étudierais;;tu ;;;étudierais;;il //elle //on ;;;étudierait;;nous ;;;étudierions;;vous ;;;étudieriez;;ils //elles ;;;étudieraient
+Conditionnel Passé;conditionnel;;j’;;;aurais étudié;;tu ;;;aurais étudié;;il //elle //on ;;;aurait étudié;;nous ;;;aurions étudié;;vous ;;;auriez étudié;;ils //elles ;;;auraient étudié
 Impératif Présent;impératif;;;;;;;(tu) ;;;étudie;;;;;;;(nous) ;;;étudions;;(vous) ;;;étudiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie étudié;;;;;;;(nous) ;;;ayons étudié;;(vous) ;;;ayez étudié;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;étudie pas ;;;;;;;(nous) ;n';;étudions pas ;;(vous) ;n';;étudiez pas ;;;;;

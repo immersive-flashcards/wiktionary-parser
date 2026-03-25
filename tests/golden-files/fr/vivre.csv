@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en vivant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant vécu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;vivant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;vécu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;vis;;tu ;;;vis;;il/elle/on ;;;vit;;nous ;;;vivons;;vous ;;;vivez;;ils/elles ;;;vivent
-Indicatif Passé Composé;indicatif;;j’;;;ai vécu;;tu ;;;as vécu;;il/elle/on ;;;a vécu;;nous ;;;avons vécu;;vous ;;;avez vécu;;ils/elles ;;;ont vécu
-Indicatif Imparfait;indicatif;;je ;;;vivais;;tu ;;;vivais;;il/elle/on ;;;vivait;;nous ;;;vivions;;vous ;;;viviez;;ils/elles ;;;vivaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais vécu;;tu ;;;avais vécu;;il/elle/on ;;;avait vécu;;nous ;;;avions vécu;;vous ;;;aviez vécu;;ils/elles ;;;avaient vécu
-Indicatif Passé Simple;indicatif;;je ;;;vécus;;tu ;;;vécus;;il/elle/on ;;;vécut;;nous ;;;vécûmes;;vous ;;;vécûtes;;ils/elles ;;;vécurent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus vécu;;tu ;;;eus vécu;;il/elle/on ;;;eut vécu;;nous ;;;eûmes vécu;;vous ;;;eûtes vécu;;ils/elles ;;;eurent vécu
-Indicatif Futur Simple;indicatif;;je ;;;vivrai;;tu ;;;vivras;;il/elle/on ;;;vivra;;nous ;;;vivrons;;vous ;;;vivrez;;ils/elles ;;;vivront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai vécu;;tu ;;;auras vécu;;il/elle/on ;;;aura vécu;;nous ;;;aurons vécu;;vous ;;;aurez vécu;;ils/elles ;;;auront vécu
-Subjonctif Présent;subjonctif;que ;je ;;;vive;que ;tu ;;;vives;qu’;il/elle/on ;;;vive;que ;nous ;;;vivions;que ;vous ;;;viviez;qu’;ils/elles ;;;vivent
-Subjonctif Passé;subjonctif;que ;j’;;;aie vécu;que ;tu ;;;aies vécu;qu’;il/elle/on ;;;ait vécu;que ;nous ;;;ayons vécu;que ;vous ;;;ayez vécu;qu’;ils/elles ;;;aient vécu
-Subjonctif Imparfait;subjonctif;que ;je ;;;vécusse;que ;tu ;;;vécusses;qu’;il/elle/on ;;;vécût;que ;nous ;;;vécussions;que ;vous ;;;vécussiez;qu’;ils/elles ;;;vécussent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse vécu;que ;tu ;;;eusses vécu;qu’;il/elle/on ;;;eût vécu;que ;nous ;;;eussions vécu;que ;vous ;;;eussiez vécu;qu’;ils/elles ;;;eussent vécu
-Conditionnel Présent;conditionnel;;je ;;;vivrais;;tu ;;;vivrais;;il/elle/on ;;;vivrait;;nous ;;;vivrions;;vous ;;;vivriez;;ils/elles ;;;vivraient
-Conditionnel Passé;conditionnel;;j’;;;aurais vécu;;tu ;;;aurais vécu;;il/elle/on ;;;aurait vécu;;nous ;;;aurions vécu;;vous ;;;auriez vécu;;ils/elles ;;;auraient vécu
+Indicatif Présent;indicatif;;je ;;;vis;;tu ;;;vis;;il //elle //on ;;;vit;;nous ;;;vivons;;vous ;;;vivez;;ils //elles ;;;vivent
+Indicatif Passé Composé;indicatif;;j’;;;ai vécu;;tu ;;;as vécu;;il //elle //on ;;;a vécu;;nous ;;;avons vécu;;vous ;;;avez vécu;;ils //elles ;;;ont vécu
+Indicatif Imparfait;indicatif;;je ;;;vivais;;tu ;;;vivais;;il //elle //on ;;;vivait;;nous ;;;vivions;;vous ;;;viviez;;ils //elles ;;;vivaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais vécu;;tu ;;;avais vécu;;il //elle //on ;;;avait vécu;;nous ;;;avions vécu;;vous ;;;aviez vécu;;ils //elles ;;;avaient vécu
+Indicatif Passé Simple;indicatif;;je ;;;vécus;;tu ;;;vécus;;il //elle //on ;;;vécut;;nous ;;;vécûmes;;vous ;;;vécûtes;;ils //elles ;;;vécurent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus vécu;;tu ;;;eus vécu;;il //elle //on ;;;eut vécu;;nous ;;;eûmes vécu;;vous ;;;eûtes vécu;;ils //elles ;;;eurent vécu
+Indicatif Futur Simple;indicatif;;je ;;;vivrai;;tu ;;;vivras;;il //elle //on ;;;vivra;;nous ;;;vivrons;;vous ;;;vivrez;;ils //elles ;;;vivront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai vécu;;tu ;;;auras vécu;;il //elle //on ;;;aura vécu;;nous ;;;aurons vécu;;vous ;;;aurez vécu;;ils //elles ;;;auront vécu
+Subjonctif Présent;subjonctif;que ;je ;;;vive;que ;tu ;;;vives;qu’;il //elle //on ;;;vive;que ;nous ;;;vivions;que ;vous ;;;viviez;qu’;ils //elles ;;;vivent
+Subjonctif Passé;subjonctif;que ;j’;;;aie vécu;que ;tu ;;;aies vécu;qu’;il //elle //on ;;;ait vécu;que ;nous ;;;ayons vécu;que ;vous ;;;ayez vécu;qu’;ils //elles ;;;aient vécu
+Subjonctif Imparfait;subjonctif;que ;je ;;;vécusse;que ;tu ;;;vécusses;qu’;il //elle //on ;;;vécût;que ;nous ;;;vécussions;que ;vous ;;;vécussiez;qu’;ils //elles ;;;vécussent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse vécu;que ;tu ;;;eusses vécu;qu’;il //elle //on ;;;eût vécu;que ;nous ;;;eussions vécu;que ;vous ;;;eussiez vécu;qu’;ils //elles ;;;eussent vécu
+Conditionnel Présent;conditionnel;;je ;;;vivrais;;tu ;;;vivrais;;il //elle //on ;;;vivrait;;nous ;;;vivrions;;vous ;;;vivriez;;ils //elles ;;;vivraient
+Conditionnel Passé;conditionnel;;j’;;;aurais vécu;;tu ;;;aurais vécu;;il //elle //on ;;;aurait vécu;;nous ;;;aurions vécu;;vous ;;;auriez vécu;;ils //elles ;;;auraient vécu
 Impératif Présent;impératif;;;;;;;(tu) ;;;vis;;;;;;;(nous) ;;;vivons;;(vous) ;;;vivez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie vécu;;;;;;;(nous) ;;;ayons vécu;;(vous) ;;;ayez vécu;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vis pas ;;;;;;;(nous) ;ne ;;vivons pas ;;(vous) ;ne ;;vivez pas ;;;;;

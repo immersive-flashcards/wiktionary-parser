@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en rentrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en étant rentré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;rentrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;rentré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;rentre;;tu ;;;rentres;;il/elle/on ;;;rentre;;nous ;;;rentrons;;vous ;;;rentrez;;ils/elles ;;;rentrent
-Indicatif Passé Composé;indicatif;;je ;;;suis rentré;;tu ;;;es rentré;;il/elle/on ;;;est rentré;;nous ;;;sommes rentrés;;vous ;;;êtes rentrés;;ils/elles ;;;sont rentrés
-Indicatif Imparfait;indicatif;;je ;;;rentrais;;tu ;;;rentrais;;il/elle/on ;;;rentrait;;nous ;;;rentrions;;vous ;;;rentriez;;ils/elles ;;;rentraient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais rentré;;tu ;;;étais rentré;;il/elle/on ;;;était rentré;;nous ;;;étions rentrés;;vous ;;;étiez rentrés;;ils/elles ;;;étaient rentrés
-Indicatif Passé Simple;indicatif;;je ;;;rentrai;;tu ;;;rentras;;il/elle/on ;;;rentra;;nous ;;;rentrâmes;;vous ;;;rentrâtes;;ils/elles ;;;rentrèrent
-Indicatif Passé Antérieur;indicatif;;je ;;;fus rentré;;tu ;;;fus rentré;;il/elle/on ;;;fut rentré;;nous ;;;fûmes rentrés;;vous ;;;fûtes rentrés;;ils/elles ;;;furent rentrés
-Indicatif Futur Simple;indicatif;;je ;;;rentrerai;;tu ;;;rentreras;;il/elle/on ;;;rentrera;;nous ;;;rentrerons;;vous ;;;rentrerez;;ils/elles ;;;rentreront
-Indicatif Futur Antérieur;indicatif;;je ;;;serai rentré;;tu ;;;seras rentré;;il/elle/on ;;;sera rentré;;nous ;;;serons rentrés;;vous ;;;serez rentrés;;ils/elles ;;;seront rentrés
-Subjonctif Présent;subjonctif;que ;je ;;;rentre;que ;tu ;;;rentres;qu’;il/elle/on ;;;rentre;que ;nous ;;;rentrions;que ;vous ;;;rentriez;qu’;ils/elles ;;;rentrent
-Subjonctif Passé;subjonctif;que ;je ;;;sois rentré;que ;tu ;;;sois rentré;qu’;il/elle/on ;;;soit rentré;que ;nous ;;;soyons rentrés;que ;vous ;;;soyez rentrés;qu’;ils/elles ;;;soient rentrés
-Subjonctif Imparfait;subjonctif;que ;je ;;;rentrasse;que ;tu ;;;rentrasses;qu’;il/elle/on ;;;rentrât;que ;nous ;;;rentrassions;que ;vous ;;;rentrassiez;qu’;ils/elles ;;;rentrassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse rentré;que ;tu ;;;fusses rentré;qu’;il/elle/on ;;;fût rentré;que ;nous ;;;fussions rentrés;que ;vous ;;;fussiez rentrés;qu’;ils/elles ;;;fussent rentrés
-Conditionnel Présent;conditionnel;;je ;;;rentrerais;;tu ;;;rentrerais;;il/elle/on ;;;rentrerait;;nous ;;;rentrerions;;vous ;;;rentreriez;;ils/elles ;;;rentreraient
-Conditionnel Passé;conditionnel;;je ;;;serais rentré;;tu ;;;serais rentré;;il/elle/on ;;;serait rentré;;nous ;;;serions rentrés;;vous ;;;seriez rentrés;;ils/elles ;;;seraient rentrés
+Indicatif Présent;indicatif;;je ;;;rentre;;tu ;;;rentres;;il //elle //on ;;;rentre;;nous ;;;rentrons;;vous ;;;rentrez;;ils //elles ;;;rentrent
+Indicatif Passé Composé;indicatif;;je ;;;suis rentré;;tu ;;;es rentré;;il //elle //on ;;;est rentré;;nous ;;;sommes rentrés;;vous ;;;êtes rentrés;;ils //elles ;;;sont rentrés
+Indicatif Imparfait;indicatif;;je ;;;rentrais;;tu ;;;rentrais;;il //elle //on ;;;rentrait;;nous ;;;rentrions;;vous ;;;rentriez;;ils //elles ;;;rentraient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais rentré;;tu ;;;étais rentré;;il //elle //on ;;;était rentré;;nous ;;;étions rentrés;;vous ;;;étiez rentrés;;ils //elles ;;;étaient rentrés
+Indicatif Passé Simple;indicatif;;je ;;;rentrai;;tu ;;;rentras;;il //elle //on ;;;rentra;;nous ;;;rentrâmes;;vous ;;;rentrâtes;;ils //elles ;;;rentrèrent
+Indicatif Passé Antérieur;indicatif;;je ;;;fus rentré;;tu ;;;fus rentré;;il //elle //on ;;;fut rentré;;nous ;;;fûmes rentrés;;vous ;;;fûtes rentrés;;ils //elles ;;;furent rentrés
+Indicatif Futur Simple;indicatif;;je ;;;rentrerai;;tu ;;;rentreras;;il //elle //on ;;;rentrera;;nous ;;;rentrerons;;vous ;;;rentrerez;;ils //elles ;;;rentreront
+Indicatif Futur Antérieur;indicatif;;je ;;;serai rentré;;tu ;;;seras rentré;;il //elle //on ;;;sera rentré;;nous ;;;serons rentrés;;vous ;;;serez rentrés;;ils //elles ;;;seront rentrés
+Subjonctif Présent;subjonctif;que ;je ;;;rentre;que ;tu ;;;rentres;qu’;il //elle //on ;;;rentre;que ;nous ;;;rentrions;que ;vous ;;;rentriez;qu’;ils //elles ;;;rentrent
+Subjonctif Passé;subjonctif;que ;je ;;;sois rentré;que ;tu ;;;sois rentré;qu’;il //elle //on ;;;soit rentré;que ;nous ;;;soyons rentrés;que ;vous ;;;soyez rentrés;qu’;ils //elles ;;;soient rentrés
+Subjonctif Imparfait;subjonctif;que ;je ;;;rentrasse;que ;tu ;;;rentrasses;qu’;il //elle //on ;;;rentrât;que ;nous ;;;rentrassions;que ;vous ;;;rentrassiez;qu’;ils //elles ;;;rentrassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse rentré;que ;tu ;;;fusses rentré;qu’;il //elle //on ;;;fût rentré;que ;nous ;;;fussions rentrés;que ;vous ;;;fussiez rentrés;qu’;ils //elles ;;;fussent rentrés
+Conditionnel Présent;conditionnel;;je ;;;rentrerais;;tu ;;;rentrerais;;il //elle //on ;;;rentrerait;;nous ;;;rentrerions;;vous ;;;rentreriez;;ils //elles ;;;rentreraient
+Conditionnel Passé;conditionnel;;je ;;;serais rentré;;tu ;;;serais rentré;;il //elle //on ;;;serait rentré;;nous ;;;serions rentrés;;vous ;;;seriez rentrés;;ils //elles ;;;seraient rentrés
 Impératif Présent;impératif;;;;;;;(tu) ;;;rentre;;;;;;;(nous) ;;;rentrons;;(vous) ;;;rentrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois rentré;;;;;;;(nous) ;;;soyons rentrés;;(vous) ;;;soyez rentrés;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rentre pas ;;;;;;;(nous) ;ne ;;rentrons pas ;;(vous) ;ne ;;rentrez pas ;;;;;

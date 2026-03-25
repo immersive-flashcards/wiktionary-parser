@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en mondant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant mondé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;mondant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;mondé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;monde;;tu ;;;mondes;;il/elle/on ;;;monde;;nous ;;;mondons;;vous ;;;mondez;;ils/elles ;;;mondent
-Indicatif Passé Composé;indicatif;;j’;;;ai mondé;;tu ;;;as mondé;;il/elle/on ;;;a mondé;;nous ;;;avons mondé;;vous ;;;avez mondé;;ils/elles ;;;ont mondé
-Indicatif Imparfait;indicatif;;je ;;;mondais;;tu ;;;mondais;;il/elle/on ;;;mondait;;nous ;;;mondions;;vous ;;;mondiez;;ils/elles ;;;mondaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais mondé;;tu ;;;avais mondé;;il/elle/on ;;;avait mondé;;nous ;;;avions mondé;;vous ;;;aviez mondé;;ils/elles ;;;avaient mondé
-Indicatif Passé Simple;indicatif;;je ;;;mondai;;tu ;;;mondas;;il/elle/on ;;;monda;;nous ;;;mondâmes;;vous ;;;mondâtes;;ils/elles ;;;mondèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus mondé;;tu ;;;eus mondé;;il/elle/on ;;;eut mondé;;nous ;;;eûmes mondé;;vous ;;;eûtes mondé;;ils/elles ;;;eurent mondé
-Indicatif Futur Simple;indicatif;;je ;;;monderai;;tu ;;;monderas;;il/elle/on ;;;mondera;;nous ;;;monderons;;vous ;;;monderez;;ils/elles ;;;monderont
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai mondé;;tu ;;;auras mondé;;il/elle/on ;;;aura mondé;;nous ;;;aurons mondé;;vous ;;;aurez mondé;;ils/elles ;;;auront mondé
-Subjonctif Présent;subjonctif;que ;je ;;;monde;que ;tu ;;;mondes;qu’;il/elle/on ;;;monde;que ;nous ;;;mondions;que ;vous ;;;mondiez;qu’;ils/elles ;;;mondent
-Subjonctif Passé;subjonctif;que ;j’;;;aie mondé;que ;tu ;;;aies mondé;qu’;il/elle/on ;;;ait mondé;que ;nous ;;;ayons mondé;que ;vous ;;;ayez mondé;qu’;ils/elles ;;;aient mondé
-Subjonctif Imparfait;subjonctif;que ;je ;;;mondasse;que ;tu ;;;mondasses;qu’;il/elle/on ;;;mondât;que ;nous ;;;mondassions;que ;vous ;;;mondassiez;qu’;ils/elles ;;;mondassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse mondé;que ;tu ;;;eusses mondé;qu’;il/elle/on ;;;eût mondé;que ;nous ;;;eussions mondé;que ;vous ;;;eussiez mondé;qu’;ils/elles ;;;eussent mondé
-Conditionnel Présent;conditionnel;;je ;;;monderais;;tu ;;;monderais;;il/elle/on ;;;monderait;;nous ;;;monderions;;vous ;;;monderiez;;ils/elles ;;;monderaient
-Conditionnel Passé;conditionnel;;j’;;;aurais mondé;;tu ;;;aurais mondé;;il/elle/on ;;;aurait mondé;;nous ;;;aurions mondé;;vous ;;;auriez mondé;;ils/elles ;;;auraient mondé
+Indicatif Présent;indicatif;;je ;;;monde;;tu ;;;mondes;;il //elle //on ;;;monde;;nous ;;;mondons;;vous ;;;mondez;;ils //elles ;;;mondent
+Indicatif Passé Composé;indicatif;;j’;;;ai mondé;;tu ;;;as mondé;;il //elle //on ;;;a mondé;;nous ;;;avons mondé;;vous ;;;avez mondé;;ils //elles ;;;ont mondé
+Indicatif Imparfait;indicatif;;je ;;;mondais;;tu ;;;mondais;;il //elle //on ;;;mondait;;nous ;;;mondions;;vous ;;;mondiez;;ils //elles ;;;mondaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais mondé;;tu ;;;avais mondé;;il //elle //on ;;;avait mondé;;nous ;;;avions mondé;;vous ;;;aviez mondé;;ils //elles ;;;avaient mondé
+Indicatif Passé Simple;indicatif;;je ;;;mondai;;tu ;;;mondas;;il //elle //on ;;;monda;;nous ;;;mondâmes;;vous ;;;mondâtes;;ils //elles ;;;mondèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus mondé;;tu ;;;eus mondé;;il //elle //on ;;;eut mondé;;nous ;;;eûmes mondé;;vous ;;;eûtes mondé;;ils //elles ;;;eurent mondé
+Indicatif Futur Simple;indicatif;;je ;;;monderai;;tu ;;;monderas;;il //elle //on ;;;mondera;;nous ;;;monderons;;vous ;;;monderez;;ils //elles ;;;monderont
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai mondé;;tu ;;;auras mondé;;il //elle //on ;;;aura mondé;;nous ;;;aurons mondé;;vous ;;;aurez mondé;;ils //elles ;;;auront mondé
+Subjonctif Présent;subjonctif;que ;je ;;;monde;que ;tu ;;;mondes;qu’;il //elle //on ;;;monde;que ;nous ;;;mondions;que ;vous ;;;mondiez;qu’;ils //elles ;;;mondent
+Subjonctif Passé;subjonctif;que ;j’;;;aie mondé;que ;tu ;;;aies mondé;qu’;il //elle //on ;;;ait mondé;que ;nous ;;;ayons mondé;que ;vous ;;;ayez mondé;qu’;ils //elles ;;;aient mondé
+Subjonctif Imparfait;subjonctif;que ;je ;;;mondasse;que ;tu ;;;mondasses;qu’;il //elle //on ;;;mondât;que ;nous ;;;mondassions;que ;vous ;;;mondassiez;qu’;ils //elles ;;;mondassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse mondé;que ;tu ;;;eusses mondé;qu’;il //elle //on ;;;eût mondé;que ;nous ;;;eussions mondé;que ;vous ;;;eussiez mondé;qu’;ils //elles ;;;eussent mondé
+Conditionnel Présent;conditionnel;;je ;;;monderais;;tu ;;;monderais;;il //elle //on ;;;monderait;;nous ;;;monderions;;vous ;;;monderiez;;ils //elles ;;;monderaient
+Conditionnel Passé;conditionnel;;j’;;;aurais mondé;;tu ;;;aurais mondé;;il //elle //on ;;;aurait mondé;;nous ;;;aurions mondé;;vous ;;;auriez mondé;;ils //elles ;;;auraient mondé
 Impératif Présent;impératif;;;;;;;(tu) ;;;monde;;;;;;;(nous) ;;;mondons;;(vous) ;;;mondez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie mondé;;;;;;;(nous) ;;;ayons mondé;;(vous) ;;;ayez mondé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;monde pas ;;;;;;;(nous) ;ne ;;mondons pas ;;(vous) ;ne ;;mondez pas ;;;;;

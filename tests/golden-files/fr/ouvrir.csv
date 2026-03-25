@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en ouvrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant ouvert;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;ouvrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;ouvert;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;ouvre;;tu ;;;ouvres;;il/elle/on ;;;ouvre;;nous ;;;ouvrons;;vous ;;;ouvrez;;ils/elles ;;;ouvrent
-Indicatif Passé Composé;indicatif;;j’;;;ai ouvert;;tu ;;;as ouvert;;il/elle/on ;;;a ouvert;;nous ;;;avons ouvert;;vous ;;;avez ouvert;;ils/elles ;;;ont ouvert
-Indicatif Imparfait;indicatif;;j’;;;ouvrais;;tu ;;;ouvrais;;il/elle/on ;;;ouvrait;;nous ;;;ouvrions;;vous ;;;ouvriez;;ils/elles ;;;ouvraient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais ouvert;;tu ;;;avais ouvert;;il/elle/on ;;;avait ouvert;;nous ;;;avions ouvert;;vous ;;;aviez ouvert;;ils/elles ;;;avaient ouvert
-Indicatif Passé Simple;indicatif;;j’;;;ouvris;;tu ;;;ouvris;;il/elle/on ;;;ouvrit;;nous ;;;ouvrîmes;;vous ;;;ouvrîtes;;ils/elles ;;;ouvrirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus ouvert;;tu ;;;eus ouvert;;il/elle/on ;;;eut ouvert;;nous ;;;eûmes ouvert;;vous ;;;eûtes ouvert;;ils/elles ;;;eurent ouvert
-Indicatif Futur Simple;indicatif;;j’;;;ouvrirai;;tu ;;;ouvriras;;il/elle/on ;;;ouvrira;;nous ;;;ouvrirons;;vous ;;;ouvrirez;;ils/elles ;;;ouvriront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai ouvert;;tu ;;;auras ouvert;;il/elle/on ;;;aura ouvert;;nous ;;;aurons ouvert;;vous ;;;aurez ouvert;;ils/elles ;;;auront ouvert
-Subjonctif Présent;subjonctif;que ;j’;;;ouvre;que ;tu ;;;ouvres;qu’;il/elle/on ;;;ouvre;que ;nous ;;;ouvrions;que ;vous ;;;ouvriez;qu’;ils/elles ;;;ouvrent
-Subjonctif Passé;subjonctif;que ;j’;;;aie ouvert;que ;tu ;;;aies ouvert;qu’;il/elle/on ;;;ait ouvert;que ;nous ;;;ayons ouvert;que ;vous ;;;ayez ouvert;qu’;ils/elles ;;;aient ouvert
-Subjonctif Imparfait;subjonctif;que ;j’;;;ouvrisse;que ;tu ;;;ouvrisses;qu’;il/elle/on ;;;ouvrît;que ;nous ;;;ouvrissions;que ;vous ;;;ouvrissiez;qu’;ils/elles ;;;ouvrissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse ouvert;que ;tu ;;;eusses ouvert;qu’;il/elle/on ;;;eût ouvert;que ;nous ;;;eussions ouvert;que ;vous ;;;eussiez ouvert;qu’;ils/elles ;;;eussent ouvert
-Conditionnel Présent;conditionnel;;j’;;;ouvrirais;;tu ;;;ouvrirais;;il/elle/on ;;;ouvrirait;;nous ;;;ouvririons;;vous ;;;ouvririez;;ils/elles ;;;ouvriraient
-Conditionnel Passé;conditionnel;;j’;;;aurais ouvert;;tu ;;;aurais ouvert;;il/elle/on ;;;aurait ouvert;;nous ;;;aurions ouvert;;vous ;;;auriez ouvert;;ils/elles ;;;auraient ouvert
+Indicatif Présent;indicatif;;j’;;;ouvre;;tu ;;;ouvres;;il //elle //on ;;;ouvre;;nous ;;;ouvrons;;vous ;;;ouvrez;;ils //elles ;;;ouvrent
+Indicatif Passé Composé;indicatif;;j’;;;ai ouvert;;tu ;;;as ouvert;;il //elle //on ;;;a ouvert;;nous ;;;avons ouvert;;vous ;;;avez ouvert;;ils //elles ;;;ont ouvert
+Indicatif Imparfait;indicatif;;j’;;;ouvrais;;tu ;;;ouvrais;;il //elle //on ;;;ouvrait;;nous ;;;ouvrions;;vous ;;;ouvriez;;ils //elles ;;;ouvraient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais ouvert;;tu ;;;avais ouvert;;il //elle //on ;;;avait ouvert;;nous ;;;avions ouvert;;vous ;;;aviez ouvert;;ils //elles ;;;avaient ouvert
+Indicatif Passé Simple;indicatif;;j’;;;ouvris;;tu ;;;ouvris;;il //elle //on ;;;ouvrit;;nous ;;;ouvrîmes;;vous ;;;ouvrîtes;;ils //elles ;;;ouvrirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus ouvert;;tu ;;;eus ouvert;;il //elle //on ;;;eut ouvert;;nous ;;;eûmes ouvert;;vous ;;;eûtes ouvert;;ils //elles ;;;eurent ouvert
+Indicatif Futur Simple;indicatif;;j’;;;ouvrirai;;tu ;;;ouvriras;;il //elle //on ;;;ouvrira;;nous ;;;ouvrirons;;vous ;;;ouvrirez;;ils //elles ;;;ouvriront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai ouvert;;tu ;;;auras ouvert;;il //elle //on ;;;aura ouvert;;nous ;;;aurons ouvert;;vous ;;;aurez ouvert;;ils //elles ;;;auront ouvert
+Subjonctif Présent;subjonctif;que ;j’;;;ouvre;que ;tu ;;;ouvres;qu’;il //elle //on ;;;ouvre;que ;nous ;;;ouvrions;que ;vous ;;;ouvriez;qu’;ils //elles ;;;ouvrent
+Subjonctif Passé;subjonctif;que ;j’;;;aie ouvert;que ;tu ;;;aies ouvert;qu’;il //elle //on ;;;ait ouvert;que ;nous ;;;ayons ouvert;que ;vous ;;;ayez ouvert;qu’;ils //elles ;;;aient ouvert
+Subjonctif Imparfait;subjonctif;que ;j’;;;ouvrisse;que ;tu ;;;ouvrisses;qu’;il //elle //on ;;;ouvrît;que ;nous ;;;ouvrissions;que ;vous ;;;ouvrissiez;qu’;ils //elles ;;;ouvrissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse ouvert;que ;tu ;;;eusses ouvert;qu’;il //elle //on ;;;eût ouvert;que ;nous ;;;eussions ouvert;que ;vous ;;;eussiez ouvert;qu’;ils //elles ;;;eussent ouvert
+Conditionnel Présent;conditionnel;;j’;;;ouvrirais;;tu ;;;ouvrirais;;il //elle //on ;;;ouvrirait;;nous ;;;ouvririons;;vous ;;;ouvririez;;ils //elles ;;;ouvriraient
+Conditionnel Passé;conditionnel;;j’;;;aurais ouvert;;tu ;;;aurais ouvert;;il //elle //on ;;;aurait ouvert;;nous ;;;aurions ouvert;;vous ;;;auriez ouvert;;ils //elles ;;;auraient ouvert
 Impératif Présent;impératif;;;;;;;(tu) ;;;ouvre;;;;;;;(nous) ;;;ouvrons;;(vous) ;;;ouvrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie ouvert;;;;;;;(nous) ;;;ayons ouvert;;(vous) ;;;ayez ouvert;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;ouvre pas ;;;;;;;(nous) ;n';;ouvrons pas ;;(vous) ;n';;ouvrez pas ;;;;;

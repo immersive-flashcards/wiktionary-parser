@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en modifiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant modifié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;modifiant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;modifié;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;modifie;;tu ;;;modifies;;il/elle/on ;;;modifie;;nous ;;;modifions;;vous ;;;modifiez;;ils/elles ;;;modifient
-Indicatif Passé Composé;indicatif;;j’;;;ai modifié;;tu ;;;as modifié;;il/elle/on ;;;a modifié;;nous ;;;avons modifié;;vous ;;;avez modifié;;ils/elles ;;;ont modifié
-Indicatif Imparfait;indicatif;;je ;;;modifiais;;tu ;;;modifiais;;il/elle/on ;;;modifiait;;nous ;;;modifiions;;vous ;;;modifiiez;;ils/elles ;;;modifiaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais modifié;;tu ;;;avais modifié;;il/elle/on ;;;avait modifié;;nous ;;;avions modifié;;vous ;;;aviez modifié;;ils/elles ;;;avaient modifié
-Indicatif Passé Simple;indicatif;;je ;;;modifiai;;tu ;;;modifias;;il/elle/on ;;;modifia;;nous ;;;modifiâmes;;vous ;;;modifiâtes;;ils/elles ;;;modifièrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus modifié;;tu ;;;eus modifié;;il/elle/on ;;;eut modifié;;nous ;;;eûmes modifié;;vous ;;;eûtes modifié;;ils/elles ;;;eurent modifié
-Indicatif Futur Simple;indicatif;;je ;;;modifierai;;tu ;;;modifieras;;il/elle/on ;;;modifiera;;nous ;;;modifierons;;vous ;;;modifierez;;ils/elles ;;;modifieront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai modifié;;tu ;;;auras modifié;;il/elle/on ;;;aura modifié;;nous ;;;aurons modifié;;vous ;;;aurez modifié;;ils/elles ;;;auront modifié
-Subjonctif Présent;subjonctif;que ;je ;;;modifie;que ;tu ;;;modifies;qu’;il/elle/on ;;;modifie;que ;nous ;;;modifiions;que ;vous ;;;modifiiez;qu’;ils/elles ;;;modifient
-Subjonctif Passé;subjonctif;que ;j’;;;aie modifié;que ;tu ;;;aies modifié;qu’;il/elle/on ;;;ait modifié;que ;nous ;;;ayons modifié;que ;vous ;;;ayez modifié;qu’;ils/elles ;;;aient modifié
-Subjonctif Imparfait;subjonctif;que ;je ;;;modifiasse;que ;tu ;;;modifiasses;qu’;il/elle/on ;;;modifiât;que ;nous ;;;modifiassions;que ;vous ;;;modifiassiez;qu’;ils/elles ;;;modifiassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse modifié;que ;tu ;;;eusses modifié;qu’;il/elle/on ;;;eût modifié;que ;nous ;;;eussions modifié;que ;vous ;;;eussiez modifié;qu’;ils/elles ;;;eussent modifié
-Conditionnel Présent;conditionnel;;je ;;;modifierais;;tu ;;;modifierais;;il/elle/on ;;;modifierait;;nous ;;;modifierions;;vous ;;;modifieriez;;ils/elles ;;;modifieraient
-Conditionnel Passé;conditionnel;;j’;;;aurais modifié;;tu ;;;aurais modifié;;il/elle/on ;;;aurait modifié;;nous ;;;aurions modifié;;vous ;;;auriez modifié;;ils/elles ;;;auraient modifié
+Indicatif Présent;indicatif;;je ;;;modifie;;tu ;;;modifies;;il //elle //on ;;;modifie;;nous ;;;modifions;;vous ;;;modifiez;;ils //elles ;;;modifient
+Indicatif Passé Composé;indicatif;;j’;;;ai modifié;;tu ;;;as modifié;;il //elle //on ;;;a modifié;;nous ;;;avons modifié;;vous ;;;avez modifié;;ils //elles ;;;ont modifié
+Indicatif Imparfait;indicatif;;je ;;;modifiais;;tu ;;;modifiais;;il //elle //on ;;;modifiait;;nous ;;;modifiions;;vous ;;;modifiiez;;ils //elles ;;;modifiaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais modifié;;tu ;;;avais modifié;;il //elle //on ;;;avait modifié;;nous ;;;avions modifié;;vous ;;;aviez modifié;;ils //elles ;;;avaient modifié
+Indicatif Passé Simple;indicatif;;je ;;;modifiai;;tu ;;;modifias;;il //elle //on ;;;modifia;;nous ;;;modifiâmes;;vous ;;;modifiâtes;;ils //elles ;;;modifièrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus modifié;;tu ;;;eus modifié;;il //elle //on ;;;eut modifié;;nous ;;;eûmes modifié;;vous ;;;eûtes modifié;;ils //elles ;;;eurent modifié
+Indicatif Futur Simple;indicatif;;je ;;;modifierai;;tu ;;;modifieras;;il //elle //on ;;;modifiera;;nous ;;;modifierons;;vous ;;;modifierez;;ils //elles ;;;modifieront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai modifié;;tu ;;;auras modifié;;il //elle //on ;;;aura modifié;;nous ;;;aurons modifié;;vous ;;;aurez modifié;;ils //elles ;;;auront modifié
+Subjonctif Présent;subjonctif;que ;je ;;;modifie;que ;tu ;;;modifies;qu’;il //elle //on ;;;modifie;que ;nous ;;;modifiions;que ;vous ;;;modifiiez;qu’;ils //elles ;;;modifient
+Subjonctif Passé;subjonctif;que ;j’;;;aie modifié;que ;tu ;;;aies modifié;qu’;il //elle //on ;;;ait modifié;que ;nous ;;;ayons modifié;que ;vous ;;;ayez modifié;qu’;ils //elles ;;;aient modifié
+Subjonctif Imparfait;subjonctif;que ;je ;;;modifiasse;que ;tu ;;;modifiasses;qu’;il //elle //on ;;;modifiât;que ;nous ;;;modifiassions;que ;vous ;;;modifiassiez;qu’;ils //elles ;;;modifiassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse modifié;que ;tu ;;;eusses modifié;qu’;il //elle //on ;;;eût modifié;que ;nous ;;;eussions modifié;que ;vous ;;;eussiez modifié;qu’;ils //elles ;;;eussent modifié
+Conditionnel Présent;conditionnel;;je ;;;modifierais;;tu ;;;modifierais;;il //elle //on ;;;modifierait;;nous ;;;modifierions;;vous ;;;modifieriez;;ils //elles ;;;modifieraient
+Conditionnel Passé;conditionnel;;j’;;;aurais modifié;;tu ;;;aurais modifié;;il //elle //on ;;;aurait modifié;;nous ;;;aurions modifié;;vous ;;;auriez modifié;;ils //elles ;;;auraient modifié
 Impératif Présent;impératif;;;;;;;(tu) ;;;modifie;;;;;;;(nous) ;;;modifions;;(vous) ;;;modifiez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie modifié;;;;;;;(nous) ;;;ayons modifié;;(vous) ;;;ayez modifié;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;modifie pas ;;;;;;;(nous) ;ne ;;modifions pas ;;(vous) ;ne ;;modifiez pas ;;;;;

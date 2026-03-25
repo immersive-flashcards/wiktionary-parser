@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en lorgnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant lorgné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;lorgnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;lorgné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;lorgne;;tu ;;;lorgnes;;il/elle/on ;;;lorgne;;nous ;;;lorgnons;;vous ;;;lorgnez;;ils/elles ;;;lorgnent
-Indicatif Passé Composé;indicatif;;j’;;;ai lorgné;;tu ;;;as lorgné;;il/elle/on ;;;a lorgné;;nous ;;;avons lorgné;;vous ;;;avez lorgné;;ils/elles ;;;ont lorgné
-Indicatif Imparfait;indicatif;;je ;;;lorgnais;;tu ;;;lorgnais;;il/elle/on ;;;lorgnait;;nous ;;;lorgnions;;vous ;;;lorgniez;;ils/elles ;;;lorgnaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais lorgné;;tu ;;;avais lorgné;;il/elle/on ;;;avait lorgné;;nous ;;;avions lorgné;;vous ;;;aviez lorgné;;ils/elles ;;;avaient lorgné
-Indicatif Passé Simple;indicatif;;je ;;;lorgnai;;tu ;;;lorgnas;;il/elle/on ;;;lorgna;;nous ;;;lorgnâmes;;vous ;;;lorgnâtes;;ils/elles ;;;lorgnèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus lorgné;;tu ;;;eus lorgné;;il/elle/on ;;;eut lorgné;;nous ;;;eûmes lorgné;;vous ;;;eûtes lorgné;;ils/elles ;;;eurent lorgné
-Indicatif Futur Simple;indicatif;;je ;;;lorgnerai;;tu ;;;lorgneras;;il/elle/on ;;;lorgnera;;nous ;;;lorgnerons;;vous ;;;lorgnerez;;ils/elles ;;;lorgneront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai lorgné;;tu ;;;auras lorgné;;il/elle/on ;;;aura lorgné;;nous ;;;aurons lorgné;;vous ;;;aurez lorgné;;ils/elles ;;;auront lorgné
-Subjonctif Présent;subjonctif;que ;je ;;;lorgne;que ;tu ;;;lorgnes;qu’;il/elle/on ;;;lorgne;que ;nous ;;;lorgnions;que ;vous ;;;lorgniez;qu’;ils/elles ;;;lorgnent
-Subjonctif Passé;subjonctif;que ;j’;;;aie lorgné;que ;tu ;;;aies lorgné;qu’;il/elle/on ;;;ait lorgné;que ;nous ;;;ayons lorgné;que ;vous ;;;ayez lorgné;qu’;ils/elles ;;;aient lorgné
-Subjonctif Imparfait;subjonctif;que ;je ;;;lorgnasse;que ;tu ;;;lorgnasses;qu’;il/elle/on ;;;lorgnât;que ;nous ;;;lorgnassions;que ;vous ;;;lorgnassiez;qu’;ils/elles ;;;lorgnassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse lorgné;que ;tu ;;;eusses lorgné;qu’;il/elle/on ;;;eût lorgné;que ;nous ;;;eussions lorgné;que ;vous ;;;eussiez lorgné;qu’;ils/elles ;;;eussent lorgné
-Conditionnel Présent;conditionnel;;je ;;;lorgnerais;;tu ;;;lorgnerais;;il/elle/on ;;;lorgnerait;;nous ;;;lorgnerions;;vous ;;;lorgneriez;;ils/elles ;;;lorgneraient
-Conditionnel Passé;conditionnel;;j’;;;aurais lorgné;;tu ;;;aurais lorgné;;il/elle/on ;;;aurait lorgné;;nous ;;;aurions lorgné;;vous ;;;auriez lorgné;;ils/elles ;;;auraient lorgné
+Indicatif Présent;indicatif;;je ;;;lorgne;;tu ;;;lorgnes;;il //elle //on ;;;lorgne;;nous ;;;lorgnons;;vous ;;;lorgnez;;ils //elles ;;;lorgnent
+Indicatif Passé Composé;indicatif;;j’;;;ai lorgné;;tu ;;;as lorgné;;il //elle //on ;;;a lorgné;;nous ;;;avons lorgné;;vous ;;;avez lorgné;;ils //elles ;;;ont lorgné
+Indicatif Imparfait;indicatif;;je ;;;lorgnais;;tu ;;;lorgnais;;il //elle //on ;;;lorgnait;;nous ;;;lorgnions;;vous ;;;lorgniez;;ils //elles ;;;lorgnaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais lorgné;;tu ;;;avais lorgné;;il //elle //on ;;;avait lorgné;;nous ;;;avions lorgné;;vous ;;;aviez lorgné;;ils //elles ;;;avaient lorgné
+Indicatif Passé Simple;indicatif;;je ;;;lorgnai;;tu ;;;lorgnas;;il //elle //on ;;;lorgna;;nous ;;;lorgnâmes;;vous ;;;lorgnâtes;;ils //elles ;;;lorgnèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus lorgné;;tu ;;;eus lorgné;;il //elle //on ;;;eut lorgné;;nous ;;;eûmes lorgné;;vous ;;;eûtes lorgné;;ils //elles ;;;eurent lorgné
+Indicatif Futur Simple;indicatif;;je ;;;lorgnerai;;tu ;;;lorgneras;;il //elle //on ;;;lorgnera;;nous ;;;lorgnerons;;vous ;;;lorgnerez;;ils //elles ;;;lorgneront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai lorgné;;tu ;;;auras lorgné;;il //elle //on ;;;aura lorgné;;nous ;;;aurons lorgné;;vous ;;;aurez lorgné;;ils //elles ;;;auront lorgné
+Subjonctif Présent;subjonctif;que ;je ;;;lorgne;que ;tu ;;;lorgnes;qu’;il //elle //on ;;;lorgne;que ;nous ;;;lorgnions;que ;vous ;;;lorgniez;qu’;ils //elles ;;;lorgnent
+Subjonctif Passé;subjonctif;que ;j’;;;aie lorgné;que ;tu ;;;aies lorgné;qu’;il //elle //on ;;;ait lorgné;que ;nous ;;;ayons lorgné;que ;vous ;;;ayez lorgné;qu’;ils //elles ;;;aient lorgné
+Subjonctif Imparfait;subjonctif;que ;je ;;;lorgnasse;que ;tu ;;;lorgnasses;qu’;il //elle //on ;;;lorgnât;que ;nous ;;;lorgnassions;que ;vous ;;;lorgnassiez;qu’;ils //elles ;;;lorgnassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse lorgné;que ;tu ;;;eusses lorgné;qu’;il //elle //on ;;;eût lorgné;que ;nous ;;;eussions lorgné;que ;vous ;;;eussiez lorgné;qu’;ils //elles ;;;eussent lorgné
+Conditionnel Présent;conditionnel;;je ;;;lorgnerais;;tu ;;;lorgnerais;;il //elle //on ;;;lorgnerait;;nous ;;;lorgnerions;;vous ;;;lorgneriez;;ils //elles ;;;lorgneraient
+Conditionnel Passé;conditionnel;;j’;;;aurais lorgné;;tu ;;;aurais lorgné;;il //elle //on ;;;aurait lorgné;;nous ;;;aurions lorgné;;vous ;;;auriez lorgné;;ils //elles ;;;auraient lorgné
 Impératif Présent;impératif;;;;;;;(tu) ;;;lorgne;;;;;;;(nous) ;;;lorgnons;;(vous) ;;;lorgnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie lorgné;;;;;;;(nous) ;;;ayons lorgné;;(vous) ;;;ayez lorgné;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;lorgne pas ;;;;;;;(nous) ;ne ;;lorgnons pas ;;(vous) ;ne ;;lorgnez pas ;;;;;

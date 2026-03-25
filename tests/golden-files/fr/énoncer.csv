@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en énonçant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant énoncé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;énonçant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;énoncé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;énonce;;tu ;;;énonces;;il/elle/on ;;;énonce;;nous ;;;énonçons;;vous ;;;énoncez;;ils/elles ;;;énoncent
-Indicatif Passé Composé;indicatif;;j’;;;ai énoncé;;tu ;;;as énoncé;;il/elle/on ;;;a énoncé;;nous ;;;avons énoncé;;vous ;;;avez énoncé;;ils/elles ;;;ont énoncé
-Indicatif Imparfait;indicatif;;j’;;;énonçais;;tu ;;;énonçais;;il/elle/on ;;;énonçait;;nous ;;;énoncions;;vous ;;;énonciez;;ils/elles ;;;énonçaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais énoncé;;tu ;;;avais énoncé;;il/elle/on ;;;avait énoncé;;nous ;;;avions énoncé;;vous ;;;aviez énoncé;;ils/elles ;;;avaient énoncé
-Indicatif Passé Simple;indicatif;;j’;;;énonçai;;tu ;;;énonças;;il/elle/on ;;;énonça;;nous ;;;énonçâmes;;vous ;;;énonçâtes;;ils/elles ;;;énoncèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus énoncé;;tu ;;;eus énoncé;;il/elle/on ;;;eut énoncé;;nous ;;;eûmes énoncé;;vous ;;;eûtes énoncé;;ils/elles ;;;eurent énoncé
-Indicatif Futur Simple;indicatif;;j’;;;énoncerai;;tu ;;;énonceras;;il/elle/on ;;;énoncera;;nous ;;;énoncerons;;vous ;;;énoncerez;;ils/elles ;;;énonceront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai énoncé;;tu ;;;auras énoncé;;il/elle/on ;;;aura énoncé;;nous ;;;aurons énoncé;;vous ;;;aurez énoncé;;ils/elles ;;;auront énoncé
-Subjonctif Présent;subjonctif;que ;j’;;;énonce;que ;tu ;;;énonces;qu’;il/elle/on ;;;énonce;que ;nous ;;;énoncions;que ;vous ;;;énonciez;qu’;ils/elles ;;;énoncent
-Subjonctif Passé;subjonctif;que ;j’;;;aie énoncé;que ;tu ;;;aies énoncé;qu’;il/elle/on ;;;ait énoncé;que ;nous ;;;ayons énoncé;que ;vous ;;;ayez énoncé;qu’;ils/elles ;;;aient énoncé
-Subjonctif Imparfait;subjonctif;que ;j’;;;énonçasse;que ;tu ;;;énonçasses;qu’;il/elle/on ;;;énonçât;que ;nous ;;;énonçassions;que ;vous ;;;énonçassiez;qu’;ils/elles ;;;énonçassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse énoncé;que ;tu ;;;eusses énoncé;qu’;il/elle/on ;;;eût énoncé;que ;nous ;;;eussions énoncé;que ;vous ;;;eussiez énoncé;qu’;ils/elles ;;;eussent énoncé
-Conditionnel Présent;conditionnel;;j’;;;énoncerais;;tu ;;;énoncerais;;il/elle/on ;;;énoncerait;;nous ;;;énoncerions;;vous ;;;énonceriez;;ils/elles ;;;énonceraient
-Conditionnel Passé;conditionnel;;j’;;;aurais énoncé;;tu ;;;aurais énoncé;;il/elle/on ;;;aurait énoncé;;nous ;;;aurions énoncé;;vous ;;;auriez énoncé;;ils/elles ;;;auraient énoncé
+Indicatif Présent;indicatif;;j’;;;énonce;;tu ;;;énonces;;il //elle //on ;;;énonce;;nous ;;;énonçons;;vous ;;;énoncez;;ils //elles ;;;énoncent
+Indicatif Passé Composé;indicatif;;j’;;;ai énoncé;;tu ;;;as énoncé;;il //elle //on ;;;a énoncé;;nous ;;;avons énoncé;;vous ;;;avez énoncé;;ils //elles ;;;ont énoncé
+Indicatif Imparfait;indicatif;;j’;;;énonçais;;tu ;;;énonçais;;il //elle //on ;;;énonçait;;nous ;;;énoncions;;vous ;;;énonciez;;ils //elles ;;;énonçaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais énoncé;;tu ;;;avais énoncé;;il //elle //on ;;;avait énoncé;;nous ;;;avions énoncé;;vous ;;;aviez énoncé;;ils //elles ;;;avaient énoncé
+Indicatif Passé Simple;indicatif;;j’;;;énonçai;;tu ;;;énonças;;il //elle //on ;;;énonça;;nous ;;;énonçâmes;;vous ;;;énonçâtes;;ils //elles ;;;énoncèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus énoncé;;tu ;;;eus énoncé;;il //elle //on ;;;eut énoncé;;nous ;;;eûmes énoncé;;vous ;;;eûtes énoncé;;ils //elles ;;;eurent énoncé
+Indicatif Futur Simple;indicatif;;j’;;;énoncerai;;tu ;;;énonceras;;il //elle //on ;;;énoncera;;nous ;;;énoncerons;;vous ;;;énoncerez;;ils //elles ;;;énonceront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai énoncé;;tu ;;;auras énoncé;;il //elle //on ;;;aura énoncé;;nous ;;;aurons énoncé;;vous ;;;aurez énoncé;;ils //elles ;;;auront énoncé
+Subjonctif Présent;subjonctif;que ;j’;;;énonce;que ;tu ;;;énonces;qu’;il //elle //on ;;;énonce;que ;nous ;;;énoncions;que ;vous ;;;énonciez;qu’;ils //elles ;;;énoncent
+Subjonctif Passé;subjonctif;que ;j’;;;aie énoncé;que ;tu ;;;aies énoncé;qu’;il //elle //on ;;;ait énoncé;que ;nous ;;;ayons énoncé;que ;vous ;;;ayez énoncé;qu’;ils //elles ;;;aient énoncé
+Subjonctif Imparfait;subjonctif;que ;j’;;;énonçasse;que ;tu ;;;énonçasses;qu’;il //elle //on ;;;énonçât;que ;nous ;;;énonçassions;que ;vous ;;;énonçassiez;qu’;ils //elles ;;;énonçassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse énoncé;que ;tu ;;;eusses énoncé;qu’;il //elle //on ;;;eût énoncé;que ;nous ;;;eussions énoncé;que ;vous ;;;eussiez énoncé;qu’;ils //elles ;;;eussent énoncé
+Conditionnel Présent;conditionnel;;j’;;;énoncerais;;tu ;;;énoncerais;;il //elle //on ;;;énoncerait;;nous ;;;énoncerions;;vous ;;;énonceriez;;ils //elles ;;;énonceraient
+Conditionnel Passé;conditionnel;;j’;;;aurais énoncé;;tu ;;;aurais énoncé;;il //elle //on ;;;aurait énoncé;;nous ;;;aurions énoncé;;vous ;;;auriez énoncé;;ils //elles ;;;auraient énoncé
 Impératif Présent;impératif;;;;;;;(tu) ;;;énonce;;;;;;;(nous) ;;;énonçons;;(vous) ;;;énoncez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie énoncé;;;;;;;(nous) ;;;ayons énoncé;;(vous) ;;;ayez énoncé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;énonce pas ;;;;;;;(nous) ;n';;énonçons pas ;;(vous) ;n';;énoncez pas ;;;;;

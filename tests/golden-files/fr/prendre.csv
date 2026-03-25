@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en prenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant pris;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;prenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;pris;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;prends;;tu ;;;prends;;il/elle/on ;;;prend;;nous ;;;prenons;;vous ;;;prenez;;ils/elles ;;;prennent
-Indicatif Passé Composé;indicatif;;j’;;;ai pris;;tu ;;;as pris;;il/elle/on ;;;a pris;;nous ;;;avons pris;;vous ;;;avez pris;;ils/elles ;;;ont pris
-Indicatif Imparfait;indicatif;;je ;;;prenais;;tu ;;;prenais;;il/elle/on ;;;prenait;;nous ;;;prenions;;vous ;;;preniez;;ils/elles ;;;prenaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais pris;;tu ;;;avais pris;;il/elle/on ;;;avait pris;;nous ;;;avions pris;;vous ;;;aviez pris;;ils/elles ;;;avaient pris
-Indicatif Passé Simple;indicatif;;je ;;;pris;;tu ;;;pris;;il/elle/on ;;;prit;;nous ;;;prîmes;;vous ;;;prîtes;;ils/elles ;;;prirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus pris;;tu ;;;eus pris;;il/elle/on ;;;eut pris;;nous ;;;eûmes pris;;vous ;;;eûtes pris;;ils/elles ;;;eurent pris
-Indicatif Futur Simple;indicatif;;je ;;;prendrai;;tu ;;;prendras;;il/elle/on ;;;prendra;;nous ;;;prendrons;;vous ;;;prendrez;;ils/elles ;;;prendront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai pris;;tu ;;;auras pris;;il/elle/on ;;;aura pris;;nous ;;;aurons pris;;vous ;;;aurez pris;;ils/elles ;;;auront pris
-Subjonctif Présent;subjonctif;que ;je ;;;prenne;que ;tu ;;;prennes;qu’;il/elle/on ;;;prenne;que ;nous ;;;prenions;que ;vous ;;;preniez;qu’;ils/elles ;;;prennent
-Subjonctif Passé;subjonctif;que ;j’;;;aie pris;que ;tu ;;;aies pris;qu’;il/elle/on ;;;ait pris;que ;nous ;;;ayons pris;que ;vous ;;;ayez pris;qu’;ils/elles ;;;aient pris
-Subjonctif Imparfait;subjonctif;que ;je ;;;prisse;que ;tu ;;;prisses;qu’;il/elle/on ;;;prît;que ;nous ;;;prissions;que ;vous ;;;prissiez;qu’;ils/elles ;;;prissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse pris;que ;tu ;;;eusses pris;qu’;il/elle/on ;;;eût pris;que ;nous ;;;eussions pris;que ;vous ;;;eussiez pris;qu’;ils/elles ;;;eussent pris
-Conditionnel Présent;conditionnel;;je ;;;prendrais;;tu ;;;prendrais;;il/elle/on ;;;prendrait;;nous ;;;prendrions;;vous ;;;prendriez;;ils/elles ;;;prendraient
-Conditionnel Passé;conditionnel;;j’;;;aurais pris;;tu ;;;aurais pris;;il/elle/on ;;;aurait pris;;nous ;;;aurions pris;;vous ;;;auriez pris;;ils/elles ;;;auraient pris
+Indicatif Présent;indicatif;;je ;;;prends;;tu ;;;prends;;il //elle //on ;;;prend;;nous ;;;prenons;;vous ;;;prenez;;ils //elles ;;;prennent
+Indicatif Passé Composé;indicatif;;j’;;;ai pris;;tu ;;;as pris;;il //elle //on ;;;a pris;;nous ;;;avons pris;;vous ;;;avez pris;;ils //elles ;;;ont pris
+Indicatif Imparfait;indicatif;;je ;;;prenais;;tu ;;;prenais;;il //elle //on ;;;prenait;;nous ;;;prenions;;vous ;;;preniez;;ils //elles ;;;prenaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais pris;;tu ;;;avais pris;;il //elle //on ;;;avait pris;;nous ;;;avions pris;;vous ;;;aviez pris;;ils //elles ;;;avaient pris
+Indicatif Passé Simple;indicatif;;je ;;;pris;;tu ;;;pris;;il //elle //on ;;;prit;;nous ;;;prîmes;;vous ;;;prîtes;;ils //elles ;;;prirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus pris;;tu ;;;eus pris;;il //elle //on ;;;eut pris;;nous ;;;eûmes pris;;vous ;;;eûtes pris;;ils //elles ;;;eurent pris
+Indicatif Futur Simple;indicatif;;je ;;;prendrai;;tu ;;;prendras;;il //elle //on ;;;prendra;;nous ;;;prendrons;;vous ;;;prendrez;;ils //elles ;;;prendront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai pris;;tu ;;;auras pris;;il //elle //on ;;;aura pris;;nous ;;;aurons pris;;vous ;;;aurez pris;;ils //elles ;;;auront pris
+Subjonctif Présent;subjonctif;que ;je ;;;prenne;que ;tu ;;;prennes;qu’;il //elle //on ;;;prenne;que ;nous ;;;prenions;que ;vous ;;;preniez;qu’;ils //elles ;;;prennent
+Subjonctif Passé;subjonctif;que ;j’;;;aie pris;que ;tu ;;;aies pris;qu’;il //elle //on ;;;ait pris;que ;nous ;;;ayons pris;que ;vous ;;;ayez pris;qu’;ils //elles ;;;aient pris
+Subjonctif Imparfait;subjonctif;que ;je ;;;prisse;que ;tu ;;;prisses;qu’;il //elle //on ;;;prît;que ;nous ;;;prissions;que ;vous ;;;prissiez;qu’;ils //elles ;;;prissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse pris;que ;tu ;;;eusses pris;qu’;il //elle //on ;;;eût pris;que ;nous ;;;eussions pris;que ;vous ;;;eussiez pris;qu’;ils //elles ;;;eussent pris
+Conditionnel Présent;conditionnel;;je ;;;prendrais;;tu ;;;prendrais;;il //elle //on ;;;prendrait;;nous ;;;prendrions;;vous ;;;prendriez;;ils //elles ;;;prendraient
+Conditionnel Passé;conditionnel;;j’;;;aurais pris;;tu ;;;aurais pris;;il //elle //on ;;;aurait pris;;nous ;;;aurions pris;;vous ;;;auriez pris;;ils //elles ;;;auraient pris
 Impératif Présent;impératif;;;;;;;(tu) ;;;prends;;;;;;;(nous) ;;;prenons;;(vous) ;;;prenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie pris;;;;;;;(nous) ;;;ayons pris;;(vous) ;;;ayez pris;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;prends pas ;;;;;;;(nous) ;ne ;;prenons pas ;;(vous) ;ne ;;prenez pas ;;;;;

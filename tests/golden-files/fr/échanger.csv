@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en échangeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant échangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;échangeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;échangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;échange;;tu ;;;échanges;;il/elle/on ;;;échange;;nous ;;;échangeons;;vous ;;;échangez;;ils/elles ;;;échangent
-Indicatif Passé Composé;indicatif;;j’;;;ai échangé;;tu ;;;as échangé;;il/elle/on ;;;a échangé;;nous ;;;avons échangé;;vous ;;;avez échangé;;ils/elles ;;;ont échangé
-Indicatif Imparfait;indicatif;;j’;;;échangeais;;tu ;;;échangeais;;il/elle/on ;;;échangeait;;nous ;;;échangions;;vous ;;;échangiez;;ils/elles ;;;échangeaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais échangé;;tu ;;;avais échangé;;il/elle/on ;;;avait échangé;;nous ;;;avions échangé;;vous ;;;aviez échangé;;ils/elles ;;;avaient échangé
-Indicatif Passé Simple;indicatif;;j’;;;échangeai;;tu ;;;échangeas;;il/elle/on ;;;échangea;;nous ;;;échangeâmes;;vous ;;;échangeâtes;;ils/elles ;;;échangèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus échangé;;tu ;;;eus échangé;;il/elle/on ;;;eut échangé;;nous ;;;eûmes échangé;;vous ;;;eûtes échangé;;ils/elles ;;;eurent échangé
-Indicatif Futur Simple;indicatif;;j’;;;échangerai;;tu ;;;échangeras;;il/elle/on ;;;échangera;;nous ;;;échangerons;;vous ;;;échangerez;;ils/elles ;;;échangeront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai échangé;;tu ;;;auras échangé;;il/elle/on ;;;aura échangé;;nous ;;;aurons échangé;;vous ;;;aurez échangé;;ils/elles ;;;auront échangé
-Subjonctif Présent;subjonctif;que ;j’;;;échange;que ;tu ;;;échanges;qu’;il/elle/on ;;;échange;que ;nous ;;;échangions;que ;vous ;;;échangiez;qu’;ils/elles ;;;échangent
-Subjonctif Passé;subjonctif;que ;j’;;;aie échangé;que ;tu ;;;aies échangé;qu’;il/elle/on ;;;ait échangé;que ;nous ;;;ayons échangé;que ;vous ;;;ayez échangé;qu’;ils/elles ;;;aient échangé
-Subjonctif Imparfait;subjonctif;que ;j’;;;échangeasse;que ;tu ;;;échangeasses;qu’;il/elle/on ;;;échangeât;que ;nous ;;;échangeassions;que ;vous ;;;échangeassiez;qu’;ils/elles ;;;échangeassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse échangé;que ;tu ;;;eusses échangé;qu’;il/elle/on ;;;eût échangé;que ;nous ;;;eussions échangé;que ;vous ;;;eussiez échangé;qu’;ils/elles ;;;eussent échangé
-Conditionnel Présent;conditionnel;;j’;;;échangerais;;tu ;;;échangerais;;il/elle/on ;;;échangerait;;nous ;;;échangerions;;vous ;;;échangeriez;;ils/elles ;;;échangeraient
-Conditionnel Passé;conditionnel;;j’;;;aurais échangé;;tu ;;;aurais échangé;;il/elle/on ;;;aurait échangé;;nous ;;;aurions échangé;;vous ;;;auriez échangé;;ils/elles ;;;auraient échangé
+Indicatif Présent;indicatif;;j’;;;échange;;tu ;;;échanges;;il //elle //on ;;;échange;;nous ;;;échangeons;;vous ;;;échangez;;ils //elles ;;;échangent
+Indicatif Passé Composé;indicatif;;j’;;;ai échangé;;tu ;;;as échangé;;il //elle //on ;;;a échangé;;nous ;;;avons échangé;;vous ;;;avez échangé;;ils //elles ;;;ont échangé
+Indicatif Imparfait;indicatif;;j’;;;échangeais;;tu ;;;échangeais;;il //elle //on ;;;échangeait;;nous ;;;échangions;;vous ;;;échangiez;;ils //elles ;;;échangeaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais échangé;;tu ;;;avais échangé;;il //elle //on ;;;avait échangé;;nous ;;;avions échangé;;vous ;;;aviez échangé;;ils //elles ;;;avaient échangé
+Indicatif Passé Simple;indicatif;;j’;;;échangeai;;tu ;;;échangeas;;il //elle //on ;;;échangea;;nous ;;;échangeâmes;;vous ;;;échangeâtes;;ils //elles ;;;échangèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus échangé;;tu ;;;eus échangé;;il //elle //on ;;;eut échangé;;nous ;;;eûmes échangé;;vous ;;;eûtes échangé;;ils //elles ;;;eurent échangé
+Indicatif Futur Simple;indicatif;;j’;;;échangerai;;tu ;;;échangeras;;il //elle //on ;;;échangera;;nous ;;;échangerons;;vous ;;;échangerez;;ils //elles ;;;échangeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai échangé;;tu ;;;auras échangé;;il //elle //on ;;;aura échangé;;nous ;;;aurons échangé;;vous ;;;aurez échangé;;ils //elles ;;;auront échangé
+Subjonctif Présent;subjonctif;que ;j’;;;échange;que ;tu ;;;échanges;qu’;il //elle //on ;;;échange;que ;nous ;;;échangions;que ;vous ;;;échangiez;qu’;ils //elles ;;;échangent
+Subjonctif Passé;subjonctif;que ;j’;;;aie échangé;que ;tu ;;;aies échangé;qu’;il //elle //on ;;;ait échangé;que ;nous ;;;ayons échangé;que ;vous ;;;ayez échangé;qu’;ils //elles ;;;aient échangé
+Subjonctif Imparfait;subjonctif;que ;j’;;;échangeasse;que ;tu ;;;échangeasses;qu’;il //elle //on ;;;échangeât;que ;nous ;;;échangeassions;que ;vous ;;;échangeassiez;qu’;ils //elles ;;;échangeassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse échangé;que ;tu ;;;eusses échangé;qu’;il //elle //on ;;;eût échangé;que ;nous ;;;eussions échangé;que ;vous ;;;eussiez échangé;qu’;ils //elles ;;;eussent échangé
+Conditionnel Présent;conditionnel;;j’;;;échangerais;;tu ;;;échangerais;;il //elle //on ;;;échangerait;;nous ;;;échangerions;;vous ;;;échangeriez;;ils //elles ;;;échangeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais échangé;;tu ;;;aurais échangé;;il //elle //on ;;;aurait échangé;;nous ;;;aurions échangé;;vous ;;;auriez échangé;;ils //elles ;;;auraient échangé
 Impératif Présent;impératif;;;;;;;(tu) ;;;échange;;;;;;;(nous) ;;;échangeons;;(vous) ;;;échangez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie échangé;;;;;;;(nous) ;;;ayons échangé;;(vous) ;;;ayez échangé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;échange pas ;;;;;;;(nous) ;n';;échangeons pas ;;(vous) ;n';;échangez pas ;;;;;

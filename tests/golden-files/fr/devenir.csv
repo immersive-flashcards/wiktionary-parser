@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en devenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en étant devenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;devenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;devenu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;deviens;;tu ;;;deviens;;il/elle/on ;;;devient;;nous ;;;devenons;;vous ;;;devenez;;ils/elles ;;;deviennent
-Indicatif Passé Composé;indicatif;;je ;;;suis devenu;;tu ;;;es devenu;;il/elle/on ;;;est devenu;;nous ;;;sommes devenus;;vous ;;;êtes devenus;;ils/elles ;;;sont devenus
-Indicatif Imparfait;indicatif;;je ;;;devenais;;tu ;;;devenais;;il/elle/on ;;;devenait;;nous ;;;devenions;;vous ;;;deveniez;;ils/elles ;;;devenaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais devenu;;tu ;;;étais devenu;;il/elle/on ;;;était devenu;;nous ;;;étions devenus;;vous ;;;étiez devenus;;ils/elles ;;;étaient devenus
-Indicatif Passé Simple;indicatif;;je ;;;devins;;tu ;;;devins;;il/elle/on ;;;devint;;nous ;;;devînmes;;vous ;;;devîntes;;ils/elles ;;;devinrent
-Indicatif Passé Antérieur;indicatif;;je ;;;fus devenu;;tu ;;;fus devenu;;il/elle/on ;;;fut devenu;;nous ;;;fûmes devenus;;vous ;;;fûtes devenus;;ils/elles ;;;furent devenus
-Indicatif Futur Simple;indicatif;;je ;;;deviendrai;;tu ;;;deviendras;;il/elle/on ;;;deviendra;;nous ;;;deviendrons;;vous ;;;deviendrez;;ils/elles ;;;deviendront
-Indicatif Futur Antérieur;indicatif;;je ;;;serai devenu;;tu ;;;seras devenu;;il/elle/on ;;;sera devenu;;nous ;;;serons devenus;;vous ;;;serez devenus;;ils/elles ;;;seront devenus
-Subjonctif Présent;subjonctif;que ;je ;;;devienne;que ;tu ;;;deviennes;qu’;il/elle/on ;;;devienne;que ;nous ;;;devenions;que ;vous ;;;deveniez;qu’;ils/elles ;;;deviennent
-Subjonctif Passé;subjonctif;que ;je ;;;sois devenu;que ;tu ;;;sois devenu;qu’;il/elle/on ;;;soit devenu;que ;nous ;;;soyons devenus;que ;vous ;;;soyez devenus;qu’;ils/elles ;;;soient devenus
-Subjonctif Imparfait;subjonctif;que ;je ;;;devinsse;que ;tu ;;;devinsses;qu’;il/elle/on ;;;devînt;que ;nous ;;;devinssions;que ;vous ;;;devinssiez;qu’;ils/elles ;;;devinssent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse devenu;que ;tu ;;;fusses devenu;qu’;il/elle/on ;;;fût devenu;que ;nous ;;;fussions devenus;que ;vous ;;;fussiez devenus;qu’;ils/elles ;;;fussent devenus
-Conditionnel Présent;conditionnel;;je ;;;deviendrais;;tu ;;;deviendrais;;il/elle/on ;;;deviendrait;;nous ;;;deviendrions;;vous ;;;deviendriez;;ils/elles ;;;deviendraient
-Conditionnel Passé;conditionnel;;je ;;;serais devenu;;tu ;;;serais devenu;;il/elle/on ;;;serait devenu;;nous ;;;serions devenus;;vous ;;;seriez devenus;;ils/elles ;;;seraient devenus
+Indicatif Présent;indicatif;;je ;;;deviens;;tu ;;;deviens;;il //elle //on ;;;devient;;nous ;;;devenons;;vous ;;;devenez;;ils //elles ;;;deviennent
+Indicatif Passé Composé;indicatif;;je ;;;suis devenu;;tu ;;;es devenu;;il //elle //on ;;;est devenu;;nous ;;;sommes devenus;;vous ;;;êtes devenus;;ils //elles ;;;sont devenus
+Indicatif Imparfait;indicatif;;je ;;;devenais;;tu ;;;devenais;;il //elle //on ;;;devenait;;nous ;;;devenions;;vous ;;;deveniez;;ils //elles ;;;devenaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais devenu;;tu ;;;étais devenu;;il //elle //on ;;;était devenu;;nous ;;;étions devenus;;vous ;;;étiez devenus;;ils //elles ;;;étaient devenus
+Indicatif Passé Simple;indicatif;;je ;;;devins;;tu ;;;devins;;il //elle //on ;;;devint;;nous ;;;devînmes;;vous ;;;devîntes;;ils //elles ;;;devinrent
+Indicatif Passé Antérieur;indicatif;;je ;;;fus devenu;;tu ;;;fus devenu;;il //elle //on ;;;fut devenu;;nous ;;;fûmes devenus;;vous ;;;fûtes devenus;;ils //elles ;;;furent devenus
+Indicatif Futur Simple;indicatif;;je ;;;deviendrai;;tu ;;;deviendras;;il //elle //on ;;;deviendra;;nous ;;;deviendrons;;vous ;;;deviendrez;;ils //elles ;;;deviendront
+Indicatif Futur Antérieur;indicatif;;je ;;;serai devenu;;tu ;;;seras devenu;;il //elle //on ;;;sera devenu;;nous ;;;serons devenus;;vous ;;;serez devenus;;ils //elles ;;;seront devenus
+Subjonctif Présent;subjonctif;que ;je ;;;devienne;que ;tu ;;;deviennes;qu’;il //elle //on ;;;devienne;que ;nous ;;;devenions;que ;vous ;;;deveniez;qu’;ils //elles ;;;deviennent
+Subjonctif Passé;subjonctif;que ;je ;;;sois devenu;que ;tu ;;;sois devenu;qu’;il //elle //on ;;;soit devenu;que ;nous ;;;soyons devenus;que ;vous ;;;soyez devenus;qu’;ils //elles ;;;soient devenus
+Subjonctif Imparfait;subjonctif;que ;je ;;;devinsse;que ;tu ;;;devinsses;qu’;il //elle //on ;;;devînt;que ;nous ;;;devinssions;que ;vous ;;;devinssiez;qu’;ils //elles ;;;devinssent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse devenu;que ;tu ;;;fusses devenu;qu’;il //elle //on ;;;fût devenu;que ;nous ;;;fussions devenus;que ;vous ;;;fussiez devenus;qu’;ils //elles ;;;fussent devenus
+Conditionnel Présent;conditionnel;;je ;;;deviendrais;;tu ;;;deviendrais;;il //elle //on ;;;deviendrait;;nous ;;;deviendrions;;vous ;;;deviendriez;;ils //elles ;;;deviendraient
+Conditionnel Passé;conditionnel;;je ;;;serais devenu;;tu ;;;serais devenu;;il //elle //on ;;;serait devenu;;nous ;;;serions devenus;;vous ;;;seriez devenus;;ils //elles ;;;seraient devenus
 Impératif Présent;impératif;;;;;;;(tu) ;;;deviens;;;;;;;(nous) ;;;devenons;;(vous) ;;;devenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois devenu;;;;;;;(nous) ;;;soyons devenus;;(vous) ;;;soyez devenus;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;deviens pas ;;;;;;;(nous) ;ne ;;devenons pas ;;(vous) ;ne ;;devenez pas ;;;;;

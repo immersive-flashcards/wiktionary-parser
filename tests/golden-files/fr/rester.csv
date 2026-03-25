@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en restant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en étant resté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;restant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;resté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;reste;;tu ;;;restes;;il/elle/on ;;;reste;;nous ;;;restons;;vous ;;;restez;;ils/elles ;;;restent
-Indicatif Passé Composé;indicatif;;je ;;;suis resté;;tu ;;;es resté;;il/elle/on ;;;est resté;;nous ;;;sommes restés;;vous ;;;êtes restés;;ils/elles ;;;sont restés
-Indicatif Imparfait;indicatif;;je ;;;restais;;tu ;;;restais;;il/elle/on ;;;restait;;nous ;;;restions;;vous ;;;restiez;;ils/elles ;;;restaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais resté;;tu ;;;étais resté;;il/elle/on ;;;était resté;;nous ;;;étions restés;;vous ;;;étiez restés;;ils/elles ;;;étaient restés
-Indicatif Passé Simple;indicatif;;je ;;;restai;;tu ;;;restas;;il/elle/on ;;;resta;;nous ;;;restâmes;;vous ;;;restâtes;;ils/elles ;;;restèrent
-Indicatif Passé Antérieur;indicatif;;je ;;;fus resté;;tu ;;;fus resté;;il/elle/on ;;;fut resté;;nous ;;;fûmes restés;;vous ;;;fûtes restés;;ils/elles ;;;furent restés
-Indicatif Futur Simple;indicatif;;je ;;;resterai;;tu ;;;resteras;;il/elle/on ;;;restera;;nous ;;;resterons;;vous ;;;resterez;;ils/elles ;;;resteront
-Indicatif Futur Antérieur;indicatif;;je ;;;serai resté;;tu ;;;seras resté;;il/elle/on ;;;sera resté;;nous ;;;serons restés;;vous ;;;serez restés;;ils/elles ;;;seront restés
-Subjonctif Présent;subjonctif;que ;je ;;;reste;que ;tu ;;;restes;qu’;il/elle/on ;;;reste;que ;nous ;;;restions;que ;vous ;;;restiez;qu’;ils/elles ;;;restent
-Subjonctif Passé;subjonctif;que ;je ;;;sois resté;que ;tu ;;;sois resté;qu’;il/elle/on ;;;soit resté;que ;nous ;;;soyons restés;que ;vous ;;;soyez restés;qu’;ils/elles ;;;soient restés
-Subjonctif Imparfait;subjonctif;que ;je ;;;restasse;que ;tu ;;;restasses;qu’;il/elle/on ;;;restât;que ;nous ;;;restassions;que ;vous ;;;restassiez;qu’;ils/elles ;;;restassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse resté;que ;tu ;;;fusses resté;qu’;il/elle/on ;;;fût resté;que ;nous ;;;fussions restés;que ;vous ;;;fussiez restés;qu’;ils/elles ;;;fussent restés
-Conditionnel Présent;conditionnel;;je ;;;resterais;;tu ;;;resterais;;il/elle/on ;;;resterait;;nous ;;;resterions;;vous ;;;resteriez;;ils/elles ;;;resteraient
-Conditionnel Passé;conditionnel;;je ;;;serais resté;;tu ;;;serais resté;;il/elle/on ;;;serait resté;;nous ;;;serions restés;;vous ;;;seriez restés;;ils/elles ;;;seraient restés
+Indicatif Présent;indicatif;;je ;;;reste;;tu ;;;restes;;il //elle //on ;;;reste;;nous ;;;restons;;vous ;;;restez;;ils //elles ;;;restent
+Indicatif Passé Composé;indicatif;;je ;;;suis resté;;tu ;;;es resté;;il //elle //on ;;;est resté;;nous ;;;sommes restés;;vous ;;;êtes restés;;ils //elles ;;;sont restés
+Indicatif Imparfait;indicatif;;je ;;;restais;;tu ;;;restais;;il //elle //on ;;;restait;;nous ;;;restions;;vous ;;;restiez;;ils //elles ;;;restaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais resté;;tu ;;;étais resté;;il //elle //on ;;;était resté;;nous ;;;étions restés;;vous ;;;étiez restés;;ils //elles ;;;étaient restés
+Indicatif Passé Simple;indicatif;;je ;;;restai;;tu ;;;restas;;il //elle //on ;;;resta;;nous ;;;restâmes;;vous ;;;restâtes;;ils //elles ;;;restèrent
+Indicatif Passé Antérieur;indicatif;;je ;;;fus resté;;tu ;;;fus resté;;il //elle //on ;;;fut resté;;nous ;;;fûmes restés;;vous ;;;fûtes restés;;ils //elles ;;;furent restés
+Indicatif Futur Simple;indicatif;;je ;;;resterai;;tu ;;;resteras;;il //elle //on ;;;restera;;nous ;;;resterons;;vous ;;;resterez;;ils //elles ;;;resteront
+Indicatif Futur Antérieur;indicatif;;je ;;;serai resté;;tu ;;;seras resté;;il //elle //on ;;;sera resté;;nous ;;;serons restés;;vous ;;;serez restés;;ils //elles ;;;seront restés
+Subjonctif Présent;subjonctif;que ;je ;;;reste;que ;tu ;;;restes;qu’;il //elle //on ;;;reste;que ;nous ;;;restions;que ;vous ;;;restiez;qu’;ils //elles ;;;restent
+Subjonctif Passé;subjonctif;que ;je ;;;sois resté;que ;tu ;;;sois resté;qu’;il //elle //on ;;;soit resté;que ;nous ;;;soyons restés;que ;vous ;;;soyez restés;qu’;ils //elles ;;;soient restés
+Subjonctif Imparfait;subjonctif;que ;je ;;;restasse;que ;tu ;;;restasses;qu’;il //elle //on ;;;restât;que ;nous ;;;restassions;que ;vous ;;;restassiez;qu’;ils //elles ;;;restassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse resté;que ;tu ;;;fusses resté;qu’;il //elle //on ;;;fût resté;que ;nous ;;;fussions restés;que ;vous ;;;fussiez restés;qu’;ils //elles ;;;fussent restés
+Conditionnel Présent;conditionnel;;je ;;;resterais;;tu ;;;resterais;;il //elle //on ;;;resterait;;nous ;;;resterions;;vous ;;;resteriez;;ils //elles ;;;resteraient
+Conditionnel Passé;conditionnel;;je ;;;serais resté;;tu ;;;serais resté;;il //elle //on ;;;serait resté;;nous ;;;serions restés;;vous ;;;seriez restés;;ils //elles ;;;seraient restés
 Impératif Présent;impératif;;;;;;;(tu) ;;;reste;;;;;;;(nous) ;;;restons;;(vous) ;;;restez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois resté;;;;;;;(nous) ;;;soyons restés;;(vous) ;;;soyez restés;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;reste pas ;;;;;;;(nous) ;ne ;;restons pas ;;(vous) ;ne ;;restez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en bémolisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant bémolisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;bémolisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;bémolisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;bémolise;;tu ;;;bémolises;;il/elle/on ;;;bémolise;;nous ;;;bémolisons;;vous ;;;bémolisez;;ils/elles ;;;bémolisent
-Indicatif Passé Composé;indicatif;;j’;;;ai bémolisé;;tu ;;;as bémolisé;;il/elle/on ;;;a bémolisé;;nous ;;;avons bémolisé;;vous ;;;avez bémolisé;;ils/elles ;;;ont bémolisé
-Indicatif Imparfait;indicatif;;je ;;;bémolisais;;tu ;;;bémolisais;;il/elle/on ;;;bémolisait;;nous ;;;bémolisions;;vous ;;;bémolisiez;;ils/elles ;;;bémolisaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais bémolisé;;tu ;;;avais bémolisé;;il/elle/on ;;;avait bémolisé;;nous ;;;avions bémolisé;;vous ;;;aviez bémolisé;;ils/elles ;;;avaient bémolisé
-Indicatif Passé Simple;indicatif;;je ;;;bémolisai;;tu ;;;bémolisas;;il/elle/on ;;;bémolisa;;nous ;;;bémolisâmes;;vous ;;;bémolisâtes;;ils/elles ;;;bémolisèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus bémolisé;;tu ;;;eus bémolisé;;il/elle/on ;;;eut bémolisé;;nous ;;;eûmes bémolisé;;vous ;;;eûtes bémolisé;;ils/elles ;;;eurent bémolisé
-Indicatif Futur Simple;indicatif;;je ;;;bémoliserai;;tu ;;;bémoliseras;;il/elle/on ;;;bémolisera;;nous ;;;bémoliserons;;vous ;;;bémoliserez;;ils/elles ;;;bémoliseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai bémolisé;;tu ;;;auras bémolisé;;il/elle/on ;;;aura bémolisé;;nous ;;;aurons bémolisé;;vous ;;;aurez bémolisé;;ils/elles ;;;auront bémolisé
-Subjonctif Présent;subjonctif;que ;je ;;;bémolise;que ;tu ;;;bémolises;qu’;il/elle/on ;;;bémolise;que ;nous ;;;bémolisions;que ;vous ;;;bémolisiez;qu’;ils/elles ;;;bémolisent
-Subjonctif Passé;subjonctif;que ;j’;;;aie bémolisé;que ;tu ;;;aies bémolisé;qu’;il/elle/on ;;;ait bémolisé;que ;nous ;;;ayons bémolisé;que ;vous ;;;ayez bémolisé;qu’;ils/elles ;;;aient bémolisé
-Subjonctif Imparfait;subjonctif;que ;je ;;;bémolisasse;que ;tu ;;;bémolisasses;qu’;il/elle/on ;;;bémolisât;que ;nous ;;;bémolisassions;que ;vous ;;;bémolisassiez;qu’;ils/elles ;;;bémolisassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse bémolisé;que ;tu ;;;eusses bémolisé;qu’;il/elle/on ;;;eût bémolisé;que ;nous ;;;eussions bémolisé;que ;vous ;;;eussiez bémolisé;qu’;ils/elles ;;;eussent bémolisé
-Conditionnel Présent;conditionnel;;je ;;;bémoliserais;;tu ;;;bémoliserais;;il/elle/on ;;;bémoliserait;;nous ;;;bémoliserions;;vous ;;;bémoliseriez;;ils/elles ;;;bémoliseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais bémolisé;;tu ;;;aurais bémolisé;;il/elle/on ;;;aurait bémolisé;;nous ;;;aurions bémolisé;;vous ;;;auriez bémolisé;;ils/elles ;;;auraient bémolisé
+Indicatif Présent;indicatif;;je ;;;bémolise;;tu ;;;bémolises;;il //elle //on ;;;bémolise;;nous ;;;bémolisons;;vous ;;;bémolisez;;ils //elles ;;;bémolisent
+Indicatif Passé Composé;indicatif;;j’;;;ai bémolisé;;tu ;;;as bémolisé;;il //elle //on ;;;a bémolisé;;nous ;;;avons bémolisé;;vous ;;;avez bémolisé;;ils //elles ;;;ont bémolisé
+Indicatif Imparfait;indicatif;;je ;;;bémolisais;;tu ;;;bémolisais;;il //elle //on ;;;bémolisait;;nous ;;;bémolisions;;vous ;;;bémolisiez;;ils //elles ;;;bémolisaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais bémolisé;;tu ;;;avais bémolisé;;il //elle //on ;;;avait bémolisé;;nous ;;;avions bémolisé;;vous ;;;aviez bémolisé;;ils //elles ;;;avaient bémolisé
+Indicatif Passé Simple;indicatif;;je ;;;bémolisai;;tu ;;;bémolisas;;il //elle //on ;;;bémolisa;;nous ;;;bémolisâmes;;vous ;;;bémolisâtes;;ils //elles ;;;bémolisèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus bémolisé;;tu ;;;eus bémolisé;;il //elle //on ;;;eut bémolisé;;nous ;;;eûmes bémolisé;;vous ;;;eûtes bémolisé;;ils //elles ;;;eurent bémolisé
+Indicatif Futur Simple;indicatif;;je ;;;bémoliserai;;tu ;;;bémoliseras;;il //elle //on ;;;bémolisera;;nous ;;;bémoliserons;;vous ;;;bémoliserez;;ils //elles ;;;bémoliseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai bémolisé;;tu ;;;auras bémolisé;;il //elle //on ;;;aura bémolisé;;nous ;;;aurons bémolisé;;vous ;;;aurez bémolisé;;ils //elles ;;;auront bémolisé
+Subjonctif Présent;subjonctif;que ;je ;;;bémolise;que ;tu ;;;bémolises;qu’;il //elle //on ;;;bémolise;que ;nous ;;;bémolisions;que ;vous ;;;bémolisiez;qu’;ils //elles ;;;bémolisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie bémolisé;que ;tu ;;;aies bémolisé;qu’;il //elle //on ;;;ait bémolisé;que ;nous ;;;ayons bémolisé;que ;vous ;;;ayez bémolisé;qu’;ils //elles ;;;aient bémolisé
+Subjonctif Imparfait;subjonctif;que ;je ;;;bémolisasse;que ;tu ;;;bémolisasses;qu’;il //elle //on ;;;bémolisât;que ;nous ;;;bémolisassions;que ;vous ;;;bémolisassiez;qu’;ils //elles ;;;bémolisassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse bémolisé;que ;tu ;;;eusses bémolisé;qu’;il //elle //on ;;;eût bémolisé;que ;nous ;;;eussions bémolisé;que ;vous ;;;eussiez bémolisé;qu’;ils //elles ;;;eussent bémolisé
+Conditionnel Présent;conditionnel;;je ;;;bémoliserais;;tu ;;;bémoliserais;;il //elle //on ;;;bémoliserait;;nous ;;;bémoliserions;;vous ;;;bémoliseriez;;ils //elles ;;;bémoliseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais bémolisé;;tu ;;;aurais bémolisé;;il //elle //on ;;;aurait bémolisé;;nous ;;;aurions bémolisé;;vous ;;;auriez bémolisé;;ils //elles ;;;auraient bémolisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;bémolise;;;;;;;(nous) ;;;bémolisons;;(vous) ;;;bémolisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie bémolisé;;;;;;;(nous) ;;;ayons bémolisé;;(vous) ;;;ayez bémolisé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;bémolise pas ;;;;;;;(nous) ;ne ;;bémolisons pas ;;(vous) ;ne ;;bémolisez pas ;;;;;

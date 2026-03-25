@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en daubant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant daubé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;daubant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;daubé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;daube;;tu ;;;daubes;;il/elle/on ;;;daube;;nous ;;;daubons;;vous ;;;daubez;;ils/elles ;;;daubent
-Indicatif Passé Composé;indicatif;;j’;;;ai daubé;;tu ;;;as daubé;;il/elle/on ;;;a daubé;;nous ;;;avons daubé;;vous ;;;avez daubé;;ils/elles ;;;ont daubé
-Indicatif Imparfait;indicatif;;je ;;;daubais;;tu ;;;daubais;;il/elle/on ;;;daubait;;nous ;;;daubions;;vous ;;;daubiez;;ils/elles ;;;daubaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais daubé;;tu ;;;avais daubé;;il/elle/on ;;;avait daubé;;nous ;;;avions daubé;;vous ;;;aviez daubé;;ils/elles ;;;avaient daubé
-Indicatif Passé Simple;indicatif;;je ;;;daubai;;tu ;;;daubas;;il/elle/on ;;;dauba;;nous ;;;daubâmes;;vous ;;;daubâtes;;ils/elles ;;;daubèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus daubé;;tu ;;;eus daubé;;il/elle/on ;;;eut daubé;;nous ;;;eûmes daubé;;vous ;;;eûtes daubé;;ils/elles ;;;eurent daubé
-Indicatif Futur Simple;indicatif;;je ;;;dauberai;;tu ;;;dauberas;;il/elle/on ;;;daubera;;nous ;;;dauberons;;vous ;;;dauberez;;ils/elles ;;;dauberont
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai daubé;;tu ;;;auras daubé;;il/elle/on ;;;aura daubé;;nous ;;;aurons daubé;;vous ;;;aurez daubé;;ils/elles ;;;auront daubé
-Subjonctif Présent;subjonctif;que ;je ;;;daube;que ;tu ;;;daubes;qu’;il/elle/on ;;;daube;que ;nous ;;;daubions;que ;vous ;;;daubiez;qu’;ils/elles ;;;daubent
-Subjonctif Passé;subjonctif;que ;j’;;;aie daubé;que ;tu ;;;aies daubé;qu’;il/elle/on ;;;ait daubé;que ;nous ;;;ayons daubé;que ;vous ;;;ayez daubé;qu’;ils/elles ;;;aient daubé
-Subjonctif Imparfait;subjonctif;que ;je ;;;daubasse;que ;tu ;;;daubasses;qu’;il/elle/on ;;;daubât;que ;nous ;;;daubassions;que ;vous ;;;daubassiez;qu’;ils/elles ;;;daubassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse daubé;que ;tu ;;;eusses daubé;qu’;il/elle/on ;;;eût daubé;que ;nous ;;;eussions daubé;que ;vous ;;;eussiez daubé;qu’;ils/elles ;;;eussent daubé
-Conditionnel Présent;conditionnel;;je ;;;dauberais;;tu ;;;dauberais;;il/elle/on ;;;dauberait;;nous ;;;dauberions;;vous ;;;dauberiez;;ils/elles ;;;dauberaient
-Conditionnel Passé;conditionnel;;j’;;;aurais daubé;;tu ;;;aurais daubé;;il/elle/on ;;;aurait daubé;;nous ;;;aurions daubé;;vous ;;;auriez daubé;;ils/elles ;;;auraient daubé
+Indicatif Présent;indicatif;;je ;;;daube;;tu ;;;daubes;;il //elle //on ;;;daube;;nous ;;;daubons;;vous ;;;daubez;;ils //elles ;;;daubent
+Indicatif Passé Composé;indicatif;;j’;;;ai daubé;;tu ;;;as daubé;;il //elle //on ;;;a daubé;;nous ;;;avons daubé;;vous ;;;avez daubé;;ils //elles ;;;ont daubé
+Indicatif Imparfait;indicatif;;je ;;;daubais;;tu ;;;daubais;;il //elle //on ;;;daubait;;nous ;;;daubions;;vous ;;;daubiez;;ils //elles ;;;daubaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais daubé;;tu ;;;avais daubé;;il //elle //on ;;;avait daubé;;nous ;;;avions daubé;;vous ;;;aviez daubé;;ils //elles ;;;avaient daubé
+Indicatif Passé Simple;indicatif;;je ;;;daubai;;tu ;;;daubas;;il //elle //on ;;;dauba;;nous ;;;daubâmes;;vous ;;;daubâtes;;ils //elles ;;;daubèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus daubé;;tu ;;;eus daubé;;il //elle //on ;;;eut daubé;;nous ;;;eûmes daubé;;vous ;;;eûtes daubé;;ils //elles ;;;eurent daubé
+Indicatif Futur Simple;indicatif;;je ;;;dauberai;;tu ;;;dauberas;;il //elle //on ;;;daubera;;nous ;;;dauberons;;vous ;;;dauberez;;ils //elles ;;;dauberont
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai daubé;;tu ;;;auras daubé;;il //elle //on ;;;aura daubé;;nous ;;;aurons daubé;;vous ;;;aurez daubé;;ils //elles ;;;auront daubé
+Subjonctif Présent;subjonctif;que ;je ;;;daube;que ;tu ;;;daubes;qu’;il //elle //on ;;;daube;que ;nous ;;;daubions;que ;vous ;;;daubiez;qu’;ils //elles ;;;daubent
+Subjonctif Passé;subjonctif;que ;j’;;;aie daubé;que ;tu ;;;aies daubé;qu’;il //elle //on ;;;ait daubé;que ;nous ;;;ayons daubé;que ;vous ;;;ayez daubé;qu’;ils //elles ;;;aient daubé
+Subjonctif Imparfait;subjonctif;que ;je ;;;daubasse;que ;tu ;;;daubasses;qu’;il //elle //on ;;;daubât;que ;nous ;;;daubassions;que ;vous ;;;daubassiez;qu’;ils //elles ;;;daubassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse daubé;que ;tu ;;;eusses daubé;qu’;il //elle //on ;;;eût daubé;que ;nous ;;;eussions daubé;que ;vous ;;;eussiez daubé;qu’;ils //elles ;;;eussent daubé
+Conditionnel Présent;conditionnel;;je ;;;dauberais;;tu ;;;dauberais;;il //elle //on ;;;dauberait;;nous ;;;dauberions;;vous ;;;dauberiez;;ils //elles ;;;dauberaient
+Conditionnel Passé;conditionnel;;j’;;;aurais daubé;;tu ;;;aurais daubé;;il //elle //on ;;;aurait daubé;;nous ;;;aurions daubé;;vous ;;;auriez daubé;;ils //elles ;;;auraient daubé
 Impératif Présent;impératif;;;;;;;(tu) ;;;daube;;;;;;;(nous) ;;;daubons;;(vous) ;;;daubez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie daubé;;;;;;;(nous) ;;;ayons daubé;;(vous) ;;;ayez daubé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;daube pas ;;;;;;;(nous) ;ne ;;daubons pas ;;(vous) ;ne ;;daubez pas ;;;;;

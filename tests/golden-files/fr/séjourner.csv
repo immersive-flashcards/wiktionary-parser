@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en séjournant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant séjourné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;séjournant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;séjourné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;séjourne;;tu ;;;séjournes;;il/elle/on ;;;séjourne;;nous ;;;séjournons;;vous ;;;séjournez;;ils/elles ;;;séjournent
-Indicatif Passé Composé;indicatif;;j’;;;ai séjourné;;tu ;;;as séjourné;;il/elle/on ;;;a séjourné;;nous ;;;avons séjourné;;vous ;;;avez séjourné;;ils/elles ;;;ont séjourné
-Indicatif Imparfait;indicatif;;je ;;;séjournais;;tu ;;;séjournais;;il/elle/on ;;;séjournait;;nous ;;;séjournions;;vous ;;;séjourniez;;ils/elles ;;;séjournaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais séjourné;;tu ;;;avais séjourné;;il/elle/on ;;;avait séjourné;;nous ;;;avions séjourné;;vous ;;;aviez séjourné;;ils/elles ;;;avaient séjourné
-Indicatif Passé Simple;indicatif;;je ;;;séjournai;;tu ;;;séjournas;;il/elle/on ;;;séjourna;;nous ;;;séjournâmes;;vous ;;;séjournâtes;;ils/elles ;;;séjournèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus séjourné;;tu ;;;eus séjourné;;il/elle/on ;;;eut séjourné;;nous ;;;eûmes séjourné;;vous ;;;eûtes séjourné;;ils/elles ;;;eurent séjourné
-Indicatif Futur Simple;indicatif;;je ;;;séjournerai;;tu ;;;séjourneras;;il/elle/on ;;;séjournera;;nous ;;;séjournerons;;vous ;;;séjournerez;;ils/elles ;;;séjourneront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai séjourné;;tu ;;;auras séjourné;;il/elle/on ;;;aura séjourné;;nous ;;;aurons séjourné;;vous ;;;aurez séjourné;;ils/elles ;;;auront séjourné
-Subjonctif Présent;subjonctif;que ;je ;;;séjourne;que ;tu ;;;séjournes;qu’;il/elle/on ;;;séjourne;que ;nous ;;;séjournions;que ;vous ;;;séjourniez;qu’;ils/elles ;;;séjournent
-Subjonctif Passé;subjonctif;que ;j’;;;aie séjourné;que ;tu ;;;aies séjourné;qu’;il/elle/on ;;;ait séjourné;que ;nous ;;;ayons séjourné;que ;vous ;;;ayez séjourné;qu’;ils/elles ;;;aient séjourné
-Subjonctif Imparfait;subjonctif;que ;je ;;;séjournasse;que ;tu ;;;séjournasses;qu’;il/elle/on ;;;séjournât;que ;nous ;;;séjournassions;que ;vous ;;;séjournassiez;qu’;ils/elles ;;;séjournassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse séjourné;que ;tu ;;;eusses séjourné;qu’;il/elle/on ;;;eût séjourné;que ;nous ;;;eussions séjourné;que ;vous ;;;eussiez séjourné;qu’;ils/elles ;;;eussent séjourné
-Conditionnel Présent;conditionnel;;je ;;;séjournerais;;tu ;;;séjournerais;;il/elle/on ;;;séjournerait;;nous ;;;séjournerions;;vous ;;;séjourneriez;;ils/elles ;;;séjourneraient
-Conditionnel Passé;conditionnel;;j’;;;aurais séjourné;;tu ;;;aurais séjourné;;il/elle/on ;;;aurait séjourné;;nous ;;;aurions séjourné;;vous ;;;auriez séjourné;;ils/elles ;;;auraient séjourné
+Indicatif Présent;indicatif;;je ;;;séjourne;;tu ;;;séjournes;;il //elle //on ;;;séjourne;;nous ;;;séjournons;;vous ;;;séjournez;;ils //elles ;;;séjournent
+Indicatif Passé Composé;indicatif;;j’;;;ai séjourné;;tu ;;;as séjourné;;il //elle //on ;;;a séjourné;;nous ;;;avons séjourné;;vous ;;;avez séjourné;;ils //elles ;;;ont séjourné
+Indicatif Imparfait;indicatif;;je ;;;séjournais;;tu ;;;séjournais;;il //elle //on ;;;séjournait;;nous ;;;séjournions;;vous ;;;séjourniez;;ils //elles ;;;séjournaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais séjourné;;tu ;;;avais séjourné;;il //elle //on ;;;avait séjourné;;nous ;;;avions séjourné;;vous ;;;aviez séjourné;;ils //elles ;;;avaient séjourné
+Indicatif Passé Simple;indicatif;;je ;;;séjournai;;tu ;;;séjournas;;il //elle //on ;;;séjourna;;nous ;;;séjournâmes;;vous ;;;séjournâtes;;ils //elles ;;;séjournèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus séjourné;;tu ;;;eus séjourné;;il //elle //on ;;;eut séjourné;;nous ;;;eûmes séjourné;;vous ;;;eûtes séjourné;;ils //elles ;;;eurent séjourné
+Indicatif Futur Simple;indicatif;;je ;;;séjournerai;;tu ;;;séjourneras;;il //elle //on ;;;séjournera;;nous ;;;séjournerons;;vous ;;;séjournerez;;ils //elles ;;;séjourneront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai séjourné;;tu ;;;auras séjourné;;il //elle //on ;;;aura séjourné;;nous ;;;aurons séjourné;;vous ;;;aurez séjourné;;ils //elles ;;;auront séjourné
+Subjonctif Présent;subjonctif;que ;je ;;;séjourne;que ;tu ;;;séjournes;qu’;il //elle //on ;;;séjourne;que ;nous ;;;séjournions;que ;vous ;;;séjourniez;qu’;ils //elles ;;;séjournent
+Subjonctif Passé;subjonctif;que ;j’;;;aie séjourné;que ;tu ;;;aies séjourné;qu’;il //elle //on ;;;ait séjourné;que ;nous ;;;ayons séjourné;que ;vous ;;;ayez séjourné;qu’;ils //elles ;;;aient séjourné
+Subjonctif Imparfait;subjonctif;que ;je ;;;séjournasse;que ;tu ;;;séjournasses;qu’;il //elle //on ;;;séjournât;que ;nous ;;;séjournassions;que ;vous ;;;séjournassiez;qu’;ils //elles ;;;séjournassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse séjourné;que ;tu ;;;eusses séjourné;qu’;il //elle //on ;;;eût séjourné;que ;nous ;;;eussions séjourné;que ;vous ;;;eussiez séjourné;qu’;ils //elles ;;;eussent séjourné
+Conditionnel Présent;conditionnel;;je ;;;séjournerais;;tu ;;;séjournerais;;il //elle //on ;;;séjournerait;;nous ;;;séjournerions;;vous ;;;séjourneriez;;ils //elles ;;;séjourneraient
+Conditionnel Passé;conditionnel;;j’;;;aurais séjourné;;tu ;;;aurais séjourné;;il //elle //on ;;;aurait séjourné;;nous ;;;aurions séjourné;;vous ;;;auriez séjourné;;ils //elles ;;;auraient séjourné
 Impératif Présent;impératif;;;;;;;(tu) ;;;séjourne;;;;;;;(nous) ;;;séjournons;;(vous) ;;;séjournez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie séjourné;;;;;;;(nous) ;;;ayons séjourné;;(vous) ;;;ayez séjourné;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;séjourne pas ;;;;;;;(nous) ;ne ;;séjournons pas ;;(vous) ;ne ;;séjournez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en achetant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant acheté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;achetant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;acheté;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;achète;;tu ;;;achètes;;il/elle/on ;;;achète;;nous ;;;achetons;;vous ;;;achetez;;ils/elles ;;;achètent
-Indicatif Passé Composé;indicatif;;j’;;;ai acheté;;tu ;;;as acheté;;il/elle/on ;;;a acheté;;nous ;;;avons acheté;;vous ;;;avez acheté;;ils/elles ;;;ont acheté
-Indicatif Imparfait;indicatif;;j’;;;achetais;;tu ;;;achetais;;il/elle/on ;;;achetait;;nous ;;;achetions;;vous ;;;achetiez;;ils/elles ;;;achetaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais acheté;;tu ;;;avais acheté;;il/elle/on ;;;avait acheté;;nous ;;;avions acheté;;vous ;;;aviez acheté;;ils/elles ;;;avaient acheté
-Indicatif Passé Simple;indicatif;;j’;;;achetai;;tu ;;;achetas;;il/elle/on ;;;acheta;;nous ;;;achetâmes;;vous ;;;achetâtes;;ils/elles ;;;achetèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus acheté;;tu ;;;eus acheté;;il/elle/on ;;;eut acheté;;nous ;;;eûmes acheté;;vous ;;;eûtes acheté;;ils/elles ;;;eurent acheté
-Indicatif Futur Simple;indicatif;;j’;;;achèterai;;tu ;;;achèteras;;il/elle/on ;;;achètera;;nous ;;;achèterons;;vous ;;;achèterez;;ils/elles ;;;achèteront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai acheté;;tu ;;;auras acheté;;il/elle/on ;;;aura acheté;;nous ;;;aurons acheté;;vous ;;;aurez acheté;;ils/elles ;;;auront acheté
-Subjonctif Présent;subjonctif;que ;j’;;;achète;que ;tu ;;;achètes;qu’;il/elle/on ;;;achète;que ;nous ;;;achetions;que ;vous ;;;achetiez;qu’;ils/elles ;;;achètent
-Subjonctif Passé;subjonctif;que ;j’;;;aie acheté;que ;tu ;;;aies acheté;qu’;il/elle/on ;;;ait acheté;que ;nous ;;;ayons acheté;que ;vous ;;;ayez acheté;qu’;ils/elles ;;;aient acheté
-Subjonctif Imparfait;subjonctif;que ;j’;;;achetasse;que ;tu ;;;achetasses;qu’;il/elle/on ;;;achetât;que ;nous ;;;achetassions;que ;vous ;;;achetassiez;qu’;ils/elles ;;;achetassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse acheté;que ;tu ;;;eusses acheté;qu’;il/elle/on ;;;eût acheté;que ;nous ;;;eussions acheté;que ;vous ;;;eussiez acheté;qu’;ils/elles ;;;eussent acheté
-Conditionnel Présent;conditionnel;;j’;;;achèterais;;tu ;;;achèterais;;il/elle/on ;;;achèterait;;nous ;;;achèterions;;vous ;;;achèteriez;;ils/elles ;;;achèteraient
-Conditionnel Passé;conditionnel;;j’;;;aurais acheté;;tu ;;;aurais acheté;;il/elle/on ;;;aurait acheté;;nous ;;;aurions acheté;;vous ;;;auriez acheté;;ils/elles ;;;auraient acheté
+Indicatif Présent;indicatif;;j’;;;achète;;tu ;;;achètes;;il //elle //on ;;;achète;;nous ;;;achetons;;vous ;;;achetez;;ils //elles ;;;achètent
+Indicatif Passé Composé;indicatif;;j’;;;ai acheté;;tu ;;;as acheté;;il //elle //on ;;;a acheté;;nous ;;;avons acheté;;vous ;;;avez acheté;;ils //elles ;;;ont acheté
+Indicatif Imparfait;indicatif;;j’;;;achetais;;tu ;;;achetais;;il //elle //on ;;;achetait;;nous ;;;achetions;;vous ;;;achetiez;;ils //elles ;;;achetaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais acheté;;tu ;;;avais acheté;;il //elle //on ;;;avait acheté;;nous ;;;avions acheté;;vous ;;;aviez acheté;;ils //elles ;;;avaient acheté
+Indicatif Passé Simple;indicatif;;j’;;;achetai;;tu ;;;achetas;;il //elle //on ;;;acheta;;nous ;;;achetâmes;;vous ;;;achetâtes;;ils //elles ;;;achetèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus acheté;;tu ;;;eus acheté;;il //elle //on ;;;eut acheté;;nous ;;;eûmes acheté;;vous ;;;eûtes acheté;;ils //elles ;;;eurent acheté
+Indicatif Futur Simple;indicatif;;j’;;;achèterai;;tu ;;;achèteras;;il //elle //on ;;;achètera;;nous ;;;achèterons;;vous ;;;achèterez;;ils //elles ;;;achèteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai acheté;;tu ;;;auras acheté;;il //elle //on ;;;aura acheté;;nous ;;;aurons acheté;;vous ;;;aurez acheté;;ils //elles ;;;auront acheté
+Subjonctif Présent;subjonctif;que ;j’;;;achète;que ;tu ;;;achètes;qu’;il //elle //on ;;;achète;que ;nous ;;;achetions;que ;vous ;;;achetiez;qu’;ils //elles ;;;achètent
+Subjonctif Passé;subjonctif;que ;j’;;;aie acheté;que ;tu ;;;aies acheté;qu’;il //elle //on ;;;ait acheté;que ;nous ;;;ayons acheté;que ;vous ;;;ayez acheté;qu’;ils //elles ;;;aient acheté
+Subjonctif Imparfait;subjonctif;que ;j’;;;achetasse;que ;tu ;;;achetasses;qu’;il //elle //on ;;;achetât;que ;nous ;;;achetassions;que ;vous ;;;achetassiez;qu’;ils //elles ;;;achetassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse acheté;que ;tu ;;;eusses acheté;qu’;il //elle //on ;;;eût acheté;que ;nous ;;;eussions acheté;que ;vous ;;;eussiez acheté;qu’;ils //elles ;;;eussent acheté
+Conditionnel Présent;conditionnel;;j’;;;achèterais;;tu ;;;achèterais;;il //elle //on ;;;achèterait;;nous ;;;achèterions;;vous ;;;achèteriez;;ils //elles ;;;achèteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais acheté;;tu ;;;aurais acheté;;il //elle //on ;;;aurait acheté;;nous ;;;aurions acheté;;vous ;;;auriez acheté;;ils //elles ;;;auraient acheté
 Impératif Présent;impératif;;;;;;;(tu) ;;;achète;;;;;;;(nous) ;;;achetons;;(vous) ;;;achetez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie acheté;;;;;;;(nous) ;;;ayons acheté;;(vous) ;;;ayez acheté;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;achète pas ;;;;;;;(nous) ;n';;achetons pas ;;(vous) ;n';;achetez pas ;;;;;

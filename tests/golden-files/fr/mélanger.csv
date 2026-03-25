@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en mélangeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant mélangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;mélangeant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;mélangé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;mélange;;tu ;;;mélanges;;il/elle/on ;;;mélange;;nous ;;;mélangeons;;vous ;;;mélangez;;ils/elles ;;;mélangent
-Indicatif Passé Composé;indicatif;;j’;;;ai mélangé;;tu ;;;as mélangé;;il/elle/on ;;;a mélangé;;nous ;;;avons mélangé;;vous ;;;avez mélangé;;ils/elles ;;;ont mélangé
-Indicatif Imparfait;indicatif;;je ;;;mélangeais;;tu ;;;mélangeais;;il/elle/on ;;;mélangeait;;nous ;;;mélangions;;vous ;;;mélangiez;;ils/elles ;;;mélangeaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais mélangé;;tu ;;;avais mélangé;;il/elle/on ;;;avait mélangé;;nous ;;;avions mélangé;;vous ;;;aviez mélangé;;ils/elles ;;;avaient mélangé
-Indicatif Passé Simple;indicatif;;je ;;;mélangeai;;tu ;;;mélangeas;;il/elle/on ;;;mélangea;;nous ;;;mélangeâmes;;vous ;;;mélangeâtes;;ils/elles ;;;mélangèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus mélangé;;tu ;;;eus mélangé;;il/elle/on ;;;eut mélangé;;nous ;;;eûmes mélangé;;vous ;;;eûtes mélangé;;ils/elles ;;;eurent mélangé
-Indicatif Futur Simple;indicatif;;je ;;;mélangerai;;tu ;;;mélangeras;;il/elle/on ;;;mélangera;;nous ;;;mélangerons;;vous ;;;mélangerez;;ils/elles ;;;mélangeront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai mélangé;;tu ;;;auras mélangé;;il/elle/on ;;;aura mélangé;;nous ;;;aurons mélangé;;vous ;;;aurez mélangé;;ils/elles ;;;auront mélangé
-Subjonctif Présent;subjonctif;que ;je ;;;mélange;que ;tu ;;;mélanges;qu’;il/elle/on ;;;mélange;que ;nous ;;;mélangions;que ;vous ;;;mélangiez;qu’;ils/elles ;;;mélangent
-Subjonctif Passé;subjonctif;que ;j’;;;aie mélangé;que ;tu ;;;aies mélangé;qu’;il/elle/on ;;;ait mélangé;que ;nous ;;;ayons mélangé;que ;vous ;;;ayez mélangé;qu’;ils/elles ;;;aient mélangé
-Subjonctif Imparfait;subjonctif;que ;je ;;;mélangeasse;que ;tu ;;;mélangeasses;qu’;il/elle/on ;;;mélangeât;que ;nous ;;;mélangeassions;que ;vous ;;;mélangeassiez;qu’;ils/elles ;;;mélangeassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse mélangé;que ;tu ;;;eusses mélangé;qu’;il/elle/on ;;;eût mélangé;que ;nous ;;;eussions mélangé;que ;vous ;;;eussiez mélangé;qu’;ils/elles ;;;eussent mélangé
-Conditionnel Présent;conditionnel;;je ;;;mélangerais;;tu ;;;mélangerais;;il/elle/on ;;;mélangerait;;nous ;;;mélangerions;;vous ;;;mélangeriez;;ils/elles ;;;mélangeraient
-Conditionnel Passé;conditionnel;;j’;;;aurais mélangé;;tu ;;;aurais mélangé;;il/elle/on ;;;aurait mélangé;;nous ;;;aurions mélangé;;vous ;;;auriez mélangé;;ils/elles ;;;auraient mélangé
+Indicatif Présent;indicatif;;je ;;;mélange;;tu ;;;mélanges;;il //elle //on ;;;mélange;;nous ;;;mélangeons;;vous ;;;mélangez;;ils //elles ;;;mélangent
+Indicatif Passé Composé;indicatif;;j’;;;ai mélangé;;tu ;;;as mélangé;;il //elle //on ;;;a mélangé;;nous ;;;avons mélangé;;vous ;;;avez mélangé;;ils //elles ;;;ont mélangé
+Indicatif Imparfait;indicatif;;je ;;;mélangeais;;tu ;;;mélangeais;;il //elle //on ;;;mélangeait;;nous ;;;mélangions;;vous ;;;mélangiez;;ils //elles ;;;mélangeaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais mélangé;;tu ;;;avais mélangé;;il //elle //on ;;;avait mélangé;;nous ;;;avions mélangé;;vous ;;;aviez mélangé;;ils //elles ;;;avaient mélangé
+Indicatif Passé Simple;indicatif;;je ;;;mélangeai;;tu ;;;mélangeas;;il //elle //on ;;;mélangea;;nous ;;;mélangeâmes;;vous ;;;mélangeâtes;;ils //elles ;;;mélangèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus mélangé;;tu ;;;eus mélangé;;il //elle //on ;;;eut mélangé;;nous ;;;eûmes mélangé;;vous ;;;eûtes mélangé;;ils //elles ;;;eurent mélangé
+Indicatif Futur Simple;indicatif;;je ;;;mélangerai;;tu ;;;mélangeras;;il //elle //on ;;;mélangera;;nous ;;;mélangerons;;vous ;;;mélangerez;;ils //elles ;;;mélangeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai mélangé;;tu ;;;auras mélangé;;il //elle //on ;;;aura mélangé;;nous ;;;aurons mélangé;;vous ;;;aurez mélangé;;ils //elles ;;;auront mélangé
+Subjonctif Présent;subjonctif;que ;je ;;;mélange;que ;tu ;;;mélanges;qu’;il //elle //on ;;;mélange;que ;nous ;;;mélangions;que ;vous ;;;mélangiez;qu’;ils //elles ;;;mélangent
+Subjonctif Passé;subjonctif;que ;j’;;;aie mélangé;que ;tu ;;;aies mélangé;qu’;il //elle //on ;;;ait mélangé;que ;nous ;;;ayons mélangé;que ;vous ;;;ayez mélangé;qu’;ils //elles ;;;aient mélangé
+Subjonctif Imparfait;subjonctif;que ;je ;;;mélangeasse;que ;tu ;;;mélangeasses;qu’;il //elle //on ;;;mélangeât;que ;nous ;;;mélangeassions;que ;vous ;;;mélangeassiez;qu’;ils //elles ;;;mélangeassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse mélangé;que ;tu ;;;eusses mélangé;qu’;il //elle //on ;;;eût mélangé;que ;nous ;;;eussions mélangé;que ;vous ;;;eussiez mélangé;qu’;ils //elles ;;;eussent mélangé
+Conditionnel Présent;conditionnel;;je ;;;mélangerais;;tu ;;;mélangerais;;il //elle //on ;;;mélangerait;;nous ;;;mélangerions;;vous ;;;mélangeriez;;ils //elles ;;;mélangeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais mélangé;;tu ;;;aurais mélangé;;il //elle //on ;;;aurait mélangé;;nous ;;;aurions mélangé;;vous ;;;auriez mélangé;;ils //elles ;;;auraient mélangé
 Impératif Présent;impératif;;;;;;;(tu) ;;;mélange;;;;;;;(nous) ;;;mélangeons;;(vous) ;;;mélangez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie mélangé;;;;;;;(nous) ;;;ayons mélangé;;(vous) ;;;ayez mélangé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mélange pas ;;;;;;;(nous) ;ne ;;mélangeons pas ;;(vous) ;ne ;;mélangez pas ;;;;;

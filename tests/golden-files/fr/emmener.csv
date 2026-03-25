@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en emmenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant emmené;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;emmenant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;emmené;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;emmène;;tu ;;;emmènes;;il/elle/on ;;;emmène;;nous ;;;emmenons;;vous ;;;emmenez;;ils/elles ;;;emmènent
-Indicatif Passé Composé;indicatif;;j’;;;ai emmené;;tu ;;;as emmené;;il/elle/on ;;;a emmené;;nous ;;;avons emmené;;vous ;;;avez emmené;;ils/elles ;;;ont emmené
-Indicatif Imparfait;indicatif;;j’;;;emmenais;;tu ;;;emmenais;;il/elle/on ;;;emmenait;;nous ;;;emmenions;;vous ;;;emmeniez;;ils/elles ;;;emmenaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais emmené;;tu ;;;avais emmené;;il/elle/on ;;;avait emmené;;nous ;;;avions emmené;;vous ;;;aviez emmené;;ils/elles ;;;avaient emmené
-Indicatif Passé Simple;indicatif;;j’;;;emmenai;;tu ;;;emmenas;;il/elle/on ;;;emmena;;nous ;;;emmenâmes;;vous ;;;emmenâtes;;ils/elles ;;;emmenèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus emmené;;tu ;;;eus emmené;;il/elle/on ;;;eut emmené;;nous ;;;eûmes emmené;;vous ;;;eûtes emmené;;ils/elles ;;;eurent emmené
-Indicatif Futur Simple;indicatif;;j’;;;emmènerai;;tu ;;;emmèneras;;il/elle/on ;;;emmènera;;nous ;;;emmènerons;;vous ;;;emmènerez;;ils/elles ;;;emmèneront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai emmené;;tu ;;;auras emmené;;il/elle/on ;;;aura emmené;;nous ;;;aurons emmené;;vous ;;;aurez emmené;;ils/elles ;;;auront emmené
-Subjonctif Présent;subjonctif;que ;j’;;;emmène;que ;tu ;;;emmènes;qu’;il/elle/on ;;;emmène;que ;nous ;;;emmenions;que ;vous ;;;emmeniez;qu’;ils/elles ;;;emmènent
-Subjonctif Passé;subjonctif;que ;j’;;;aie emmené;que ;tu ;;;aies emmené;qu’;il/elle/on ;;;ait emmené;que ;nous ;;;ayons emmené;que ;vous ;;;ayez emmené;qu’;ils/elles ;;;aient emmené
-Subjonctif Imparfait;subjonctif;que ;j’;;;emmenasse;que ;tu ;;;emmenasses;qu’;il/elle/on ;;;emmenât;que ;nous ;;;emmenassions;que ;vous ;;;emmenassiez;qu’;ils/elles ;;;emmenassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse emmené;que ;tu ;;;eusses emmené;qu’;il/elle/on ;;;eût emmené;que ;nous ;;;eussions emmené;que ;vous ;;;eussiez emmené;qu’;ils/elles ;;;eussent emmené
-Conditionnel Présent;conditionnel;;j’;;;emmènerais;;tu ;;;emmènerais;;il/elle/on ;;;emmènerait;;nous ;;;emmènerions;;vous ;;;emmèneriez;;ils/elles ;;;emmèneraient
-Conditionnel Passé;conditionnel;;j’;;;aurais emmené;;tu ;;;aurais emmené;;il/elle/on ;;;aurait emmené;;nous ;;;aurions emmené;;vous ;;;auriez emmené;;ils/elles ;;;auraient emmené
+Indicatif Présent;indicatif;;j’;;;emmène;;tu ;;;emmènes;;il //elle //on ;;;emmène;;nous ;;;emmenons;;vous ;;;emmenez;;ils //elles ;;;emmènent
+Indicatif Passé Composé;indicatif;;j’;;;ai emmené;;tu ;;;as emmené;;il //elle //on ;;;a emmené;;nous ;;;avons emmené;;vous ;;;avez emmené;;ils //elles ;;;ont emmené
+Indicatif Imparfait;indicatif;;j’;;;emmenais;;tu ;;;emmenais;;il //elle //on ;;;emmenait;;nous ;;;emmenions;;vous ;;;emmeniez;;ils //elles ;;;emmenaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais emmené;;tu ;;;avais emmené;;il //elle //on ;;;avait emmené;;nous ;;;avions emmené;;vous ;;;aviez emmené;;ils //elles ;;;avaient emmené
+Indicatif Passé Simple;indicatif;;j’;;;emmenai;;tu ;;;emmenas;;il //elle //on ;;;emmena;;nous ;;;emmenâmes;;vous ;;;emmenâtes;;ils //elles ;;;emmenèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus emmené;;tu ;;;eus emmené;;il //elle //on ;;;eut emmené;;nous ;;;eûmes emmené;;vous ;;;eûtes emmené;;ils //elles ;;;eurent emmené
+Indicatif Futur Simple;indicatif;;j’;;;emmènerai;;tu ;;;emmèneras;;il //elle //on ;;;emmènera;;nous ;;;emmènerons;;vous ;;;emmènerez;;ils //elles ;;;emmèneront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai emmené;;tu ;;;auras emmené;;il //elle //on ;;;aura emmené;;nous ;;;aurons emmené;;vous ;;;aurez emmené;;ils //elles ;;;auront emmené
+Subjonctif Présent;subjonctif;que ;j’;;;emmène;que ;tu ;;;emmènes;qu’;il //elle //on ;;;emmène;que ;nous ;;;emmenions;que ;vous ;;;emmeniez;qu’;ils //elles ;;;emmènent
+Subjonctif Passé;subjonctif;que ;j’;;;aie emmené;que ;tu ;;;aies emmené;qu’;il //elle //on ;;;ait emmené;que ;nous ;;;ayons emmené;que ;vous ;;;ayez emmené;qu’;ils //elles ;;;aient emmené
+Subjonctif Imparfait;subjonctif;que ;j’;;;emmenasse;que ;tu ;;;emmenasses;qu’;il //elle //on ;;;emmenât;que ;nous ;;;emmenassions;que ;vous ;;;emmenassiez;qu’;ils //elles ;;;emmenassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse emmené;que ;tu ;;;eusses emmené;qu’;il //elle //on ;;;eût emmené;que ;nous ;;;eussions emmené;que ;vous ;;;eussiez emmené;qu’;ils //elles ;;;eussent emmené
+Conditionnel Présent;conditionnel;;j’;;;emmènerais;;tu ;;;emmènerais;;il //elle //on ;;;emmènerait;;nous ;;;emmènerions;;vous ;;;emmèneriez;;ils //elles ;;;emmèneraient
+Conditionnel Passé;conditionnel;;j’;;;aurais emmené;;tu ;;;aurais emmené;;il //elle //on ;;;aurait emmené;;nous ;;;aurions emmené;;vous ;;;auriez emmené;;ils //elles ;;;auraient emmené
 Impératif Présent;impératif;;;;;;;(tu) ;;;emmène;;;;;;;(nous) ;;;emmenons;;(vous) ;;;emmenez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie emmené;;;;;;;(nous) ;;;ayons emmené;;(vous) ;;;ayez emmené;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;emmène pas ;;;;;;;(nous) ;n';;emmenons pas ;;(vous) ;n';;emmenez pas ;;;;;

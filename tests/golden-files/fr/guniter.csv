@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en gunitant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant gunité;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;gunitant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;gunité;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;gunite;;tu ;;;gunites;;il/elle/on ;;;gunite;;nous ;;;gunitons;;vous ;;;gunitez;;ils/elles ;;;gunitent
-Indicatif Passé Composé;indicatif;;j’;;;ai gunité;;tu ;;;as gunité;;il/elle/on ;;;a gunité;;nous ;;;avons gunité;;vous ;;;avez gunité;;ils/elles ;;;ont gunité
-Indicatif Imparfait;indicatif;;je ;;;gunitais;;tu ;;;gunitais;;il/elle/on ;;;gunitait;;nous ;;;gunitions;;vous ;;;gunitiez;;ils/elles ;;;gunitaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais gunité;;tu ;;;avais gunité;;il/elle/on ;;;avait gunité;;nous ;;;avions gunité;;vous ;;;aviez gunité;;ils/elles ;;;avaient gunité
-Indicatif Passé Simple;indicatif;;je ;;;gunitai;;tu ;;;gunitas;;il/elle/on ;;;gunita;;nous ;;;gunitâmes;;vous ;;;gunitâtes;;ils/elles ;;;gunitèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus gunité;;tu ;;;eus gunité;;il/elle/on ;;;eut gunité;;nous ;;;eûmes gunité;;vous ;;;eûtes gunité;;ils/elles ;;;eurent gunité
-Indicatif Futur Simple;indicatif;;je ;;;guniterai;;tu ;;;guniteras;;il/elle/on ;;;gunitera;;nous ;;;guniterons;;vous ;;;guniterez;;ils/elles ;;;guniteront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai gunité;;tu ;;;auras gunité;;il/elle/on ;;;aura gunité;;nous ;;;aurons gunité;;vous ;;;aurez gunité;;ils/elles ;;;auront gunité
-Subjonctif Présent;subjonctif;que ;je ;;;gunite;que ;tu ;;;gunites;qu’;il/elle/on ;;;gunite;que ;nous ;;;gunitions;que ;vous ;;;gunitiez;qu’;ils/elles ;;;gunitent
-Subjonctif Passé;subjonctif;que ;j’;;;aie gunité;que ;tu ;;;aies gunité;qu’;il/elle/on ;;;ait gunité;que ;nous ;;;ayons gunité;que ;vous ;;;ayez gunité;qu’;ils/elles ;;;aient gunité
-Subjonctif Imparfait;subjonctif;que ;je ;;;gunitasse;que ;tu ;;;gunitasses;qu’;il/elle/on ;;;gunitât;que ;nous ;;;gunitassions;que ;vous ;;;gunitassiez;qu’;ils/elles ;;;gunitassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse gunité;que ;tu ;;;eusses gunité;qu’;il/elle/on ;;;eût gunité;que ;nous ;;;eussions gunité;que ;vous ;;;eussiez gunité;qu’;ils/elles ;;;eussent gunité
-Conditionnel Présent;conditionnel;;je ;;;guniterais;;tu ;;;guniterais;;il/elle/on ;;;guniterait;;nous ;;;guniterions;;vous ;;;guniteriez;;ils/elles ;;;guniteraient
-Conditionnel Passé;conditionnel;;j’;;;aurais gunité;;tu ;;;aurais gunité;;il/elle/on ;;;aurait gunité;;nous ;;;aurions gunité;;vous ;;;auriez gunité;;ils/elles ;;;auraient gunité
+Indicatif Présent;indicatif;;je ;;;gunite;;tu ;;;gunites;;il //elle //on ;;;gunite;;nous ;;;gunitons;;vous ;;;gunitez;;ils //elles ;;;gunitent
+Indicatif Passé Composé;indicatif;;j’;;;ai gunité;;tu ;;;as gunité;;il //elle //on ;;;a gunité;;nous ;;;avons gunité;;vous ;;;avez gunité;;ils //elles ;;;ont gunité
+Indicatif Imparfait;indicatif;;je ;;;gunitais;;tu ;;;gunitais;;il //elle //on ;;;gunitait;;nous ;;;gunitions;;vous ;;;gunitiez;;ils //elles ;;;gunitaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais gunité;;tu ;;;avais gunité;;il //elle //on ;;;avait gunité;;nous ;;;avions gunité;;vous ;;;aviez gunité;;ils //elles ;;;avaient gunité
+Indicatif Passé Simple;indicatif;;je ;;;gunitai;;tu ;;;gunitas;;il //elle //on ;;;gunita;;nous ;;;gunitâmes;;vous ;;;gunitâtes;;ils //elles ;;;gunitèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus gunité;;tu ;;;eus gunité;;il //elle //on ;;;eut gunité;;nous ;;;eûmes gunité;;vous ;;;eûtes gunité;;ils //elles ;;;eurent gunité
+Indicatif Futur Simple;indicatif;;je ;;;guniterai;;tu ;;;guniteras;;il //elle //on ;;;gunitera;;nous ;;;guniterons;;vous ;;;guniterez;;ils //elles ;;;guniteront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai gunité;;tu ;;;auras gunité;;il //elle //on ;;;aura gunité;;nous ;;;aurons gunité;;vous ;;;aurez gunité;;ils //elles ;;;auront gunité
+Subjonctif Présent;subjonctif;que ;je ;;;gunite;que ;tu ;;;gunites;qu’;il //elle //on ;;;gunite;que ;nous ;;;gunitions;que ;vous ;;;gunitiez;qu’;ils //elles ;;;gunitent
+Subjonctif Passé;subjonctif;que ;j’;;;aie gunité;que ;tu ;;;aies gunité;qu’;il //elle //on ;;;ait gunité;que ;nous ;;;ayons gunité;que ;vous ;;;ayez gunité;qu’;ils //elles ;;;aient gunité
+Subjonctif Imparfait;subjonctif;que ;je ;;;gunitasse;que ;tu ;;;gunitasses;qu’;il //elle //on ;;;gunitât;que ;nous ;;;gunitassions;que ;vous ;;;gunitassiez;qu’;ils //elles ;;;gunitassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse gunité;que ;tu ;;;eusses gunité;qu’;il //elle //on ;;;eût gunité;que ;nous ;;;eussions gunité;que ;vous ;;;eussiez gunité;qu’;ils //elles ;;;eussent gunité
+Conditionnel Présent;conditionnel;;je ;;;guniterais;;tu ;;;guniterais;;il //elle //on ;;;guniterait;;nous ;;;guniterions;;vous ;;;guniteriez;;ils //elles ;;;guniteraient
+Conditionnel Passé;conditionnel;;j’;;;aurais gunité;;tu ;;;aurais gunité;;il //elle //on ;;;aurait gunité;;nous ;;;aurions gunité;;vous ;;;auriez gunité;;ils //elles ;;;auraient gunité
 Impératif Présent;impératif;;;;;;;(tu) ;;;gunite;;;;;;;(nous) ;;;gunitons;;(vous) ;;;gunitez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie gunité;;;;;;;(nous) ;;;ayons gunité;;(vous) ;;;ayez gunité;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gunite pas ;;;;;;;(nous) ;ne ;;gunitons pas ;;(vous) ;ne ;;gunitez pas ;;;;;

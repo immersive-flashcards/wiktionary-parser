@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en abaissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant abaissé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;abaissant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;abaissé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;abaisse;;tu ;;;abaisses;;il/elle/on ;;;abaisse;;nous ;;;abaissons;;vous ;;;abaissez;;ils/elles ;;;abaissent
-Indicatif Passé Composé;indicatif;;j’;;;ai abaissé;;tu ;;;as abaissé;;il/elle/on ;;;a abaissé;;nous ;;;avons abaissé;;vous ;;;avez abaissé;;ils/elles ;;;ont abaissé
-Indicatif Imparfait;indicatif;;j’;;;abaissais;;tu ;;;abaissais;;il/elle/on ;;;abaissait;;nous ;;;abaissions;;vous ;;;abaissiez;;ils/elles ;;;abaissaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais abaissé;;tu ;;;avais abaissé;;il/elle/on ;;;avait abaissé;;nous ;;;avions abaissé;;vous ;;;aviez abaissé;;ils/elles ;;;avaient abaissé
-Indicatif Passé Simple;indicatif;;j’;;;abaissai;;tu ;;;abaissas;;il/elle/on ;;;abaissa;;nous ;;;abaissâmes;;vous ;;;abaissâtes;;ils/elles ;;;abaissèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus abaissé;;tu ;;;eus abaissé;;il/elle/on ;;;eut abaissé;;nous ;;;eûmes abaissé;;vous ;;;eûtes abaissé;;ils/elles ;;;eurent abaissé
-Indicatif Futur Simple;indicatif;;j’;;;abaisserai;;tu ;;;abaisseras;;il/elle/on ;;;abaissera;;nous ;;;abaisserons;;vous ;;;abaisserez;;ils/elles ;;;abaisseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai abaissé;;tu ;;;auras abaissé;;il/elle/on ;;;aura abaissé;;nous ;;;aurons abaissé;;vous ;;;aurez abaissé;;ils/elles ;;;auront abaissé
-Subjonctif Présent;subjonctif;que ;j’;;;abaisse;que ;tu ;;;abaisses;qu’;il/elle/on ;;;abaisse;que ;nous ;;;abaissions;que ;vous ;;;abaissiez;qu’;ils/elles ;;;abaissent
-Subjonctif Passé;subjonctif;que ;j’;;;aie abaissé;que ;tu ;;;aies abaissé;qu’;il/elle/on ;;;ait abaissé;que ;nous ;;;ayons abaissé;que ;vous ;;;ayez abaissé;qu’;ils/elles ;;;aient abaissé
-Subjonctif Imparfait;subjonctif;que ;j’;;;abaissasse;que ;tu ;;;abaissasses;qu’;il/elle/on ;;;abaissât;que ;nous ;;;abaissassions;que ;vous ;;;abaissassiez;qu’;ils/elles ;;;abaissassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse abaissé;que ;tu ;;;eusses abaissé;qu’;il/elle/on ;;;eût abaissé;que ;nous ;;;eussions abaissé;que ;vous ;;;eussiez abaissé;qu’;ils/elles ;;;eussent abaissé
-Conditionnel Présent;conditionnel;;j’;;;abaisserais;;tu ;;;abaisserais;;il/elle/on ;;;abaisserait;;nous ;;;abaisserions;;vous ;;;abaisseriez;;ils/elles ;;;abaisseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais abaissé;;tu ;;;aurais abaissé;;il/elle/on ;;;aurait abaissé;;nous ;;;aurions abaissé;;vous ;;;auriez abaissé;;ils/elles ;;;auraient abaissé
+Indicatif Présent;indicatif;;j’;;;abaisse;;tu ;;;abaisses;;il //elle //on ;;;abaisse;;nous ;;;abaissons;;vous ;;;abaissez;;ils //elles ;;;abaissent
+Indicatif Passé Composé;indicatif;;j’;;;ai abaissé;;tu ;;;as abaissé;;il //elle //on ;;;a abaissé;;nous ;;;avons abaissé;;vous ;;;avez abaissé;;ils //elles ;;;ont abaissé
+Indicatif Imparfait;indicatif;;j’;;;abaissais;;tu ;;;abaissais;;il //elle //on ;;;abaissait;;nous ;;;abaissions;;vous ;;;abaissiez;;ils //elles ;;;abaissaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais abaissé;;tu ;;;avais abaissé;;il //elle //on ;;;avait abaissé;;nous ;;;avions abaissé;;vous ;;;aviez abaissé;;ils //elles ;;;avaient abaissé
+Indicatif Passé Simple;indicatif;;j’;;;abaissai;;tu ;;;abaissas;;il //elle //on ;;;abaissa;;nous ;;;abaissâmes;;vous ;;;abaissâtes;;ils //elles ;;;abaissèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus abaissé;;tu ;;;eus abaissé;;il //elle //on ;;;eut abaissé;;nous ;;;eûmes abaissé;;vous ;;;eûtes abaissé;;ils //elles ;;;eurent abaissé
+Indicatif Futur Simple;indicatif;;j’;;;abaisserai;;tu ;;;abaisseras;;il //elle //on ;;;abaissera;;nous ;;;abaisserons;;vous ;;;abaisserez;;ils //elles ;;;abaisseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai abaissé;;tu ;;;auras abaissé;;il //elle //on ;;;aura abaissé;;nous ;;;aurons abaissé;;vous ;;;aurez abaissé;;ils //elles ;;;auront abaissé
+Subjonctif Présent;subjonctif;que ;j’;;;abaisse;que ;tu ;;;abaisses;qu’;il //elle //on ;;;abaisse;que ;nous ;;;abaissions;que ;vous ;;;abaissiez;qu’;ils //elles ;;;abaissent
+Subjonctif Passé;subjonctif;que ;j’;;;aie abaissé;que ;tu ;;;aies abaissé;qu’;il //elle //on ;;;ait abaissé;que ;nous ;;;ayons abaissé;que ;vous ;;;ayez abaissé;qu’;ils //elles ;;;aient abaissé
+Subjonctif Imparfait;subjonctif;que ;j’;;;abaissasse;que ;tu ;;;abaissasses;qu’;il //elle //on ;;;abaissât;que ;nous ;;;abaissassions;que ;vous ;;;abaissassiez;qu’;ils //elles ;;;abaissassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse abaissé;que ;tu ;;;eusses abaissé;qu’;il //elle //on ;;;eût abaissé;que ;nous ;;;eussions abaissé;que ;vous ;;;eussiez abaissé;qu’;ils //elles ;;;eussent abaissé
+Conditionnel Présent;conditionnel;;j’;;;abaisserais;;tu ;;;abaisserais;;il //elle //on ;;;abaisserait;;nous ;;;abaisserions;;vous ;;;abaisseriez;;ils //elles ;;;abaisseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais abaissé;;tu ;;;aurais abaissé;;il //elle //on ;;;aurait abaissé;;nous ;;;aurions abaissé;;vous ;;;auriez abaissé;;ils //elles ;;;auraient abaissé
 Impératif Présent;impératif;;;;;;;(tu) ;;;abaisse;;;;;;;(nous) ;;;abaissons;;(vous) ;;;abaissez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie abaissé;;;;;;;(nous) ;;;ayons abaissé;;(vous) ;;;ayez abaissé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;abaisse pas ;;;;;;;(nous) ;n';;abaissons pas ;;(vous) ;n';;abaissez pas ;;;;;

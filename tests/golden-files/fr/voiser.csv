@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en voisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant voisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;voisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;voisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;voise;;tu ;;;voises;;il/elle/on ;;;voise;;nous ;;;voisons;;vous ;;;voisez;;ils/elles ;;;voisent
-Indicatif Passé Composé;indicatif;;j’;;;ai voisé;;tu ;;;as voisé;;il/elle/on ;;;a voisé;;nous ;;;avons voisé;;vous ;;;avez voisé;;ils/elles ;;;ont voisé
-Indicatif Imparfait;indicatif;;je ;;;voisais;;tu ;;;voisais;;il/elle/on ;;;voisait;;nous ;;;voisions;;vous ;;;voisiez;;ils/elles ;;;voisaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais voisé;;tu ;;;avais voisé;;il/elle/on ;;;avait voisé;;nous ;;;avions voisé;;vous ;;;aviez voisé;;ils/elles ;;;avaient voisé
-Indicatif Passé Simple;indicatif;;je ;;;voisai;;tu ;;;voisas;;il/elle/on ;;;voisa;;nous ;;;voisâmes;;vous ;;;voisâtes;;ils/elles ;;;voisèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus voisé;;tu ;;;eus voisé;;il/elle/on ;;;eut voisé;;nous ;;;eûmes voisé;;vous ;;;eûtes voisé;;ils/elles ;;;eurent voisé
-Indicatif Futur Simple;indicatif;;je ;;;voiserai;;tu ;;;voiseras;;il/elle/on ;;;voisera;;nous ;;;voiserons;;vous ;;;voiserez;;ils/elles ;;;voiseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai voisé;;tu ;;;auras voisé;;il/elle/on ;;;aura voisé;;nous ;;;aurons voisé;;vous ;;;aurez voisé;;ils/elles ;;;auront voisé
-Subjonctif Présent;subjonctif;que ;je ;;;voise;que ;tu ;;;voises;qu’;il/elle/on ;;;voise;que ;nous ;;;voisions;que ;vous ;;;voisiez;qu’;ils/elles ;;;voisent
-Subjonctif Passé;subjonctif;que ;j’;;;aie voisé;que ;tu ;;;aies voisé;qu’;il/elle/on ;;;ait voisé;que ;nous ;;;ayons voisé;que ;vous ;;;ayez voisé;qu’;ils/elles ;;;aient voisé
-Subjonctif Imparfait;subjonctif;que ;je ;;;voisasse;que ;tu ;;;voisasses;qu’;il/elle/on ;;;voisât;que ;nous ;;;voisassions;que ;vous ;;;voisassiez;qu’;ils/elles ;;;voisassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse voisé;que ;tu ;;;eusses voisé;qu’;il/elle/on ;;;eût voisé;que ;nous ;;;eussions voisé;que ;vous ;;;eussiez voisé;qu’;ils/elles ;;;eussent voisé
-Conditionnel Présent;conditionnel;;je ;;;voiserais;;tu ;;;voiserais;;il/elle/on ;;;voiserait;;nous ;;;voiserions;;vous ;;;voiseriez;;ils/elles ;;;voiseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais voisé;;tu ;;;aurais voisé;;il/elle/on ;;;aurait voisé;;nous ;;;aurions voisé;;vous ;;;auriez voisé;;ils/elles ;;;auraient voisé
+Indicatif Présent;indicatif;;je ;;;voise;;tu ;;;voises;;il //elle //on ;;;voise;;nous ;;;voisons;;vous ;;;voisez;;ils //elles ;;;voisent
+Indicatif Passé Composé;indicatif;;j’;;;ai voisé;;tu ;;;as voisé;;il //elle //on ;;;a voisé;;nous ;;;avons voisé;;vous ;;;avez voisé;;ils //elles ;;;ont voisé
+Indicatif Imparfait;indicatif;;je ;;;voisais;;tu ;;;voisais;;il //elle //on ;;;voisait;;nous ;;;voisions;;vous ;;;voisiez;;ils //elles ;;;voisaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais voisé;;tu ;;;avais voisé;;il //elle //on ;;;avait voisé;;nous ;;;avions voisé;;vous ;;;aviez voisé;;ils //elles ;;;avaient voisé
+Indicatif Passé Simple;indicatif;;je ;;;voisai;;tu ;;;voisas;;il //elle //on ;;;voisa;;nous ;;;voisâmes;;vous ;;;voisâtes;;ils //elles ;;;voisèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus voisé;;tu ;;;eus voisé;;il //elle //on ;;;eut voisé;;nous ;;;eûmes voisé;;vous ;;;eûtes voisé;;ils //elles ;;;eurent voisé
+Indicatif Futur Simple;indicatif;;je ;;;voiserai;;tu ;;;voiseras;;il //elle //on ;;;voisera;;nous ;;;voiserons;;vous ;;;voiserez;;ils //elles ;;;voiseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai voisé;;tu ;;;auras voisé;;il //elle //on ;;;aura voisé;;nous ;;;aurons voisé;;vous ;;;aurez voisé;;ils //elles ;;;auront voisé
+Subjonctif Présent;subjonctif;que ;je ;;;voise;que ;tu ;;;voises;qu’;il //elle //on ;;;voise;que ;nous ;;;voisions;que ;vous ;;;voisiez;qu’;ils //elles ;;;voisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie voisé;que ;tu ;;;aies voisé;qu’;il //elle //on ;;;ait voisé;que ;nous ;;;ayons voisé;que ;vous ;;;ayez voisé;qu’;ils //elles ;;;aient voisé
+Subjonctif Imparfait;subjonctif;que ;je ;;;voisasse;que ;tu ;;;voisasses;qu’;il //elle //on ;;;voisât;que ;nous ;;;voisassions;que ;vous ;;;voisassiez;qu’;ils //elles ;;;voisassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse voisé;que ;tu ;;;eusses voisé;qu’;il //elle //on ;;;eût voisé;que ;nous ;;;eussions voisé;que ;vous ;;;eussiez voisé;qu’;ils //elles ;;;eussent voisé
+Conditionnel Présent;conditionnel;;je ;;;voiserais;;tu ;;;voiserais;;il //elle //on ;;;voiserait;;nous ;;;voiserions;;vous ;;;voiseriez;;ils //elles ;;;voiseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais voisé;;tu ;;;aurais voisé;;il //elle //on ;;;aurait voisé;;nous ;;;aurions voisé;;vous ;;;auriez voisé;;ils //elles ;;;auraient voisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;voise;;;;;;;(nous) ;;;voisons;;(vous) ;;;voisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie voisé;;;;;;;(nous) ;;;ayons voisé;;(vous) ;;;ayez voisé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;voise pas ;;;;;;;(nous) ;ne ;;voisons pas ;;(vous) ;ne ;;voisez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en utilisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant utilisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;utilisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;utilisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;utilise;;tu ;;;utilises;;il/elle/on ;;;utilise;;nous ;;;utilisons;;vous ;;;utilisez;;ils/elles ;;;utilisent
-Indicatif Passé Composé;indicatif;;j’;;;ai utilisé;;tu ;;;as utilisé;;il/elle/on ;;;a utilisé;;nous ;;;avons utilisé;;vous ;;;avez utilisé;;ils/elles ;;;ont utilisé
-Indicatif Imparfait;indicatif;;j’;;;utilisais;;tu ;;;utilisais;;il/elle/on ;;;utilisait;;nous ;;;utilisions;;vous ;;;utilisiez;;ils/elles ;;;utilisaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais utilisé;;tu ;;;avais utilisé;;il/elle/on ;;;avait utilisé;;nous ;;;avions utilisé;;vous ;;;aviez utilisé;;ils/elles ;;;avaient utilisé
-Indicatif Passé Simple;indicatif;;j’;;;utilisai;;tu ;;;utilisas;;il/elle/on ;;;utilisa;;nous ;;;utilisâmes;;vous ;;;utilisâtes;;ils/elles ;;;utilisèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus utilisé;;tu ;;;eus utilisé;;il/elle/on ;;;eut utilisé;;nous ;;;eûmes utilisé;;vous ;;;eûtes utilisé;;ils/elles ;;;eurent utilisé
-Indicatif Futur Simple;indicatif;;j’;;;utiliserai;;tu ;;;utiliseras;;il/elle/on ;;;utilisera;;nous ;;;utiliserons;;vous ;;;utiliserez;;ils/elles ;;;utiliseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai utilisé;;tu ;;;auras utilisé;;il/elle/on ;;;aura utilisé;;nous ;;;aurons utilisé;;vous ;;;aurez utilisé;;ils/elles ;;;auront utilisé
-Subjonctif Présent;subjonctif;que ;j’;;;utilise;que ;tu ;;;utilises;qu’;il/elle/on ;;;utilise;que ;nous ;;;utilisions;que ;vous ;;;utilisiez;qu’;ils/elles ;;;utilisent
-Subjonctif Passé;subjonctif;que ;j’;;;aie utilisé;que ;tu ;;;aies utilisé;qu’;il/elle/on ;;;ait utilisé;que ;nous ;;;ayons utilisé;que ;vous ;;;ayez utilisé;qu’;ils/elles ;;;aient utilisé
-Subjonctif Imparfait;subjonctif;que ;j’;;;utilisasse;que ;tu ;;;utilisasses;qu’;il/elle/on ;;;utilisât;que ;nous ;;;utilisassions;que ;vous ;;;utilisassiez;qu’;ils/elles ;;;utilisassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse utilisé;que ;tu ;;;eusses utilisé;qu’;il/elle/on ;;;eût utilisé;que ;nous ;;;eussions utilisé;que ;vous ;;;eussiez utilisé;qu’;ils/elles ;;;eussent utilisé
-Conditionnel Présent;conditionnel;;j’;;;utiliserais;;tu ;;;utiliserais;;il/elle/on ;;;utiliserait;;nous ;;;utiliserions;;vous ;;;utiliseriez;;ils/elles ;;;utiliseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais utilisé;;tu ;;;aurais utilisé;;il/elle/on ;;;aurait utilisé;;nous ;;;aurions utilisé;;vous ;;;auriez utilisé;;ils/elles ;;;auraient utilisé
+Indicatif Présent;indicatif;;j’;;;utilise;;tu ;;;utilises;;il //elle //on ;;;utilise;;nous ;;;utilisons;;vous ;;;utilisez;;ils //elles ;;;utilisent
+Indicatif Passé Composé;indicatif;;j’;;;ai utilisé;;tu ;;;as utilisé;;il //elle //on ;;;a utilisé;;nous ;;;avons utilisé;;vous ;;;avez utilisé;;ils //elles ;;;ont utilisé
+Indicatif Imparfait;indicatif;;j’;;;utilisais;;tu ;;;utilisais;;il //elle //on ;;;utilisait;;nous ;;;utilisions;;vous ;;;utilisiez;;ils //elles ;;;utilisaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais utilisé;;tu ;;;avais utilisé;;il //elle //on ;;;avait utilisé;;nous ;;;avions utilisé;;vous ;;;aviez utilisé;;ils //elles ;;;avaient utilisé
+Indicatif Passé Simple;indicatif;;j’;;;utilisai;;tu ;;;utilisas;;il //elle //on ;;;utilisa;;nous ;;;utilisâmes;;vous ;;;utilisâtes;;ils //elles ;;;utilisèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus utilisé;;tu ;;;eus utilisé;;il //elle //on ;;;eut utilisé;;nous ;;;eûmes utilisé;;vous ;;;eûtes utilisé;;ils //elles ;;;eurent utilisé
+Indicatif Futur Simple;indicatif;;j’;;;utiliserai;;tu ;;;utiliseras;;il //elle //on ;;;utilisera;;nous ;;;utiliserons;;vous ;;;utiliserez;;ils //elles ;;;utiliseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai utilisé;;tu ;;;auras utilisé;;il //elle //on ;;;aura utilisé;;nous ;;;aurons utilisé;;vous ;;;aurez utilisé;;ils //elles ;;;auront utilisé
+Subjonctif Présent;subjonctif;que ;j’;;;utilise;que ;tu ;;;utilises;qu’;il //elle //on ;;;utilise;que ;nous ;;;utilisions;que ;vous ;;;utilisiez;qu’;ils //elles ;;;utilisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie utilisé;que ;tu ;;;aies utilisé;qu’;il //elle //on ;;;ait utilisé;que ;nous ;;;ayons utilisé;que ;vous ;;;ayez utilisé;qu’;ils //elles ;;;aient utilisé
+Subjonctif Imparfait;subjonctif;que ;j’;;;utilisasse;que ;tu ;;;utilisasses;qu’;il //elle //on ;;;utilisât;que ;nous ;;;utilisassions;que ;vous ;;;utilisassiez;qu’;ils //elles ;;;utilisassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse utilisé;que ;tu ;;;eusses utilisé;qu’;il //elle //on ;;;eût utilisé;que ;nous ;;;eussions utilisé;que ;vous ;;;eussiez utilisé;qu’;ils //elles ;;;eussent utilisé
+Conditionnel Présent;conditionnel;;j’;;;utiliserais;;tu ;;;utiliserais;;il //elle //on ;;;utiliserait;;nous ;;;utiliserions;;vous ;;;utiliseriez;;ils //elles ;;;utiliseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais utilisé;;tu ;;;aurais utilisé;;il //elle //on ;;;aurait utilisé;;nous ;;;aurions utilisé;;vous ;;;auriez utilisé;;ils //elles ;;;auraient utilisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;utilise;;;;;;;(nous) ;;;utilisons;;(vous) ;;;utilisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie utilisé;;;;;;;(nous) ;;;ayons utilisé;;(vous) ;;;ayez utilisé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;utilise pas ;;;;;;;(nous) ;n';;utilisons pas ;;(vous) ;n';;utilisez pas ;;;;;

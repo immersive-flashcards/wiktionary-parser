@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en trouvant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant trouvé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;trouvant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;trouvé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;trouve;;tu ;;;trouves;;il/elle/on ;;;trouve;;nous ;;;trouvons;;vous ;;;trouvez;;ils/elles ;;;trouvent
-Indicatif Passé Composé;indicatif;;j’;;;ai trouvé;;tu ;;;as trouvé;;il/elle/on ;;;a trouvé;;nous ;;;avons trouvé;;vous ;;;avez trouvé;;ils/elles ;;;ont trouvé
-Indicatif Imparfait;indicatif;;je ;;;trouvais;;tu ;;;trouvais;;il/elle/on ;;;trouvait;;nous ;;;trouvions;;vous ;;;trouviez;;ils/elles ;;;trouvaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais trouvé;;tu ;;;avais trouvé;;il/elle/on ;;;avait trouvé;;nous ;;;avions trouvé;;vous ;;;aviez trouvé;;ils/elles ;;;avaient trouvé
-Indicatif Passé Simple;indicatif;;je ;;;trouvai;;tu ;;;trouvas;;il/elle/on ;;;trouva;;nous ;;;trouvâmes;;vous ;;;trouvâtes;;ils/elles ;;;trouvèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus trouvé;;tu ;;;eus trouvé;;il/elle/on ;;;eut trouvé;;nous ;;;eûmes trouvé;;vous ;;;eûtes trouvé;;ils/elles ;;;eurent trouvé
-Indicatif Futur Simple;indicatif;;je ;;;trouverai;;tu ;;;trouveras;;il/elle/on ;;;trouvera;;nous ;;;trouverons;;vous ;;;trouverez;;ils/elles ;;;trouveront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai trouvé;;tu ;;;auras trouvé;;il/elle/on ;;;aura trouvé;;nous ;;;aurons trouvé;;vous ;;;aurez trouvé;;ils/elles ;;;auront trouvé
-Subjonctif Présent;subjonctif;que ;je ;;;trouve;que ;tu ;;;trouves;qu’;il/elle/on ;;;trouve;que ;nous ;;;trouvions;que ;vous ;;;trouviez;qu’;ils/elles ;;;trouvent
-Subjonctif Passé;subjonctif;que ;j’;;;aie trouvé;que ;tu ;;;aies trouvé;qu’;il/elle/on ;;;ait trouvé;que ;nous ;;;ayons trouvé;que ;vous ;;;ayez trouvé;qu’;ils/elles ;;;aient trouvé
-Subjonctif Imparfait;subjonctif;que ;je ;;;trouvasse;que ;tu ;;;trouvasses;qu’;il/elle/on ;;;trouvât;que ;nous ;;;trouvassions;que ;vous ;;;trouvassiez;qu’;ils/elles ;;;trouvassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse trouvé;que ;tu ;;;eusses trouvé;qu’;il/elle/on ;;;eût trouvé;que ;nous ;;;eussions trouvé;que ;vous ;;;eussiez trouvé;qu’;ils/elles ;;;eussent trouvé
-Conditionnel Présent;conditionnel;;je ;;;trouverais;;tu ;;;trouverais;;il/elle/on ;;;trouverait;;nous ;;;trouverions;;vous ;;;trouveriez;;ils/elles ;;;trouveraient
-Conditionnel Passé;conditionnel;;j’;;;aurais trouvé;;tu ;;;aurais trouvé;;il/elle/on ;;;aurait trouvé;;nous ;;;aurions trouvé;;vous ;;;auriez trouvé;;ils/elles ;;;auraient trouvé
+Indicatif Présent;indicatif;;je ;;;trouve;;tu ;;;trouves;;il //elle //on ;;;trouve;;nous ;;;trouvons;;vous ;;;trouvez;;ils //elles ;;;trouvent
+Indicatif Passé Composé;indicatif;;j’;;;ai trouvé;;tu ;;;as trouvé;;il //elle //on ;;;a trouvé;;nous ;;;avons trouvé;;vous ;;;avez trouvé;;ils //elles ;;;ont trouvé
+Indicatif Imparfait;indicatif;;je ;;;trouvais;;tu ;;;trouvais;;il //elle //on ;;;trouvait;;nous ;;;trouvions;;vous ;;;trouviez;;ils //elles ;;;trouvaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais trouvé;;tu ;;;avais trouvé;;il //elle //on ;;;avait trouvé;;nous ;;;avions trouvé;;vous ;;;aviez trouvé;;ils //elles ;;;avaient trouvé
+Indicatif Passé Simple;indicatif;;je ;;;trouvai;;tu ;;;trouvas;;il //elle //on ;;;trouva;;nous ;;;trouvâmes;;vous ;;;trouvâtes;;ils //elles ;;;trouvèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus trouvé;;tu ;;;eus trouvé;;il //elle //on ;;;eut trouvé;;nous ;;;eûmes trouvé;;vous ;;;eûtes trouvé;;ils //elles ;;;eurent trouvé
+Indicatif Futur Simple;indicatif;;je ;;;trouverai;;tu ;;;trouveras;;il //elle //on ;;;trouvera;;nous ;;;trouverons;;vous ;;;trouverez;;ils //elles ;;;trouveront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai trouvé;;tu ;;;auras trouvé;;il //elle //on ;;;aura trouvé;;nous ;;;aurons trouvé;;vous ;;;aurez trouvé;;ils //elles ;;;auront trouvé
+Subjonctif Présent;subjonctif;que ;je ;;;trouve;que ;tu ;;;trouves;qu’;il //elle //on ;;;trouve;que ;nous ;;;trouvions;que ;vous ;;;trouviez;qu’;ils //elles ;;;trouvent
+Subjonctif Passé;subjonctif;que ;j’;;;aie trouvé;que ;tu ;;;aies trouvé;qu’;il //elle //on ;;;ait trouvé;que ;nous ;;;ayons trouvé;que ;vous ;;;ayez trouvé;qu’;ils //elles ;;;aient trouvé
+Subjonctif Imparfait;subjonctif;que ;je ;;;trouvasse;que ;tu ;;;trouvasses;qu’;il //elle //on ;;;trouvât;que ;nous ;;;trouvassions;que ;vous ;;;trouvassiez;qu’;ils //elles ;;;trouvassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse trouvé;que ;tu ;;;eusses trouvé;qu’;il //elle //on ;;;eût trouvé;que ;nous ;;;eussions trouvé;que ;vous ;;;eussiez trouvé;qu’;ils //elles ;;;eussent trouvé
+Conditionnel Présent;conditionnel;;je ;;;trouverais;;tu ;;;trouverais;;il //elle //on ;;;trouverait;;nous ;;;trouverions;;vous ;;;trouveriez;;ils //elles ;;;trouveraient
+Conditionnel Passé;conditionnel;;j’;;;aurais trouvé;;tu ;;;aurais trouvé;;il //elle //on ;;;aurait trouvé;;nous ;;;aurions trouvé;;vous ;;;auriez trouvé;;ils //elles ;;;auraient trouvé
 Impératif Présent;impératif;;;;;;;(tu) ;;;trouve;;;;;;;(nous) ;;;trouvons;;(vous) ;;;trouvez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie trouvé;;;;;;;(nous) ;;;ayons trouvé;;(vous) ;;;ayez trouvé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;trouve pas ;;;;;;;(nous) ;ne ;;trouvons pas ;;(vous) ;ne ;;trouvez pas ;;;;;

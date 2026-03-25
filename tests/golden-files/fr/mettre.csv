@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en mettant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant mis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;mettant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;mis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;mets;;tu ;;;mets;;il/elle/on ;;;met;;nous ;;;mettons;;vous ;;;mettez;;ils/elles ;;;mettent
-Indicatif Passé Composé;indicatif;;j’;;;ai mis;;tu ;;;as mis;;il/elle/on ;;;a mis;;nous ;;;avons mis;;vous ;;;avez mis;;ils/elles ;;;ont mis
-Indicatif Imparfait;indicatif;;je ;;;mettais;;tu ;;;mettais;;il/elle/on ;;;mettait;;nous ;;;mettions;;vous ;;;mettiez;;ils/elles ;;;mettaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais mis;;tu ;;;avais mis;;il/elle/on ;;;avait mis;;nous ;;;avions mis;;vous ;;;aviez mis;;ils/elles ;;;avaient mis
-Indicatif Passé Simple;indicatif;;je ;;;mis;;tu ;;;mis;;il/elle/on ;;;mit;;nous ;;;mîmes;;vous ;;;mîtes;;ils/elles ;;;mirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus mis;;tu ;;;eus mis;;il/elle/on ;;;eut mis;;nous ;;;eûmes mis;;vous ;;;eûtes mis;;ils/elles ;;;eurent mis
-Indicatif Futur Simple;indicatif;;je ;;;mettrai;;tu ;;;mettras;;il/elle/on ;;;mettra;;nous ;;;mettrons;;vous ;;;mettrez;;ils/elles ;;;mettront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai mis;;tu ;;;auras mis;;il/elle/on ;;;aura mis;;nous ;;;aurons mis;;vous ;;;aurez mis;;ils/elles ;;;auront mis
-Subjonctif Présent;subjonctif;que ;je ;;;mette;que ;tu ;;;mettes;qu’;il/elle/on ;;;mette;que ;nous ;;;mettions;que ;vous ;;;mettiez;qu’;ils/elles ;;;mettent
-Subjonctif Passé;subjonctif;que ;j’;;;aie mis;que ;tu ;;;aies mis;qu’;il/elle/on ;;;ait mis;que ;nous ;;;ayons mis;que ;vous ;;;ayez mis;qu’;ils/elles ;;;aient mis
-Subjonctif Imparfait;subjonctif;que ;je ;;;misse;que ;tu ;;;misses;qu’;il/elle/on ;;;mît;que ;nous ;;;missions;que ;vous ;;;missiez;qu’;ils/elles ;;;missent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse mis;que ;tu ;;;eusses mis;qu’;il/elle/on ;;;eût mis;que ;nous ;;;eussions mis;que ;vous ;;;eussiez mis;qu’;ils/elles ;;;eussent mis
-Conditionnel Présent;conditionnel;;je ;;;mettrais;;tu ;;;mettrais;;il/elle/on ;;;mettrait;;nous ;;;mettrions;;vous ;;;mettriez;;ils/elles ;;;mettraient
-Conditionnel Passé;conditionnel;;j’;;;aurais mis;;tu ;;;aurais mis;;il/elle/on ;;;aurait mis;;nous ;;;aurions mis;;vous ;;;auriez mis;;ils/elles ;;;auraient mis
+Indicatif Présent;indicatif;;je ;;;mets;;tu ;;;mets;;il //elle //on ;;;met;;nous ;;;mettons;;vous ;;;mettez;;ils //elles ;;;mettent
+Indicatif Passé Composé;indicatif;;j’;;;ai mis;;tu ;;;as mis;;il //elle //on ;;;a mis;;nous ;;;avons mis;;vous ;;;avez mis;;ils //elles ;;;ont mis
+Indicatif Imparfait;indicatif;;je ;;;mettais;;tu ;;;mettais;;il //elle //on ;;;mettait;;nous ;;;mettions;;vous ;;;mettiez;;ils //elles ;;;mettaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais mis;;tu ;;;avais mis;;il //elle //on ;;;avait mis;;nous ;;;avions mis;;vous ;;;aviez mis;;ils //elles ;;;avaient mis
+Indicatif Passé Simple;indicatif;;je ;;;mis;;tu ;;;mis;;il //elle //on ;;;mit;;nous ;;;mîmes;;vous ;;;mîtes;;ils //elles ;;;mirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus mis;;tu ;;;eus mis;;il //elle //on ;;;eut mis;;nous ;;;eûmes mis;;vous ;;;eûtes mis;;ils //elles ;;;eurent mis
+Indicatif Futur Simple;indicatif;;je ;;;mettrai;;tu ;;;mettras;;il //elle //on ;;;mettra;;nous ;;;mettrons;;vous ;;;mettrez;;ils //elles ;;;mettront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai mis;;tu ;;;auras mis;;il //elle //on ;;;aura mis;;nous ;;;aurons mis;;vous ;;;aurez mis;;ils //elles ;;;auront mis
+Subjonctif Présent;subjonctif;que ;je ;;;mette;que ;tu ;;;mettes;qu’;il //elle //on ;;;mette;que ;nous ;;;mettions;que ;vous ;;;mettiez;qu’;ils //elles ;;;mettent
+Subjonctif Passé;subjonctif;que ;j’;;;aie mis;que ;tu ;;;aies mis;qu’;il //elle //on ;;;ait mis;que ;nous ;;;ayons mis;que ;vous ;;;ayez mis;qu’;ils //elles ;;;aient mis
+Subjonctif Imparfait;subjonctif;que ;je ;;;misse;que ;tu ;;;misses;qu’;il //elle //on ;;;mît;que ;nous ;;;missions;que ;vous ;;;missiez;qu’;ils //elles ;;;missent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse mis;que ;tu ;;;eusses mis;qu’;il //elle //on ;;;eût mis;que ;nous ;;;eussions mis;que ;vous ;;;eussiez mis;qu’;ils //elles ;;;eussent mis
+Conditionnel Présent;conditionnel;;je ;;;mettrais;;tu ;;;mettrais;;il //elle //on ;;;mettrait;;nous ;;;mettrions;;vous ;;;mettriez;;ils //elles ;;;mettraient
+Conditionnel Passé;conditionnel;;j’;;;aurais mis;;tu ;;;aurais mis;;il //elle //on ;;;aurait mis;;nous ;;;aurions mis;;vous ;;;auriez mis;;ils //elles ;;;auraient mis
 Impératif Présent;impératif;;;;;;;(tu) ;;;mets;;;;;;;(nous) ;;;mettons;;(vous) ;;;mettez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie mis;;;;;;;(nous) ;;;ayons mis;;(vous) ;;;ayez mis;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mets pas ;;;;;;;(nous) ;ne ;;mettons pas ;;(vous) ;ne ;;mettez pas ;;;;;

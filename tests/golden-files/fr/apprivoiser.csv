@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en apprivoisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant apprivoisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;apprivoisant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;apprivoisé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;apprivoise;;tu ;;;apprivoises;;il/elle/on ;;;apprivoise;;nous ;;;apprivoisons;;vous ;;;apprivoisez;;ils/elles ;;;apprivoisent
-Indicatif Passé Composé;indicatif;;j’;;;ai apprivoisé;;tu ;;;as apprivoisé;;il/elle/on ;;;a apprivoisé;;nous ;;;avons apprivoisé;;vous ;;;avez apprivoisé;;ils/elles ;;;ont apprivoisé
-Indicatif Imparfait;indicatif;;j’;;;apprivoisais;;tu ;;;apprivoisais;;il/elle/on ;;;apprivoisait;;nous ;;;apprivoisions;;vous ;;;apprivoisiez;;ils/elles ;;;apprivoisaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais apprivoisé;;tu ;;;avais apprivoisé;;il/elle/on ;;;avait apprivoisé;;nous ;;;avions apprivoisé;;vous ;;;aviez apprivoisé;;ils/elles ;;;avaient apprivoisé
-Indicatif Passé Simple;indicatif;;j’;;;apprivoisai;;tu ;;;apprivoisas;;il/elle/on ;;;apprivoisa;;nous ;;;apprivoisâmes;;vous ;;;apprivoisâtes;;ils/elles ;;;apprivoisèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus apprivoisé;;tu ;;;eus apprivoisé;;il/elle/on ;;;eut apprivoisé;;nous ;;;eûmes apprivoisé;;vous ;;;eûtes apprivoisé;;ils/elles ;;;eurent apprivoisé
-Indicatif Futur Simple;indicatif;;j’;;;apprivoiserai;;tu ;;;apprivoiseras;;il/elle/on ;;;apprivoisera;;nous ;;;apprivoiserons;;vous ;;;apprivoiserez;;ils/elles ;;;apprivoiseront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai apprivoisé;;tu ;;;auras apprivoisé;;il/elle/on ;;;aura apprivoisé;;nous ;;;aurons apprivoisé;;vous ;;;aurez apprivoisé;;ils/elles ;;;auront apprivoisé
-Subjonctif Présent;subjonctif;que ;j’;;;apprivoise;que ;tu ;;;apprivoises;qu’;il/elle/on ;;;apprivoise;que ;nous ;;;apprivoisions;que ;vous ;;;apprivoisiez;qu’;ils/elles ;;;apprivoisent
-Subjonctif Passé;subjonctif;que ;j’;;;aie apprivoisé;que ;tu ;;;aies apprivoisé;qu’;il/elle/on ;;;ait apprivoisé;que ;nous ;;;ayons apprivoisé;que ;vous ;;;ayez apprivoisé;qu’;ils/elles ;;;aient apprivoisé
-Subjonctif Imparfait;subjonctif;que ;j’;;;apprivoisasse;que ;tu ;;;apprivoisasses;qu’;il/elle/on ;;;apprivoisât;que ;nous ;;;apprivoisassions;que ;vous ;;;apprivoisassiez;qu’;ils/elles ;;;apprivoisassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse apprivoisé;que ;tu ;;;eusses apprivoisé;qu’;il/elle/on ;;;eût apprivoisé;que ;nous ;;;eussions apprivoisé;que ;vous ;;;eussiez apprivoisé;qu’;ils/elles ;;;eussent apprivoisé
-Conditionnel Présent;conditionnel;;j’;;;apprivoiserais;;tu ;;;apprivoiserais;;il/elle/on ;;;apprivoiserait;;nous ;;;apprivoiserions;;vous ;;;apprivoiseriez;;ils/elles ;;;apprivoiseraient
-Conditionnel Passé;conditionnel;;j’;;;aurais apprivoisé;;tu ;;;aurais apprivoisé;;il/elle/on ;;;aurait apprivoisé;;nous ;;;aurions apprivoisé;;vous ;;;auriez apprivoisé;;ils/elles ;;;auraient apprivoisé
+Indicatif Présent;indicatif;;j’;;;apprivoise;;tu ;;;apprivoises;;il //elle //on ;;;apprivoise;;nous ;;;apprivoisons;;vous ;;;apprivoisez;;ils //elles ;;;apprivoisent
+Indicatif Passé Composé;indicatif;;j’;;;ai apprivoisé;;tu ;;;as apprivoisé;;il //elle //on ;;;a apprivoisé;;nous ;;;avons apprivoisé;;vous ;;;avez apprivoisé;;ils //elles ;;;ont apprivoisé
+Indicatif Imparfait;indicatif;;j’;;;apprivoisais;;tu ;;;apprivoisais;;il //elle //on ;;;apprivoisait;;nous ;;;apprivoisions;;vous ;;;apprivoisiez;;ils //elles ;;;apprivoisaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais apprivoisé;;tu ;;;avais apprivoisé;;il //elle //on ;;;avait apprivoisé;;nous ;;;avions apprivoisé;;vous ;;;aviez apprivoisé;;ils //elles ;;;avaient apprivoisé
+Indicatif Passé Simple;indicatif;;j’;;;apprivoisai;;tu ;;;apprivoisas;;il //elle //on ;;;apprivoisa;;nous ;;;apprivoisâmes;;vous ;;;apprivoisâtes;;ils //elles ;;;apprivoisèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus apprivoisé;;tu ;;;eus apprivoisé;;il //elle //on ;;;eut apprivoisé;;nous ;;;eûmes apprivoisé;;vous ;;;eûtes apprivoisé;;ils //elles ;;;eurent apprivoisé
+Indicatif Futur Simple;indicatif;;j’;;;apprivoiserai;;tu ;;;apprivoiseras;;il //elle //on ;;;apprivoisera;;nous ;;;apprivoiserons;;vous ;;;apprivoiserez;;ils //elles ;;;apprivoiseront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai apprivoisé;;tu ;;;auras apprivoisé;;il //elle //on ;;;aura apprivoisé;;nous ;;;aurons apprivoisé;;vous ;;;aurez apprivoisé;;ils //elles ;;;auront apprivoisé
+Subjonctif Présent;subjonctif;que ;j’;;;apprivoise;que ;tu ;;;apprivoises;qu’;il //elle //on ;;;apprivoise;que ;nous ;;;apprivoisions;que ;vous ;;;apprivoisiez;qu’;ils //elles ;;;apprivoisent
+Subjonctif Passé;subjonctif;que ;j’;;;aie apprivoisé;que ;tu ;;;aies apprivoisé;qu’;il //elle //on ;;;ait apprivoisé;que ;nous ;;;ayons apprivoisé;que ;vous ;;;ayez apprivoisé;qu’;ils //elles ;;;aient apprivoisé
+Subjonctif Imparfait;subjonctif;que ;j’;;;apprivoisasse;que ;tu ;;;apprivoisasses;qu’;il //elle //on ;;;apprivoisât;que ;nous ;;;apprivoisassions;que ;vous ;;;apprivoisassiez;qu’;ils //elles ;;;apprivoisassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse apprivoisé;que ;tu ;;;eusses apprivoisé;qu’;il //elle //on ;;;eût apprivoisé;que ;nous ;;;eussions apprivoisé;que ;vous ;;;eussiez apprivoisé;qu’;ils //elles ;;;eussent apprivoisé
+Conditionnel Présent;conditionnel;;j’;;;apprivoiserais;;tu ;;;apprivoiserais;;il //elle //on ;;;apprivoiserait;;nous ;;;apprivoiserions;;vous ;;;apprivoiseriez;;ils //elles ;;;apprivoiseraient
+Conditionnel Passé;conditionnel;;j’;;;aurais apprivoisé;;tu ;;;aurais apprivoisé;;il //elle //on ;;;aurait apprivoisé;;nous ;;;aurions apprivoisé;;vous ;;;auriez apprivoisé;;ils //elles ;;;auraient apprivoisé
 Impératif Présent;impératif;;;;;;;(tu) ;;;apprivoise;;;;;;;(nous) ;;;apprivoisons;;(vous) ;;;apprivoisez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie apprivoisé;;;;;;;(nous) ;;;ayons apprivoisé;;(vous) ;;;ayez apprivoisé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;apprivoise pas ;;;;;;;(nous) ;n';;apprivoisons pas ;;(vous) ;n';;apprivoisez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en fouillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant fouillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;fouillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;fouillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;fouille;;tu ;;;fouilles;;il/elle/on ;;;fouille;;nous ;;;fouillons;;vous ;;;fouillez;;ils/elles ;;;fouillent
-Indicatif Passé Composé;indicatif;;j’;;;ai fouillé;;tu ;;;as fouillé;;il/elle/on ;;;a fouillé;;nous ;;;avons fouillé;;vous ;;;avez fouillé;;ils/elles ;;;ont fouillé
-Indicatif Imparfait;indicatif;;je ;;;fouillais;;tu ;;;fouillais;;il/elle/on ;;;fouillait;;nous ;;;fouillions;;vous ;;;fouilliez;;ils/elles ;;;fouillaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais fouillé;;tu ;;;avais fouillé;;il/elle/on ;;;avait fouillé;;nous ;;;avions fouillé;;vous ;;;aviez fouillé;;ils/elles ;;;avaient fouillé
-Indicatif Passé Simple;indicatif;;je ;;;fouillai;;tu ;;;fouillas;;il/elle/on ;;;fouilla;;nous ;;;fouillâmes;;vous ;;;fouillâtes;;ils/elles ;;;fouillèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus fouillé;;tu ;;;eus fouillé;;il/elle/on ;;;eut fouillé;;nous ;;;eûmes fouillé;;vous ;;;eûtes fouillé;;ils/elles ;;;eurent fouillé
-Indicatif Futur Simple;indicatif;;je ;;;fouillerai;;tu ;;;fouilleras;;il/elle/on ;;;fouillera;;nous ;;;fouillerons;;vous ;;;fouillerez;;ils/elles ;;;fouilleront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai fouillé;;tu ;;;auras fouillé;;il/elle/on ;;;aura fouillé;;nous ;;;aurons fouillé;;vous ;;;aurez fouillé;;ils/elles ;;;auront fouillé
-Subjonctif Présent;subjonctif;que ;je ;;;fouille;que ;tu ;;;fouilles;qu’;il/elle/on ;;;fouille;que ;nous ;;;fouillions;que ;vous ;;;fouilliez;qu’;ils/elles ;;;fouillent
-Subjonctif Passé;subjonctif;que ;j’;;;aie fouillé;que ;tu ;;;aies fouillé;qu’;il/elle/on ;;;ait fouillé;que ;nous ;;;ayons fouillé;que ;vous ;;;ayez fouillé;qu’;ils/elles ;;;aient fouillé
-Subjonctif Imparfait;subjonctif;que ;je ;;;fouillasse;que ;tu ;;;fouillasses;qu’;il/elle/on ;;;fouillât;que ;nous ;;;fouillassions;que ;vous ;;;fouillassiez;qu’;ils/elles ;;;fouillassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse fouillé;que ;tu ;;;eusses fouillé;qu’;il/elle/on ;;;eût fouillé;que ;nous ;;;eussions fouillé;que ;vous ;;;eussiez fouillé;qu’;ils/elles ;;;eussent fouillé
-Conditionnel Présent;conditionnel;;je ;;;fouillerais;;tu ;;;fouillerais;;il/elle/on ;;;fouillerait;;nous ;;;fouillerions;;vous ;;;fouilleriez;;ils/elles ;;;fouilleraient
-Conditionnel Passé;conditionnel;;j’;;;aurais fouillé;;tu ;;;aurais fouillé;;il/elle/on ;;;aurait fouillé;;nous ;;;aurions fouillé;;vous ;;;auriez fouillé;;ils/elles ;;;auraient fouillé
+Indicatif Présent;indicatif;;je ;;;fouille;;tu ;;;fouilles;;il //elle //on ;;;fouille;;nous ;;;fouillons;;vous ;;;fouillez;;ils //elles ;;;fouillent
+Indicatif Passé Composé;indicatif;;j’;;;ai fouillé;;tu ;;;as fouillé;;il //elle //on ;;;a fouillé;;nous ;;;avons fouillé;;vous ;;;avez fouillé;;ils //elles ;;;ont fouillé
+Indicatif Imparfait;indicatif;;je ;;;fouillais;;tu ;;;fouillais;;il //elle //on ;;;fouillait;;nous ;;;fouillions;;vous ;;;fouilliez;;ils //elles ;;;fouillaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais fouillé;;tu ;;;avais fouillé;;il //elle //on ;;;avait fouillé;;nous ;;;avions fouillé;;vous ;;;aviez fouillé;;ils //elles ;;;avaient fouillé
+Indicatif Passé Simple;indicatif;;je ;;;fouillai;;tu ;;;fouillas;;il //elle //on ;;;fouilla;;nous ;;;fouillâmes;;vous ;;;fouillâtes;;ils //elles ;;;fouillèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus fouillé;;tu ;;;eus fouillé;;il //elle //on ;;;eut fouillé;;nous ;;;eûmes fouillé;;vous ;;;eûtes fouillé;;ils //elles ;;;eurent fouillé
+Indicatif Futur Simple;indicatif;;je ;;;fouillerai;;tu ;;;fouilleras;;il //elle //on ;;;fouillera;;nous ;;;fouillerons;;vous ;;;fouillerez;;ils //elles ;;;fouilleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai fouillé;;tu ;;;auras fouillé;;il //elle //on ;;;aura fouillé;;nous ;;;aurons fouillé;;vous ;;;aurez fouillé;;ils //elles ;;;auront fouillé
+Subjonctif Présent;subjonctif;que ;je ;;;fouille;que ;tu ;;;fouilles;qu’;il //elle //on ;;;fouille;que ;nous ;;;fouillions;que ;vous ;;;fouilliez;qu’;ils //elles ;;;fouillent
+Subjonctif Passé;subjonctif;que ;j’;;;aie fouillé;que ;tu ;;;aies fouillé;qu’;il //elle //on ;;;ait fouillé;que ;nous ;;;ayons fouillé;que ;vous ;;;ayez fouillé;qu’;ils //elles ;;;aient fouillé
+Subjonctif Imparfait;subjonctif;que ;je ;;;fouillasse;que ;tu ;;;fouillasses;qu’;il //elle //on ;;;fouillât;que ;nous ;;;fouillassions;que ;vous ;;;fouillassiez;qu’;ils //elles ;;;fouillassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse fouillé;que ;tu ;;;eusses fouillé;qu’;il //elle //on ;;;eût fouillé;que ;nous ;;;eussions fouillé;que ;vous ;;;eussiez fouillé;qu’;ils //elles ;;;eussent fouillé
+Conditionnel Présent;conditionnel;;je ;;;fouillerais;;tu ;;;fouillerais;;il //elle //on ;;;fouillerait;;nous ;;;fouillerions;;vous ;;;fouilleriez;;ils //elles ;;;fouilleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais fouillé;;tu ;;;aurais fouillé;;il //elle //on ;;;aurait fouillé;;nous ;;;aurions fouillé;;vous ;;;auriez fouillé;;ils //elles ;;;auraient fouillé
 Impératif Présent;impératif;;;;;;;(tu) ;;;fouille;;;;;;;(nous) ;;;fouillons;;(vous) ;;;fouillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie fouillé;;;;;;;(nous) ;;;ayons fouillé;;(vous) ;;;ayez fouillé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fouille pas ;;;;;;;(nous) ;ne ;;fouillons pas ;;(vous) ;ne ;;fouillez pas ;;;;;

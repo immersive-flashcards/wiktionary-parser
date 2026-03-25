@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en bâillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant bâillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;bâillant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;bâillé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;bâille;;tu ;;;bâilles;;il/elle/on ;;;bâille;;nous ;;;bâillons;;vous ;;;bâillez;;ils/elles ;;;bâillent
-Indicatif Passé Composé;indicatif;;j’;;;ai bâillé;;tu ;;;as bâillé;;il/elle/on ;;;a bâillé;;nous ;;;avons bâillé;;vous ;;;avez bâillé;;ils/elles ;;;ont bâillé
-Indicatif Imparfait;indicatif;;je ;;;bâillais;;tu ;;;bâillais;;il/elle/on ;;;bâillait;;nous ;;;bâillions;;vous ;;;bâilliez;;ils/elles ;;;bâillaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais bâillé;;tu ;;;avais bâillé;;il/elle/on ;;;avait bâillé;;nous ;;;avions bâillé;;vous ;;;aviez bâillé;;ils/elles ;;;avaient bâillé
-Indicatif Passé Simple;indicatif;;je ;;;bâillai;;tu ;;;bâillas;;il/elle/on ;;;bâilla;;nous ;;;bâillâmes;;vous ;;;bâillâtes;;ils/elles ;;;bâillèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus bâillé;;tu ;;;eus bâillé;;il/elle/on ;;;eut bâillé;;nous ;;;eûmes bâillé;;vous ;;;eûtes bâillé;;ils/elles ;;;eurent bâillé
-Indicatif Futur Simple;indicatif;;je ;;;bâillerai;;tu ;;;bâilleras;;il/elle/on ;;;bâillera;;nous ;;;bâillerons;;vous ;;;bâillerez;;ils/elles ;;;bâilleront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai bâillé;;tu ;;;auras bâillé;;il/elle/on ;;;aura bâillé;;nous ;;;aurons bâillé;;vous ;;;aurez bâillé;;ils/elles ;;;auront bâillé
-Subjonctif Présent;subjonctif;que ;je ;;;bâille;que ;tu ;;;bâilles;qu’;il/elle/on ;;;bâille;que ;nous ;;;bâillions;que ;vous ;;;bâilliez;qu’;ils/elles ;;;bâillent
-Subjonctif Passé;subjonctif;que ;j’;;;aie bâillé;que ;tu ;;;aies bâillé;qu’;il/elle/on ;;;ait bâillé;que ;nous ;;;ayons bâillé;que ;vous ;;;ayez bâillé;qu’;ils/elles ;;;aient bâillé
-Subjonctif Imparfait;subjonctif;que ;je ;;;bâillasse;que ;tu ;;;bâillasses;qu’;il/elle/on ;;;bâillât;que ;nous ;;;bâillassions;que ;vous ;;;bâillassiez;qu’;ils/elles ;;;bâillassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse bâillé;que ;tu ;;;eusses bâillé;qu’;il/elle/on ;;;eût bâillé;que ;nous ;;;eussions bâillé;que ;vous ;;;eussiez bâillé;qu’;ils/elles ;;;eussent bâillé
-Conditionnel Présent;conditionnel;;je ;;;bâillerais;;tu ;;;bâillerais;;il/elle/on ;;;bâillerait;;nous ;;;bâillerions;;vous ;;;bâilleriez;;ils/elles ;;;bâilleraient
-Conditionnel Passé;conditionnel;;j’;;;aurais bâillé;;tu ;;;aurais bâillé;;il/elle/on ;;;aurait bâillé;;nous ;;;aurions bâillé;;vous ;;;auriez bâillé;;ils/elles ;;;auraient bâillé
+Indicatif Présent;indicatif;;je ;;;bâille;;tu ;;;bâilles;;il //elle //on ;;;bâille;;nous ;;;bâillons;;vous ;;;bâillez;;ils //elles ;;;bâillent
+Indicatif Passé Composé;indicatif;;j’;;;ai bâillé;;tu ;;;as bâillé;;il //elle //on ;;;a bâillé;;nous ;;;avons bâillé;;vous ;;;avez bâillé;;ils //elles ;;;ont bâillé
+Indicatif Imparfait;indicatif;;je ;;;bâillais;;tu ;;;bâillais;;il //elle //on ;;;bâillait;;nous ;;;bâillions;;vous ;;;bâilliez;;ils //elles ;;;bâillaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais bâillé;;tu ;;;avais bâillé;;il //elle //on ;;;avait bâillé;;nous ;;;avions bâillé;;vous ;;;aviez bâillé;;ils //elles ;;;avaient bâillé
+Indicatif Passé Simple;indicatif;;je ;;;bâillai;;tu ;;;bâillas;;il //elle //on ;;;bâilla;;nous ;;;bâillâmes;;vous ;;;bâillâtes;;ils //elles ;;;bâillèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus bâillé;;tu ;;;eus bâillé;;il //elle //on ;;;eut bâillé;;nous ;;;eûmes bâillé;;vous ;;;eûtes bâillé;;ils //elles ;;;eurent bâillé
+Indicatif Futur Simple;indicatif;;je ;;;bâillerai;;tu ;;;bâilleras;;il //elle //on ;;;bâillera;;nous ;;;bâillerons;;vous ;;;bâillerez;;ils //elles ;;;bâilleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai bâillé;;tu ;;;auras bâillé;;il //elle //on ;;;aura bâillé;;nous ;;;aurons bâillé;;vous ;;;aurez bâillé;;ils //elles ;;;auront bâillé
+Subjonctif Présent;subjonctif;que ;je ;;;bâille;que ;tu ;;;bâilles;qu’;il //elle //on ;;;bâille;que ;nous ;;;bâillions;que ;vous ;;;bâilliez;qu’;ils //elles ;;;bâillent
+Subjonctif Passé;subjonctif;que ;j’;;;aie bâillé;que ;tu ;;;aies bâillé;qu’;il //elle //on ;;;ait bâillé;que ;nous ;;;ayons bâillé;que ;vous ;;;ayez bâillé;qu’;ils //elles ;;;aient bâillé
+Subjonctif Imparfait;subjonctif;que ;je ;;;bâillasse;que ;tu ;;;bâillasses;qu’;il //elle //on ;;;bâillât;que ;nous ;;;bâillassions;que ;vous ;;;bâillassiez;qu’;ils //elles ;;;bâillassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse bâillé;que ;tu ;;;eusses bâillé;qu’;il //elle //on ;;;eût bâillé;que ;nous ;;;eussions bâillé;que ;vous ;;;eussiez bâillé;qu’;ils //elles ;;;eussent bâillé
+Conditionnel Présent;conditionnel;;je ;;;bâillerais;;tu ;;;bâillerais;;il //elle //on ;;;bâillerait;;nous ;;;bâillerions;;vous ;;;bâilleriez;;ils //elles ;;;bâilleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais bâillé;;tu ;;;aurais bâillé;;il //elle //on ;;;aurait bâillé;;nous ;;;aurions bâillé;;vous ;;;auriez bâillé;;ils //elles ;;;auraient bâillé
 Impératif Présent;impératif;;;;;;;(tu) ;;;bâille;;;;;;;(nous) ;;;bâillons;;(vous) ;;;bâillez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie bâillé;;;;;;;(nous) ;;;ayons bâillé;;(vous) ;;;ayez bâillé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;bâille pas ;;;;;;;(nous) ;ne ;;bâillons pas ;;(vous) ;ne ;;bâillez pas ;;;;;

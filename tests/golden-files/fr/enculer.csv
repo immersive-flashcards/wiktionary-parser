@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en enculant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant enculé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;enculant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;enculé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;encule;;tu ;;;encules;;il/elle/on ;;;encule;;nous ;;;enculons;;vous ;;;enculez;;ils/elles ;;;enculent
-Indicatif Passé Composé;indicatif;;j’;;;ai enculé;;tu ;;;as enculé;;il/elle/on ;;;a enculé;;nous ;;;avons enculé;;vous ;;;avez enculé;;ils/elles ;;;ont enculé
-Indicatif Imparfait;indicatif;;j’;;;enculais;;tu ;;;enculais;;il/elle/on ;;;enculait;;nous ;;;enculions;;vous ;;;enculiez;;ils/elles ;;;enculaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais enculé;;tu ;;;avais enculé;;il/elle/on ;;;avait enculé;;nous ;;;avions enculé;;vous ;;;aviez enculé;;ils/elles ;;;avaient enculé
-Indicatif Passé Simple;indicatif;;j’;;;enculai;;tu ;;;enculas;;il/elle/on ;;;encula;;nous ;;;enculâmes;;vous ;;;enculâtes;;ils/elles ;;;enculèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus enculé;;tu ;;;eus enculé;;il/elle/on ;;;eut enculé;;nous ;;;eûmes enculé;;vous ;;;eûtes enculé;;ils/elles ;;;eurent enculé
-Indicatif Futur Simple;indicatif;;j’;;;enculerai;;tu ;;;enculeras;;il/elle/on ;;;enculera;;nous ;;;enculerons;;vous ;;;enculerez;;ils/elles ;;;enculeront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai enculé;;tu ;;;auras enculé;;il/elle/on ;;;aura enculé;;nous ;;;aurons enculé;;vous ;;;aurez enculé;;ils/elles ;;;auront enculé
-Subjonctif Présent;subjonctif;que ;j’;;;encule;que ;tu ;;;encules;qu’;il/elle/on ;;;encule;que ;nous ;;;enculions;que ;vous ;;;enculiez;qu’;ils/elles ;;;enculent
-Subjonctif Passé;subjonctif;que ;j’;;;aie enculé;que ;tu ;;;aies enculé;qu’;il/elle/on ;;;ait enculé;que ;nous ;;;ayons enculé;que ;vous ;;;ayez enculé;qu’;ils/elles ;;;aient enculé
-Subjonctif Imparfait;subjonctif;que ;j’;;;enculasse;que ;tu ;;;enculasses;qu’;il/elle/on ;;;enculât;que ;nous ;;;enculassions;que ;vous ;;;enculassiez;qu’;ils/elles ;;;enculassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse enculé;que ;tu ;;;eusses enculé;qu’;il/elle/on ;;;eût enculé;que ;nous ;;;eussions enculé;que ;vous ;;;eussiez enculé;qu’;ils/elles ;;;eussent enculé
-Conditionnel Présent;conditionnel;;j’;;;enculerais;;tu ;;;enculerais;;il/elle/on ;;;enculerait;;nous ;;;enculerions;;vous ;;;enculeriez;;ils/elles ;;;enculeraient
-Conditionnel Passé;conditionnel;;j’;;;aurais enculé;;tu ;;;aurais enculé;;il/elle/on ;;;aurait enculé;;nous ;;;aurions enculé;;vous ;;;auriez enculé;;ils/elles ;;;auraient enculé
+Indicatif Présent;indicatif;;j’;;;encule;;tu ;;;encules;;il //elle //on ;;;encule;;nous ;;;enculons;;vous ;;;enculez;;ils //elles ;;;enculent
+Indicatif Passé Composé;indicatif;;j’;;;ai enculé;;tu ;;;as enculé;;il //elle //on ;;;a enculé;;nous ;;;avons enculé;;vous ;;;avez enculé;;ils //elles ;;;ont enculé
+Indicatif Imparfait;indicatif;;j’;;;enculais;;tu ;;;enculais;;il //elle //on ;;;enculait;;nous ;;;enculions;;vous ;;;enculiez;;ils //elles ;;;enculaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais enculé;;tu ;;;avais enculé;;il //elle //on ;;;avait enculé;;nous ;;;avions enculé;;vous ;;;aviez enculé;;ils //elles ;;;avaient enculé
+Indicatif Passé Simple;indicatif;;j’;;;enculai;;tu ;;;enculas;;il //elle //on ;;;encula;;nous ;;;enculâmes;;vous ;;;enculâtes;;ils //elles ;;;enculèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus enculé;;tu ;;;eus enculé;;il //elle //on ;;;eut enculé;;nous ;;;eûmes enculé;;vous ;;;eûtes enculé;;ils //elles ;;;eurent enculé
+Indicatif Futur Simple;indicatif;;j’;;;enculerai;;tu ;;;enculeras;;il //elle //on ;;;enculera;;nous ;;;enculerons;;vous ;;;enculerez;;ils //elles ;;;enculeront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai enculé;;tu ;;;auras enculé;;il //elle //on ;;;aura enculé;;nous ;;;aurons enculé;;vous ;;;aurez enculé;;ils //elles ;;;auront enculé
+Subjonctif Présent;subjonctif;que ;j’;;;encule;que ;tu ;;;encules;qu’;il //elle //on ;;;encule;que ;nous ;;;enculions;que ;vous ;;;enculiez;qu’;ils //elles ;;;enculent
+Subjonctif Passé;subjonctif;que ;j’;;;aie enculé;que ;tu ;;;aies enculé;qu’;il //elle //on ;;;ait enculé;que ;nous ;;;ayons enculé;que ;vous ;;;ayez enculé;qu’;ils //elles ;;;aient enculé
+Subjonctif Imparfait;subjonctif;que ;j’;;;enculasse;que ;tu ;;;enculasses;qu’;il //elle //on ;;;enculât;que ;nous ;;;enculassions;que ;vous ;;;enculassiez;qu’;ils //elles ;;;enculassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse enculé;que ;tu ;;;eusses enculé;qu’;il //elle //on ;;;eût enculé;que ;nous ;;;eussions enculé;que ;vous ;;;eussiez enculé;qu’;ils //elles ;;;eussent enculé
+Conditionnel Présent;conditionnel;;j’;;;enculerais;;tu ;;;enculerais;;il //elle //on ;;;enculerait;;nous ;;;enculerions;;vous ;;;enculeriez;;ils //elles ;;;enculeraient
+Conditionnel Passé;conditionnel;;j’;;;aurais enculé;;tu ;;;aurais enculé;;il //elle //on ;;;aurait enculé;;nous ;;;aurions enculé;;vous ;;;auriez enculé;;ils //elles ;;;auraient enculé
 Impératif Présent;impératif;;;;;;;(tu) ;;;encule;;;;;;;(nous) ;;;enculons;;(vous) ;;;enculez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie enculé;;;;;;;(nous) ;;;ayons enculé;;(vous) ;;;ayez enculé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;encule pas ;;;;;;;(nous) ;n';;enculons pas ;;(vous) ;n';;enculez pas ;;;;;

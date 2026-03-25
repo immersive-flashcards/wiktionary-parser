@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en attendant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant attendu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;attendant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;attendu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;attends;;tu ;;;attends;;il/elle/on ;;;attend;;nous ;;;attendons;;vous ;;;attendez;;ils/elles ;;;attendent
-Indicatif Passé Composé;indicatif;;j’;;;ai attendu;;tu ;;;as attendu;;il/elle/on ;;;a attendu;;nous ;;;avons attendu;;vous ;;;avez attendu;;ils/elles ;;;ont attendu
-Indicatif Imparfait;indicatif;;j’;;;attendais;;tu ;;;attendais;;il/elle/on ;;;attendait;;nous ;;;attendions;;vous ;;;attendiez;;ils/elles ;;;attendaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais attendu;;tu ;;;avais attendu;;il/elle/on ;;;avait attendu;;nous ;;;avions attendu;;vous ;;;aviez attendu;;ils/elles ;;;avaient attendu
-Indicatif Passé Simple;indicatif;;j’;;;attendis;;tu ;;;attendis;;il/elle/on ;;;attendit;;nous ;;;attendîmes;;vous ;;;attendîtes;;ils/elles ;;;attendirent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus attendu;;tu ;;;eus attendu;;il/elle/on ;;;eut attendu;;nous ;;;eûmes attendu;;vous ;;;eûtes attendu;;ils/elles ;;;eurent attendu
-Indicatif Futur Simple;indicatif;;j’;;;attendrai;;tu ;;;attendras;;il/elle/on ;;;attendra;;nous ;;;attendrons;;vous ;;;attendrez;;ils/elles ;;;attendront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai attendu;;tu ;;;auras attendu;;il/elle/on ;;;aura attendu;;nous ;;;aurons attendu;;vous ;;;aurez attendu;;ils/elles ;;;auront attendu
-Subjonctif Présent;subjonctif;que ;j’;;;attende;que ;tu ;;;attendes;qu’;il/elle/on ;;;attende;que ;nous ;;;attendions;que ;vous ;;;attendiez;qu’;ils/elles ;;;attendent
-Subjonctif Passé;subjonctif;que ;j’;;;aie attendu;que ;tu ;;;aies attendu;qu’;il/elle/on ;;;ait attendu;que ;nous ;;;ayons attendu;que ;vous ;;;ayez attendu;qu’;ils/elles ;;;aient attendu
-Subjonctif Imparfait;subjonctif;que ;j’;;;attendisse;que ;tu ;;;attendisses;qu’;il/elle/on ;;;attendît;que ;nous ;;;attendissions;que ;vous ;;;attendissiez;qu’;ils/elles ;;;attendissent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse attendu;que ;tu ;;;eusses attendu;qu’;il/elle/on ;;;eût attendu;que ;nous ;;;eussions attendu;que ;vous ;;;eussiez attendu;qu’;ils/elles ;;;eussent attendu
-Conditionnel Présent;conditionnel;;j’;;;attendrais;;tu ;;;attendrais;;il/elle/on ;;;attendrait;;nous ;;;attendrions;;vous ;;;attendriez;;ils/elles ;;;attendraient
-Conditionnel Passé;conditionnel;;j’;;;aurais attendu;;tu ;;;aurais attendu;;il/elle/on ;;;aurait attendu;;nous ;;;aurions attendu;;vous ;;;auriez attendu;;ils/elles ;;;auraient attendu
+Indicatif Présent;indicatif;;j’;;;attends;;tu ;;;attends;;il //elle //on ;;;attend;;nous ;;;attendons;;vous ;;;attendez;;ils //elles ;;;attendent
+Indicatif Passé Composé;indicatif;;j’;;;ai attendu;;tu ;;;as attendu;;il //elle //on ;;;a attendu;;nous ;;;avons attendu;;vous ;;;avez attendu;;ils //elles ;;;ont attendu
+Indicatif Imparfait;indicatif;;j’;;;attendais;;tu ;;;attendais;;il //elle //on ;;;attendait;;nous ;;;attendions;;vous ;;;attendiez;;ils //elles ;;;attendaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais attendu;;tu ;;;avais attendu;;il //elle //on ;;;avait attendu;;nous ;;;avions attendu;;vous ;;;aviez attendu;;ils //elles ;;;avaient attendu
+Indicatif Passé Simple;indicatif;;j’;;;attendis;;tu ;;;attendis;;il //elle //on ;;;attendit;;nous ;;;attendîmes;;vous ;;;attendîtes;;ils //elles ;;;attendirent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus attendu;;tu ;;;eus attendu;;il //elle //on ;;;eut attendu;;nous ;;;eûmes attendu;;vous ;;;eûtes attendu;;ils //elles ;;;eurent attendu
+Indicatif Futur Simple;indicatif;;j’;;;attendrai;;tu ;;;attendras;;il //elle //on ;;;attendra;;nous ;;;attendrons;;vous ;;;attendrez;;ils //elles ;;;attendront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai attendu;;tu ;;;auras attendu;;il //elle //on ;;;aura attendu;;nous ;;;aurons attendu;;vous ;;;aurez attendu;;ils //elles ;;;auront attendu
+Subjonctif Présent;subjonctif;que ;j’;;;attende;que ;tu ;;;attendes;qu’;il //elle //on ;;;attende;que ;nous ;;;attendions;que ;vous ;;;attendiez;qu’;ils //elles ;;;attendent
+Subjonctif Passé;subjonctif;que ;j’;;;aie attendu;que ;tu ;;;aies attendu;qu’;il //elle //on ;;;ait attendu;que ;nous ;;;ayons attendu;que ;vous ;;;ayez attendu;qu’;ils //elles ;;;aient attendu
+Subjonctif Imparfait;subjonctif;que ;j’;;;attendisse;que ;tu ;;;attendisses;qu’;il //elle //on ;;;attendît;que ;nous ;;;attendissions;que ;vous ;;;attendissiez;qu’;ils //elles ;;;attendissent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse attendu;que ;tu ;;;eusses attendu;qu’;il //elle //on ;;;eût attendu;que ;nous ;;;eussions attendu;que ;vous ;;;eussiez attendu;qu’;ils //elles ;;;eussent attendu
+Conditionnel Présent;conditionnel;;j’;;;attendrais;;tu ;;;attendrais;;il //elle //on ;;;attendrait;;nous ;;;attendrions;;vous ;;;attendriez;;ils //elles ;;;attendraient
+Conditionnel Passé;conditionnel;;j’;;;aurais attendu;;tu ;;;aurais attendu;;il //elle //on ;;;aurait attendu;;nous ;;;aurions attendu;;vous ;;;auriez attendu;;ils //elles ;;;auraient attendu
 Impératif Présent;impératif;;;;;;;(tu) ;;;attends;;;;;;;(nous) ;;;attendons;;(vous) ;;;attendez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie attendu;;;;;;;(nous) ;;;ayons attendu;;(vous) ;;;ayez attendu;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;attends pas ;;;;;;;(nous) ;n';;attendons pas ;;(vous) ;n';;attendez pas ;;;;;

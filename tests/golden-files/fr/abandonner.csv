@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en abandonnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant abandonné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;abandonnant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;abandonné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;abandonne;;tu ;;;abandonnes;;il/elle/on ;;;abandonne;;nous ;;;abandonnons;;vous ;;;abandonnez;;ils/elles ;;;abandonnent
-Indicatif Passé Composé;indicatif;;j’;;;ai abandonné;;tu ;;;as abandonné;;il/elle/on ;;;a abandonné;;nous ;;;avons abandonné;;vous ;;;avez abandonné;;ils/elles ;;;ont abandonné
-Indicatif Imparfait;indicatif;;j’;;;abandonnais;;tu ;;;abandonnais;;il/elle/on ;;;abandonnait;;nous ;;;abandonnions;;vous ;;;abandonniez;;ils/elles ;;;abandonnaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais abandonné;;tu ;;;avais abandonné;;il/elle/on ;;;avait abandonné;;nous ;;;avions abandonné;;vous ;;;aviez abandonné;;ils/elles ;;;avaient abandonné
-Indicatif Passé Simple;indicatif;;j’;;;abandonnai;;tu ;;;abandonnas;;il/elle/on ;;;abandonna;;nous ;;;abandonnâmes;;vous ;;;abandonnâtes;;ils/elles ;;;abandonnèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus abandonné;;tu ;;;eus abandonné;;il/elle/on ;;;eut abandonné;;nous ;;;eûmes abandonné;;vous ;;;eûtes abandonné;;ils/elles ;;;eurent abandonné
-Indicatif Futur Simple;indicatif;;j’;;;abandonnerai;;tu ;;;abandonneras;;il/elle/on ;;;abandonnera;;nous ;;;abandonnerons;;vous ;;;abandonnerez;;ils/elles ;;;abandonneront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai abandonné;;tu ;;;auras abandonné;;il/elle/on ;;;aura abandonné;;nous ;;;aurons abandonné;;vous ;;;aurez abandonné;;ils/elles ;;;auront abandonné
-Subjonctif Présent;subjonctif;que ;j’;;;abandonne;que ;tu ;;;abandonnes;qu’;il/elle/on ;;;abandonne;que ;nous ;;;abandonnions;que ;vous ;;;abandonniez;qu’;ils/elles ;;;abandonnent
-Subjonctif Passé;subjonctif;que ;j’;;;aie abandonné;que ;tu ;;;aies abandonné;qu’;il/elle/on ;;;ait abandonné;que ;nous ;;;ayons abandonné;que ;vous ;;;ayez abandonné;qu’;ils/elles ;;;aient abandonné
-Subjonctif Imparfait;subjonctif;que ;j’;;;abandonnasse;que ;tu ;;;abandonnasses;qu’;il/elle/on ;;;abandonnât;que ;nous ;;;abandonnassions;que ;vous ;;;abandonnassiez;qu’;ils/elles ;;;abandonnassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse abandonné;que ;tu ;;;eusses abandonné;qu’;il/elle/on ;;;eût abandonné;que ;nous ;;;eussions abandonné;que ;vous ;;;eussiez abandonné;qu’;ils/elles ;;;eussent abandonné
-Conditionnel Présent;conditionnel;;j’;;;abandonnerais;;tu ;;;abandonnerais;;il/elle/on ;;;abandonnerait;;nous ;;;abandonnerions;;vous ;;;abandonneriez;;ils/elles ;;;abandonneraient
-Conditionnel Passé;conditionnel;;j’;;;aurais abandonné;;tu ;;;aurais abandonné;;il/elle/on ;;;aurait abandonné;;nous ;;;aurions abandonné;;vous ;;;auriez abandonné;;ils/elles ;;;auraient abandonné
+Indicatif Présent;indicatif;;j’;;;abandonne;;tu ;;;abandonnes;;il //elle //on ;;;abandonne;;nous ;;;abandonnons;;vous ;;;abandonnez;;ils //elles ;;;abandonnent
+Indicatif Passé Composé;indicatif;;j’;;;ai abandonné;;tu ;;;as abandonné;;il //elle //on ;;;a abandonné;;nous ;;;avons abandonné;;vous ;;;avez abandonné;;ils //elles ;;;ont abandonné
+Indicatif Imparfait;indicatif;;j’;;;abandonnais;;tu ;;;abandonnais;;il //elle //on ;;;abandonnait;;nous ;;;abandonnions;;vous ;;;abandonniez;;ils //elles ;;;abandonnaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais abandonné;;tu ;;;avais abandonné;;il //elle //on ;;;avait abandonné;;nous ;;;avions abandonné;;vous ;;;aviez abandonné;;ils //elles ;;;avaient abandonné
+Indicatif Passé Simple;indicatif;;j’;;;abandonnai;;tu ;;;abandonnas;;il //elle //on ;;;abandonna;;nous ;;;abandonnâmes;;vous ;;;abandonnâtes;;ils //elles ;;;abandonnèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus abandonné;;tu ;;;eus abandonné;;il //elle //on ;;;eut abandonné;;nous ;;;eûmes abandonné;;vous ;;;eûtes abandonné;;ils //elles ;;;eurent abandonné
+Indicatif Futur Simple;indicatif;;j’;;;abandonnerai;;tu ;;;abandonneras;;il //elle //on ;;;abandonnera;;nous ;;;abandonnerons;;vous ;;;abandonnerez;;ils //elles ;;;abandonneront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai abandonné;;tu ;;;auras abandonné;;il //elle //on ;;;aura abandonné;;nous ;;;aurons abandonné;;vous ;;;aurez abandonné;;ils //elles ;;;auront abandonné
+Subjonctif Présent;subjonctif;que ;j’;;;abandonne;que ;tu ;;;abandonnes;qu’;il //elle //on ;;;abandonne;que ;nous ;;;abandonnions;que ;vous ;;;abandonniez;qu’;ils //elles ;;;abandonnent
+Subjonctif Passé;subjonctif;que ;j’;;;aie abandonné;que ;tu ;;;aies abandonné;qu’;il //elle //on ;;;ait abandonné;que ;nous ;;;ayons abandonné;que ;vous ;;;ayez abandonné;qu’;ils //elles ;;;aient abandonné
+Subjonctif Imparfait;subjonctif;que ;j’;;;abandonnasse;que ;tu ;;;abandonnasses;qu’;il //elle //on ;;;abandonnât;que ;nous ;;;abandonnassions;que ;vous ;;;abandonnassiez;qu’;ils //elles ;;;abandonnassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse abandonné;que ;tu ;;;eusses abandonné;qu’;il //elle //on ;;;eût abandonné;que ;nous ;;;eussions abandonné;que ;vous ;;;eussiez abandonné;qu’;ils //elles ;;;eussent abandonné
+Conditionnel Présent;conditionnel;;j’;;;abandonnerais;;tu ;;;abandonnerais;;il //elle //on ;;;abandonnerait;;nous ;;;abandonnerions;;vous ;;;abandonneriez;;ils //elles ;;;abandonneraient
+Conditionnel Passé;conditionnel;;j’;;;aurais abandonné;;tu ;;;aurais abandonné;;il //elle //on ;;;aurait abandonné;;nous ;;;aurions abandonné;;vous ;;;auriez abandonné;;ils //elles ;;;auraient abandonné
 Impératif Présent;impératif;;;;;;;(tu) ;;;abandonne;;;;;;;(nous) ;;;abandonnons;;(vous) ;;;abandonnez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie abandonné;;;;;;;(nous) ;;;ayons abandonné;;(vous) ;;;ayez abandonné;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;abandonne pas ;;;;;;;(nous) ;n';;abandonnons pas ;;(vous) ;n';;abandonnez pas ;;;;;

@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en explorant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant exploré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;explorant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;exploré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;explore;;tu ;;;explores;;il/elle/on ;;;explore;;nous ;;;explorons;;vous ;;;explorez;;ils/elles ;;;explorent
-Indicatif Passé Composé;indicatif;;j’;;;ai exploré;;tu ;;;as exploré;;il/elle/on ;;;a exploré;;nous ;;;avons exploré;;vous ;;;avez exploré;;ils/elles ;;;ont exploré
-Indicatif Imparfait;indicatif;;j’;;;explorais;;tu ;;;explorais;;il/elle/on ;;;explorait;;nous ;;;explorions;;vous ;;;exploriez;;ils/elles ;;;exploraient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais exploré;;tu ;;;avais exploré;;il/elle/on ;;;avait exploré;;nous ;;;avions exploré;;vous ;;;aviez exploré;;ils/elles ;;;avaient exploré
-Indicatif Passé Simple;indicatif;;j’;;;explorai;;tu ;;;exploras;;il/elle/on ;;;explora;;nous ;;;explorâmes;;vous ;;;explorâtes;;ils/elles ;;;explorèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus exploré;;tu ;;;eus exploré;;il/elle/on ;;;eut exploré;;nous ;;;eûmes exploré;;vous ;;;eûtes exploré;;ils/elles ;;;eurent exploré
-Indicatif Futur Simple;indicatif;;j’;;;explorerai;;tu ;;;exploreras;;il/elle/on ;;;explorera;;nous ;;;explorerons;;vous ;;;explorerez;;ils/elles ;;;exploreront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai exploré;;tu ;;;auras exploré;;il/elle/on ;;;aura exploré;;nous ;;;aurons exploré;;vous ;;;aurez exploré;;ils/elles ;;;auront exploré
-Subjonctif Présent;subjonctif;que ;j’;;;explore;que ;tu ;;;explores;qu’;il/elle/on ;;;explore;que ;nous ;;;explorions;que ;vous ;;;exploriez;qu’;ils/elles ;;;explorent
-Subjonctif Passé;subjonctif;que ;j’;;;aie exploré;que ;tu ;;;aies exploré;qu’;il/elle/on ;;;ait exploré;que ;nous ;;;ayons exploré;que ;vous ;;;ayez exploré;qu’;ils/elles ;;;aient exploré
-Subjonctif Imparfait;subjonctif;que ;j’;;;explorasse;que ;tu ;;;explorasses;qu’;il/elle/on ;;;explorât;que ;nous ;;;explorassions;que ;vous ;;;explorassiez;qu’;ils/elles ;;;explorassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse exploré;que ;tu ;;;eusses exploré;qu’;il/elle/on ;;;eût exploré;que ;nous ;;;eussions exploré;que ;vous ;;;eussiez exploré;qu’;ils/elles ;;;eussent exploré
-Conditionnel Présent;conditionnel;;j’;;;explorerais;;tu ;;;explorerais;;il/elle/on ;;;explorerait;;nous ;;;explorerions;;vous ;;;exploreriez;;ils/elles ;;;exploreraient
-Conditionnel Passé;conditionnel;;j’;;;aurais exploré;;tu ;;;aurais exploré;;il/elle/on ;;;aurait exploré;;nous ;;;aurions exploré;;vous ;;;auriez exploré;;ils/elles ;;;auraient exploré
+Indicatif Présent;indicatif;;j’;;;explore;;tu ;;;explores;;il //elle //on ;;;explore;;nous ;;;explorons;;vous ;;;explorez;;ils //elles ;;;explorent
+Indicatif Passé Composé;indicatif;;j’;;;ai exploré;;tu ;;;as exploré;;il //elle //on ;;;a exploré;;nous ;;;avons exploré;;vous ;;;avez exploré;;ils //elles ;;;ont exploré
+Indicatif Imparfait;indicatif;;j’;;;explorais;;tu ;;;explorais;;il //elle //on ;;;explorait;;nous ;;;explorions;;vous ;;;exploriez;;ils //elles ;;;exploraient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais exploré;;tu ;;;avais exploré;;il //elle //on ;;;avait exploré;;nous ;;;avions exploré;;vous ;;;aviez exploré;;ils //elles ;;;avaient exploré
+Indicatif Passé Simple;indicatif;;j’;;;explorai;;tu ;;;exploras;;il //elle //on ;;;explora;;nous ;;;explorâmes;;vous ;;;explorâtes;;ils //elles ;;;explorèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus exploré;;tu ;;;eus exploré;;il //elle //on ;;;eut exploré;;nous ;;;eûmes exploré;;vous ;;;eûtes exploré;;ils //elles ;;;eurent exploré
+Indicatif Futur Simple;indicatif;;j’;;;explorerai;;tu ;;;exploreras;;il //elle //on ;;;explorera;;nous ;;;explorerons;;vous ;;;explorerez;;ils //elles ;;;exploreront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai exploré;;tu ;;;auras exploré;;il //elle //on ;;;aura exploré;;nous ;;;aurons exploré;;vous ;;;aurez exploré;;ils //elles ;;;auront exploré
+Subjonctif Présent;subjonctif;que ;j’;;;explore;que ;tu ;;;explores;qu’;il //elle //on ;;;explore;que ;nous ;;;explorions;que ;vous ;;;exploriez;qu’;ils //elles ;;;explorent
+Subjonctif Passé;subjonctif;que ;j’;;;aie exploré;que ;tu ;;;aies exploré;qu’;il //elle //on ;;;ait exploré;que ;nous ;;;ayons exploré;que ;vous ;;;ayez exploré;qu’;ils //elles ;;;aient exploré
+Subjonctif Imparfait;subjonctif;que ;j’;;;explorasse;que ;tu ;;;explorasses;qu’;il //elle //on ;;;explorât;que ;nous ;;;explorassions;que ;vous ;;;explorassiez;qu’;ils //elles ;;;explorassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse exploré;que ;tu ;;;eusses exploré;qu’;il //elle //on ;;;eût exploré;que ;nous ;;;eussions exploré;que ;vous ;;;eussiez exploré;qu’;ils //elles ;;;eussent exploré
+Conditionnel Présent;conditionnel;;j’;;;explorerais;;tu ;;;explorerais;;il //elle //on ;;;explorerait;;nous ;;;explorerions;;vous ;;;exploreriez;;ils //elles ;;;exploreraient
+Conditionnel Passé;conditionnel;;j’;;;aurais exploré;;tu ;;;aurais exploré;;il //elle //on ;;;aurait exploré;;nous ;;;aurions exploré;;vous ;;;auriez exploré;;ils //elles ;;;auraient exploré
 Impératif Présent;impératif;;;;;;;(tu) ;;;explore;;;;;;;(nous) ;;;explorons;;(vous) ;;;explorez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie exploré;;;;;;;(nous) ;;;ayons exploré;;(vous) ;;;ayez exploré;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;explore pas ;;;;;;;(nous) ;n';;explorons pas ;;(vous) ;n';;explorez pas ;;;;;

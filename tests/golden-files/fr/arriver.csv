@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en arrivant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en étant arrivé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;arrivant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;arrivé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;j’;;;arrive;;tu ;;;arrives;;il/elle/on ;;;arrive;;nous ;;;arrivons;;vous ;;;arrivez;;ils/elles ;;;arrivent
-Indicatif Passé Composé;indicatif;;je ;;;suis arrivé;;tu ;;;es arrivé;;il/elle/on ;;;est arrivé;;nous ;;;sommes arrivés;;vous ;;;êtes arrivés;;ils/elles ;;;sont arrivés
-Indicatif Imparfait;indicatif;;j’;;;arrivais;;tu ;;;arrivais;;il/elle/on ;;;arrivait;;nous ;;;arrivions;;vous ;;;arriviez;;ils/elles ;;;arrivaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais arrivé;;tu ;;;étais arrivé;;il/elle/on ;;;était arrivé;;nous ;;;étions arrivés;;vous ;;;étiez arrivés;;ils/elles ;;;étaient arrivés
-Indicatif Passé Simple;indicatif;;j’;;;arrivai;;tu ;;;arrivas;;il/elle/on ;;;arriva;;nous ;;;arrivâmes;;vous ;;;arrivâtes;;ils/elles ;;;arrivèrent
-Indicatif Passé Antérieur;indicatif;;je ;;;fus arrivé;;tu ;;;fus arrivé;;il/elle/on ;;;fut arrivé;;nous ;;;fûmes arrivés;;vous ;;;fûtes arrivés;;ils/elles ;;;furent arrivés
-Indicatif Futur Simple;indicatif;;j’;;;arriverai;;tu ;;;arriveras;;il/elle/on ;;;arrivera;;nous ;;;arriverons;;vous ;;;arriverez;;ils/elles ;;;arriveront
-Indicatif Futur Antérieur;indicatif;;je ;;;serai arrivé;;tu ;;;seras arrivé;;il/elle/on ;;;sera arrivé;;nous ;;;serons arrivés;;vous ;;;serez arrivés;;ils/elles ;;;seront arrivés
-Subjonctif Présent;subjonctif;que ;j’;;;arrive;que ;tu ;;;arrives;qu’;il/elle/on ;;;arrive;que ;nous ;;;arrivions;que ;vous ;;;arriviez;qu’;ils/elles ;;;arrivent
-Subjonctif Passé;subjonctif;que ;je ;;;sois arrivé;que ;tu ;;;sois arrivé;qu’;il/elle/on ;;;soit arrivé;que ;nous ;;;soyons arrivés;que ;vous ;;;soyez arrivés;qu’;ils/elles ;;;soient arrivés
-Subjonctif Imparfait;subjonctif;que ;j’;;;arrivasse;que ;tu ;;;arrivasses;qu’;il/elle/on ;;;arrivât;que ;nous ;;;arrivassions;que ;vous ;;;arrivassiez;qu’;ils/elles ;;;arrivassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse arrivé;que ;tu ;;;fusses arrivé;qu’;il/elle/on ;;;fût arrivé;que ;nous ;;;fussions arrivés;que ;vous ;;;fussiez arrivés;qu’;ils/elles ;;;fussent arrivés
-Conditionnel Présent;conditionnel;;j’;;;arriverais;;tu ;;;arriverais;;il/elle/on ;;;arriverait;;nous ;;;arriverions;;vous ;;;arriveriez;;ils/elles ;;;arriveraient
-Conditionnel Passé;conditionnel;;je ;;;serais arrivé;;tu ;;;serais arrivé;;il/elle/on ;;;serait arrivé;;nous ;;;serions arrivés;;vous ;;;seriez arrivés;;ils/elles ;;;seraient arrivés
+Indicatif Présent;indicatif;;j’;;;arrive;;tu ;;;arrives;;il //elle //on ;;;arrive;;nous ;;;arrivons;;vous ;;;arrivez;;ils //elles ;;;arrivent
+Indicatif Passé Composé;indicatif;;je ;;;suis arrivé;;tu ;;;es arrivé;;il //elle //on ;;;est arrivé;;nous ;;;sommes arrivés;;vous ;;;êtes arrivés;;ils //elles ;;;sont arrivés
+Indicatif Imparfait;indicatif;;j’;;;arrivais;;tu ;;;arrivais;;il //elle //on ;;;arrivait;;nous ;;;arrivions;;vous ;;;arriviez;;ils //elles ;;;arrivaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;étais arrivé;;tu ;;;étais arrivé;;il //elle //on ;;;était arrivé;;nous ;;;étions arrivés;;vous ;;;étiez arrivés;;ils //elles ;;;étaient arrivés
+Indicatif Passé Simple;indicatif;;j’;;;arrivai;;tu ;;;arrivas;;il //elle //on ;;;arriva;;nous ;;;arrivâmes;;vous ;;;arrivâtes;;ils //elles ;;;arrivèrent
+Indicatif Passé Antérieur;indicatif;;je ;;;fus arrivé;;tu ;;;fus arrivé;;il //elle //on ;;;fut arrivé;;nous ;;;fûmes arrivés;;vous ;;;fûtes arrivés;;ils //elles ;;;furent arrivés
+Indicatif Futur Simple;indicatif;;j’;;;arriverai;;tu ;;;arriveras;;il //elle //on ;;;arrivera;;nous ;;;arriverons;;vous ;;;arriverez;;ils //elles ;;;arriveront
+Indicatif Futur Antérieur;indicatif;;je ;;;serai arrivé;;tu ;;;seras arrivé;;il //elle //on ;;;sera arrivé;;nous ;;;serons arrivés;;vous ;;;serez arrivés;;ils //elles ;;;seront arrivés
+Subjonctif Présent;subjonctif;que ;j’;;;arrive;que ;tu ;;;arrives;qu’;il //elle //on ;;;arrive;que ;nous ;;;arrivions;que ;vous ;;;arriviez;qu’;ils //elles ;;;arrivent
+Subjonctif Passé;subjonctif;que ;je ;;;sois arrivé;que ;tu ;;;sois arrivé;qu’;il //elle //on ;;;soit arrivé;que ;nous ;;;soyons arrivés;que ;vous ;;;soyez arrivés;qu’;ils //elles ;;;soient arrivés
+Subjonctif Imparfait;subjonctif;que ;j’;;;arrivasse;que ;tu ;;;arrivasses;qu’;il //elle //on ;;;arrivât;que ;nous ;;;arrivassions;que ;vous ;;;arrivassiez;qu’;ils //elles ;;;arrivassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;je ;;;fusse arrivé;que ;tu ;;;fusses arrivé;qu’;il //elle //on ;;;fût arrivé;que ;nous ;;;fussions arrivés;que ;vous ;;;fussiez arrivés;qu’;ils //elles ;;;fussent arrivés
+Conditionnel Présent;conditionnel;;j’;;;arriverais;;tu ;;;arriverais;;il //elle //on ;;;arriverait;;nous ;;;arriverions;;vous ;;;arriveriez;;ils //elles ;;;arriveraient
+Conditionnel Passé;conditionnel;;je ;;;serais arrivé;;tu ;;;serais arrivé;;il //elle //on ;;;serait arrivé;;nous ;;;serions arrivés;;vous ;;;seriez arrivés;;ils //elles ;;;seraient arrivés
 Impératif Présent;impératif;;;;;;;(tu) ;;;arrive;;;;;;;(nous) ;;;arrivons;;(vous) ;;;arrivez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;sois arrivé;;;;;;;(nous) ;;;soyons arrivés;;(vous) ;;;soyez arrivés;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;n';;arrive pas ;;;;;;;(nous) ;n';;arrivons pas ;;(vous) ;n';;arrivez pas ;;;;;

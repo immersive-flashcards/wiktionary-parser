@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en parlant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant parlé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;parlant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;parlé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;parle;;tu ;;;parles;;il/elle/on ;;;parle;;nous ;;;parlons;;vous ;;;parlez;;ils/elles ;;;parlent
-Indicatif Passé Composé;indicatif;;j’;;;ai parlé;;tu ;;;as parlé;;il/elle/on ;;;a parlé;;nous ;;;avons parlé;;vous ;;;avez parlé;;ils/elles ;;;ont parlé
-Indicatif Imparfait;indicatif;;je ;;;parlais;;tu ;;;parlais;;il/elle/on ;;;parlait;;nous ;;;parlions;;vous ;;;parliez;;ils/elles ;;;parlaient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais parlé;;tu ;;;avais parlé;;il/elle/on ;;;avait parlé;;nous ;;;avions parlé;;vous ;;;aviez parlé;;ils/elles ;;;avaient parlé
-Indicatif Passé Simple;indicatif;;je ;;;parlai;;tu ;;;parlas;;il/elle/on ;;;parla;;nous ;;;parlâmes;;vous ;;;parlâtes;;ils/elles ;;;parlèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus parlé;;tu ;;;eus parlé;;il/elle/on ;;;eut parlé;;nous ;;;eûmes parlé;;vous ;;;eûtes parlé;;ils/elles ;;;eurent parlé
-Indicatif Futur Simple;indicatif;;je ;;;parlerai;;tu ;;;parleras;;il/elle/on ;;;parlera;;nous ;;;parlerons;;vous ;;;parlerez;;ils/elles ;;;parleront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai parlé;;tu ;;;auras parlé;;il/elle/on ;;;aura parlé;;nous ;;;aurons parlé;;vous ;;;aurez parlé;;ils/elles ;;;auront parlé
-Subjonctif Présent;subjonctif;que ;je ;;;parle;que ;tu ;;;parles;qu’;il/elle/on ;;;parle;que ;nous ;;;parlions;que ;vous ;;;parliez;qu’;ils/elles ;;;parlent
-Subjonctif Passé;subjonctif;que ;j’;;;aie parlé;que ;tu ;;;aies parlé;qu’;il/elle/on ;;;ait parlé;que ;nous ;;;ayons parlé;que ;vous ;;;ayez parlé;qu’;ils/elles ;;;aient parlé
-Subjonctif Imparfait;subjonctif;que ;je ;;;parlasse;que ;tu ;;;parlasses;qu’;il/elle/on ;;;parlât;que ;nous ;;;parlassions;que ;vous ;;;parlassiez;qu’;ils/elles ;;;parlassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse parlé;que ;tu ;;;eusses parlé;qu’;il/elle/on ;;;eût parlé;que ;nous ;;;eussions parlé;que ;vous ;;;eussiez parlé;qu’;ils/elles ;;;eussent parlé
-Conditionnel Présent;conditionnel;;je ;;;parlerais;;tu ;;;parlerais;;il/elle/on ;;;parlerait;;nous ;;;parlerions;;vous ;;;parleriez;;ils/elles ;;;parleraient
-Conditionnel Passé;conditionnel;;j’;;;aurais parlé;;tu ;;;aurais parlé;;il/elle/on ;;;aurait parlé;;nous ;;;aurions parlé;;vous ;;;auriez parlé;;ils/elles ;;;auraient parlé
+Indicatif Présent;indicatif;;je ;;;parle;;tu ;;;parles;;il //elle //on ;;;parle;;nous ;;;parlons;;vous ;;;parlez;;ils //elles ;;;parlent
+Indicatif Passé Composé;indicatif;;j’;;;ai parlé;;tu ;;;as parlé;;il //elle //on ;;;a parlé;;nous ;;;avons parlé;;vous ;;;avez parlé;;ils //elles ;;;ont parlé
+Indicatif Imparfait;indicatif;;je ;;;parlais;;tu ;;;parlais;;il //elle //on ;;;parlait;;nous ;;;parlions;;vous ;;;parliez;;ils //elles ;;;parlaient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais parlé;;tu ;;;avais parlé;;il //elle //on ;;;avait parlé;;nous ;;;avions parlé;;vous ;;;aviez parlé;;ils //elles ;;;avaient parlé
+Indicatif Passé Simple;indicatif;;je ;;;parlai;;tu ;;;parlas;;il //elle //on ;;;parla;;nous ;;;parlâmes;;vous ;;;parlâtes;;ils //elles ;;;parlèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus parlé;;tu ;;;eus parlé;;il //elle //on ;;;eut parlé;;nous ;;;eûmes parlé;;vous ;;;eûtes parlé;;ils //elles ;;;eurent parlé
+Indicatif Futur Simple;indicatif;;je ;;;parlerai;;tu ;;;parleras;;il //elle //on ;;;parlera;;nous ;;;parlerons;;vous ;;;parlerez;;ils //elles ;;;parleront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai parlé;;tu ;;;auras parlé;;il //elle //on ;;;aura parlé;;nous ;;;aurons parlé;;vous ;;;aurez parlé;;ils //elles ;;;auront parlé
+Subjonctif Présent;subjonctif;que ;je ;;;parle;que ;tu ;;;parles;qu’;il //elle //on ;;;parle;que ;nous ;;;parlions;que ;vous ;;;parliez;qu’;ils //elles ;;;parlent
+Subjonctif Passé;subjonctif;que ;j’;;;aie parlé;que ;tu ;;;aies parlé;qu’;il //elle //on ;;;ait parlé;que ;nous ;;;ayons parlé;que ;vous ;;;ayez parlé;qu’;ils //elles ;;;aient parlé
+Subjonctif Imparfait;subjonctif;que ;je ;;;parlasse;que ;tu ;;;parlasses;qu’;il //elle //on ;;;parlât;que ;nous ;;;parlassions;que ;vous ;;;parlassiez;qu’;ils //elles ;;;parlassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse parlé;que ;tu ;;;eusses parlé;qu’;il //elle //on ;;;eût parlé;que ;nous ;;;eussions parlé;que ;vous ;;;eussiez parlé;qu’;ils //elles ;;;eussent parlé
+Conditionnel Présent;conditionnel;;je ;;;parlerais;;tu ;;;parlerais;;il //elle //on ;;;parlerait;;nous ;;;parlerions;;vous ;;;parleriez;;ils //elles ;;;parleraient
+Conditionnel Passé;conditionnel;;j’;;;aurais parlé;;tu ;;;aurais parlé;;il //elle //on ;;;aurait parlé;;nous ;;;aurions parlé;;vous ;;;auriez parlé;;ils //elles ;;;auraient parlé
 Impératif Présent;impératif;;;;;;;(tu) ;;;parle;;;;;;;(nous) ;;;parlons;;(vous) ;;;parlez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie parlé;;;;;;;(nous) ;;;ayons parlé;;(vous) ;;;ayez parlé;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;parle pas ;;;;;;;(nous) ;ne ;;parlons pas ;;(vous) ;ne ;;parlez pas ;;;;;

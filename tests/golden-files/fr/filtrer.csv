@@ -5,20 +5,20 @@ Gérondif Présent;gérondif;en filtrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Gérondif Passé;gérondif;en ayant filtré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Présent;participe;filtrant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Participe Passé;participe;filtré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Indicatif Présent;indicatif;;je ;;;filtre;;tu ;;;filtres;;il/elle/on ;;;filtre;;nous ;;;filtrons;;vous ;;;filtrez;;ils/elles ;;;filtrent
-Indicatif Passé Composé;indicatif;;j’;;;ai filtré;;tu ;;;as filtré;;il/elle/on ;;;a filtré;;nous ;;;avons filtré;;vous ;;;avez filtré;;ils/elles ;;;ont filtré
-Indicatif Imparfait;indicatif;;je ;;;filtrais;;tu ;;;filtrais;;il/elle/on ;;;filtrait;;nous ;;;filtrions;;vous ;;;filtriez;;ils/elles ;;;filtraient
-Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais filtré;;tu ;;;avais filtré;;il/elle/on ;;;avait filtré;;nous ;;;avions filtré;;vous ;;;aviez filtré;;ils/elles ;;;avaient filtré
-Indicatif Passé Simple;indicatif;;je ;;;filtrai;;tu ;;;filtras;;il/elle/on ;;;filtra;;nous ;;;filtrâmes;;vous ;;;filtrâtes;;ils/elles ;;;filtrèrent
-Indicatif Passé Antérieur;indicatif;;j’;;;eus filtré;;tu ;;;eus filtré;;il/elle/on ;;;eut filtré;;nous ;;;eûmes filtré;;vous ;;;eûtes filtré;;ils/elles ;;;eurent filtré
-Indicatif Futur Simple;indicatif;;je ;;;filtrerai;;tu ;;;filtreras;;il/elle/on ;;;filtrera;;nous ;;;filtrerons;;vous ;;;filtrerez;;ils/elles ;;;filtreront
-Indicatif Futur Antérieur;indicatif;;j’;;;aurai filtré;;tu ;;;auras filtré;;il/elle/on ;;;aura filtré;;nous ;;;aurons filtré;;vous ;;;aurez filtré;;ils/elles ;;;auront filtré
-Subjonctif Présent;subjonctif;que ;je ;;;filtre;que ;tu ;;;filtres;qu’;il/elle/on ;;;filtre;que ;nous ;;;filtrions;que ;vous ;;;filtriez;qu’;ils/elles ;;;filtrent
-Subjonctif Passé;subjonctif;que ;j’;;;aie filtré;que ;tu ;;;aies filtré;qu’;il/elle/on ;;;ait filtré;que ;nous ;;;ayons filtré;que ;vous ;;;ayez filtré;qu’;ils/elles ;;;aient filtré
-Subjonctif Imparfait;subjonctif;que ;je ;;;filtrasse;que ;tu ;;;filtrasses;qu’;il/elle/on ;;;filtrât;que ;nous ;;;filtrassions;que ;vous ;;;filtrassiez;qu’;ils/elles ;;;filtrassent
-Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse filtré;que ;tu ;;;eusses filtré;qu’;il/elle/on ;;;eût filtré;que ;nous ;;;eussions filtré;que ;vous ;;;eussiez filtré;qu’;ils/elles ;;;eussent filtré
-Conditionnel Présent;conditionnel;;je ;;;filtrerais;;tu ;;;filtrerais;;il/elle/on ;;;filtrerait;;nous ;;;filtrerions;;vous ;;;filtreriez;;ils/elles ;;;filtreraient
-Conditionnel Passé;conditionnel;;j’;;;aurais filtré;;tu ;;;aurais filtré;;il/elle/on ;;;aurait filtré;;nous ;;;aurions filtré;;vous ;;;auriez filtré;;ils/elles ;;;auraient filtré
+Indicatif Présent;indicatif;;je ;;;filtre;;tu ;;;filtres;;il //elle //on ;;;filtre;;nous ;;;filtrons;;vous ;;;filtrez;;ils //elles ;;;filtrent
+Indicatif Passé Composé;indicatif;;j’;;;ai filtré;;tu ;;;as filtré;;il //elle //on ;;;a filtré;;nous ;;;avons filtré;;vous ;;;avez filtré;;ils //elles ;;;ont filtré
+Indicatif Imparfait;indicatif;;je ;;;filtrais;;tu ;;;filtrais;;il //elle //on ;;;filtrait;;nous ;;;filtrions;;vous ;;;filtriez;;ils //elles ;;;filtraient
+Indicatif Plus-Que-Parfait;indicatif;;j’;;;avais filtré;;tu ;;;avais filtré;;il //elle //on ;;;avait filtré;;nous ;;;avions filtré;;vous ;;;aviez filtré;;ils //elles ;;;avaient filtré
+Indicatif Passé Simple;indicatif;;je ;;;filtrai;;tu ;;;filtras;;il //elle //on ;;;filtra;;nous ;;;filtrâmes;;vous ;;;filtrâtes;;ils //elles ;;;filtrèrent
+Indicatif Passé Antérieur;indicatif;;j’;;;eus filtré;;tu ;;;eus filtré;;il //elle //on ;;;eut filtré;;nous ;;;eûmes filtré;;vous ;;;eûtes filtré;;ils //elles ;;;eurent filtré
+Indicatif Futur Simple;indicatif;;je ;;;filtrerai;;tu ;;;filtreras;;il //elle //on ;;;filtrera;;nous ;;;filtrerons;;vous ;;;filtrerez;;ils //elles ;;;filtreront
+Indicatif Futur Antérieur;indicatif;;j’;;;aurai filtré;;tu ;;;auras filtré;;il //elle //on ;;;aura filtré;;nous ;;;aurons filtré;;vous ;;;aurez filtré;;ils //elles ;;;auront filtré
+Subjonctif Présent;subjonctif;que ;je ;;;filtre;que ;tu ;;;filtres;qu’;il //elle //on ;;;filtre;que ;nous ;;;filtrions;que ;vous ;;;filtriez;qu’;ils //elles ;;;filtrent
+Subjonctif Passé;subjonctif;que ;j’;;;aie filtré;que ;tu ;;;aies filtré;qu’;il //elle //on ;;;ait filtré;que ;nous ;;;ayons filtré;que ;vous ;;;ayez filtré;qu’;ils //elles ;;;aient filtré
+Subjonctif Imparfait;subjonctif;que ;je ;;;filtrasse;que ;tu ;;;filtrasses;qu’;il //elle //on ;;;filtrât;que ;nous ;;;filtrassions;que ;vous ;;;filtrassiez;qu’;ils //elles ;;;filtrassent
+Subjonctif Plus-Que-Parfait;subjonctif;que ;j’;;;eusse filtré;que ;tu ;;;eusses filtré;qu’;il //elle //on ;;;eût filtré;que ;nous ;;;eussions filtré;que ;vous ;;;eussiez filtré;qu’;ils //elles ;;;eussent filtré
+Conditionnel Présent;conditionnel;;je ;;;filtrerais;;tu ;;;filtrerais;;il //elle //on ;;;filtrerait;;nous ;;;filtrerions;;vous ;;;filtreriez;;ils //elles ;;;filtreraient
+Conditionnel Passé;conditionnel;;j’;;;aurais filtré;;tu ;;;aurais filtré;;il //elle //on ;;;aurait filtré;;nous ;;;aurions filtré;;vous ;;;auriez filtré;;ils //elles ;;;auraient filtré
 Impératif Présent;impératif;;;;;;;(tu) ;;;filtre;;;;;;;(nous) ;;;filtrons;;(vous) ;;;filtrez;;;;;
 Impératif Passé;impératif;;;;;;;(tu) ;;;aie filtré;;;;;;;(nous) ;;;ayons filtré;;(vous) ;;;ayez filtré;;;;;
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;filtre pas ;;;;;;;(nous) ;ne ;;filtrons pas ;;(vous) ;ne ;;filtrez pas ;;;;;

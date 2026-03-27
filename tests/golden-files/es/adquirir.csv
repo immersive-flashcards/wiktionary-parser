@@ -10,7 +10,7 @@ Indicativo Pretérito Perfecto;indicativo;;yo ;;;he adquirido;;tú //vos ;;;has 
 Indicativo Pretérito Pluscuamperfecto;indicativo;;yo ;;;había adquirido;;tú //vos ;;;habías adquirido;;él //ella //usted ;;;había adquirido;;nosotros //nosotras ;;;habíamos adquirido;;vosotros //vosotras ;;;habíais adquirido;;ellos //ellas //ustedes ;;;habían adquirido;;;;;
 Indicativo Pretérito Anterior;indicativo;;yo ;;;hube adquirido;;tú //vos ;;;hubiste adquirido;;él //ella //usted ;;;hubo adquirido;;nosotros //nosotras ;;;hubimos adquirido;;vosotros //vosotras ;;;hubisteis adquirido;;ellos //ellas //ustedes ;;;hubieron adquirido;;;;;
 Indicativo Futuro Perfecto;indicativo;;yo ;;;habré adquirido;;tú //vos ;;;habrás adquirido;;él //ella //usted ;;;habrá adquirido;;nosotros //nosotras ;;;habremos adquirido;;vosotros //vosotras ;;;habréis adquirido;;ellos //ellas //ustedes ;;;habrán adquirido;;;;;
-Subjuntivo Presente;subjuntivo;;yo ;;;adquiera;;tú ;;;adquieras;;él //ella //usted ;;;adquiera;;nosotros //nosotras ;;;adquiramos;;vosotros //vosotras ;;;adquiráis;;ellos //ellas //ustedes ;;;adquieran;;vos ;;;adquirás
+Subjuntivo Presente;subjuntivo;;yo ;;;adquiera;;tú //vos ;;;adquieras;;él //ella //usted ;;;adquiera;;nosotros //nosotras ;;;adquiramos;;vosotros //vosotras ;;;adquiráis;;ellos //ellas //ustedes ;;;adquieran;;;;;
 Subjuntivo Pretérito Imperfecto;subjuntivo;;yo ;;;adquiriera / adquiriese;;tú //vos ;;;adquirieras / adquirieses;;él //ella //usted ;;;adquiriera / adquiriese;;nosotros //nosotras ;;;adquiriéramos / adquiriésemos;;vosotros //vosotras ;;;adquirierais / adquirieseis;;ellos //ellas //ustedes ;;;adquirieran / adquiriesen;;;;;
 Subjuntivo Futuro;subjuntivo;;yo ;;;adquiriere;;tú //vos ;;;adquirieres;;él //ella //usted ;;;adquiriere;;nosotros //nosotras ;;;adquiriéremos;;vosotros //vosotras ;;;adquiriereis;;ellos //ellas //ustedes ;;;adquirieren;;;;;
 Subjuntivo Pretérito Perfecto;subjuntivo;;yo ;;;haya adquirido;;tú //vos ;;;hayas adquirido;;él //ella //usted ;;;haya adquirido;;nosotros //nosotras ;;;hayamos adquirido;;vosotros //vosotras ;;;hayáis adquirido;;ellos //ellas //ustedes ;;;hayan adquirido;;;;;
@@ -19,7 +19,7 @@ Subjuntivo Futuro Perfecto;subjuntivo;;yo ;;;hubiere adquirido;;tú //vos ;;;hub
 Condicional;condicional;;yo ;;;adquiriría;;tú //vos ;;;adquirirías;;él //ella //usted ;;;adquiriría;;nosotros //nosotras ;;;adquiriríamos;;vosotros //vosotras ;;;adquiriríais;;ellos //ellas //ustedes ;;;adquirirían;;;;;
 Condicional Perfecto;condicional;;yo ;;;habría adquirido;;tú //vos ;;;habrías adquirido;;él //ella //usted ;;;habría adquirido;;nosotros //nosotras ;;;habríamos adquirido;;vosotros //vosotras ;;;habríais adquirido;;ellos //ellas //ustedes ;;;habrían adquirido;;;;;
 Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adquiere;;(usted) ;;;adquiera;;(nosotros) //(nosotras) ;;;adquiramos;;(vosotros) //(vosotras) ;;;adquirid;;(ustedes) ;;;adquieran;;(vos) ;;;adquirí
-Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adquieras;;(usted) ;no ;;adquiera;;(nosotros) //(nosotras) ;no ;;adquiramos;;(vosotros) //(vosotras) ;no ;;adquiráis;;(ustedes) ;no ;;adquieran;;vos ;;;adquirás
+Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adquieras;;(usted) ;no ;;adquiera;;(nosotros) //(nosotras) ;no ;;adquiramos;;(vosotros) //(vosotras) ;no ;;adquiráis;;(ustedes) ;no ;;adquieran;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 base_infinitive;adquirir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

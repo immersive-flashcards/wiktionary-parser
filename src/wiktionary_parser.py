@@ -16,7 +16,7 @@ import zstandard as zstd
 from src.helpers.extract_from_spec import extract_from_spec
 from src.helpers.postprocess_impersonal_forms import postprocess_impersonal_forms
 from src.language_functions.ca import add_catalan_category_tags, create_catalan_compound_tenses
-from src.language_functions.es import merge_tu_vos_if_equal, create_spanish_negative_imperative
+from src.language_functions.es import merge_tu_vos_if_equal, create_spanish_negative_imperative, force_merge_vos_subjunctive
 from src.language_functions.fr import create_french_negative_imperative
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -150,6 +150,7 @@ def _merge_identical_verb_forms(lang_cfg: LanguageConfig, row: dict[str, Any]) -
     """Language-specific mergin of identical verb forms. Example: Many Spanish tú/vos forms."""
     if lang_cfg.lang_code == "es":  # Spanish
         merge_tu_vos_if_equal(row)
+        force_merge_vos_subjunctive(row)
 
 
 def _add_missing_forms(lang_cfg: LanguageConfig, entry: dict[str, Any], rows: list[dict[str, Any]], reflexive: bool) -> None:

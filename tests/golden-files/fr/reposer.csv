@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;repose pas ;;;;;;;(nous) ;ne ;;r
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas reposé;;;;;;;(nous) ;n';;ayons pas reposé;;(vous) ;n';;ayez pas reposé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;reposer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;reposer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;repos;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

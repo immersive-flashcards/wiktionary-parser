@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;calza;;(usted) ;;;calce;;(nosotr
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;calces;;(usted) ;no ;;calce;;(nosotros) //(nosotras) ;no ;;calcemos;;(vosotros) //(vosotras) ;no ;;calcéis;;(ustedes) ;no ;;calcen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;calzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;calzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;calz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

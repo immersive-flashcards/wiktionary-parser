@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;arrive pas ;;;;;;;(nous) ;n';;arr
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas arrivé;;;;;;;(nous) ;ne ;;soyons pas arrivés;;(vous) ;ne ;;soyez pas arrivés;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;arriver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;arriver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;arriv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

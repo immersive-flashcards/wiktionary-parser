@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;ensemence pas ;;;;;;;(nous) ;n';;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas ensemencé;;;;;;;(nous) ;n';;ayons pas ensemencé;;(vous) ;n';;ayez pas ensemencé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ensemencer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ensemencer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ensemenc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;confisca;;(usted) ;;;confisque;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;confisques;;(usted) ;no ;;confisque;;(nosotros) //(nosotras) ;no ;;confisquemos;;(vosotros) //(vosotras) ;no ;;confisquéis;;(ustedes) ;no ;;confisquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;confiscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;confiscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;confisc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

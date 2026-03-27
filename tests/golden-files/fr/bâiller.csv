@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;bâille pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas bâillé;;;;;;;(nous) ;n';;ayons pas bâillé;;(vous) ;n';;ayez pas bâillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bâiller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bâiller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bâill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

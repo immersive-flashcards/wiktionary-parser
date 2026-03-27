@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;houspille pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas houspillé;;;;;;;(nous) ;n';;ayons pas houspillé;;(vous) ;n';;ayez pas houspillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;houspiller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;houspiller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;houspill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

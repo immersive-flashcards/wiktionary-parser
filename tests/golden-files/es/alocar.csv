@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aloca;;(usted) ;;;aloque;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aloques;;(usted) ;no ;;aloque;;(nosotros) //(nosotras) ;no ;;aloquemos;;(vosotros) //(vosotras) ;no ;;aloquéis;;(ustedes) ;no ;;aloquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;alocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;alocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aloc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

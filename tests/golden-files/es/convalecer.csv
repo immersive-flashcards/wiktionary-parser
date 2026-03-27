@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;convalece;;(usted) ;;;convalezca
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;convalezcas;;(usted) ;no ;;convalezca;;(nosotros) //(nosotras) ;no ;;convalezcamos;;(vosotros) //(vosotras) ;no ;;convalezcáis;;(ustedes) ;no ;;convalezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;convalecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;convalecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;convalec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

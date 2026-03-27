@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cristaliza;;(usted) ;;;cristalic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cristalices;;(usted) ;no ;;cristalice;;(nosotros) //(nosotras) ;no ;;cristalicemos;;(vosotros) //(vosotras) ;no ;;cristalicéis;;(ustedes) ;no ;;cristalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cristalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cristalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cristaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

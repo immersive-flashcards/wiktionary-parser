@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;calece;;(usted) ;;;calezca;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;calezcas;;(usted) ;no ;;calezca;;(nosotros) //(nosotras) ;no ;;calezcamos;;(vosotros) //(vosotras) ;no ;;calezcáis;;(ustedes) ;no ;;calezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;calecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;calecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;calec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;segunda conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

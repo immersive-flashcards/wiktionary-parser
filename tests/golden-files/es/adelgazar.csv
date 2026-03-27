@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adelgaza;;(usted) ;;;adelgace;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adelgaces;;(usted) ;no ;;adelgace;;(nosotros) //(nosotras) ;no ;;adelgacemos;;(vosotros) //(vosotras) ;no ;;adelgacéis;;(ustedes) ;no ;;adelgacen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;adelgazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;adelgazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;adelgaz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

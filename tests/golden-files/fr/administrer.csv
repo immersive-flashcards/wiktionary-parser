@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;administre pas ;;;;;;;(nous) ;n';
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas administré;;;;;;;(nous) ;n';;ayons pas administré;;(vous) ;n';;ayez pas administré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;administrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;administrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;administr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

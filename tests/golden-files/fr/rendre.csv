@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rends pas ;;;;;;;(nous) ;ne ;;re
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas rendu;;;;;;;(nous) ;n';;ayons pas rendu;;(vous) ;n';;ayez pas rendu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;rendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;rendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;rend;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

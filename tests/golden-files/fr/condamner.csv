@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;condamne pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas condamné;;;;;;;(nous) ;n';;ayons pas condamné;;(vous) ;n';;ayez pas condamné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;condamner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;condamner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;condamn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

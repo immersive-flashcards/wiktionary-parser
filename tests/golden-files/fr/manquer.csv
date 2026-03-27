@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;manque pas ;;;;;;;(nous) ;ne ;;m
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas manqué;;;;;;;(nous) ;n';;ayons pas manqué;;(vous) ;n';;ayez pas manqué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;manquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;manquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;manqu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

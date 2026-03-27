@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;écris pas ;;;;;;;(nous) ;n';;éc
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas écrit;;;;;;;(nous) ;n';;ayons pas écrit;;(vous) ;n';;ayez pas écrit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;écrire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;écrire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;écri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

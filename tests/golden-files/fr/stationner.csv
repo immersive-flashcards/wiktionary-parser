@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;stationne pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas stationné;;;;;;;(nous) ;n';;ayons pas stationné;;(vous) ;n';;ayez pas stationné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;stationner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;stationner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;stationn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

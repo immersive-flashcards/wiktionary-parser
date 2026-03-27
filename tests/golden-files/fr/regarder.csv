@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;regarde pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas regardé;;;;;;;(nous) ;n';;ayons pas regardé;;(vous) ;n';;ayez pas regardé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;regarder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;regarder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;regard;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

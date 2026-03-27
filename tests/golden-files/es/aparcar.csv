@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aparca;;(usted) ;;;aparque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aparques;;(usted) ;no ;;aparque;;(nosotros) //(nosotras) ;no ;;aparquemos;;(vosotros) //(vosotras) ;no ;;aparquéis;;(ustedes) ;no ;;aparquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aparcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aparcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aparc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

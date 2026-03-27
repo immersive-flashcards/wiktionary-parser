@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;acquiers pas ;;;;;;;(nous) ;n';;a
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas acquis;;;;;;;(nous) ;n';;ayons pas acquis;;(vous) ;n';;ayez pas acquis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;acquérir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;acquérir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;acquér;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

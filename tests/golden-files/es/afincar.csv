@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;afinca;;(usted) ;;;afinque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;afinques;;(usted) ;no ;;afinque;;(nosotros) //(nosotras) ;no ;;afinquemos;;(vosotros) //(vosotras) ;no ;;afinquéis;;(ustedes) ;no ;;afinquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;afincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;afincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;afinc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

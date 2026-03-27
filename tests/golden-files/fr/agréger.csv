@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;agrège pas ;;;;;;;(nous) ;n';;ag
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas agrégé;;;;;;;(nous) ;n';;ayons pas agrégé;;(vous) ;n';;ayez pas agrégé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;agréger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;agréger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;agrég;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

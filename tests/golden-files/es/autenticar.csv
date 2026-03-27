@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;autentica;;(usted) ;;;autentique
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;autentiques;;(usted) ;no ;;autentique;;(nosotros) //(nosotras) ;no ;;autentiquemos;;(vosotros) //(vosotras) ;no ;;autentiquéis;;(ustedes) ;no ;;autentiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;autenticar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;autenticar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;autentic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

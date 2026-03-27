@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;refuse pas ;;;;;;;(nous) ;ne ;;r
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas refusé;;;;;;;(nous) ;n';;ayons pas refusé;;(vous) ;n';;ayez pas refusé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;refuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;refuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;refus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

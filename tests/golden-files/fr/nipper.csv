@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;nippe pas ;;;;;;;(nous) ;ne ;;ni
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas nippé;;;;;;;(nous) ;n';;ayons pas nippé;;(vous) ;n';;ayez pas nippé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;nipper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;nipper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;nipp;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

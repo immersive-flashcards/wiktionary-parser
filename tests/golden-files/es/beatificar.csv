@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;beatifica;;(usted) ;;;beatifique
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;beatifiques;;(usted) ;no ;;beatifique;;(nosotros) //(nosotras) ;no ;;beatifiquemos;;(vosotros) //(vosotras) ;no ;;beatifiquéis;;(ustedes) ;no ;;beatifiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;beatificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;beatificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;beatific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

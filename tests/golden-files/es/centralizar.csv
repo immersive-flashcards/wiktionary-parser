@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;centraliza;;(usted) ;;;centralic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;centralices;;(usted) ;no ;;centralice;;(nosotros) //(nosotras) ;no ;;centralicemos;;(vosotros) //(vosotras) ;no ;;centralicéis;;(ustedes) ;no ;;centralicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;centralizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;centralizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;centraliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

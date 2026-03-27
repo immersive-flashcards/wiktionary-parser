@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;civiliza;;(usted) ;;;civilice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;civilices;;(usted) ;no ;;civilice;;(nosotros) //(nosotras) ;no ;;civilicemos;;(vosotros) //(vosotras) ;no ;;civilicéis;;(ustedes) ;no ;;civilicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;civilizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;civilizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;civiliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

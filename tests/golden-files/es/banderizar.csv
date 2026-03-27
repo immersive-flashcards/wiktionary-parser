@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;banderiza;;(usted) ;;;banderice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;banderices;;(usted) ;no ;;banderice;;(nosotros) //(nosotras) ;no ;;bandericemos;;(vosotros) //(vosotras) ;no ;;bandericéis;;(ustedes) ;no ;;bandericen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;banderizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;banderizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;banderiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

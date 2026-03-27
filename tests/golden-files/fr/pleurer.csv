@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pleure pas ;;;;;;;(nous) ;ne ;;p
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas pleuré;;;;;;;(nous) ;n';;ayons pas pleuré;;(vous) ;n';;ayez pas pleuré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;pleurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;pleurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;pleur;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

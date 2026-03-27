@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;comunica;;(usted) ;;;comunique;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;comuniques;;(usted) ;no ;;comunique;;(nosotros) //(nosotras) ;no ;;comuniquemos;;(vosotros) //(vosotras) ;no ;;comuniquéis;;(ustedes) ;no ;;comuniquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;comunicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;comunicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;comunic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

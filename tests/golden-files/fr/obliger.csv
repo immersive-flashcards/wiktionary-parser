@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;oblige pas ;;;;;;;(nous) ;n';;obl
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas obligé;;;;;;;(nous) ;n';;ayons pas obligé;;(vous) ;n';;ayez pas obligé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;obliger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;obliger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;oblig;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;blinca;;(usted) ;;;blinque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;blinques;;(usted) ;no ;;blinque;;(nosotros) //(nosotras) ;no ;;blinquemos;;(vosotros) //(vosotras) ;no ;;blinquéis;;(ustedes) ;no ;;blinquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;blincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;blincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;blinc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

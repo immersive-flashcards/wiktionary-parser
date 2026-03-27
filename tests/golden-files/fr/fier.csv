@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fie pas ;;;;;;;(nous) ;ne ;;fion
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas fié;;;;;;;(nous) ;n';;ayons pas fié;;(vous) ;n';;ayez pas fié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;fier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;fier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;fi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

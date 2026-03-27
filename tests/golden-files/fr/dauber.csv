@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;daube pas ;;;;;;;(nous) ;ne ;;da
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas daubé;;;;;;;(nous) ;n';;ayons pas daubé;;(vous) ;n';;ayez pas daubé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;dauber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;dauber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;daub;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

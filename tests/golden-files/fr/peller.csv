@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pelle pas ;;;;;;;(nous) ;ne ;;pe
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas pellé;;;;;;;(nous) ;n';;ayons pas pellé;;(vous) ;n';;ayez pas pellé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;peller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;peller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;pell;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

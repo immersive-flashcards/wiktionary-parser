@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adjudica;;(usted) ;;;adjudique;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adjudiques;;(usted) ;no ;;adjudique;;(nosotros) //(nosotras) ;no ;;adjudiquemos;;(vosotros) //(vosotras) ;no ;;adjudiquéis;;(ustedes) ;no ;;adjudiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;adjudicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;adjudicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;adjudic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

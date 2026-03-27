@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;parraine pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas parrainé;;;;;;;(nous) ;n';;ayons pas parrainé;;(vous) ;n';;ayez pas parrainé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;parrainer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;parrainer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;parrain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

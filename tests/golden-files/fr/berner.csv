@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;berne pas ;;;;;;;(nous) ;ne ;;be
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas berné;;;;;;;(nous) ;n';;ayons pas berné;;(vous) ;n';;ayez pas berné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;berner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;berner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bern;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

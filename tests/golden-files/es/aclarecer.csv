@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aclarece;;(usted) ;;;aclarezca;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aclarezcas;;(usted) ;no ;;aclarezca;;(nosotros) //(nosotras) ;no ;;aclarezcamos;;(vosotros) //(vosotras) ;no ;;aclarezcáis;;(ustedes) ;no ;;aclarezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aclarecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aclarecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aclarec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

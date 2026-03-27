@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;identifie pas ;;;;;;;(nous) ;n';;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas identifié;;;;;;;(nous) ;n';;ayons pas identifié;;(vous) ;n';;ayez pas identifié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;identifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;identifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;identifi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

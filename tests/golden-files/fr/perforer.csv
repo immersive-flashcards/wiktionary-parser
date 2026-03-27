@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;perfore pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas perforé;;;;;;;(nous) ;n';;ayons pas perforé;;(vous) ;n';;ayez pas perforé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;perforer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;perforer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;perfor;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;filtre pas ;;;;;;;(nous) ;ne ;;f
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas filtré;;;;;;;(nous) ;n';;ayons pas filtré;;(vous) ;n';;ayez pas filtré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;filtrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;filtrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;filtr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

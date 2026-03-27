@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;possède pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas possédé;;;;;;;(nous) ;n';;ayons pas possédé;;(vous) ;n';;ayez pas possédé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;posséder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;posséder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;posséd;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

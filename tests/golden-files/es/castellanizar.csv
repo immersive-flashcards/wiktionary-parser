@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;castellaniza;;(usted) ;;;castell
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;castellanices;;(usted) ;no ;;castellanice;;(nosotros) //(nosotras) ;no ;;castellanicemos;;(vosotros) //(vosotras) ;no ;;castellanicéis;;(ustedes) ;no ;;castellanicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;castellanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;castellanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;castellaniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

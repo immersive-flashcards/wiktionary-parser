@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;abaisse pas ;;;;;;;(nous) ;n';;ab
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas abaissé;;;;;;;(nous) ;n';;ayons pas abaissé;;(vous) ;n';;ayez pas abaissé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abaisser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abaisser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abaiss;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

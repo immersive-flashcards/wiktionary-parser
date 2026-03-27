@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;matte pas ;;;;;;;(nous) ;ne ;;ma
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas matté;;;;;;;(nous) ;n';;ayons pas matté;;(vous) ;n';;ayez pas matté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;matter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;matter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;matt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

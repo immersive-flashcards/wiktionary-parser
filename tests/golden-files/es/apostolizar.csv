@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apostoliza;;(usted) ;;;apostolic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apostolices;;(usted) ;no ;;apostolice;;(nosotros) //(nosotras) ;no ;;apostolicemos;;(vosotros) //(vosotras) ;no ;;apostolicéis;;(ustedes) ;no ;;apostolicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;apostolizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;apostolizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;apostoliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;entrave pas ;;;;;;;(nous) ;n';;en
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas entravé;;;;;;;(nous) ;n';;ayons pas entravé;;(vous) ;n';;ayez pas entravé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;entraver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;entraver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;entrav;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bloca;;(usted) ;;;bloque;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bloques;;(usted) ;no ;;bloque;;(nosotros) //(nosotras) ;no ;;bloquemos;;(vosotros) //(vosotras) ;no ;;bloquéis;;(ustedes) ;no ;;bloquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;blocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;blocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bloc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

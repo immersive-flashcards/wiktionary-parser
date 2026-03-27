@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;secoue pas ;;;;;;;(nous) ;ne ;;s
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas secoué;;;;;;;(nous) ;n';;ayons pas secoué;;(vous) ;n';;ayez pas secoué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;secouer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;secouer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;secou;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

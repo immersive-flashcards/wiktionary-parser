@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sauce pas ;;;;;;;(nous) ;ne ;;sa
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas saucé;;;;;;;(nous) ;n';;ayons pas saucé;;(vous) ;n';;ayez pas saucé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;saucer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;saucer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;sauc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

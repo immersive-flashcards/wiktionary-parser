@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;perdure pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas perduré;;;;;;;(nous) ;n';;ayons pas perduré;;(vous) ;n';;ayez pas perduré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;perdurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;perdurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;perdur;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

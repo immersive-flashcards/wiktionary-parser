@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;remets pas ;;;;;;;(nous) ;ne ;;r
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas remis;;;;;;;(nous) ;n';;ayons pas remis;;(vous) ;n';;ayez pas remis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;remettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;remettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;remett;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

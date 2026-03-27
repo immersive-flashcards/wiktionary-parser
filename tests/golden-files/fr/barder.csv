@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;barde pas ;;;;;;;(nous) ;ne ;;ba
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas bardé;;;;;;;(nous) ;n';;ayons pas bardé;;(vous) ;n';;ayez pas bardé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;barder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;barder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bard;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

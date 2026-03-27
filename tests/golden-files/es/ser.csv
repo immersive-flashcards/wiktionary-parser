@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) //(vos) ;;;sé;;(usted) ;;;sea;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) //(vos) ;no ;;seas;;(usted) ;no ;;sea;;(nosotros) //(nosotras) ;no ;;seamos;;(vosotros) //(vosotras) ;no ;;seáis;;(ustedes) ;no ;;sean;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

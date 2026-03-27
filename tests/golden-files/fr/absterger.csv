@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;absterge pas ;;;;;;;(nous) ;n';;a
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas abstergé;;;;;;;(nous) ;n';;ayons pas abstergé;;(vous) ;n';;ayez pas abstergé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;absterger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;absterger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;absterg;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

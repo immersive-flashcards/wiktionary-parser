@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;compatibiliza;;(usted) ;;;compat
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;compatibilices;;(usted) ;no ;;compatibilice;;(nosotros) //(nosotras) ;no ;;compatibilicemos;;(vosotros) //(vosotras) ;no ;;compatibilicéis;;(ustedes) ;no ;;compatibilicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;compatibilizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;compatibilizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;compatibiliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

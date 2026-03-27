@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;modifie pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas modifié;;;;;;;(nous) ;n';;ayons pas modifié;;(vous) ;n';;ayez pas modifié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;modifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;modifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;modifi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

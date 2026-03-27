@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;carameliza;;(usted) ;;;caramelic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;caramelices;;(usted) ;no ;;caramelice;;(nosotros) //(nosotras) ;no ;;caramelicemos;;(vosotros) //(vosotras) ;no ;;caramelicéis;;(ustedes) ;no ;;caramelicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;caramelizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;caramelizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;carameliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

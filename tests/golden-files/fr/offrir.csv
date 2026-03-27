@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;offre pas ;;;;;;;(nous) ;n';;offr
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas offert;;;;;;;(nous) ;n';;ayons pas offert;;(vous) ;n';;ayez pas offert;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;offrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;offrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;offr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

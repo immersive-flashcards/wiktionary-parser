@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rentre pas ;;;;;;;(nous) ;ne ;;r
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas rentré;;;;;;;(nous) ;ne ;;soyons pas rentrés;;(vous) ;ne ;;soyez pas rentrés;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;rentrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;rentrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;rentr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

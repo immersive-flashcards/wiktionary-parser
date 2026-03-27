@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abreza;;(usted) ;;;abrece;;(noso
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abreces;;(usted) ;no ;;abrece;;(nosotros) //(nosotras) ;no ;;abrecemos;;(vosotros) //(vosotras) ;no ;;abrecéis;;(ustedes) ;no ;;abrecen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abrezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abrezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abrez;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

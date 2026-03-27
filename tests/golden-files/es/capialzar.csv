@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;capialza;;(usted) ;;;capialce;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;capialces;;(usted) ;no ;;capialce;;(nosotros) //(nosotras) ;no ;;capialcemos;;(vosotros) //(vosotras) ;no ;;capialcéis;;(ustedes) ;no ;;capialcen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;capialzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;capialzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;capialz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gave pas ;;;;;;;(nous) ;ne ;;gav
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas gavé;;;;;;;(nous) ;n';;ayons pas gavé;;(vous) ;n';;ayez pas gavé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;gaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;gaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;gav;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

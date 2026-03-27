@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;argentiniza;;(usted) ;;;argentin
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;argentinices;;(usted) ;no ;;argentinice;;(nosotros) //(nosotras) ;no ;;argentinicemos;;(vosotros) //(vosotras) ;no ;;argentinicéis;;(ustedes) ;no ;;argentinicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;argentinizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;argentinizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;argentiniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

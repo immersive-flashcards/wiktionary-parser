@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;dine pas ;;;;;;;(nous) ;ne ;;din
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas diné;;;;;;;(nous) ;n';;ayons pas diné;;(vous) ;n';;ayez pas diné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;diner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;diner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;din;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

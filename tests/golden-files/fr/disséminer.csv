@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;dissémine pas ;;;;;;;(nous) ;ne
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas disséminé;;;;;;;(nous) ;n';;ayons pas disséminé;;(vous) ;n';;ayez pas disséminé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;disséminer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;disséminer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;dissémin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

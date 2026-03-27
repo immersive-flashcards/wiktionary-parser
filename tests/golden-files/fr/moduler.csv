@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;module pas ;;;;;;;(nous) ;ne ;;m
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas modulé;;;;;;;(nous) ;n';;ayons pas modulé;;(vous) ;n';;ayez pas modulé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;moduler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;moduler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;modul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

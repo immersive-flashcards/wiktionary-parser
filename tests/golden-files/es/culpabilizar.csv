@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;culpabiliza;;(usted) ;;;culpabil
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;culpabilices;;(usted) ;no ;;culpabilice;;(nosotros) //(nosotras) ;no ;;culpabilicemos;;(vosotros) //(vosotras) ;no ;;culpabilicéis;;(ustedes) ;no ;;culpabilicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;culpabilizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;culpabilizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;culpabiliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

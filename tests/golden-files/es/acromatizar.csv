@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;acromatiza;;(usted) ;;;acromatic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;acromatices;;(usted) ;no ;;acromatice;;(nosotros) //(nosotras) ;no ;;acromaticemos;;(vosotros) //(vosotras) ;no ;;acromaticéis;;(ustedes) ;no ;;acromaticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;acromatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;acromatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;acromatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

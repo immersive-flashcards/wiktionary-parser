@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cataliza;;(usted) ;;;catalice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;catalices;;(usted) ;no ;;catalice;;(nosotros) //(nosotras) ;no ;;catalicemos;;(vosotros) //(vosotras) ;no ;;catalicéis;;(ustedes) ;no ;;catalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;catalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;catalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cataliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

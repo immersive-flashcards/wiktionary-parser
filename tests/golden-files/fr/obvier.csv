@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;obvie pas ;;;;;;;(nous) ;n';;obvi
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas obvié;;;;;;;(nous) ;n';;ayons pas obvié;;(vous) ;n';;ayez pas obvié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;obvier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;obvier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;obvi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

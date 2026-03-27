@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bonifica;;(usted) ;;;bonifique;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bonifiques;;(usted) ;no ;;bonifique;;(nosotros) //(nosotras) ;no ;;bonifiquemos;;(vosotros) //(vosotras) ;no ;;bonifiquéis;;(ustedes) ;no ;;bonifiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bonificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bonificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bonific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

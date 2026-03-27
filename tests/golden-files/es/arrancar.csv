@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arranca;;(usted) ;;;arranque;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;arranques;;(usted) ;no ;;arranque;;(nosotros) //(nosotras) ;no ;;arranquemos;;(vosotros) //(vosotras) ;no ;;arranquéis;;(ustedes) ;no ;;arranquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;arrancar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;arrancar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;arranc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

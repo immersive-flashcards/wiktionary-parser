@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anagramatiza;;(usted) ;;;anagram
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;anagramatices;;(usted) ;no ;;anagramatice;;(nosotros) //(nosotras) ;no ;;anagramaticemos;;(vosotros) //(vosotras) ;no ;;anagramaticéis;;(ustedes) ;no ;;anagramaticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;anagramatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;anagramatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;anagramatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

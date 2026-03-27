@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;accueille pas ;;;;;;;(nous) ;n';;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas accueilli;;;;;;;(nous) ;n';;ayons pas accueilli;;(vous) ;n';;ayez pas accueilli;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;accueillir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;accueillir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;accueill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

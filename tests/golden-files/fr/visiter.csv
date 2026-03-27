@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;visite pas ;;;;;;;(nous) ;ne ;;v
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas visité;;;;;;;(nous) ;n';;ayons pas visité;;(vous) ;n';;ayez pas visité;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;visiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;visiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;visit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

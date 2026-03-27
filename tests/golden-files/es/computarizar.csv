@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;computariza;;(usted) ;;;computar
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;computarices;;(usted) ;no ;;computarice;;(nosotros) //(nosotras) ;no ;;computaricemos;;(vosotros) //(vosotras) ;no ;;computaricéis;;(ustedes) ;no ;;computaricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;computarizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;computarizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;computariz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;embrasse pas ;;;;;;;(nous) ;n';;e
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas embrassé;;;;;;;(nous) ;n';;ayons pas embrassé;;(vous) ;n';;ayez pas embrassé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;embrasser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;embrasser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;embrass;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

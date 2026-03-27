@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arromanza;;(usted) ;;;arromance;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;arromances;;(usted) ;no ;;arromance;;(nosotros) //(nosotras) ;no ;;arromancemos;;(vosotros) //(vosotras) ;no ;;arromancéis;;(ustedes) ;no ;;arromancen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;arromanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;arromanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;arromanz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

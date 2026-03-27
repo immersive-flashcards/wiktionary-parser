@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;buza;;(usted) ;;;buce;;(nosotros
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;buces;;(usted) ;no ;;buce;;(nosotros) //(nosotras) ;no ;;bucemos;;(vosotros) //(vosotras) ;no ;;bucéis;;(ustedes) ;no ;;bucen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;buzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;buzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;buz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

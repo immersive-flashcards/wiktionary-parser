@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;confrica;;(usted) ;;;confrique;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;confriques;;(usted) ;no ;;confrique;;(nosotros) //(nosotras) ;no ;;confriquemos;;(vosotros) //(vosotras) ;no ;;confriquéis;;(ustedes) ;no ;;confriquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;confricar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;confricar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;confric;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

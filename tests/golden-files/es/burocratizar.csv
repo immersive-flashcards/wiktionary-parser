@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;burocratiza;;(usted) ;;;burocrat
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;burocratices;;(usted) ;no ;;burocratice;;(nosotros) //(nosotras) ;no ;;burocraticemos;;(vosotros) //(vosotras) ;no ;;burocraticéis;;(ustedes) ;no ;;burocraticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;burocratizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;burocratizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;burocratiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

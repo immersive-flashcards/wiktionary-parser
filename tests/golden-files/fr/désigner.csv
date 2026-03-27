@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;désigne pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas désigné;;;;;;;(nous) ;n';;ayons pas désigné;;(vous) ;n';;ayez pas désigné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;désigner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;désigner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;désign;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

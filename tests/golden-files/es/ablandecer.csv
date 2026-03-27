@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;ablandece;;(usted) ;;;ablandezca
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;ablandezcas;;(usted) ;no ;;ablandezca;;(nosotros) //(nosotras) ;no ;;ablandezcamos;;(vosotros) //(vosotras) ;no ;;ablandezcáis;;(ustedes) ;no ;;ablandezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ablandecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ablandecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ablandec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

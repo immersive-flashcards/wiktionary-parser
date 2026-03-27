@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;amodorrece;;(usted) ;;;amodorrez
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;amodorrezcas;;(usted) ;no ;;amodorrezca;;(nosotros) //(nosotras) ;no ;;amodorrezcamos;;(vosotros) //(vosotras) ;no ;;amodorrezcáis;;(ustedes) ;no ;;amodorrezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;amodorrecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;amodorrecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;amodorrec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

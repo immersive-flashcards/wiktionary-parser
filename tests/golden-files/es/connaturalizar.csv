@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;connaturaliza;;(usted) ;;;connat
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;connaturalices;;(usted) ;no ;;connaturalice;;(nosotros) //(nosotras) ;no ;;connaturalicemos;;(vosotros) //(vosotras) ;no ;;connaturalicéis;;(ustedes) ;no ;;connaturalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;connaturalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;connaturalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;connaturaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

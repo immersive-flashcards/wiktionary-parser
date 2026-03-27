@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;prive pas ;;;;;;;(nous) ;ne ;;pr
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas privé;;;;;;;(nous) ;n';;ayons pas privé;;(vous) ;n';;ayez pas privé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;priver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;priver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;priv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

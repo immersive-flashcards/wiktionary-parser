@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;asobarca;;(usted) ;;;asobarque;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;asobarques;;(usted) ;no ;;asobarque;;(nosotros) //(nosotras) ;no ;;asobarquemos;;(vosotros) //(vosotras) ;no ;;asobarquéis;;(ustedes) ;no ;;asobarquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;asobarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;asobarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;asobarc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

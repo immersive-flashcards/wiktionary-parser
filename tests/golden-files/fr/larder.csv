@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;larde pas ;;;;;;;(nous) ;ne ;;la
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas lardé;;;;;;;(nous) ;n';;ayons pas lardé;;(vous) ;n';;ayez pas lardé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;larder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;larder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;lard;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

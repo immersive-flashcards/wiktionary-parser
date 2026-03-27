@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;courtise pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas courtisé;;;;;;;(nous) ;n';;ayons pas courtisé;;(vous) ;n';;ayez pas courtisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;courtiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;courtiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;courtis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

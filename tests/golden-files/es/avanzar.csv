@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;avanza;;(usted) ;;;avance;;(noso
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;avances;;(usted) ;no ;;avance;;(nosotros) //(nosotras) ;no ;;avancemos;;(vosotros) //(vosotras) ;no ;;avancéis;;(ustedes) ;no ;;avancen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;avanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;avanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;avanz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

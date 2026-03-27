@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;antipatiza;;(usted) ;;;antipatic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;antipatices;;(usted) ;no ;;antipatice;;(nosotros) //(nosotras) ;no ;;antipaticemos;;(vosotros) //(vosotras) ;no ;;antipaticéis;;(ustedes) ;no ;;antipaticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;antipatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;antipatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;antipatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

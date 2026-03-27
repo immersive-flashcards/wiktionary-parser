@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;complica;;(usted) ;;;complique;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;compliques;;(usted) ;no ;;complique;;(nosotros) //(nosotras) ;no ;;compliquemos;;(vosotros) //(vosotras) ;no ;;compliquéis;;(ustedes) ;no ;;compliquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;complicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;complic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

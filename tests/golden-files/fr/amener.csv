@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;amène pas ;;;;;;;(nous) ;n';;ame
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas amené;;;;;;;(nous) ;n';;ayons pas amené;;(vous) ;n';;ayez pas amené;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;amener;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;amener;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;amen;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

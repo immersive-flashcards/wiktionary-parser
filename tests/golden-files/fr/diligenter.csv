@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;diligente pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas diligenté;;;;;;;(nous) ;n';;ayons pas diligenté;;(vous) ;n';;ayez pas diligenté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;diligenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;diligenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;diligent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

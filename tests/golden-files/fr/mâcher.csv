@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mâche pas ;;;;;;;(nous) ;ne ;;m
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas mâché;;;;;;;(nous) ;n';;ayons pas mâché;;(vous) ;n';;ayez pas mâché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;mâcher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;mâcher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;mâch;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

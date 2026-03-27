@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;essuie pas ;;;;;;;(nous) ;n';;ess
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas essuyé;;;;;;;(nous) ;n';;ayons pas essuyé;;(vous) ;n';;ayez pas essuyé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;essuyer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;essuyer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;essuy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;encule pas ;;;;;;;(nous) ;n';;enc
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas enculé;;;;;;;(nous) ;n';;ayons pas enculé;;(vous) ;n';;ayez pas enculé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;enculer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;enculer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;encul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

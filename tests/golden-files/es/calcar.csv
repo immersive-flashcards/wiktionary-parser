@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;calca;;(usted) ;;;calque;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;calques;;(usted) ;no ;;calque;;(nosotros) //(nosotras) ;no ;;calquemos;;(vosotros) //(vosotras) ;no ;;calquéis;;(ustedes) ;no ;;calquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;calcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;calcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;calc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

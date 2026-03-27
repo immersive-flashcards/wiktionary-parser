@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;maintiens pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas maintenu;;;;;;;(nous) ;n';;ayons pas maintenu;;(vous) ;n';;ayez pas maintenu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;maintenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;maintenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;mainten;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;philosophe pas ;;;;;;;(nous) ;ne
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas philosophé;;;;;;;(nous) ;n';;ayons pas philosophé;;(vous) ;n';;ayez pas philosophé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;philosopher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;philosopher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;philosoph;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

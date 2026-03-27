@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;actualiza;;(usted) ;;;actualice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;actualices;;(usted) ;no ;;actualice;;(nosotros) //(nosotras) ;no ;;actualicemos;;(vosotros) //(vosotras) ;no ;;actualicéis;;(ustedes) ;no ;;actualicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;actualizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;actualizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;actualiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

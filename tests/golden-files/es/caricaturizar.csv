@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;caricaturiza;;(usted) ;;;caricat
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;caricaturices;;(usted) ;no ;;caricaturice;;(nosotros) //(nosotras) ;no ;;caricaturicemos;;(vosotros) //(vosotras) ;no ;;caricaturicéis;;(ustedes) ;no ;;caricaturicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;caricaturizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;caricaturizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;caricaturiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

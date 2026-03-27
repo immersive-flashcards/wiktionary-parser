@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;tinte pas ;;;;;;;(nous) ;ne ;;ti
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas tinté;;;;;;;(nous) ;n';;ayons pas tinté;;(vous) ;n';;ayez pas tinté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;tinter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;tinter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;tint;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

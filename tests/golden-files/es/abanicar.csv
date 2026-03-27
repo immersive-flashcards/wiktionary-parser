@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abanica;;(usted) ;;;abanique;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abaniques;;(usted) ;no ;;abanique;;(nosotros) //(nosotras) ;no ;;abaniquemos;;(vosotros) //(vosotras) ;no ;;abaniquéis;;(ustedes) ;no ;;abaniquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abanicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abanicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abanic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

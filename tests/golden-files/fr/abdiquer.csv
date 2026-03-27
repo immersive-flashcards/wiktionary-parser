@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;abdique pas ;;;;;;;(nous) ;n';;ab
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas abdiqué;;;;;;;(nous) ;n';;ayons pas abdiqué;;(vous) ;n';;ayez pas abdiqué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abdiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abdiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abdiqu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

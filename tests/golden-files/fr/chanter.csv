@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;chante pas ;;;;;;;(nous) ;ne ;;c
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas chanté;;;;;;;(nous) ;n';;ayons pas chanté;;(vous) ;n';;ayez pas chanté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;chanter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;chanter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;chant;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

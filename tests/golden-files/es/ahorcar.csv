@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;ahorca;;(usted) ;;;ahorque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;ahorques;;(usted) ;no ;;ahorque;;(nosotros) //(nosotras) ;no ;;ahorquemos;;(vosotros) //(vosotras) ;no ;;ahorquéis;;(ustedes) ;no ;;ahorquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ahorcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ahorcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ahorc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

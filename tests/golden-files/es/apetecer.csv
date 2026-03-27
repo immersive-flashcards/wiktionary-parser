@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apetece;;(usted) ;;;apetezca;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apetezcas;;(usted) ;no ;;apetezca;;(nosotros) //(nosotras) ;no ;;apetezcamos;;(vosotros) //(vosotras) ;no ;;apetezcáis;;(ustedes) ;no ;;apetezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;apetecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;apetecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;apetec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

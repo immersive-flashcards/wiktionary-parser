@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;apprivoise pas ;;;;;;;(nous) ;n';
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas apprivoisé;;;;;;;(nous) ;n';;ayons pas apprivoisé;;(vous) ;n';;ayez pas apprivoisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;apprivoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;apprivoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;apprivois;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

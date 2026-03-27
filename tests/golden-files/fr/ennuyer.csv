@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;ennuie pas ;;;;;;;(nous) ;n';;enn
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas ennuyé;;;;;;;(nous) ;n';;ayons pas ennuyé;;(vous) ;n';;ayez pas ennuyé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ennuyer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ennuyer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ennuy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;demeure pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas demeuré;;;;;;;(nous) ;n';;ayons pas demeuré;;(vous) ;n';;ayez pas demeuré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;demeurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;demeurer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;demeur;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

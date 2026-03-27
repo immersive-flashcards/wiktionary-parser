@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aborrece;;(usted) ;;;aborrezca;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aborrezcas;;(usted) ;no ;;aborrezca;;(nosotros) //(nosotras) ;no ;;aborrezcamos;;(vosotros) //(vosotras) ;no ;;aborrezcáis;;(ustedes) ;no ;;aborrezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aborrecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aborrecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aborrec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

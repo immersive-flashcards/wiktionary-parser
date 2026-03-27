@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;ris pas ;;;;;;;(nous) ;ne ;;rion
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas ri;;;;;;;(nous) ;n';;ayons pas ri;;(vous) ;n';;ayez pas ri;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;rire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;rire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

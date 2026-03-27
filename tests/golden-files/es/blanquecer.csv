@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;blanquece;;(usted) ;;;blanquezca
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;blanquezcas;;(usted) ;no ;;blanquezca;;(nosotros) //(nosotras) ;no ;;blanquezcamos;;(vosotros) //(vosotras) ;no ;;blanquezcáis;;(ustedes) ;no ;;blanquezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;blanquecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;blanquecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;blanquec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

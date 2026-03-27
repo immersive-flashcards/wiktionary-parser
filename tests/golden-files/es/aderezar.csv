@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adereza;;(usted) ;;;aderece;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adereces;;(usted) ;no ;;aderece;;(nosotros) //(nosotras) ;no ;;aderecemos;;(vosotros) //(vosotras) ;no ;;aderecéis;;(ustedes) ;no ;;aderecen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aderezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aderezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aderez;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

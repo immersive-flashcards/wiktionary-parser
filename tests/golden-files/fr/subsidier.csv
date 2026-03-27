@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;subsidie pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas subsidié;;;;;;;(nous) ;n';;ayons pas subsidié;;(vous) ;n';;ayez pas subsidié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;subsidier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;subsidier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;subsidi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

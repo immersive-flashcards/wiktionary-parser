@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aterriza;;(usted) ;;;aterrice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aterrices;;(usted) ;no ;;aterrice;;(nosotros) //(nosotras) ;no ;;aterricemos;;(vosotros) //(vosotras) ;no ;;aterricéis;;(ustedes) ;no ;;aterricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aterrizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aterrizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aterriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

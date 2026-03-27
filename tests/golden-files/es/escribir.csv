@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;escribe;;(usted) ;;;escriba;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;escribas;;(usted) ;no ;;escriba;;(nosotros) //(nosotras) ;no ;;escribamos;;(vosotros) //(vosotras) ;no ;;escribáis;;(ustedes) ;no ;;escriban;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;escribir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;escribir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;escrib;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

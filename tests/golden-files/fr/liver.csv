@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;live pas ;;;;;;;(nous) ;ne ;;liv
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas livé;;;;;;;(nous) ;n';;ayons pas livé;;(vous) ;n';;ayez pas livé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;liver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;liver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;liv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fourbis pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas fourbi;;;;;;;(nous) ;n';;ayons pas fourbi;;(vous) ;n';;ayez pas fourbi;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;fourbir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;fourbir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;fourb;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

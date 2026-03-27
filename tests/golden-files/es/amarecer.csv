@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;amarece;;(usted) ;;;amarezca;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;amarezcas;;(usted) ;no ;;amarezca;;(nosotros) //(nosotras) ;no ;;amarezcamos;;(vosotros) //(vosotras) ;no ;;amarezcáis;;(ustedes) ;no ;;amarezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;amarecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;amarecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;amarec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

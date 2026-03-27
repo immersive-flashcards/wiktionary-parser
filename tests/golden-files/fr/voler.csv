@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vole pas ;;;;;;;(nous) ;ne ;;vol
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas volé;;;;;;;(nous) ;n';;ayons pas volé;;(vous) ;n';;ayez pas volé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;voler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;voler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;vol;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

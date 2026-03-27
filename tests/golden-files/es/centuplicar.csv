@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;centuplica;;(usted) ;;;centupliq
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;centupliques;;(usted) ;no ;;centuplique;;(nosotros) //(nosotras) ;no ;;centupliquemos;;(vosotros) //(vosotras) ;no ;;centupliquéis;;(ustedes) ;no ;;centupliquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;centuplicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;centuplicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;centuplic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

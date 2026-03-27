@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;catatoniza;;(usted) ;;;catatonic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;catatonices;;(usted) ;no ;;catatonice;;(nosotros) //(nosotras) ;no ;;catatonicemos;;(vosotros) //(vosotras) ;no ;;catatonicéis;;(ustedes) ;no ;;catatonicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;catatonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;catatonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;catatoniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

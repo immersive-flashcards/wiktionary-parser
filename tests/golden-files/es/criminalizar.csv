@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;criminaliza;;(usted) ;;;criminal
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;criminalices;;(usted) ;no ;;criminalice;;(nosotros) //(nosotras) ;no ;;criminalicemos;;(vosotros) //(vosotras) ;no ;;criminalicéis;;(ustedes) ;no ;;criminalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;criminalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;criminalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;criminaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

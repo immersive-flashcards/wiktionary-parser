@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;renifle pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas reniflé;;;;;;;(nous) ;n';;ayons pas reniflé;;(vous) ;n';;ayez pas reniflé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;renifler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;renifler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;renifl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

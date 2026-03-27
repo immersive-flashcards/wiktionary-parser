@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mange pas ;;;;;;;(nous) ;ne ;;ma
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas mangé;;;;;;;(nous) ;n';;ayons pas mangé;;(vous) ;n';;ayez pas mangé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;manger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;manger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;mang;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

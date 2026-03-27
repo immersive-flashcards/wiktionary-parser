@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;ronronne pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas ronronné;;;;;;;(nous) ;n';;ayons pas ronronné;;(vous) ;n';;ayez pas ronronné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ronronner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ronronner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ronronn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

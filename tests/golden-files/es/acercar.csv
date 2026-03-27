@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;acerca;;(usted) ;;;acerque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;acerques;;(usted) ;no ;;acerque;;(nosotros) //(nosotras) ;no ;;acerquemos;;(vosotros) //(vosotras) ;no ;;acerquéis;;(ustedes) ;no ;;acerquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;acercar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;acercar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;acerc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

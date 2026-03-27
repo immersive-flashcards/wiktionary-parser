@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;baliza;;(usted) ;;;balice;;(noso
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;balices;;(usted) ;no ;;balice;;(nosotros) //(nosotras) ;no ;;balicemos;;(vosotros) //(vosotras) ;no ;;balicéis;;(ustedes) ;no ;;balicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;balizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;balizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;baliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

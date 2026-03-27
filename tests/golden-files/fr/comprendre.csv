@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;comprends pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas compris;;;;;;;(nous) ;n';;ayons pas compris;;(vous) ;n';;ayez pas compris;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;comprendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;comprendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;comprend;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

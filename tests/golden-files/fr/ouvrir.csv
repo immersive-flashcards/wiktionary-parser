@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;ouvre pas ;;;;;;;(nous) ;n';;ouvr
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas ouvert;;;;;;;(nous) ;n';;ayons pas ouvert;;(vous) ;n';;ayez pas ouvert;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ouvrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ouvrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ouvr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

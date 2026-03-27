@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;atrinca;;(usted) ;;;atrinque;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;atrinques;;(usted) ;no ;;atrinque;;(nosotros) //(nosotras) ;no ;;atrinquemos;;(vosotros) //(vosotras) ;no ;;atrinquéis;;(ustedes) ;no ;;atrinquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;atrincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;atrincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;atrinc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

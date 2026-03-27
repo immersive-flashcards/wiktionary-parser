@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;agudiza;;(usted) ;;;agudice;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;agudices;;(usted) ;no ;;agudice;;(nosotros) //(nosotras) ;no ;;agudicemos;;(vosotros) //(vosotras) ;no ;;agudicéis;;(ustedes) ;no ;;agudicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;agudizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;agudizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;agudiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

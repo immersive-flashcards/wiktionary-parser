@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;certifica;;(usted) ;;;certifique
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;certifiques;;(usted) ;no ;;certifique;;(nosotros) //(nosotras) ;no ;;certifiquemos;;(vosotros) //(vosotras) ;no ;;certifiquéis;;(ustedes) ;no ;;certifiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;certificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;certificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;certific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

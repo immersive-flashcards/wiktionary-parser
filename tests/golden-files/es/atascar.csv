@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;atasca;;(usted) ;;;atasque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;atasques;;(usted) ;no ;;atasque;;(nosotros) //(nosotras) ;no ;;atasquemos;;(vosotros) //(vosotras) ;no ;;atasquéis;;(ustedes) ;no ;;atasquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;atascar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;atascar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;atasc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

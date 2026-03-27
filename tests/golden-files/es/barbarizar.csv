@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;barbariza;;(usted) ;;;barbarice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;barbarices;;(usted) ;no ;;barbarice;;(nosotros) //(nosotras) ;no ;;barbaricemos;;(vosotros) //(vosotras) ;no ;;barbaricéis;;(ustedes) ;no ;;barbaricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;barbarizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;barbarizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;barbariz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

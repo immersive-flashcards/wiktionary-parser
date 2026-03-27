@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;casca;;(usted) ;;;casque;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;casques;;(usted) ;no ;;casque;;(nosotros) //(nosotras) ;no ;;casquemos;;(vosotros) //(vosotras) ;no ;;casquéis;;(ustedes) ;no ;;casquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cascar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cascar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;casc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

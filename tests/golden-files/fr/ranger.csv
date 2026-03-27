@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;range pas ;;;;;;;(nous) ;ne ;;ra
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas rangé;;;;;;;(nous) ;n';;ayons pas rangé;;(vous) ;n';;ayez pas rangé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ranger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ranger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;rang;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

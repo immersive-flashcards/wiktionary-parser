@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;aie pas ;;;;;;;(nous) ;n';;ayons 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas eu;;;;;;;(nous) ;n';;ayons pas eu;;(vous) ;n';;ayez pas eu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;av;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;oir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

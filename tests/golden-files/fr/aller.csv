@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;va pas ;;;;;;;(nous) ;n';;allons
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas allé;;;;;;;(nous) ;ne ;;soyons pas allés;;(vous) ;ne ;;soyez pas allés;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;all;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

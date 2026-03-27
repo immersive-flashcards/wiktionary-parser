@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;ferme pas ;;;;;;;(nous) ;ne ;;fe
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas fermé;;;;;;;(nous) ;n';;ayons pas fermé;;(vous) ;n';;ayez pas fermé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;fermer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;fermer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ferm;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

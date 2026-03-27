@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;situe pas ;;;;;;;(nous) ;ne ;;si
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas situé;;;;;;;(nous) ;n';;ayons pas situé;;(vous) ;n';;ayez pas situé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;situer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;situer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;situ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

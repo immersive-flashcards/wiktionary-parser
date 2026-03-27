@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;explique pas ;;;;;;;(nous) ;n';;e
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas expliqué;;;;;;;(nous) ;n';;ayons pas expliqué;;(vous) ;n';;ayez pas expliqué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;expliquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;expliquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;expliqu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

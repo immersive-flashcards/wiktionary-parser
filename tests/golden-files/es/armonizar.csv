@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;armoniza;;(usted) ;;;armonice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;armonices;;(usted) ;no ;;armonice;;(nosotros) //(nosotras) ;no ;;armonicemos;;(vosotros) //(vosotras) ;no ;;armonicéis;;(ustedes) ;no ;;armonicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;armonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;armonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;armoniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

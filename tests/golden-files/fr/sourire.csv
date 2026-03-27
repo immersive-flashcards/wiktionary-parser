@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;souris pas ;;;;;;;(nous) ;ne ;;s
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas souri;;;;;;;(nous) ;n';;ayons pas souri;;(vous) ;n';;ayez pas souri;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;sourire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;sourire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;souri;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

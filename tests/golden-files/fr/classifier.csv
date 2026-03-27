@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;classifie pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas classifié;;;;;;;(nous) ;n';;ayons pas classifié;;(vous) ;n';;ayez pas classifié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;classifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;classifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;classifi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bautiza;;(usted) ;;;bautice;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bautices;;(usted) ;no ;;bautice;;(nosotros) //(nosotras) ;no ;;bauticemos;;(vosotros) //(vosotras) ;no ;;bauticéis;;(ustedes) ;no ;;bauticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bautizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bautizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bautiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

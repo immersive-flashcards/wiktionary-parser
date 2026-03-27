@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;accorde pas ;;;;;;;(nous) ;n';;ac
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas accordé;;;;;;;(nous) ;n';;ayons pas accordé;;(vous) ;n';;ayez pas accordé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;accorder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;accorder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;accord;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

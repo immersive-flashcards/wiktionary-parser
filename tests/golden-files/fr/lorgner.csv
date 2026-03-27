@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;lorgne pas ;;;;;;;(nous) ;ne ;;l
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas lorgné;;;;;;;(nous) ;n';;ayons pas lorgné;;(vous) ;n';;ayez pas lorgné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;lorgner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;lorgner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;lorgn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

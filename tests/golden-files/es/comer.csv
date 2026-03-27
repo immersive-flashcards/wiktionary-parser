@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;come;;(usted) ;;;coma;;(nosotros
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;comas;;(usted) ;no ;;coma;;(nosotros) //(nosotras) ;no ;;comamos;;(vosotros) //(vosotras) ;no ;;comáis;;(ustedes) ;no ;;coman;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;comer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;comer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;com;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

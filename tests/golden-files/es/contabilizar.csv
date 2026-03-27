@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contabiliza;;(usted) ;;;contabil
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contabilices;;(usted) ;no ;;contabilice;;(nosotros) //(nosotras) ;no ;;contabilicemos;;(vosotros) //(vosotras) ;no ;;contabilicéis;;(ustedes) ;no ;;contabilicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;contabilizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;contabilizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;contabiliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

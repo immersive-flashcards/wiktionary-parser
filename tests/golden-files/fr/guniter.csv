@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gunite pas ;;;;;;;(nous) ;ne ;;g
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas gunité;;;;;;;(nous) ;n';;ayons pas gunité;;(vous) ;n';;ayez pas gunité;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;guniter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;guniter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;gunit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

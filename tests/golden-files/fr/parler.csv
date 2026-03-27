@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;parle pas ;;;;;;;(nous) ;ne ;;pa
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas parlé;;;;;;;(nous) ;n';;ayons pas parlé;;(vous) ;n';;ayez pas parlé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;parler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;parler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;parl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

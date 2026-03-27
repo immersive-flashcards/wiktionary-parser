@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gronde pas ;;;;;;;(nous) ;ne ;;g
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas grondé;;;;;;;(nous) ;n';;ayons pas grondé;;(vous) ;n';;ayez pas grondé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;gronder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;gronder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;grond;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

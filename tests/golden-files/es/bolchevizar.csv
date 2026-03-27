@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bolcheviza;;(usted) ;;;bolchevic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bolchevices;;(usted) ;no ;;bolchevice;;(nosotros) //(nosotras) ;no ;;bolchevicemos;;(vosotros) //(vosotras) ;no ;;bolchevicéis;;(ustedes) ;no ;;bolchevicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bolchevizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bolchevizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bolcheviz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

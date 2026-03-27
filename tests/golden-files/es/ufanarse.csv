@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;ufánate;;(usted) ;;;ufánese;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;te ;ufanes;;(usted) ;no ;se ;ufane;;(nosotros) //(nosotras) ;no ;nos ;ufanemos;;(vosotros) //(vosotras) ;no ;os ;ufanéis;;(ustedes) ;no ;se ;ufanen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;true;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ufanar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ufanar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ufan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

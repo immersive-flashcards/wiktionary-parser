@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contraindica;;(usted) ;;;contrai
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contraindiques;;(usted) ;no ;;contraindique;;(nosotros) //(nosotras) ;no ;;contraindiquemos;;(vosotros) //(vosotras) ;no ;;contraindiquéis;;(ustedes) ;no ;;contraindiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;contraindicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;contraindicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;contraindic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

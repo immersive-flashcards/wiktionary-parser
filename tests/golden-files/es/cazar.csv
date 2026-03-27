@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;caza;;(usted) ;;;cace;;(nosotros
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;caces;;(usted) ;no ;;cace;;(nosotros) //(nosotras) ;no ;;cacemos;;(vosotros) //(vosotras) ;no ;;cacéis;;(ustedes) ;no ;;cacen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;caz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

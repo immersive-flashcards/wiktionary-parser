@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;philosophaille pas ;;;;;;;(nous)
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas philosophaillé;;;;;;;(nous) ;n';;ayons pas philosophaillé;;(vous) ;n';;ayez pas philosophaillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;philosophailler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;philosophailler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;philosophaill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

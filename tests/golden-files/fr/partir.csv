@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pars pas ;;;;;;;(nous) ;ne ;;par
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas parti;;;;;;;(nous) ;ne ;;soyons pas partis;;(vous) ;ne ;;soyez pas partis;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;partir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;partir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;part;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

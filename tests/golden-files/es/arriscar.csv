@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arrisca;;(usted) ;;;arrisque;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;arrisques;;(usted) ;no ;;arrisque;;(nosotros) //(nosotras) ;no ;;arrisquemos;;(vosotros) //(vosotras) ;no ;;arrisquéis;;(ustedes) ;no ;;arrisquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;arriscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;arriscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;arrisc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

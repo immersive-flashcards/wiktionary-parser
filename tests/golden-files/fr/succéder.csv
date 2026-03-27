@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;succède pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas succédé;;;;;;;(nous) ;n';;ayons pas succédé;;(vous) ;n';;ayez pas succédé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;succéder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;succéder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;succéd;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

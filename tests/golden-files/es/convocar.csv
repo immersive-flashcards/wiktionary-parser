@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;convoca;;(usted) ;;;convoque;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;convoques;;(usted) ;no ;;convoque;;(nosotros) //(nosotras) ;no ;;convoquemos;;(vosotros) //(vosotras) ;no ;;convoquéis;;(ustedes) ;no ;;convoquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;convocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;convocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;convoc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

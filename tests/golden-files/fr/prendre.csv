@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;prends pas ;;;;;;;(nous) ;ne ;;p
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas pris;;;;;;;(nous) ;n';;ayons pas pris;;(vous) ;n';;ayez pas pris;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;prendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;prendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;prend;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

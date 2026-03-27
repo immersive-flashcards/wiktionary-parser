@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;baye pas ;;;;;;;(nous) ;ne ;;bay
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas bayé;;;;;;;(nous) ;n';;ayons pas bayé;;(vous) ;n';;ayez pas bayé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bayer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bayer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bay;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

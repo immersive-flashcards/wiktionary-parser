@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rince pas ;;;;;;;(nous) ;ne ;;ri
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas rincé;;;;;;;(nous) ;n';;ayons pas rincé;;(vous) ;n';;ayez pas rincé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;rincer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;rincer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;rinc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

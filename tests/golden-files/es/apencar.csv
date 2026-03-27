@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apenca;;(usted) ;;;apenque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apenques;;(usted) ;no ;;apenque;;(nosotros) //(nosotras) ;no ;;apenquemos;;(vosotros) //(vosotras) ;no ;;apenquéis;;(ustedes) ;no ;;apenquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;apencar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;apencar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;apenc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

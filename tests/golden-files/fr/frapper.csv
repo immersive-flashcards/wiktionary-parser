@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;frappe pas ;;;;;;;(nous) ;ne ;;f
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas frappé;;;;;;;(nous) ;n';;ayons pas frappé;;(vous) ;n';;ayez pas frappé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;frapper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;frapper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;frapp;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

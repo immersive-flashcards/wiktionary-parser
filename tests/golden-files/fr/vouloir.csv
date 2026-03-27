@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;veux / veuille pas ;;;;;;;(nous)
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas voulu;;;;;;;(nous) ;n';;ayons pas voulu;;(vous) ;n';;ayez pas voulu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;vouloir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;vouloir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;voul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;oir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

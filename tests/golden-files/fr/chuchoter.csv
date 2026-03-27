@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;chuchote pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas chuchoté;;;;;;;(nous) ;n';;ayons pas chuchoté;;(vous) ;n';;ayez pas chuchoté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;chuchoter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;chuchoter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;chuchot;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;coquifica;;(usted) ;;;coquifique
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;coquifiques;;(usted) ;no ;;coquifique;;(nosotros) //(nosotras) ;no ;;coquifiquemos;;(vosotros) //(vosotras) ;no ;;coquifiquéis;;(ustedes) ;no ;;coquifiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;coquificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;coquificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;coquific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

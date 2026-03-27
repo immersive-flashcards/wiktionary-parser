@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;parviens pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas parvenu;;;;;;;(nous) ;ne ;;soyons pas parvenus;;(vous) ;ne ;;soyez pas parvenus;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;parvenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;parvenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;parven;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

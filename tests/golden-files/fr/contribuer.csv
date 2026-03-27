@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;contribue pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas contribué;;;;;;;(nous) ;n';;ayons pas contribué;;(vous) ;n';;ayez pas contribué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;contribuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;contribuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;contribu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

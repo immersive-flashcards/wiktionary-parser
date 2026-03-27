@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;ubica;;(usted) ;;;ubique;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;ubiques;;(usted) ;no ;;ubique;;(nosotros) //(nosotras) ;no ;;ubiquemos;;(vosotros) //(vosotras) ;no ;;ubiquéis;;(ustedes) ;no ;;ubiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ubicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ubicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ubic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

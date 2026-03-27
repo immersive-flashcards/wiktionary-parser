@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;;;;;;;;;anochezca;;;;;;;;;;;;;;;;;;;;
 Imperativo Negativo;imperativo;;;;;;;;;;;;;no ;;anochezca;;;;;;;;;;;;;;;;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;anochecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;anochecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;anochec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

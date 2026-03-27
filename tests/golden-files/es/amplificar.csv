@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;amplifica;;(usted) ;;;amplifique
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;amplifiques;;(usted) ;no ;;amplifique;;(nosotros) //(nosotras) ;no ;;amplifiquemos;;(vosotros) //(vosotras) ;no ;;amplifiquéis;;(ustedes) ;no ;;amplifiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;amplificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;amplificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;amplific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

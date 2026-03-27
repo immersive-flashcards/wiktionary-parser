@@ -398,7 +398,7 @@ def build_verb_data(entry: dict[str, Any], lang_cfg: LanguageConfig) -> tuple[st
     meta_items = {
         "auxiliary": auxiliary,
         "reflexive": reflexive,
-        "base_infinitive": base_infinitive,
+        "base-infinitive": base_infinitive,
         "stem": stem,
         "ending": ending,
     }

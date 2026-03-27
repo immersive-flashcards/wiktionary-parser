@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bizca;;(usted) ;;;bizque;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bizques;;(usted) ;no ;;bizque;;(nosotros) //(nosotras) ;no ;;bizquemos;;(vosotros) //(vosotras) ;no ;;bizquéis;;(ustedes) ;no ;;bizquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bizcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bizcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bizc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

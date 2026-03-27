@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;califica;;(usted) ;;;califique;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;califiques;;(usted) ;no ;;califique;;(nosotros) //(nosotras) ;no ;;califiquemos;;(vosotros) //(vosotras) ;no ;;califiquéis;;(ustedes) ;no ;;califiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;calificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;calificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;calific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

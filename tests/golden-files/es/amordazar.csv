@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;amordaza;;(usted) ;;;amordace;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;amordaces;;(usted) ;no ;;amordace;;(nosotros) //(nosotras) ;no ;;amordacemos;;(vosotros) //(vosotras) ;no ;;amordacéis;;(ustedes) ;no ;;amordacen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;amordazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;amordazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;amordaz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

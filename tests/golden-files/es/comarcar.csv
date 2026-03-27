@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;comarca;;(usted) ;;;comarque;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;comarques;;(usted) ;no ;;comarque;;(nosotros) //(nosotras) ;no ;;comarquemos;;(vosotros) //(vosotras) ;no ;;comarquéis;;(ustedes) ;no ;;comarquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;comarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;comarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;comarc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

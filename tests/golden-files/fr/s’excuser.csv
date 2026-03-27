@@ -23,6 +23,6 @@ Impératif Présent;impératif;;;;;;;(tu) ;;;excuse-toi;;;;;;;(nous) ;;;excusons
 Impératif Négatif;impératif;;;;;;;(tu) ;ne ;t’;excuse pas ;;;;;;;(nous) ;ne ;nous ;excusons pas ;;(vous) ;ne ;vous ;excusez pas ;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;true;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;excuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;excuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;excus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

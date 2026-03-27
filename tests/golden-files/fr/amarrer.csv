@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;amarre pas ;;;;;;;(nous) ;n';;ama
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas amarré;;;;;;;(nous) ;n';;ayons pas amarré;;(vous) ;n';;ayez pas amarré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;amarrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;amarrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;amarr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bebe;;(usted) ;;;beba;;(nosotros
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bebas;;(usted) ;no ;;beba;;(nosotros) //(nosotras) ;no ;;bebamos;;(vosotros) //(vosotras) ;no ;;bebáis;;(ustedes) ;no ;;beban;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;beber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;beber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;beb;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

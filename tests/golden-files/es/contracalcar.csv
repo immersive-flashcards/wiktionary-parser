@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contracalca;;(usted) ;;;contraca
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contracalques;;(usted) ;no ;;contracalque;;(nosotros) //(nosotras) ;no ;;contracalquemos;;(vosotros) //(vosotras) ;no ;;contracalquéis;;(ustedes) ;no ;;contracalquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;contracalcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;contracalcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;contracalc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

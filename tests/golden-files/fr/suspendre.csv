@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;suspends pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas suspendu;;;;;;;(nous) ;n';;ayons pas suspendu;;(vous) ;n';;ayez pas suspendu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;suspendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;suspendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;suspend;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

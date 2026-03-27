@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aprisca;;(usted) ;;;aprisque;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aprisques;;(usted) ;no ;;aprisque;;(nosotros) //(nosotras) ;no ;;aprisquemos;;(vosotros) //(vosotras) ;no ;;aprisquéis;;(ustedes) ;no ;;aprisquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;apriscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;apriscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aprisc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

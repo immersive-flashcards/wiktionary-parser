@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;connais pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas connu;;;;;;;(nous) ;n';;ayons pas connu;;(vous) ;n';;ayez pas connu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;connaitre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;connaitre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;connait;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

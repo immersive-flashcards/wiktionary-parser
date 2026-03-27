@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bufoniza;;(usted) ;;;bufonice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bufonices;;(usted) ;no ;;bufonice;;(nosotros) //(nosotras) ;no ;;bufonicemos;;(vosotros) //(vosotras) ;no ;;bufonicéis;;(ustedes) ;no ;;bufonicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bufonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bufonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bufoniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

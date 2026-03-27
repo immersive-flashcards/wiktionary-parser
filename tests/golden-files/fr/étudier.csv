@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;étudie pas ;;;;;;;(nous) ;n';;é
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas étudié;;;;;;;(nous) ;n';;ayons pas étudié;;(vous) ;n';;ayez pas étudié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;étudier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;étudier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;étudi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

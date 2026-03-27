@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sors pas ;;;;;;;(nous) ;ne ;;sor
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas sorti;;;;;;;(nous) ;ne ;;soyons pas sortis;;(vous) ;ne ;;soyez pas sortis;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;sortir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;sortir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;sort;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

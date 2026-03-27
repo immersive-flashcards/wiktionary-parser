@@ -21,7 +21,7 @@ Condicional Perfecto;condicional;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 Imperativo Afirmativo;imperativo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;atardecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;atardecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;atardec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

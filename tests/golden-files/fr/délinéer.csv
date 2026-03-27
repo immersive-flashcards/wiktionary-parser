@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;délinée pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas délinéé;;;;;;;(nous) ;n';;ayons pas délinéé;;(vous) ;n';;ayez pas délinéé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;délinéer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;délinéer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;déliné;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

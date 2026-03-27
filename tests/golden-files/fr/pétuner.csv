@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;pétune pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas pétuné;;;;;;;(nous) ;n';;ayons pas pétuné;;(vous) ;n';;ayez pas pétuné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;pétuner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;pétuner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;pétun;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

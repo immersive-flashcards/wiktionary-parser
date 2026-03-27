@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;radoube pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas radoubé;;;;;;;(nous) ;n';;ayons pas radoubé;;(vous) ;n';;ayez pas radoubé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;radouber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;radouber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;radoub;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

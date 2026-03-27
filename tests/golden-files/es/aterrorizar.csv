@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aterroriza;;(usted) ;;;aterroric
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aterrorices;;(usted) ;no ;;aterrorice;;(nosotros) //(nosotras) ;no ;;aterroricemos;;(vosotros) //(vosotras) ;no ;;aterroricéis;;(ustedes) ;no ;;aterroricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aterrorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aterrorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aterroriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

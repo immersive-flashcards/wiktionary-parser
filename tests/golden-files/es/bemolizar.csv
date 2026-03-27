@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bemoliza;;(usted) ;;;bemolice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bemolices;;(usted) ;no ;;bemolice;;(nosotros) //(nosotras) ;no ;;bemolicemos;;(vosotros) //(vosotras) ;no ;;bemolicéis;;(ustedes) ;no ;;bemolicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bemolizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bemolizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bemoliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;prête pas ;;;;;;;(nous) ;ne ;;p
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas prêté;;;;;;;(nous) ;n';;ayons pas prêté;;(vous) ;n';;ayez pas prêté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;prêter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;prêter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;prêt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aurifica;;(usted) ;;;aurifique;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aurifiques;;(usted) ;no ;;aurifique;;(nosotros) //(nosotras) ;no ;;aurifiquemos;;(vosotros) //(vosotras) ;no ;;aurifiquéis;;(ustedes) ;no ;;aurifiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aurificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aurificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aurific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

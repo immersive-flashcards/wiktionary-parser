@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aguaza;;(usted) ;;;aguace;;(noso
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aguaces;;(usted) ;no ;;aguace;;(nosotros) //(nosotras) ;no ;;aguacemos;;(vosotros) //(vosotras) ;no ;;aguacéis;;(ustedes) ;no ;;aguacen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aguazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aguazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aguaz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

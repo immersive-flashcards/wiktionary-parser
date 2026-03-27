@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;traduis pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas traduit;;;;;;;(nous) ;n';;ayons pas traduit;;(vous) ;n';;ayez pas traduit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;traduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;traduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;tradui;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

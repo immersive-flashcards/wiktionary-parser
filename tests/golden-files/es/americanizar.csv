@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;americaniza;;(usted) ;;;american
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;americanices;;(usted) ;no ;;americanice;;(nosotros) //(nosotras) ;no ;;americanicemos;;(vosotros) //(vosotras) ;no ;;americanicéis;;(ustedes) ;no ;;americanicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;americanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;americanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;americaniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

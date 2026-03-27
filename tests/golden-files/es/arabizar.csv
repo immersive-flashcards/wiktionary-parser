@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arabiza;;(usted) ;;;arabice;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;arabices;;(usted) ;no ;;arabice;;(nosotros) //(nosotras) ;no ;;arabicemos;;(vosotros) //(vosotras) ;no ;;arabicéis;;(ustedes) ;no ;;arabicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;arabizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;arabizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;arabiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

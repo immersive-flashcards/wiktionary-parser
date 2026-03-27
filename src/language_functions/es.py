@@ -13,6 +13,16 @@ def merge_tu_vos_if_equal(row: dict[str, Any]):
             row.pop(k, None)
 
 
+def force_merge_vos_subjunctive(row: dict[str, Any]):
+    """Join tú and vos forms if for the Subjuntivo Presente - its voseo form is archaic and shouldn't be used"""
+    if row.get("key") == "Subjuntivo Presente" and row.get("conjugation-7"):
+        row["pronoun-2"] += "//" + row["pronoun-7"]
+
+        # remove vos form columns
+        for k in ["conjunction-7", "pronoun-7", "negation-7", "refl_pronoun-7", "conjugation-7"]:
+            row.pop(k, None)
+
+
 def create_spanish_negative_imperative(rows: list[dict[str, Any]]):
     """Add negative imperative forms == subjuntivo forms"""
     row = next(r for r in rows if r.get("key") == "Subjuntivo Presente").copy()

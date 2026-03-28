@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;donne pas ;;;;;;;(nous) ;ne ;;do
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas donné;;;;;;;(nous) ;n';;ayons pas donné;;(vous) ;n';;ayez pas donné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;donner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;donner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;donn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

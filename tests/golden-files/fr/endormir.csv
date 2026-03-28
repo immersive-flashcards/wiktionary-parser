@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;endors pas ;;;;;;;(nous) ;n';;end
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas endormi;;;;;;;(nous) ;n';;ayons pas endormi;;(vous) ;n';;ayez pas endormi;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;endormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;endormir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;endorm;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;capitonne pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas capitonné;;;;;;;(nous) ;n';;ayons pas capitonné;;(vous) ;n';;ayez pas capitonné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;capitonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;capitonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;capitonn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

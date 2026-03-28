@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;brutaliza;;(usted) ;;;brutalice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;brutalices;;(usted) ;no ;;brutalice;;(nosotros) //(nosotras) ;no ;;brutalicemos;;(vosotros) //(vosotras) ;no ;;brutalicéis;;(ustedes) ;no ;;brutalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;brutalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;brutalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;brutaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

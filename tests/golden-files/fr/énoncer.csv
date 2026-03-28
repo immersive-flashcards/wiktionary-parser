@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;énonce pas ;;;;;;;(nous) ;n';;é
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas énoncé;;;;;;;(nous) ;n';;ayons pas énoncé;;(vous) ;n';;ayez pas énoncé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;énoncer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;énoncer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;énonc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;accuse pas ;;;;;;;(nous) ;n';;acc
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas accusé;;;;;;;(nous) ;n';;ayons pas accusé;;(vous) ;n';;ayez pas accusé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;accuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;accuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;accus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

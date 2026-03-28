@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;claudica;;(usted) ;;;claudique;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;claudiques;;(usted) ;no ;;claudique;;(nosotros) //(nosotras) ;no ;;claudiquemos;;(vosotros) //(vosotras) ;no ;;claudiquéis;;(ustedes) ;no ;;claudiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;claudicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;claudicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;claudic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

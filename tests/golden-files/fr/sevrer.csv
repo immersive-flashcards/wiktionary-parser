@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sèvre pas ;;;;;;;(nous) ;ne ;;s
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas sevré;;;;;;;(nous) ;n';;ayons pas sevré;;(vous) ;n';;ayez pas sevré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;sevrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;sevrer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;sevr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

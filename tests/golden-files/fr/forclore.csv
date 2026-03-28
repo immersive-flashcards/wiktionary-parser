@@ -22,6 +22,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;forclos pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas forclos;;;;;;;(nous) ;n';;ayons pas forclos;;(vous) ;n';;ayez pas forclos;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;forclore;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;forclore;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;forclo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

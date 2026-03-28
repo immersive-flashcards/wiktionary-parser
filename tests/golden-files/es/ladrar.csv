@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;ladra;;(usted) ;;;ladre;;(nosotr
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;ladres;;(usted) ;no ;;ladre;;(nosotros) //(nosotras) ;no ;;ladremos;;(vosotros) //(vosotras) ;no ;;ladréis;;(ustedes) ;no ;;ladren;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ladrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ladrar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ladr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

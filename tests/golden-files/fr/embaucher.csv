@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;embauche pas ;;;;;;;(nous) ;n';;e
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas embauché;;;;;;;(nous) ;n';;ayons pas embauché;;(vous) ;n';;ayez pas embauché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;embaucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;embaucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;embauch;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

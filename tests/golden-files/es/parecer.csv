@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;parece;;(usted) ;;;parezca;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;parezcas;;(usted) ;no ;;parezca;;(nosotros) //(nosotras) ;no ;;parezcamos;;(vosotros) //(vosotras) ;no ;;parezcáis;;(ustedes) ;no ;;parezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;parecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;parec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

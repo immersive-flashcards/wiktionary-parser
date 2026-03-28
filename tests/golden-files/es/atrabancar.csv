@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;atrabanca;;(usted) ;;;atrabanque
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;atrabanques;;(usted) ;no ;;atrabanque;;(nosotros) //(nosotras) ;no ;;atrabanquemos;;(vosotros) //(vosotras) ;no ;;atrabanquéis;;(ustedes) ;no ;;atrabanquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;atrabancar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;atrabancar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;atrabanc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

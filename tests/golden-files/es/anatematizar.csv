@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anatematiza;;(usted) ;;;anatemat
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;anatematices;;(usted) ;no ;;anatematice;;(nosotros) //(nosotras) ;no ;;anatematicemos;;(vosotros) //(vosotras) ;no ;;anatematicéis;;(ustedes) ;no ;;anatematicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;anatematizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;anatematizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;anatematiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

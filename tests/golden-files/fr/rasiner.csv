@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rasine pas ;;;;;;;(nous) ;ne ;;r
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas rasiné;;;;;;;(nous) ;n';;ayons pas rasiné;;(vous) ;n';;ayez pas rasiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;rasiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;rasiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;rasin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

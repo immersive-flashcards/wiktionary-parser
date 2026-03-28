@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;abandonne pas ;;;;;;;(nous) ;n';;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas abandonné;;;;;;;(nous) ;n';;ayons pas abandonné;;(vous) ;n';;ayez pas abandonné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abandonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abandonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abandonn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

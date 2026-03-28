@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;amohece;;(usted) ;;;amohezca;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;amohezcas;;(usted) ;no ;;amohezca;;(nosotros) //(nosotras) ;no ;;amohezcamos;;(vosotros) //(vosotras) ;no ;;amohezcáis;;(ustedes) ;no ;;amohezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;amohecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;amohecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;amohec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

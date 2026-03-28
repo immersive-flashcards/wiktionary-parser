@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arterializa;;(usted) ;;;arterial
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;arterialices;;(usted) ;no ;;arterialice;;(nosotros) //(nosotras) ;no ;;arterialicemos;;(vosotros) //(vosotras) ;no ;;arterialicéis;;(ustedes) ;no ;;arterialicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;arterializar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;arterializar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;arterializ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

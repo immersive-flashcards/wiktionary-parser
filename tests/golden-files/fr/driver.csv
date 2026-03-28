@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;drive pas ;;;;;;;(nous) ;ne ;;dr
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas drivé;;;;;;;(nous) ;n';;ayons pas drivé;;(vous) ;n';;ayez pas drivé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;driver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;driver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;driv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

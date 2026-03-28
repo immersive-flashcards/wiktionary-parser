@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;crece;;(usted) ;;;crezca;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;crezcas;;(usted) ;no ;;crezca;;(nosotros) //(nosotras) ;no ;;crezcamos;;(vosotros) //(vosotras) ;no ;;crezcáis;;(ustedes) ;no ;;crezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;crecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;crecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;crec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

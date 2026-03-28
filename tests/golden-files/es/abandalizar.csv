@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abandaliza;;(usted) ;;;abandalic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abandalices;;(usted) ;no ;;abandalice;;(nosotros) //(nosotras) ;no ;;abandalicemos;;(vosotros) //(vosotras) ;no ;;abandalicéis;;(ustedes) ;no ;;abandalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abandalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abandalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abandaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

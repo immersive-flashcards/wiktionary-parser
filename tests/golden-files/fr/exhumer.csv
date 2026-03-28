@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;exhume pas ;;;;;;;(nous) ;n';;exh
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas exhumé;;;;;;;(nous) ;n';;ayons pas exhumé;;(vous) ;n';;ayez pas exhumé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;exhumer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;exhumer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;exhum;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

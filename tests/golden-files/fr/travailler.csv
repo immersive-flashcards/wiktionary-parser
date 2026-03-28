@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;travaille pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas travaillé;;;;;;;(nous) ;n';;ayons pas travaillé;;(vous) ;n';;ayez pas travaillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;travailler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;travailler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;travaill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

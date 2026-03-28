@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;analiza;;(usted) ;;;analice;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;analices;;(usted) ;no ;;analice;;(nosotros) //(nosotras) ;no ;;analicemos;;(vosotros) //(vosotras) ;no ;;analicéis;;(ustedes) ;no ;;analicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;analizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;analizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;analiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

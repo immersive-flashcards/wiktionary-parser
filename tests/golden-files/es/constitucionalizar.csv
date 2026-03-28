@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;constitucionaliza;;(usted) ;;;co
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;constitucionalices;;(usted) ;no ;;constitucionalice;;(nosotros) //(nosotras) ;no ;;constitucionalicemos;;(vosotros) //(vosotras) ;no ;;constitucionalicéis;;(ustedes) ;no ;;constitucionalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;constitucionalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;constitucionalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;constitucionaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

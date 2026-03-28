@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cateteriza;;(usted) ;;;cateteric
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cateterices;;(usted) ;no ;;cateterice;;(nosotros) //(nosotras) ;no ;;catetericemos;;(vosotros) //(vosotras) ;no ;;catetericéis;;(ustedes) ;no ;;catetericen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cateterizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cateterizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cateteriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

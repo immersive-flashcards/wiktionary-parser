@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;caracteriza;;(usted) ;;;caracter
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;caracterices;;(usted) ;no ;;caracterice;;(nosotros) //(nosotras) ;no ;;caractericemos;;(vosotros) //(vosotras) ;no ;;caractericéis;;(ustedes) ;no ;;caractericen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;caracterizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;caracterizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;caracteriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

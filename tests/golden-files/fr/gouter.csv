@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;goute pas ;;;;;;;(nous) ;ne ;;go
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas gouté;;;;;;;(nous) ;n';;ayons pas gouté;;(vous) ;n';;ayez pas gouté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;gouter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;gouter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;gout;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

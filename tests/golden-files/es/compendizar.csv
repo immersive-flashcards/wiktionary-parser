@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;compendiza;;(usted) ;;;compendic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;compendices;;(usted) ;no ;;compendice;;(nosotros) //(nosotras) ;no ;;compendicemos;;(vosotros) //(vosotras) ;no ;;compendicéis;;(ustedes) ;no ;;compendicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;compendizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;compendizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;compendiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

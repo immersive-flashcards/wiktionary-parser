@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;casse pas ;;;;;;;(nous) ;ne ;;ca
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas cassé;;;;;;;(nous) ;n';;ayons pas cassé;;(vous) ;n';;ayez pas cassé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;casser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;casser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cass;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

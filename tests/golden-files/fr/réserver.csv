@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;réserve pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas réservé;;;;;;;(nous) ;n';;ayons pas réservé;;(vous) ;n';;ayez pas réservé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;réserver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;réserver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;réserv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

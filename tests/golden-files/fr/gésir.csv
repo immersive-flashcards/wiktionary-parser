@@ -20,6 +20,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gis pas ;;;;;;;(nous) ;ne ;;giso
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas gis;;;;;;;(nous) ;n';;ayons pas gis;;(vous) ;n';;ayez pas gis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;gésir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;gésir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;gés;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

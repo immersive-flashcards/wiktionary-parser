@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arenca;;(usted) ;;;arenque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;arenques;;(usted) ;no ;;arenque;;(nosotros) //(nosotras) ;no ;;arenquemos;;(vosotros) //(vosotras) ;no ;;arenquéis;;(ustedes) ;no ;;arenquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;arencar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;arencar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;arenc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

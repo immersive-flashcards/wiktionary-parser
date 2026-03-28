@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;viens pas ;;;;;;;(nous) ;ne ;;ve
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas venu;;;;;;;(nous) ;ne ;;soyons pas venus;;(vous) ;ne ;;soyez pas venus;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;venir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;venir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ven;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

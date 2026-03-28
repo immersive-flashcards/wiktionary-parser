@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;imite pas ;;;;;;;(nous) ;n';;imit
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas imité;;;;;;;(nous) ;n';;ayons pas imité;;(vous) ;n';;ayez pas imité;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;imiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;imiter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;imit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

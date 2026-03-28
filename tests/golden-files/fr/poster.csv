@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;poste pas ;;;;;;;(nous) ;ne ;;po
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas posté;;;;;;;(nous) ;n';;ayons pas posté;;(vous) ;n';;ayez pas posté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;poster;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;poster;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;post;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

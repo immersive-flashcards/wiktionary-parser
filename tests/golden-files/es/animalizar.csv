@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;animaliza;;(usted) ;;;animalice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;animalices;;(usted) ;no ;;animalice;;(nosotros) //(nosotras) ;no ;;animalicemos;;(vosotros) //(vosotras) ;no ;;animalicéis;;(ustedes) ;no ;;animalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;animalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;animalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;animaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

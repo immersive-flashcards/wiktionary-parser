@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adolece;;(usted) ;;;adolezca;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adolezcas;;(usted) ;no ;;adolezca;;(nosotros) //(nosotras) ;no ;;adolezcamos;;(vosotros) //(vosotras) ;no ;;adolezcáis;;(ustedes) ;no ;;adolezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;adolecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;adolecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;adolec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

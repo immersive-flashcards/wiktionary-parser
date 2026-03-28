@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adverbializa;;(usted) ;;;adverbi
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adverbialices;;(usted) ;no ;;adverbialice;;(nosotros) //(nosotras) ;no ;;adverbialicemos;;(vosotros) //(vosotras) ;no ;;adverbialicéis;;(ustedes) ;no ;;adverbialicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;adverbializar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;adverbializar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;adverbializ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

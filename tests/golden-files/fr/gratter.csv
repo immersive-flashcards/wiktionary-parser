@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gratte pas ;;;;;;;(nous) ;ne ;;g
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas gratté;;;;;;;(nous) ;n';;ayons pas gratté;;(vous) ;n';;ayez pas gratté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;gratter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;gratter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;gratt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

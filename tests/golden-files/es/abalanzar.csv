@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abalanza;;(usted) ;;;abalance;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abalances;;(usted) ;no ;;abalance;;(nosotros) //(nosotras) ;no ;;abalancemos;;(vosotros) //(vosotras) ;no ;;abalancéis;;(ustedes) ;no ;;abalancen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abalanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abalanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abalanz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

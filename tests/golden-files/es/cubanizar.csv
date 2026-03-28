@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cubaniza;;(usted) ;;;cubanice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cubanices;;(usted) ;no ;;cubanice;;(nosotros) //(nosotras) ;no ;;cubanicemos;;(vosotros) //(vosotras) ;no ;;cubanicéis;;(ustedes) ;no ;;cubanicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cubanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cubanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cubaniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

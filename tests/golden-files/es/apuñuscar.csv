@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apuñusca;;(usted) ;;;apuñusque
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apuñusques;;(usted) ;no ;;apuñusque;;(nosotros) //(nosotras) ;no ;;apuñusquemos;;(vosotros) //(vosotras) ;no ;;apuñusquéis;;(ustedes) ;no ;;apuñusquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;apuñuscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;apuñuscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;apuñusc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

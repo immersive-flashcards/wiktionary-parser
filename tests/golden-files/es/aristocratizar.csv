@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aristocratiza;;(usted) ;;;aristo
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aristocratices;;(usted) ;no ;;aristocratice;;(nosotros) //(nosotras) ;no ;;aristocraticemos;;(vosotros) //(vosotras) ;no ;;aristocraticéis;;(ustedes) ;no ;;aristocraticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aristocratizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aristocratizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aristocratiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

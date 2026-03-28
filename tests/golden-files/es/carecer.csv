@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;carece;;(usted) ;;;carezca;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;carezcas;;(usted) ;no ;;carezca;;(nosotros) //(nosotras) ;no ;;carezcamos;;(vosotros) //(vosotras) ;no ;;carezcáis;;(ustedes) ;no ;;carezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;carecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;carecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;carec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

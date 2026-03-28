@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;déplace pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas déplacé;;;;;;;(nous) ;n';;ayons pas déplacé;;(vous) ;n';;ayez pas déplacé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;déplacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;déplacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;déplac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

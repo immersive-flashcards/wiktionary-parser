@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;rêve pas ;;;;;;;(nous) ;ne ;;r�
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas rêvé;;;;;;;(nous) ;n';;ayons pas rêvé;;(vous) ;n';;ayez pas rêvé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;rêver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;rêver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;rêv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

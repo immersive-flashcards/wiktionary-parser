@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cruza;;(usted) ;;;cruce;;(nosotr
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cruces;;(usted) ;no ;;cruce;;(nosotros) //(nosotras) ;no ;;crucemos;;(vosotros) //(vosotras) ;no ;;crucéis;;(ustedes) ;no ;;crucen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cruzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cruzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cruz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

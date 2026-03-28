@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sache pas ;;;;;;;(nous) ;ne ;;sa
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas su;;;;;;;(nous) ;n';;ayons pas su;;(vous) ;n';;ayez pas su;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;savoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;savoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;sav;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;oir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

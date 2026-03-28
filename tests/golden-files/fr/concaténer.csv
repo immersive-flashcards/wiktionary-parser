@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;concatène pas ;;;;;;;(nous) ;ne
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas concaténé;;;;;;;(nous) ;n';;ayons pas concaténé;;(vous) ;n';;ayez pas concaténé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;concaténer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;concaténer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;concatén;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

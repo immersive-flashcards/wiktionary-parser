@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;concientiza;;(usted) ;;;concient
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;concientices;;(usted) ;no ;;concientice;;(nosotros) //(nosotras) ;no ;;concienticemos;;(vosotros) //(vosotras) ;no ;;concienticéis;;(ustedes) ;no ;;concienticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;concientizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;concientizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;concientiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

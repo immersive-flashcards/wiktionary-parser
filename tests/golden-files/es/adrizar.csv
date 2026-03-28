@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adriza;;(usted) ;;;adrice;;(noso
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adrices;;(usted) ;no ;;adrice;;(nosotros) //(nosotras) ;no ;;adricemos;;(vosotros) //(vosotras) ;no ;;adricéis;;(ustedes) ;no ;;adricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;adrizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;adrizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;adriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

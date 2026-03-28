@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contemporiza;;(usted) ;;;contemp
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contemporices;;(usted) ;no ;;contemporice;;(nosotros) //(nosotras) ;no ;;contemporicemos;;(vosotros) //(vosotras) ;no ;;contemporicéis;;(ustedes) ;no ;;contemporicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;contemporizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;contemporizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;contemporiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

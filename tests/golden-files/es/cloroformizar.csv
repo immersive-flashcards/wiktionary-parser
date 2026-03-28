@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cloroformiza;;(usted) ;;;clorofo
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cloroformices;;(usted) ;no ;;cloroformice;;(nosotros) //(nosotras) ;no ;;cloroformicemos;;(vosotros) //(vosotras) ;no ;;cloroformicéis;;(ustedes) ;no ;;cloroformicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cloroformizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cloroformizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cloroformiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

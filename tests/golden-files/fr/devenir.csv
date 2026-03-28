@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;deviens pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas devenu;;;;;;;(nous) ;ne ;;soyons pas devenus;;(vous) ;ne ;;soyez pas devenus;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;devenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;devenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;deven;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

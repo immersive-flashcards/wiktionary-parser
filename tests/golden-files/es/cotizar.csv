@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cotiza;;(usted) ;;;cotice;;(noso
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cotices;;(usted) ;no ;;cotice;;(nosotros) //(nosotras) ;no ;;coticemos;;(vosotros) //(vosotras) ;no ;;coticéis;;(ustedes) ;no ;;coticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cotizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cotizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cotiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

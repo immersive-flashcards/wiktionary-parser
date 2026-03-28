@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cicatriza;;(usted) ;;;cicatrice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cicatrices;;(usted) ;no ;;cicatrice;;(nosotros) //(nosotras) ;no ;;cicatricemos;;(vosotros) //(vosotras) ;no ;;cicatricéis;;(ustedes) ;no ;;cicatricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cicatrizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cicatrizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cicatriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

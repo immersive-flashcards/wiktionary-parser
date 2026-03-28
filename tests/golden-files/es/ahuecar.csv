@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;ahueca;;(usted) ;;;ahueque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;ahueques;;(usted) ;no ;;ahueque;;(nosotros) //(nosotras) ;no ;;ahuequemos;;(vosotros) //(vosotras) ;no ;;ahuequéis;;(ustedes) ;no ;;ahuequen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ahuecar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ahuecar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ahuec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

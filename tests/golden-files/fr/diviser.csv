@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;divise pas ;;;;;;;(nous) ;ne ;;d
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas divisé;;;;;;;(nous) ;n';;ayons pas divisé;;(vous) ;n';;ayez pas divisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;diviser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;diviser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;divis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

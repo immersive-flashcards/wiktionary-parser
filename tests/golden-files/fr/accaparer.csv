@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;accapare pas ;;;;;;;(nous) ;n';;a
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas accaparé;;;;;;;(nous) ;n';;ayons pas accaparé;;(vous) ;n';;ayez pas accaparé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;accaparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;accaparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;accapar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

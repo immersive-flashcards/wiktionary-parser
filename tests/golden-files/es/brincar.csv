@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;brinca;;(usted) ;;;brinque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;brinques;;(usted) ;no ;;brinque;;(nosotros) //(nosotras) ;no ;;brinquemos;;(vosotros) //(vosotras) ;no ;;brinquéis;;(ustedes) ;no ;;brinquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;brincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;brincar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;brinc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;conoce;;(usted) ;;;conozca;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;conozcas;;(usted) ;no ;;conozca;;(nosotros) //(nosotras) ;no ;;conozcamos;;(vosotros) //(vosotras) ;no ;;conozcáis;;(ustedes) ;no ;;conozcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;conocer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;conocer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;conoc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

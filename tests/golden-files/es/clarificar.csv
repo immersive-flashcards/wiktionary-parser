@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;clarifica;;(usted) ;;;clarifique
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;clarifiques;;(usted) ;no ;;clarifique;;(nosotros) //(nosotras) ;no ;;clarifiquemos;;(vosotros) //(vosotras) ;no ;;clarifiquéis;;(ustedes) ;no ;;clarifiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;clarificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;clarificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;clarific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

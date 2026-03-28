@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;compute pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas computé;;;;;;;(nous) ;n';;ayons pas computé;;(vous) ;n';;ayez pas computé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;computer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;computer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;comput;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;anglaise pas ;;;;;;;(nous) ;n';;a
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas anglaisé;;;;;;;(nous) ;n';;ayons pas anglaisé;;(vous) ;n';;ayez pas anglaisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;anglaiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;anglaiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;anglais;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

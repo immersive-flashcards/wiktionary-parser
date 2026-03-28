@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;conculca;;(usted) ;;;conculque;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;conculques;;(usted) ;no ;;conculque;;(nosotros) //(nosotras) ;no ;;conculquemos;;(vosotros) //(vosotras) ;no ;;conculquéis;;(ustedes) ;no ;;conculquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;conculcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;conculcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;conculc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

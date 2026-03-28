@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adulza;;(usted) ;;;adulce;;(noso
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adulces;;(usted) ;no ;;adulce;;(nosotros) //(nosotras) ;no ;;adulcemos;;(vosotros) //(vosotras) ;no ;;adulcéis;;(ustedes) ;no ;;adulcen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;adulzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;adulzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;adulz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;augmente pas ;;;;;;;(nous) ;n';;a
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas augmenté;;;;;;;(nous) ;n';;ayons pas augmenté;;(vous) ;n';;ayez pas augmenté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;augmenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;augmenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;augment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

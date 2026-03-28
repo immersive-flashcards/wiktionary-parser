@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anecdotiza;;(usted) ;;;anecdotic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;anecdotices;;(usted) ;no ;;anecdotice;;(nosotros) //(nosotras) ;no ;;anecdoticemos;;(vosotros) //(vosotras) ;no ;;anecdoticéis;;(ustedes) ;no ;;anecdoticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;anecdotizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;anecdotizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;anecdotiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

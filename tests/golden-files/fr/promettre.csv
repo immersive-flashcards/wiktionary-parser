@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;promets pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas promis;;;;;;;(nous) ;n';;ayons pas promis;;(vous) ;n';;ayez pas promis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;promettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;promettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;promett;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

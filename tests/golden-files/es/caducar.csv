@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;caduca;;(usted) ;;;caduque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;caduques;;(usted) ;no ;;caduque;;(nosotros) //(nosotras) ;no ;;caduquemos;;(vosotros) //(vosotras) ;no ;;caduquéis;;(ustedes) ;no ;;caduquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;caducar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;caducar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;caduc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

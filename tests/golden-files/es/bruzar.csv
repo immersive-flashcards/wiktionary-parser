@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bruza;;(usted) ;;;bruce;;(nosotr
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bruces;;(usted) ;no ;;bruce;;(nosotros) //(nosotras) ;no ;;brucemos;;(vosotros) //(vosotras) ;no ;;brucéis;;(ustedes) ;no ;;brucen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bruzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bruzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bruz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

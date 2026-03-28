@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;gagne pas ;;;;;;;(nous) ;ne ;;ga
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas gagné;;;;;;;(nous) ;n';;ayons pas gagné;;(vous) ;n';;ayez pas gagné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;gagner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;gagner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;gagn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fournis pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas fourni;;;;;;;(nous) ;n';;ayons pas fourni;;(vous) ;n';;ayez pas fourni;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;fournir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;fournir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;fourn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

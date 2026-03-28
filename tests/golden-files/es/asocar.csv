@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;asoca;;(usted) ;;;asoque;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;asoques;;(usted) ;no ;;asoque;;(nosotros) //(nosotras) ;no ;;asoquemos;;(vosotros) //(vosotras) ;no ;;asoquéis;;(ustedes) ;no ;;asoquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;asocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;asocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;asoc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

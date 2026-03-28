@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mélange pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas mélangé;;;;;;;(nous) ;n';;ayons pas mélangé;;(vous) ;n';;ayez pas mélangé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;mélanger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;mélanger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;mélang;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

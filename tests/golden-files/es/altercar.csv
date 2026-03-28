@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;alterca;;(usted) ;;;alterque;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;alterques;;(usted) ;no ;;alterque;;(nosotros) //(nosotras) ;no ;;alterquemos;;(vosotros) //(vosotras) ;no ;;alterquéis;;(ustedes) ;no ;;alterquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;altercar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;altercar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;alterc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

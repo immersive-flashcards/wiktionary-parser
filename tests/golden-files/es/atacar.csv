@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;ataca;;(usted) ;;;ataque;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;ataques;;(usted) ;no ;;ataque;;(nosotros) //(nosotras) ;no ;;ataquemos;;(vosotros) //(vosotras) ;no ;;ataquéis;;(ustedes) ;no ;;ataquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;atacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;atacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;atac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

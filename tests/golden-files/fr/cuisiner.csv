@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;cuisine pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas cuisiné;;;;;;;(nous) ;n';;ayons pas cuisiné;;(vous) ;n';;ayez pas cuisiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cuisiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cuisiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cuisin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

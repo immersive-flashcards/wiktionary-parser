@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anarquiza;;(usted) ;;;anarquice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;anarquices;;(usted) ;no ;;anarquice;;(nosotros) //(nosotras) ;no ;;anarquicemos;;(vosotros) //(vosotras) ;no ;;anarquicéis;;(ustedes) ;no ;;anarquicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;anarquizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;anarquizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;anarquiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

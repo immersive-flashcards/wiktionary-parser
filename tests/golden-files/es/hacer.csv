@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;haz / hace;;(usted) ;;;haga;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;hagas;;(usted) ;no ;;haga;;(nosotros) //(nosotras) ;no ;;hagamos;;(vosotros) //(vosotras) ;no ;;hagáis;;(ustedes) ;no ;;hagan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;hacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;hacer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;hac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

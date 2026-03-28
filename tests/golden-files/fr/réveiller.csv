@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;réveille pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas réveillé;;;;;;;(nous) ;n';;ayons pas réveillé;;(vous) ;n';;ayez pas réveillé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;réveiller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;réveiller;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;réveill;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

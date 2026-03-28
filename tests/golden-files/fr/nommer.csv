@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;nomme pas ;;;;;;;(nous) ;ne ;;no
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas nommé;;;;;;;(nous) ;n';;ayons pas nommé;;(vous) ;n';;ayez pas nommé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;nommer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;nommer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;nomm;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

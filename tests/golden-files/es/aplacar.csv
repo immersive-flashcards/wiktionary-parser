@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aplaca;;(usted) ;;;aplaque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aplaques;;(usted) ;no ;;aplaque;;(nosotros) //(nosotras) ;no ;;aplaquemos;;(vosotros) //(vosotras) ;no ;;aplaquéis;;(ustedes) ;no ;;aplaquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aplacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aplacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aplac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

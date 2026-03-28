@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;canoniza;;(usted) ;;;canonice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;canonices;;(usted) ;no ;;canonice;;(nosotros) //(nosotras) ;no ;;canonicemos;;(vosotros) //(vosotras) ;no ;;canonicéis;;(ustedes) ;no ;;canonicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;canonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;canonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;canoniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

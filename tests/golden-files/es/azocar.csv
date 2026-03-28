@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;azoca;;(usted) ;;;azoque;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;azoques;;(usted) ;no ;;azoque;;(nosotros) //(nosotras) ;no ;;azoquemos;;(vosotros) //(vosotras) ;no ;;azoquéis;;(ustedes) ;no ;;azoquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;azocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;azocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;azoc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

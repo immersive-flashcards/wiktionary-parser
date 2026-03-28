@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;installe pas ;;;;;;;(nous) ;n';;i
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas installé;;;;;;;(nous) ;n';;ayons pas installé;;(vous) ;n';;ayez pas installé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;installer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;installer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;install;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

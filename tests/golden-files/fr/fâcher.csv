@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fâche pas ;;;;;;;(nous) ;ne ;;f
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas fâché;;;;;;;(nous) ;n';;ayons pas fâché;;(vous) ;n';;ayez pas fâché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;fâcher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;fâcher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;fâch;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

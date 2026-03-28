@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;conduis pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas conduit;;;;;;;(nous) ;n';;ayons pas conduit;;(vous) ;n';;ayez pas conduit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;conduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;conduire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;condui;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

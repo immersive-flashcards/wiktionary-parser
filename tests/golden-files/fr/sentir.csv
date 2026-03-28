@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sens pas ;;;;;;;(nous) ;ne ;;sen
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas senti;;;;;;;(nous) ;n';;ayons pas senti;;(vous) ;n';;ayez pas senti;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;sentir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;sentir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;sent;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;atemoriza;;(usted) ;;;atemorice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;atemorices;;(usted) ;no ;;atemorice;;(nosotros) //(nosotras) ;no ;;atemoricemos;;(vosotros) //(vosotras) ;no ;;atemoricéis;;(ustedes) ;no ;;atemoricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;atemorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;atemorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;atemoriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

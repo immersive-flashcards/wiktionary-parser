@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;afianza;;(usted) ;;;afiance;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;afiances;;(usted) ;no ;;afiance;;(nosotros) //(nosotras) ;no ;;afiancemos;;(vosotros) //(vosotras) ;no ;;afiancéis;;(ustedes) ;no ;;afiancen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;afianzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;afianzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;afianz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

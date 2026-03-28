@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;avoca;;(usted) ;;;avoque;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;avoques;;(usted) ;no ;;avoque;;(nosotros) //(nosotras) ;no ;;avoquemos;;(vosotros) //(vosotras) ;no ;;avoquéis;;(ustedes) ;no ;;avoquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;avocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;avocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;avoc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

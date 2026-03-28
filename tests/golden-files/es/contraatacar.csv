@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contraataca;;(usted) ;;;contraat
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contraataques;;(usted) ;no ;;contraataque;;(nosotros) //(nosotras) ;no ;;contraataquemos;;(vosotros) //(vosotras) ;no ;;contraataquéis;;(ustedes) ;no ;;contraataquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;contraatacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;contraatacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;contraatac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

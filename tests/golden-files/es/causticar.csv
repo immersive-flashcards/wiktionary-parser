@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;caustica;;(usted) ;;;caustique;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;caustiques;;(usted) ;no ;;caustique;;(nosotros) //(nosotras) ;no ;;caustiquemos;;(vosotros) //(vosotras) ;no ;;caustiquéis;;(ustedes) ;no ;;caustiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;causticar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;causticar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;caustic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

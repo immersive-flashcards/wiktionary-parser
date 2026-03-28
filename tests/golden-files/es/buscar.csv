@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;busca;;(usted) ;;;busque;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;busques;;(usted) ;no ;;busque;;(nosotros) //(nosotras) ;no ;;busquemos;;(vosotros) //(vosotras) ;no ;;busquéis;;(ustedes) ;no ;;busquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;buscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;buscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;busc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abaliza;;(usted) ;;;abalice;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abalices;;(usted) ;no ;;abalice;;(nosotros) //(nosotras) ;no ;;abalicemos;;(vosotros) //(vosotras) ;no ;;abalicéis;;(ustedes) ;no ;;abalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

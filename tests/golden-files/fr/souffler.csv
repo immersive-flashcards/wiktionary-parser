@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;souffle pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas soufflé;;;;;;;(nous) ;n';;ayons pas soufflé;;(vous) ;n';;ayez pas soufflé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;souffler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;souffler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;souffl;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

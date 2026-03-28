@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;braise pas ;;;;;;;(nous) ;ne ;;b
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas braisé;;;;;;;(nous) ;n';;ayons pas braisé;;(vous) ;n';;ayez pas braisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;braiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;braiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;brais;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

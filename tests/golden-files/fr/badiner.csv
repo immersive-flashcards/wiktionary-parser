@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;badine pas ;;;;;;;(nous) ;ne ;;b
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas badiné;;;;;;;(nous) ;n';;ayons pas badiné;;(vous) ;n';;ayez pas badiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;badiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;badiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;badin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

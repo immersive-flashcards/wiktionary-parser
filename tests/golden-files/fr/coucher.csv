@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;couche pas ;;;;;;;(nous) ;ne ;;c
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas couché;;;;;;;(nous) ;n';;ayons pas couché;;(vous) ;n';;ayez pas couché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;coucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;coucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;couch;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

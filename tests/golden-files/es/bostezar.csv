@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bosteza;;(usted) ;;;bostece;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bosteces;;(usted) ;no ;;bostece;;(nosotros) //(nosotras) ;no ;;bostecemos;;(vosotros) //(vosotras) ;no ;;bostecéis;;(ustedes) ;no ;;bostecen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bostezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bostezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bostez;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

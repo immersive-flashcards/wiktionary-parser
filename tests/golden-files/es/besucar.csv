@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;besuca;;(usted) ;;;besuque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;besuques;;(usted) ;no ;;besuque;;(nosotros) //(nosotras) ;no ;;besuquemos;;(vosotros) //(vosotras) ;no ;;besuquéis;;(ustedes) ;no ;;besuquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;besucar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;besucar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;besuc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

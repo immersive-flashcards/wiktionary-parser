@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bazuca;;(usted) ;;;bazuque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bazuques;;(usted) ;no ;;bazuque;;(nosotros) //(nosotras) ;no ;;bazuquemos;;(vosotros) //(vosotras) ;no ;;bazuquéis;;(ustedes) ;no ;;bazuquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bazucar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bazucar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bazuc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

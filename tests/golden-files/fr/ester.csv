@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;este pas ;;;;;;;(nous) ;n';;eston
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas esté;;;;;;;(nous) ;n';;ayons pas esté;;(vous) ;n';;ayez pas esté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ester;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ester;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;est;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

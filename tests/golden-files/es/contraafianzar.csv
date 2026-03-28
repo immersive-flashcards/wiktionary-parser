@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contraafianza;;(usted) ;;;contra
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contraafiances;;(usted) ;no ;;contraafiance;;(nosotros) //(nosotras) ;no ;;contraafiancemos;;(vosotros) //(vosotras) ;no ;;contraafiancéis;;(ustedes) ;no ;;contraafiancen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;contraafianzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;contraafianzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;contraafianz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

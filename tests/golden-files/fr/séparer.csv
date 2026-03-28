@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sépare pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas séparé;;;;;;;(nous) ;n';;ayons pas séparé;;(vous) ;n';;ayez pas séparé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;séparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;séparer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;sépar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

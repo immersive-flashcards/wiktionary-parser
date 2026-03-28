@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;lampe pas ;;;;;;;(nous) ;ne ;;la
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas lampé;;;;;;;(nous) ;n';;ayons pas lampé;;(vous) ;n';;ayez pas lampé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;lamper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;lamper;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;lamp;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

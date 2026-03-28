@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;achète pas ;;;;;;;(nous) ;n';;ac
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas acheté;;;;;;;(nous) ;n';;ayons pas acheté;;(vous) ;n';;ayez pas acheté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;acheter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;acheter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;achet;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

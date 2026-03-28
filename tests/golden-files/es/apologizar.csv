@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apologiza;;(usted) ;;;apologice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apologices;;(usted) ;no ;;apologice;;(nosotros) //(nosotras) ;no ;;apologicemos;;(vosotros) //(vosotras) ;no ;;apologicéis;;(ustedes) ;no ;;apologicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;apologizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;apologizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;apologiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

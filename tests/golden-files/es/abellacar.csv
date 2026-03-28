@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abellaca;;(usted) ;;;abellaque;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abellaques;;(usted) ;no ;;abellaque;;(nosotros) //(nosotras) ;no ;;abellaquemos;;(vosotros) //(vosotras) ;no ;;abellaquéis;;(ustedes) ;no ;;abellaquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abellacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abellacar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abellac;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

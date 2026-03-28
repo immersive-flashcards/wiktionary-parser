@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;punis pas ;;;;;;;(nous) ;ne ;;pu
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas puni;;;;;;;(nous) ;n';;ayons pas puni;;(vous) ;n';;ayez pas puni;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;punir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;punir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;pun;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;presse pas ;;;;;;;(nous) ;ne ;;p
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas pressé;;;;;;;(nous) ;n';;ayons pas pressé;;(vous) ;n';;ayez pas pressé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;presser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;presser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;press;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

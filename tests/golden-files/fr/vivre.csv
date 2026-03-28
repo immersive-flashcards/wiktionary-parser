@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vis pas ;;;;;;;(nous) ;ne ;;vivo
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas vécu;;;;;;;(nous) ;n';;ayons pas vécu;;(vous) ;n';;ayez pas vécu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;vivre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;vivre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;viv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

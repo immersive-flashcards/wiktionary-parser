@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;comisca;;(usted) ;;;comisque;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;comisques;;(usted) ;no ;;comisque;;(nosotros) //(nosotras) ;no ;;comisquemos;;(vosotros) //(vosotras) ;no ;;comisquéis;;(ustedes) ;no ;;comisquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;comiscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;comiscar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;comisc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

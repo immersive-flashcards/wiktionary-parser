@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;pee;;(usted) ;;;pea;;(nosotros) 
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;peas;;(usted) ;no ;;pea;;(nosotros) //(nosotras) ;no ;;peamos;;(vosotros) //(vosotras) ;no ;;peáis;;(ustedes) ;no ;;pean;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;peer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;peer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;pe;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

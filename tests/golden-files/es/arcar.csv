@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arca;;(usted) ;;;arque;;(nosotro
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;arques;;(usted) ;no ;;arque;;(nosotros) //(nosotras) ;no ;;arquemos;;(vosotros) //(vosotras) ;no ;;arquéis;;(ustedes) ;no ;;arquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;arcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;arcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;arc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;cesse pas ;;;;;;;(nous) ;ne ;;ce
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas cessé;;;;;;;(nous) ;n';;ayons pas cessé;;(vous) ;n';;ayez pas cessé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cesser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cesser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cess;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

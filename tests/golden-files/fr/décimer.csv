@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;décime pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas décimé;;;;;;;(nous) ;n';;ayons pas décimé;;(vous) ;n';;ayez pas décimé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;décimer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;décimer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;décim;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

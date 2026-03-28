@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;catoliza;;(usted) ;;;catolice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;catolices;;(usted) ;no ;;catolice;;(nosotros) //(nosotras) ;no ;;catolicemos;;(vosotros) //(vosotras) ;no ;;catolicéis;;(ustedes) ;no ;;catolicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;catolizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;catolizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;catoliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

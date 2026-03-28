@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;baratte pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas baratté;;;;;;;(nous) ;n';;ayons pas baratté;;(vous) ;n';;ayez pas baratté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;baratter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;baratter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;baratt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

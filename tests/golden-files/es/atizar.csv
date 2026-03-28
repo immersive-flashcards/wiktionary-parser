@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;atiza;;(usted) ;;;atice;;(nosotr
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;atices;;(usted) ;no ;;atice;;(nosotros) //(nosotras) ;no ;;aticemos;;(vosotros) //(vosotras) ;no ;;aticéis;;(ustedes) ;no ;;aticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;atizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;atizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;atiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

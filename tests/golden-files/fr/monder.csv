@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;monde pas ;;;;;;;(nous) ;ne ;;mo
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas mondé;;;;;;;(nous) ;n';;ayons pas mondé;;(vous) ;n';;ayez pas mondé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;monder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;monder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;mond;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

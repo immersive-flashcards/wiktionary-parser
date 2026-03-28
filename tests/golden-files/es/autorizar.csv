@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;autoriza;;(usted) ;;;autorice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;autorices;;(usted) ;no ;;autorice;;(nosotros) //(nosotras) ;no ;;autoricemos;;(vosotros) //(vosotras) ;no ;;autoricéis;;(ustedes) ;no ;;autoricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;autorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;autorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;autoriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

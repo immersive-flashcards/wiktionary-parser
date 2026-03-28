@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;emmène pas ;;;;;;;(nous) ;n';;em
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas emmené;;;;;;;(nous) ;n';;ayons pas emmené;;(vous) ;n';;ayez pas emmené;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;emmener;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;emmener;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;emmen;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

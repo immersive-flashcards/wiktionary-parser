@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arboriza;;(usted) ;;;arborice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;arborices;;(usted) ;no ;;arborice;;(nosotros) //(nosotras) ;no ;;arboricemos;;(vosotros) //(vosotras) ;no ;;arboricéis;;(ustedes) ;no ;;arboricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;arborizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;arborizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;arboriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

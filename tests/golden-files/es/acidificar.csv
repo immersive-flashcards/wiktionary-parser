@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;acidifica;;(usted) ;;;acidifique
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;acidifiques;;(usted) ;no ;;acidifique;;(nosotros) //(nosotras) ;no ;;acidifiquemos;;(vosotros) //(vosotras) ;no ;;acidifiquéis;;(ustedes) ;no ;;acidifiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;acidificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;acidificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;acidific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

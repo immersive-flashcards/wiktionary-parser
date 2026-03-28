@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;peins pas ;;;;;;;(nous) ;ne ;;pe
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas peint;;;;;;;(nous) ;n';;ayons pas peint;;(vous) ;n';;ayez pas peint;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;peindre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;peindre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;peind;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;dis pas ;;;;;;;(nous) ;ne ;;diso
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas dit;;;;;;;(nous) ;n';;ayons pas dit;;(vous) ;n';;ayez pas dit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;dire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;dire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;di;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

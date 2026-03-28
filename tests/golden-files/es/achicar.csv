@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;achica;;(usted) ;;;achique;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;achiques;;(usted) ;no ;;achique;;(nosotros) //(nosotras) ;no ;;achiquemos;;(vosotros) //(vosotras) ;no ;;achiquéis;;(ustedes) ;no ;;achiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;achicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;achicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;achic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

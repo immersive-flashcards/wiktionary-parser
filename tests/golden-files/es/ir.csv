@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;ve / ves;;(usted) ;;;vaya;;(noso
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;vayas;;(usted) ;no ;;vaya;;(nosotros) //(nosotras) ;no ;;vayamos;;(vosotros) //(vosotras) ;no ;;vayáis;;(ustedes) ;no ;;vayan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;"";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

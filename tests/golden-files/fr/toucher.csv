@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;touche pas ;;;;;;;(nous) ;ne ;;t
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas touché;;;;;;;(nous) ;n';;ayons pas touché;;(vous) ;n';;ayez pas touché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;toucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;toucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;touch;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

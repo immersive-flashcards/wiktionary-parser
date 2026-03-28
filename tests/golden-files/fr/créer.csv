@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;crée pas ;;;;;;;(nous) ;ne ;;cr
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas créé;;;;;;;(nous) ;n';;ayons pas créé;;(vous) ;n';;ayez pas créé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;créer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;créer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

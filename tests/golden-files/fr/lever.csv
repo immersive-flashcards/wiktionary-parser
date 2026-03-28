@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;lève pas ;;;;;;;(nous) ;ne ;;le
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas levé;;;;;;;(nous) ;n';;ayons pas levé;;(vous) ;n';;ayez pas levé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;lever;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;lever;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;lev;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;attends pas ;;;;;;;(nous) ;n';;at
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas attendu;;;;;;;(nous) ;n';;ayons pas attendu;;(vous) ;n';;ayez pas attendu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;attendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;attendre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;attend;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

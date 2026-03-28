@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;trouve pas ;;;;;;;(nous) ;ne ;;t
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas trouvé;;;;;;;(nous) ;n';;ayons pas trouvé;;(vous) ;n';;ayez pas trouvé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;trouver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;trouver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;trouv;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

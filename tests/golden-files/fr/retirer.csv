@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;retire pas ;;;;;;;(nous) ;ne ;;r
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas retiré;;;;;;;(nous) ;n';;ayons pas retiré;;(vous) ;n';;ayez pas retiré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;retirer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;retirer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;retir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;interdis pas ;;;;;;;(nous) ;n';;i
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas interdit;;;;;;;(nous) ;n';;ayons pas interdit;;(vous) ;n';;ayez pas interdit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;interdire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;interdire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;interdi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

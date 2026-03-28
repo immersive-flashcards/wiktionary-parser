@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;utilise pas ;;;;;;;(nous) ;n';;ut
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas utilisé;;;;;;;(nous) ;n';;ayons pas utilisé;;(vous) ;n';;ayez pas utilisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;utiliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;utiliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;utilis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

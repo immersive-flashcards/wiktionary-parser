@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;carga;;(usted) ;;;cargue;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cargues;;(usted) ;no ;;cargue;;(nosotros) //(nosotras) ;no ;;carguemos;;(vosotros) //(vosotras) ;no ;;carguéis;;(ustedes) ;no ;;carguen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cargar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cargar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;carg;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

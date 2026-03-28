@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;satellise pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas satellisé;;;;;;;(nous) ;n';;ayons pas satellisé;;(vous) ;n';;ayez pas satellisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;satelliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;satelliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;satellis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

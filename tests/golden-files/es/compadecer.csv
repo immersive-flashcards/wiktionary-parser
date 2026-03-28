@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;compadece;;(usted) ;;;compadezca
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;compadezcas;;(usted) ;no ;;compadezca;;(nosotros) //(nosotras) ;no ;;compadezcamos;;(vosotros) //(vosotras) ;no ;;compadezcáis;;(ustedes) ;no ;;compadezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;compadecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;compadecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;compadec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

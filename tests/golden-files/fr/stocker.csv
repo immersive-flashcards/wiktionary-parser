@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;stocke pas ;;;;;;;(nous) ;ne ;;s
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas stocké;;;;;;;(nous) ;n';;ayons pas stocké;;(vous) ;n';;ayez pas stocké;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;stocker;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;stocker;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;stock;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

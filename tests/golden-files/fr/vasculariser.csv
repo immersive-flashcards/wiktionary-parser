@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vascularise pas ;;;;;;;(nous) ;n
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas vascularisé;;;;;;;(nous) ;n';;ayons pas vascularisé;;(vous) ;n';;ayez pas vascularisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;vasculariser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;vasculariser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;vascularis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apelmaza;;(usted) ;;;apelmace;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apelmaces;;(usted) ;no ;;apelmace;;(nosotros) //(nosotras) ;no ;;apelmacemos;;(vosotros) //(vosotras) ;no ;;apelmacéis;;(ustedes) ;no ;;apelmacen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;apelmazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;apelmazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;apelmaz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

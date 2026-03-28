@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;désobéis pas ;;;;;;;(nous) ;ne
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas désobéi;;;;;;;(nous) ;n';;ayons pas désobéi;;(vous) ;n';;ayez pas désobéi;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;désobéir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;désobéir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;désobé;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;apalanca;;(usted) ;;;apalanque;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apalanques;;(usted) ;no ;;apalanque;;(nosotros) //(nosotras) ;no ;;apalanquemos;;(vosotros) //(vosotras) ;no ;;apalanquéis;;(ustedes) ;no ;;apalanquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;apalancar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;apalancar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;apalanc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

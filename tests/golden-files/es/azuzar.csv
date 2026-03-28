@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;azuza;;(usted) ;;;azuce;;(nosotr
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;azuces;;(usted) ;no ;;azuce;;(nosotros) //(nosotras) ;no ;;azucemos;;(vosotros) //(vosotras) ;no ;;azucéis;;(ustedes) ;no ;;azucen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;azuzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;azuzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;azuz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

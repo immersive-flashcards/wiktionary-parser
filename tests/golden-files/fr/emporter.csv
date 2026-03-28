@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;emporte pas ;;;;;;;(nous) ;n';;em
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas emporté;;;;;;;(nous) ;n';;ayons pas emporté;;(vous) ;n';;ayez pas emporté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;emporter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;emporter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;emport;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;explore pas ;;;;;;;(nous) ;n';;ex
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas exploré;;;;;;;(nous) ;n';;ayons pas exploré;;(vous) ;n';;ayez pas exploré;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;explorer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;explorer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;explor;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

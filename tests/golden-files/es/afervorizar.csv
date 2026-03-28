@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;afervoriza;;(usted) ;;;afervoric
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;afervorices;;(usted) ;no ;;afervorice;;(nosotros) //(nosotras) ;no ;;afervoricemos;;(vosotros) //(vosotras) ;no ;;afervoricéis;;(ustedes) ;no ;;afervoricen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;afervorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;afervorizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;afervoriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

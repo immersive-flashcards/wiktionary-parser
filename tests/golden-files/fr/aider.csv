@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;aide pas ;;;;;;;(nous) ;n';;aidon
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas aidé;;;;;;;(nous) ;n';;ayons pas aidé;;(vous) ;n';;ayez pas aidé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aider;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aider;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aid;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;contramarca;;(usted) ;;;contrama
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;contramarques;;(usted) ;no ;;contramarque;;(nosotros) //(nosotras) ;no ;;contramarquemos;;(vosotros) //(vosotras) ;no ;;contramarquéis;;(ustedes) ;no ;;contramarquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;contramarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;contramarcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;contramarc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

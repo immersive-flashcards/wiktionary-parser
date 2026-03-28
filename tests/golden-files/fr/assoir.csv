@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;assieds pas ;;;;;;;(nous) ;n';;as
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas assis;;;;;;;(nous) ;n';;ayons pas assis;;(vous) ;n';;ayez pas assis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;assoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;assoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ass;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;oir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

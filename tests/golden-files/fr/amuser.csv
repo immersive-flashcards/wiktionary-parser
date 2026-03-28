@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;amuse pas ;;;;;;;(nous) ;n';;amus
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas amusé;;;;;;;(nous) ;n';;ayons pas amusé;;(vous) ;n';;ayez pas amusé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;amuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;amuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;amus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

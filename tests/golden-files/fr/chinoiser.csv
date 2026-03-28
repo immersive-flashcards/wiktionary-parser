@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;chinoise pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas chinoisé;;;;;;;(nous) ;n';;ayons pas chinoisé;;(vous) ;n';;ayez pas chinoisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;chinoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;chinoiser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;chinois;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

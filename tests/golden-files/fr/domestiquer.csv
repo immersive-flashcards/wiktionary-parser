@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;domestique pas ;;;;;;;(nous) ;ne
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas domestiqué;;;;;;;(nous) ;n';;ayons pas domestiqué;;(vous) ;n';;ayez pas domestiqué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;domestiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;domestiquer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;domestiqu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

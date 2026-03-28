@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;colectiviza;;(usted) ;;;colectiv
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;colectivices;;(usted) ;no ;;colectivice;;(nosotros) //(nosotras) ;no ;;colectivicemos;;(vosotros) //(vosotras) ;no ;;colectivicéis;;(ustedes) ;no ;;colectivicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;colectivizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;colectivizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;colectiviz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

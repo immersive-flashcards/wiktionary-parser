@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;raconte pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas raconté;;;;;;;(nous) ;n';;ayons pas raconté;;(vous) ;n';;ayez pas raconté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;raconter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;raconter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;racont;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

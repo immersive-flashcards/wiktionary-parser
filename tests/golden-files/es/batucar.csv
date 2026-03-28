@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;batuca;;(usted) ;;;batuque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;batuques;;(usted) ;no ;;batuque;;(nosotros) //(nosotras) ;no ;;batuquemos;;(vosotros) //(vosotras) ;no ;;batuquéis;;(ustedes) ;no ;;batuquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;batucar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;batucar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;batuc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

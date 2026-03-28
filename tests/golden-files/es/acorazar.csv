@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;acoraza;;(usted) ;;;acorace;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;acoraces;;(usted) ;no ;;acorace;;(nosotros) //(nosotras) ;no ;;acoracemos;;(vosotros) //(vosotras) ;no ;;acoracéis;;(ustedes) ;no ;;acoracen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;acorazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;acorazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;acoraz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

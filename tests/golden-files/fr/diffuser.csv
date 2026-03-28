@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;diffuse pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas diffusé;;;;;;;(nous) ;n';;ayons pas diffusé;;(vous) ;n';;ayez pas diffusé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;diffuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;diffuser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;diffus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

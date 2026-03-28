@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;capitaliza;;(usted) ;;;capitalic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;capitalices;;(usted) ;no ;;capitalice;;(nosotros) //(nosotras) ;no ;;capitalicemos;;(vosotros) //(vosotras) ;no ;;capitalicéis;;(ustedes) ;no ;;capitalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;capitalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;capitalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;capitaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aceza;;(usted) ;;;acece;;(nosotr
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aceces;;(usted) ;no ;;acece;;(nosotros) //(nosotras) ;no ;;acecemos;;(vosotros) //(vosotras) ;no ;;acecéis;;(ustedes) ;no ;;acecen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;acezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;acezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;acez;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

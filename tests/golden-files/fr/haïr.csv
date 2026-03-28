@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;hais pas ;;;;;;;(nous) ;ne ;;ha�
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas haï;;;;;;;(nous) ;n';;ayons pas haï;;(vous) ;n';;ayez pas haï;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;haïr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;haïr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ha;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

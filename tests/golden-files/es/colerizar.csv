@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;coleriza;;(usted) ;;;colerice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;colerices;;(usted) ;no ;;colerice;;(nosotros) //(nosotras) ;no ;;colericemos;;(vosotros) //(vosotras) ;no ;;colericéis;;(ustedes) ;no ;;colericen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;colerizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;colerizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;coleriz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

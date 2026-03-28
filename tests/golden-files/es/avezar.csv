@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aveza;;(usted) ;;;avece;;(nosotr
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aveces;;(usted) ;no ;;avece;;(nosotros) //(nosotras) ;no ;;avecemos;;(vosotros) //(vosotras) ;no ;;avecéis;;(ustedes) ;no ;;avecen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;avezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;avezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;avez;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

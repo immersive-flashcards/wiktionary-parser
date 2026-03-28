@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;bémolise pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas bémolisé;;;;;;;(nous) ;n';;ayons pas bémolisé;;(vous) ;n';;ayez pas bémolisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bémoliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bémoliser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bémolis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

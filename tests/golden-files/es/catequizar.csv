@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;catequiza;;(usted) ;;;catequice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;catequices;;(usted) ;no ;;catequice;;(nosotros) //(nosotras) ;no ;;catequicemos;;(vosotros) //(vosotras) ;no ;;catequicéis;;(ustedes) ;no ;;catequicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;catequizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;catequizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;catequiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

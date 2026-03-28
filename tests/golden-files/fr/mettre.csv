@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;mets pas ;;;;;;;(nous) ;ne ;;met
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas mis;;;;;;;(nous) ;n';;ayons pas mis;;(vous) ;n';;ayez pas mis;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;mettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;mettre;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;mett;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

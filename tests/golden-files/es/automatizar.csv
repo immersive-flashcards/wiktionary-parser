@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;automatiza;;(usted) ;;;automatic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;automatices;;(usted) ;no ;;automatice;;(nosotros) //(nosotras) ;no ;;automaticemos;;(vosotros) //(vosotras) ;no ;;automaticéis;;(ustedes) ;no ;;automaticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;automatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;automatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;automatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

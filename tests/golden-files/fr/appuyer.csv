@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;appuie pas ;;;;;;;(nous) ;n';;app
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas appuyé;;;;;;;(nous) ;n';;ayons pas appuyé;;(vous) ;n';;ayez pas appuyé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;appuyer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;appuyer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;appuy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

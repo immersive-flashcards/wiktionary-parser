@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;apporte pas ;;;;;;;(nous) ;n';;ap
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas apporté;;;;;;;(nous) ;n';;ayons pas apporté;;(vous) ;n';;ayez pas apporté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;apporter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;apporter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;apport;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

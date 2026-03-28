@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abonanza;;(usted) ;;;abonance;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abonances;;(usted) ;no ;;abonance;;(nosotros) //(nosotras) ;no ;;abonancemos;;(vosotros) //(vosotras) ;no ;;abonancéis;;(ustedes) ;no ;;abonancen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abonanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abonanzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abonanz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

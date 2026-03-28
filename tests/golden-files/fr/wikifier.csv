@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;wikifie pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas wikifié;;;;;;;(nous) ;n';;ayons pas wikifié;;(vous) ;n';;ayez pas wikifié;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;wikifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;wikifier;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;wikifi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

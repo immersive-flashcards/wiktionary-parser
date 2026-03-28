@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;axiomatiza;;(usted) ;;;axiomatic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;axiomatices;;(usted) ;no ;;axiomatice;;(nosotros) //(nosotras) ;no ;;axiomaticemos;;(vosotros) //(vosotras) ;no ;;axiomaticéis;;(ustedes) ;no ;;axiomaticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;axiomatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;axiomatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;axiomatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

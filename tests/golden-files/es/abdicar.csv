@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abdica;;(usted) ;;;abdique;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abdiques;;(usted) ;no ;;abdique;;(nosotros) //(nosotras) ;no ;;abdiquemos;;(vosotros) //(vosotras) ;no ;;abdiquéis;;(ustedes) ;no ;;abdiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abdicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abdicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abdic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

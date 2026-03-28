@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;écobue pas ;;;;;;;(nous) ;n';;é
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas écobué;;;;;;;(nous) ;n';;ayons pas écobué;;(vous) ;n';;ayez pas écobué;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;écobuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;écobuer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;écobu;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

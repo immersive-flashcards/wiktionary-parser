@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;étrange pas ;;;;;;;(nous) ;n';;�
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas étrangé;;;;;;;(nous) ;n';;ayons pas étrangé;;(vous) ;n';;ayez pas étrangé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;étranger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;étranger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;étrang;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

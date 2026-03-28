@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aseptiza;;(usted) ;;;aseptice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aseptices;;(usted) ;no ;;aseptice;;(nosotros) //(nosotras) ;no ;;asepticemos;;(vosotros) //(vosotras) ;no ;;asepticéis;;(ustedes) ;no ;;asepticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aseptizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aseptizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aseptiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

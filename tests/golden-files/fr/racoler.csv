@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;racole pas ;;;;;;;(nous) ;ne ;;r
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas racolé;;;;;;;(nous) ;n';;ayons pas racolé;;(vous) ;n';;ayez pas racolé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;racoler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;racoler;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;racol;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

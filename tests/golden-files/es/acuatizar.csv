@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;acuatiza;;(usted) ;;;acuatice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;acuatices;;(usted) ;no ;;acuatice;;(nosotros) //(nosotras) ;no ;;acuaticemos;;(vosotros) //(vosotras) ;no ;;acuaticéis;;(ustedes) ;no ;;acuaticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;acuatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;acuatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;acuatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

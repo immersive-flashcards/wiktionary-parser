@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;comercializa;;(usted) ;;;comerci
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;comercialices;;(usted) ;no ;;comercialice;;(nosotros) //(nosotras) ;no ;;comercialicemos;;(vosotros) //(vosotras) ;no ;;comercialicéis;;(ustedes) ;no ;;comercialicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;comercializar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;comercializar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;comercializ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

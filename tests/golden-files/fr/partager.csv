@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;partage pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas partagé;;;;;;;(nous) ;n';;ayons pas partagé;;(vous) ;n';;ayez pas partagé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;partager;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;partager;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;partag;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

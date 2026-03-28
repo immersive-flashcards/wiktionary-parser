@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;quitte pas ;;;;;;;(nous) ;ne ;;q
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas quitté;;;;;;;(nous) ;n';;ayons pas quitté;;(vous) ;n';;ayez pas quitté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;quitter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;quitter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;quitt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

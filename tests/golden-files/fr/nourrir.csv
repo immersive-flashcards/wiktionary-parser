@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;nourris pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas nourri;;;;;;;(nous) ;n';;ayons pas nourri;;(vous) ;n';;ayez pas nourri;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;nourrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;nourrir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;nourr;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;lixivia;;(usted) ;;;lixivie;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;lixivies;;(usted) ;no ;;lixivie;;(nosotros) //(nosotras) ;no ;;lixiviemos;;(vosotros) //(vosotras) ;no ;;lixiviéis;;(ustedes) ;no ;;lixivien;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;lixiviar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;lixiviar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;lixivi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

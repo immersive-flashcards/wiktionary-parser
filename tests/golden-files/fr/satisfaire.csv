@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;satisfais pas ;;;;;;;(nous) ;ne 
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas satisfait;;;;;;;(nous) ;n';;ayons pas satisfait;;(vous) ;n';;ayez pas satisfait;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;satisfaire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;satisfaire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;satisfai;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

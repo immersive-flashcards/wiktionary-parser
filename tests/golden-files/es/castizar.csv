@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;castiza;;(usted) ;;;castice;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;castices;;(usted) ;no ;;castice;;(nosotros) //(nosotras) ;no ;;casticemos;;(vosotros) //(vosotras) ;no ;;casticéis;;(ustedes) ;no ;;casticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;castizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;castizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;castiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

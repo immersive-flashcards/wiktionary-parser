@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aplica;;(usted) ;;;aplique;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;apliques;;(usted) ;no ;;aplique;;(nosotros) //(nosotras) ;no ;;apliquemos;;(vosotros) //(vosotras) ;no ;;apliquéis;;(ustedes) ;no ;;apliquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aplicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aplicar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aplic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

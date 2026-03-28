@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;slavise pas ;;;;;;;(nous) ;ne ;;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas slavisé;;;;;;;(nous) ;n';;ayons pas slavisé;;(vous) ;n';;ayez pas slavisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;slaviser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;slaviser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;slavis;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -21,6 +21,6 @@ Conditionnel Présent;conditionnel;;ils //elles ;;;aviendraient;;;;;;;;;;;;;;;;;
 Conditionnel Passé;conditionnel;;ils //elles ;;;auraient avenu;;;;;;;;;;;;;;;;;;;;;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;avenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;avenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aven;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

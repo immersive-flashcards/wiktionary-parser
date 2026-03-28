@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;ruche pas ;;;;;;;(nous) ;ne ;;ru
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas ruché;;;;;;;(nous) ;n';;ayons pas ruché;;(vous) ;n';;ayez pas ruché;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;rucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;rucher;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ruch;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;acrianza;;(usted) ;;;acriance;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;acriances;;(usted) ;no ;;acriance;;(nosotros) //(nosotras) ;no ;;acriancemos;;(vosotros) //(vosotras) ;no ;;acriancéis;;(ustedes) ;no ;;acriancen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;acrianzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;acrianzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;acrianz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

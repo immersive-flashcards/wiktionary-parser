@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;butine pas ;;;;;;;(nous) ;ne ;;b
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas butiné;;;;;;;(nous) ;n';;ayons pas butiné;;(vous) ;n';;ayez pas butiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;butiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;butiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;butin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

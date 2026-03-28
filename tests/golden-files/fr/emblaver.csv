@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;emblave pas ;;;;;;;(nous) ;n';;em
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas emblavé;;;;;;;(nous) ;n';;ayons pas emblavé;;(vous) ;n';;ayez pas emblavé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;emblaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;emblaver;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;emblav;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

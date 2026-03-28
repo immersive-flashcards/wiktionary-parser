@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;tiens pas ;;;;;;;(nous) ;ne ;;te
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas tenu;;;;;;;(nous) ;n';;ayons pas tenu;;(vous) ;n';;ayez pas tenu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;tenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;tenir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;ten;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

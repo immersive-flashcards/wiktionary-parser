@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;avoine pas ;;;;;;;(nous) ;n';;avo
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas avoiné;;;;;;;(nous) ;n';;ayons pas avoiné;;(vous) ;n';;ayez pas avoiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;avoiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;avoiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;avoin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

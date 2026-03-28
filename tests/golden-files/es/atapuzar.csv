@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;atapuza;;(usted) ;;;atapuce;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;atapuces;;(usted) ;no ;;atapuce;;(nosotros) //(nosotras) ;no ;;atapucemos;;(vosotros) //(vosotras) ;no ;;atapucéis;;(ustedes) ;no ;;atapucen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;atapuzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;atapuzar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;atapuz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

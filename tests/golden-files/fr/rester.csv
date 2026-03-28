@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;reste pas ;;;;;;;(nous) ;ne ;;re
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas resté;;;;;;;(nous) ;ne ;;soyons pas restés;;(vous) ;ne ;;soyez pas restés;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;rester;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;rester;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;rest;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

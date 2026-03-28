@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aromatiza;;(usted) ;;;aromatice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aromatices;;(usted) ;no ;;aromatice;;(nosotros) //(nosotras) ;no ;;aromaticemos;;(vosotros) //(vosotras) ;no ;;aromaticéis;;(ustedes) ;no ;;aromaticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aromatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aromatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aromatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

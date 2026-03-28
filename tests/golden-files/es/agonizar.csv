@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;agoniza;;(usted) ;;;agonice;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;agonices;;(usted) ;no ;;agonice;;(nosotros) //(nosotras) ;no ;;agonicemos;;(vosotros) //(vosotras) ;no ;;agonicéis;;(ustedes) ;no ;;agonicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;agonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;agonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;agoniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

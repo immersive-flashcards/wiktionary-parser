@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;coca;;(usted) ;;;coque;;(nosotro
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;coques;;(usted) ;no ;;coque;;(nosotros) //(nosotras) ;no ;;coquemos;;(vosotros) //(vosotras) ;no ;;coquéis;;(ustedes) ;no ;;coquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cocar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;coc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

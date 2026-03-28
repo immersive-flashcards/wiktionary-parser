@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;aparece;;(usted) ;;;aparezca;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;aparezcas;;(usted) ;no ;;aparezca;;(nosotros) //(nosotras) ;no ;;aparezcamos;;(vosotros) //(vosotras) ;no ;;aparezcáis;;(ustedes) ;no ;;aparezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aparecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aparecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aparec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

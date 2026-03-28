@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adormece;;(usted) ;;;adormezca;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adormezcas;;(usted) ;no ;;adormezca;;(nosotros) //(nosotras) ;no ;;adormezcamos;;(vosotros) //(vosotras) ;no ;;adormezcáis;;(ustedes) ;no ;;adormezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;adormecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;adormecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;adormec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

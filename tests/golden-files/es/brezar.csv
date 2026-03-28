@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;breza;;(usted) ;;;brece;;(nosotr
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;breces;;(usted) ;no ;;brece;;(nosotros) //(nosotras) ;no ;;brecemos;;(vosotros) //(vosotras) ;no ;;brecéis;;(ustedes) ;no ;;brecen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;brezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;brezar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;brez;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

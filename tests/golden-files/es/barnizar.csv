@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;barniza;;(usted) ;;;barnice;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;barnices;;(usted) ;no ;;barnice;;(nosotros) //(nosotras) ;no ;;barnicemos;;(vosotros) //(vosotras) ;no ;;barnicéis;;(ustedes) ;no ;;barnicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;barnizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;barnizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;barniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

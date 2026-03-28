@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;climatiza;;(usted) ;;;climatice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;climatices;;(usted) ;no ;;climatice;;(nosotros) //(nosotras) ;no ;;climaticemos;;(vosotros) //(vosotras) ;no ;;climaticéis;;(ustedes) ;no ;;climaticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;climatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;climatizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;climatiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

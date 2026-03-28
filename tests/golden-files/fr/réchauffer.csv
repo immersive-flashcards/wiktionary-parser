@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;réchauffe pas ;;;;;;;(nous) ;ne
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas réchauffé;;;;;;;(nous) ;n';;ayons pas réchauffé;;(vous) ;n';;ayez pas réchauffé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;réchauffer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;réchauffer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;réchauff;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

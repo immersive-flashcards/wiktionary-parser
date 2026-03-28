@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;canaliza;;(usted) ;;;canalice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;canalices;;(usted) ;no ;;canalice;;(nosotros) //(nosotras) ;no ;;canalicemos;;(vosotros) //(vosotras) ;no ;;canalicéis;;(ustedes) ;no ;;canalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;canalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;canalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;canaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

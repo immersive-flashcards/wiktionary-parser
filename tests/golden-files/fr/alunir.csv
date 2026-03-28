@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;alunis pas ;;;;;;;(nous) ;n';;alu
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas aluni;;;;;;;(nous) ;n';;ayons pas aluni;;(vous) ;n';;ayez pas aluni;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;alunir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;alunir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;alun;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;expérimente pas ;;;;;;;(nous) ;n
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas expérimenté;;;;;;;(nous) ;n';;ayons pas expérimenté;;(vous) ;n';;ayez pas expérimenté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;expérimenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;expérimenter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;expériment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

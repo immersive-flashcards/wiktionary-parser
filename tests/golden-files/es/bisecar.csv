@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;biseca;;(usted) ;;;biseque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;biseques;;(usted) ;no ;;biseque;;(nosotros) //(nosotras) ;no ;;bisequemos;;(vosotros) //(vosotras) ;no ;;bisequéis;;(ustedes) ;no ;;bisequen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bisecar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bisecar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bisec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

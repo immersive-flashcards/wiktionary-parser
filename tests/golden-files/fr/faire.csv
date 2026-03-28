@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;fais pas ;;;;;;;(nous) ;ne ;;fai
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas fait;;;;;;;(nous) ;n';;ayons pas fait;;(vous) ;n';;ayez pas fait;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;faire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;faire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;fai;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

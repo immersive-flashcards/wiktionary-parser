@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;carroza;;(usted) ;;;carroce;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;carroces;;(usted) ;no ;;carroce;;(nosotros) //(nosotras) ;no ;;carrocemos;;(vosotros) //(vosotras) ;no ;;carrocéis;;(ustedes) ;no ;;carrocen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;carrozar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;carrozar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;carroz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

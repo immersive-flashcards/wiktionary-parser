@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;avorte pas ;;;;;;;(nous) ;n';;avo
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas avorté;;;;;;;(nous) ;n';;ayons pas avorté;;(vous) ;n';;ayez pas avorté;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;avorter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;avorter;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;avort;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

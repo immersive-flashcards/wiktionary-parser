@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;vois pas ;;;;;;;(nous) ;ne ;;voy
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas vu;;;;;;;(nous) ;n';;ayons pas vu;;(vous) ;n';;ayez pas vu;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;voir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;voir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;v;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;oir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

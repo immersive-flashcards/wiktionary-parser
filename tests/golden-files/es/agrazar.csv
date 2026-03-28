@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;agraza;;(usted) ;;;agrace;;(noso
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;agraces;;(usted) ;no ;;agrace;;(nosotros) //(nosotras) ;no ;;agracemos;;(vosotros) //(vosotras) ;no ;;agracéis;;(ustedes) ;no ;;agracen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;agrazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;agrazar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;agraz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;atomiza;;(usted) ;;;atomice;;(no
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;atomices;;(usted) ;no ;;atomice;;(nosotros) //(nosotras) ;no ;;atomicemos;;(vosotros) //(vosotras) ;no ;;atomicéis;;(ustedes) ;no ;;atomicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;atomizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;atomizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;atomiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

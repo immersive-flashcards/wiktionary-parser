@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;éclaire pas ;;;;;;;(nous) ;n';;�
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas éclairé;;;;;;;(nous) ;n';;ayons pas éclairé;;(vous) ;n';;ayez pas éclairé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;éclairer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;éclairer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;éclair;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

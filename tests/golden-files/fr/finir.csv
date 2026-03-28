@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;finis pas ;;;;;;;(nous) ;ne ;;fi
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas fini;;;;;;;(nous) ;n';;ayons pas fini;;(vous) ;n';;ayez pas fini;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;finir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;finir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;fin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

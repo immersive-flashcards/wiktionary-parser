@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;meurs pas ;;;;;;;(nous) ;ne ;;mo
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;ne ;;sois pas mort;;;;;;;(nous) ;ne ;;soyons pas morts;;(vous) ;ne ;;soyez pas morts;;;;;
 auxiliary;être;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;mourir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;mourir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;mour;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

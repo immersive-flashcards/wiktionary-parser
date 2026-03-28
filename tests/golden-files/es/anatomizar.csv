@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anatomiza;;(usted) ;;;anatomice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;anatomices;;(usted) ;no ;;anatomice;;(nosotros) //(nosotras) ;no ;;anatomicemos;;(vosotros) //(vosotras) ;no ;;anatomicéis;;(ustedes) ;no ;;anatomicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;anatomizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;anatomizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;anatomiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;procrastine pas ;;;;;;;(nous) ;n
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas procrastiné;;;;;;;(nous) ;n';;ayons pas procrastiné;;(vous) ;n';;ayez pas procrastiné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;procrastiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;procrastiner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;procrastin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

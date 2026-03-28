@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;caractérise pas ;;;;;;;(nous) ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas caractérisé;;;;;;;(nous) ;n';;ayons pas caractérisé;;(vous) ;n';;ayez pas caractérisé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;caractériser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;caractériser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;caractéris;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;emploie pas ;;;;;;;(nous) ;n';;em
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas employé;;;;;;;(nous) ;n';;ayons pas employé;;(vous) ;n';;ayez pas employé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;employer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;employer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;employ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

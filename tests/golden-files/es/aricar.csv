@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;arica;;(usted) ;;;arique;;(nosot
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;ariques;;(usted) ;no ;;arique;;(nosotros) //(nosotras) ;no ;;ariquemos;;(vosotros) //(vosotras) ;no ;;ariquéis;;(ustedes) ;no ;;ariquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;aricar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;aricar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;aric;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

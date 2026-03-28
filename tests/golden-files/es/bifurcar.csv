@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;bifurca;;(usted) ;;;bifurque;;(n
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;bifurques;;(usted) ;no ;;bifurque;;(nosotros) //(nosotras) ;no ;;bifurquemos;;(vosotros) //(vosotras) ;no ;;bifurquéis;;(ustedes) ;no ;;bifurquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;bifurcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;bifurcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;bifurc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

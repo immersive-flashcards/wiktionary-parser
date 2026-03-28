@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;clavarde pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas clavardé;;;;;;;(nous) ;n';;ayons pas clavardé;;(vous) ;n';;ayez pas clavardé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;clavarder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;clavarder;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;clavard;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

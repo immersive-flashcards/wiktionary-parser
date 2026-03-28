@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;sonne pas ;;;;;;;(nous) ;ne ;;so
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas sonné;;;;;;;(nous) ;n';;ayons pas sonné;;(vous) ;n';;ayez pas sonné;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;sonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;sonner;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;sonn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

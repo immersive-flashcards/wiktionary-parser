@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;cabaliza;;(usted) ;;;cabalice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;cabalices;;(usted) ;no ;;cabalice;;(nosotros) //(nosotras) ;no ;;cabalicemos;;(vosotros) //(vosotras) ;no ;;cabalicéis;;(ustedes) ;no ;;cabalicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;cabalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;cabalizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cabaliz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

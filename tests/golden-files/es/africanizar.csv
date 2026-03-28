@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;africaniza;;(usted) ;;;africanic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;africanices;;(usted) ;no ;;africanice;;(nosotros) //(nosotras) ;no ;;africanicemos;;(vosotros) //(vosotras) ;no ;;africanicéis;;(ustedes) ;no ;;africanicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;africanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;africanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;africaniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

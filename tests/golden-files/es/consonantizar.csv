@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;consonantiza;;(usted) ;;;consona
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;consonantices;;(usted) ;no ;;consonantice;;(nosotros) //(nosotras) ;no ;;consonanticemos;;(vosotros) //(vosotras) ;no ;;consonanticéis;;(ustedes) ;no ;;consonanticen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;consonantizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;consonantizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;consonantiz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

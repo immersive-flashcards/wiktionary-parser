@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;coloniza;;(usted) ;;;colonice;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;colonices;;(usted) ;no ;;colonice;;(nosotros) //(nosotras) ;no ;;colonicemos;;(vosotros) //(vosotras) ;no ;;colonicéis;;(ustedes) ;no ;;colonicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;colonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;colonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;coloniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 verb-group;primera conjugación;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

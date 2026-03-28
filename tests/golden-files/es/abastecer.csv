@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;abastece;;(usted) ;;;abastezca;;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;abastezcas;;(usted) ;no ;;abastezca;;(nosotros) //(nosotras) ;no ;;abastezcamos;;(vosotros) //(vosotras) ;no ;;abastezcáis;;(ustedes) ;no ;;abastezcan;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;abastecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;abastecer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;abastec;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

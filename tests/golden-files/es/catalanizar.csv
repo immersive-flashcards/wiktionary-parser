@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;catalaniza;;(usted) ;;;catalanic
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;catalanices;;(usted) ;no ;;catalanice;;(nosotros) //(nosotras) ;no ;;catalanicemos;;(vosotros) //(vosotras) ;no ;;catalanicéis;;(ustedes) ;no ;;catalanicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;catalanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;catalanizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;catalaniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

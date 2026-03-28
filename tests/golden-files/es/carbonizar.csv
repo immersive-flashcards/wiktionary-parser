@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;carboniza;;(usted) ;;;carbonice;
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;carbonices;;(usted) ;no ;;carbonice;;(nosotros) //(nosotras) ;no ;;carbonicemos;;(vosotros) //(vosotras) ;no ;;carbonicéis;;(ustedes) ;no ;;carbonicen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;carbonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;carbonizar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;carboniz;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

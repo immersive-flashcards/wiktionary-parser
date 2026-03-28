@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;échange pas ;;;;;;;(nous) ;n';;�
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas échangé;;;;;;;(nous) ;n';;ayons pas échangé;;(vous) ;n';;ayez pas échangé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;échanger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;échanger;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;échang;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

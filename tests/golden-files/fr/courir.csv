@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;cours pas ;;;;;;;(nous) ;ne ;;co
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas couru;;;;;;;(nous) ;n';;ayons pas couru;;(vous) ;n';;ayez pas couru;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;courir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;courir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;cour;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

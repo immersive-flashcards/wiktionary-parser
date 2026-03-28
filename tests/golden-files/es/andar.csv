@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;anda;;(usted) ;;;ande;;(nosotros
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;andes;;(usted) ;no ;;ande;;(nosotros) //(nosotras) ;no ;;andemos;;(vosotros) //(vosotras) ;no ;;andéis;;(ustedes) ;no ;;anden;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;andar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;andar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;and;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;intransitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

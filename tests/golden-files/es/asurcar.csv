@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;asurca;;(usted) ;;;asurque;;(nos
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;asurques;;(usted) ;no ;;asurque;;(nosotros) //(nosotras) ;no ;;asurquemos;;(vosotros) //(vosotras) ;no ;;asurquéis;;(ustedes) ;no ;;asurquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;asurcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;asurcar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;asurc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

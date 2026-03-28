@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;ne ;;détruis pas ;;;;;;;(nous) ;ne ;
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas détruit;;;;;;;(nous) ;n';;ayons pas détruit;;(vous) ;n';;ayez pas détruit;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;détruire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;détruire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;détrui;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;re;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

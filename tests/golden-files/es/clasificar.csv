@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;clasifica;;(usted) ;;;clasifique
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;clasifiques;;(usted) ;no ;;clasifique;;(nosotros) //(nosotras) ;no ;;clasifiquemos;;(vosotros) //(vosotras) ;no ;;clasifiquéis;;(ustedes) ;no ;;clasifiquen;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;clasificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;clasificar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;clasific;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

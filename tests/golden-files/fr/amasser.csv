@@ -25,6 +25,6 @@ Impératif Négatif;impératif;;;;;;;(tu) ;n';;amasse pas ;;;;;;;(nous) ;n';;ama
 Impératif Passé Négatif;impératif;;;;;;;(tu) ;n';;aie pas amassé;;;;;;;(nous) ;n';;ayons pas amassé;;(vous) ;n';;ayez pas amassé;;;;;
 auxiliary;avoir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;amasser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;amasser;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;amass;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;er;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

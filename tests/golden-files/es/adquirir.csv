@@ -22,7 +22,7 @@ Imperativo Afirmativo;imperativo;;;;;;;(tú) ;;;adquiere;;(usted) ;;;adquiera;;(
 Imperativo Negativo;imperativo;;;;;;;(tú) ;no ;;adquieras;;(usted) ;no ;;adquiera;;(nosotros) //(nosotras) ;no ;;adquiramos;;(vosotros) //(vosotras) ;no ;;adquiráis;;(ustedes) ;no ;;adquieran;;;;;
 auxiliary;haber;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 reflexive;false;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-base_infinitive;adquirir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+base-infinitive;adquirir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 stem;adquir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ending;ir;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 transitivity;transitivo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

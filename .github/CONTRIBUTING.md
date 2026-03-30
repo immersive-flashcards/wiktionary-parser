@@ -1,6 +1,6 @@
 # 🤝 Contributing
 
-Thanks for your interest in improving the work here. This repository focuses on **generating CSV conjugation data** from Kaikki/Wiktionary JSONL dumps.  
+Thanks for your interest in improving the work here. This repository focuses on **generating cleaned-up conjugation data** from Kaikki/Wiktionary JSONL dumps.  
 
 If you want to contribute to the **broader Dynamic Verb Conjugation project** directly, please visit the main repository.
 
